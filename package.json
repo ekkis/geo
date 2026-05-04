@@ -62,6 +62,7 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "micro": "^9.3.3"
+    "micro": "^9.3.3",
+    "remote-lib-proxy": "file:../../home/ekkis/.hermes/projects/remote-lib"
   }
 }
