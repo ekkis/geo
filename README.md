@@ -5,34 +5,28 @@
 [![Total Downloads](https://img.shields.io/npm/dt/country-list-js.svg)](https://www.npmjs.com/package/country-list-js)
 [![License](https://img.shields.io/github/license/i-rocky/country-list-js.svg)](https://github.com/i-rocky/country-list-js/blob/master/LICENSE)
 
-This module contains country information including 2 and 3 character ISO codes, country and capital names,
-currency information, telephone calling codes, and provinces (first-tier political subdivisions)
+This module contains country information including 2 and 3 character ISO codes, country and capital names, currency information, telephone calling codes, and provinces (first-tier political subdivisions).
 
-The functionality in this package is also available as a service, hosted on the Now platform.  This modality
-lends itself well to microservice architectures.  For more information please see the section on *Now* at
-the end of this document
+The functionality in this package is also available as a service, hosted using **remote-lib-proxy**. Deploy your own instance or use the existing one at [your-api-url.com](https://your-api-url.com).
 
 ## Install
 Add to your project from the NPM repository:
-```
+```bash
 npm install --save country-list-js
 ```
 And get an instance of the module:
 ```javascript
 // using ES6 modules
-
 import country from 'country-list-js';
-
 // using CommonJS modules
-var country = require('country-list-js'); 
+var country = require('country-list-js');
 ```
-In a web page, you can include the modulelike this:
+In a web page, you can include the module like this:
 ```html
 <script src="/path/to/country.min.js"></script>
 ```
 
 ## Basic Usage
-
 The following methods are available:
 
 ### Listing
@@ -42,17 +36,15 @@ var country_names = country.names();
 var continents = country.continents();
 var capitals = country.capitals();
 ```
-but, in general, any of a country's attributes can be retrieved using
-the `ls` method, which can also produce the above:
+but, in general, any of a country's attributes can be retrieved using the `ls` method, which can also produce the above:
 ```js
 var country_names = country.ls('name');
 var continents = country.ls('continent');
-var capitals = country.ls('capital');
+var var capitals = country.ls('capital');
 ```
 
 ### Searching
 Searches can be conducted by any of the following methods:
-
 ```javascript
 var found = country.findByIso2('BD');
 var found = country.findByIso3('BGD');
@@ -62,12 +54,7 @@ var found = country.findByCurrency('BDT');
 var found = country.findByPhoneNbr('+8804005050');
 var found = country.findByProvince('Steiermark');
 ```
-
-If the country cannot be found, the return value is  `undefined`.
-If a single value is found, it is returned as an object similar to the
-one shown below, and if multiple matches are made, an array of such
-objects is returned
-
+If the country cannot be found, the return value is `undefined`. If a single value is found, it is returned as an object similar to the one shown below, and if multiple matches are made, an array of such objects is returned
 ```javascript
 { 
     name: 'Denmark',
@@ -88,47 +75,44 @@ objects is returned
 ```
 
 ## Notes
-
-* Queries are cached so only the first time a country is searched by requires traversal
-of the internal structures and thus calls will resolve very quickly
-
+* Queries are cached so only the first time a country is searched by requires traversal of the internal structures and thus calls will resolve very quickly
 * Search queries are case insensitive
-
 * Province searches include aliases so you may search for either ***Sjælland*** or ***Zealand***
 
 ## NPM Commands
-
 The built-in test suite may be run in the traditional way
-```
+```bash
 npm test
 ```
-
 and to build the minified file for web, run:
-```
+```bash
 npm run build
 ```
 and retrieve the file from `dist/country.min.js`
 
 ## Module-as-a-service on the Now platform
+The functionality in this module is also available as a service, hosted using **remote-lib-proxy**. Deploy your own instance:
 
-The functionality in this module is also available via a REST API where any methods 
-may be called by passing parameters to the service's url.  The parameter "method" is
-used to indicate which method to call, and additional parameters should match the
-signature of the method, for example:
 ```bash
-curl "http://country-list-js.npm.now.sh/?method=findByIso2&code=DK"
+# 1. Fork this repository
+# 2. Deploy to Vercel
+npx vercel --prod
 ```
-returns a JSON object with information for Denmark.  In Javascript you may use your fevourite
-package for fetching instead:
-```js
-const fetch = require('node-fetch')
-const url = 'http://country-list-js.npm.now.sh/?method=findByIso2&code=DK'
-fetch(url).then(res => res.json())
-    .then(o => {
-        console.log(o)  // will show Denmark
-    })
+
+You can then access the API at your Vercel URL. Example usage:
+
+```bash
+# Health check
+curl https://your-app.vercel.app/health
+
+# Metadata
+curl https://your-app.vercel.app/metadata
+
+# Invoke a method
+curl -X POST https://your-app.vercel.app/invoke \
+  -H 'Content-Type: application/json' \
+  -d '{"method": "findByIso2", "args": ["US"]}'
 ```
 
 ## Licence
-
 MIT
