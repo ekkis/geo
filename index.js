@@ -158,16 +158,16 @@ function find(prop, val) {
 }
 
 var continents = require('./data/continents.json');
-var continent = require('./data/continent.json');
 var iso_alpha_3 = require('./data/iso_alpha_3.json');
-var capital = require('./data/capital.json');
-var currency = require('./data/currency.json');
-var currency_info = require('./data/currency_info.json');
+var continent = require('./data/country-continents.json');
+var capital = require('./data/country-capitals.json');
+var currency = require('./data/country-currencies.json');
+var currency_info = require('./data/currencies.json');
 var names = require('./data/names.json');
-var phone = require('./data/phone.json');
+var phone = require('./data/country-phone-codes.json');
 var regions = require('./data/regions.json');
 var provinces = require('./data/provinces.json');
-var provinces = require('./data/provinces.json');
+var neighbors = require('./data/neighbors.json');
 
 // Import neighbor data
 var neighbors = require('./data/neighbors.json');
@@ -200,7 +200,7 @@ continents = continent = iso_alpha_3
 // phone gets turned into a sorted array
 
 var phones = Object.keys(phone).map(function (k) {
-    return {code: k, nbr: phone[k].replace(/\D/g, '')}
+    return {code: k, nbr: String(phone[k]).replace(/\D/g, '')}
 })
 
 // we need to match the phone number against the longest
