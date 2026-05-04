@@ -25,7 +25,7 @@ var self = module.exports = {
     },
     findByPhoneNbr(nbr) {
         // make sure the phone number is clean
-        nbr = nbr.replace(/\D/g, '');
+        nbr = nbr.replace(/\\D/g, '');
         
         // now match prefixes against the phone number
         return phones.filter(o => o.nbr && nbr.startsWith(o.nbr))
@@ -43,6 +43,88 @@ var self = module.exports = {
     },
     capitals() {
         return this.ls('capital');
+    },
+    // New flexible find method
+    find(criteria) {
+      // If criteria is a string, treat it as a name search
+      if (typeof criteria === 'string') {
+        criteria = { name: criteria };
+      }
+      
+      // Ensure criteria is an object
+      criteria = criteria || {};
+      
+      // If only one criterion and it's 'name', use the optimized path
+      if (Object.keys(criteria).length === 1 && 'name' in criteria) {
+        return find('name', criteria.name);
+      }
+      
+      const results = [];
+      for (const [iso2, entry] of Object.entries(self.all)) {
+        let matches = true;
+        
+        // Check each criterion
+        for (const [key, value] of Object.entries(criteria)) {
+          if (!entry[key]) {
+            matches = false;
+            break;
+          }
+          
+          // If value is an array, match any of the values
+          if (Array.isArray(value)) {
+            if (!value.some(v => 
+              entry[key].toString().toLowerCase().includes(v.toString().toLowerCase())
+            )) {
+              matches = false;
+              break;
+            }
+          } else {
+            // Single value comparison (case-insensitive for strings)
+            if (typeof entry[key] === 'string' && typeof value === 'string') {
+              if (entry[key].toLowerCase() !== value.toLowerCase()) {
+                matches = false;
+                break;
+            }
+            } else if (entry[key] !== value) {
+              matches = false;
+              break;
+            }
+          }
+        }
+        
+        if (matches) {
+          results.push(x(entry));
+        }
+      }
+      
+      // Return single object or array
+      return results.length === 1 ? results[0] : results;
+    },
+
+    // Get neighboring countries with optional cardinal direction filter
+    neighbours(country, direction) {
+      // Find the country by ISO2 code or name
+      const key = country.length === 2 ? country : Object.keys(self.all).find(k => 
+        self.all[k].name.toLowerCase() === country.toLowerCase()
+      );
+      
+      if (!key) return [];
+      
+      const entry = self.all[key];
+      if (!entry.neighbors) return [];
+      
+      const neighbors = entry.neighbors;
+      
+      // If no direction specified, return all neighbors
+      if (!direction) {
+        return Object.values(neighbors).flat().map(code => x(self.all[code])).filter(Boolean);
+      }
+      
+      // Normalize direction (N, S, E, W, NE, NW, SE, SW)
+      const normalizedDir = direction.toUpperCase();
+      if (!neighbors[normalizedDir]) return [];
+      
+      return neighbors[normalizedDir].map(code => x(self.all[code])).filter(Boolean);
     }
 };
 
@@ -85,9 +167,12 @@ var names = require('./data/names.json');
 var phone = require('./data/phone.json');
 var regions = require('./data/regions.json');
 var provinces = require('./data/provinces.json');
+var provinces = require('./data/provinces.json');
+
+// Import neighbor data
+var neighbors = require('./data/neighbors.json');
 
 // compact it into a single object
-
 Object.keys(iso_alpha_3).forEach(function (k) {
     self.all[k] = {
         iso2: k,
@@ -100,7 +185,8 @@ Object.keys(iso_alpha_3).forEach(function (k) {
         currency_symbol: currency_info[currency[k]].symbol,
         currency_decimal: currency_info[currency[k]].decimal,
         dialing_code: phone[k],
-        provinces: provinces[k]
+        provinces: provinces[k],
+        neighbors: neighbors[k] || {}
     };
 });
 
