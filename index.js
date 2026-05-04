@@ -3,35 +3,6 @@
 var self = module.exports = {
     all: {},
     cache: {},
-    findByIso2: code => x(self.all[code]),
-    findByIso3: code => find('iso3', code),
-    findByName: name => find('name', name),
-    findByCapital: name => find('capital', name),
-    findByCurrency: code => find('currency', code),
-    findByProvince(name) {
-        if (!self.cache.province) self.cache.province = {};
-        if (self.cache.province[name])
-            return self.cache.province[name].map(o => x(o));
-    
-        return self.cache.province[name] = Object.keys(self.all)
-            .map(k => self.all[k])
-            .filter(o => o.provinces)
-            .filter(o => o.provinces.filter(
-                o => o.name == name || (o.alias || []).indexOf(name) > -1
-              ).length > 0
-            )
-            .map(o => x(o))
-            .unpack(undefined);
-    },
-    findByPhoneNbr(nbr) {
-        // make sure the phone number is clean
-        nbr = nbr.replace(/\\D/g, '');
-        
-        // now match prefixes against the phone number
-        return phones.filter(o => o.nbr && nbr.startsWith(o.nbr))
-            .map(o => x(self.all[o.code]))
-            .unpack(undefined);
-    },
     ls(field) {
         return Object.keys(this.all).map(k => this.all[k][field]);
     },
@@ -44,107 +15,72 @@ var self = module.exports = {
     capitals() {
         return this.ls('capital');
     },
-    // New flexible find method
     find(criteria) {
-      // If criteria is a string, treat it as a name search
-      if (typeof criteria === 'string') {
-        criteria = { name: criteria };
-      }
-      
-      // Ensure criteria is an object
-      criteria = criteria || {};
-      
-      // If only one criterion and it's 'name', use the optimized path
-      if (Object.keys(criteria).length === 1 && 'name' in criteria) {
-        return find('name', criteria.name);
-      }
-      
-      const results = [];
-      for (const [iso2, entry] of Object.entries(self.all)) {
-        let matches = true;
-        
-        // Check each criterion
-        for (const [key, value] of Object.entries(criteria)) {
-          if (!entry[key]) {
-            matches = false;
-            break;
-          }
-          
-          // If value is an array, match any of the values
-          if (Array.isArray(value)) {
-            if (!value.some(v => 
-              entry[key].toString().toLowerCase().includes(v.toString().toLowerCase())
-            )) {
-              matches = false;
-              break;
-            }
-          } else {
-            // Single value comparison (case-insensitive for strings)
-            if (typeof entry[key] === 'string' && typeof value === 'string') {
-              if (entry[key].toLowerCase() !== value.toLowerCase()) {
-                matches = false;
-                break;
-            }
-            } else if (entry[key] !== value) {
-              matches = false;
-              break;
-            }
-          }
+        if (typeof criteria === 'string') {
+            criteria = { name: criteria };
         }
-        
-        if (matches) {
-          results.push(x(entry));
+        criteria = criteria || {};
+
+        if (Object.keys(criteria).length === 1 && 'name' in criteria) {
+            return find('name', criteria.name);
         }
-      }
-      
-      // Return single object or array
-      return results.length === 1 ? results[0] : results;
+
+        const results = [];
+        for (const [iso2, entry] of Object.entries(self.all)) {
+            let matches = true;
+
+            for (const [key, value] of Object.entries(criteria)) {
+                if (!entry[key]) {
+                    matches = false;
+                    break;
+                }
+
+                if (Array.isArray(value)) {
+                    if (!value.some(v =>
+                        entry[key].toString().toLowerCase().includes(v.toString().toLowerCase())
+                    )) {
+                        matches = false;
+                        break;
+                    }
+                } else if (typeof entry[key] === 'string' && typeof value === 'string') {
+                    if (entry[key].toLowerCase() !== value.toLowerCase()) {
+                        matches = false;
+                        break;
+                    }
+                } else if (entry[key] !== value) {
+                    matches = false;
+                    break;
+                }
+            }
+
+            if (matches) results.push(entry);
+        }
+
+        return results.length === 1 ? results[0] : results;
     },
 
-    // Get neighboring countries with optional cardinal direction filter
     neighbours(country, direction) {
-      // Find the country by ISO2 code or name
-      const key = country.length === 2 ? country : Object.keys(self.all).find(k => 
-        self.all[k].name.toLowerCase() === country.toLowerCase()
-      );
-      
-      if (!key) return [];
-      
-      const entry = self.all[key];
-      if (!entry.neighbors) return [];
-      
-      const neighbors = entry.neighbors;
-      
-      // If no direction specified, return all neighbors
-      if (!direction) {
-        return Object.values(neighbors).flat().map(code => x(self.all[code])).filter(Boolean);
-      }
-      
-      // Normalize direction (N, S, E, W, NE, NW, SE, SW)
-      const normalizedDir = direction.toUpperCase();
-      if (!neighbors[normalizedDir]) return [];
-      
-      return neighbors[normalizedDir].map(code => x(self.all[code])).filter(Boolean);
+        const key = country.length === 2 ? country : Object.keys(self.all).find(k =>
+            self.all[k].name.toLowerCase() === country.toLowerCase()
+        );
+
+        if (!key) return [];
+
+        const entry = self.all[key];
+        if (!entry.neighbors) return [];
+
+        const neighbors = entry.neighbors;
+
+        if (!direction) {
+            return Object.values(neighbors).flat().map(code => self.all[code]).filter(Boolean);
+        }
+
+        const normalizedDir = direction.toUpperCase();
+        if (!neighbors[normalizedDir]) return [];
+
+        return neighbors[normalizedDir].map(code => self.all[code]).filter(Boolean);
     }
 };
-
-// transform to the old format for backward-compatibility
-
-function x(o) {
-    if (!o) return;
-    if (Array.isArray(o)) return o.map(x(o));
-
-    var ret = Object.assign({}, o);
-    ret.currency = {
-        code: ret.currency, 
-        symbol: ret.currency_symbol, 
-        decimal: ret.currency_decimal
-    };
-    ret.code = {iso2: ret.iso2, iso3: ret.iso3}
-    for (var k of 'iso2|iso3|currency_symbol|currency_decimal'.split('|'))
-        delete ret[k];
-    return ret;    
-}
 
 function find(prop, val) {
     if (!(prop in self.cache)) self.cache[prop] = {};
@@ -153,66 +89,75 @@ function find(prop, val) {
 
     return self.cache[prop][val] = Object.keys(self.all)
         .filter(k => self.all[k][prop] == val)
-        .map(k => x(self.all[k]))
+        .map(k => self.all[k])
         .unpack(undefined);
 }
 
-var continents = require('./data/continents.json');
-var iso_alpha_3 = require('./data/iso_alpha_3.json');
-var continent = require('./data/country-continents.json');
-var capital = require('./data/country-capitals.json');
-var currency = require('./data/country-currencies.json');
-var currency_info = require('./data/currencies.json');
-var names = require('./data/names.json');
-var phone = require('./data/country-phone-codes.json');
-var regions = require('./data/regions.json');
-var provinces = require('./data/provinces.json');
-var neighbors = require('./data/neighbors.json');
+function loadData() {
+    const fs = require('fs');
+    const path = require('path');
+    const dataDir = path.join(__dirname, 'data');
+    const data = {};
+    const codeQueue = [];
 
-// Import neighbor data
-var neighbors = require('./data/neighbors.json');
+    fs.readdirSync(dataDir)
+        .filter(f => f.endsWith('.json'))
+        .forEach(f => {
+            const name = f.slice(0, -5);
+            const isCode = name.endsWith('-code');
+            const base = isCode ? name.slice(0, -5) : name;
+            const content = require(path.join(dataDir, f));
+            const hyphenIdx = base.indexOf('-');
 
-// compact it into a single object
-Object.keys(iso_alpha_3).forEach(function (k) {
-    self.all[k] = {
-        iso2: k,
-        iso3: iso_alpha_3[k],
-        name: names[k],
-        continent: continents[continent[k]],
-        region: regions[k],
-        capital: capital[k],
-        currency: currency[k],
-        currency_symbol: currency_info[currency[k]].symbol,
-        currency_decimal: currency_info[currency[k]].decimal,
-        dialing_code: phone[k],
-        provinces: provinces[k],
-        neighbors: neighbors[k] || {}
-    };
-});
+            let top = null, key = base;
+            if (hyphenIdx !== -1) {
+                top = base.slice(0, hyphenIdx);
+                const rest = base.slice(hyphenIdx + 1);
+                key = rest.replace(/-(\w)/g, (_, c) => c.toUpperCase());
+            }
 
-// release memory (except for phone)
+            if (isCode) {
+                codeQueue.push({ top, key, content });
+            } else if (top) {
+                if (!data[top]) data[top] = {};
+                data[top][key] = content;
+            } else {
+                data[key] = content;
+            }
+        });
 
-continents = continent = iso_alpha_3 
-    = capital = currency = currency_info 
-    = names = regions = provinces
-    = null;
+    codeQueue.forEach(({ top, key, content }) => {
+        const lookup = data[key] || data[key + 's'];
+        const resolved = {};
+        for (const [k, code] of Object.entries(content))
+            resolved[k] = lookup ? lookup[code] ?? code : code;
+        if (top) {
+            if (!data[top]) data[top] = {};
+            data[top][key] = resolved;
+        } else {
+            data[key] = resolved;
+        }
+    });
 
-// phone gets turned into a sorted array
+    return data;
+}
 
-var phones = Object.keys(phone).map(function (k) {
-    return {code: k, nbr: String(phone[k]).replace(/\D/g, '')}
+const data = loadData();
+
+function buildCountry(code) {
+  var ret = {}
+  Object.keys(data.country).forEach(k => {
+    ret[k] = data.country[k][code]
+  })
+  return ret
+}
+Object.keys(data.country.iso3).forEach(k => {
+    self.all[k] = buildCountry(k)
 })
-
-// we need to match the phone number against the longest
-// prefix we can find.  that avoids matching against 1 (US)
-// when we should be matching against 1246 (Barbados)
-
-phones.sort((a,b) => a.nbr.length < b.nbr.length ? 1 : -1);
-phone = null;
 
 Array.prototype.unpack = function() {
     var l = this.length;
-    return l == 1 ? this[0] 
+    return l == 1 ? this[0]
         : l == 0 && arguments.length > 0
         ? undefined
         : this;

@@ -42,7 +42,7 @@
     "preversion": "npm run test",
     "version": "",
     "postversion": "git push --tags && npm publish",
-    "debug": "node --inspect node_modules/.bin/micro-dev server.js"
+    "debug": "node --inspect-brk eg"
   },
   "devDependencies": {
     "browserify": "^16.2.3",
