@@ -178,7 +178,7 @@
     "name": "Aland Islands",
     "regions": [
       "SCAN",
-      "NORD"
+      "NOR"
     ],
     "capital": "Mariehamn",
     "currency_code": "EUR",
@@ -747,7 +747,7 @@
       "SCAN",
       "NOR",
       "WEU",
-      "NORD"
+      "NOR"
     ],
     "capital": "Copenhagen",
     "currency_code": "DKK",
@@ -889,7 +889,7 @@
     "name": "Finland",
     "regions": [
       "NOR",
-      "NORD"
+      "NOR"
     ],
     "capital": "Helsinki",
     "currency_code": "EUR",
@@ -938,7 +938,7 @@
   "FO": {
     "name": "Faroe Islands",
     "regions": [
-      "NORD"
+      "NOR"
     ],
     "capital": "Torshavn",
     "currency_code": "DKK",
@@ -1067,7 +1067,7 @@
   "GL": {
     "name": "Greenland",
     "regions": [
-      "NORD"
+      "NOR"
     ],
     "capital": "Nuuk",
     "currency_code": "DKK",
@@ -1379,7 +1379,7 @@
     "regions": [
       "SCAN",
       "NOR",
-      "NORD"
+      "NOR"
     ],
     "capital": "Reykjavik",
     "currency_code": "ISK",
@@ -2137,7 +2137,7 @@
       "WEU",
       "SCAN",
       "NOR",
-      "NORD"
+      "NOR"
     ],
     "capital": "Oslo",
     "currency_code": "NOK",
@@ -2517,7 +2517,7 @@
       "WEU",
       "SCAN",
       "NOR",
-      "NORD"
+      "NOR"
     ],
     "capital": "Stockholm",
     "currency_code": "SEK",
