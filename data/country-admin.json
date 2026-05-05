@@ -102,40 +102,67 @@
   "AT": {
     "divisions": {
       "BUR": {
-        "name": "Burgenland"
+        "name": "Burgenland",
+        "regions": [
+          "Ostösterreich"
+        ]
       },
       "KÄR": {
         "name": "Kärnten",
         "alias": [
           "Karnten"
+        ],
+        "regions": [
+          "Südösterreich"
         ]
       },
       "NIE": {
         "name": "Niederösterreich",
         "alias": [
           "Niederosterreich"
+        ],
+        "regions": [
+          "Ostösterreich"
         ]
       },
       "OBE": {
         "name": "Oberösterreich",
         "alias": [
           "Oberosterreich"
+        ],
+        "regions": [
+          "Westösterreich"
         ]
       },
       "SAL": {
-        "name": "Salzburg"
+        "name": "Salzburg",
+        "regions": [
+          "Westösterreich"
+        ]
       },
       "STE": {
-        "name": "Steiermark"
+        "name": "Steiermark",
+        "regions": [
+          "Südösterreich"
+        ]
       },
       "TIR": {
-        "name": "Tirol"
+        "name": "Tirol",
+        "regions": [
+          "Westösterreich"
+        ]
       },
       "VOR": {
-        "name": "Vorarlberg"
+        "name": "Vorarlberg",
+        "regions": [
+          "Westösterreich"
+        ]
       },
       "WIE": {
-        "name": "Wien"
+        "name": "Wien",
+        "regions": [
+          "Ostösterreich"
+        ]
       }
     },
     "regions": [
@@ -582,12 +609,18 @@
   "BE": {
     "divisions": {
       "ANT": {
-        "name": "Antwerpen"
+        "name": "Antwerpen",
+        "regions": [
+          "Flanders"
+        ]
       },
       "HEN": {
         "name": "Henegouwen",
         "alias": [
           "Hainaut"
+        ],
+        "regions": [
+          "Wallonia"
         ]
       },
       "LUI": {
@@ -595,39 +628,63 @@
         "alias": [
           "Liège",
           "Liege"
+        ],
+        "regions": [
+          "Wallonia"
         ]
       },
       "LIM": {
-        "name": "Limburg"
+        "name": "Limburg",
+        "regions": [
+          "Flanders"
+        ]
       },
       "LUX": {
-        "name": "Luxemburg"
+        "name": "Luxemburg",
+        "regions": [
+          "Wallonia"
+        ]
       },
       "NAM": {
-        "name": "Namen"
+        "name": "Namen",
+        "regions": [
+          "Wallonia"
+        ]
       },
       "OOS": {
         "name": "Oost-Vlaanderen",
         "alias": [
           "Oost Vlaanderen"
+        ],
+        "regions": [
+          "Flanders"
         ]
       },
       "VLA": {
         "name": "Vlaams-Brabant",
         "alias": [
           "Vlaams Brabant"
+        ],
+        "regions": [
+          "Flanders"
         ]
       },
       "WAA": {
         "name": "Waals-Brabant",
         "alias": [
           "Waals Brabant"
+        ],
+        "regions": [
+          "Wallonia"
         ]
       },
       "WES": {
         "name": "West-Vlaanderen",
         "alias": [
           "West Vlaanderen"
+        ],
+        "regions": [
+          "Flanders"
         ]
       }
     },
@@ -1656,66 +1713,111 @@
           "Baden-Wurttemberg",
           "Baden Württemberg",
           "Baden Wurttemberg"
+        ],
+        "regions": [
+          "Süddeutschland"
         ]
       },
       "BAY": {
-        "name": "Bayern"
+        "name": "Bayern",
+        "regions": [
+          "Süddeutschland"
+        ]
       },
       "BE": {
-        "name": "Berlin"
+        "name": "Berlin",
+        "regions": [
+          "Ostdeutschland"
+        ]
       },
       "BB": {
-        "name": "Brandenburg"
+        "name": "Brandenburg",
+        "regions": [
+          "Ostdeutschland"
+        ]
       },
       "HB": {
-        "name": "Bremen"
+        "name": "Bremen",
+        "regions": [
+          "Norddeutschland"
+        ]
       },
       "HH": {
-        "name": "Hamburg"
+        "name": "Hamburg",
+        "regions": [
+          "Norddeutschland"
+        ]
       },
       "HES": {
-        "name": "Hessen"
+        "name": "Hessen",
+        "regions": [
+          "Westdeutschland"
+        ]
       },
       "MV": {
         "name": "Mecklenburg-Vorpommern",
         "alias": [
           "Mecklenburg Vorpommern"
+        ],
+        "regions": [
+          "Norddeutschland"
         ]
       },
       "NIE": {
-        "name": "Niedersachsen"
+        "name": "Niedersachsen",
+        "regions": [
+          "Norddeutschland"
+        ]
       },
       "NOR": {
         "name": "Nordrhein-Westfalen",
         "alias": [
           "Nordrhein Westfalen"
+        ],
+        "regions": [
+          "Westdeutschland"
         ]
       },
       "RHE": {
         "name": "Rheinland-Pfalz",
         "alias": [
           "Rheinland Pfalz"
+        ],
+        "regions": [
+          "Westdeutschland"
         ]
       },
       "SL": {
-        "name": "Saarland"
+        "name": "Saarland",
+        "regions": [
+          "Westdeutschland"
+        ]
       },
       "SAC": {
         "name": "Sachsen-Anhalt",
         "alias": [
           "Sachsen Anhalt"
+        ],
+        "regions": [
+          "Ostdeutschland"
         ]
       },
       "SH": {
         "name": "Schleswig-Holstein",
         "alias": [
           "Schleswig Holstein"
+        ],
+        "regions": [
+          "Norddeutschland"
         ]
       },
       "THÜ": {
         "name": "Thüringen",
         "alias": [
           "Thuringen"
+        ],
+        "regions": [
+          "Ostdeutschland"
         ]
       }
     },
@@ -1726,22 +1828,37 @@
   "DK": {
     "divisions": {
       "HOV": {
-        "name": "Hovedstaden"
+        "name": "Hovedstaden",
+        "regions": [
+          "Denmark"
+        ]
       },
       "MID": {
-        "name": "Midtjylland"
+        "name": "Midtjylland",
+        "regions": [
+          "Denmark"
+        ]
       },
       "NOR": {
-        "name": "Nordjylland"
+        "name": "Nordjylland",
+        "regions": [
+          "Denmark"
+        ]
       },
       "SJÆ": {
         "name": "Sjælland",
         "alias": [
           "Zealand"
+        ],
+        "regions": [
+          "Denmark"
         ]
       },
       "SYD": {
-        "name": "Syddanmark"
+        "name": "Syddanmark",
+        "regions": [
+          "Denmark"
+        ]
       }
     },
     "regions": [
@@ -3238,43 +3355,76 @@
   "NL": {
     "divisions": {
       "DRE": {
-        "name": "Drenthe"
+        "name": "Drenthe",
+        "regions": [
+          "Drenthe"
+        ]
       },
       "FLE": {
-        "name": "Flevoland"
+        "name": "Flevoland",
+        "regions": [
+          "Flevoland"
+        ]
       },
       "FRI": {
-        "name": "Friesland"
+        "name": "Friesland",
+        "regions": [
+          "Friesland"
+        ]
       },
       "GEL": {
-        "name": "Gelderland"
+        "name": "Gelderland",
+        "regions": [
+          "Gelderland"
+        ]
       },
       "GRO": {
-        "name": "Groningen"
+        "name": "Groningen",
+        "regions": [
+          "Groningen"
+        ]
       },
       "LIM": {
-        "name": "Limburg"
+        "name": "Limburg",
+        "regions": [
+          "Limburg"
+        ]
       },
       "NOO": {
         "name": "Noord-Holland",
         "alias": [
           "Noord Holland"
+        ],
+        "regions": [
+          "Noord-Holland"
         ]
       },
       "OVE": {
-        "name": "Overijssel"
+        "name": "Overijssel",
+        "regions": [
+          "Overijssel"
+        ]
       },
       "UTR": {
-        "name": "Utrecht"
+        "name": "Utrecht",
+        "regions": [
+          "Utrecht"
+        ]
       },
       "ZUI": {
         "name": "Zuid-Holland",
         "alias": [
           "Zuid Holland"
+        ],
+        "regions": [
+          "Zuid-Holland"
         ]
       },
       "ZEE": {
-        "name": "Zeeland"
+        "name": "Zeeland",
+        "regions": [
+          "Zeeland"
+        ]
       },
       "ARU": {
         "name": "Aruba"
@@ -4486,73 +4636,133 @@
   "GB": {
     "divisions": {
       "AVO": {
-        "name": "Avon"
+        "name": "Avon",
+        "regions": [
+          "England"
+        ]
       },
       "BED": {
-        "name": "Bedfordshire"
+        "name": "Bedfordshire",
+        "regions": [
+          "England"
+        ]
       },
       "BER": {
-        "name": "Berkshire"
+        "name": "Berkshire",
+        "regions": [
+          "England"
+        ]
       },
       "BOR": {
-        "name": "Borders"
+        "name": "Borders",
+        "regions": [
+          "Scotland"
+        ]
       },
       "BRI": {
-        "name": "Bridgend"
+        "name": "Bridgend",
+        "regions": [
+          "Wales"
+        ]
       },
       "BUC": {
         "name": "Buckinghamshire"
       },
       "CAM": {
-        "name": "Cambridgeshire"
+        "name": "Cambridgeshire",
+        "regions": [
+          "England"
+        ]
       },
       "CI": {
         "name": "Channel Islands"
       },
       "CHE": {
-        "name": "Cheshire"
+        "name": "Cheshire",
+        "regions": [
+          "England"
+        ]
       },
       "CLE": {
-        "name": "Cleveland"
+        "name": "Cleveland",
+        "regions": [
+          "England"
+        ]
       },
       "COR": {
-        "name": "Cornwall"
+        "name": "Cornwall",
+        "regions": [
+          "England"
+        ]
       },
       "CUM": {
-        "name": "Cumbria"
+        "name": "Cumbria",
+        "regions": [
+          "England"
+        ]
       },
       "DER": {
-        "name": "Derbyshire"
+        "name": "Derbyshire",
+        "regions": [
+          "England"
+        ]
       },
       "DEV": {
-        "name": "Devon"
+        "name": "Devon",
+        "regions": [
+          "England"
+        ]
       },
       "DOR": {
-        "name": "Dorset"
+        "name": "Dorset",
+        "regions": [
+          "England"
+        ]
       },
       "DUR": {
-        "name": "Durham"
+        "name": "Durham",
+        "regions": [
+          "England"
+        ]
       },
       "ER": {
         "name": "East Renfrewshire"
       },
       "ES": {
-        "name": "East Sussex"
+        "name": "East Sussex",
+        "regions": [
+          "England"
+        ]
       },
       "ESS": {
-        "name": "Essex"
+        "name": "Essex",
+        "regions": [
+          "England"
+        ]
       },
       "GLO": {
-        "name": "Gloucestershire"
+        "name": "Gloucestershire",
+        "regions": [
+          "England"
+        ]
       },
       "GM": {
-        "name": "Greater Manchester"
+        "name": "Greater Manchester",
+        "regions": [
+          "England"
+        ]
       },
       "HAM": {
-        "name": "Hampshire"
+        "name": "Hampshire",
+        "regions": [
+          "England"
+        ]
       },
       "HER": {
-        "name": "Hertfordshire"
+        "name": "Hertfordshire",
+        "regions": [
+          "England"
+        ]
       },
       "HUM": {
         "name": "Humberside"
@@ -4561,79 +4771,142 @@
         "name": "Isle of Anglesey"
       },
       "KEN": {
-        "name": "Kent"
+        "name": "Kent",
+        "regions": [
+          "England"
+        ]
       },
       "LAN": {
-        "name": "Lancashire"
+        "name": "Lancashire",
+        "regions": [
+          "England"
+        ]
       },
       "LEI": {
-        "name": "Leicestershire"
+        "name": "Leicestershire",
+        "regions": [
+          "England"
+        ]
       },
       "LIN": {
-        "name": "Lincolnshire"
+        "name": "Lincolnshire",
+        "regions": [
+          "England"
+        ]
       },
       "LON": {
         "name": "Londonderry"
       },
       "MER": {
-        "name": "Merseyside"
+        "name": "Merseyside",
+        "regions": [
+          "England"
+        ]
       },
       "MID": {
-        "name": "Midlothian"
+        "name": "Midlothian",
+        "regions": [
+          "Scotland"
+        ]
       },
       "NOR": {
-        "name": "Northumberland"
+        "name": "Northumberland",
+        "regions": [
+          "England"
+        ]
       },
       "NY": {
         "name": "North Yorkshire"
       },
       "NOT": {
-        "name": "Nottinghamshire"
+        "name": "Nottinghamshire",
+        "regions": [
+          "England"
+        ]
       },
       "OXF": {
-        "name": "Oxfordshire"
+        "name": "Oxfordshire",
+        "regions": [
+          "England"
+        ]
       },
       "RUT": {
-        "name": "Rutland"
+        "name": "Rutland",
+        "regions": [
+          "England"
+        ]
       },
       "SHR": {
-        "name": "Shropshire"
+        "name": "Shropshire",
+        "regions": [
+          "England"
+        ]
       },
       "SOM": {
-        "name": "Somerset"
+        "name": "Somerset",
+        "regions": [
+          "England"
+        ]
       },
       "SY": {
         "name": "South Yorkshire"
       },
       "STA": {
-        "name": "Staffordshire"
+        "name": "Staffordshire",
+        "regions": [
+          "England"
+        ]
       },
       "SUF": {
-        "name": "Suffolk"
+        "name": "Suffolk",
+        "regions": [
+          "England"
+        ]
       },
       "SUR": {
-        "name": "Surrey"
+        "name": "Surrey",
+        "regions": [
+          "England"
+        ]
       },
       "TA": {
         "name": "Tyne and Wear"
       },
       "WAR": {
-        "name": "Warwickshire"
+        "name": "Warwickshire",
+        "regions": [
+          "England"
+        ]
       },
       "WM": {
-        "name": "West Midlands"
+        "name": "West Midlands",
+        "regions": [
+          "England"
+        ]
       },
       "WS": {
-        "name": "West Sussex"
+        "name": "West Sussex",
+        "regions": [
+          "England"
+        ]
       },
       "WY": {
-        "name": "West Yorkshire"
+        "name": "West Yorkshire",
+        "regions": [
+          "England"
+        ]
       },
       "WIL": {
-        "name": "Wiltshire"
+        "name": "Wiltshire",
+        "regions": [
+          "England"
+        ]
       },
       "WOR": {
-        "name": "Worcestershire"
+        "name": "Worcestershire",
+        "regions": [
+          "England"
+        ]
       },
       "ANT": {
         "name": "Antrim"
@@ -4687,10 +4960,16 @@
         "name": "Falkirk"
       },
       "FIF": {
-        "name": "Fife"
+        "name": "Fife",
+        "regions": [
+          "Scotland"
+        ]
       },
       "GLA": {
-        "name": "Glasgow"
+        "name": "Glasgow",
+        "regions": [
+          "Scotland"
+        ]
       },
       "HIG": {
         "name": "Highland"
@@ -4699,7 +4978,10 @@
         "name": "Inverclyde"
       },
       "MOR": {
-        "name": "Moray"
+        "name": "Moray",
+        "regions": [
+          "Scotland"
+        ]
       },
       "NA": {
         "name": "North Ayrshire"
@@ -4708,7 +4990,10 @@
         "name": "North Lanarkshire"
       },
       "ORK": {
-        "name": "Orkney"
+        "name": "Orkney",
+        "regions": [
+          "Scotland"
+        ]
       },
       "PA": {
         "name": "Perthshire and Kinross"
@@ -4720,7 +5005,10 @@
         "name": "Roxburghshire"
       },
       "SHE": {
-        "name": "Shetland"
+        "name": "Shetland",
+        "regions": [
+          "Scotland"
+        ]
       },
       "SA": {
         "name": "South Ayrshire"
@@ -4729,13 +5017,19 @@
         "name": "South Lanarkshire"
       },
       "STI": {
-        "name": "Stirling"
+        "name": "Stirling",
+        "regions": [
+          "Scotland"
+        ]
       },
       "WD": {
         "name": "West Dunbartonshire"
       },
       "WL": {
-        "name": "West Lothian"
+        "name": "West Lothian",
+        "regions": [
+          "Scotland"
+        ]
       },
       "WI": {
         "name": "Western Isles"
@@ -8689,142 +8983,268 @@
   "IT": {
     "divisions": {
       "AGR": {
-        "name": "Agrigento"
+        "name": "Agrigento",
+        "regions": [
+          "Sicily"
+        ]
       },
       "ALE": {
-        "name": "Alessandria"
+        "name": "Alessandria",
+        "regions": [
+          "Piedmont"
+        ]
       },
       "ANC": {
-        "name": "Ancona"
+        "name": "Ancona",
+        "regions": [
+          "Marche"
+        ]
       },
       "AOS": {
-        "name": "Aosta"
+        "name": "Aosta",
+        "regions": [
+          "Aosta Valley"
+        ]
       },
       "ARE": {
-        "name": "Arezzo"
+        "name": "Arezzo",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "AP": {
         "name": "Ascoli Piceno"
       },
       "AST": {
-        "name": "Asti"
+        "name": "Asti",
+        "regions": [
+          "Piedmont"
+        ]
       },
       "AVE": {
-        "name": "Avellino"
+        "name": "Avellino",
+        "regions": [
+          "Campania"
+        ]
       },
       "BAR": {
         "name": "Barletta-Andria-Trani"
       },
       "BEL": {
-        "name": "Belluno"
+        "name": "Belluno",
+        "regions": [
+          "Veneto"
+        ]
       },
       "BEN": {
-        "name": "Benevento"
+        "name": "Benevento",
+        "regions": [
+          "Campania"
+        ]
       },
       "BER": {
-        "name": "Bergamo"
+        "name": "Bergamo",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "BIE": {
-        "name": "Biella"
+        "name": "Biella",
+        "regions": [
+          "Piedmont"
+        ]
       },
       "BOL": {
-        "name": "Bolzano"
+        "name": "Bolzano",
+        "regions": [
+          "Trentino-Alto Adige"
+        ]
       },
       "BRE": {
-        "name": "Brescia"
+        "name": "Brescia",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "BRI": {
-        "name": "Brindisi"
+        "name": "Brindisi",
+        "regions": [
+          "Apulia"
+        ]
       },
       "CAG": {
-        "name": "Cagliari"
+        "name": "Cagliari",
+        "regions": [
+          "Sardinia"
+        ]
       },
       "CAL": {
-        "name": "Caltanissetta"
+        "name": "Caltanissetta",
+        "regions": [
+          "Sicily"
+        ]
       },
       "CAM": {
-        "name": "Campobasso"
+        "name": "Campobasso",
+        "regions": [
+          "Molise"
+        ]
       },
       "CAS": {
-        "name": "Caserta"
+        "name": "Caserta",
+        "regions": [
+          "Campania"
+        ]
       },
       "CAT": {
-        "name": "Catanzaro"
+        "name": "Catanzaro",
+        "regions": [
+          "Calabria"
+        ]
       },
       "CHI": {
-        "name": "Chieti"
+        "name": "Chieti",
+        "regions": [
+          "Abruzzo"
+        ]
       },
       "COM": {
-        "name": "Como"
+        "name": "Como",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "COS": {
-        "name": "Cosenza"
+        "name": "Cosenza",
+        "regions": [
+          "Calabria"
+        ]
       },
       "CRE": {
-        "name": "Cremona"
+        "name": "Cremona",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "CRO": {
-        "name": "Crotone"
+        "name": "Crotone",
+        "regions": [
+          "Calabria"
+        ]
       },
       "CUN": {
-        "name": "Cuneo"
+        "name": "Cuneo",
+        "regions": [
+          "Piedmont"
+        ]
       },
       "ENN": {
-        "name": "Enna"
+        "name": "Enna",
+        "regions": [
+          "Sicily"
+        ]
       },
       "FER": {
-        "name": "Ferrara"
+        "name": "Ferrara",
+        "regions": [
+          "Emilia-Romagna"
+        ]
       },
       "FIR": {
-        "name": "Firenze"
+        "name": "Firenze",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "FOG": {
-        "name": "Foggia"
+        "name": "Foggia",
+        "regions": [
+          "Apulia"
+        ]
       },
       "FOR": {
         "name": "Forlì-Cesena"
       },
       "FRO": {
-        "name": "Frosinone"
+        "name": "Frosinone",
+        "regions": [
+          "Lazio"
+        ]
       },
       "GEN": {
         "name": "Genova"
       },
       "GOR": {
-        "name": "Gorizia"
+        "name": "Gorizia",
+        "regions": [
+          "Friuli-Venezia Giulia"
+        ]
       },
       "GRO": {
-        "name": "Grosseto"
+        "name": "Grosseto",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "IMP": {
-        "name": "Imperia"
+        "name": "Imperia",
+        "regions": [
+          "Liguria"
+        ]
       },
       "ISE": {
-        "name": "Isernia"
+        "name": "Isernia",
+        "regions": [
+          "Molise"
+        ]
       },
       "L'A": {
-        "name": "L'Aquila"
+        "name": "L'Aquila",
+        "regions": [
+          "Abruzzo"
+        ]
       },
       "LS": {
-        "name": "La Spezia"
+        "name": "La Spezia",
+        "regions": [
+          "Liguria"
+        ]
       },
       "LAT": {
-        "name": "Latina"
+        "name": "Latina",
+        "regions": [
+          "Lazio"
+        ]
       },
       "LEC": {
-        "name": "Lecco"
+        "name": "Lecco",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "LIV": {
-        "name": "Livorno"
+        "name": "Livorno",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "LOD": {
-        "name": "Lodi"
+        "name": "Lodi",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "LUC": {
-        "name": "Lucca"
+        "name": "Lucca",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "MAC": {
-        "name": "Macerata"
+        "name": "Macerata",
+        "regions": [
+          "Marche"
+        ]
       },
       "MAN": {
         "name": "Mantova"
@@ -8833,16 +9253,25 @@
         "name": "Massa-Carrara"
       },
       "MAT": {
-        "name": "Matera"
+        "name": "Matera",
+        "regions": [
+          "Basilicata"
+        ]
       },
       "MES": {
-        "name": "Messina"
+        "name": "Messina",
+        "regions": [
+          "Sicily"
+        ]
       },
       "MIL": {
         "name": "Milano"
       },
       "MOD": {
-        "name": "Modena"
+        "name": "Modena",
+        "regions": [
+          "Emilia-Romagna"
+        ]
       },
       "ME": {
         "name": "Monza e della Brianza"
@@ -8851,61 +9280,106 @@
         "name": "Napoli"
       },
       "NOV": {
-        "name": "Novara"
+        "name": "Novara",
+        "regions": [
+          "Piedmont"
+        ]
       },
       "NUO": {
         "name": "Nuoro"
       },
       "ORI": {
-        "name": "Oristano"
+        "name": "Oristano",
+        "regions": [
+          "Sardinia"
+        ]
       },
       "PAD": {
         "name": "Padova"
       },
       "PAL": {
-        "name": "Palermo"
+        "name": "Palermo",
+        "regions": [
+          "Sicily"
+        ]
       },
       "PAR": {
-        "name": "Parma"
+        "name": "Parma",
+        "regions": [
+          "Emilia-Romagna"
+        ]
       },
       "PAV": {
-        "name": "Pavia"
+        "name": "Pavia",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "PER": {
-        "name": "Perugia"
+        "name": "Perugia",
+        "regions": [
+          "Umbria"
+        ]
       },
       "PE": {
         "name": "Pesaro e Urbino"
       },
       "PES": {
-        "name": "Pescara"
+        "name": "Pescara",
+        "regions": [
+          "Abruzzo"
+        ]
       },
       "PIA": {
-        "name": "Piacenza"
+        "name": "Piacenza",
+        "regions": [
+          "Emilia-Romagna"
+        ]
       },
       "PIS": {
-        "name": "Pistoia"
+        "name": "Pistoia",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "POR": {
-        "name": "Pordenone"
+        "name": "Pordenone",
+        "regions": [
+          "Friuli-Venezia Giulia"
+        ]
       },
       "POT": {
-        "name": "Potenza"
+        "name": "Potenza",
+        "regions": [
+          "Basilicata"
+        ]
       },
       "PRA": {
         "name": "Prato"
       },
       "RAG": {
-        "name": "Ragusa"
+        "name": "Ragusa",
+        "regions": [
+          "Sicily"
+        ]
       },
       "RAV": {
-        "name": "Ravenna"
+        "name": "Ravenna",
+        "regions": [
+          "Emilia-Romagna"
+        ]
       },
       "RC": {
-        "name": "Reggio Calabria"
+        "name": "Reggio Calabria",
+        "regions": [
+          "Calabria"
+        ]
       },
       "RE": {
-        "name": "Reggio Emilia"
+        "name": "Reggio Emilia",
+        "regions": [
+          "Emilia-Romagna"
+        ]
       },
       "RIE": {
         "name": "Rieti"
@@ -8920,61 +9394,109 @@
         "name": "Rovigo"
       },
       "SAL": {
-        "name": "Salerno"
+        "name": "Salerno",
+        "regions": [
+          "Campania"
+        ]
       },
       "SAS": {
-        "name": "Sassari"
+        "name": "Sassari",
+        "regions": [
+          "Sardinia"
+        ]
       },
       "SAV": {
-        "name": "Savona"
+        "name": "Savona",
+        "regions": [
+          "Liguria"
+        ]
       },
       "SIE": {
-        "name": "Siena"
+        "name": "Siena",
+        "regions": [
+          "Tuscany"
+        ]
       },
       "SIR": {
-        "name": "Siracusa"
+        "name": "Siracusa",
+        "regions": [
+          "Sicily"
+        ]
       },
       "SON": {
-        "name": "Sondrio"
+        "name": "Sondrio",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "TAR": {
-        "name": "Taranto"
+        "name": "Taranto",
+        "regions": [
+          "Apulia"
+        ]
       },
       "TER": {
-        "name": "Terni"
+        "name": "Terni",
+        "regions": [
+          "Umbria"
+        ]
       },
       "TOR": {
-        "name": "Torino"
+        "name": "Torino",
+        "regions": [
+          "Piedmont"
+        ]
       },
       "TRA": {
-        "name": "Trapani"
+        "name": "Trapani",
+        "regions": [
+          "Sicily"
+        ]
       },
       "TRE": {
-        "name": "Treviso"
+        "name": "Treviso",
+        "regions": [
+          "Veneto"
+        ]
       },
       "TRI": {
         "name": "Trieste"
       },
       "UDI": {
-        "name": "Udine"
+        "name": "Udine",
+        "regions": [
+          "Friuli-Venezia Giulia"
+        ]
       },
       "VAR": {
-        "name": "Varese"
+        "name": "Varese",
+        "regions": [
+          "Lombardy"
+        ]
       },
       "VEN": {
         "name": "Venezia"
       },
       "VER": {
-        "name": "Verona"
+        "name": "Verona",
+        "regions": [
+          "Veneto"
+        ]
       },
       "VV": {
         "name": "Vibo Valentia"
       },
       "VIC": {
-        "name": "Vicenza"
+        "name": "Vicenza",
+        "regions": [
+          "Veneto"
+        ]
       },
       "VIT": {
-        "name": "Viterbo"
+        "name": "Viterbo",
+        "regions": [
+          "Lazio"
+        ]
       }
     },
     "regions": [
