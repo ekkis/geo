@@ -74,7 +74,8 @@
   "AM": {
     "name": "Armenia",
     "regions": [
-      "WAS"
+      "WAS",
+      "CAUC"
     ],
     "capital": "Yerevan",
     "currency_code": "AMD",
@@ -87,7 +88,8 @@
   "AO": {
     "name": "Angola",
     "regions": [
-      "CF"
+      "CF",
+      "SSA"
     ],
     "capital": "Luanda",
     "currency_code": "AOA",
@@ -113,7 +115,8 @@
   "AR": {
     "name": "Argentina",
     "regions": [
-      "SA"
+      "SA",
+      "LATAM"
     ],
     "capital": "Buenos Aires",
     "currency_code": "ARS",
@@ -174,7 +177,8 @@
   "AX": {
     "name": "Aland Islands",
     "regions": [
-      "SCAN"
+      "SCAN",
+      "NORD"
     ],
     "capital": "Mariehamn",
     "currency_code": "EUR",
@@ -187,7 +191,8 @@
   "AZ": {
     "name": "Azerbaijan",
     "regions": [
-      "WAS"
+      "WAS",
+      "CAUC"
     ],
     "capital": "Baku",
     "currency_code": "AZN",
@@ -248,7 +253,8 @@
   "BF": {
     "name": "Burkina Faso",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Ouagadougou",
     "currency_code": "XOF",
@@ -287,7 +293,9 @@
   },
   "BI": {
     "name": "Burundi",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Bujumbura",
     "currency_code": "BIF",
     "iso3": "BDI",
@@ -299,7 +307,8 @@
   "BJ": {
     "name": "Benin",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Porto-Novo",
     "currency_code": "XOF",
@@ -348,7 +357,8 @@
   "BO": {
     "name": "Bolivia",
     "regions": [
-      "SA"
+      "SA",
+      "LATAM"
     ],
     "capital": "Sucre",
     "currency_code": "BOB",
@@ -372,7 +382,8 @@
   "BR": {
     "name": "Brazil",
     "regions": [
-      "SA"
+      "SA",
+      "LATAM"
     ],
     "capital": "Brasilia",
     "currency_code": "BRL",
@@ -418,7 +429,8 @@
   "BW": {
     "name": "Botswana",
     "regions": [
-      "SAF"
+      "SAF",
+      "SSA"
     ],
     "capital": "Gaborone",
     "currency_code": "BWP",
@@ -443,7 +455,9 @@
   },
   "BZ": {
     "name": "Belize",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Belmopan",
     "currency_code": "BZD",
     "iso3": "BLZ",
@@ -478,7 +492,9 @@
   },
   "CD": {
     "name": "Democratic Republic of the Congo",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Kinshasa",
     "currency_code": "CDF",
     "iso3": "COD",
@@ -491,7 +507,8 @@
   "CF": {
     "name": "Central African Republic",
     "regions": [
-      "CF"
+      "CF",
+      "SSA"
     ],
     "capital": "Bangui",
     "currency_code": "XAF",
@@ -503,7 +520,9 @@
   },
   "CG": {
     "name": "Republic of the Congo",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Brazzaville",
     "currency_code": "XAF",
     "iso3": "COG",
@@ -527,7 +546,9 @@
   },
   "CI": {
     "name": "Ivory Coast",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Yamoussoukro",
     "currency_code": "XOF",
     "iso3": "CIV",
@@ -550,7 +571,8 @@
   "CL": {
     "name": "Chile",
     "regions": [
-      "SA"
+      "SA",
+      "LATAM"
     ],
     "capital": "Santiago",
     "currency_code": "CLP",
@@ -563,7 +585,8 @@
   "CM": {
     "name": "Cameroon",
     "regions": [
-      "CF"
+      "CF",
+      "SSA"
     ],
     "capital": "Yaounde",
     "currency_code": "XAF",
@@ -589,7 +612,8 @@
   "CO": {
     "name": "Colombia",
     "regions": [
-      "SA"
+      "SA",
+      "LATAM"
     ],
     "capital": "Bogota",
     "currency_code": "COP",
@@ -601,7 +625,9 @@
   },
   "CR": {
     "name": "Costa Rica",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "San Jose",
     "currency_code": "CRC",
     "iso3": "CRI",
@@ -613,7 +639,8 @@
   "CU": {
     "name": "Cuba",
     "regions": [
-      "CAR"
+      "CAR",
+      "LATAM"
     ],
     "capital": "Havana",
     "currency_code": "CUP",
@@ -663,7 +690,8 @@
   "CY": {
     "name": "Cyprus",
     "regions": [
-      "WAS"
+      "WAS",
+      "LEV"
     ],
     "capital": "Nicosia",
     "currency_code": "EUR",
@@ -702,7 +730,9 @@
   },
   "DJ": {
     "name": "Djibouti",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Djibouti",
     "currency_code": "DJF",
     "iso3": "DJI",
@@ -716,7 +746,8 @@
     "regions": [
       "SCAN",
       "NOR",
-      "WEU"
+      "WEU",
+      "NORD"
     ],
     "capital": "Copenhagen",
     "currency_code": "DKK",
@@ -739,7 +770,9 @@
   },
   "DO": {
     "name": "Dominican Republic",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Santo Domingo",
     "currency_code": "DOP",
     "iso3": "DOM",
@@ -751,7 +784,8 @@
   "DZ": {
     "name": "Algeria",
     "regions": [
-      "NAFR"
+      "NAFR",
+      "MAGH"
     ],
     "capital": "Algiers",
     "currency_code": "DZD",
@@ -763,7 +797,9 @@
   },
   "EC": {
     "name": "Ecuador",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Quito",
     "currency_code": "USD",
     "iso3": "ECU",
@@ -798,7 +834,9 @@
   },
   "EH": {
     "name": "Western Sahara",
-    "regions": [],
+    "regions": [
+      "MAGH"
+    ],
     "capital": "El-Aaiun",
     "currency_code": "MAD",
     "iso3": "ESH",
@@ -809,7 +847,9 @@
   },
   "ER": {
     "name": "Eritrea",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Asmara",
     "currency_code": "ERN",
     "iso3": "ERI",
@@ -834,7 +874,8 @@
   "ET": {
     "name": "Ethiopia",
     "regions": [
-      "EAF"
+      "EAF",
+      "SSA"
     ],
     "capital": "Addis Ababa",
     "currency_code": "ETB",
@@ -847,7 +888,8 @@
   "FI": {
     "name": "Finland",
     "regions": [
-      "NOR"
+      "NOR",
+      "NORD"
     ],
     "capital": "Helsinki",
     "currency_code": "EUR",
@@ -859,7 +901,9 @@
   },
   "FJ": {
     "name": "Fiji",
-    "regions": [],
+    "regions": [
+      "MEL"
+    ],
     "capital": "Suva",
     "currency_code": "FJD",
     "iso3": "FJI",
@@ -893,7 +937,9 @@
   },
   "FO": {
     "name": "Faroe Islands",
-    "regions": [],
+    "regions": [
+      "NORD"
+    ],
     "capital": "Torshavn",
     "currency_code": "DKK",
     "iso3": "FRO",
@@ -918,7 +964,9 @@
   },
   "GA": {
     "name": "Gabon",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Libreville",
     "currency_code": "XAF",
     "iso3": "GAB",
@@ -955,7 +1003,8 @@
   "GE": {
     "name": "Georgia",
     "regions": [
-      "WAS"
+      "WAS",
+      "CAUC"
     ],
     "capital": "Tbilisi",
     "currency_code": "GEL",
@@ -967,7 +1016,9 @@
   },
   "GF": {
     "name": "French Guiana",
-    "regions": [],
+    "regions": [
+      "GUI"
+    ],
     "capital": "Cayenne",
     "currency_code": "EUR",
     "iso3": "GUF",
@@ -989,7 +1040,9 @@
   },
   "GH": {
     "name": "Ghana",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Accra",
     "currency_code": "GHS",
     "iso3": "GHA",
@@ -1013,7 +1066,9 @@
   },
   "GL": {
     "name": "Greenland",
-    "regions": [],
+    "regions": [
+      "NORD"
+    ],
     "capital": "Nuuk",
     "currency_code": "DKK",
     "iso3": "GRL",
@@ -1024,7 +1079,9 @@
   },
   "GM": {
     "name": "Gambia",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Banjul",
     "currency_code": "GMD",
     "iso3": "GMB",
@@ -1035,7 +1092,9 @@
   },
   "GN": {
     "name": "Guinea",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Conakry",
     "currency_code": "GNF",
     "iso3": "GIN",
@@ -1046,7 +1105,9 @@
   },
   "GP": {
     "name": "Guadeloupe",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Basse-Terre",
     "currency_code": "EUR",
     "iso3": "GLP",
@@ -1057,7 +1118,9 @@
   },
   "GQ": {
     "name": "Equatorial Guinea",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Malabo",
     "currency_code": "XAF",
     "iso3": "GNQ",
@@ -1092,7 +1155,9 @@
   },
   "GT": {
     "name": "Guatemala",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Guatemala City",
     "currency_code": "GTQ",
     "iso3": "GTM",
@@ -1114,7 +1179,9 @@
   },
   "GW": {
     "name": "Guinea-Bissau",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Bissau",
     "currency_code": "XOF",
     "iso3": "GNB",
@@ -1125,7 +1192,9 @@
   },
   "GY": {
     "name": "Guyana",
-    "regions": [],
+    "regions": [
+      "GUI"
+    ],
     "capital": "Georgetown",
     "currency_code": "GYD",
     "iso3": "GUY",
@@ -1158,7 +1227,9 @@
   },
   "HN": {
     "name": "Honduras",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Tegucigalpa",
     "currency_code": "HNL",
     "iso3": "HND",
@@ -1182,7 +1253,9 @@
   },
   "HT": {
     "name": "Haiti",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Port-au-Prince",
     "currency_code": "HTG",
     "iso3": "HTI",
@@ -1233,7 +1306,9 @@
   },
   "IL": {
     "name": "Israel",
-    "regions": [],
+    "regions": [
+      "LEV"
+    ],
     "capital": "Jerusalem",
     "currency_code": "ILS",
     "iso3": "ISR",
@@ -1303,7 +1378,8 @@
     "name": "Iceland",
     "regions": [
       "SCAN",
-      "NOR"
+      "NOR",
+      "NORD"
     ],
     "capital": "Reykjavik",
     "currency_code": "ISK",
@@ -1352,7 +1428,8 @@
     "name": "Jordan",
     "regions": [
       "WAS",
-      "ME"
+      "ME",
+      "LEV"
     ],
     "capital": "Amman",
     "currency_code": "JOD",
@@ -1377,7 +1454,9 @@
   },
   "KE": {
     "name": "Kenya",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Nairobi",
     "currency_code": "KES",
     "iso3": "KEN",
@@ -1402,7 +1481,8 @@
   "KH": {
     "name": "Cambodia",
     "regions": [
-      "SEA"
+      "SEA",
+      "INDO"
     ],
     "capital": "Phnom Penh",
     "currency_code": "KHR",
@@ -1505,7 +1585,8 @@
   "KZ": {
     "name": "Kazakhstan",
     "regions": [
-      "CAS"
+      "CAS",
+      "EURS"
     ],
     "capital": "Astana",
     "currency_code": "KZT",
@@ -1518,7 +1599,8 @@
   "LA": {
     "name": "Laos",
     "regions": [
-      "SEA"
+      "SEA",
+      "INDO"
     ],
     "capital": "Vientiane",
     "currency_code": "LAK",
@@ -1531,7 +1613,8 @@
   "LB": {
     "name": "Lebanon",
     "regions": [
-      "WAS"
+      "WAS",
+      "LEV"
     ],
     "capital": "Beirut",
     "currency_code": "LBP",
@@ -1579,7 +1662,8 @@
   "LR": {
     "name": "Liberia",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Monrovia",
     "currency_code": "LRD",
@@ -1592,7 +1676,8 @@
   "LS": {
     "name": "Lesotho",
     "regions": [
-      "SAF"
+      "SAF",
+      "SSA"
     ],
     "capital": "Maseru",
     "currency_code": "LSL",
@@ -1644,7 +1729,8 @@
   "LY": {
     "name": "Libya",
     "regions": [
-      "NAFR"
+      "NAFR",
+      "MAGH"
     ],
     "capital": "Tripolis",
     "currency_code": "LYD",
@@ -1656,7 +1742,9 @@
   },
   "MA": {
     "name": "Morocco",
-    "regions": [],
+    "regions": [
+      "MAGH"
+    ],
     "capital": "Rabat",
     "currency_code": "MAD",
     "iso3": "MAR",
@@ -1706,7 +1794,9 @@
   },
   "MF": {
     "name": "Saint Martin",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Marigot",
     "currency_code": "EUR",
     "iso3": "MAF",
@@ -1718,7 +1808,8 @@
   "MG": {
     "name": "Madagascar",
     "regions": [
-      "EAFR"
+      "EAFR",
+      "SSA"
     ],
     "capital": "Antananarivo",
     "currency_code": "MGA",
@@ -1755,7 +1846,8 @@
   "ML": {
     "name": "Mali",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Bamako",
     "currency_code": "XOF",
@@ -1768,7 +1860,8 @@
   "MM": {
     "name": "Myanmar",
     "regions": [
-      "SEA"
+      "SEA",
+      "INDO"
     ],
     "capital": "Nay Pyi Taw",
     "currency_code": "MMK",
@@ -1816,7 +1909,9 @@
   },
   "MQ": {
     "name": "Martinique",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Fort-de-France",
     "currency_code": "EUR",
     "iso3": "MTQ",
@@ -1828,7 +1923,8 @@
   "MR": {
     "name": "Mauritania",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Nouakchott",
     "currency_code": "MRO",
@@ -1891,7 +1987,8 @@
   "MW": {
     "name": "Malawi",
     "regions": [
-      "EAFR"
+      "EAFR",
+      "SSA"
     ],
     "capital": "Lilongwe",
     "currency_code": "MWK",
@@ -1904,7 +2001,8 @@
   "MX": {
     "name": "Mexico",
     "regions": [
-      "NA"
+      "NA",
+      "LATAM"
     ],
     "capital": "Mexico City",
     "currency_code": "MXN",
@@ -1929,7 +2027,9 @@
   },
   "MZ": {
     "name": "Mozambique",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Maputo",
     "currency_code": "MZN",
     "iso3": "MOZ",
@@ -1940,7 +2040,9 @@
   },
   "NA": {
     "name": "Namibia",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Windhoek",
     "currency_code": "NAD",
     "iso3": "NAM",
@@ -1951,7 +2053,9 @@
   },
   "NC": {
     "name": "New Caledonia",
-    "regions": [],
+    "regions": [
+      "MEL"
+    ],
     "capital": "Noumea",
     "currency_code": "XPF",
     "iso3": "NCL",
@@ -1963,7 +2067,8 @@
   "NE": {
     "name": "Niger",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Niamey",
     "currency_code": "XOF",
@@ -1987,7 +2092,8 @@
   "NG": {
     "name": "Nigeria",
     "regions": [
-      "WAF"
+      "WAF",
+      "SSA"
     ],
     "capital": "Abuja",
     "currency_code": "NGN",
@@ -2000,7 +2106,8 @@
   "NI": {
     "name": "Nicaragua",
     "regions": [
-      "CAM"
+      "CAM",
+      "LATAM"
     ],
     "capital": "Managua",
     "currency_code": "NIO",
@@ -2029,7 +2136,8 @@
     "regions": [
       "WEU",
       "SCAN",
-      "NOR"
+      "NOR",
+      "NORD"
     ],
     "capital": "Oslo",
     "currency_code": "NOK",
@@ -2102,7 +2210,9 @@
   },
   "PA": {
     "name": "Panama",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Panama City",
     "currency_code": "PAB",
     "iso3": "PAN",
@@ -2115,7 +2225,8 @@
   "PE": {
     "name": "Peru",
     "regions": [
-      "SA"
+      "SA",
+      "LATAM"
     ],
     "capital": "Lima",
     "currency_code": "PEN",
@@ -2138,7 +2249,9 @@
   },
   "PG": {
     "name": "Papua New Guinea",
-    "regions": [],
+    "regions": [
+      "MEL"
+    ],
     "capital": "Port Moresby",
     "currency_code": "PGK",
     "iso3": "PNG",
@@ -2188,7 +2301,9 @@
   },
   "PM": {
     "name": "Saint Pierre and Miquelon",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Saint-Pierre",
     "currency_code": "EUR",
     "iso3": "SPM",
@@ -2221,7 +2336,9 @@
   },
   "PS": {
     "name": "Palestinian Territory",
-    "regions": [],
+    "regions": [
+      "LEV"
+    ],
     "capital": "East Jerusalem",
     "currency_code": "ILS",
     "iso3": "PSE",
@@ -2256,7 +2373,9 @@
   },
   "PY": {
     "name": "Paraguay",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Asuncion",
     "currency_code": "PYG",
     "iso3": "PRY",
@@ -2320,7 +2439,8 @@
   "RU": {
     "name": "Russia",
     "regions": [
-      "EE"
+      "EE",
+      "EURS"
     ],
     "capital": "Moscow",
     "currency_code": "RUB",
@@ -2333,7 +2453,9 @@
   },
   "RW": {
     "name": "Rwanda",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Kigali",
     "currency_code": "RWF",
     "iso3": "RWA",
@@ -2356,7 +2478,9 @@
   },
   "SB": {
     "name": "Solomon Islands",
-    "regions": [],
+    "regions": [
+      "MEL"
+    ],
     "capital": "Honiara",
     "currency_code": "SBD",
     "iso3": "SLB",
@@ -2392,7 +2516,8 @@
     "regions": [
       "WEU",
       "SCAN",
-      "NOR"
+      "NOR",
+      "NORD"
     ],
     "capital": "Stockholm",
     "currency_code": "SEK",
@@ -2465,7 +2590,9 @@
   },
   "SL": {
     "name": "Sierra Leone",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Freetown",
     "currency_code": "SLL",
     "iso3": "SLE",
@@ -2489,7 +2616,9 @@
   },
   "SN": {
     "name": "Senegal",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Dakar",
     "currency_code": "XOF",
     "iso3": "SEN",
@@ -2500,7 +2629,9 @@
   },
   "SO": {
     "name": "Somalia",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Mogadishu",
     "currency_code": "SOS",
     "iso3": "SOM",
@@ -2511,7 +2642,9 @@
   },
   "SR": {
     "name": "Suriname",
-    "regions": [],
+    "regions": [
+      "GUI"
+    ],
     "capital": "Paramaribo",
     "currency_code": "SRD",
     "iso3": "SUR",
@@ -2522,7 +2655,9 @@
   },
   "SS": {
     "name": "South Sudan",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Juba",
     "currency_code": "SSP",
     "iso3": "SSD",
@@ -2533,7 +2668,9 @@
   },
   "ST": {
     "name": "Sao Tome and Principe",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Sao Tome",
     "currency_code": "STD",
     "iso3": "STP",
@@ -2544,7 +2681,9 @@
   },
   "SV": {
     "name": "El Salvador",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "San Salvador",
     "currency_code": "USD",
     "iso3": "SLV",
@@ -2566,7 +2705,9 @@
   },
   "SY": {
     "name": "Syria",
-    "regions": [],
+    "regions": [
+      "LEV"
+    ],
     "capital": "Damascus",
     "currency_code": "SYP",
     "iso3": "SYR",
@@ -2577,7 +2718,9 @@
   },
   "SZ": {
     "name": "Swaziland",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Mbabane",
     "currency_code": "SZL",
     "iso3": "SWZ",
@@ -2600,7 +2743,8 @@
   "TD": {
     "name": "Chad",
     "regions": [
-      "CF"
+      "CF",
+      "SSA"
     ],
     "capital": "N'Djamena",
     "currency_code": "XAF",
@@ -2635,7 +2779,8 @@
   "TH": {
     "name": "Thailand",
     "regions": [
-      "SEA"
+      "SEA",
+      "INDO"
     ],
     "capital": "Bangkok",
     "currency_code": "THB",
@@ -2698,7 +2843,9 @@
   },
   "TN": {
     "name": "Tunisia",
-    "regions": [],
+    "regions": [
+      "MAGH"
+    ],
     "capital": "Tunis",
     "currency_code": "TND",
     "iso3": "TUN",
@@ -2722,7 +2869,8 @@
     "name": "Turkey",
     "regions": [
       "WAS",
-      "ME"
+      "ME",
+      "EURS"
     ],
     "capital": "Ankara",
     "currency_code": "TRY",
@@ -2734,7 +2882,9 @@
   },
   "TT": {
     "name": "Trinidad and Tobago",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Port of Spain",
     "currency_code": "TTD",
     "iso3": "TTO",
@@ -2767,7 +2917,9 @@
   },
   "TZ": {
     "name": "Tanzania",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Dodoma",
     "currency_code": "TZS",
     "iso3": "TZA",
@@ -2791,7 +2943,9 @@
   },
   "UG": {
     "name": "Uganda",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Kampala",
     "currency_code": "UGX",
     "iso3": "UGA",
@@ -2830,7 +2984,9 @@
   },
   "UY": {
     "name": "Uruguay",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Montevideo",
     "currency_code": "UYU",
     "iso3": "URY",
@@ -2878,7 +3034,9 @@
   },
   "VE": {
     "name": "Venezuela",
-    "regions": [],
+    "regions": [
+      "LATAM"
+    ],
     "capital": "Caracas",
     "currency_code": "VEF",
     "iso3": "VEN",
@@ -2912,7 +3070,8 @@
   "VN": {
     "name": "Vietnam",
     "regions": [
-      "SEA"
+      "SEA",
+      "INDO"
     ],
     "capital": "Hanoi",
     "currency_code": "VND",
@@ -2925,7 +3084,9 @@
   },
   "VU": {
     "name": "Vanuatu",
-    "regions": [],
+    "regions": [
+      "MEL"
+    ],
     "capital": "Port Vila",
     "currency_code": "VUV",
     "iso3": "VUT",
@@ -3006,7 +3167,9 @@
   },
   "ZM": {
     "name": "Zambia",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Lusaka",
     "currency_code": "ZMK",
     "iso3": "ZMB",
@@ -3017,7 +3180,9 @@
   },
   "ZW": {
     "name": "Zimbabwe",
-    "regions": [],
+    "regions": [
+      "SSA"
+    ],
     "capital": "Harare",
     "currency_code": "ZWL",
     "iso3": "ZWE",

@@ -28,5 +28,15 @@
   "WAS": "Western Asia",
   "WEU": "Western Europe",
   "ANT": "Antarctica",
-  "AMS": "American Samoa"
+  "AMS": "American Samoa",
+  "NORD": "The Nordics",
+  "MAGH": "The Maghreb",
+  "SSA": "Sub-Saharan Africa",
+  "EURS": "Eurasia",
+  "LATAM": "Latin America",
+  "MEL": "Melanesia",
+  "LEV": "The Levant",
+  "CAUC": "The Caucasus",
+  "INDO": "Indochina",
+  "GUI": "The Guianas"
 }
