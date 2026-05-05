@@ -1,6 +1,9 @@
 {
   "AD": {
-    "name": "Andorra",
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra"
+    },
     "regions": [
       "SE"
     ],
@@ -24,7 +27,10 @@
     "gdp_year": 2023
   },
   "AE": {
-    "name": "United Arab Emirates",
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates"
+    },
     "regions": [],
     "capital": "Abu Dhabi",
     "currency_code": "AED",
@@ -46,7 +52,10 @@
     "gdp_year": 2023
   },
   "AF": {
-    "name": "Afghanistan",
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan"
+    },
     "regions": [
       "SAS"
     ],
@@ -70,7 +79,10 @@
     "gdp_year": 2022
   },
   "AG": {
-    "name": "Antigua and Barbuda",
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda"
+    },
     "regions": [],
     "capital": "St. John's",
     "currency_code": "XCD",
@@ -92,7 +104,10 @@
     "gdp_year": 2023
   },
   "AI": {
-    "name": "Anguilla",
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla"
+    },
     "regions": [],
     "capital": "The Valley",
     "currency_code": "XCD",
@@ -112,7 +127,10 @@
     "demonym": "Anguillian"
   },
   "AL": {
-    "name": "Albania",
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania"
+    },
     "regions": [
       "BKS"
     ],
@@ -136,7 +154,10 @@
     "gdp_year": 2023
   },
   "AM": {
-    "name": "Armenia",
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia"
+    },
     "regions": [
       "WAS",
       "CAUC"
@@ -161,7 +182,10 @@
     "gdp_year": 2023
   },
   "AO": {
-    "name": "Angola",
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola"
+    },
     "regions": [
       "CF",
       "SSA"
@@ -186,7 +210,10 @@
     "gdp_year": 2023
   },
   "AQ": {
-    "name": "Antarctica",
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica"
+    },
     "regions": [],
     "capital": "",
     "currency_code": "XCD",
@@ -215,7 +242,10 @@
     "demonym": "Antarctican"
   },
   "AR": {
-    "name": "Argentina",
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic"
+    },
     "regions": [
       "SA",
       "LATAM"
@@ -240,7 +270,10 @@
     "gdp_year": 2023
   },
   "AS": {
-    "name": "American Samoa",
+    "name": {
+      "common": "American Samoa",
+      "official": "American Samoa"
+    },
     "regions": [],
     "capital": "Pago Pago",
     "currency_code": "USD",
@@ -262,7 +295,10 @@
     "gdp_year": 2022
   },
   "AT": {
-    "name": "Austria",
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria"
+    },
     "regions": [
       "WEU"
     ],
@@ -286,7 +322,10 @@
     "gdp_year": 2023
   },
   "AU": {
-    "name": "Australia",
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia"
+    },
     "regions": [
       "OC"
     ],
@@ -317,7 +356,10 @@
     "gdp_year": 2023
   },
   "AW": {
-    "name": "Aruba",
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba"
+    },
     "regions": [],
     "capital": "Oranjestad",
     "currency_code": "AWG",
@@ -339,7 +381,10 @@
     "gdp_year": 2022
   },
   "AX": {
-    "name": "Aland Islands",
+    "name": {
+      "common": "\u00c5land Islands",
+      "official": "\u00c5land Islands"
+    },
     "regions": [
       "SCAN",
       "NOR"
@@ -362,7 +407,10 @@
     "demonym": "\u00c5landish"
   },
   "AZ": {
-    "name": "Azerbaijan",
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan"
+    },
     "regions": [
       "WAS",
       "CAUC"
@@ -387,7 +435,10 @@
     "gdp_year": 2023
   },
   "BA": {
-    "name": "Bosnia and Herzegovina",
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina"
+    },
     "regions": [
       "BKS"
     ],
@@ -409,7 +460,10 @@
     "gdp_year": 2023
   },
   "BB": {
-    "name": "Barbados",
+    "name": {
+      "common": "Barbados",
+      "official": "Barbados"
+    },
     "regions": [],
     "capital": "Bridgetown",
     "currency_code": "BBD",
@@ -431,7 +485,10 @@
     "gdp_year": 2023
   },
   "BD": {
-    "name": "Bangladesh",
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh"
+    },
     "regions": [
       "SAS"
     ],
@@ -455,7 +512,10 @@
     "gdp_year": 2023
   },
   "BE": {
-    "name": "Belgium",
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium"
+    },
     "regions": [
       "WEU"
     ],
@@ -479,7 +539,10 @@
     "gdp_year": 2023
   },
   "BF": {
-    "name": "Burkina Faso",
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -505,7 +568,10 @@
     "gdp_year": 2023
   },
   "BG": {
-    "name": "Bulgaria",
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria"
+    },
     "regions": [
       "CEU"
     ],
@@ -529,7 +595,10 @@
     "gdp_year": 2023
   },
   "BH": {
-    "name": "Bahrain",
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain"
+    },
     "regions": [
       "WAS"
     ],
@@ -553,7 +622,10 @@
     "gdp_year": 2023
   },
   "BI": {
-    "name": "Burundi",
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi"
+    },
     "regions": [
       "SSA"
     ],
@@ -577,7 +649,10 @@
     "gdp_year": 2023
   },
   "BJ": {
-    "name": "Benin",
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -603,7 +678,10 @@
     "gdp_year": 2023
   },
   "BL": {
-    "name": "Saint Barthelemy",
+    "name": {
+      "common": "Saint Barth\u00e9lemy",
+      "official": "Collectivity of Saint Barth\u00e9lemy"
+    },
     "regions": [],
     "capital": "Gustavia",
     "currency_code": "EUR",
@@ -623,7 +701,10 @@
     "demonym": "Saint Barth\u00e9lemy Islander"
   },
   "BM": {
-    "name": "Bermuda",
+    "name": {
+      "common": "Bermuda",
+      "official": "Bermuda"
+    },
     "regions": [],
     "capital": "Hamilton",
     "currency_code": "BMD",
@@ -645,7 +726,10 @@
     "gdp_year": 2022
   },
   "BN": {
-    "name": "Brunei",
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace"
+    },
     "regions": [
       "SEA"
     ],
@@ -669,7 +753,10 @@
     "gdp_year": 2023
   },
   "BO": {
-    "name": "Bolivia",
+    "name": {
+      "common": "Bolivia",
+      "official": "Plurinational State of Bolivia"
+    },
     "regions": [
       "SA",
       "LATAM"
@@ -694,7 +781,10 @@
     "gdp_year": 2023
   },
   "BQ": {
-    "name": "Bonaire, Saint Eustatius and Saba ",
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba"
+    },
     "regions": [],
     "capital": "",
     "currency_code": "USD",
@@ -714,7 +804,10 @@
     "demonym": "Dutch"
   },
   "BR": {
-    "name": "Brazil",
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
     "regions": [
       "SA",
       "LATAM"
@@ -742,7 +835,10 @@
     "gdp_year": 2023
   },
   "BS": {
-    "name": "Bahamas",
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas"
+    },
     "regions": [],
     "capital": "Nassau",
     "currency_code": "BSD",
@@ -764,7 +860,10 @@
     "gdp_year": 2023
   },
   "BT": {
-    "name": "Bhutan",
+    "name": {
+      "common": "Bhutan",
+      "official": "Kingdom of Bhutan"
+    },
     "regions": [],
     "capital": "Thimphu",
     "currency_code": "BTN",
@@ -786,7 +885,10 @@
     "gdp_year": 2022
   },
   "BV": {
-    "name": "Bouvet Island",
+    "name": {
+      "common": "Bouvet Island",
+      "official": "Bouvet Island"
+    },
     "regions": [],
     "capital": "",
     "currency_code": "NOK",
@@ -806,7 +908,10 @@
     "demonym": "Bouvet Islandese"
   },
   "BW": {
-    "name": "Botswana",
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana"
+    },
     "regions": [
       "SAF",
       "SSA"
@@ -831,7 +936,10 @@
     "gdp_year": 2023
   },
   "BY": {
-    "name": "Belarus",
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus"
+    },
     "regions": [
       "EE"
     ],
@@ -855,7 +963,10 @@
     "gdp_year": 2023
   },
   "BZ": {
-    "name": "Belize",
+    "name": {
+      "common": "Belize",
+      "official": "Belize"
+    },
     "regions": [
       "LATAM"
     ],
@@ -879,7 +990,10 @@
     "gdp_year": 2023
   },
   "CA": {
-    "name": "Canada",
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
     "regions": [
       "NA"
     ],
@@ -908,7 +1022,10 @@
     "gdp_year": 2023
   },
   "CC": {
-    "name": "Cocos Islands",
+    "name": {
+      "common": "Cocos (Keeling) Islands",
+      "official": "Territory of the Cocos (Keeling) Islands"
+    },
     "regions": [],
     "capital": "West Island",
     "currency_code": "AUD",
@@ -928,7 +1045,10 @@
     "demonym": "Cocos Islander"
   },
   "CD": {
-    "name": "Democratic Republic of the Congo",
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo"
+    },
     "regions": [
       "SSA"
     ],
@@ -954,7 +1074,10 @@
     "gdp_year": 2023
   },
   "CF": {
-    "name": "Central African Republic",
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic"
+    },
     "regions": [
       "CF",
       "SSA"
@@ -979,7 +1102,10 @@
     "gdp_year": 2023
   },
   "CG": {
-    "name": "Republic of the Congo",
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo"
+    },
     "regions": [
       "SSA"
     ],
@@ -1003,7 +1129,10 @@
     "gdp_year": 2023
   },
   "CH": {
-    "name": "Switzerland",
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation"
+    },
     "regions": [
       "WEU"
     ],
@@ -1027,7 +1156,10 @@
     "gdp_year": 2023
   },
   "CI": {
-    "name": "Ivory Coast",
+    "name": {
+      "common": "Ivory Coast",
+      "official": "Republic of C\u00f4te d'Ivoire"
+    },
     "regions": [
       "SSA"
     ],
@@ -1051,7 +1183,10 @@
     "gdp_year": 2023
   },
   "CK": {
-    "name": "Cook Islands",
+    "name": {
+      "common": "Cook Islands",
+      "official": "Cook Islands"
+    },
     "regions": [],
     "capital": "Avarua",
     "currency_code": "NZD",
@@ -1071,7 +1206,10 @@
     "demonym": "Cook Islander"
   },
   "CL": {
-    "name": "Chile",
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile"
+    },
     "regions": [
       "SA",
       "LATAM"
@@ -1097,7 +1235,10 @@
     "gdp_year": 2023
   },
   "CM": {
-    "name": "Cameroon",
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon"
+    },
     "regions": [
       "CF",
       "SSA"
@@ -1122,7 +1263,10 @@
     "gdp_year": 2023
   },
   "CN": {
-    "name": "China",
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China"
+    },
     "regions": [
       "EAS"
     ],
@@ -1146,7 +1290,10 @@
     "gdp_year": 2023
   },
   "CO": {
-    "name": "Colombia",
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia"
+    },
     "regions": [
       "SA",
       "LATAM"
@@ -1171,7 +1318,10 @@
     "gdp_year": 2023
   },
   "CR": {
-    "name": "Costa Rica",
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica"
+    },
     "regions": [
       "LATAM"
     ],
@@ -1195,7 +1345,10 @@
     "gdp_year": 2023
   },
   "CU": {
-    "name": "Cuba",
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba"
+    },
     "regions": [
       "CAR",
       "LATAM"
@@ -1220,7 +1373,10 @@
     "gdp_year": 2020
   },
   "CV": {
-    "name": "Cape Verde",
+    "name": {
+      "common": "Cape Verde",
+      "official": "Republic of Cabo Verde"
+    },
     "regions": [
       "WAF"
     ],
@@ -1244,7 +1400,10 @@
     "gdp_year": 2023
   },
   "CW": {
-    "name": "Curacao",
+    "name": {
+      "common": "Cura\u00e7ao",
+      "official": "Country of Cura\u00e7ao"
+    },
     "regions": [],
     "capital": " Willemstad",
     "currency_code": "ANG",
@@ -1268,7 +1427,10 @@
     "gdp_year": 2022
   },
   "CX": {
-    "name": "Christmas Island",
+    "name": {
+      "common": "Christmas Island",
+      "official": "Territory of Christmas Island"
+    },
     "regions": [],
     "capital": "Flying Fish Cove",
     "currency_code": "AUD",
@@ -1288,7 +1450,10 @@
     "demonym": "Christmas Islander"
   },
   "CY": {
-    "name": "Cyprus",
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus"
+    },
     "regions": [
       "WAS",
       "LEV"
@@ -1313,7 +1478,10 @@
     "gdp_year": 2023
   },
   "CZ": {
-    "name": "Czech Republic",
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic"
+    },
     "regions": [
       "CEU"
     ],
@@ -1337,7 +1505,10 @@
     "gdp_year": 2023
   },
   "DE": {
-    "name": "Germany",
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
     "regions": [
       "WEU"
     ],
@@ -1362,7 +1533,10 @@
     "gdp_year": 2023
   },
   "DJ": {
-    "name": "Djibouti",
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti"
+    },
     "regions": [
       "SSA"
     ],
@@ -1386,7 +1560,10 @@
     "gdp_year": 2023
   },
   "DK": {
-    "name": "Denmark",
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark"
+    },
     "regions": [
       "SCAN",
       "NOR",
@@ -1417,7 +1594,10 @@
     "gdp_year": 2023
   },
   "DM": {
-    "name": "Dominica",
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica"
+    },
     "regions": [],
     "capital": "Roseau",
     "currency_code": "XCD",
@@ -1439,7 +1619,10 @@
     "gdp_year": 2023
   },
   "DO": {
-    "name": "Dominican Republic",
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic"
+    },
     "regions": [
       "LATAM"
     ],
@@ -1463,7 +1646,10 @@
     "gdp_year": 2023
   },
   "DZ": {
-    "name": "Algeria",
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria"
+    },
     "regions": [
       "NAFR",
       "MAGH"
@@ -1488,7 +1674,10 @@
     "gdp_year": 2023
   },
   "EC": {
-    "name": "Ecuador",
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador"
+    },
     "regions": [
       "LATAM"
     ],
@@ -1513,7 +1702,10 @@
     "gdp_year": 2023
   },
   "EE": {
-    "name": "Estonia",
+    "name": {
+      "common": "Estonia",
+      "official": "Republic of Estonia"
+    },
     "regions": [
       "BALT"
     ],
@@ -1537,7 +1729,10 @@
     "gdp_year": 2023
   },
   "EG": {
-    "name": "Egypt",
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt"
+    },
     "regions": [],
     "capital": "Cairo",
     "currency_code": "EGP",
@@ -1559,7 +1754,10 @@
     "gdp_year": 2023
   },
   "EH": {
-    "name": "Western Sahara",
+    "name": {
+      "common": "Western Sahara",
+      "official": "Sahrawi Arab Democratic Republic"
+    },
     "regions": [
       "MAGH"
     ],
@@ -1581,7 +1779,10 @@
     "demonym": "Sahrawi"
   },
   "ER": {
-    "name": "Eritrea",
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea"
+    },
     "regions": [
       "SSA"
     ],
@@ -1605,7 +1806,10 @@
     "gdp_year": 2011
   },
   "ES": {
-    "name": "Spain",
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain"
+    },
     "regions": [
       "SE"
     ],
@@ -1630,7 +1834,10 @@
     "gdp_year": 2023
   },
   "ET": {
-    "name": "Ethiopia",
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia"
+    },
     "regions": [
       "EAF",
       "SSA"
@@ -1655,7 +1862,10 @@
     "gdp_year": 2023
   },
   "FI": {
-    "name": "Finland",
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland"
+    },
     "regions": [
       "NOR",
       "NOR"
@@ -1680,7 +1890,10 @@
     "gdp_year": 2023
   },
   "FJ": {
-    "name": "Fiji",
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji"
+    },
     "regions": [
       "MEL"
     ],
@@ -1704,7 +1917,10 @@
     "gdp_year": 2023
   },
   "FK": {
-    "name": "Falkland Islands",
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands"
+    },
     "regions": [],
     "capital": "Stanley",
     "currency_code": "FKP",
@@ -1724,7 +1940,10 @@
     "demonym": "Falkland Islander"
   },
   "FM": {
-    "name": "Micronesia",
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia"
+    },
     "regions": [],
     "capital": "Palikir",
     "currency_code": "USD",
@@ -1748,7 +1967,10 @@
     "gdp_year": 2023
   },
   "FO": {
-    "name": "Faroe Islands",
+    "name": {
+      "common": "Faroe Islands",
+      "official": "Faroe Islands"
+    },
     "regions": [
       "NOR"
     ],
@@ -1772,7 +1994,10 @@
     "gdp_year": 2022
   },
   "FR": {
-    "name": "France",
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
     "regions": [
       "WEU"
     ],
@@ -1810,7 +2035,10 @@
     "gdp_year": 2023
   },
   "GA": {
-    "name": "Gabon",
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic"
+    },
     "regions": [
       "SSA"
     ],
@@ -1834,7 +2062,10 @@
     "gdp_year": 2023
   },
   "GB": {
-    "name": "United Kingdom",
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland"
+    },
     "regions": [
       "WEU"
     ],
@@ -1867,7 +2098,10 @@
     "gdp_year": 2023
   },
   "GD": {
-    "name": "Grenada",
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada"
+    },
     "regions": [],
     "capital": "St. George's",
     "currency_code": "XCD",
@@ -1889,7 +2123,10 @@
     "gdp_year": 2023
   },
   "GE": {
-    "name": "Georgia",
+    "name": {
+      "common": "Georgia",
+      "official": "Georgia"
+    },
     "regions": [
       "WAS",
       "CAUC"
@@ -1914,7 +2151,10 @@
     "gdp_year": 2023
   },
   "GF": {
-    "name": "French Guiana",
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana"
+    },
     "regions": [
       "GUI"
     ],
@@ -1936,7 +2176,10 @@
     "demonym": "Guianan"
   },
   "GG": {
-    "name": "Guernsey",
+    "name": {
+      "common": "Guernsey",
+      "official": "Bailiwick of Guernsey"
+    },
     "regions": [],
     "capital": "St Peter Port",
     "currency_code": "GBP",
@@ -1956,7 +2199,10 @@
     "demonym": "Channel Islander"
   },
   "GH": {
-    "name": "Ghana",
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana"
+    },
     "regions": [
       "SSA"
     ],
@@ -1980,7 +2226,10 @@
     "gdp_year": 2023
   },
   "GI": {
-    "name": "Gibraltar",
+    "name": {
+      "common": "Gibraltar",
+      "official": "Gibraltar"
+    },
     "regions": [
       "SE"
     ],
@@ -2002,7 +2251,10 @@
     "demonym": "Gibraltar"
   },
   "GL": {
-    "name": "Greenland",
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland"
+    },
     "regions": [
       "NOR"
     ],
@@ -2029,7 +2281,10 @@
     "gdp_year": 2021
   },
   "GM": {
-    "name": "Gambia",
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia"
+    },
     "regions": [
       "SSA"
     ],
@@ -2053,7 +2308,10 @@
     "gdp_year": 2023
   },
   "GN": {
-    "name": "Guinea",
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea"
+    },
     "regions": [
       "SSA"
     ],
@@ -2077,7 +2335,10 @@
     "gdp_year": 2023
   },
   "GP": {
-    "name": "Guadeloupe",
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe"
+    },
     "regions": [
       "LATAM"
     ],
@@ -2099,7 +2360,10 @@
     "demonym": "Guadeloupian"
   },
   "GQ": {
-    "name": "Equatorial Guinea",
+    "name": {
+      "common": "Equatorial Guinea",
+      "official": "Republic of Equatorial Guinea"
+    },
     "regions": [
       "SSA"
     ],
@@ -2123,7 +2387,10 @@
     "gdp_year": 2023
   },
   "GR": {
-    "name": "Greece",
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic"
+    },
     "regions": [
       "SE"
     ],
@@ -2147,7 +2414,10 @@
     "gdp_year": 2023
   },
   "GS": {
-    "name": "South Georgia and the South Sandwich Islands",
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands"
+    },
     "regions": [],
     "capital": "Grytviken",
     "currency_code": "GBP",
@@ -2167,7 +2437,10 @@
     "demonym": "South Georgian South Sandwich Islander"
   },
   "GT": {
-    "name": "Guatemala",
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala"
+    },
     "regions": [
       "LATAM"
     ],
@@ -2191,7 +2464,10 @@
     "gdp_year": 2023
   },
   "GU": {
-    "name": "Guam",
+    "name": {
+      "common": "Guam",
+      "official": "Guam"
+    },
     "regions": [],
     "capital": "Hagatna",
     "currency_code": "USD",
@@ -2213,7 +2489,10 @@
     "gdp_year": 2022
   },
   "GW": {
-    "name": "Guinea-Bissau",
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau"
+    },
     "regions": [
       "SSA"
     ],
@@ -2237,7 +2516,10 @@
     "gdp_year": 2023
   },
   "GY": {
-    "name": "Guyana",
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana"
+    },
     "regions": [
       "GUI"
     ],
@@ -2261,7 +2543,10 @@
     "gdp_year": 2023
   },
   "HK": {
-    "name": "Hong Kong",
+    "name": {
+      "common": "Hong Kong",
+      "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+    },
     "regions": [],
     "capital": "Hong Kong",
     "currency_code": "HKD",
@@ -2283,7 +2568,10 @@
     "gdp_year": 2023
   },
   "HM": {
-    "name": "Heard Island and McDonald Islands",
+    "name": {
+      "common": "Heard Island and McDonald Islands",
+      "official": "Heard Island and McDonald Islands"
+    },
     "regions": [],
     "capital": "",
     "currency_code": "AUD",
@@ -2303,7 +2591,10 @@
     "demonym": "Heard and McDonald Islander"
   },
   "HN": {
-    "name": "Honduras",
+    "name": {
+      "common": "Honduras",
+      "official": "Republic of Honduras"
+    },
     "regions": [
       "LATAM"
     ],
@@ -2327,7 +2618,10 @@
     "gdp_year": 2023
   },
   "HR": {
-    "name": "Croatia",
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia"
+    },
     "regions": [
       "BKS"
     ],
@@ -2351,7 +2645,10 @@
     "gdp_year": 2023
   },
   "HT": {
-    "name": "Haiti",
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti"
+    },
     "regions": [
       "LATAM"
     ],
@@ -2375,7 +2672,10 @@
     "gdp_year": 2023
   },
   "HU": {
-    "name": "Hungary",
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary"
+    },
     "regions": [
       "CEU"
     ],
@@ -2399,7 +2699,10 @@
     "gdp_year": 2023
   },
   "ID": {
-    "name": "Indonesia",
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia"
+    },
     "regions": [
       "SEA",
       "OC"
@@ -2426,7 +2729,10 @@
     "gdp_year": 2023
   },
   "IE": {
-    "name": "Ireland",
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland"
+    },
     "regions": [
       "WEU"
     ],
@@ -2450,7 +2756,10 @@
     "gdp_year": 2023
   },
   "IL": {
-    "name": "Israel",
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel"
+    },
     "regions": [
       "LEV"
     ],
@@ -2474,7 +2783,10 @@
     "gdp_year": 2023
   },
   "IM": {
-    "name": "Isle of Man",
+    "name": {
+      "common": "Isle of Man",
+      "official": "Isle of Man"
+    },
     "regions": [],
     "capital": "Douglas, Isle of Man",
     "currency_code": "GBP",
@@ -2496,7 +2808,10 @@
     "gdp_year": 2021
   },
   "IN": {
-    "name": "India",
+    "name": {
+      "common": "India",
+      "official": "Republic of India"
+    },
     "regions": [
       "SAS"
     ],
@@ -2520,7 +2835,10 @@
     "gdp_year": 2023
   },
   "IO": {
-    "name": "British Indian Ocean Territory",
+    "name": {
+      "common": "British Indian Ocean Territory",
+      "official": "British Indian Ocean Territory"
+    },
     "regions": [],
     "capital": "Diego Garcia",
     "currency_code": "USD",
@@ -2540,7 +2858,10 @@
     "demonym": "Indian"
   },
   "IQ": {
-    "name": "Iraq",
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq"
+    },
     "regions": [],
     "capital": "Baghdad",
     "currency_code": "IQD",
@@ -2562,7 +2883,10 @@
     "gdp_year": 2023
   },
   "IR": {
-    "name": "Iran",
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran"
+    },
     "regions": [],
     "capital": "Tehran",
     "currency_code": "IRR",
@@ -2584,7 +2908,10 @@
     "gdp_year": 2023
   },
   "IS": {
-    "name": "Iceland",
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland"
+    },
     "regions": [
       "SCAN",
       "NOR",
@@ -2610,7 +2937,10 @@
     "gdp_year": 2023
   },
   "IT": {
-    "name": "Italy",
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
     "regions": [
       "SE"
     ],
@@ -2634,7 +2964,10 @@
     "gdp_year": 2023
   },
   "JE": {
-    "name": "Jersey",
+    "name": {
+      "common": "Jersey",
+      "official": "Bailiwick of Jersey"
+    },
     "regions": [],
     "capital": "Saint Helier",
     "currency_code": "GBP",
@@ -2654,7 +2987,10 @@
     "demonym": "Channel Islander"
   },
   "JM": {
-    "name": "Jamaica",
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica"
+    },
     "regions": [],
     "capital": "Kingston",
     "currency_code": "JMD",
@@ -2676,7 +3012,10 @@
     "gdp_year": 2023
   },
   "JO": {
-    "name": "Jordan",
+    "name": {
+      "common": "Jordan",
+      "official": "Hashemite Kingdom of Jordan"
+    },
     "regions": [
       "WAS",
       "ME",
@@ -2702,7 +3041,10 @@
     "gdp_year": 2023
   },
   "JP": {
-    "name": "Japan",
+    "name": {
+      "common": "Japan",
+      "official": "Japan"
+    },
     "regions": [
       "EAS"
     ],
@@ -2726,7 +3068,10 @@
     "gdp_year": 2023
   },
   "KE": {
-    "name": "Kenya",
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
     "regions": [
       "SSA"
     ],
@@ -2750,7 +3095,10 @@
     "gdp_year": 2023
   },
   "KG": {
-    "name": "Kyrgyzstan",
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic"
+    },
     "regions": [
       "CAS"
     ],
@@ -2774,7 +3122,10 @@
     "gdp_year": 2023
   },
   "KH": {
-    "name": "Cambodia",
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia"
+    },
     "regions": [
       "SEA",
       "INDO"
@@ -2799,7 +3150,10 @@
     "gdp_year": 2023
   },
   "KI": {
-    "name": "Kiribati",
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati"
+    },
     "regions": [
       "MIC"
     ],
@@ -2826,7 +3180,10 @@
     "gdp_year": 2023
   },
   "KM": {
-    "name": "Comoros",
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros"
+    },
     "regions": [
       "EAFR"
     ],
@@ -2850,7 +3207,10 @@
     "gdp_year": 2023
   },
   "KN": {
-    "name": "Saint Kitts and Nevis",
+    "name": {
+      "common": "Saint Kitts and Nevis",
+      "official": "Federation of Saint Christopher and Nevis"
+    },
     "regions": [
       "CAR"
     ],
@@ -2874,7 +3234,10 @@
     "gdp_year": 2023
   },
   "KP": {
-    "name": "North Korea",
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea"
+    },
     "regions": [
       "EASS"
     ],
@@ -2896,7 +3259,10 @@
     "demonym": "North Korean"
   },
   "KR": {
-    "name": "South Korea",
+    "name": {
+      "common": "South Korea",
+      "official": "Republic of Korea"
+    },
     "regions": [
       "EASS"
     ],
@@ -2920,7 +3286,10 @@
     "gdp_year": 2023
   },
   "KW": {
-    "name": "Kuwait",
+    "name": {
+      "common": "Kuwait",
+      "official": "State of Kuwait"
+    },
     "regions": [],
     "capital": "Kuwait City",
     "currency_code": "KWD",
@@ -2942,7 +3311,10 @@
     "gdp_year": 2023
   },
   "KY": {
-    "name": "Cayman Islands",
+    "name": {
+      "common": "Cayman Islands",
+      "official": "Cayman Islands"
+    },
     "regions": [
       "CAR"
     ],
@@ -2966,7 +3338,10 @@
     "gdp_year": 2022
   },
   "KZ": {
-    "name": "Kazakhstan",
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan"
+    },
     "regions": [
       "CAS",
       "EURS"
@@ -2992,7 +3367,10 @@
     "gdp_year": 2023
   },
   "LA": {
-    "name": "Laos",
+    "name": {
+      "common": "Laos",
+      "official": "Lao People's Democratic Republic"
+    },
     "regions": [
       "SEA",
       "INDO"
@@ -3017,7 +3395,10 @@
     "gdp_year": 2023
   },
   "LB": {
-    "name": "Lebanon",
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic"
+    },
     "regions": [
       "WAS",
       "LEV"
@@ -3042,7 +3423,10 @@
     "gdp_year": 2022
   },
   "LC": {
-    "name": "Saint Lucia",
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia"
+    },
     "regions": [],
     "capital": "Castries",
     "currency_code": "XCD",
@@ -3064,7 +3448,10 @@
     "gdp_year": 2023
   },
   "LI": {
-    "name": "Liechtenstein",
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein"
+    },
     "regions": [
       "WEU"
     ],
@@ -3088,7 +3475,10 @@
     "gdp_year": 2022
   },
   "LK": {
-    "name": "Sri Lanka",
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka"
+    },
     "regions": [],
     "capital": "Colombo",
     "currency_code": "LKR",
@@ -3110,7 +3500,10 @@
     "gdp_year": 2023
   },
   "LR": {
-    "name": "Liberia",
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -3135,7 +3528,10 @@
     "gdp_year": 2023
   },
   "LS": {
-    "name": "Lesotho",
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho"
+    },
     "regions": [
       "SAF",
       "SSA"
@@ -3160,7 +3556,10 @@
     "gdp_year": 2023
   },
   "LT": {
-    "name": "Lithuania",
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania"
+    },
     "regions": [
       "BALT"
     ],
@@ -3184,7 +3583,10 @@
     "gdp_year": 2023
   },
   "LU": {
-    "name": "Luxembourg",
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg"
+    },
     "regions": [
       "WEU"
     ],
@@ -3208,7 +3610,10 @@
     "gdp_year": 2023
   },
   "LV": {
-    "name": "Latvia",
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia"
+    },
     "regions": [
       "BALT"
     ],
@@ -3232,7 +3637,10 @@
     "gdp_year": 2023
   },
   "LY": {
-    "name": "Libya",
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya"
+    },
     "regions": [
       "NAFR",
       "MAGH"
@@ -3257,7 +3665,10 @@
     "gdp_year": 2023
   },
   "MA": {
-    "name": "Morocco",
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco"
+    },
     "regions": [
       "MAGH"
     ],
@@ -3281,7 +3692,10 @@
     "gdp_year": 2023
   },
   "MC": {
-    "name": "Monaco",
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco"
+    },
     "regions": [
       "WEU"
     ],
@@ -3305,7 +3719,10 @@
     "gdp_year": 2022
   },
   "MD": {
-    "name": "Moldova",
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova"
+    },
     "regions": [
       "EE"
     ],
@@ -3329,7 +3746,10 @@
     "gdp_year": 2023
   },
   "ME": {
-    "name": "Montenegro",
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro"
+    },
     "regions": [
       "BKS"
     ],
@@ -3353,7 +3773,10 @@
     "gdp_year": 2023
   },
   "MF": {
-    "name": "Saint Martin",
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Martin"
+    },
     "regions": [
       "LATAM"
     ],
@@ -3377,7 +3800,10 @@
     "gdp_year": 2021
   },
   "MG": {
-    "name": "Madagascar",
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar"
+    },
     "regions": [
       "EAFR",
       "SSA"
@@ -3402,7 +3828,10 @@
     "gdp_year": 2023
   },
   "MH": {
-    "name": "Marshall Islands",
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands"
+    },
     "regions": [],
     "capital": "Majuro",
     "currency_code": "USD",
@@ -3424,7 +3853,10 @@
     "gdp_year": 2023
   },
   "MK": {
-    "name": "Macedonia",
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia"
+    },
     "regions": [
       "BKS"
     ],
@@ -3448,7 +3880,10 @@
     "gdp_year": 2023
   },
   "ML": {
-    "name": "Mali",
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -3473,7 +3908,10 @@
     "gdp_year": 2023
   },
   "MM": {
-    "name": "Myanmar",
+    "name": {
+      "common": "Myanmar",
+      "official": "Republic of the Union of Myanmar"
+    },
     "regions": [
       "SEA",
       "INDO"
@@ -3499,7 +3937,10 @@
     "gdp_year": 2023
   },
   "MN": {
-    "name": "Mongolia",
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia"
+    },
     "regions": [
       "EAS"
     ],
@@ -3524,7 +3965,10 @@
     "gdp_year": 2023
   },
   "MO": {
-    "name": "Macao",
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China"
+    },
     "regions": [],
     "capital": "Macao",
     "currency_code": "MOP",
@@ -3546,7 +3990,10 @@
     "gdp_year": 2023
   },
   "MP": {
-    "name": "Northern Mariana Islands",
+    "name": {
+      "common": "Northern Mariana Islands",
+      "official": "Commonwealth of the Northern Mariana Islands"
+    },
     "regions": [],
     "capital": "Saipan",
     "currency_code": "USD",
@@ -3568,7 +4015,10 @@
     "gdp_year": 2020
   },
   "MQ": {
-    "name": "Martinique",
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique"
+    },
     "regions": [
       "LATAM"
     ],
@@ -3590,7 +4040,10 @@
     "demonym": "Martinican"
   },
   "MR": {
-    "name": "Mauritania",
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -3615,7 +4068,10 @@
     "gdp_year": 2023
   },
   "MS": {
-    "name": "Montserrat",
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat"
+    },
     "regions": [],
     "capital": "Plymouth",
     "currency_code": "XCD",
@@ -3635,7 +4091,10 @@
     "demonym": "Montserratian"
   },
   "MT": {
-    "name": "Malta",
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta"
+    },
     "regions": [
       "SE"
     ],
@@ -3659,7 +4118,10 @@
     "gdp_year": 2023
   },
   "MU": {
-    "name": "Mauritius",
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius"
+    },
     "regions": [
       "EAFR"
     ],
@@ -3683,7 +4145,10 @@
     "gdp_year": 2023
   },
   "MV": {
-    "name": "Maldives",
+    "name": {
+      "common": "Maldives",
+      "official": "Republic of the Maldives"
+    },
     "regions": [
       "SAS"
     ],
@@ -3707,7 +4172,10 @@
     "gdp_year": 2023
   },
   "MW": {
-    "name": "Malawi",
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi"
+    },
     "regions": [
       "EAFR",
       "SSA"
@@ -3732,7 +4200,10 @@
     "gdp_year": 2023
   },
   "MX": {
-    "name": "Mexico",
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States"
+    },
     "regions": [
       "NA",
       "LATAM"
@@ -3759,7 +4230,10 @@
     "gdp_year": 2023
   },
   "MY": {
-    "name": "Malaysia",
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia"
+    },
     "regions": [
       "SEA"
     ],
@@ -3783,7 +4257,10 @@
     "gdp_year": 2023
   },
   "MZ": {
-    "name": "Mozambique",
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique"
+    },
     "regions": [
       "SSA"
     ],
@@ -3807,7 +4284,10 @@
     "gdp_year": 2023
   },
   "NA": {
-    "name": "Namibia",
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia"
+    },
     "regions": [
       "SSA"
     ],
@@ -3831,7 +4311,10 @@
     "gdp_year": 2023
   },
   "NC": {
-    "name": "New Caledonia",
+    "name": {
+      "common": "New Caledonia",
+      "official": "New Caledonia"
+    },
     "regions": [
       "MEL"
     ],
@@ -3855,7 +4338,10 @@
     "gdp_year": 2022
   },
   "NE": {
-    "name": "Niger",
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -3880,7 +4366,10 @@
     "gdp_year": 2023
   },
   "NF": {
-    "name": "Norfolk Island",
+    "name": {
+      "common": "Norfolk Island",
+      "official": "Territory of Norfolk Island"
+    },
     "regions": [],
     "capital": "Kingston",
     "currency_code": "AUD",
@@ -3900,7 +4389,10 @@
     "demonym": "Norfolk Islander"
   },
   "NG": {
-    "name": "Nigeria",
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria"
+    },
     "regions": [
       "WAF",
       "SSA"
@@ -3925,7 +4417,10 @@
     "gdp_year": 2023
   },
   "NI": {
-    "name": "Nicaragua",
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua"
+    },
     "regions": [
       "CAM",
       "LATAM"
@@ -3950,7 +4445,10 @@
     "gdp_year": 2023
   },
   "NL": {
-    "name": "Netherlands",
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands"
+    },
     "regions": [
       "WEU",
       "NOR"
@@ -3975,7 +4473,10 @@
     "gdp_year": 2023
   },
   "NO": {
-    "name": "Norway",
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway"
+    },
     "regions": [
       "WEU",
       "SCAN",
@@ -4000,7 +4501,10 @@
     "gdp_year": 2023
   },
   "NP": {
-    "name": "Nepal",
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal"
+    },
     "regions": [
       "SAS"
     ],
@@ -4024,7 +4528,10 @@
     "gdp_year": 2023
   },
   "NR": {
-    "name": "Nauru",
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru"
+    },
     "regions": [
       "MIC"
     ],
@@ -4048,7 +4555,10 @@
     "gdp_year": 2023
   },
   "NU": {
-    "name": "Niue",
+    "name": {
+      "common": "Niue",
+      "official": "Niue"
+    },
     "regions": [
       "POL"
     ],
@@ -4070,7 +4580,10 @@
     "demonym": "Niuean"
   },
   "NZ": {
-    "name": "New Zealand",
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand"
+    },
     "regions": [
       "OC"
     ],
@@ -4098,7 +4611,10 @@
     "gdp_year": 2023
   },
   "OM": {
-    "name": "Oman",
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman"
+    },
     "regions": [],
     "capital": "Muscat",
     "currency_code": "OMR",
@@ -4120,7 +4636,10 @@
     "gdp_year": 2023
   },
   "PA": {
-    "name": "Panama",
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama"
+    },
     "regions": [
       "LATAM"
     ],
@@ -4145,7 +4664,10 @@
     "gdp_year": 2023
   },
   "PE": {
-    "name": "Peru",
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru"
+    },
     "regions": [
       "SA",
       "LATAM"
@@ -4170,7 +4692,10 @@
     "gdp_year": 2023
   },
   "PF": {
-    "name": "French Polynesia",
+    "name": {
+      "common": "French Polynesia",
+      "official": "French Polynesia"
+    },
     "regions": [],
     "capital": "Papeete",
     "currency_code": "XPF",
@@ -4194,7 +4719,10 @@
     "gdp_year": 2022
   },
   "PG": {
-    "name": "Papua New Guinea",
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea"
+    },
     "regions": [
       "MEL"
     ],
@@ -4218,7 +4746,10 @@
     "gdp_year": 2023
   },
   "PH": {
-    "name": "Philippines",
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines"
+    },
     "regions": [
       "SEA"
     ],
@@ -4242,7 +4773,10 @@
     "gdp_year": 2023
   },
   "PK": {
-    "name": "Pakistan",
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan"
+    },
     "regions": [
       "SAS"
     ],
@@ -4266,7 +4800,10 @@
     "gdp_year": 2023
   },
   "PL": {
-    "name": "Poland",
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland"
+    },
     "regions": [
       "CEU"
     ],
@@ -4290,7 +4827,10 @@
     "gdp_year": 2023
   },
   "PM": {
-    "name": "Saint Pierre and Miquelon",
+    "name": {
+      "common": "Saint Pierre and Miquelon",
+      "official": "Saint Pierre and Miquelon"
+    },
     "regions": [
       "LATAM"
     ],
@@ -4312,7 +4852,10 @@
     "demonym": "Saint-Pierrais, Miquelonnais"
   },
   "PN": {
-    "name": "Pitcairn",
+    "name": {
+      "common": "Pitcairn Islands",
+      "official": "Pitcairn Group of Islands"
+    },
     "regions": [],
     "capital": "Adamstown",
     "currency_code": "NZD",
@@ -4332,7 +4875,10 @@
     "demonym": "Pitcairn Islander"
   },
   "PR": {
-    "name": "Puerto Rico",
+    "name": {
+      "common": "Puerto Rico",
+      "official": "Commonwealth of Puerto Rico"
+    },
     "regions": [],
     "capital": "San Juan",
     "currency_code": "USD",
@@ -4354,7 +4900,10 @@
     "gdp_year": 2023
   },
   "PS": {
-    "name": "Palestinian Territory",
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine"
+    },
     "regions": [
       "LEV"
     ],
@@ -4378,7 +4927,10 @@
     "gdp_year": 2023
   },
   "PT": {
-    "name": "Portugal",
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic"
+    },
     "regions": [
       "SE"
     ],
@@ -4403,7 +4955,10 @@
     "gdp_year": 2023
   },
   "PW": {
-    "name": "Palau",
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau"
+    },
     "regions": [],
     "capital": "Melekeok",
     "currency_code": "USD",
@@ -4425,7 +4980,10 @@
     "gdp_year": 2023
   },
   "PY": {
-    "name": "Paraguay",
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay"
+    },
     "regions": [
       "LATAM"
     ],
@@ -4449,7 +5007,10 @@
     "gdp_year": 2023
   },
   "QA": {
-    "name": "Qatar",
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar"
+    },
     "regions": [],
     "capital": "Doha",
     "currency_code": "QAR",
@@ -4471,7 +5032,10 @@
     "gdp_year": 2022
   },
   "RE": {
-    "name": "Reunion",
+    "name": {
+      "common": "R\u00e9union",
+      "official": "R\u00e9union Island"
+    },
     "regions": [],
     "capital": "Saint-Denis",
     "currency_code": "EUR",
@@ -4491,7 +5055,10 @@
     "demonym": "R\u00e9unionese"
   },
   "RO": {
-    "name": "Romania",
+    "name": {
+      "common": "Romania",
+      "official": "Romania"
+    },
     "regions": [
       "CEU"
     ],
@@ -4515,7 +5082,10 @@
     "gdp_year": 2023
   },
   "RS": {
-    "name": "Serbia",
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia"
+    },
     "regions": [
       "BKS"
     ],
@@ -4543,7 +5113,10 @@
     "gdp_year": 2023
   },
   "RU": {
-    "name": "Russia",
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation"
+    },
     "regions": [
       "EE",
       "EURS"
@@ -4577,7 +5150,10 @@
     "gdp_year": 2023
   },
   "RW": {
-    "name": "Rwanda",
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda"
+    },
     "regions": [
       "SSA"
     ],
@@ -4601,7 +5177,10 @@
     "gdp_year": 2023
   },
   "SA": {
-    "name": "Saudi Arabia",
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia"
+    },
     "regions": [],
     "capital": "Riyadh",
     "currency_code": "SAR",
@@ -4624,7 +5203,10 @@
     "gdp_year": 2023
   },
   "SB": {
-    "name": "Solomon Islands",
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands"
+    },
     "regions": [
       "MEL"
     ],
@@ -4648,7 +5230,10 @@
     "gdp_year": 2023
   },
   "SC": {
-    "name": "Seychelles",
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles"
+    },
     "regions": [],
     "capital": "Victoria",
     "currency_code": "SCR",
@@ -4670,7 +5255,10 @@
     "gdp_year": 2023
   },
   "SD": {
-    "name": "Sudan",
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan"
+    },
     "regions": [],
     "capital": "Khartoum",
     "currency_code": "SDG",
@@ -4692,7 +5280,10 @@
     "gdp_year": 2023
   },
   "SE": {
-    "name": "Sweden",
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden"
+    },
     "regions": [
       "WEU",
       "SCAN",
@@ -4719,7 +5310,10 @@
     "gdp_year": 2023
   },
   "SG": {
-    "name": "Singapore",
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore"
+    },
     "regions": [
       "SEA"
     ],
@@ -4743,7 +5337,10 @@
     "gdp_year": 2023
   },
   "SH": {
-    "name": "Saint Helena",
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha"
+    },
     "regions": [],
     "capital": "Jamestown",
     "currency_code": "SHP",
@@ -4763,7 +5360,10 @@
     "demonym": "Saint Helenian"
   },
   "SI": {
-    "name": "Slovenia",
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia"
+    },
     "regions": [
       "BKS"
     ],
@@ -4787,7 +5387,10 @@
     "gdp_year": 2023
   },
   "SJ": {
-    "name": "Svalbard and Jan Mayen",
+    "name": {
+      "common": "Svalbard and Jan Mayen",
+      "official": "Svalbard og Jan Mayen"
+    },
     "regions": [],
     "capital": "Longyearbyen",
     "currency_code": "NOK",
@@ -4807,7 +5410,10 @@
     "demonym": "Norwegian"
   },
   "SK": {
-    "name": "Slovakia",
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic"
+    },
     "regions": [
       "CEU"
     ],
@@ -4831,7 +5437,10 @@
     "gdp_year": 2023
   },
   "SL": {
-    "name": "Sierra Leone",
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone"
+    },
     "regions": [
       "SSA"
     ],
@@ -4855,7 +5464,10 @@
     "gdp_year": 2023
   },
   "SM": {
-    "name": "San Marino",
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino"
+    },
     "regions": [
       "SE"
     ],
@@ -4879,7 +5491,10 @@
     "gdp_year": 2021
   },
   "SN": {
-    "name": "Senegal",
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal"
+    },
     "regions": [
       "SSA"
     ],
@@ -4903,7 +5518,10 @@
     "gdp_year": 2023
   },
   "SO": {
-    "name": "Somalia",
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia"
+    },
     "regions": [
       "SSA"
     ],
@@ -4927,7 +5545,10 @@
     "gdp_year": 2023
   },
   "SR": {
-    "name": "Suriname",
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname"
+    },
     "regions": [
       "GUI"
     ],
@@ -4951,7 +5572,10 @@
     "gdp_year": 2023
   },
   "SS": {
-    "name": "South Sudan",
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan"
+    },
     "regions": [
       "SSA"
     ],
@@ -4975,7 +5599,10 @@
     "gdp_year": 2015
   },
   "ST": {
-    "name": "Sao Tome and Principe",
+    "name": {
+      "common": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "official": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+    },
     "regions": [
       "SSA"
     ],
@@ -4999,7 +5626,10 @@
     "gdp_year": 2023
   },
   "SV": {
-    "name": "El Salvador",
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador"
+    },
     "regions": [
       "LATAM"
     ],
@@ -5023,7 +5653,10 @@
     "gdp_year": 2023
   },
   "SX": {
-    "name": "Sint Maarten",
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten"
+    },
     "regions": [],
     "capital": "Philipsburg",
     "currency_code": "ANG",
@@ -5045,7 +5678,10 @@
     "gdp_year": 2023
   },
   "SY": {
-    "name": "Syria",
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic"
+    },
     "regions": [
       "LEV"
     ],
@@ -5069,7 +5705,10 @@
     "gdp_year": 2021
   },
   "SZ": {
-    "name": "Swaziland",
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini"
+    },
     "regions": [
       "SSA"
     ],
@@ -5093,7 +5732,10 @@
     "gdp_year": 2023
   },
   "TC": {
-    "name": "Turks and Caicos Islands",
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands"
+    },
     "regions": [],
     "capital": "Cockburn Town",
     "currency_code": "USD",
@@ -5115,7 +5757,10 @@
     "gdp_year": 2023
   },
   "TD": {
-    "name": "Chad",
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad"
+    },
     "regions": [
       "CF",
       "SSA"
@@ -5140,7 +5785,10 @@
     "gdp_year": 2023
   },
   "TF": {
-    "name": "French Southern Territories",
+    "name": {
+      "common": "French Southern and Antarctic Lands",
+      "official": "Territory of the French Southern and Antarctic Lands"
+    },
     "regions": [],
     "capital": "Port-aux-Francais",
     "currency_code": "EUR",
@@ -5160,7 +5808,10 @@
     "demonym": "French"
   },
   "TG": {
-    "name": "Togo",
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic"
+    },
     "regions": [],
     "capital": "Lome",
     "currency_code": "XOF",
@@ -5182,7 +5833,10 @@
     "gdp_year": 2023
   },
   "TH": {
-    "name": "Thailand",
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand"
+    },
     "regions": [
       "SEA",
       "INDO"
@@ -5207,7 +5861,10 @@
     "gdp_year": 2023
   },
   "TJ": {
-    "name": "Tajikistan",
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan"
+    },
     "regions": [
       "CAS"
     ],
@@ -5231,7 +5888,10 @@
     "gdp_year": 2023
   },
   "TK": {
-    "name": "Tokelau",
+    "name": {
+      "common": "Tokelau",
+      "official": "Tokelau"
+    },
     "regions": [],
     "capital": "",
     "currency_code": "NZD",
@@ -5251,7 +5911,10 @@
     "demonym": "Tokelauan"
   },
   "TL": {
-    "name": "East Timor",
+    "name": {
+      "common": "Timor-Leste",
+      "official": "Democratic Republic of Timor-Leste"
+    },
     "regions": [
       "SEA"
     ],
@@ -5276,7 +5939,10 @@
     "gdp_year": 2023
   },
   "TM": {
-    "name": "Turkmenistan",
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan"
+    },
     "regions": [
       "CAS"
     ],
@@ -5300,7 +5966,10 @@
     "gdp_year": 2023
   },
   "TN": {
-    "name": "Tunisia",
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic"
+    },
     "regions": [
       "MAGH"
     ],
@@ -5324,7 +5993,10 @@
     "gdp_year": 2023
   },
   "TO": {
-    "name": "Tonga",
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga"
+    },
     "regions": [],
     "capital": "Nuku'alofa",
     "currency_code": "TOP",
@@ -5346,7 +6018,10 @@
     "gdp_year": 2022
   },
   "TR": {
-    "name": "Turkey",
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey"
+    },
     "regions": [
       "WAS",
       "ME",
@@ -5372,7 +6047,10 @@
     "gdp_year": 2023
   },
   "TT": {
-    "name": "Trinidad and Tobago",
+    "name": {
+      "common": "Trinidad and Tobago",
+      "official": "Republic of Trinidad and Tobago"
+    },
     "regions": [
       "LATAM"
     ],
@@ -5396,7 +6074,10 @@
     "gdp_year": 2023
   },
   "TV": {
-    "name": "Tuvalu",
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu"
+    },
     "regions": [],
     "capital": "Funafuti",
     "currency_code": "AUD",
@@ -5418,7 +6099,10 @@
     "gdp_year": 2023
   },
   "TW": {
-    "name": "Taiwan",
+    "name": {
+      "common": "Taiwan",
+      "official": "Republic of China (Taiwan)"
+    },
     "regions": [],
     "capital": "Taipei",
     "currency_code": "TWD",
@@ -5438,7 +6122,10 @@
     "demonym": "Taiwanese"
   },
   "TZ": {
-    "name": "Tanzania",
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania"
+    },
     "regions": [
       "SSA"
     ],
@@ -5462,7 +6149,10 @@
     "gdp_year": 2023
   },
   "UA": {
-    "name": "Ukraine",
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine"
+    },
     "regions": [
       "EE"
     ],
@@ -5486,7 +6176,10 @@
     "gdp_year": 2023
   },
   "UG": {
-    "name": "Uganda",
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda"
+    },
     "regions": [
       "SSA"
     ],
@@ -5510,7 +6203,10 @@
     "gdp_year": 2023
   },
   "UM": {
-    "name": "United States Minor Outlying Islands",
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands"
+    },
     "regions": [],
     "capital": "",
     "currency_code": "USD",
@@ -5536,7 +6232,10 @@
     "demonym": "American Islander"
   },
   "US": {
-    "name": "United States",
+    "name": {
+      "common": "United States",
+      "official": "United States of America"
+    },
     "regions": [
       "NA"
     ],
@@ -5570,7 +6269,10 @@
     "gdp_year": 2023
   },
   "UY": {
-    "name": "Uruguay",
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay"
+    },
     "regions": [
       "LATAM"
     ],
@@ -5594,7 +6296,10 @@
     "gdp_year": 2023
   },
   "UZ": {
-    "name": "Uzbekistan",
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan"
+    },
     "regions": [
       "CAS"
     ],
@@ -5618,7 +6323,10 @@
     "gdp_year": 2023
   },
   "VA": {
-    "name": "Vatican",
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State"
+    },
     "regions": [
       "SE"
     ],
@@ -5640,7 +6348,10 @@
     "demonym": "Vatican"
   },
   "VC": {
-    "name": "Saint Vincent and the Grenadines",
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines"
+    },
     "regions": [],
     "capital": "Kingstown",
     "currency_code": "XCD",
@@ -5662,7 +6373,10 @@
     "gdp_year": 2023
   },
   "VE": {
-    "name": "Venezuela",
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela"
+    },
     "regions": [
       "LATAM"
     ],
@@ -5686,7 +6400,10 @@
     "gdp_year": 2014
   },
   "VG": {
-    "name": "British Virgin Islands",
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands"
+    },
     "regions": [],
     "capital": "Road Town",
     "currency_code": "USD",
@@ -5706,7 +6423,10 @@
     "demonym": "Virgin Islander"
   },
   "VI": {
-    "name": "U.S. Virgin Islands",
+    "name": {
+      "common": "United States Virgin Islands",
+      "official": "Virgin Islands of the United States"
+    },
     "regions": [],
     "capital": "Charlotte Amalie",
     "currency_code": "USD",
@@ -5728,7 +6448,10 @@
     "gdp_year": 2021
   },
   "VN": {
-    "name": "Vietnam",
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam"
+    },
     "regions": [
       "SEA",
       "INDO"
@@ -5754,7 +6477,10 @@
     "gdp_year": 2023
   },
   "VU": {
-    "name": "Vanuatu",
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu"
+    },
     "regions": [
       "MEL"
     ],
@@ -5779,7 +6505,10 @@
     "gdp_year": 2023
   },
   "WF": {
-    "name": "Wallis and Futuna",
+    "name": {
+      "common": "Wallis and Futuna",
+      "official": "Territory of the Wallis and Futuna Islands"
+    },
     "regions": [],
     "capital": "Mata Utu",
     "currency_code": "XPF",
@@ -5799,7 +6528,10 @@
     "demonym": "Wallis and Futuna Islander"
   },
   "WS": {
-    "name": "Samoa",
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa"
+    },
     "regions": [],
     "capital": "Apia",
     "currency_code": "WST",
@@ -5821,7 +6553,10 @@
     "gdp_year": 2023
   },
   "XK": {
-    "name": "Kosovo",
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo"
+    },
     "regions": [
       "BKS"
     ],
@@ -5835,7 +6570,10 @@
     "demonym": "Kosovar"
   },
   "YE": {
-    "name": "Yemen",
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen"
+    },
     "regions": [],
     "capital": "Sanaa",
     "currency_code": "YER",
@@ -5858,7 +6596,10 @@
     "gdp_year": 2018
   },
   "YT": {
-    "name": "Mayotte",
+    "name": {
+      "common": "Mayotte",
+      "official": "Department of Mayotte"
+    },
     "regions": [],
     "capital": "Mamoudzou",
     "currency_code": "EUR",
@@ -5878,7 +6619,10 @@
     "demonym": "Mahoran"
   },
   "ZA": {
-    "name": "South Africa",
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa"
+    },
     "regions": [],
     "capital": "Pretoria",
     "currency_code": "ZAR",
@@ -5900,7 +6644,10 @@
     "gdp_year": 2023
   },
   "ZM": {
-    "name": "Zambia",
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia"
+    },
     "regions": [
       "SSA"
     ],
@@ -5924,7 +6671,10 @@
     "gdp_year": 2023
   },
   "ZW": {
-    "name": "Zimbabwe",
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe"
+    },
     "regions": [
       "SSA"
     ],
