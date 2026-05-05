@@ -2995,40 +2995,76 @@
   "JO": {
     "divisions": {
       "IRB": {
-        "name": "Irbid"
+        "name": "Irbid",
+        "regions": [
+          "North"
+        ]
       },
       "AJL": {
-        "name": "Ajloun"
+        "name": "Ajloun",
+        "regions": [
+          "North"
+        ]
       },
       "JER": {
-        "name": "Jerash"
+        "name": "Jerash",
+        "regions": [
+          "North"
+        ]
       },
       "MAF": {
-        "name": "Mafraq"
+        "name": "Mafraq",
+        "regions": [
+          "North"
+        ]
       },
       "BAL": {
-        "name": "Balqa"
+        "name": "Balqa",
+        "regions": [
+          "Central"
+        ]
       },
       "AMM": {
-        "name": "Amman"
+        "name": "Amman",
+        "regions": [
+          "Central"
+        ]
       },
       "ZAR": {
-        "name": "Zarqa"
+        "name": "Zarqa",
+        "regions": [
+          "Central"
+        ]
       },
       "MAD": {
-        "name": "Madaba"
+        "name": "Madaba",
+        "regions": [
+          "Central"
+        ]
       },
       "KAR": {
-        "name": "Karak"
+        "name": "Karak",
+        "regions": [
+          "South"
+        ]
       },
       "TAF": {
-        "name": "Tafilah"
+        "name": "Tafilah",
+        "regions": [
+          "South"
+        ]
       },
       "MA'": {
-        "name": "Ma'an"
+        "name": "Ma'an",
+        "regions": [
+          "South"
+        ]
       },
       "AQA": {
-        "name": "Aqaba"
+        "name": "Aqaba",
+        "regions": [
+          "South"
+        ]
       }
     },
     "regions": [
@@ -5311,307 +5347,529 @@
   "TR": {
     "divisions": {
       "ADA": {
-        "name": "Adana"
+        "name": "Adana",
+        "regions": [
+          "Mediterranean"
+        ]
       },
       "ADI": {
         "name": "Adıyaman",
         "alias": [
           "Adiyaman"
+        ],
+        "regions": [
+          "Southeastern Anatolia"
         ]
       },
       "AFY": {
-        "name": "Afyonkarahisar"
+        "name": "Afyonkarahisar",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "AĞR": {
         "name": "Ağrı",
         "alias": [
           "Agri"
+        ],
+        "regions": [
+          "Eastern Anatolia"
         ]
       },
       "AMA": {
-        "name": "Amasya"
+        "name": "Amasya",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "ANK": {
-        "name": "Ankara"
+        "name": "Ankara",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "ANT": {
-        "name": "Antalya"
+        "name": "Antalya",
+        "regions": [
+          "Mediterranean"
+        ]
       },
       "ART": {
-        "name": "Artvin"
+        "name": "Artvin",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "AYD": {
         "name": "Aydın",
         "alias": [
           "Aydin"
+        ],
+        "regions": [
+          "Aegean"
         ]
       },
       "BAL": {
         "name": "Balıkesir",
         "alias": [
           "Balikesir"
+        ],
+        "regions": [
+          "Marmara"
         ]
       },
       "BIL": {
-        "name": "Bilecik"
+        "name": "Bilecik",
+        "regions": [
+          "Marmara"
+        ]
       },
       "BIN": {
         "name": "Bingöl",
         "alias": [
           "Bingol"
+        ],
+        "regions": [
+          "Eastern Anatolia"
         ]
       },
       "BIT": {
-        "name": "Bitlis"
+        "name": "Bitlis",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "BOL": {
-        "name": "Bolu"
+        "name": "Bolu",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "BUR": {
-        "name": "Bursa"
+        "name": "Bursa",
+        "regions": [
+          "Marmara"
+        ]
       },
       "ÇAN": {
         "name": "Çankırı",
         "alias": [
           "Cankiri"
+        ],
+        "regions": [
+          "Central Anatolia"
         ]
       },
       "ÇOR": {
         "name": "Çorum",
         "alias": [
           "Corum"
+        ],
+        "regions": [
+          "Black Sea"
         ]
       },
       "DEN": {
-        "name": "Denizli"
+        "name": "Denizli",
+        "regions": [
+          "Aegean"
+        ]
       },
       "DIY": {
         "name": "Diyarbakır",
         "alias": [
           "Diyarbakir"
+        ],
+        "regions": [
+          "Southeastern Anatolia"
         ]
       },
       "EDI": {
-        "name": "Edirne"
+        "name": "Edirne",
+        "regions": [
+          "Marmara"
+        ]
       },
       "ELA": {
         "name": "Elazığ",
         "alias": [
           "Elazig"
+        ],
+        "regions": [
+          "Eastern Anatolia"
         ]
       },
       "ERZ": {
-        "name": "Erzurum"
+        "name": "Erzurum",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "ESK": {
         "name": "Eskişehir",
         "alias": [
           "Eskisehir"
+        ],
+        "regions": [
+          "Central Anatolia"
         ]
       },
       "GAZ": {
-        "name": "Gaziantep"
+        "name": "Gaziantep",
+        "regions": [
+          "Southeastern Anatolia"
+        ]
       },
       "GIR": {
-        "name": "Giresun"
+        "name": "Giresun",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "GÜM": {
         "name": "Gümüşhane",
         "alias": [
           "Gumushane"
+        ],
+        "regions": [
+          "Black Sea"
         ]
       },
       "HAK": {
         "name": "Hakkâri",
         "alias": [
           "Hakkari"
+        ],
+        "regions": [
+          "Eastern Anatolia"
         ]
       },
       "HAT": {
-        "name": "Hatay"
+        "name": "Hatay",
+        "regions": [
+          "Mediterranean"
+        ]
       },
       "ISP": {
-        "name": "Isparta"
+        "name": "Isparta",
+        "regions": [
+          "Mediterranean"
+        ]
       },
       "MER": {
-        "name": "Mersin"
+        "name": "Mersin",
+        "regions": [
+          "Mediterranean"
+        ]
       },
       "IST": {
-        "name": "Istanbul"
+        "name": "Istanbul",
+        "regions": [
+          "Marmara"
+        ]
       },
       "İZM": {
         "name": "İzmir",
         "alias": [
           "Izmir"
+        ],
+        "regions": [
+          "Aegean"
         ]
       },
       "KAR": {
         "name": "Karabük",
         "alias": [
           "Karabuk"
+        ],
+        "regions": [
+          "Black Sea"
         ]
       },
       "KAS": {
-        "name": "Kastamonu"
+        "name": "Kastamonu",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "KAY": {
-        "name": "Kayseri"
+        "name": "Kayseri",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "KIR": {
         "name": "Kırıkkale",
         "alias": [
           "Kirikkale"
+        ],
+        "regions": [
+          "Central Anatolia"
         ]
       },
       "KOC": {
-        "name": "Kocaeli"
+        "name": "Kocaeli",
+        "regions": [
+          "Marmara"
+        ]
       },
       "KON": {
-        "name": "Konya"
+        "name": "Konya",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "KÜT": {
         "name": "Kütahya",
         "alias": [
           "Kutahya"
+        ],
+        "regions": [
+          "Aegean"
         ]
       },
       "MAL": {
-        "name": "Malatya"
+        "name": "Malatya",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "MAN": {
-        "name": "Manisa"
+        "name": "Manisa",
+        "regions": [
+          "Aegean"
+        ]
       },
       "KAH": {
         "name": "Kahramanmaraş",
         "alias": [
           "Kahramanmaras"
+        ],
+        "regions": [
+          "Mediterranean"
         ]
       },
       "MAR": {
-        "name": "Mardin"
+        "name": "Mardin",
+        "regions": [
+          "Southeastern Anatolia"
+        ]
       },
       "MUĞ": {
         "name": "Muğla",
-        "alias": "Mugla"
+        "alias": "Mugla",
+        "regions": [
+          "Aegean"
+        ]
       },
       "MUŞ": {
         "name": "Muş",
         "alias": [
           "Mus"
+        ],
+        "regions": [
+          "Eastern Anatolia"
         ]
       },
       "NEV": {
         "name": "Nevşehir",
         "alias": [
           "Nevsehir"
+        ],
+        "regions": [
+          "Central Anatolia"
         ]
       },
       "NIĞ": {
         "name": "Niğde",
         "alias": [
           "Nigde"
+        ],
+        "regions": [
+          "Central Anatolia"
         ]
       },
       "ORD": {
-        "name": "Ordu"
+        "name": "Ordu",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "RIZ": {
-        "name": "Rize"
+        "name": "Rize",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "SAK": {
-        "name": "Sakarya"
+        "name": "Sakarya",
+        "regions": [
+          "Marmara"
+        ]
       },
       "SAM": {
-        "name": "Samsun"
+        "name": "Samsun",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "SII": {
-        "name": "Siirt"
+        "name": "Siirt",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "SIN": {
-        "name": "Sinop"
+        "name": "Sinop",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "SIV": {
-        "name": "Sivas"
+        "name": "Sivas",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "TEK": {
         "name": "Tekirdağ",
         "alias": [
           "Tekirdag"
+        ],
+        "regions": [
+          "Marmara"
         ]
       },
       "TOK": {
-        "name": "Tokat"
+        "name": "Tokat",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "TRA": {
-        "name": "Trabzon"
+        "name": "Trabzon",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "TUN": {
-        "name": "Tunceli"
+        "name": "Tunceli",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "ŞAN": {
         "name": "Şanlıurfa",
         "alias": [
           "Sanliurfa"
+        ],
+        "regions": [
+          "Southeastern Anatolia"
         ]
       },
       "UŞA": {
         "name": "Uşak",
         "alias": [
           "Usak"
+        ],
+        "regions": [
+          "Aegean"
         ]
       },
       "VAN": {
-        "name": "Van"
+        "name": "Van",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "YOZ": {
-        "name": "Yozgat"
+        "name": "Yozgat",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "ZON": {
-        "name": "Zonguldak"
+        "name": "Zonguldak",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "AKS": {
-        "name": "Aksaray"
+        "name": "Aksaray",
+        "regions": [
+          "Central Anatolia"
+        ]
       },
       "BAY": {
-        "name": "Bayburt"
+        "name": "Bayburt",
+        "regions": [
+          "Black Sea"
+        ]
       },
       "BAT": {
-        "name": "Batman"
+        "name": "Batman",
+        "regions": [
+          "Southeastern Anatolia"
+        ]
       },
       "ŞIR": {
         "name": "Şırnak",
         "alias": [
           "Sirnak"
+        ],
+        "regions": [
+          "Southeastern Anatolia"
         ]
       },
       "BAR": {
         "name": "Bartın",
         "alias": [
           "Bartin"
+        ],
+        "regions": [
+          "Black Sea"
         ]
       },
       "ARD": {
-        "name": "Ardahan"
+        "name": "Ardahan",
+        "regions": [
+          "Eastern Anatolia"
+        ]
       },
       "IĞD": {
         "name": "Iğdır",
         "alias": [
           "Igdir"
+        ],
+        "regions": [
+          "Eastern Anatolia"
         ]
       },
       "YAL": {
-        "name": "Yalova"
+        "name": "Yalova",
+        "regions": [
+          "Marmara"
+        ]
       },
       "KIL": {
-        "name": "Kilis"
+        "name": "Kilis",
+        "regions": [
+          "Southeastern Anatolia"
+        ]
       },
       "OSM": {
-        "name": "Osmaniye"
+        "name": "Osmaniye",
+        "regions": [
+          "Mediterranean"
+        ]
       },
       "DÜZ": {
         "name": "Düzce",
         "alias": [
           "Duzce"
+        ],
+        "regions": [
+          "Black Sea"
         ]
       }
     },
