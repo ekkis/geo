@@ -10991,5 +10991,111 @@
         ]
       }
     }
+  },
+  "SE": {
+    "divisions": {
+      "STO": {
+        "name": "Stockholm",
+        "regions": [
+          "Stockholm"
+        ]
+      },
+      "VASGO": {
+        "name": "Västra Götaland",
+        "regions": [
+          "Västra Götaland"
+        ]
+      },
+      "SKA": {
+        "name": "Skåne",
+        "regions": [
+          "Skåne"
+        ]
+      },
+      "VAS": {
+        "name": "Västernorrland",
+        "regions": [
+          "Västernorrland"
+        ]
+      },
+      "OST": {
+        "name": "Östergötland",
+        "regions": [
+          "Östergötland"
+        ]
+      },
+      "UPP": {
+        "name": "Uppsala",
+        "regions": [
+          "Uppsala"
+        ]
+      },
+      "SOD": {
+        "name": "Södermanland",
+        "regions": [
+          "Södermanland"
+        ]
+      },
+      "ORE": {
+        "name": "Örebro",
+        "regions": [
+          "Örebro"
+        ]
+      },
+      "GAV": {
+        "name": "Gävleborg",
+        "regions": [
+          "Gävleborg"
+        ]
+      },
+      "HAL": {
+        "name": "Halland",
+        "regions": [
+          "Halland"
+        ]
+      },
+      "JON": {
+        "name": "Jönköping",
+        "regions": [
+          "Jönköping"
+        ]
+      },
+      "KRO": {
+        "name": "Kronoberg",
+        "regions": [
+          "Kronoberg"
+        ]
+      },
+      "NOR": {
+        "name": "Norrbotten",
+        "regions": [
+          "Norrbotten"
+        ]
+      },
+      "KAL": {
+        "name": "Kalmar",
+        "regions": [
+          "Kalmar"
+        ]
+      },
+      "VAR": {
+        "name": "Värmland",
+        "regions": [
+          "Värmland"
+        ]
+      },
+      "DAL": {
+        "name": "Dalarna",
+        "regions": [
+          "Dalarna"
+        ]
+      },
+      "GOT": {
+        "name": "Gotland",
+        "regions": [
+          "Gotland"
+        ]
+      }
+    }
   }
 }
