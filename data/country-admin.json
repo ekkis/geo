@@ -11097,5 +11097,1115 @@
         ]
       }
     }
+  },
+  "FR": {
+    "divisions": {
+      "AUV": {
+        "name": "Auvergne-Rhône-Alpes",
+        "regions": [
+          "Auvergne-Rhône-Alpes"
+        ]
+      },
+      "BOU": {
+        "name": "Bourgogne-Franche-Comté",
+        "regions": [
+          "Bourgogne-Franche-Comté"
+        ]
+      },
+      "BRI": {
+        "name": "Brittany",
+        "regions": [
+          "Brittany"
+        ]
+      },
+      "CENDE": {
+        "name": "Centre-Val de Loire",
+        "regions": [
+          "Centre-Val de Loire"
+        ]
+      },
+      "COR": {
+        "name": "Corsica",
+        "regions": [
+          "Corsica"
+        ]
+      },
+      "GRAES": {
+        "name": "Grand Est",
+        "regions": [
+          "Grand Est"
+        ]
+      },
+      "HAU": {
+        "name": "Hauts-de-France",
+        "regions": [
+          "Hauts-de-France"
+        ]
+      },
+      "ILE": {
+        "name": "Île-de-France",
+        "regions": [
+          "Île-de-France"
+        ]
+      },
+      "NOR": {
+        "name": "Normandy",
+        "regions": [
+          "Normandy"
+        ]
+      },
+      "NOU": {
+        "name": "Nouvelle-Aquitaine",
+        "regions": [
+          "Nouvelle-Aquitaine"
+        ]
+      },
+      "OCC": {
+        "name": "Occitanie",
+        "regions": [
+          "Occitanie"
+        ]
+      },
+      "PAYDE": {
+        "name": "Pays de la Loire",
+        "regions": [
+          "Pays de la Loire"
+        ]
+      },
+      "PROD'": {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "regions": [
+          "Provence-Alpes-Côte d'Azur"
+        ]
+      },
+      "GUA": {
+        "name": "Guadeloupe",
+        "regions": [
+          "Guadeloupe"
+        ]
+      },
+      "MAR": {
+        "name": "Martinique",
+        "regions": [
+          "Martinique"
+        ]
+      },
+      "FREGU": {
+        "name": "French Guiana",
+        "regions": [
+          "French Guiana"
+        ]
+      },
+      "REU": {
+        "name": "Réunion",
+        "regions": [
+          "Réunion"
+        ]
+      },
+      "MAY": {
+        "name": "Mayotte",
+        "regions": [
+          "Mayotte"
+        ]
+      }
+    }
+  },
+  "NO": {
+    "divisions": {
+      "STF": {
+        "name": "Østfold",
+        "regions": [
+          "Østfold"
+        ]
+      },
+      "AKE": {
+        "name": "Akershus",
+        "regions": [
+          "Akershus"
+        ]
+      },
+      "OSL": {
+        "name": "Oslo",
+        "regions": [
+          "Oslo"
+        ]
+      },
+      "HED": {
+        "name": "Hedmark",
+        "regions": [
+          "Hedmark"
+        ]
+      },
+      "OPP": {
+        "name": "Oppland",
+        "regions": [
+          "Oppland"
+        ]
+      },
+      "BUS": {
+        "name": "Buskerud",
+        "regions": [
+          "Buskerud"
+        ]
+      },
+      "VES": {
+        "name": "Vestfold",
+        "regions": [
+          "Vestfold"
+        ]
+      },
+      "TEL": {
+        "name": "Telemark",
+        "regions": [
+          "Telemark"
+        ]
+      },
+      "AUS": {
+        "name": "Aust-Agder",
+        "regions": [
+          "Aust-Agder"
+        ]
+      },
+      "VES1": {
+        "name": "Vest-Agder",
+        "regions": [
+          "Vest-Agder"
+        ]
+      },
+      "ROG": {
+        "name": "Rogaland",
+        "regions": [
+          "Rogaland"
+        ]
+      },
+      "HOR": {
+        "name": "Hordaland",
+        "regions": [
+          "Hordaland"
+        ]
+      },
+      "SOGOG": {
+        "name": "Sogn og Fjordane",
+        "regions": [
+          "Sogn og Fjordane"
+        ]
+      },
+      "MREOG": {
+        "name": "Møre og Romsdal",
+        "regions": [
+          "Møre og Romsdal"
+        ]
+      },
+      "SR-": {
+        "name": "Sør-Trøndelag",
+        "regions": [
+          "Sør-Trøndelag"
+        ]
+      },
+      "NOR": {
+        "name": "Nord-Trøndelag",
+        "regions": [
+          "Nord-Trøndelag"
+        ]
+      },
+      "NOR1": {
+        "name": "Nordland",
+        "regions": [
+          "Nordland"
+        ]
+      },
+      "TRO": {
+        "name": "Troms",
+        "regions": [
+          "Troms"
+        ]
+      },
+      "FIN": {
+        "name": "Finnmark",
+        "regions": [
+          "Finnmark"
+        ]
+      },
+      "SVA": {
+        "name": "Svalbard",
+        "regions": [
+          "Svalbard"
+        ]
+      }
+    }
+  },
+  "FI": {
+    "divisions": {
+      "ALA": {
+        "name": "Åland",
+        "regions": [
+          "Åland"
+        ]
+      },
+      "LAP": {
+        "name": "Lapland",
+        "regions": [
+          "Lapland"
+        ]
+      },
+      "NORKA": {
+        "name": "North Karelia",
+        "regions": [
+          "North Karelia"
+        ]
+      },
+      "NOROS": {
+        "name": "Northern Ostrobothnia",
+        "regions": [
+          "Northern Ostrobothnia"
+        ]
+      },
+      "CENOS": {
+        "name": "Central Ostrobothnia",
+        "regions": [
+          "Central Ostrobothnia"
+        ]
+      },
+      "CENFI": {
+        "name": "Central Finland",
+        "regions": [
+          "Central Finland"
+        ]
+      },
+      "SOUKA": {
+        "name": "South Karelia",
+        "regions": [
+          "South Karelia"
+        ]
+      },
+      "PAI": {
+        "name": "Päijät-Häme",
+        "regions": [
+          "Päijät-Häme"
+        ]
+      },
+      "KYM": {
+        "name": "Kymenlaakso",
+        "regions": [
+          "Kymenlaakso"
+        ]
+      },
+      "SOUSA": {
+        "name": "South Savo",
+        "regions": [
+          "South Savo"
+        ]
+      },
+      "CENSA": {
+        "name": "Central Savo",
+        "regions": [
+          "Central Savo"
+        ]
+      },
+      "OST": {
+        "name": "Ostrobothnia",
+        "regions": [
+          "Ostrobothnia"
+        ]
+      },
+      "SAT": {
+        "name": "Satakunta",
+        "regions": [
+          "Satakunta"
+        ]
+      },
+      "PIR": {
+        "name": "Pirkanmaa",
+        "regions": [
+          "Pirkanmaa"
+        ]
+      },
+      "SOUFI": {
+        "name": "Southwest Finland",
+        "regions": [
+          "Southwest Finland"
+        ]
+      },
+      "UUS": {
+        "name": "Uusimaa",
+        "regions": [
+          "Uusimaa"
+        ]
+      }
+    }
+  },
+  "EE": {
+    "divisions": {
+      "HAR": {
+        "name": "Harju",
+        "regions": [
+          "Harju"
+        ]
+      },
+      "HII": {
+        "name": "Hiiu",
+        "regions": [
+          "Hiiu"
+        ]
+      },
+      "IDA": {
+        "name": "Ida-Viru",
+        "regions": [
+          "Ida-Viru"
+        ]
+      },
+      "JOG": {
+        "name": "Jõgeva",
+        "regions": [
+          "Jõgeva"
+        ]
+      },
+      "JAR": {
+        "name": "Järva",
+        "regions": [
+          "Järva"
+        ]
+      },
+      "LAA": {
+        "name": "Lääne",
+        "regions": [
+          "Lääne"
+        ]
+      },
+      "LAA1": {
+        "name": "Lääne-Viru",
+        "regions": [
+          "Lääne-Viru"
+        ]
+      },
+      "POL": {
+        "name": "Põlva",
+        "regions": [
+          "Põlva"
+        ]
+      },
+      "PAR": {
+        "name": "Pärnu",
+        "regions": [
+          "Pärnu"
+        ]
+      },
+      "RAP": {
+        "name": "Rapla",
+        "regions": [
+          "Rapla"
+        ]
+      },
+      "SAA": {
+        "name": "Saare",
+        "regions": [
+          "Saare"
+        ]
+      },
+      "TAR": {
+        "name": "Tartu",
+        "regions": [
+          "Tartu"
+        ]
+      },
+      "VAL": {
+        "name": "Valga",
+        "regions": [
+          "Valga"
+        ]
+      },
+      "VIL": {
+        "name": "Viljandi",
+        "regions": [
+          "Viljandi"
+        ]
+      },
+      "VOR": {
+        "name": "Võru",
+        "regions": [
+          "Võru"
+        ]
+      }
+    }
+  },
+  "LV": {
+    "divisions": {
+      "AGL": {
+        "name": "Aglona",
+        "regions": [
+          "Aglona"
+        ]
+      },
+      "AIZ": {
+        "name": "Aizkraukle",
+        "regions": [
+          "Aizkraukle"
+        ]
+      },
+      "AIZ1": {
+        "name": "Aizpute",
+        "regions": [
+          "Aizpute"
+        ]
+      },
+      "AUC": {
+        "name": "Auces",
+        "regions": [
+          "Auces"
+        ]
+      },
+      "BAL": {
+        "name": "Baldone",
+        "regions": [
+          "Baldone"
+        ]
+      },
+      "BAL1": {
+        "name": "Baltinava",
+        "regions": [
+          "Baltinava"
+        ]
+      },
+      "BAL2": {
+        "name": "Balvi",
+        "regions": [
+          "Balvi"
+        ]
+      },
+      "BAU": {
+        "name": "Bauska",
+        "regions": [
+          "Bauska"
+        ]
+      },
+      "BEV": {
+        "name": "Beverīna",
+        "regions": [
+          "Beverīna"
+        ]
+      },
+      "BRO": {
+        "name": "Brocēni",
+        "regions": [
+          "Brocēni"
+        ]
+      },
+      "BUR": {
+        "name": "Burtnieki",
+        "regions": [
+          "Burtnieki"
+        ]
+      },
+      "CAR": {
+        "name": "Carnikava",
+        "regions": [
+          "Carnikava"
+        ]
+      },
+      "CES": {
+        "name": "Cesvaine",
+        "regions": [
+          "Cesvaine"
+        ]
+      },
+      "CES1": {
+        "name": "Cēsis",
+        "regions": [
+          "Cēsis"
+        ]
+      },
+      "CIB": {
+        "name": "Cibla",
+        "regions": [
+          "Cibla"
+        ]
+      },
+      "DAG": {
+        "name": "Dagda",
+        "regions": [
+          "Dagda"
+        ]
+      },
+      "DAU": {
+        "name": "Daugavpils",
+        "regions": [
+          "Daugavpils"
+        ]
+      },
+      "DAUMU": {
+        "name": "Daugavpils Municipality",
+        "regions": [
+          "Daugavpils Municipality"
+        ]
+      },
+      "DOB": {
+        "name": "Dobele",
+        "regions": [
+          "Dobele"
+        ]
+      },
+      "DUN": {
+        "name": "Dundaga",
+        "regions": [
+          "Dundaga"
+        ]
+      },
+      "DUR": {
+        "name": "Durbe",
+        "regions": [
+          "Durbe"
+        ]
+      },
+      "ENG": {
+        "name": "Engure",
+        "regions": [
+          "Engure"
+        ]
+      },
+      "ERG": {
+        "name": "Ērgļi",
+        "regions": [
+          "Ērgļi"
+        ]
+      },
+      "GAR": {
+        "name": "Garkalne",
+        "regions": [
+          "Garkalne"
+        ]
+      },
+      "GRO": {
+        "name": "Grobiņa",
+        "regions": [
+          "Grobiņa"
+        ]
+      },
+      "GUL": {
+        "name": "Gulbene",
+        "regions": [
+          "Gulbene"
+        ]
+      },
+      "IEC": {
+        "name": "Iecava",
+        "regions": [
+          "Iecava"
+        ]
+      },
+      "IKS": {
+        "name": "Ikšķile",
+        "regions": [
+          "Ikšķile"
+        ]
+      },
+      "ILU": {
+        "name": "Ilūkste",
+        "regions": [
+          "Ilūkste"
+        ]
+      },
+      "INC": {
+        "name": "Inčukalns",
+        "regions": [
+          "Inčukalns"
+        ]
+      },
+      "JAU": {
+        "name": "Jaunjelgava",
+        "regions": [
+          "Jaunjelgava"
+        ]
+      },
+      "JAU1": {
+        "name": "Jaunpiebalga",
+        "regions": [
+          "Jaunpiebalga"
+        ]
+      },
+      "JAU2": {
+        "name": "Jaunpils",
+        "regions": [
+          "Jaunpils"
+        ]
+      },
+      "JEL": {
+        "name": "Jelgava",
+        "regions": [
+          "Jelgava"
+        ]
+      },
+      "JELMU": {
+        "name": "Jelgava Municipality",
+        "regions": [
+          "Jelgava Municipality"
+        ]
+      },
+      "JEKMU": {
+        "name": "Jēkabpils Municipality",
+        "regions": [
+          "Jēkabpils Municipality"
+        ]
+      },
+      "JELMU1": {
+        "name": "Jelgava Municipality",
+        "regions": [
+          "Jelgava Municipality"
+        ]
+      },
+      "JUR": {
+        "name": "Jūrmala",
+        "regions": [
+          "Jūrmala"
+        ]
+      },
+      "KAN": {
+        "name": "Kandava",
+        "regions": [
+          "Kandava"
+        ]
+      },
+      "KAR": {
+        "name": "Kārsava",
+        "regions": [
+          "Kārsava"
+        ]
+      },
+      "KOC": {
+        "name": "Kocēni",
+        "regions": [
+          "Kocēni"
+        ]
+      },
+      "KOK": {
+        "name": "Koknese",
+        "regions": [
+          "Koknese"
+        ]
+      },
+      "KRA": {
+        "name": "Krāslava",
+        "regions": [
+          "Krāslava"
+        ]
+      },
+      "KRI": {
+        "name": "Krimulda",
+        "regions": [
+          "Krimulda"
+        ]
+      },
+      "KRU": {
+        "name": "Krustpils",
+        "regions": [
+          "Krustpils"
+        ]
+      },
+      "KUL": {
+        "name": "Kuldīga",
+        "regions": [
+          "Kuldīga"
+        ]
+      },
+      "LIE": {
+        "name": "Lielvārde",
+        "regions": [
+          "Lielvārde"
+        ]
+      },
+      "LIM": {
+        "name": "Limbaži",
+        "regions": [
+          "Limbaži"
+        ]
+      },
+      "LIG": {
+        "name": "Līgatne",
+        "regions": [
+          "Līgatne"
+        ]
+      },
+      "LIV": {
+        "name": "Līvāni",
+        "regions": [
+          "Līvāni"
+        ]
+      },
+      "LUB": {
+        "name": "Lubāna",
+        "regions": [
+          "Lubāna"
+        ]
+      },
+      "LUD": {
+        "name": "Ludza",
+        "regions": [
+          "Ludza"
+        ]
+      },
+      "MAD": {
+        "name": "Madona",
+        "regions": [
+          "Madona"
+        ]
+      },
+      "MAZ": {
+        "name": "Mazsalaca",
+        "regions": [
+          "Mazsalaca"
+        ]
+      },
+      "MAL": {
+        "name": "Mālpils",
+        "regions": [
+          "Mālpils"
+        ]
+      },
+      "MAR": {
+        "name": "Mārupe",
+        "regions": [
+          "Mārupe"
+        ]
+      },
+      "MER": {
+        "name": "Mērsrags",
+        "regions": [
+          "Mērsrags"
+        ]
+      },
+      "NAU": {
+        "name": "Naukšēni",
+        "regions": [
+          "Naukšēni"
+        ]
+      },
+      "NER": {
+        "name": "Nereta",
+        "regions": [
+          "Nereta"
+        ]
+      },
+      "NIC": {
+        "name": "Nīca",
+        "regions": [
+          "Nīca"
+        ]
+      },
+      "OGR": {
+        "name": "Ogre",
+        "regions": [
+          "Ogre"
+        ]
+      },
+      "OLA": {
+        "name": "Olaine",
+        "regions": [
+          "Olaine"
+        ]
+      },
+      "OZO": {
+        "name": "Ozolnieki",
+        "regions": [
+          "Ozolnieki"
+        ]
+      },
+      "PAR": {
+        "name": "Pārgauja",
+        "regions": [
+          "Pārgauja"
+        ]
+      },
+      "PAV": {
+        "name": "Pāvilosta",
+        "regions": [
+          "Pāvilosta"
+        ]
+      },
+      "PLA": {
+        "name": "Pļaviņas",
+        "regions": [
+          "Pļaviņas"
+        ]
+      },
+      "PRE": {
+        "name": "Preiļi",
+        "regions": [
+          "Preiļi"
+        ]
+      },
+      "PRI": {
+        "name": "Priekule",
+        "regions": [
+          "Priekule"
+        ]
+      },
+      "PRI1": {
+        "name": "Priekuļi",
+        "regions": [
+          "Priekuļi"
+        ]
+      },
+      "RAU": {
+        "name": "Rauna",
+        "regions": [
+          "Rauna"
+        ]
+      },
+      "REZ": {
+        "name": "Rēzekne",
+        "regions": [
+          "Rēzekne"
+        ]
+      },
+      "REZMU": {
+        "name": "Rēzekne Municipality",
+        "regions": [
+          "Rēzekne Municipality"
+        ]
+      },
+      "RIG": {
+        "name": "Riga",
+        "regions": [
+          "Riga"
+        ]
+      },
+      "ROJ": {
+        "name": "Roja",
+        "regions": [
+          "Roja"
+        ]
+      },
+      "ROP": {
+        "name": "Ropaži",
+        "regions": [
+          "Ropaži"
+        ]
+      },
+      "RUC": {
+        "name": "Rucava",
+        "regions": [
+          "Rucava"
+        ]
+      },
+      "RUG": {
+        "name": "Rugāji",
+        "regions": [
+          "Rugāji"
+        ]
+      },
+      "RUJ": {
+        "name": "Rūjiena",
+        "regions": [
+          "Rūjiena"
+        ]
+      },
+      "SAL": {
+        "name": "Sala",
+        "regions": [
+          "Sala"
+        ]
+      },
+      "SAL1": {
+        "name": "Salacgrīva",
+        "regions": [
+          "Salacgrīva"
+        ]
+      },
+      "SAL2": {
+        "name": "Salaspils",
+        "regions": [
+          "Salaspils"
+        ]
+      },
+      "SAL3": {
+        "name": "Saldus",
+        "regions": [
+          "Saldus"
+        ]
+      },
+      "SAU": {
+        "name": "Saulkrasti",
+        "regions": [
+          "Saulkrasti"
+        ]
+      },
+      "SEJ": {
+        "name": "Sēja",
+        "regions": [
+          "Sēja"
+        ]
+      },
+      "SIG": {
+        "name": "Sigulda",
+        "regions": [
+          "Sigulda"
+        ]
+      },
+      "SKR": {
+        "name": "Skrunda",
+        "regions": [
+          "Skrunda"
+        ]
+      },
+      "STO": {
+        "name": "Stopiņi",
+        "regions": [
+          "Stopiņi"
+        ]
+      },
+      "STR": {
+        "name": "Strenči",
+        "regions": [
+          "Strenči"
+        ]
+      },
+      "TAL": {
+        "name": "Talsi",
+        "regions": [
+          "Talsi"
+        ]
+      },
+      "TER": {
+        "name": "Tērvete",
+        "regions": [
+          "Tērvete"
+        ]
+      },
+      "VAI": {
+        "name": "Vaiņode",
+        "regions": [
+          "Vaiņode"
+        ]
+      },
+      "VAL": {
+        "name": "Valka",
+        "regions": [
+          "Valka"
+        ]
+      },
+      "VAL1": {
+        "name": "Valmiera",
+        "regions": [
+          "Valmiera"
+        ]
+      },
+      "VAR": {
+        "name": "Varakļāni",
+        "regions": [
+          "Varakļāni"
+        ]
+      },
+      "VEC": {
+        "name": "Vecpiebalga",
+        "regions": [
+          "Vecpiebalga"
+        ]
+      },
+      "VEC1": {
+        "name": "Vecumnieki",
+        "regions": [
+          "Vecumnieki"
+        ]
+      },
+      "VEN": {
+        "name": "Ventspils",
+        "regions": [
+          "Ventspils"
+        ]
+      },
+      "VENMU": {
+        "name": "Ventspils Municipality",
+        "regions": [
+          "Ventspils Municipality"
+        ]
+      },
+      "VIE": {
+        "name": "Viesīte",
+        "regions": [
+          "Viesīte"
+        ]
+      },
+      "VIL": {
+        "name": "Viļaka",
+        "regions": [
+          "Viļaka"
+        ]
+      },
+      "VIL1": {
+        "name": "Viļāni",
+        "regions": [
+          "Viļāni"
+        ]
+      },
+      "ZIL": {
+        "name": "Zilupe",
+        "regions": [
+          "Zilupe"
+        ]
+      }
+    }
+  },
+  "LT": {
+    "divisions": {
+      "ALY": {
+        "name": "Alytus",
+        "regions": [
+          "Alytus"
+        ]
+      },
+      "KAU": {
+        "name": "Kaunas",
+        "regions": [
+          "Kaunas"
+        ]
+      },
+      "KLA": {
+        "name": "Klaipėda",
+        "regions": [
+          "Klaipėda"
+        ]
+      },
+      "MAR": {
+        "name": "Marijampolė",
+        "regions": [
+          "Marijampolė"
+        ]
+      },
+      "PAN": {
+        "name": "Panevėžys",
+        "regions": [
+          "Panevėžys"
+        ]
+      },
+      "SIA": {
+        "name": "Šiauliai",
+        "regions": [
+          "Šiauliai"
+        ]
+      },
+      "TAU": {
+        "name": "Tauragė",
+        "regions": [
+          "Tauragė"
+        ]
+      },
+      "TEL": {
+        "name": "Telšiai",
+        "regions": [
+          "Telšiai"
+        ]
+      },
+      "UTE": {
+        "name": "Utena",
+        "regions": [
+          "Utena"
+        ]
+      },
+      "VIL": {
+        "name": "Vilnius",
+        "regions": [
+          "Vilnius"
+        ]
+      }
+    }
   }
 }
