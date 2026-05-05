@@ -4068,13 +4068,13 @@
       "CHA": {
         "name": "Chanchamayo",
         "regions": [
-          "South America"
+          "Chanchamayo"
         ]
       },
       "BAG": {
         "name": "Bagua",
         "regions": [
-          "South America"
+          "Bagua"
         ]
       },
       "BON": {
@@ -4083,7 +4083,7 @@
           "Bongara"
         ],
         "regions": [
-          "South America"
+          "Bongar\u00e1"
         ]
       },
       "CON": {
@@ -4092,13 +4092,13 @@
           "Concepcion"
         ],
         "regions": [
-          "South America"
+          "Concepci\u00f3n"
         ]
       },
       "LUY": {
         "name": "Luya",
         "regions": [
-          "South America"
+          "Luya"
         ]
       },
       "RD": {
@@ -4107,31 +4107,31 @@
           "Rodriguez de Mendoza"
         ],
         "regions": [
-          "South America"
+          "Rodr\u00edguez de Mendoza"
         ]
       },
       "UTC": {
         "name": "Utcubamba",
         "regions": [
-          "South America"
+          "Utcubamba"
         ]
       },
       "HUA": {
         "name": "Huallaga",
         "regions": [
-          "South America"
+          "Huallaga"
         ]
       },
       "AIJ": {
         "name": "Aija",
         "regions": [
-          "South America"
+          "Aija"
         ]
       },
       "AR": {
         "name": "Antonio Raymondi",
         "regions": [
-          "South America"
+          "Antonio Raymondi"
         ]
       },
       "ASU": {
@@ -4140,7 +4140,7 @@
           "Asuncion"
         ],
         "regions": [
-          "South America"
+          "Asunci\u00f3n"
         ]
       },
       "BOL": {
@@ -4149,13 +4149,13 @@
           "Bolivar"
         ],
         "regions": [
-          "South America"
+          "Bol\u00edvar"
         ]
       },
       "CAR": {
         "name": "Carabaya",
         "regions": [
-          "South America"
+          "Carabaya"
         ]
       },
       "CF": {
@@ -4164,115 +4164,115 @@
           "Carlos Fermin Fitzcarrald"
         ],
         "regions": [
-          "South America"
+          "Carlos Ferm\u00edn Fitzcarrald"
         ]
       },
       "CAS": {
         "name": "Castrovirreyna",
         "regions": [
-          "South America"
+          "Castrovirreyna"
         ]
       },
       "COR": {
         "name": "Corongo",
         "regions": [
-          "South America"
+          "Corongo"
         ]
       },
       "ML": {
         "name": "Mariscal Luzuriaga",
         "regions": [
-          "South America"
+          "Mariscal Luzuriaga"
         ]
       },
       "OCR": {
         "name": "Ocros",
         "regions": [
-          "South America"
+          "Ocros"
         ]
       },
       "PAL": {
         "name": "Palpa",
         "regions": [
-          "South America"
+          "Palpa"
         ]
       },
       "POM": {
         "name": "Pomabamba",
         "regions": [
-          "South America"
+          "Pomabamba"
         ]
       },
       "REC": {
         "name": "Recuay",
         "regions": [
-          "South America"
+          "Recuay"
         ]
       },
       "SAN": {
         "name": "Sandia",
         "regions": [
-          "South America"
+          "Sandia"
         ]
       },
       "SIH": {
         "name": "Sihuas",
         "regions": [
-          "South America"
+          "Sihuas"
         ]
       },
       "YUN": {
         "name": "Yunguyo",
         "regions": [
-          "South America"
+          "Yunguyo"
         ]
       },
       "ABA": {
         "name": "Abancay",
         "regions": [
-          "South America"
+          "Abancay"
         ]
       },
       "AND": {
         "name": "Andahuaylas",
         "regions": [
-          "South America"
+          "Andahuaylas"
         ]
       },
       "ANT": {
         "name": "Anta",
         "regions": [
-          "South America"
+          "Anta"
         ]
       },
       "AYM": {
         "name": "Aymaraes",
         "regions": [
-          "South America"
+          "Aymaraes"
         ]
       },
       "COT": {
         "name": "Cotabambas",
         "regions": [
-          "South America"
+          "Cotabambas"
         ]
       },
       "CHI": {
         "name": "Chiclayo",
         "regions": [
-          "South America"
+          "Chiclayo"
         ]
       },
       "GRA": {
         "name": "Grau",
         "regions": [
-          "South America"
+          "Grau"
         ]
       },
       "ARE": {
         "name": "Arequipa",
         "regions": [
-          "South America"
+          "Arequipa"
         ]
       },
       "CAM": {
@@ -4281,19 +4281,19 @@
           "Camana"
         ],
         "regions": [
-          "South America"
+          "Caman\u00e1"
         ]
       },
       "CAY": {
         "name": "Caylloma",
         "regions": [
-          "South America"
+          "Caylloma"
         ]
       },
       "ISL": {
         "name": "Islay",
         "regions": [
-          "South America"
+          "Islay"
         ]
       },
       "LU": {
@@ -4302,37 +4302,37 @@
           "La Union"
         ],
         "regions": [
-          "South America"
+          "La Uni\u00f3n"
         ]
       },
       "CAN": {
         "name": "Candarave",
         "regions": [
-          "South America"
+          "Candarave"
         ]
       },
       "HS": {
         "name": "Huanca Sancos",
         "regions": [
-          "South America"
+          "Huanca Sancos"
         ]
       },
       "LM": {
         "name": "La Mar",
         "regions": [
-          "South America"
+          "La Mar"
         ]
       },
       "LUC": {
         "name": "Lucanas",
         "regions": [
-          "South America"
+          "Lucanas"
         ]
       },
       "PAR": {
         "name": "Paruro",
         "regions": [
-          "South America"
+          "Paruro"
         ]
       },
       "PD": {
@@ -4341,13 +4341,13 @@
           "Paucar del Sara Sara"
         ],
         "regions": [
-          "South America"
+          "P\u00e1ucar del Sara Sara"
         ]
       },
       "SUC": {
         "name": "Sucre",
         "regions": [
-          "South America"
+          "Sucre"
         ]
       },
       "VF": {
@@ -4356,7 +4356,7 @@
           "Victor Fajardo"
         ],
         "regions": [
-          "South America"
+          "V\u00edctor Fajardo"
         ]
       },
       "VH": {
@@ -4365,13 +4365,13 @@
           "Vilcas Huaman"
         ],
         "regions": [
-          "South America"
+          "Vilcas Huam\u00e1n"
         ]
       },
       "CAJ": {
         "name": "Cajatambo",
         "regions": [
-          "South America"
+          "Cajatambo"
         ]
       },
       "CEL": {
@@ -4380,19 +4380,19 @@
           "Celendin"
         ],
         "regions": [
-          "South America"
+          "Celend\u00edn"
         ]
       },
       "CHO": {
         "name": "Chota",
         "regions": [
-          "South America"
+          "Chota"
         ]
       },
       "CUT": {
         "name": "Cutervo",
         "regions": [
-          "South America"
+          "Cutervo"
         ]
       },
       "JA\u00c9": {
@@ -4401,13 +4401,13 @@
           "Jaen"
         ],
         "regions": [
-          "South America"
+          "Ja\u00e9n"
         ]
       },
       "SI": {
         "name": "San Ignacio",
         "regions": [
-          "South America"
+          "San Ignacio"
         ]
       },
       "SM": {
@@ -4416,13 +4416,13 @@
           "San Martin"
         ],
         "regions": [
-          "South America"
+          "San Mart\u00edn"
         ]
       },
       "SP": {
         "name": "San Pablo",
         "regions": [
-          "South America"
+          "San Pablo"
         ]
       },
       "SC": {
@@ -4431,37 +4431,37 @@
           "Sanchez Carrion"
         ],
         "regions": [
-          "South America"
+          "S\u00e1nchez Carri\u00f3n"
         ]
       },
       "CAL": {
         "name": "Calca",
         "regions": [
-          "South America"
+          "Calca"
         ]
       },
       "CUS": {
         "name": "Cusco",
         "regions": [
-          "South America"
+          "Cusco"
         ]
       },
       "ACO": {
         "name": "Acobamba",
         "regions": [
-          "South America"
+          "Acobamba"
         ]
       },
       "CHU": {
         "name": "Chucuito",
         "regions": [
-          "South America"
+          "Chucuito"
         ]
       },
       "ESP": {
         "name": "Espinar",
         "regions": [
-          "South America"
+          "Espinar"
         ]
       },
       "LC": {
@@ -4470,37 +4470,37 @@
           "La Convencion"
         ],
         "regions": [
-          "South America"
+          "La Convenci\u00f3n"
         ]
       },
       "PAU": {
         "name": "Paucartambo",
         "regions": [
-          "South America"
+          "Paucartambo"
         ]
       },
       "QUI": {
         "name": "Quispicanchi",
         "regions": [
-          "South America"
+          "Quispicanchi"
         ]
       },
       "URU": {
         "name": "Urubamba",
         "regions": [
-          "South America"
+          "Urubamba"
         ]
       },
       "ANG": {
         "name": "Angaraes",
         "regions": [
-          "South America"
+          "Angaraes"
         ]
       },
       "TAY": {
         "name": "Tayacaja",
         "regions": [
-          "South America"
+          "Tayacaja"
         ]
       },
       "HU\u00c1": {
@@ -4509,13 +4509,13 @@
           "Huanuco"
         ],
         "regions": [
-          "South America"
+          "Hu\u00e1nuco"
         ]
       },
       "AMB": {
         "name": "Ambo",
         "regions": [
-          "South America"
+          "Ambo"
         ]
       },
       "DD": {
@@ -4524,13 +4524,13 @@
           "Datem del Maranon"
         ],
         "regions": [
-          "South America"
+          "Datem del Mara\u00f1\u00f3n"
         ]
       },
       "LP": {
         "name": "Leoncio Prado",
         "regions": [
-          "South America"
+          "Leoncio Prado"
         ]
       },
       "MAR": {
@@ -4539,55 +4539,55 @@
           "Maranon"
         ],
         "regions": [
-          "South America"
+          "Mara\u00f1\u00f3n"
         ]
       },
       "PAC": {
         "name": "Pacasmayo",
         "regions": [
-          "South America"
+          "Pacasmayo"
         ]
       },
       "PI": {
         "name": "Puerto Inca",
         "regions": [
-          "South America"
+          "Puerto Inca"
         ]
       },
       "LAU": {
         "name": "Lauricocha",
         "regions": [
-          "South America"
+          "Lauricocha"
         ]
       },
       "YAR": {
         "name": "Yarowilca",
         "regions": [
-          "South America"
+          "Yarowilca"
         ]
       },
       "ICA": {
         "name": "Ica",
         "regions": [
-          "South America"
+          "Ica"
         ]
       },
       "NAZ": {
         "name": "Nazca",
         "regions": [
-          "South America"
+          "Nazca"
         ]
       },
       "PIS": {
         "name": "Pisco",
         "regions": [
-          "South America"
+          "Pisco"
         ]
       },
       "JAU": {
         "name": "Jauja",
         "regions": [
-          "South America"
+          "Jauja"
         ]
       },
       "JUN": {
@@ -4596,37 +4596,37 @@
           "Junin"
         ],
         "regions": [
-          "South America"
+          "Jun\u00edn"
         ]
       },
       "SAT": {
         "name": "Satipo",
         "regions": [
-          "South America"
+          "Satipo"
         ]
       },
       "TAR": {
         "name": "Tarata",
         "regions": [
-          "South America"
+          "Tarata"
         ]
       },
       "YAU": {
         "name": "Yauyos",
         "regions": [
-          "South America"
+          "Yauyos"
         ]
       },
       "TRU": {
         "name": "Trujillo",
         "regions": [
-          "South America"
+          "Trujillo"
         ]
       },
       "ASC": {
         "name": "Ascope",
         "regions": [
-          "South America"
+          "Ascope"
         ]
       },
       "CHE": {
@@ -4635,7 +4635,7 @@
           "Chepen"
         ],
         "regions": [
-          "South America"
+          "Chep\u00e9n"
         ]
       },
       "JUL": {
@@ -4644,25 +4644,25 @@
           "Julcan"
         ],
         "regions": [
-          "South America"
+          "Julc\u00e1n"
         ]
       },
       "OTU": {
         "name": "Otuzco",
         "regions": [
-          "South America"
+          "Otuzco"
         ]
       },
       "PAT": {
         "name": "Pataz",
         "regions": [
-          "South America"
+          "Pataz"
         ]
       },
       "SD": {
         "name": "Santiago de Chuco",
         "regions": [
-          "South America"
+          "Santiago de Chuco"
         ]
       },
       "GC": {
@@ -4671,7 +4671,7 @@
           "Gran Chimu"
         ],
         "regions": [
-          "South America"
+          "Gran Chim\u00fa"
         ]
       },
       "VIR": {
@@ -4680,7 +4680,7 @@
           "Viru"
         ],
         "regions": [
-          "South America"
+          "Vir\u00fa"
         ]
       },
       "FER": {
@@ -4689,25 +4689,25 @@
           "Ferrenafe"
         ],
         "regions": [
-          "South America"
+          "Ferre\u00f1afe"
         ]
       },
       "LAM": {
         "name": "Lamas",
         "regions": [
-          "South America"
+          "Lamas"
         ]
       },
       "LIM": {
         "name": "Lima",
         "regions": [
-          "South America"
+          "Lima"
         ]
       },
       "BAR": {
         "name": "Barranca",
         "regions": [
-          "South America"
+          "Barranca"
         ]
       },
       "CA\u00d1": {
@@ -4716,7 +4716,7 @@
           "Canete"
         ],
         "regions": [
-          "South America"
+          "Ca\u00f1ete"
         ]
       },
       "OY\u00d3": {
@@ -4725,25 +4725,25 @@
           "Oyon"
         ],
         "regions": [
-          "South America"
+          "Oy\u00f3n"
         ]
       },
       "MAY": {
         "name": "Maynas",
         "regions": [
-          "South America"
+          "Maynas"
         ]
       },
       "AA": {
         "name": "Aliaso Amazonas",
         "regions": [
-          "South America"
+          "Aliaso Amazonas"
         ]
       },
       "LOR": {
         "name": "Loreto",
         "regions": [
-          "South America"
+          "Loreto"
         ]
       },
       "MR": {
@@ -4752,31 +4752,31 @@
           "Mariscal Ramon Castilla"
         ],
         "regions": [
-          "South America"
+          "Mariscal Ram\u00f3n Castilla"
         ]
       },
       "PUT": {
         "name": "Putumayo",
         "regions": [
-          "South America"
+          "Putumayo"
         ]
       },
       "REQ": {
         "name": "Requena",
         "regions": [
-          "South America"
+          "Requena"
         ]
       },
       "UCA": {
         "name": "Ucayali",
         "regions": [
-          "South America"
+          "Ucayali"
         ]
       },
       "TAM": {
         "name": "Tambopata",
         "regions": [
-          "South America"
+          "Tambopata"
         ]
       },
       "MAN": {
@@ -4785,19 +4785,19 @@
           "Manu"
         ],
         "regions": [
-          "South America"
+          "Man\u00fa"
         ]
       },
       "TAH": {
         "name": "Tahuamanu",
         "regions": [
-          "South America"
+          "Tahuamanu"
         ]
       },
       "MN": {
         "name": "Mariscal Nieto",
         "regions": [
-          "South America"
+          "Mariscal Nieto"
         ]
       },
       "GS": {
@@ -4806,19 +4806,19 @@
           "General Sanchez Cerro"
         ],
         "regions": [
-          "South America"
+          "General S\u00e1nchez Cerro"
         ]
       },
       "ILO": {
         "name": "Ilo",
         "regions": [
-          "South America"
+          "Ilo"
         ]
       },
       "PAS": {
         "name": "Pasco",
         "regions": [
-          "South America"
+          "Pasco"
         ]
       },
       "DA": {
@@ -4827,25 +4827,25 @@
           "Daniel Alcides Carrion"
         ],
         "regions": [
-          "South America"
+          "Daniel Alc\u00eddes Carri\u00f3n"
         ]
       },
       "OXA": {
         "name": "Oxapampa",
         "regions": [
-          "South America"
+          "Oxapampa"
         ]
       },
       "PIU": {
         "name": "Piura",
         "regions": [
-          "South America"
+          "Piura"
         ]
       },
       "AYA": {
         "name": "Ayabaca",
         "regions": [
-          "South America"
+          "Ayabaca"
         ]
       },
       "MOR": {
@@ -4854,37 +4854,37 @@
           "Morropon"
         ],
         "regions": [
-          "South America"
+          "Morrop\u00f3n"
         ]
       },
       "PAI": {
         "name": "Paita",
         "regions": [
-          "South America"
+          "Paita"
         ]
       },
       "SUL": {
         "name": "Sullana",
         "regions": [
-          "South America"
+          "Sullana"
         ]
       },
       "TAL": {
         "name": "Talara",
         "regions": [
-          "South America"
+          "Talara"
         ]
       },
       "SEC": {
         "name": "Sechura",
         "regions": [
-          "South America"
+          "Sechura"
         ]
       },
       "PUN": {
         "name": "Puno",
         "regions": [
-          "South America"
+          "Puno"
         ]
       },
       "AZ\u00c1": {
@@ -4893,31 +4893,31 @@
           "Azangaro"
         ],
         "regions": [
-          "South America"
+          "Az\u00e1ngaro"
         ]
       },
       "EC": {
         "name": "El Collao",
         "regions": [
-          "South America"
+          "El Collao"
         ]
       },
       "MEL": {
         "name": "Melgar",
         "regions": [
-          "South America"
+          "Melgar"
         ]
       },
       "MOH": {
         "name": "Moho",
         "regions": [
-          "South America"
+          "Moho"
         ]
       },
       "SA": {
         "name": "San Antonio de Putina",
         "regions": [
-          "South America"
+          "San Antonio de Putina"
         ]
       },
       "SR": {
@@ -4926,25 +4926,25 @@
           "San Roman"
         ],
         "regions": [
-          "South America"
+          "San Rom\u00e1n"
         ]
       },
       "MOY": {
         "name": "Moyobamba",
         "regions": [
-          "South America"
+          "Moyobamba"
         ]
       },
       "BEL": {
         "name": "Bellavista",
         "regions": [
-          "South America"
+          "Bellavista"
         ]
       },
       "ED": {
         "name": "El Dorado",
         "regions": [
-          "South America"
+          "El Dorado"
         ]
       },
       "MC": {
@@ -4953,73 +4953,73 @@
           "Mariscal Caceres"
         ],
         "regions": [
-          "South America"
+          "Mariscal C\u00e1ceres"
         ]
       },
       "PIC": {
         "name": "Picota",
         "regions": [
-          "South America"
+          "Picota"
         ]
       },
       "RIO": {
         "name": "Rioja",
         "regions": [
-          "South America"
+          "Rioja"
         ]
       },
       "TOC": {
         "name": "Tocache",
         "regions": [
-          "South America"
+          "Tocache"
         ]
       },
       "TAC": {
         "name": "Tacna",
         "regions": [
-          "South America"
+          "Tacna"
         ]
       },
       "JB": {
         "name": "Jorge Basadre",
         "regions": [
-          "South America"
+          "Jorge Basadre"
         ]
       },
       "TUM": {
         "name": "Tumbes",
         "regions": [
-          "South America"
+          "Tumbes"
         ]
       },
       "CV": {
         "name": "Contralmirante Villar",
         "regions": [
-          "South America"
+          "Contralmirante Villar"
         ]
       },
       "ZAR": {
         "name": "Zarumilla",
         "regions": [
-          "South America"
+          "Zarumilla"
         ]
       },
       "CP": {
         "name": "Coronel Portillo",
         "regions": [
-          "South America"
+          "Coronel Portillo"
         ]
       },
       "ATA": {
         "name": "Atalaya",
         "regions": [
-          "South America"
+          "Atalaya"
         ]
       },
       "PA": {
         "name": "Padre Abad",
         "regions": [
-          "South America"
+          "Padre Abad"
         ]
       },
       "PUR": {
@@ -5028,7 +5028,7 @@
           "Purus"
         ],
         "regions": [
-          "South America"
+          "Pur\u00fas"
         ]
       }
     },
