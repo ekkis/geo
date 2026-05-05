@@ -2,7 +2,7 @@
   "AD": {
     "name": "Andorra",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Andorra la Vella",
     "currency_code": "EUR",
@@ -26,7 +26,7 @@
   "AF": {
     "name": "Afghanistan",
     "regions": [
-      "Southern Asia"
+      "SAS"
     ],
     "capital": "Kabul",
     "currency_code": "AFN",
@@ -61,7 +61,7 @@
   "AL": {
     "name": "Albania",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Tirana",
     "currency_code": "ALL",
@@ -74,7 +74,7 @@
   "AM": {
     "name": "Armenia",
     "regions": [
-      "Western Asia"
+      "WAS"
     ],
     "capital": "Yerevan",
     "currency_code": "AMD",
@@ -87,7 +87,7 @@
   "AO": {
     "name": "Angola",
     "regions": [
-      "Central Africa"
+      "CF"
     ],
     "capital": "Luanda",
     "currency_code": "AOA",
@@ -113,7 +113,7 @@
   "AR": {
     "name": "Argentina",
     "regions": [
-      "South America"
+      "SA"
     ],
     "capital": "Buenos Aires",
     "currency_code": "ARS",
@@ -137,7 +137,7 @@
   "AT": {
     "name": "Austria",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Vienna",
     "currency_code": "EUR",
@@ -150,7 +150,7 @@
   "AU": {
     "name": "Australia",
     "regions": [
-      "Oceania"
+      "OC"
     ],
     "capital": "Canberra",
     "currency_code": "AUD",
@@ -174,7 +174,7 @@
   "AX": {
     "name": "Aland Islands",
     "regions": [
-      "Scandinavia"
+      "SCAN"
     ],
     "capital": "Mariehamn",
     "currency_code": "EUR",
@@ -187,7 +187,7 @@
   "AZ": {
     "name": "Azerbaijan",
     "regions": [
-      "Western Asia"
+      "WAS"
     ],
     "capital": "Baku",
     "currency_code": "AZN",
@@ -200,7 +200,7 @@
   "BA": {
     "name": "Bosnia and Herzegovina",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Sarajevo",
     "currency_code": "BAM",
@@ -222,7 +222,7 @@
   "BD": {
     "name": "Bangladesh",
     "regions": [
-      "Southern Asia"
+      "SAS"
     ],
     "capital": "Dhaka",
     "currency_code": "BDT",
@@ -235,7 +235,7 @@
   "BE": {
     "name": "Belgium",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Brussels",
     "currency_code": "EUR",
@@ -248,7 +248,7 @@
   "BF": {
     "name": "Burkina Faso",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Ouagadougou",
     "currency_code": "XOF",
@@ -262,7 +262,7 @@
   "BG": {
     "name": "Bulgaria",
     "regions": [
-      "Central Europe"
+      "CEU"
     ],
     "capital": "Sofia",
     "currency_code": "BGN",
@@ -275,7 +275,7 @@
   "BH": {
     "name": "Bahrain",
     "regions": [
-      "Western Asia"
+      "WAS"
     ],
     "capital": "Manama",
     "currency_code": "BHD",
@@ -299,7 +299,7 @@
   "BJ": {
     "name": "Benin",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Porto-Novo",
     "currency_code": "XOF",
@@ -335,7 +335,7 @@
   "BN": {
     "name": "Brunei",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Bandar Seri Begawan",
     "currency_code": "BND",
@@ -348,7 +348,7 @@
   "BO": {
     "name": "Bolivia",
     "regions": [
-      "South America"
+      "SA"
     ],
     "capital": "Sucre",
     "currency_code": "BOB",
@@ -372,7 +372,7 @@
   "BR": {
     "name": "Brazil",
     "regions": [
-      "South America"
+      "SA"
     ],
     "capital": "Brasilia",
     "currency_code": "BRL",
@@ -418,7 +418,7 @@
   "BW": {
     "name": "Botswana",
     "regions": [
-      "Southern Africa"
+      "SAF"
     ],
     "capital": "Gaborone",
     "currency_code": "BWP",
@@ -431,7 +431,7 @@
   "BY": {
     "name": "Belarus",
     "regions": [
-      "Eastern Europe"
+      "EE"
     ],
     "capital": "Minsk",
     "currency_code": "BYN",
@@ -455,7 +455,7 @@
   "CA": {
     "name": "Canada",
     "regions": [
-      "North America"
+      "NA"
     ],
     "capital": "Ottawa",
     "currency_code": "CAD",
@@ -491,7 +491,7 @@
   "CF": {
     "name": "Central African Republic",
     "regions": [
-      "Central Africa"
+      "CF"
     ],
     "capital": "Bangui",
     "currency_code": "XAF",
@@ -515,7 +515,7 @@
   "CH": {
     "name": "Switzerland",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Berne",
     "currency_code": "CHF",
@@ -550,7 +550,7 @@
   "CL": {
     "name": "Chile",
     "regions": [
-      "South America"
+      "SA"
     ],
     "capital": "Santiago",
     "currency_code": "CLP",
@@ -563,7 +563,7 @@
   "CM": {
     "name": "Cameroon",
     "regions": [
-      "Central Africa"
+      "CF"
     ],
     "capital": "Yaounde",
     "currency_code": "XAF",
@@ -576,7 +576,7 @@
   "CN": {
     "name": "China",
     "regions": [
-      "East Asia"
+      "EAS"
     ],
     "capital": "Beijing",
     "currency_code": "CNY",
@@ -589,7 +589,7 @@
   "CO": {
     "name": "Colombia",
     "regions": [
-      "South America"
+      "SA"
     ],
     "capital": "Bogota",
     "currency_code": "COP",
@@ -613,7 +613,7 @@
   "CU": {
     "name": "Cuba",
     "regions": [
-      "Caribbean"
+      "CAR"
     ],
     "capital": "Havana",
     "currency_code": "CUP",
@@ -626,7 +626,7 @@
   "CV": {
     "name": "Cape Verde",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Praia",
     "currency_code": "CVE",
@@ -663,7 +663,7 @@
   "CY": {
     "name": "Cyprus",
     "regions": [
-      "Western Asia"
+      "WAS"
     ],
     "capital": "Nicosia",
     "currency_code": "EUR",
@@ -676,7 +676,7 @@
   "CZ": {
     "name": "Czech Republic",
     "regions": [
-      "Central Europe"
+      "CEU"
     ],
     "capital": "Prague",
     "currency_code": "CZK",
@@ -689,7 +689,7 @@
   "DE": {
     "name": "Germany",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Berlin",
     "currency_code": "EUR",
@@ -714,9 +714,9 @@
   "DK": {
     "name": "Denmark",
     "regions": [
-      "Scandinavia",
-      "Nordic Countries",
-      "Western Europe"
+      "SCAN",
+      "NOR",
+      "WEU"
     ],
     "capital": "Copenhagen",
     "currency_code": "DKK",
@@ -751,7 +751,7 @@
   "DZ": {
     "name": "Algeria",
     "regions": [
-      "Northern Africa"
+      "NAFR"
     ],
     "capital": "Algiers",
     "currency_code": "DZD",
@@ -775,7 +775,7 @@
   "EE": {
     "name": "Estonia",
     "regions": [
-      "Baltic Countries"
+      "BALT"
     ],
     "capital": "Tallinn",
     "currency_code": "EUR",
@@ -821,7 +821,7 @@
   "ES": {
     "name": "Spain",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Madrid",
     "currency_code": "EUR",
@@ -834,7 +834,7 @@
   "ET": {
     "name": "Ethiopia",
     "regions": [
-      "East Africa"
+      "EAF"
     ],
     "capital": "Addis Ababa",
     "currency_code": "ETB",
@@ -847,7 +847,7 @@
   "FI": {
     "name": "Finland",
     "regions": [
-      "Nordic Countries"
+      "NOR"
     ],
     "capital": "Helsinki",
     "currency_code": "EUR",
@@ -905,7 +905,7 @@
   "FR": {
     "name": "France",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Paris",
     "currency_code": "EUR",
@@ -930,7 +930,7 @@
   "GB": {
     "name": "United Kingdom",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "London",
     "currency_code": "GBP",
@@ -955,7 +955,7 @@
   "GE": {
     "name": "Georgia",
     "regions": [
-      "Western Asia"
+      "WAS"
     ],
     "capital": "Tbilisi",
     "currency_code": "GEL",
@@ -1001,7 +1001,7 @@
   "GI": {
     "name": "Gibraltar",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Gibraltar",
     "currency_code": "GIP",
@@ -1069,7 +1069,7 @@
   "GR": {
     "name": "Greece",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Athens",
     "currency_code": "EUR",
@@ -1170,7 +1170,7 @@
   "HR": {
     "name": "Croatia",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Zagreb",
     "currency_code": "HRK",
@@ -1194,7 +1194,7 @@
   "HU": {
     "name": "Hungary",
     "regions": [
-      "Central Europe"
+      "CEU"
     ],
     "capital": "Budapest",
     "currency_code": "HUF",
@@ -1207,8 +1207,8 @@
   "ID": {
     "name": "Indonesia",
     "regions": [
-      "South-East Asia",
-      "Oceania"
+      "SEA",
+      "OC"
     ],
     "capital": "Jakarta",
     "currency_code": "IDR",
@@ -1221,7 +1221,7 @@
   "IE": {
     "name": "Ireland",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Dublin",
     "currency_code": "EUR",
@@ -1256,7 +1256,7 @@
   "IN": {
     "name": "India",
     "regions": [
-      "Southern Asia"
+      "SAS"
     ],
     "capital": "New Delhi",
     "currency_code": "INR",
@@ -1302,8 +1302,8 @@
   "IS": {
     "name": "Iceland",
     "regions": [
-      "Scandinavia",
-      "Nordic Countries"
+      "SCAN",
+      "NOR"
     ],
     "capital": "Reykjavik",
     "currency_code": "ISK",
@@ -1316,7 +1316,7 @@
   "IT": {
     "name": "Italy",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Rome",
     "currency_code": "EUR",
@@ -1351,8 +1351,8 @@
   "JO": {
     "name": "Jordan",
     "regions": [
-      "Western Asia",
-      "Middle East"
+      "WAS",
+      "ME"
     ],
     "capital": "Amman",
     "currency_code": "JOD",
@@ -1365,7 +1365,7 @@
   "JP": {
     "name": "Japan",
     "regions": [
-      "East Asia"
+      "EAS"
     ],
     "capital": "Tokyo",
     "currency_code": "JPY",
@@ -1389,7 +1389,7 @@
   "KG": {
     "name": "Kyrgyzstan",
     "regions": [
-      "Central Asia"
+      "CAS"
     ],
     "capital": "Bishkek",
     "currency_code": "KGS",
@@ -1402,7 +1402,7 @@
   "KH": {
     "name": "Cambodia",
     "regions": [
-      "South-East Asia"
+      "SEA"
     ],
     "capital": "Phnom Penh",
     "currency_code": "KHR",
@@ -1415,7 +1415,7 @@
   "KI": {
     "name": "Kiribati",
     "regions": [
-      "Micronesia"
+      "MIC"
     ],
     "capital": "Tarawa",
     "currency_code": "AUD",
@@ -1429,7 +1429,7 @@
   "KM": {
     "name": "Comoros",
     "regions": [
-      "Eastern Africa"
+      "EAFR"
     ],
     "capital": "Moroni",
     "currency_code": "KMF",
@@ -1442,7 +1442,7 @@
   "KN": {
     "name": "Saint Kitts and Nevis",
     "regions": [
-      "Caribbean"
+      "CAR"
     ],
     "capital": "Basseterre",
     "currency_code": "XCD",
@@ -1455,7 +1455,7 @@
   "KP": {
     "name": "North Korea",
     "regions": [
-      "Eastern Asia"
+      "EASS"
     ],
     "capital": "Pyongyang",
     "currency_code": "KPW",
@@ -1468,7 +1468,7 @@
   "KR": {
     "name": "South Korea",
     "regions": [
-      "Eastern Asia"
+      "EASS"
     ],
     "capital": "Seoul",
     "currency_code": "KRW",
@@ -1492,7 +1492,7 @@
   "KY": {
     "name": "Cayman Islands",
     "regions": [
-      "Caribbean"
+      "CAR"
     ],
     "capital": "George Town",
     "currency_code": "KYD",
@@ -1505,7 +1505,7 @@
   "KZ": {
     "name": "Kazakhstan",
     "regions": [
-      "Central Asia"
+      "CAS"
     ],
     "capital": "Astana",
     "currency_code": "KZT",
@@ -1518,7 +1518,7 @@
   "LA": {
     "name": "Laos",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Vientiane",
     "currency_code": "LAK",
@@ -1531,7 +1531,7 @@
   "LB": {
     "name": "Lebanon",
     "regions": [
-      "Western Asia"
+      "WAS"
     ],
     "capital": "Beirut",
     "currency_code": "LBP",
@@ -1555,7 +1555,7 @@
   "LI": {
     "name": "Liechtenstein",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Vaduz",
     "currency_code": "CHF",
@@ -1579,7 +1579,7 @@
   "LR": {
     "name": "Liberia",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Monrovia",
     "currency_code": "LRD",
@@ -1592,7 +1592,7 @@
   "LS": {
     "name": "Lesotho",
     "regions": [
-      "Southern Africa"
+      "SAF"
     ],
     "capital": "Maseru",
     "currency_code": "LSL",
@@ -1605,7 +1605,7 @@
   "LT": {
     "name": "Lithuania",
     "regions": [
-      "Baltic Countries"
+      "BALT"
     ],
     "capital": "Vilnius",
     "currency_code": "LTL",
@@ -1618,7 +1618,7 @@
   "LU": {
     "name": "Luxembourg",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Luxembourg",
     "currency_code": "EUR",
@@ -1631,7 +1631,7 @@
   "LV": {
     "name": "Latvia",
     "regions": [
-      "Baltic Countries"
+      "BALT"
     ],
     "capital": "Riga",
     "currency_code": "EUR",
@@ -1644,7 +1644,7 @@
   "LY": {
     "name": "Libya",
     "regions": [
-      "Northern Africa"
+      "NAFR"
     ],
     "capital": "Tripolis",
     "currency_code": "LYD",
@@ -1668,7 +1668,7 @@
   "MC": {
     "name": "Monaco",
     "regions": [
-      "Western Europe"
+      "WEU"
     ],
     "capital": "Monaco",
     "currency_code": "EUR",
@@ -1681,7 +1681,7 @@
   "MD": {
     "name": "Moldova",
     "regions": [
-      "Eastern Europe"
+      "EE"
     ],
     "capital": "Chisinau",
     "currency_code": "MDL",
@@ -1694,7 +1694,7 @@
   "ME": {
     "name": "Montenegro",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Podgorica",
     "currency_code": "EUR",
@@ -1718,7 +1718,7 @@
   "MG": {
     "name": "Madagascar",
     "regions": [
-      "Eastern Africa"
+      "EAFR"
     ],
     "capital": "Antananarivo",
     "currency_code": "MGA",
@@ -1742,7 +1742,7 @@
   "MK": {
     "name": "Macedonia",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Skopje",
     "currency_code": "MKD",
@@ -1755,7 +1755,7 @@
   "ML": {
     "name": "Mali",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Bamako",
     "currency_code": "XOF",
@@ -1768,7 +1768,7 @@
   "MM": {
     "name": "Myanmar",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Nay Pyi Taw",
     "currency_code": "MMK",
@@ -1782,7 +1782,7 @@
   "MN": {
     "name": "Mongolia",
     "regions": [
-      "East Asia"
+      "EAS"
     ],
     "capital": "Ulan Bator",
     "currency_code": "MNT",
@@ -1828,7 +1828,7 @@
   "MR": {
     "name": "Mauritania",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Nouakchott",
     "currency_code": "MRO",
@@ -1852,7 +1852,7 @@
   "MT": {
     "name": "Malta",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Valletta",
     "currency_code": "EUR",
@@ -1865,7 +1865,7 @@
   "MU": {
     "name": "Mauritius",
     "regions": [
-      "Eastern Africa"
+      "EAFR"
     ],
     "capital": "Port Louis",
     "currency_code": "MUR",
@@ -1878,7 +1878,7 @@
   "MV": {
     "name": "Maldives",
     "regions": [
-      "Southern Asia"
+      "SAS"
     ],
     "capital": "Male",
     "currency_code": "MVR",
@@ -1891,7 +1891,7 @@
   "MW": {
     "name": "Malawi",
     "regions": [
-      "Eastern Africa"
+      "EAFR"
     ],
     "capital": "Lilongwe",
     "currency_code": "MWK",
@@ -1904,7 +1904,7 @@
   "MX": {
     "name": "Mexico",
     "regions": [
-      "North America"
+      "NA"
     ],
     "capital": "Mexico City",
     "currency_code": "MXN",
@@ -1917,7 +1917,7 @@
   "MY": {
     "name": "Malaysia",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Kuala Lumpur",
     "currency_code": "MYR",
@@ -1963,7 +1963,7 @@
   "NE": {
     "name": "Niger",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Niamey",
     "currency_code": "XOF",
@@ -1987,7 +1987,7 @@
   "NG": {
     "name": "Nigeria",
     "regions": [
-      "Western Africa"
+      "WAF"
     ],
     "capital": "Abuja",
     "currency_code": "NGN",
@@ -2000,7 +2000,7 @@
   "NI": {
     "name": "Nicaragua",
     "regions": [
-      "Central America"
+      "CAM"
     ],
     "capital": "Managua",
     "currency_code": "NIO",
@@ -2013,8 +2013,8 @@
   "NL": {
     "name": "Netherlands",
     "regions": [
-      "Western Europe",
-      "Nordic Countries"
+      "WEU",
+      "NOR"
     ],
     "capital": "Amsterdam",
     "currency_code": "EUR",
@@ -2027,9 +2027,9 @@
   "NO": {
     "name": "Norway",
     "regions": [
-      "Western Europe",
-      "Scandinavia",
-      "Nordic Countries"
+      "WEU",
+      "SCAN",
+      "NOR"
     ],
     "capital": "Oslo",
     "currency_code": "NOK",
@@ -2040,7 +2040,7 @@
   "NP": {
     "name": "Nepal",
     "regions": [
-      "Southern Asia"
+      "SAS"
     ],
     "capital": "Kathmandu",
     "currency_code": "NPR",
@@ -2053,7 +2053,7 @@
   "NR": {
     "name": "Nauru",
     "regions": [
-      "Micronesia"
+      "MIC"
     ],
     "capital": "Yaren",
     "currency_code": "AUD",
@@ -2066,7 +2066,7 @@
   "NU": {
     "name": "Niue",
     "regions": [
-      "Polynesia"
+      "POL"
     ],
     "capital": "Alofi",
     "currency_code": "NZD",
@@ -2079,7 +2079,7 @@
   "NZ": {
     "name": "New Zealand",
     "regions": [
-      "Oceania"
+      "OC"
     ],
     "capital": "Wellington",
     "currency_code": "NZD",
@@ -2115,7 +2115,7 @@
   "PE": {
     "name": "Peru",
     "regions": [
-      "South America"
+      "SA"
     ],
     "capital": "Lima",
     "currency_code": "PEN",
@@ -2150,7 +2150,7 @@
   "PH": {
     "name": "Philippines",
     "regions": [
-      "South-East Asia"
+      "SEA"
     ],
     "capital": "Manila",
     "currency_code": "PHP",
@@ -2163,7 +2163,7 @@
   "PK": {
     "name": "Pakistan",
     "regions": [
-      "Southern Asia"
+      "SAS"
     ],
     "capital": "Islamabad",
     "currency_code": "PKR",
@@ -2176,7 +2176,7 @@
   "PL": {
     "name": "Poland",
     "regions": [
-      "Central Europe"
+      "CEU"
     ],
     "capital": "Warsaw",
     "currency_code": "PLN",
@@ -2233,7 +2233,7 @@
   "PT": {
     "name": "Portugal",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Lisbon",
     "currency_code": "EUR",
@@ -2290,7 +2290,7 @@
   "RO": {
     "name": "Romania",
     "regions": [
-      "Central Europe"
+      "CEU"
     ],
     "capital": "Bucharest",
     "currency_code": "RON",
@@ -2303,7 +2303,7 @@
   "RS": {
     "name": "Serbia",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Belgrade",
     "currency_code": "RSD",
@@ -2320,7 +2320,7 @@
   "RU": {
     "name": "Russia",
     "regions": [
-      "Eastern Europe"
+      "EE"
     ],
     "capital": "Moscow",
     "currency_code": "RUB",
@@ -2390,9 +2390,9 @@
   "SE": {
     "name": "Sweden",
     "regions": [
-      "Western Europe",
-      "Scandinavia",
-      "Nordic Countries"
+      "WEU",
+      "SCAN",
+      "NOR"
     ],
     "capital": "Stockholm",
     "currency_code": "SEK",
@@ -2405,7 +2405,7 @@
   "SG": {
     "name": "Singapore",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Singapur",
     "currency_code": "SGD",
@@ -2429,7 +2429,7 @@
   "SI": {
     "name": "Slovenia",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Ljubljana",
     "currency_code": "EUR",
@@ -2453,7 +2453,7 @@
   "SK": {
     "name": "Slovakia",
     "regions": [
-      "Central Europe"
+      "CEU"
     ],
     "capital": "Bratislava",
     "currency_code": "EUR",
@@ -2477,7 +2477,7 @@
   "SM": {
     "name": "San Marino",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "San Marino",
     "currency_code": "EUR",
@@ -2600,7 +2600,7 @@
   "TD": {
     "name": "Chad",
     "regions": [
-      "Central Africa"
+      "CF"
     ],
     "capital": "N'Djamena",
     "currency_code": "XAF",
@@ -2635,7 +2635,7 @@
   "TH": {
     "name": "Thailand",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Bangkok",
     "currency_code": "THB",
@@ -2648,7 +2648,7 @@
   "TJ": {
     "name": "Tajikistan",
     "regions": [
-      "Central Asia"
+      "CAS"
     ],
     "capital": "Dushanbe",
     "currency_code": "TJS",
@@ -2672,7 +2672,7 @@
   "TL": {
     "name": "East Timor",
     "regions": [
-      "South-Eastern Asia"
+      "SEA"
     ],
     "capital": "Dili",
     "currency_code": "USD",
@@ -2686,7 +2686,7 @@
   "TM": {
     "name": "Turkmenistan",
     "regions": [
-      "Central Asia"
+      "CAS"
     ],
     "capital": "Ashgabat",
     "currency_code": "TMT",
@@ -2721,8 +2721,8 @@
   "TR": {
     "name": "Turkey",
     "regions": [
-      "Western Asia",
-      "Middle East"
+      "WAS",
+      "ME"
     ],
     "capital": "Ankara",
     "currency_code": "TRY",
@@ -2779,7 +2779,7 @@
   "UA": {
     "name": "Ukraine",
     "regions": [
-      "Eastern Europe"
+      "EE"
     ],
     "capital": "Kiev",
     "currency_code": "UAH",
@@ -2818,7 +2818,7 @@
   "US": {
     "name": "United States",
     "regions": [
-      "North America"
+      "NA"
     ],
     "capital": "Washington",
     "currency_code": "USD",
@@ -2842,7 +2842,7 @@
   "UZ": {
     "name": "Uzbekistan",
     "regions": [
-      "Central Asia"
+      "CAS"
     ],
     "capital": "Tashkent",
     "currency_code": "UZS",
@@ -2855,7 +2855,7 @@
   "VA": {
     "name": "Vatican",
     "regions": [
-      "Southern Europe"
+      "SE"
     ],
     "capital": "Vatican City",
     "currency_code": "EUR",
@@ -2912,7 +2912,7 @@
   "VN": {
     "name": "Vietnam",
     "regions": [
-      "South-East Asia"
+      "SEA"
     ],
     "capital": "Hanoi",
     "currency_code": "VND",
@@ -2960,7 +2960,7 @@
   "XK": {
     "name": "Kosovo",
     "regions": [
-      "Balkans"
+      "BKS"
     ],
     "capital": "Pristina",
     "currency_code": "EUR",
