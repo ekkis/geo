@@ -2,8 +2,14 @@
   "ANENI": {
     "name": "Anenii Noi"
   },
+  "BALT": {
+    "name": "Bălți"
+  },
   "BASAR": {
     "name": "Basarabeasca"
+  },
+  "BENDER": {
+    "name": "Bender"
   },
   "BRICE": {
     "name": "Briceni"
@@ -11,14 +17,17 @@
   "CAHUL": {
     "name": "Cahul"
   },
-  "CANTEM": {
-    "name": "Cantemir"
-  },
   "CALAR": {
     "name": "Călărași"
   },
+  "CANTEM": {
+    "name": "Cantemir"
+  },
   "CAUSEN": {
     "name": "Căușeni"
+  },
+  "CHISIN": {
+    "name": "Chișinău"
   },
   "CIMIS": {
     "name": "Cimișlia"
@@ -86,22 +95,13 @@
   "STRAS": {
     "name": "Strășeni"
   },
-  "TRANS": {
-    "name": "Transnistria"
-  },
   "TELEN": {
     "name": "Telenești"
   },
+  "TRANS": {
+    "name": "Transnistria"
+  },
   "UNGHE": {
     "name": "Ungheni"
-  },
-  "CHISIN": {
-    "name": "Chișinău"
-  },
-  "BALT": {
-    "name": "Bălți"
-  },
-  "BENDER": {
-    "name": "Bender"
   }
 }

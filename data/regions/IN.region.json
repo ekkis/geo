@@ -1,4 +1,7 @@
 {
+  "AA": {
+    "name": "Andaman and Nicobar Islands"
+  },
   "AP": {
     "name": "Arunachal Pradesh"
   },
@@ -8,8 +11,14 @@
   "BIH": {
     "name": "Bihar"
   },
+  "CHA": {
+    "name": "Chandigarh"
+  },
   "CHH": {
     "name": "Chhattisgarh"
+  },
+  "DA": {
+    "name": "Daman and Diu"
   },
   "GOA": {
     "name": "Goa"
@@ -35,8 +44,8 @@
   "KER": {
     "name": "Kerala"
   },
-  "MP": {
-    "name": "Madhya Pradesh"
+  "LAK": {
+    "name": "Lakshadweep"
   },
   "MAH": {
     "name": "Maharashtra"
@@ -50,11 +59,20 @@
   "MIZ": {
     "name": "Mizoram"
   },
+  "MP": {
+    "name": "Madhya Pradesh"
+  },
   "NAG": {
     "name": "Nagaland"
   },
+  "NC": {
+    "name": "National Capital Territory of Delhi"
+  },
   "ODI": {
     "name": "Odisha"
+  },
+  "PUD": {
+    "name": "Puducherry"
   },
   "PUN": {
     "name": "Punjab"
@@ -65,11 +83,11 @@
   "SIK": {
     "name": "Sikkim"
   },
-  "TN": {
-    "name": "Tamil Nadu"
-  },
   "TEL": {
     "name": "Telangana"
+  },
+  "TN": {
+    "name": "Tamil Nadu"
   },
   "TRI": {
     "name": "Tripura"
@@ -82,23 +100,5 @@
   },
   "WB": {
     "name": "West Bengal"
-  },
-  "AA": {
-    "name": "Andaman and Nicobar Islands"
-  },
-  "CHA": {
-    "name": "Chandigarh"
-  },
-  "DA": {
-    "name": "Daman and Diu"
-  },
-  "LAK": {
-    "name": "Lakshadweep"
-  },
-  "NC": {
-    "name": "National Capital Territory of Delhi"
-  },
-  "PUD": {
-    "name": "Puducherry"
   }
 }

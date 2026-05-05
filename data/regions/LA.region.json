@@ -17,11 +17,11 @@
   "KHAMMOU": {
     "name": "Khammouane"
   },
-  "LUANGNAM": {
-    "name": "Luang Namtha"
-  },
   "LUANGBP": {
     "name": "Luang Prabang"
+  },
+  "LUANGNAM": {
+    "name": "Luang Namtha"
   },
   "OUDOMX": {
     "name": "Oudomxay"
@@ -38,6 +38,9 @@
   "SEKONG": {
     "name": "Sekong"
   },
+  "VIENTJ": {
+    "name": "Vientiane Prefecture"
+  },
   "VIENTP": {
     "name": "Vientiane Province"
   },
@@ -49,8 +52,5 @@
   },
   "XIENGK": {
     "name": "Xieng Khouang"
-  },
-  "VIENTJ": {
-    "name": "Vientiane Prefecture"
   }
 }

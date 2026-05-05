@@ -1,27 +1,21 @@
 {
-  "Diekirch": {
-    "name": "Diekirch"
+  "Capellen": {
+    "name": "Capellen"
   },
   "Clervaux": {
     "name": "Clervaux"
   },
-  "Redange": {
-    "name": "Redange"
-  },
-  "Vianden": {
-    "name": "Vianden"
-  },
-  "Wiltz": {
-    "name": "Wiltz"
+  "Diekirch": {
+    "name": "Diekirch"
   },
   "Echternach": {
     "name": "Echternach"
   },
+  "Esch-sur-Alzette": {
+    "name": "Esch-sur-Alzette"
+  },
   "Grevenmacher": {
     "name": "Grevenmacher"
-  },
-  "Remich": {
-    "name": "Remich"
   },
   "Luxembourg": {
     "name": "Luxembourg"
@@ -29,10 +23,16 @@
   "Mersch": {
     "name": "Mersch"
   },
-  "Capellen": {
-    "name": "Capellen"
+  "Redange": {
+    "name": "Redange"
   },
-  "Esch-sur-Alzette": {
-    "name": "Esch-sur-Alzette"
+  "Remich": {
+    "name": "Remich"
+  },
+  "Vianden": {
+    "name": "Vianden"
+  },
+  "Wiltz": {
+    "name": "Wiltz"
   }
 }

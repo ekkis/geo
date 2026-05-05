@@ -11,6 +11,9 @@
   "H": {
     "name": "Mafeteng"
   },
+  "K": {
+    "name": "Thaba-Tseka"
+  },
   "M": {
     "name": "Maseru"
   },
@@ -25,8 +28,5 @@
   },
   "T": {
     "name": "Quthing"
-  },
-  "K": {
-    "name": "Thaba-Tseka"
   }
 }

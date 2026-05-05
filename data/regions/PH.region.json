@@ -44,12 +44,6 @@
   "CAG": {
     "name": "Cagayan"
   },
-  "CN": {
-    "name": "Camarines Norte"
-  },
-  "CS": {
-    "name": "Camarines Sur"
-  },
   "CAM": {
     "name": "Camiguin"
   },
@@ -65,20 +59,26 @@
   "CEB": {
     "name": "Cebu"
   },
-  "CV": {
-    "name": "Compostela Valley"
+  "CN": {
+    "name": "Camarines Norte"
   },
   "COT": {
     "name": "Cotabato"
   },
+  "CS": {
+    "name": "Camarines Sur"
+  },
+  "CV": {
+    "name": "Compostela Valley"
+  },
   "DD": {
     "name": "Davao del Sur"
   },
-  "DO": {
-    "name": "Davao Oriental"
-  },
   "DI": {
     "name": "Dinagat Islands"
+  },
+  "DO": {
+    "name": "Davao Oriental"
   },
   "ES": {
     "name": "Eastern Samar"
@@ -89,23 +89,20 @@
   "IFU": {
     "name": "Ifugao"
   },
+  "ILO": {
+    "name": "Iloilo"
+  },
   "IN": {
     "name": "Ilocos Norte"
   },
   "IS": {
     "name": "Ilocos Sur"
   },
-  "ILO": {
-    "name": "Iloilo"
-  },
   "ISA": {
     "name": "Isabela"
   },
   "KAL": {
     "name": "Kalinga"
-  },
-  "LU": {
-    "name": "La Union"
   },
   "LAG": {
     "name": "Laguna"
@@ -116,6 +113,9 @@
   "LEY": {
     "name": "Leyte"
   },
+  "LU": {
+    "name": "La Union"
+  },
   "MAG": {
     "name": "Maguindanao"
   },
@@ -125,20 +125,23 @@
   "MAS": {
     "name": "Masbate"
   },
+  "MM": {
+    "name": "Metro Manila"
+  },
   "MO": {
     "name": "Misamis Oriental"
   },
   "MP": {
     "name": "Mountain Province"
   },
+  "NE": {
+    "name": "Nueva Ecija"
+  },
   "NO": {
     "name": "Negros Oriental"
   },
   "NS": {
     "name": "Northern Samar"
-  },
-  "NE": {
-    "name": "Nueva Ecija"
   },
   "NV": {
     "name": "Nueva Vizcaya"
@@ -173,26 +176,26 @@
   "SAR": {
     "name": "Sarangani"
   },
-  "SIQ": {
-    "name": "Siquijor"
-  },
-  "SOR": {
-    "name": "Sorsogon"
-  },
   "SC": {
     "name": "South Cotabato"
   },
-  "SL": {
-    "name": "Southern Leyte"
+  "SD": {
+    "name": "Surigao del Sur"
+  },
+  "SIQ": {
+    "name": "Siquijor"
   },
   "SK": {
     "name": "Sultan Kudarat"
   },
+  "SL": {
+    "name": "Southern Leyte"
+  },
+  "SOR": {
+    "name": "Sorsogon"
+  },
   "SUL": {
     "name": "Sulu"
-  },
-  "SD": {
-    "name": "Surigao del Sur"
   },
   "TAR": {
     "name": "Tarlac"
@@ -208,8 +211,5 @@
   },
   "ZS": {
     "name": "Zamboanga Sibugay"
-  },
-  "MM": {
-    "name": "Metro Manila"
   }
 }

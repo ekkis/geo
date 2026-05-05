@@ -1,15 +1,12 @@
 {
-  "ULAANB": {
-    "name": "Ulaanbaatar"
-  },
   "ARKH": {
     "name": "Arkhangai"
   },
-  "BAYAO": {
-    "name": "Bayan-Olgii"
-  },
   "BAYANH": {
     "name": "Bayankhongor"
+  },
+  "BAYAO": {
+    "name": "Bayan-Olgii"
   },
   "BULG": {
     "name": "Bulgan"
@@ -26,8 +23,23 @@
   "DUND": {
     "name": "Dundgovi"
   },
-  "ZAVK": {
-    "name": "Zavkhan"
+  "GOVI": {
+    "name": "Govi-Altai"
+  },
+  "GOVIS": {
+    "name": "Govi-Sumber"
+  },
+  "KHENT": {
+    "name": "Khentii"
+  },
+  "KHOV": {
+    "name": "Khovd"
+  },
+  "KHOVG": {
+    "name": "Khövsgöl"
+  },
+  "ORKHON": {
+    "name": "Orkhon"
   },
   "OVORK": {
     "name": "Ovorkhangai"
@@ -38,28 +50,16 @@
   "TUV": {
     "name": "Töv"
   },
-  "UVS": {
-    "name": "Uvs"
-  },
-  "KHOV": {
-    "name": "Khovd"
-  },
-  "KHENT": {
-    "name": "Khentii"
+  "ULAANB": {
+    "name": "Ulaanbaatar"
   },
   "UMNU": {
     "name": "Umnugovi"
   },
-  "GOVI": {
-    "name": "Govi-Altai"
+  "UVS": {
+    "name": "Uvs"
   },
-  "KHOVG": {
-    "name": "Khövsgöl"
-  },
-  "ORKHON": {
-    "name": "Orkhon"
-  },
-  "GOVIS": {
-    "name": "Govi-Sumber"
+  "ZAVK": {
+    "name": "Zavkhan"
   }
 }

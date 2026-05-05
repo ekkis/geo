@@ -1,10 +1,4 @@
 {
-  "TH": {
-    "name": "Thiladhunmathi"
-  },
-  "MUA": {
-    "name": "Muizzu"
-  },
   "AAD": {
     "name": "Addu"
   },
@@ -17,10 +11,16 @@
   "K": {
     "name": "Kolhumadulu"
   },
-  "S": {
-    "name": "South Province"
+  "MUA": {
+    "name": "Muizzu"
   },
   "N": {
     "name": "North Province"
+  },
+  "S": {
+    "name": "South Province"
+  },
+  "TH": {
+    "name": "Thiladhunmathi"
   }
 }

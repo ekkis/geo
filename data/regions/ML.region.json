@@ -1,4 +1,7 @@
 {
+  "CM": {
+    "name": "Bamako Capital District"
+  },
   "GA": {
     "name": "Gao"
   },
@@ -16,8 +19,5 @@
   },
   "TB": {
     "name": "Tombouctou"
-  },
-  "CM": {
-    "name": "Bamako Capital District"
   }
 }

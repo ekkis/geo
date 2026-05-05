@@ -1,4 +1,98 @@
 {
+  "AD": {
+    "name": "Andorra",
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "regions": []
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "regions": [
+      "Southern Asia"
+    ]
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "regions": []
+  },
+  "AI": {
+    "name": "Anguilla",
+    "regions": []
+  },
+  "AL": {
+    "name": "Albania",
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "AM": {
+    "name": "Armenia",
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "AO": {
+    "name": "Angola",
+    "regions": [
+      "Central Africa"
+    ]
+  },
+  "AQ": {
+    "name": "Antarctica",
+    "regions": []
+  },
+  "AR": {
+    "name": "Argentina",
+    "regions": [
+      "South America"
+    ]
+  },
+  "AS": {
+    "name": "American Samoa",
+    "regions": []
+  },
+  "AT": {
+    "name": "Austria",
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "AU": {
+    "name": "Australia",
+    "regions": [
+      "Oceania"
+    ]
+  },
+  "AW": {
+    "name": "Aruba",
+    "regions": []
+  },
+  "AX": {
+    "name": "Aland Islands",
+    "regions": [
+      "Scandinavia"
+    ]
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "BB": {
+    "name": "Barbados",
+    "regions": []
+  },
   "BD": {
     "name": "Bangladesh",
     "regions": [
@@ -23,19 +117,21 @@
       "Central Europe"
     ]
   },
-  "BA": {
-    "name": "Bosnia and Herzegovina",
+  "BH": {
+    "name": "Bahrain",
     "regions": [
-      "Balkans"
+      "Western Asia"
     ]
   },
-  "BB": {
-    "name": "Barbados",
+  "BI": {
+    "name": "Burundi",
     "regions": []
   },
-  "WF": {
-    "name": "Wallis and Futuna",
-    "regions": []
+  "BJ": {
+    "name": "Benin",
+    "regions": [
+      "Western Africa"
+    ]
   },
   "BL": {
     "name": "Saint Barthelemy",
@@ -57,44 +153,6 @@
       "South America"
     ]
   },
-  "BH": {
-    "name": "Bahrain",
-    "regions": [
-      "Western Asia"
-    ]
-  },
-  "BI": {
-    "name": "Burundi",
-    "regions": []
-  },
-  "BJ": {
-    "name": "Benin",
-    "regions": [
-      "Western Africa"
-    ]
-  },
-  "BT": {
-    "name": "Bhutan",
-    "regions": []
-  },
-  "JM": {
-    "name": "Jamaica",
-    "regions": []
-  },
-  "BV": {
-    "name": "Bouvet Island",
-    "regions": []
-  },
-  "BW": {
-    "name": "Botswana",
-    "regions": [
-      "Southern Africa"
-    ]
-  },
-  "WS": {
-    "name": "Samoa",
-    "regions": []
-  },
   "BQ": {
     "name": "Bonaire, Saint Eustatius and Saba ",
     "regions": []
@@ -109,9 +167,19 @@
     "name": "Bahamas",
     "regions": []
   },
-  "JE": {
-    "name": "Jersey",
+  "BT": {
+    "name": "Bhutan",
     "regions": []
+  },
+  "BV": {
+    "name": "Bouvet Island",
+    "regions": []
+  },
+  "BW": {
+    "name": "Botswana",
+    "regions": [
+      "Southern Africa"
+    ]
   },
   "BY": {
     "name": "Belarus",
@@ -123,275 +191,138 @@
     "name": "Belize",
     "regions": []
   },
-  "RU": {
-    "name": "Russia",
+  "CA": {
+    "name": "Canada",
     "regions": [
-      "Eastern Europe"
+      "North America"
     ]
   },
-  "RW": {
-    "name": "Rwanda",
+  "CC": {
+    "name": "Cocos Islands",
     "regions": []
   },
-  "RS": {
-    "name": "Serbia",
+  "CD": {
+    "name": "Democratic Republic of the Congo",
+    "regions": []
+  },
+  "CF": {
+    "name": "Central African Republic",
     "regions": [
-      "Balkans"
+      "Central Africa"
     ]
   },
-  "TL": {
-    "name": "East Timor",
-    "regions": [
-      "South-Eastern Asia"
-    ]
-  },
-  "RE": {
-    "name": "Reunion",
+  "CG": {
+    "name": "Republic of the Congo",
     "regions": []
   },
-  "TM": {
-    "name": "Turkmenistan",
-    "regions": [
-      "Central Asia"
-    ]
-  },
-  "TJ": {
-    "name": "Tajikistan",
-    "regions": [
-      "Central Asia"
-    ]
-  },
-  "RO": {
-    "name": "Romania",
-    "regions": [
-      "Central Europe"
-    ]
-  },
-  "TK": {
-    "name": "Tokelau",
-    "regions": []
-  },
-  "GW": {
-    "name": "Guinea-Bissau",
-    "regions": []
-  },
-  "GU": {
-    "name": "Guam",
-    "regions": []
-  },
-  "GT": {
-    "name": "Guatemala",
-    "regions": []
-  },
-  "GS": {
-    "name": "South Georgia and the South Sandwich Islands",
-    "regions": []
-  },
-  "GR": {
-    "name": "Greece",
-    "regions": [
-      "Southern Europe"
-    ]
-  },
-  "GQ": {
-    "name": "Equatorial Guinea",
-    "regions": []
-  },
-  "GP": {
-    "name": "Guadeloupe",
-    "regions": []
-  },
-  "JP": {
-    "name": "Japan",
-    "regions": [
-      "East Asia"
-    ]
-  },
-  "GY": {
-    "name": "Guyana",
-    "regions": []
-  },
-  "GG": {
-    "name": "Guernsey",
-    "regions": []
-  },
-  "GF": {
-    "name": "French Guiana",
-    "regions": []
-  },
-  "GE": {
-    "name": "Georgia",
-    "regions": [
-      "Western Asia"
-    ]
-  },
-  "GD": {
-    "name": "Grenada",
-    "regions": []
-  },
-  "GB": {
-    "name": "United Kingdom",
+  "CH": {
+    "name": "Switzerland",
     "regions": [
       "Western Europe"
     ]
   },
-  "GA": {
-    "name": "Gabon",
+  "CI": {
+    "name": "Ivory Coast",
     "regions": []
   },
-  "SV": {
-    "name": "El Salvador",
+  "CK": {
+    "name": "Cook Islands",
     "regions": []
   },
-  "GN": {
-    "name": "Guinea",
-    "regions": []
-  },
-  "GM": {
-    "name": "Gambia",
-    "regions": []
-  },
-  "GL": {
-    "name": "Greenland",
-    "regions": []
-  },
-  "GI": {
-    "name": "Gibraltar",
-    "regions": [
-      "Southern Europe"
-    ]
-  },
-  "GH": {
-    "name": "Ghana",
-    "regions": []
-  },
-  "OM": {
-    "name": "Oman",
-    "regions": []
-  },
-  "TN": {
-    "name": "Tunisia",
-    "regions": []
-  },
-  "JO": {
-    "name": "Jordan",
-    "regions": [
-      "Western Asia",
-      "Middle East"
-    ]
-  },
-  "HR": {
-    "name": "Croatia",
-    "regions": [
-      "Balkans"
-    ]
-  },
-  "HT": {
-    "name": "Haiti",
-    "regions": []
-  },
-  "HU": {
-    "name": "Hungary",
-    "regions": [
-      "Central Europe"
-    ]
-  },
-  "HK": {
-    "name": "Hong Kong",
-    "regions": []
-  },
-  "HN": {
-    "name": "Honduras",
-    "regions": []
-  },
-  "HM": {
-    "name": "Heard Island and McDonald Islands",
-    "regions": []
-  },
-  "VE": {
-    "name": "Venezuela",
-    "regions": []
-  },
-  "PR": {
-    "name": "Puerto Rico",
-    "regions": []
-  },
-  "PS": {
-    "name": "Palestinian Territory",
-    "regions": []
-  },
-  "PW": {
-    "name": "Palau",
-    "regions": []
-  },
-  "PT": {
-    "name": "Portugal",
-    "regions": [
-      "Southern Europe"
-    ]
-  },
-  "SJ": {
-    "name": "Svalbard and Jan Mayen",
-    "regions": []
-  },
-  "PY": {
-    "name": "Paraguay",
-    "regions": []
-  },
-  "IQ": {
-    "name": "Iraq",
-    "regions": []
-  },
-  "PA": {
-    "name": "Panama",
-    "regions": []
-  },
-  "PF": {
-    "name": "French Polynesia",
-    "regions": []
-  },
-  "PG": {
-    "name": "Papua New Guinea",
-    "regions": []
-  },
-  "PE": {
-    "name": "Peru",
+  "CL": {
+    "name": "Chile",
     "regions": [
       "South America"
     ]
   },
-  "PK": {
-    "name": "Pakistan",
+  "CM": {
+    "name": "Cameroon",
     "regions": [
-      "Southern Asia"
+      "Central Africa"
     ]
   },
-  "PH": {
-    "name": "Philippines",
+  "CN": {
+    "name": "China",
     "regions": [
-      "South-East Asia"
+      "East Asia"
     ]
   },
-  "PN": {
-    "name": "Pitcairn",
+  "CO": {
+    "name": "Colombia",
+    "regions": [
+      "South America"
+    ]
+  },
+  "CR": {
+    "name": "Costa Rica",
     "regions": []
   },
-  "PL": {
-    "name": "Poland",
+  "CU": {
+    "name": "Cuba",
+    "regions": [
+      "Caribbean"
+    ]
+  },
+  "CV": {
+    "name": "Cape Verde",
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "CW": {
+    "name": "Curacao",
+    "regions": []
+  },
+  "CX": {
+    "name": "Christmas Island",
+    "regions": []
+  },
+  "CY": {
+    "name": "Cyprus",
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "CZ": {
+    "name": "Czech Republic",
     "regions": [
       "Central Europe"
     ]
   },
-  "PM": {
-    "name": "Saint Pierre and Miquelon",
+  "DE": {
+    "name": "Germany",
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "DJ": {
+    "name": "Djibouti",
     "regions": []
   },
-  "ZM": {
-    "name": "Zambia",
+  "DK": {
+    "name": "Denmark",
+    "regions": [
+      "Scandinavia",
+      "Nordic Countries",
+      "Western Europe"
+    ]
+  },
+  "DM": {
+    "name": "Dominica",
     "regions": []
   },
-  "EH": {
-    "name": "Western Sahara",
+  "DO": {
+    "name": "Dominican Republic",
+    "regions": []
+  },
+  "DZ": {
+    "name": "Algeria",
+    "regions": [
+      "Northern Africa"
+    ]
+  },
+  "EC": {
+    "name": "Ecuador",
     "regions": []
   },
   "EE": {
@@ -404,46 +335,12 @@
     "name": "Egypt",
     "regions": []
   },
-  "ZA": {
-    "name": "South Africa",
+  "EH": {
+    "name": "Western Sahara",
     "regions": []
   },
-  "EC": {
-    "name": "Ecuador",
-    "regions": []
-  },
-  "IT": {
-    "name": "Italy",
-    "regions": [
-      "Southern Europe"
-    ]
-  },
-  "VN": {
-    "name": "Vietnam",
-    "regions": [
-      "South-East Asia"
-    ]
-  },
-  "SB": {
-    "name": "Solomon Islands",
-    "regions": []
-  },
-  "ET": {
-    "name": "Ethiopia",
-    "regions": [
-      "East Africa"
-    ]
-  },
-  "SO": {
-    "name": "Somalia",
-    "regions": []
-  },
-  "ZW": {
-    "name": "Zimbabwe",
-    "regions": []
-  },
-  "SA": {
-    "name": "Saudi Arabia",
+  "ER": {
+    "name": "Eritrea",
     "regions": []
   },
   "ES": {
@@ -452,163 +349,11 @@
       "Southern Europe"
     ]
   },
-  "ER": {
-    "name": "Eritrea",
-    "regions": []
-  },
-  "ME": {
-    "name": "Montenegro",
+  "ET": {
+    "name": "Ethiopia",
     "regions": [
-      "Balkans"
+      "East Africa"
     ]
-  },
-  "MD": {
-    "name": "Moldova",
-    "regions": [
-      "Eastern Europe"
-    ]
-  },
-  "MG": {
-    "name": "Madagascar",
-    "regions": [
-      "Eastern Africa"
-    ]
-  },
-  "MF": {
-    "name": "Saint Martin",
-    "regions": []
-  },
-  "MA": {
-    "name": "Morocco",
-    "regions": []
-  },
-  "MC": {
-    "name": "Monaco",
-    "regions": [
-      "Western Europe"
-    ]
-  },
-  "UZ": {
-    "name": "Uzbekistan",
-    "regions": [
-      "Central Asia"
-    ]
-  },
-  "MM": {
-    "name": "Myanmar",
-    "regions": [
-      "South-Eastern Asia"
-    ]
-  },
-  "ML": {
-    "name": "Mali",
-    "regions": [
-      "Western Africa"
-    ]
-  },
-  "MO": {
-    "name": "Macao",
-    "regions": []
-  },
-  "MN": {
-    "name": "Mongolia",
-    "regions": [
-      "East Asia"
-    ]
-  },
-  "MH": {
-    "name": "Marshall Islands",
-    "regions": []
-  },
-  "MK": {
-    "name": "Macedonia",
-    "regions": [
-      "Balkans"
-    ]
-  },
-  "MU": {
-    "name": "Mauritius",
-    "regions": [
-      "Eastern Africa"
-    ]
-  },
-  "MT": {
-    "name": "Malta",
-    "regions": [
-      "Southern Europe"
-    ]
-  },
-  "MW": {
-    "name": "Malawi",
-    "regions": [
-      "Eastern Africa"
-    ]
-  },
-  "MV": {
-    "name": "Maldives",
-    "regions": [
-      "Southern Asia"
-    ]
-  },
-  "MQ": {
-    "name": "Martinique",
-    "regions": []
-  },
-  "MP": {
-    "name": "Northern Mariana Islands",
-    "regions": []
-  },
-  "MS": {
-    "name": "Montserrat",
-    "regions": []
-  },
-  "MR": {
-    "name": "Mauritania",
-    "regions": [
-      "Western Africa"
-    ]
-  },
-  "IM": {
-    "name": "Isle of Man",
-    "regions": []
-  },
-  "UG": {
-    "name": "Uganda",
-    "regions": []
-  },
-  "TZ": {
-    "name": "Tanzania",
-    "regions": []
-  },
-  "MY": {
-    "name": "Malaysia",
-    "regions": [
-      "South-Eastern Asia"
-    ]
-  },
-  "MX": {
-    "name": "Mexico",
-    "regions": [
-      "North America"
-    ]
-  },
-  "IL": {
-    "name": "Israel",
-    "regions": []
-  },
-  "FR": {
-    "name": "France",
-    "regions": [
-      "Western Europe"
-    ]
-  },
-  "IO": {
-    "name": "British Indian Ocean Territory",
-    "regions": []
-  },
-  "SH": {
-    "name": "Saint Helena",
-    "regions": []
   },
   "FI": {
     "name": "Finland",
@@ -632,33 +377,445 @@
     "name": "Faroe Islands",
     "regions": []
   },
-  "NI": {
-    "name": "Nicaragua",
+  "FR": {
+    "name": "France",
     "regions": [
-      "Central America"
+      "Western Europe"
     ]
   },
-  "NL": {
-    "name": "Netherlands",
+  "GA": {
+    "name": "Gabon",
+    "regions": []
+  },
+  "GB": {
+    "name": "United Kingdom",
     "regions": [
-      "Western Europe",
-      "Nordic Countries"
+      "Western Europe"
     ]
   },
-  "NO": {
-    "name": "Norway",
+  "GD": {
+    "name": "Grenada",
+    "regions": []
+  },
+  "GE": {
+    "name": "Georgia",
     "regions": [
-      "Western Europe",
+      "Western Asia"
+    ]
+  },
+  "GF": {
+    "name": "French Guiana",
+    "regions": []
+  },
+  "GG": {
+    "name": "Guernsey",
+    "regions": []
+  },
+  "GH": {
+    "name": "Ghana",
+    "regions": []
+  },
+  "GI": {
+    "name": "Gibraltar",
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "GL": {
+    "name": "Greenland",
+    "regions": []
+  },
+  "GM": {
+    "name": "Gambia",
+    "regions": []
+  },
+  "GN": {
+    "name": "Guinea",
+    "regions": []
+  },
+  "GP": {
+    "name": "Guadeloupe",
+    "regions": []
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "regions": []
+  },
+  "GR": {
+    "name": "Greece",
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "GS": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "regions": []
+  },
+  "GT": {
+    "name": "Guatemala",
+    "regions": []
+  },
+  "GU": {
+    "name": "Guam",
+    "regions": []
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "regions": []
+  },
+  "GY": {
+    "name": "Guyana",
+    "regions": []
+  },
+  "HK": {
+    "name": "Hong Kong",
+    "regions": []
+  },
+  "HM": {
+    "name": "Heard Island and McDonald Islands",
+    "regions": []
+  },
+  "HN": {
+    "name": "Honduras",
+    "regions": []
+  },
+  "HR": {
+    "name": "Croatia",
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "HT": {
+    "name": "Haiti",
+    "regions": []
+  },
+  "HU": {
+    "name": "Hungary",
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "ID": {
+    "name": "Indonesia",
+    "regions": [
+      "South-East Asia",
+      "Oceania"
+    ]
+  },
+  "IE": {
+    "name": "Ireland",
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "IL": {
+    "name": "Israel",
+    "regions": []
+  },
+  "IM": {
+    "name": "Isle of Man",
+    "regions": []
+  },
+  "IN": {
+    "name": "India",
+    "regions": [
+      "Southern Asia"
+    ]
+  },
+  "IO": {
+    "name": "British Indian Ocean Territory",
+    "regions": []
+  },
+  "IQ": {
+    "name": "Iraq",
+    "regions": []
+  },
+  "IR": {
+    "name": "Iran",
+    "regions": []
+  },
+  "IS": {
+    "name": "Iceland",
+    "regions": [
       "Scandinavia",
       "Nordic Countries"
     ]
   },
-  "NA": {
-    "name": "Namibia",
+  "IT": {
+    "name": "Italy",
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "JE": {
+    "name": "Jersey",
     "regions": []
   },
-  "VU": {
-    "name": "Vanuatu",
+  "JM": {
+    "name": "Jamaica",
+    "regions": []
+  },
+  "JO": {
+    "name": "Jordan",
+    "regions": [
+      "Western Asia",
+      "Middle East"
+    ]
+  },
+  "JP": {
+    "name": "Japan",
+    "regions": [
+      "East Asia"
+    ]
+  },
+  "KE": {
+    "name": "Kenya",
+    "regions": []
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "KH": {
+    "name": "Cambodia",
+    "regions": [
+      "South-East Asia"
+    ]
+  },
+  "KI": {
+    "name": "Kiribati",
+    "regions": [
+      "Micronesia"
+    ]
+  },
+  "KM": {
+    "name": "Comoros",
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "regions": [
+      "Caribbean"
+    ]
+  },
+  "KP": {
+    "name": "North Korea",
+    "regions": [
+      "Eastern Asia"
+    ]
+  },
+  "KR": {
+    "name": "South Korea",
+    "regions": [
+      "Eastern Asia"
+    ]
+  },
+  "KW": {
+    "name": "Kuwait",
+    "regions": []
+  },
+  "KY": {
+    "name": "Cayman Islands",
+    "regions": [
+      "Caribbean"
+    ]
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "LA": {
+    "name": "Laos",
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "LB": {
+    "name": "Lebanon",
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "regions": []
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "regions": []
+  },
+  "LR": {
+    "name": "Liberia",
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "LS": {
+    "name": "Lesotho",
+    "regions": [
+      "Southern Africa"
+    ]
+  },
+  "LT": {
+    "name": "Lithuania",
+    "regions": [
+      "Baltic Countries"
+    ]
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "LV": {
+    "name": "Latvia",
+    "regions": [
+      "Baltic Countries"
+    ]
+  },
+  "LY": {
+    "name": "Libya",
+    "regions": [
+      "Northern Africa"
+    ]
+  },
+  "MA": {
+    "name": "Morocco",
+    "regions": []
+  },
+  "MC": {
+    "name": "Monaco",
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "MD": {
+    "name": "Moldova",
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "ME": {
+    "name": "Montenegro",
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "MF": {
+    "name": "Saint Martin",
+    "regions": []
+  },
+  "MG": {
+    "name": "Madagascar",
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "MH": {
+    "name": "Marshall Islands",
+    "regions": []
+  },
+  "MK": {
+    "name": "Macedonia",
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "ML": {
+    "name": "Mali",
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "MM": {
+    "name": "Myanmar",
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "MN": {
+    "name": "Mongolia",
+    "regions": [
+      "East Asia"
+    ]
+  },
+  "MO": {
+    "name": "Macao",
+    "regions": []
+  },
+  "MP": {
+    "name": "Northern Mariana Islands",
+    "regions": []
+  },
+  "MQ": {
+    "name": "Martinique",
+    "regions": []
+  },
+  "MR": {
+    "name": "Mauritania",
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "MS": {
+    "name": "Montserrat",
+    "regions": []
+  },
+  "MT": {
+    "name": "Malta",
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "MU": {
+    "name": "Mauritius",
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "MV": {
+    "name": "Maldives",
+    "regions": [
+      "Southern Asia"
+    ]
+  },
+  "MW": {
+    "name": "Malawi",
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "MX": {
+    "name": "Mexico",
+    "regions": [
+      "North America"
+    ]
+  },
+  "MY": {
+    "name": "Malaysia",
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "regions": []
+  },
+  "NA": {
+    "name": "Namibia",
     "regions": []
   },
   "NC": {
@@ -681,10 +838,25 @@
       "Western Africa"
     ]
   },
-  "NZ": {
-    "name": "New Zealand",
+  "NI": {
+    "name": "Nicaragua",
     "regions": [
-      "Oceania"
+      "Central America"
+    ]
+  },
+  "NL": {
+    "name": "Netherlands",
+    "regions": [
+      "Western Europe",
+      "Nordic Countries"
+    ]
+  },
+  "NO": {
+    "name": "Norway",
+    "regions": [
+      "Western Europe",
+      "Scandinavia",
+      "Nordic Countries"
     ]
   },
   "NP": {
@@ -705,231 +877,127 @@
       "Polynesia"
     ]
   },
-  "CK": {
-    "name": "Cook Islands",
-    "regions": []
-  },
-  "XK": {
-    "name": "Kosovo",
+  "NZ": {
+    "name": "New Zealand",
     "regions": [
-      "Balkans"
+      "Oceania"
     ]
   },
-  "CI": {
-    "name": "Ivory Coast",
+  "OM": {
+    "name": "Oman",
     "regions": []
   },
-  "CH": {
-    "name": "Switzerland",
-    "regions": [
-      "Western Europe"
-    ]
+  "PA": {
+    "name": "Panama",
+    "regions": []
   },
-  "CO": {
-    "name": "Colombia",
+  "PE": {
+    "name": "Peru",
     "regions": [
       "South America"
     ]
   },
-  "CN": {
-    "name": "China",
-    "regions": [
-      "East Asia"
-    ]
-  },
-  "CM": {
-    "name": "Cameroon",
-    "regions": [
-      "Central Africa"
-    ]
-  },
-  "CL": {
-    "name": "Chile",
-    "regions": [
-      "South America"
-    ]
-  },
-  "CC": {
-    "name": "Cocos Islands",
+  "PF": {
+    "name": "French Polynesia",
     "regions": []
   },
-  "CA": {
-    "name": "Canada",
-    "regions": [
-      "North America"
-    ]
-  },
-  "CG": {
-    "name": "Republic of the Congo",
+  "PG": {
+    "name": "Papua New Guinea",
     "regions": []
   },
-  "CF": {
-    "name": "Central African Republic",
-    "regions": [
-      "Central Africa"
-    ]
-  },
-  "CD": {
-    "name": "Democratic Republic of the Congo",
-    "regions": []
-  },
-  "CZ": {
-    "name": "Czech Republic",
-    "regions": [
-      "Central Europe"
-    ]
-  },
-  "CY": {
-    "name": "Cyprus",
-    "regions": [
-      "Western Asia"
-    ]
-  },
-  "CX": {
-    "name": "Christmas Island",
-    "regions": []
-  },
-  "CR": {
-    "name": "Costa Rica",
-    "regions": []
-  },
-  "CW": {
-    "name": "Curacao",
-    "regions": []
-  },
-  "CV": {
-    "name": "Cape Verde",
-    "regions": [
-      "Western Africa"
-    ]
-  },
-  "CU": {
-    "name": "Cuba",
-    "regions": [
-      "Caribbean"
-    ]
-  },
-  "SZ": {
-    "name": "Swaziland",
-    "regions": []
-  },
-  "SY": {
-    "name": "Syria",
-    "regions": []
-  },
-  "SX": {
-    "name": "Sint Maarten",
-    "regions": []
-  },
-  "KG": {
-    "name": "Kyrgyzstan",
-    "regions": [
-      "Central Asia"
-    ]
-  },
-  "KE": {
-    "name": "Kenya",
-    "regions": []
-  },
-  "SS": {
-    "name": "South Sudan",
-    "regions": []
-  },
-  "SR": {
-    "name": "Suriname",
-    "regions": []
-  },
-  "KI": {
-    "name": "Kiribati",
-    "regions": [
-      "Micronesia"
-    ]
-  },
-  "KH": {
-    "name": "Cambodia",
+  "PH": {
+    "name": "Philippines",
     "regions": [
       "South-East Asia"
     ]
   },
-  "KN": {
-    "name": "Saint Kitts and Nevis",
+  "PK": {
+    "name": "Pakistan",
     "regions": [
-      "Caribbean"
+      "Southern Asia"
     ]
   },
-  "KM": {
-    "name": "Comoros",
-    "regions": [
-      "Eastern Africa"
-    ]
-  },
-  "ST": {
-    "name": "Sao Tome and Principe",
-    "regions": []
-  },
-  "SK": {
-    "name": "Slovakia",
+  "PL": {
+    "name": "Poland",
     "regions": [
       "Central Europe"
     ]
   },
-  "KR": {
-    "name": "South Korea",
-    "regions": [
-      "Eastern Asia"
-    ]
-  },
-  "SI": {
-    "name": "Slovenia",
-    "regions": [
-      "Balkans"
-    ]
-  },
-  "KP": {
-    "name": "North Korea",
-    "regions": [
-      "Eastern Asia"
-    ]
-  },
-  "KW": {
-    "name": "Kuwait",
+  "PM": {
+    "name": "Saint Pierre and Miquelon",
     "regions": []
   },
-  "SN": {
-    "name": "Senegal",
+  "PN": {
+    "name": "Pitcairn",
     "regions": []
   },
-  "SM": {
-    "name": "San Marino",
+  "PR": {
+    "name": "Puerto Rico",
+    "regions": []
+  },
+  "PS": {
+    "name": "Palestinian Territory",
+    "regions": []
+  },
+  "PT": {
+    "name": "Portugal",
     "regions": [
       "Southern Europe"
     ]
   },
-  "SL": {
-    "name": "Sierra Leone",
+  "PW": {
+    "name": "Palau",
+    "regions": []
+  },
+  "PY": {
+    "name": "Paraguay",
+    "regions": []
+  },
+  "QA": {
+    "name": "Qatar",
+    "regions": []
+  },
+  "RE": {
+    "name": "Reunion",
+    "regions": []
+  },
+  "RO": {
+    "name": "Romania",
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "RS": {
+    "name": "Serbia",
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "RU": {
+    "name": "Russia",
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "RW": {
+    "name": "Rwanda",
+    "regions": []
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "regions": []
+  },
+  "SB": {
+    "name": "Solomon Islands",
     "regions": []
   },
   "SC": {
     "name": "Seychelles",
     "regions": []
   },
-  "KZ": {
-    "name": "Kazakhstan",
-    "regions": [
-      "Central Asia"
-    ]
-  },
-  "KY": {
-    "name": "Cayman Islands",
-    "regions": [
-      "Caribbean"
-    ]
-  },
-  "SG": {
-    "name": "Singapore",
-    "regions": [
-      "South-Eastern Asia"
-    ]
+  "SD": {
+    "name": "Sudan",
+    "regions": []
   },
   "SE": {
     "name": "Sweden",
@@ -939,49 +1007,168 @@
       "Nordic Countries"
     ]
   },
-  "SD": {
-    "name": "Sudan",
-    "regions": []
-  },
-  "DO": {
-    "name": "Dominican Republic",
-    "regions": []
-  },
-  "DM": {
-    "name": "Dominica",
-    "regions": []
-  },
-  "DJ": {
-    "name": "Djibouti",
-    "regions": []
-  },
-  "DK": {
-    "name": "Denmark",
+  "SG": {
+    "name": "Singapore",
     "regions": [
-      "Scandinavia",
-      "Nordic Countries",
-      "Western Europe"
+      "South-Eastern Asia"
     ]
   },
-  "VG": {
-    "name": "British Virgin Islands",
+  "SH": {
+    "name": "Saint Helena",
     "regions": []
   },
-  "DE": {
-    "name": "Germany",
+  "SI": {
+    "name": "Slovenia",
     "regions": [
-      "Western Europe"
+      "Balkans"
     ]
   },
-  "YE": {
-    "name": "Yemen",
+  "SJ": {
+    "name": "Svalbard and Jan Mayen",
     "regions": []
   },
-  "DZ": {
-    "name": "Algeria",
+  "SK": {
+    "name": "Slovakia",
     "regions": [
-      "Northern Africa"
+      "Central Europe"
     ]
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "regions": []
+  },
+  "SM": {
+    "name": "San Marino",
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "SN": {
+    "name": "Senegal",
+    "regions": []
+  },
+  "SO": {
+    "name": "Somalia",
+    "regions": []
+  },
+  "SR": {
+    "name": "Suriname",
+    "regions": []
+  },
+  "SS": {
+    "name": "South Sudan",
+    "regions": []
+  },
+  "ST": {
+    "name": "Sao Tome and Principe",
+    "regions": []
+  },
+  "SV": {
+    "name": "El Salvador",
+    "regions": []
+  },
+  "SX": {
+    "name": "Sint Maarten",
+    "regions": []
+  },
+  "SY": {
+    "name": "Syria",
+    "regions": []
+  },
+  "SZ": {
+    "name": "Swaziland",
+    "regions": []
+  },
+  "TC": {
+    "name": "Turks and Caicos Islands",
+    "regions": []
+  },
+  "TD": {
+    "name": "Chad",
+    "regions": [
+      "Central Africa"
+    ]
+  },
+  "TF": {
+    "name": "French Southern Territories",
+    "regions": []
+  },
+  "TG": {
+    "name": "Togo",
+    "regions": []
+  },
+  "TH": {
+    "name": "Thailand",
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "TK": {
+    "name": "Tokelau",
+    "regions": []
+  },
+  "TL": {
+    "name": "East Timor",
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "TN": {
+    "name": "Tunisia",
+    "regions": []
+  },
+  "TO": {
+    "name": "Tonga",
+    "regions": []
+  },
+  "TR": {
+    "name": "Turkey",
+    "regions": [
+      "Western Asia",
+      "Middle East"
+    ]
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "regions": []
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "regions": []
+  },
+  "TW": {
+    "name": "Taiwan",
+    "regions": []
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "regions": []
+  },
+  "UA": {
+    "name": "Ukraine",
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "UG": {
+    "name": "Uganda",
+    "regions": []
+  },
+  "UM": {
+    "name": "United States Minor Outlying Islands",
+    "regions": []
   },
   "US": {
     "name": "United States",
@@ -993,121 +1180,10 @@
     "name": "Uruguay",
     "regions": []
   },
-  "YT": {
-    "name": "Mayotte",
-    "regions": []
-  },
-  "UM": {
-    "name": "United States Minor Outlying Islands",
-    "regions": []
-  },
-  "LB": {
-    "name": "Lebanon",
+  "UZ": {
+    "name": "Uzbekistan",
     "regions": [
-      "Western Asia"
-    ]
-  },
-  "LC": {
-    "name": "Saint Lucia",
-    "regions": []
-  },
-  "LA": {
-    "name": "Laos",
-    "regions": [
-      "South-Eastern Asia"
-    ]
-  },
-  "TV": {
-    "name": "Tuvalu",
-    "regions": []
-  },
-  "TW": {
-    "name": "Taiwan",
-    "regions": []
-  },
-  "TT": {
-    "name": "Trinidad and Tobago",
-    "regions": []
-  },
-  "TR": {
-    "name": "Turkey",
-    "regions": [
-      "Western Asia",
-      "Middle East"
-    ]
-  },
-  "LK": {
-    "name": "Sri Lanka",
-    "regions": []
-  },
-  "LI": {
-    "name": "Liechtenstein",
-    "regions": [
-      "Western Europe"
-    ]
-  },
-  "LV": {
-    "name": "Latvia",
-    "regions": [
-      "Baltic Countries"
-    ]
-  },
-  "TO": {
-    "name": "Tonga",
-    "regions": []
-  },
-  "LT": {
-    "name": "Lithuania",
-    "regions": [
-      "Baltic Countries"
-    ]
-  },
-  "LU": {
-    "name": "Luxembourg",
-    "regions": [
-      "Western Europe"
-    ]
-  },
-  "LR": {
-    "name": "Liberia",
-    "regions": [
-      "Western Africa"
-    ]
-  },
-  "LS": {
-    "name": "Lesotho",
-    "regions": [
-      "Southern Africa"
-    ]
-  },
-  "TH": {
-    "name": "Thailand",
-    "regions": [
-      "South-Eastern Asia"
-    ]
-  },
-  "TF": {
-    "name": "French Southern Territories",
-    "regions": []
-  },
-  "TG": {
-    "name": "Togo",
-    "regions": []
-  },
-  "TD": {
-    "name": "Chad",
-    "regions": [
-      "Central Africa"
-    ]
-  },
-  "TC": {
-    "name": "Turks and Caicos Islands",
-    "regions": []
-  },
-  "LY": {
-    "name": "Libya",
-    "regions": [
-      "Northern Africa"
+      "Central Asia"
     ]
   },
   "VA": {
@@ -1120,136 +1196,60 @@
     "name": "Saint Vincent and the Grenadines",
     "regions": []
   },
-  "AE": {
-    "name": "United Arab Emirates",
+  "VE": {
+    "name": "Venezuela",
     "regions": []
   },
-  "AD": {
-    "name": "Andorra",
-    "regions": [
-      "Southern Europe"
-    ]
-  },
-  "AG": {
-    "name": "Antigua and Barbuda",
-    "regions": []
-  },
-  "AF": {
-    "name": "Afghanistan",
-    "regions": [
-      "Southern Asia"
-    ]
-  },
-  "AI": {
-    "name": "Anguilla",
+  "VG": {
+    "name": "British Virgin Islands",
     "regions": []
   },
   "VI": {
     "name": "U.S. Virgin Islands",
     "regions": []
   },
-  "IS": {
-    "name": "Iceland",
+  "VN": {
+    "name": "Vietnam",
     "regions": [
-      "Scandinavia",
-      "Nordic Countries"
+      "South-East Asia"
     ]
   },
-  "IR": {
-    "name": "Iran",
+  "VU": {
+    "name": "Vanuatu",
     "regions": []
   },
-  "AM": {
-    "name": "Armenia",
-    "regions": [
-      "Western Asia"
-    ]
+  "WF": {
+    "name": "Wallis and Futuna",
+    "regions": []
   },
-  "AL": {
-    "name": "Albania",
+  "WS": {
+    "name": "Samoa",
+    "regions": []
+  },
+  "XK": {
+    "name": "Kosovo",
     "regions": [
       "Balkans"
     ]
   },
-  "AO": {
-    "name": "Angola",
-    "regions": [
-      "Central Africa"
-    ]
-  },
-  "AQ": {
-    "name": "Antarctica",
+  "YE": {
+    "name": "Yemen",
     "regions": []
   },
-  "AS": {
-    "name": "American Samoa",
+  "YT": {
+    "name": "Mayotte",
     "regions": []
   },
-  "AR": {
-    "name": "Argentina",
-    "regions": [
-      "South America"
-    ]
-  },
-  "AU": {
-    "name": "Australia",
-    "regions": [
-      "Oceania"
-    ]
-  },
-  "AT": {
-    "name": "Austria",
-    "regions": [
-      "Western Europe"
-    ]
-  },
-  "AW": {
-    "name": "Aruba",
+  "ZA": {
+    "name": "South Africa",
     "regions": []
   },
-  "IN": {
-    "name": "India",
-    "regions": [
-      "Southern Asia"
-    ]
-  },
-  "AX": {
-    "name": "Aland Islands",
-    "regions": [
-      "Scandinavia"
-    ]
-  },
-  "AZ": {
-    "name": "Azerbaijan",
-    "regions": [
-      "Western Asia"
-    ]
-  },
-  "IE": {
-    "name": "Ireland",
-    "regions": [
-      "Western Europe"
-    ]
-  },
-  "ID": {
-    "name": "Indonesia",
-    "regions": [
-      "South-East Asia",
-      "Oceania"
-    ]
-  },
-  "UA": {
-    "name": "Ukraine",
-    "regions": [
-      "Eastern Europe"
-    ]
-  },
-  "QA": {
-    "name": "Qatar",
+  "ZM": {
+    "name": "Zambia",
     "regions": []
   },
-  "MZ": {
-    "name": "Mozambique",
+  "ZW": {
+    "name": "Zimbabwe",
     "regions": []
   }
 }

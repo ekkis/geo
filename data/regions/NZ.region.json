@@ -32,11 +32,11 @@
   "TAS": {
     "name": "Tasman"
   },
-  "WKO": {
-    "name": "Waikato"
-  },
   "WGN": {
     "name": "Wellington"
+  },
+  "WKO": {
+    "name": "Waikato"
   },
   "WTC": {
     "name": "West Coast"

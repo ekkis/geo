@@ -1,18 +1,15 @@
 {
-  "SR": {
-    "name": "Special Region of Yogyakarta"
-  },
   "BAL": {
     "name": "Bali"
-  },
-  "BI": {
-    "name": "Bangka–Belitung Islands"
   },
   "BAN": {
     "name": "Banten"
   },
   "BEN": {
     "name": "Bengkulu"
+  },
+  "BI": {
+    "name": "Bangka–Belitung Islands"
   },
   "CJ": {
     "name": "Central Java"
@@ -35,11 +32,11 @@
   "GOR": {
     "name": "Gorontalo"
   },
-  "JS": {
-    "name": "Jakarta Special Capital Region"
-  },
   "JAM": {
     "name": "Jambi"
+  },
+  "JS": {
+    "name": "Jakarta Special Capital Region"
   },
   "LAM": {
     "name": "Lampung"
@@ -56,17 +53,20 @@
   "NS": {
     "name": "North Sumatra"
   },
-  "RIA": {
-    "name": "Riau"
-  },
   "RI": {
     "name": "Riau Islands"
   },
-  "SS": {
-    "name": "South Sumatra"
+  "RIA": {
+    "name": "Riau"
   },
   "SK": {
     "name": "South Kalimantan"
+  },
+  "SR": {
+    "name": "Special Region of Yogyakarta"
+  },
+  "SS": {
+    "name": "South Sumatra"
   },
   "WJ": {
     "name": "West Java"

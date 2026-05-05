@@ -1,15 +1,15 @@
 {
-  "BISH": {
-    "name": "Bishkek"
-  },
-  "OSH": {
-    "name": "Osh"
-  },
   "BATK": {
     "name": "Batken"
   },
+  "BISH": {
+    "name": "Bishkek"
+  },
   "CHUY": {
     "name": "Chuy"
+  },
+  "ISSYK": {
+    "name": "Issyk-Kul"
   },
   "JALA": {
     "name": "Jalal-Abad"
@@ -17,13 +17,13 @@
   "NARY": {
     "name": "Naryn"
   },
+  "OSH": {
+    "name": "Osh"
+  },
   "OSHREG": {
     "name": "Osh Region"
   },
   "TALAS": {
     "name": "Talas"
-  },
-  "ISSYK": {
-    "name": "Issyk-Kul"
   }
 }

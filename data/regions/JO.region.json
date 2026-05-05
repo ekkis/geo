@@ -1,38 +1,38 @@
 {
-  "IRB": {
-    "name": "Irbid"
-  },
   "AJL": {
     "name": "Ajloun"
-  },
-  "JER": {
-    "name": "Jerash"
-  },
-  "MAF": {
-    "name": "Mafraq"
-  },
-  "BAL": {
-    "name": "Balqa"
   },
   "AMM": {
     "name": "Amman"
   },
-  "ZAR": {
-    "name": "Zarqa"
+  "AQA": {
+    "name": "Aqaba"
   },
-  "MAD": {
-    "name": "Madaba"
+  "BAL": {
+    "name": "Balqa"
+  },
+  "IRB": {
+    "name": "Irbid"
+  },
+  "JER": {
+    "name": "Jerash"
   },
   "KAR": {
     "name": "Karak"
   },
-  "TAF": {
-    "name": "Tafilah"
-  },
   "MA'": {
     "name": "Ma'an"
   },
-  "AQA": {
-    "name": "Aqaba"
+  "MAD": {
+    "name": "Madaba"
+  },
+  "MAF": {
+    "name": "Mafraq"
+  },
+  "TAF": {
+    "name": "Tafilah"
+  },
+  "ZAR": {
+    "name": "Zarqa"
   }
 }

@@ -1,48 +1,24 @@
 {
-  "STF": {
-    "name": "Østfold"
-  },
   "AKE": {
     "name": "Akershus"
-  },
-  "OSL": {
-    "name": "Oslo"
-  },
-  "HED": {
-    "name": "Hedmark"
-  },
-  "OPP": {
-    "name": "Oppland"
-  },
-  "BUS": {
-    "name": "Buskerud"
-  },
-  "VES": {
-    "name": "Vestfold"
-  },
-  "TEL": {
-    "name": "Telemark"
   },
   "AUS": {
     "name": "Aust-Agder"
   },
-  "VES1": {
-    "name": "Vest-Agder"
+  "BUS": {
+    "name": "Buskerud"
   },
-  "ROG": {
-    "name": "Rogaland"
+  "FIN": {
+    "name": "Finnmark"
+  },
+  "HED": {
+    "name": "Hedmark"
   },
   "HOR": {
     "name": "Hordaland"
   },
-  "SOGOG": {
-    "name": "Sogn og Fjordane"
-  },
   "MREOG": {
     "name": "Møre og Romsdal"
-  },
-  "SR-": {
-    "name": "Sør-Trøndelag"
   },
   "NOR": {
     "name": "Nord-Trøndelag"
@@ -50,13 +26,37 @@
   "NOR1": {
     "name": "Nordland"
   },
-  "TRO": {
-    "name": "Troms"
+  "OPP": {
+    "name": "Oppland"
   },
-  "FIN": {
-    "name": "Finnmark"
+  "OSL": {
+    "name": "Oslo"
+  },
+  "ROG": {
+    "name": "Rogaland"
+  },
+  "SOGOG": {
+    "name": "Sogn og Fjordane"
+  },
+  "SR-": {
+    "name": "Sør-Trøndelag"
+  },
+  "STF": {
+    "name": "Østfold"
   },
   "SVA": {
     "name": "Svalbard"
+  },
+  "TEL": {
+    "name": "Telemark"
+  },
+  "TRO": {
+    "name": "Troms"
+  },
+  "VES": {
+    "name": "Vestfold"
+  },
+  "VES1": {
+    "name": "Vest-Agder"
   }
 }

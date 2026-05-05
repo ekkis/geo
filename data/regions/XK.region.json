@@ -1,23 +1,23 @@
 {
+  "FERIZAJ": {
+    "name": "Ferizaj"
+  },
+  "GJAKOVA": {
+    "name": "Gjakova"
+  },
+  "GJILAN": {
+    "name": "Gjilan"
+  },
+  "MITROVICA": {
+    "name": "Mitrovica"
+  },
+  "PEJA": {
+    "name": "Peja"
+  },
   "PRISTINA": {
     "name": "Pristina"
   },
   "PRIZREN": {
     "name": "Prizren"
-  },
-  "GJAKOVA": {
-    "name": "Gjakova"
-  },
-  "PEJA": {
-    "name": "Peja"
-  },
-  "MITROVICA": {
-    "name": "Mitrovica"
-  },
-  "GJILAN": {
-    "name": "Gjilan"
-  },
-  "FERIZAJ": {
-    "name": "Ferizaj"
   }
 }

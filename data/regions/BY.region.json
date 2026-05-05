@@ -2,22 +2,22 @@
   "BREST": {
     "name": "Brest Region"
   },
-  "VITEB": {
-    "name": "Vitebsk Region"
-  },
   "GOMEL": {
     "name": "Gomel Region"
   },
   "GRODN": {
     "name": "Grodno Region"
   },
-  "MOGIL": {
-    "name": "Mogilev Region"
+  "MINSK": {
+    "name": "Minsk City"
   },
   "MINSKREG": {
     "name": "Minsk Region"
   },
-  "MINSK": {
-    "name": "Minsk City"
+  "MOGIL": {
+    "name": "Mogilev Region"
+  },
+  "VITEB": {
+    "name": "Vitebsk Region"
   }
 }

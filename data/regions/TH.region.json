@@ -5,11 +5,11 @@
   "ANGTHONG": {
     "name": "Ang Thong"
   },
-  "BUENGKAN": {
-    "name": "Bueng Kan"
-  },
   "BANGKOK": {
     "name": "Bangkok"
+  },
+  "BUENGKAN": {
+    "name": "Bueng Kan"
   },
   "CHAINAT": {
     "name": "Chai Nat"
@@ -125,11 +125,11 @@
   "PHITSANU": {
     "name": "Phitsanulok"
   },
-  "PHRANAKH": {
-    "name": "Phra Nakhon Si Ayutthaya"
-  },
   "PHRAE": {
     "name": "Phrae"
+  },
+  "PHRANAKH": {
+    "name": "Phra Nakhon Si Ayutthaya"
   },
   "PHUKET": {
     "name": "Phuket"

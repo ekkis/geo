@@ -17,11 +17,11 @@
   "NS": {
     "name": "Nova Scotia"
   },
-  "NU": {
-    "name": "Nunavut"
-  },
   "NT": {
     "name": "Northwest Territories"
+  },
+  "NU": {
+    "name": "Nunavut"
   },
   "ON": {
     "name": "Ontario"

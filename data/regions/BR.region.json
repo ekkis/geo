@@ -53,11 +53,11 @@
   "SC": {
     "name": "Santa Catarina"
   },
-  "SP": {
-    "name": "São Paulo"
-  },
   "SER": {
     "name": "Sergipe"
+  },
+  "SP": {
+    "name": "São Paulo"
   },
   "TOC": {
     "name": "Tocantins"

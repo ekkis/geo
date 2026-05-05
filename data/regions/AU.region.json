@@ -11,17 +11,26 @@
   "CS": {
     "name": "Coral Sea Islands"
   },
+  "CX": {
+    "name": "Christmas Island"
+  },
   "HI": {
     "name": "Heard Island and McDonald Islands"
   },
   "JB": {
     "name": "Jervis Bay Territory"
   },
-  "NSW": {
-    "name": "New South Wales"
+  "JBT": {
+    "name": "Jervis Bay Territory"
+  },
+  "NF": {
+    "name": "Norfolk Island"
   },
   "NI": {
     "name": "Norfolk Island"
+  },
+  "NSW": {
+    "name": "New South Wales"
   },
   "NT": {
     "name": "Northern Territory"
@@ -40,14 +49,5 @@
   },
   "WA": {
     "name": "Western Australia"
-  },
-  "NF": {
-    "name": "Norfolk Island"
-  },
-  "CX": {
-    "name": "Christmas Island"
-  },
-  "JBT": {
-    "name": "Jervis Bay Territory"
   }
 }

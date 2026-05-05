@@ -1,12 +1,6 @@
 {
-  "POD": {
-    "name": "Podgorica"
-  },
-  "NIK": {
-    "name": "Nikšić"
-  },
-  "PLJ": {
-    "name": "Pljevlja"
+  "BAR": {
+    "name": "Bar"
   },
   "BIJPO": {
     "name": "Bijelo Polje"
@@ -14,22 +8,28 @@
   "CET": {
     "name": "Cetinje"
   },
-  "BAR": {
-    "name": "Bar"
+  "DAN": {
+    "name": "Danilovgrad"
   },
   "HERNO": {
     "name": "Herceg Novi"
   },
-  "ULC": {
-    "name": "Ulcinj"
+  "NIK": {
+    "name": "Nikšić"
+  },
+  "PLJ": {
+    "name": "Pljevlja"
+  },
+  "POD": {
+    "name": "Podgorica"
   },
   "ROZ": {
     "name": "Rožaje"
   },
-  "DAN": {
-    "name": "Danilovgrad"
-  },
   "SAV": {
     "name": "Šavnik"
+  },
+  "ULC": {
+    "name": "Ulcinj"
   }
 }

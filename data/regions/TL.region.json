@@ -26,16 +26,16 @@
   "LIQUI": {
     "name": "Liquiçá"
   },
-  "MANUFA": {
-    "name": "Manufahi"
-  },
   "MANATU": {
     "name": "Manatuto"
   },
-  "VIQUE": {
-    "name": "Viqueque"
+  "MANUFA": {
+    "name": "Manufahi"
   },
   "OECUSSE": {
     "name": "Oecusse"
+  },
+  "VIQUE": {
+    "name": "Viqueque"
   }
 }

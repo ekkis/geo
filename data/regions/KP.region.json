@@ -8,8 +8,17 @@
   "HAMSOUTH": {
     "name": "South Hamgyong"
   },
+  "HWABONORTH": {
+    "name": "North Hwanghae"
+  },
+  "HWABOSOUTH": {
+    "name": "South Hwanghae"
+  },
   "KANGWON": {
     "name": "Kangwon"
+  },
+  "NAMPO": {
+    "name": "Nampo"
   },
   "PYONGBONORTH": {
     "name": "North Pyongan"
@@ -17,22 +26,13 @@
   "PYONGBOSOUTH": {
     "name": "South Pyongan"
   },
-  "HWABONORTH": {
-    "name": "North Hwanghae"
-  },
-  "HWABOSOUTH": {
-    "name": "South Hwanghae"
-  },
-  "RYANGANG": {
-    "name": "Ryanggang"
-  },
   "PYONGYANG": {
     "name": "Pyongyang"
   },
   "RASON": {
     "name": "Rason"
   },
-  "NAMPO": {
-    "name": "Nampo"
+  "RYANGANG": {
+    "name": "Ryanggang"
   }
 }

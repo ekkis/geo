@@ -8,11 +8,11 @@
   "IDA": {
     "name": "Ida-Viru"
   },
-  "JOG": {
-    "name": "Jõgeva"
-  },
   "JAR": {
     "name": "Järva"
+  },
+  "JOG": {
+    "name": "Jõgeva"
   },
   "LAA": {
     "name": "Lääne"
@@ -20,11 +20,11 @@
   "LAA1": {
     "name": "Lääne-Viru"
   },
-  "POL": {
-    "name": "Põlva"
-  },
   "PAR": {
     "name": "Pärnu"
+  },
+  "POL": {
+    "name": "Põlva"
   },
   "RAP": {
     "name": "Rapla"

@@ -1,4 +1,10 @@
 {
+  "ART": {
+    "name": "Artemisa"
+  },
+  "BAY": {
+    "name": "Bayamo"
+  },
   "CAM": {
     "name": "Camagüey"
   },
@@ -8,23 +14,14 @@
   "CIE": {
     "name": "Cienfuegos"
   },
-  "HAV": {
-    "name": "Havana"
-  },
-  "BAY": {
-    "name": "Bayamo"
-  },
   "GUA": {
     "name": "Guantánamo"
   },
+  "HAV": {
+    "name": "Havana"
+  },
   "HOL": {
     "name": "Holguín"
-  },
-  "NG": {
-    "name": "Nueva Gerona"
-  },
-  "ART": {
-    "name": "Artemisa"
   },
   "LT": {
     "name": "Las Tunas"
@@ -32,19 +29,22 @@
   "MAT": {
     "name": "Matanzas"
   },
-  "SJ": {
-    "name": "San José de las Lajas"
+  "NG": {
+    "name": "Nueva Gerona"
   },
   "PD": {
     "name": "Pinar del Río"
   },
-  "SS": {
-    "name": "Sancti Spíritus"
+  "SC": {
+    "name": "Santa Clara"
   },
   "SD": {
     "name": "Santiago de Cuba"
   },
-  "SC": {
-    "name": "Santa Clara"
+  "SJ": {
+    "name": "San José de las Lajas"
+  },
+  "SS": {
+    "name": "Sancti Spíritus"
   }
 }

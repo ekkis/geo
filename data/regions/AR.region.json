@@ -1,9 +1,9 @@
 {
-  "CA": {
-    "name": "Ciudad Autónoma de Buenos Aires"
-  },
   "BA": {
     "name": "Buenos Aires"
+  },
+  "CA": {
+    "name": "Ciudad Autónoma de Buenos Aires"
   },
   "CAT": {
     "name": "Catamarca"
@@ -14,11 +14,11 @@
   "CHU": {
     "name": "Chubut"
   },
-  "CÓR": {
-    "name": "Córdoba"
-  },
   "COR": {
     "name": "Corrientes"
+  },
+  "CÓR": {
+    "name": "Córdoba"
   },
   "ER": {
     "name": "Entre Ríos"
@@ -50,20 +50,20 @@
   "SAL": {
     "name": "Salta"
   },
+  "SC": {
+    "name": "Santa Cruz"
+  },
+  "SD": {
+    "name": "Santiago del Estero"
+  },
+  "SF": {
+    "name": "Santa Fe"
+  },
   "SJ": {
     "name": "San Juan"
   },
   "SL": {
     "name": "San Luis"
-  },
-  "SC": {
-    "name": "Santa Cruz"
-  },
-  "SF": {
-    "name": "Santa Fe"
-  },
-  "SD": {
-    "name": "Santiago del Estero"
   },
   "TD": {
     "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"

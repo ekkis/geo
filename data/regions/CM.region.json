@@ -5,11 +5,11 @@
   "CE": {
     "name": "Centre"
   },
-  "ES": {
-    "name": "East"
-  },
   "EN": {
     "name": "Far North"
+  },
+  "ES": {
+    "name": "East"
   },
   "LT": {
     "name": "Littoral"
@@ -20,13 +20,13 @@
   "NW": {
     "name": "North-West"
   },
+  "OU": {
+    "name": "West"
+  },
   "SU": {
     "name": "South"
   },
   "SW": {
     "name": "South-West"
-  },
-  "OU": {
-    "name": "West"
   }
 }

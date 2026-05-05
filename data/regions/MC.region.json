@@ -1,14 +1,14 @@
 {
-  "MON": {
-    "name": "Monaco-Ville"
+  "FON": {
+    "name": "Fontvieille"
   },
   "LACON": {
     "name": "La Condamine"
   },
+  "MON": {
+    "name": "Monaco-Ville"
+  },
   "MONCA": {
     "name": "Monte Carlo"
-  },
-  "FON": {
-    "name": "Fontvieille"
   }
 }

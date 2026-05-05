@@ -98,14 +98,14 @@
   "JAU2": {
     "name": "Jaunpils"
   },
+  "JEKMU": {
+    "name": "Jēkabpils Municipality"
+  },
   "JEL": {
     "name": "Jelgava"
   },
   "JELMU": {
     "name": "Jelgava Municipality"
-  },
-  "JEKMU": {
-    "name": "Jēkabpils Municipality"
   },
   "JELMU1": {
     "name": "Jelgava Municipality"
@@ -140,11 +140,11 @@
   "LIE": {
     "name": "Lielvārde"
   },
-  "LIM": {
-    "name": "Limbaži"
-  },
   "LIG": {
     "name": "Līgatne"
+  },
+  "LIM": {
+    "name": "Limbaži"
   },
   "LIV": {
     "name": "Līvāni"
@@ -158,14 +158,14 @@
   "MAD": {
     "name": "Madona"
   },
-  "MAZ": {
-    "name": "Mazsalaca"
-  },
   "MAL": {
     "name": "Mālpils"
   },
   "MAR": {
     "name": "Mārupe"
+  },
+  "MAZ": {
+    "name": "Mazsalaca"
   },
   "MER": {
     "name": "Mērsrags"

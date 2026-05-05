@@ -8,8 +8,8 @@
   "AFY": {
     "name": "Afyonkarahisar"
   },
-  "AĞR": {
-    "name": "Ağrı"
+  "AKS": {
+    "name": "Aksaray"
   },
   "AMA": {
     "name": "Amasya"
@@ -20,14 +20,29 @@
   "ANT": {
     "name": "Antalya"
   },
+  "ARD": {
+    "name": "Ardahan"
+  },
   "ART": {
     "name": "Artvin"
   },
   "AYD": {
     "name": "Aydın"
   },
+  "AĞR": {
+    "name": "Ağrı"
+  },
   "BAL": {
     "name": "Balıkesir"
+  },
+  "BAR": {
+    "name": "Bartın"
+  },
+  "BAT": {
+    "name": "Batman"
+  },
+  "BAY": {
+    "name": "Bayburt"
   },
   "BIL": {
     "name": "Bilecik"
@@ -44,17 +59,14 @@
   "BUR": {
     "name": "Bursa"
   },
-  "ÇAN": {
-    "name": "Çankırı"
-  },
-  "ÇOR": {
-    "name": "Çorum"
-  },
   "DEN": {
     "name": "Denizli"
   },
   "DIY": {
     "name": "Diyarbakır"
+  },
+  "DÜZ": {
+    "name": "Düzce"
   },
   "EDI": {
     "name": "Edirne"
@@ -86,14 +98,14 @@
   "ISP": {
     "name": "Isparta"
   },
-  "MER": {
-    "name": "Mersin"
-  },
   "IST": {
     "name": "Istanbul"
   },
-  "İZM": {
-    "name": "İzmir"
+  "IĞD": {
+    "name": "Iğdır"
+  },
+  "KAH": {
+    "name": "Kahramanmaraş"
   },
   "KAR": {
     "name": "Karabük"
@@ -103,6 +115,9 @@
   },
   "KAY": {
     "name": "Kayseri"
+  },
+  "KIL": {
+    "name": "Kilis"
   },
   "KIR": {
     "name": "Kırıkkale"
@@ -122,11 +137,11 @@
   "MAN": {
     "name": "Manisa"
   },
-  "KAH": {
-    "name": "Kahramanmaraş"
-  },
   "MAR": {
     "name": "Mardin"
+  },
+  "MER": {
+    "name": "Mersin"
   },
   "MUĞ": {
     "name": "Muğla"
@@ -142,6 +157,9 @@
   },
   "ORD": {
     "name": "Ordu"
+  },
+  "OSM": {
+    "name": "Osmaniye"
   },
   "RIZ": {
     "name": "Rize"
@@ -173,14 +191,14 @@
   "TUN": {
     "name": "Tunceli"
   },
-  "ŞAN": {
-    "name": "Şanlıurfa"
-  },
   "UŞA": {
     "name": "Uşak"
   },
   "VAN": {
     "name": "Van"
+  },
+  "YAL": {
+    "name": "Yalova"
   },
   "YOZ": {
     "name": "Yozgat"
@@ -188,37 +206,19 @@
   "ZON": {
     "name": "Zonguldak"
   },
-  "AKS": {
-    "name": "Aksaray"
+  "ÇAN": {
+    "name": "Çankırı"
   },
-  "BAY": {
-    "name": "Bayburt"
+  "ÇOR": {
+    "name": "Çorum"
   },
-  "BAT": {
-    "name": "Batman"
+  "İZM": {
+    "name": "İzmir"
+  },
+  "ŞAN": {
+    "name": "Şanlıurfa"
   },
   "ŞIR": {
     "name": "Şırnak"
-  },
-  "BAR": {
-    "name": "Bartın"
-  },
-  "ARD": {
-    "name": "Ardahan"
-  },
-  "IĞD": {
-    "name": "Iğdır"
-  },
-  "YAL": {
-    "name": "Yalova"
-  },
-  "KIL": {
-    "name": "Kilis"
-  },
-  "OSM": {
-    "name": "Osmaniye"
-  },
-  "DÜZ": {
-    "name": "Düzce"
   }
 }

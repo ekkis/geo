@@ -17,14 +17,17 @@
   "CAJ": {
     "name": "Cajamarca"
   },
+  "CAL": {
+    "name": "Callao"
+  },
   "CUS": {
     "name": "Cusco"
   },
-  "HUV": {
-    "name": "Huancavelica"
-  },
   "HUC": {
     "name": "Huánuco"
+  },
+  "HUV": {
+    "name": "Huancavelica"
   },
   "ICA": {
     "name": "Ica"
@@ -70,8 +73,5 @@
   },
   "UCA": {
     "name": "Ucayali"
-  },
-  "CAL": {
-    "name": "Callao"
   }
 }

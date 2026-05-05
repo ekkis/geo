@@ -11,16 +11,19 @@
   "DN": {
     "name": "Dakhlet Nouadhibou"
   },
-  "GO": {
-    "name": "Gorgol"
-  },
   "GM": {
     "name": "Guidimaka"
+  },
+  "GO": {
+    "name": "Gorgol"
   },
   "HC": {
     "name": "Hodh Ech Chargui"
   },
   "HD": {
+    "name": "Hodh El Gharbi"
+  },
+  "HI": {
     "name": "Hodh El Gharbi"
   },
   "IN": {
@@ -31,8 +34,5 @@
   },
   "TA": {
     "name": "Tagant"
-  },
-  "HI": {
-    "name": "Hodh El Gharbi"
   }
 }

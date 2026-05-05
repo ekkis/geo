@@ -2,33 +2,6 @@
   "ADR": {
     "name": "Adrar"
   },
-  "CHE": {
-    "name": "Cherchell"
-  },
-  "EO": {
-    "name": "El Bayadh"
-  },
-  "IO": {
-    "name": "Illizi"
-  },
-  "OA": {
-    "name": "Ouargla"
-  },
-  "OB": {
-    "name": "Ouled Djellal"
-  },
-  "SK": {
-    "name": "Sidi Bel Abbès"
-  },
-  "TH": {
-    "name": "Tamanrasset"
-  },
-  "OR": {
-    "name": "Oran"
-  },
-  "CON": {
-    "name": "Constantine"
-  },
   "ANN": {
     "name": "Annaba"
   },
@@ -38,19 +11,46 @@
   "BT": {
     "name": "Batna"
   },
+  "CHE": {
+    "name": "Cherchell"
+  },
+  "CON": {
+    "name": "Constantine"
+  },
+  "EO": {
+    "name": "El Bayadh"
+  },
+  "IO": {
+    "name": "Illizi"
+  },
   "MIL": {
     "name": "Mila"
   },
   "MSL": {
     "name": "Msila"
   },
-  "SET": {
-    "name": "Sétif"
+  "OA": {
+    "name": "Ouargla"
+  },
+  "OB": {
+    "name": "Ouled Djellal"
+  },
+  "OR": {
+    "name": "Oran"
   },
   "SAI": {
     "name": "Saïda"
   },
+  "SET": {
+    "name": "Sétif"
+  },
+  "SK": {
+    "name": "Sidi Bel Abbès"
+  },
   "TEB": {
     "name": "Tébessa"
+  },
+  "TH": {
+    "name": "Tamanrasset"
   }
 }

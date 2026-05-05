@@ -1,45 +1,39 @@
 {
-  "CHO": {
-    "name": "Chongqing"
-  },
-  "HEI": {
-    "name": "Heilongjiang"
-  },
-  "JIL": {
-    "name": "Jilin"
-  },
-  "HAI": {
-    "name": "Hainan"
+  "ANH": {
+    "name": "Anhui"
   },
   "BEI": {
     "name": "Beijing"
   },
-  "LIA": {
-    "name": "Liaoning"
+  "CHO": {
+    "name": "Chongqing"
   },
-  "IM": {
-    "name": "Inner Mongolia"
-  },
-  "TIB": {
-    "name": "Tibet"
-  },
-  "QIN": {
-    "name": "Qinghai"
-  },
-  "NIN": {
-    "name": "Ningxia"
-  },
-  "XIN": {
-    "name": "Xinjiang"
+  "FUJ": {
+    "name": "Fujian"
   },
   "GAN": {
     "name": "Gansu"
   },
+  "GUA": {
+    "name": "Guangdong"
+  },
+  "GUI": {
+    "name": "Guizhou"
+  },
+  "HAI": {
+    "name": "Hainan"
+  },
   "HEB": {
     "name": "Hebei"
   },
+  "HEI": {
+    "name": "Heilongjiang"
+  },
   "HEN": {
     "name": "Henan"
+  },
+  "HK": {
+    "name": "Hong Kong"
   },
   "HUB": {
     "name": "Hubei"
@@ -47,43 +41,49 @@
   "HUN": {
     "name": "Hunan"
   },
-  "SHA": {
-    "name": "Shanghai"
+  "IM": {
+    "name": "Inner Mongolia"
   },
   "JIA": {
     "name": "Jiangxi"
   },
-  "ANH": {
-    "name": "Anhui"
+  "JIL": {
+    "name": "Jilin"
   },
-  "SIC": {
-    "name": "Sichuan"
-  },
-  "YUN": {
-    "name": "Yunnan"
-  },
-  "GUI": {
-    "name": "Guizhou"
-  },
-  "ZHE": {
-    "name": "Zhejiang"
-  },
-  "FUJ": {
-    "name": "Fujian"
-  },
-  "GUA": {
-    "name": "Guangdong"
-  },
-  "TIA": {
-    "name": "Tianjin"
-  },
-  "HK": {
-    "name": "Hong Kong"
+  "LIA": {
+    "name": "Liaoning"
   },
   "MAC": {
     "name": "Macau"
   },
+  "NIN": {
+    "name": "Ningxia"
+  },
+  "QIN": {
+    "name": "Qinghai"
+  },
+  "SHA": {
+    "name": "Shanghai"
+  },
+  "SIC": {
+    "name": "Sichuan"
+  },
   "TAI": {
     "name": "Taiwan"
+  },
+  "TIA": {
+    "name": "Tianjin"
+  },
+  "TIB": {
+    "name": "Tibet"
+  },
+  "XIN": {
+    "name": "Xinjiang"
+  },
+  "YUN": {
+    "name": "Yunnan"
+  },
+  "ZHE": {
+    "name": "Zhejiang"
   }
 }

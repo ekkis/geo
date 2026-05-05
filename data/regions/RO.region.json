@@ -92,11 +92,11 @@
   "PRA": {
     "name": "Prahova"
   },
-  "SATMA": {
-    "name": "Satu Mare"
-  },
   "SAL": {
     "name": "Sălaj"
+  },
+  "SATMA": {
+    "name": "Satu Mare"
   },
   "SIB": {
     "name": "Sibiu"
@@ -113,11 +113,11 @@
   "TUL": {
     "name": "Tulcea"
   },
-  "VAS": {
-    "name": "Vaslui"
-  },
   "VAL": {
     "name": "Vâlcea"
+  },
+  "VAS": {
+    "name": "Vaslui"
   },
   "VRA": {
     "name": "Vrancea"

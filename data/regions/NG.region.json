@@ -1,18 +1,15 @@
 {
-  "ANA": {
-    "name": "Anambra"
-  },
-  "ENU": {
-    "name": "Enugu"
-  },
-  "AI": {
-    "name": "Akwa Ibom"
+  "ABI": {
+    "name": "Abia"
   },
   "ADA": {
     "name": "Adamawa"
   },
-  "ABI": {
-    "name": "Abia"
+  "AI": {
+    "name": "Akwa Ibom"
+  },
+  "ANA": {
+    "name": "Anambra"
   },
   "BAU": {
     "name": "Bauchi"
@@ -40,6 +37,9 @@
   },
   "EKI": {
     "name": "Ekiti"
+  },
+  "ENU": {
+    "name": "Enugu"
   },
   "GOM": {
     "name": "Gombe"

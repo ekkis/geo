@@ -1,15 +1,15 @@
 {
-  "AL": {
-    "name": "Alabama"
-  },
   "AK": {
     "name": "Alaska"
   },
-  "AZ": {
-    "name": "Arizona"
+  "AL": {
+    "name": "Alabama"
   },
   "AR": {
     "name": "Arkansas"
+  },
+  "AZ": {
+    "name": "Arizona"
   },
   "CA": {
     "name": "California"
@@ -32,6 +32,9 @@
   "HI": {
     "name": "Hawaii"
   },
+  "IA": {
+    "name": "Iowa"
+  },
   "ID": {
     "name": "Idaho"
   },
@@ -40,9 +43,6 @@
   },
   "IN": {
     "name": "Indiana"
-  },
-  "IA": {
-    "name": "Iowa"
   },
   "KS": {
     "name": "Kansas"
@@ -53,14 +53,14 @@
   "LA": {
     "name": "Louisiana"
   },
-  "ME": {
-    "name": "Maine"
+  "MA": {
+    "name": "Massachusetts"
   },
   "MD": {
     "name": "Maryland"
   },
-  "MA": {
-    "name": "Massachusetts"
+  "ME": {
+    "name": "Maine"
   },
   "MI": {
     "name": "Michigan"
@@ -68,20 +68,23 @@
   "MN": {
     "name": "Minnesota"
   },
-  "MS": {
-    "name": "Mississippi"
-  },
   "MO": {
     "name": "Missouri"
+  },
+  "MS": {
+    "name": "Mississippi"
   },
   "MT": {
     "name": "Montana"
   },
+  "NC": {
+    "name": "North Carolina"
+  },
+  "ND": {
+    "name": "North Dakota"
+  },
   "NE": {
     "name": "Nebraska"
-  },
-  "NV": {
-    "name": "Nevada"
   },
   "NH": {
     "name": "New Hampshire"
@@ -92,14 +95,11 @@
   "NM": {
     "name": "New Mexico"
   },
+  "NV": {
+    "name": "Nevada"
+  },
   "NY": {
     "name": "New York"
-  },
-  "NC": {
-    "name": "North Carolina"
-  },
-  "ND": {
-    "name": "North Dakota"
   },
   "OH": {
     "name": "Ohio"
@@ -131,20 +131,20 @@
   "UT": {
     "name": "Utah"
   },
-  "VT": {
-    "name": "Vermont"
-  },
   "VA": {
     "name": "Virginia"
+  },
+  "VT": {
+    "name": "Vermont"
   },
   "WA": {
     "name": "Washington"
   },
-  "WV": {
-    "name": "West Virginia"
-  },
   "WI": {
     "name": "Wisconsin"
+  },
+  "WV": {
+    "name": "West Virginia"
   },
   "WY": {
     "name": "Wyoming"

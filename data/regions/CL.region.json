@@ -1,51 +1,114 @@
 {
-  "ARI": {
-    "name": "Arica"
+  "AC": {
+    "name": "Antártica Chilena"
   },
-  "PAR": {
-    "name": "Parinacota"
-  },
-  "IQU": {
-    "name": "Iquique"
-  },
-  "TAM": {
-    "name": "Tamarugal"
+  "AIS": {
+    "name": "Aisén"
   },
   "ANT": {
     "name": "Antofagasta"
   },
-  "EL": {
-    "name": "El Loa"
+  "ARA": {
+    "name": "Arauco"
   },
-  "TOC": {
-    "name": "Tocopilla"
+  "ARI": {
+    "name": "Arica"
   },
-  "COP": {
-    "name": "Copiapó"
+  "BIO": {
+    "name": "Biobío"
   },
-  "HUA": {
-    "name": "Huasco"
+  "CAC": {
+    "name": "Cachapoal"
+  },
+  "CAU": {
+    "name": "Cautin"
+  },
+  "CC": {
+    "name": "Cardenal Caro"
   },
   "CHA": {
     "name": "Chacabuco"
   },
-  "ELQ": {
-    "name": "Elqui"
-  },
-  "LIM": {
-    "name": "Limarí"
+  "CHI": {
+    "name": "Chiloe"
   },
   "CHO": {
     "name": "Choapa"
   },
+  "COI": {
+    "name": "Coihaique"
+  },
+  "COL": {
+    "name": "Colchagua"
+  },
+  "CON": {
+    "name": "Concepción"
+  },
+  "COP": {
+    "name": "Copiapó"
+  },
+  "COR": {
+    "name": "Cordillera"
+  },
+  "CP": {
+    "name": "Capitan Prat"
+  },
+  "CUR": {
+    "name": "Curicó"
+  },
+  "EL": {
+    "name": "El Loa"
+  },
+  "ELQ": {
+    "name": "Elqui"
+  },
+  "GC": {
+    "name": "General Carrera"
+  },
+  "HUA": {
+    "name": "Huasco"
+  },
   "ID": {
     "name": "Isla de Pascua"
+  },
+  "IQU": {
+    "name": "Iquique"
   },
   "LA": {
     "name": "Los Andes"
   },
+  "LIM": {
+    "name": "Limarí"
+  },
+  "LIN": {
+    "name": "Linares"
+  },
+  "LLA": {
+    "name": "Llanquihue"
+  },
+  "MAG": {
+    "name": "Magallanes"
+  },
+  "MAI": {
+    "name": "Maipo"
+  },
+  "MAL": {
+    "name": "Malleco"
+  },
+  "MEL": {
+    "name": "Melipilla"
+  },
   "MM": {
     "name": "Marga Marga"
+  },
+  "OSO": {
+    "name": "Osorno"
+  },
+  "PAL": {
+    "name": "Palena"
+  },
+  "PAR": {
+    "name": "Parinacota"
   },
   "PET": {
     "name": "Petorca"
@@ -53,100 +116,37 @@
   "QUI": {
     "name": "Quillota"
   },
-  "SA": {
-    "name": "San Antonio"
-  },
-  "SF": {
-    "name": "San Felipe de Aconcagua"
-  },
-  "VAL": {
-    "name": "Valdivia"
-  },
-  "CAC": {
-    "name": "Cachapoal"
-  },
-  "COL": {
-    "name": "Colchagua"
-  },
-  "CC": {
-    "name": "Cardenal Caro"
-  },
-  "TAL": {
-    "name": "Talagante"
-  },
-  "LIN": {
-    "name": "Linares"
-  },
-  "CUR": {
-    "name": "Curicó"
-  },
-  "CAU": {
-    "name": "Cautin"
-  },
-  "CON": {
-    "name": "Concepción"
-  },
-  "ÑUB": {
-    "name": "Ñuble"
-  },
-  "BIO": {
-    "name": "Biobío"
-  },
-  "ARA": {
-    "name": "Arauco"
-  },
-  "MAL": {
-    "name": "Malleco"
-  },
   "RAN": {
     "name": "Ranco"
   },
-  "LLA": {
-    "name": "Llanquihue"
-  },
-  "OSO": {
-    "name": "Osorno"
-  },
-  "CHI": {
-    "name": "Chiloe"
-  },
-  "PAL": {
-    "name": "Palena"
-  },
-  "COI": {
-    "name": "Coihaique"
-  },
-  "AIS": {
-    "name": "Aisén"
-  },
-  "GC": {
-    "name": "General Carrera"
-  },
-  "CP": {
-    "name": "Capitan Prat"
-  },
-  "MAG": {
-    "name": "Magallanes"
-  },
-  "UE": {
-    "name": "Ultima Esperanza"
-  },
-  "TD": {
-    "name": "Tierra del Fuego"
-  },
-  "AC": {
-    "name": "Antártica Chilena"
+  "SA": {
+    "name": "San Antonio"
   },
   "SAN": {
     "name": "Santiago"
   },
-  "COR": {
-    "name": "Cordillera"
+  "SF": {
+    "name": "San Felipe de Aconcagua"
   },
-  "MAI": {
-    "name": "Maipo"
+  "TAL": {
+    "name": "Talagante"
   },
-  "MEL": {
-    "name": "Melipilla"
+  "TAM": {
+    "name": "Tamarugal"
+  },
+  "TD": {
+    "name": "Tierra del Fuego"
+  },
+  "TOC": {
+    "name": "Tocopilla"
+  },
+  "UE": {
+    "name": "Ultima Esperanza"
+  },
+  "VAL": {
+    "name": "Valdivia"
+  },
+  "ÑUB": {
+    "name": "Ñuble"
   }
 }

@@ -1,105 +1,21 @@
 {
-  "MOS": {
-    "name": "Moscow"
-  },
-  "MOSOB": {
-    "name": "Moscow Oblast"
-  },
-  "ST.PE": {
-    "name": "St. Petersburg"
-  },
-  "LENOB": {
-    "name": "Leningrad Oblast"
-  },
-  "NOVOB": {
-    "name": "Novosibirsk Oblast"
-  },
-  "PSKOB": {
-    "name": "Pskov Oblast"
-  },
-  "REPOF": {
-    "name": "Republic of Karelia"
-  },
-  "ARKOB": {
-    "name": "Arkhangelsk Oblast"
-  },
-  "MUROB": {
-    "name": "Murmansk Oblast"
-  },
-  "NENAU": {
-    "name": "Nenets Autonomous Okrug"
-  },
-  "KRAKR": {
-    "name": "Krasnodar Krai"
-  },
-  "ROSOB": {
-    "name": "Rostov Oblast"
-  },
-  "ASTOB": {
-    "name": "Astrakhan Oblast"
-  },
-  "VOLOB": {
-    "name": "Volgograd Oblast"
-  },
-  "TAT": {
-    "name": "Tatarstan"
-  },
-  "BAS": {
-    "name": "Bashkortostan"
-  },
-  "UDMRE": {
-    "name": "Udmurt Republic"
-  },
-  "PERKR": {
-    "name": "Perm Krai"
-  },
-  "NIZNO": {
-    "name": "Nizhny Novgorod Oblast"
-  },
-  "SVEOB": {
-    "name": "Sverdlovsk Oblast"
-  },
-  "CHEOB": {
-    "name": "Chelyabinsk Oblast"
-  },
-  "KHAAU": {
-    "name": "Khanty-Mansi Autonomous Okrug"
-  },
-  "YAMAU": {
-    "name": "Yamalo-Nenets Autonomous Okrug"
-  },
-  "TYUOB": {
-    "name": "Tyumen Oblast"
-  },
-  "KEMOB": {
-    "name": "Kemerovo Oblast"
-  },
-  "OMSOB": {
-    "name": "Omsk Oblast"
-  },
-  "TOMOB": {
-    "name": "Tomsk Oblast"
-  },
   "ALTKR": {
     "name": "Altai Krai"
-  },
-  "PRIKR": {
-    "name": "Primorsky Krai"
-  },
-  "KHAKR": {
-    "name": "Khabarovsk Krai"
   },
   "AMUOB": {
     "name": "Amur Oblast"
   },
-  "MAGOB": {
-    "name": "Magadan Oblast"
+  "ARKOB": {
+    "name": "Arkhangelsk Oblast"
   },
-  "SAKOB": {
-    "name": "Sakhalin Oblast"
+  "ASTOB": {
+    "name": "Astrakhan Oblast"
   },
-  "KAMKR": {
-    "name": "Kamchatka Krai"
+  "BAS": {
+    "name": "Bashkortostan"
+  },
+  "CHEOB": {
+    "name": "Chelyabinsk Oblast"
   },
   "CHERE": {
     "name": "Chechen Republic"
@@ -113,10 +29,94 @@
   "KABRE": {
     "name": "Kabardino-Balkar Republic"
   },
+  "KAMKR": {
+    "name": "Kamchatka Krai"
+  },
   "KARRE": {
     "name": "Karachay-Cherkess Republic"
   },
+  "KEMOB": {
+    "name": "Kemerovo Oblast"
+  },
+  "KHAAU": {
+    "name": "Khanty-Mansi Autonomous Okrug"
+  },
+  "KHAKR": {
+    "name": "Khabarovsk Krai"
+  },
+  "KRAKR": {
+    "name": "Krasnodar Krai"
+  },
+  "LENOB": {
+    "name": "Leningrad Oblast"
+  },
+  "MAGOB": {
+    "name": "Magadan Oblast"
+  },
+  "MOS": {
+    "name": "Moscow"
+  },
+  "MOSOB": {
+    "name": "Moscow Oblast"
+  },
+  "MUROB": {
+    "name": "Murmansk Oblast"
+  },
+  "NENAU": {
+    "name": "Nenets Autonomous Okrug"
+  },
+  "NIZNO": {
+    "name": "Nizhny Novgorod Oblast"
+  },
   "NOROS": {
     "name": "North Ossetia–Alania"
+  },
+  "NOVOB": {
+    "name": "Novosibirsk Oblast"
+  },
+  "OMSOB": {
+    "name": "Omsk Oblast"
+  },
+  "PERKR": {
+    "name": "Perm Krai"
+  },
+  "PRIKR": {
+    "name": "Primorsky Krai"
+  },
+  "PSKOB": {
+    "name": "Pskov Oblast"
+  },
+  "REPOF": {
+    "name": "Republic of Karelia"
+  },
+  "ROSOB": {
+    "name": "Rostov Oblast"
+  },
+  "SAKOB": {
+    "name": "Sakhalin Oblast"
+  },
+  "ST.PE": {
+    "name": "St. Petersburg"
+  },
+  "SVEOB": {
+    "name": "Sverdlovsk Oblast"
+  },
+  "TAT": {
+    "name": "Tatarstan"
+  },
+  "TOMOB": {
+    "name": "Tomsk Oblast"
+  },
+  "TYUOB": {
+    "name": "Tyumen Oblast"
+  },
+  "UDMRE": {
+    "name": "Udmurt Republic"
+  },
+  "VOLOB": {
+    "name": "Volgograd Oblast"
+  },
+  "YAMAU": {
+    "name": "Yamalo-Nenets Autonomous Okrug"
   }
 }

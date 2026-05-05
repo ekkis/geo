@@ -8,9 +8,6 @@
   "LESPO": {
     "name": "Lesser Poland"
   },
-  "ODZ": {
-    "name": "Łódź"
-  },
   "LOWSI": {
     "name": "Lower Silesian"
   },
@@ -22,6 +19,9 @@
   },
   "MAS": {
     "name": "Masovian"
+  },
+  "ODZ": {
+    "name": "Łódź"
   },
   "OPO": {
     "name": "Opole"

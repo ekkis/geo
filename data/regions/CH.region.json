@@ -1,48 +1,6 @@
 {
-  "ZUR": {
-    "name": "Zurich"
-  },
-  "GEN": {
-    "name": "Geneva"
-  },
-  "BAS": {
-    "name": "Basel-Stadt"
-  },
-  "BER": {
-    "name": "Bern"
-  },
-  "VAU": {
-    "name": "Vaud"
-  },
-  "TIC": {
-    "name": "Ticino"
-  },
   "AAR": {
     "name": "Aargau"
-  },
-  "LUZ": {
-    "name": "Luzern"
-  },
-  "SOL": {
-    "name": "Solothurn"
-  },
-  "VAL": {
-    "name": "Valais"
-  },
-  "GLA": {
-    "name": "Glarus"
-  },
-  "THU": {
-    "name": "Thurgau"
-  },
-  "SCH": {
-    "name": "Schaffhausen"
-  },
-  "FRI": {
-    "name": "Fribourg"
-  },
-  "ST.GA": {
-    "name": "St. Gallen"
   },
   "APPAU": {
     "name": "Appenzell Ausserrhoden"
@@ -50,8 +8,26 @@
   "APPIN": {
     "name": "Appenzell Innerrhoden"
   },
+  "BAS": {
+    "name": "Basel-Stadt"
+  },
+  "BER": {
+    "name": "Bern"
+  },
+  "FRI": {
+    "name": "Fribourg"
+  },
+  "GEN": {
+    "name": "Geneva"
+  },
+  "GLA": {
+    "name": "Glarus"
+  },
   "GRA": {
     "name": "Graubünden"
+  },
+  "LUZ": {
+    "name": "Luzern"
   },
   "NEU": {
     "name": "Neuchâtel"
@@ -59,7 +35,31 @@
   "SANGA": {
     "name": "Sankt Gallen"
   },
+  "SCH": {
+    "name": "Schaffhausen"
+  },
   "SCH1": {
     "name": "Schwyz"
+  },
+  "SOL": {
+    "name": "Solothurn"
+  },
+  "ST.GA": {
+    "name": "St. Gallen"
+  },
+  "THU": {
+    "name": "Thurgau"
+  },
+  "TIC": {
+    "name": "Ticino"
+  },
+  "VAL": {
+    "name": "Valais"
+  },
+  "VAU": {
+    "name": "Vaud"
+  },
+  "ZUR": {
+    "name": "Zurich"
   }
 }

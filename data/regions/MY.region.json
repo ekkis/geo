@@ -8,6 +8,12 @@
   "KELANTAN": {
     "name": "Kelantan"
   },
+  "KL": {
+    "name": "Kuala Lumpur"
+  },
+  "LABUAN": {
+    "name": "Labuan"
+  },
   "MELAKA": {
     "name": "Malacca"
   },
@@ -26,6 +32,9 @@
   "PERLIS": {
     "name": "Perlis"
   },
+  "PUTRAJAYA": {
+    "name": "Putrajaya"
+  },
   "SABAH": {
     "name": "Sabah"
   },
@@ -37,14 +46,5 @@
   },
   "TERENGGANU": {
     "name": "Terengganu"
-  },
-  "KL": {
-    "name": "Kuala Lumpur"
-  },
-  "LABUAN": {
-    "name": "Labuan"
-  },
-  "PUTRAJAYA": {
-    "name": "Putrajaya"
   }
 }

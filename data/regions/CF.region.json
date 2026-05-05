@@ -1,9 +1,12 @@
 {
-  "BGF": {
-    "name": "Bangui"
+  "AC": {
+    "name": "Ouham"
   },
   "BB": {
     "name": "Bamingui-Bangoran"
+  },
+  "BGF": {
+    "name": "Bangui"
   },
   "BK": {
     "name": "Basse-Kotto"
@@ -29,17 +32,14 @@
   "NM": {
     "name": "Nana-Mambéré"
   },
-  "UK": {
-    "name": "Ouaka"
-  },
-  "AC": {
-    "name": "Ouham"
-  },
   "OP": {
     "name": "Ouham Péndé"
   },
   "SE": {
     "name": "Sangha-Mbaéré"
+  },
+  "UK": {
+    "name": "Ouaka"
   },
   "VK": {
     "name": "Vakaga"

@@ -2,6 +2,18 @@
   "CAPITAL": {
     "name": "Capital Region"
   },
+  "EAST": {
+    "name": "East"
+  },
+  "NE": {
+    "name": "Northeast"
+  },
+  "NW": {
+    "name": "Northwest"
+  },
+  "SOUTH": {
+    "name": "South"
+  },
   "SOUTHERNPEN": {
     "name": "Southern Peninsula"
   },
@@ -10,17 +22,5 @@
   },
   "WESTFJORD": {
     "name": "Westfjords"
-  },
-  "NW": {
-    "name": "Northwest"
-  },
-  "NE": {
-    "name": "Northeast"
-  },
-  "EAST": {
-    "name": "East"
-  },
-  "SOUTH": {
-    "name": "South"
   }
 }

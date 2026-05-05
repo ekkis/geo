@@ -1,12 +1,12 @@
 {
+  "CON": {
+    "name": "Connacht"
+  },
   "LEI": {
     "name": "Leinster"
   },
   "MUN": {
     "name": "Munster"
-  },
-  "CON": {
-    "name": "Connacht"
   },
   "ULS": {
     "name": "Ulster"

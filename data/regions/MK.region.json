@@ -119,11 +119,11 @@
   "LIP": {
     "name": "Lipkovo"
   },
-  "MAKKA": {
-    "name": "Makedonska Kamenica"
-  },
   "MAKBR": {
     "name": "Makedonski Brod"
+  },
+  "MAKKA": {
+    "name": "Makedonska Kamenica"
   },
   "MAVAN": {
     "name": "Mavrovo and Rostuša"
@@ -179,6 +179,9 @@
   "STANA": {
     "name": "Staro Nagoričane"
   },
+  "STI": {
+    "name": "Štip"
+  },
   "STR": {
     "name": "Struga"
   },
@@ -187,9 +190,6 @@
   },
   "STU": {
     "name": "Studeničani"
-  },
-  "STI": {
-    "name": "Štip"
   },
   "TET": {
     "name": "Tetovo"

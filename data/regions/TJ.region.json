@@ -2,13 +2,13 @@
   "DUSH": {
     "name": "Dushanbe"
   },
-  "SUGH": {
-    "name": "Sughd"
+  "GBAO": {
+    "name": "Gorno-Badakhshan"
   },
   "KHAT": {
     "name": "Khatlon"
   },
-  "GBAO": {
-    "name": "Gorno-Badakhshan"
+  "SUGH": {
+    "name": "Sughd"
   }
 }

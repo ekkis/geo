@@ -14,11 +14,11 @@
   "DI": {
     "name": "Dera Ismail Khan"
   },
-  "FAI": {
-    "name": "Faisalabad"
-  },
   "FA": {
     "name": "Federally Administered Tribal Areas"
+  },
+  "FAI": {
+    "name": "Faisalabad"
   },
   "GUJ": {
     "name": "Gujranwala"
@@ -62,11 +62,11 @@
   "MUL": {
     "name": "Multan"
   },
-  "NAS": {
-    "name": "Nasirabad"
-  },
   "NA": {
     "name": "Northern Areas"
+  },
+  "NAS": {
+    "name": "Nasirabad"
   },
   "PES": {
     "name": "Peshawar"
@@ -77,11 +77,11 @@
   "RAW": {
     "name": "Rawalpindi"
   },
-  "SAR": {
-    "name": "Sargodha"
-  },
   "SAH": {
     "name": "Sahiwal"
+  },
+  "SAR": {
+    "name": "Sargodha"
   },
   "SIB": {
     "name": "Sibi"

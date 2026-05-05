@@ -1,7 +1,4 @@
 {
-  "SANMA": {
-    "name": "San Marino"
-  },
   "BORMA": {
     "name": "Borgo Maggiore"
   },
@@ -16,6 +13,9 @@
   },
   "MON": {
     "name": "Montegiardino"
+  },
+  "SANMA": {
+    "name": "San Marino"
   },
   "SER": {
     "name": "Serravalle"

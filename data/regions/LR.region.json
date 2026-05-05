@@ -1,15 +1,15 @@
 {
-  "BI": {
-    "name": "Bomi"
-  },
   "BG": {
     "name": "Bong"
   },
-  "GB": {
-    "name": "Grand Bassa"
+  "BI": {
+    "name": "Bomi"
   },
   "CM": {
     "name": "Grand Cape Mount"
+  },
+  "GB": {
+    "name": "Grand Bassa"
   },
   "GG": {
     "name": "Grand Gedeh"

@@ -1,7 +1,4 @@
 {
-  "TASH": {
-    "name": "Tashkent"
-  },
   "ANDI": {
     "name": "Andijan"
   },
@@ -13,6 +10,12 @@
   },
   "JIZZ": {
     "name": "Jizzakh"
+  },
+  "KARA": {
+    "name": "Karakalpakstan"
+  },
+  "KHOR": {
+    "name": "Khorezm"
   },
   "NAMA": {
     "name": "Namangan"
@@ -32,10 +35,7 @@
   "SYR": {
     "name": "Syrdarya"
   },
-  "KHOR": {
-    "name": "Khorezm"
-  },
-  "KARA": {
-    "name": "Karakalpakstan"
+  "TASH": {
+    "name": "Tashkent"
   }
 }

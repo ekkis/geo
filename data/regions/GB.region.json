@@ -1,4 +1,22 @@
 {
+  "AA": {
+    "name": "Argyll and Bute"
+  },
+  "ABE": {
+    "name": "Aberdeenshire"
+  },
+  "AC": {
+    "name": "Aberdeen City"
+  },
+  "ANG": {
+    "name": "Angus"
+  },
+  "ANT": {
+    "name": "Antrim"
+  },
+  "ARM": {
+    "name": "Armagh"
+  },
   "AVO": {
     "name": "Avon"
   },
@@ -7,6 +25,9 @@
   },
   "BER": {
     "name": "Berkshire"
+  },
+  "BG": {
+    "name": "Blaenau Gwent"
   },
   "BOR": {
     "name": "Borders"
@@ -17,23 +38,44 @@
   "BUC": {
     "name": "Buckinghamshire"
   },
+  "CAE": {
+    "name": "Caerphilly"
+  },
   "CAM": {
     "name": "Cambridgeshire"
   },
-  "CI": {
-    "name": "Channel Islands"
+  "CAR": {
+    "name": "Cardiff"
+  },
+  "CER": {
+    "name": "Ceredigion"
   },
   "CHE": {
     "name": "Cheshire"
   },
+  "CI": {
+    "name": "Channel Islands"
+  },
+  "CLA": {
+    "name": "Clackmannan"
+  },
   "CLE": {
     "name": "Cleveland"
+  },
+  "CON": {
+    "name": "Conwy"
   },
   "COR": {
     "name": "Cornwall"
   },
   "CUM": {
     "name": "Cumbria"
+  },
+  "DA": {
+    "name": "Dumfries and Galloway"
+  },
+  "DEN": {
+    "name": "Denbighshire"
   },
   "DER": {
     "name": "Derbyshire"
@@ -44,8 +86,23 @@
   "DOR": {
     "name": "Dorset"
   },
+  "DOW": {
+    "name": "Down"
+  },
   "DUR": {
     "name": "Durham"
+  },
+  "EA": {
+    "name": "East Ayrshire"
+  },
+  "EC": {
+    "name": "Edinburgh City"
+  },
+  "ED": {
+    "name": "East Dunbartonshire"
+  },
+  "EL": {
+    "name": "East Lothian"
   },
   "ER": {
     "name": "East Renfrewshire"
@@ -56,11 +113,29 @@
   "ESS": {
     "name": "Essex"
   },
+  "FAL": {
+    "name": "Falkirk"
+  },
+  "FER": {
+    "name": "Fermanagh"
+  },
+  "FIF": {
+    "name": "Fife"
+  },
+  "FLI": {
+    "name": "Flintshire"
+  },
+  "GLA": {
+    "name": "Glasgow"
+  },
   "GLO": {
     "name": "Gloucestershire"
   },
   "GM": {
     "name": "Greater Manchester"
+  },
+  "GWY": {
+    "name": "Gwynedd"
   },
   "HAM": {
     "name": "Hampshire"
@@ -68,8 +143,14 @@
   "HER": {
     "name": "Hertfordshire"
   },
+  "HIG": {
+    "name": "Highland"
+  },
   "HUM": {
     "name": "Humberside"
+  },
+  "INV": {
+    "name": "Inverclyde"
   },
   "IO": {
     "name": "Isle of Anglesey"
@@ -95,197 +176,44 @@
   "MID": {
     "name": "Midlothian"
   },
-  "NOR": {
-    "name": "Northumberland"
-  },
-  "NY": {
-    "name": "North Yorkshire"
-  },
-  "NOT": {
-    "name": "Nottinghamshire"
-  },
-  "OXF": {
-    "name": "Oxfordshire"
-  },
-  "RUT": {
-    "name": "Rutland"
-  },
-  "SHR": {
-    "name": "Shropshire"
-  },
-  "SOM": {
-    "name": "Somerset"
-  },
-  "SY": {
-    "name": "South Yorkshire"
-  },
-  "STA": {
-    "name": "Staffordshire"
-  },
-  "SUF": {
-    "name": "Suffolk"
-  },
-  "SUR": {
-    "name": "Surrey"
-  },
-  "TA": {
-    "name": "Tyne and Wear"
-  },
-  "WAR": {
-    "name": "Warwickshire"
-  },
-  "WM": {
-    "name": "West Midlands"
-  },
-  "WS": {
-    "name": "West Sussex"
-  },
-  "WY": {
-    "name": "West Yorkshire"
-  },
-  "WIL": {
-    "name": "Wiltshire"
-  },
-  "WOR": {
-    "name": "Worcestershire"
-  },
-  "ANT": {
-    "name": "Antrim"
-  },
-  "DOW": {
-    "name": "Down"
-  },
-  "FER": {
-    "name": "Fermanagh"
-  },
-  "TYR": {
-    "name": "Tyrone"
-  },
-  "AC": {
-    "name": "Aberdeen City"
-  },
-  "ABE": {
-    "name": "Aberdeenshire"
-  },
-  "ANG": {
-    "name": "Angus"
-  },
-  "AA": {
-    "name": "Argyll and Bute"
-  },
-  "ARM": {
-    "name": "Armagh"
-  },
-  "CAR": {
-    "name": "Cardiff"
-  },
-  "CLA": {
-    "name": "Clackmannan"
-  },
-  "DA": {
-    "name": "Dumfries and Galloway"
-  },
-  "EA": {
-    "name": "East Ayrshire"
-  },
-  "ED": {
-    "name": "East Dunbartonshire"
-  },
-  "EL": {
-    "name": "East Lothian"
-  },
-  "EC": {
-    "name": "Edinburgh City"
-  },
-  "FAL": {
-    "name": "Falkirk"
-  },
-  "FIF": {
-    "name": "Fife"
-  },
-  "GLA": {
-    "name": "Glasgow"
-  },
-  "HIG": {
-    "name": "Highland"
-  },
-  "INV": {
-    "name": "Inverclyde"
+  "MON": {
+    "name": "Monmouthshire"
   },
   "MOR": {
     "name": "Moray"
   },
+  "MT": {
+    "name": "Merthyr Tydfil"
+  },
   "NA": {
     "name": "North Ayrshire"
+  },
+  "NEW": {
+    "name": "Newport"
   },
   "NL": {
     "name": "North Lanarkshire"
   },
-  "ORK": {
-    "name": "Orkney"
+  "NOR": {
+    "name": "Northumberland"
   },
-  "PA": {
-    "name": "Perthshire and Kinross"
-  },
-  "REN": {
-    "name": "Renfrewshire"
-  },
-  "ROX": {
-    "name": "Roxburghshire"
-  },
-  "SHE": {
-    "name": "Shetland"
-  },
-  "SA": {
-    "name": "South Ayrshire"
-  },
-  "SL": {
-    "name": "South Lanarkshire"
-  },
-  "STI": {
-    "name": "Stirling"
-  },
-  "WD": {
-    "name": "West Dunbartonshire"
-  },
-  "WL": {
-    "name": "West Lothian"
-  },
-  "WI": {
-    "name": "Western Isles"
-  },
-  "BG": {
-    "name": "Blaenau Gwent"
-  },
-  "CAE": {
-    "name": "Caerphilly"
-  },
-  "CER": {
-    "name": "Ceredigion"
-  },
-  "CON": {
-    "name": "Conwy"
-  },
-  "DEN": {
-    "name": "Denbighshire"
-  },
-  "FLI": {
-    "name": "Flintshire"
-  },
-  "GWY": {
-    "name": "Gwynedd"
-  },
-  "MT": {
-    "name": "Merthyr Tydfil"
-  },
-  "MON": {
-    "name": "Monmouthshire"
+  "NOT": {
+    "name": "Nottinghamshire"
   },
   "NP": {
     "name": "Neath Port Talbot"
   },
-  "NEW": {
-    "name": "Newport"
+  "NY": {
+    "name": "North Yorkshire"
+  },
+  "ORK": {
+    "name": "Orkney"
+  },
+  "OXF": {
+    "name": "Oxfordshire"
+  },
+  "PA": {
+    "name": "Perthshire and Kinross"
   },
   "PEM": {
     "name": "Pembrokeshire"
@@ -296,16 +224,88 @@
   "RC": {
     "name": "Rhondda Cynon Taff"
   },
+  "REN": {
+    "name": "Renfrewshire"
+  },
+  "ROX": {
+    "name": "Roxburghshire"
+  },
+  "RUT": {
+    "name": "Rutland"
+  },
+  "SA": {
+    "name": "South Ayrshire"
+  },
+  "SHE": {
+    "name": "Shetland"
+  },
+  "SHR": {
+    "name": "Shropshire"
+  },
+  "SL": {
+    "name": "South Lanarkshire"
+  },
+  "SOM": {
+    "name": "Somerset"
+  },
+  "STA": {
+    "name": "Staffordshire"
+  },
+  "STI": {
+    "name": "Stirling"
+  },
+  "SUF": {
+    "name": "Suffolk"
+  },
+  "SUR": {
+    "name": "Surrey"
+  },
   "SWA": {
     "name": "Swansea"
   },
-  "TV": {
-    "name": "The Vale of Glamorgan"
+  "SY": {
+    "name": "South Yorkshire"
+  },
+  "TA": {
+    "name": "Tyne and Wear"
   },
   "TOR": {
     "name": "Torfaen"
   },
+  "TV": {
+    "name": "The Vale of Glamorgan"
+  },
+  "TYR": {
+    "name": "Tyrone"
+  },
+  "WAR": {
+    "name": "Warwickshire"
+  },
+  "WD": {
+    "name": "West Dunbartonshire"
+  },
+  "WI": {
+    "name": "Western Isles"
+  },
+  "WIL": {
+    "name": "Wiltshire"
+  },
+  "WL": {
+    "name": "West Lothian"
+  },
+  "WM": {
+    "name": "West Midlands"
+  },
+  "WOR": {
+    "name": "Worcestershire"
+  },
   "WRE": {
     "name": "Wrexham"
+  },
+  "WS": {
+    "name": "West Sussex"
+  },
+  "WY": {
+    "name": "West Yorkshire"
   }
 }

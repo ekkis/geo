@@ -14,14 +14,26 @@
   "COR": {
     "name": "Corsica"
   },
+  "FREGU": {
+    "name": "French Guiana"
+  },
   "GRAES": {
     "name": "Grand Est"
+  },
+  "GUA": {
+    "name": "Guadeloupe"
   },
   "HAU": {
     "name": "Hauts-de-France"
   },
   "ILE": {
     "name": "Île-de-France"
+  },
+  "MAR": {
+    "name": "Martinique"
+  },
+  "MAY": {
+    "name": "Mayotte"
   },
   "NOR": {
     "name": "Normandy"
@@ -38,19 +50,7 @@
   "PROD'": {
     "name": "Provence-Alpes-Côte d'Azur"
   },
-  "GUA": {
-    "name": "Guadeloupe"
-  },
-  "MAR": {
-    "name": "Martinique"
-  },
-  "FREGU": {
-    "name": "French Guiana"
-  },
   "REU": {
     "name": "Réunion"
-  },
-  "MAY": {
-    "name": "Mayotte"
   }
 }

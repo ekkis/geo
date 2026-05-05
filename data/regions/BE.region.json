@@ -5,11 +5,11 @@
   "HEN": {
     "name": "Henegouwen"
   },
-  "LUI": {
-    "name": "Luik"
-  },
   "LIM": {
     "name": "Limburg"
+  },
+  "LUI": {
+    "name": "Luik"
   },
   "LUX": {
     "name": "Luxemburg"

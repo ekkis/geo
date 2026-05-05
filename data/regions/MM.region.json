@@ -1,4 +1,13 @@
 {
+  "AYEYAR": {
+    "name": "Ayeyarwady"
+  },
+  "BAGO": {
+    "name": "Bago"
+  },
+  "CHIN": {
+    "name": "Chin"
+  },
   "KACHIN": {
     "name": "Kachin"
   },
@@ -8,40 +17,31 @@
   "KAYIN": {
     "name": "Kayin"
   },
-  "CHIN": {
-    "name": "Chin"
-  },
-  "MON": {
-    "name": "Mon"
-  },
-  "RAKHINE": {
-    "name": "Rakhine"
-  },
-  "SHAN": {
-    "name": "Shan"
-  },
-  "AYEYAR": {
-    "name": "Ayeyarwady"
-  },
-  "BAGO": {
-    "name": "Bago"
-  },
   "MAGWAY": {
     "name": "Magway"
   },
   "MANDALAY": {
     "name": "Mandalay"
   },
+  "MON": {
+    "name": "Mon"
+  },
+  "NAYPYID": {
+    "name": "Naypyidaw"
+  },
+  "RAKHINE": {
+    "name": "Rakhine"
+  },
   "SAGAING": {
     "name": "Sagaing"
+  },
+  "SHAN": {
+    "name": "Shan"
   },
   "TANINTH": {
     "name": "Tanintharyi"
   },
   "YANGON": {
     "name": "Yangon"
-  },
-  "NAYPYID": {
-    "name": "Naypyidaw"
   }
 }

@@ -11,11 +11,11 @@
   "AOS": {
     "name": "Aosta"
   },
-  "ARE": {
-    "name": "Arezzo"
-  },
   "AP": {
     "name": "Ascoli Piceno"
+  },
+  "ARE": {
+    "name": "Arezzo"
   },
   "AST": {
     "name": "Asti"
@@ -116,9 +116,6 @@
   "L'A": {
     "name": "L'Aquila"
   },
-  "LS": {
-    "name": "La Spezia"
-  },
   "LAT": {
     "name": "Latina"
   },
@@ -130,6 +127,9 @@
   },
   "LOD": {
     "name": "Lodi"
+  },
+  "LS": {
+    "name": "La Spezia"
   },
   "LUC": {
     "name": "Lucca"
@@ -146,6 +146,9 @@
   "MAT": {
     "name": "Matera"
   },
+  "ME": {
+    "name": "Monza e della Brianza"
+  },
   "MES": {
     "name": "Messina"
   },
@@ -154,9 +157,6 @@
   },
   "MOD": {
     "name": "Modena"
-  },
-  "ME": {
-    "name": "Monza e della Brianza"
   },
   "NAP": {
     "name": "Napoli"
@@ -182,11 +182,11 @@
   "PAV": {
     "name": "Pavia"
   },
-  "PER": {
-    "name": "Perugia"
-  },
   "PE": {
     "name": "Pesaro e Urbino"
+  },
+  "PER": {
+    "name": "Perugia"
   },
   "PES": {
     "name": "Pescara"
@@ -278,13 +278,13 @@
   "VER": {
     "name": "Verona"
   },
-  "VV": {
-    "name": "Vibo Valentia"
-  },
   "VIC": {
     "name": "Vicenza"
   },
   "VIT": {
     "name": "Viterbo"
+  },
+  "VV": {
+    "name": "Vibo Valentia"
   }
 }

@@ -8,6 +8,9 @@
   "CHERV": {
     "name": "Chernivtsi Oblast"
   },
+  "CRIME": {
+    "name": "Autonomous Republic of Crimea"
+  },
   "DNIPR": {
     "name": "Dnipropetrovsk Oblast"
   },
@@ -28,6 +31,9 @@
   },
   "KIEV": {
     "name": "Kiev Oblast"
+  },
+  "KIEV-CITY": {
+    "name": "Kiev"
   },
   "KIRO": {
     "name": "Kirovohrad Oblast"
@@ -73,11 +79,5 @@
   },
   "ZHYTO": {
     "name": "Zhytomyr Oblast"
-  },
-  "CRIME": {
-    "name": "Autonomous Republic of Crimea"
-  },
-  "KIEV-CITY": {
-    "name": "Kiev"
   }
 }

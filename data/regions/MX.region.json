@@ -17,11 +17,11 @@
   "COL": {
     "name": "Colima"
   },
-  "FD": {
-    "name": "Federal District"
-  },
   "DUR": {
     "name": "Durango"
+  },
+  "FD": {
+    "name": "Federal District"
   },
   "GUA": {
     "name": "Guanajuato"
@@ -56,17 +56,17 @@
   "PUE": {
     "name": "Puebla"
   },
-  "QUE": {
-    "name": "Querétaro"
-  },
   "QR": {
     "name": "Quintana Roo"
   },
-  "SL": {
-    "name": "San Luis Potosí"
+  "QUE": {
+    "name": "Querétaro"
   },
   "SIN": {
     "name": "Sinaloa"
+  },
+  "SL": {
+    "name": "San Luis Potosí"
   },
   "SON": {
     "name": "Sonora"

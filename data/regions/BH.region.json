@@ -5,13 +5,13 @@
   "CEN": {
     "name": "Central"
   },
+  "HAW": {
+    "name": "Hawar"
+  },
   "NOR": {
     "name": "Northern"
   },
   "SOU": {
     "name": "Southern"
-  },
-  "HAW": {
-    "name": "Hawar"
   }
 }

@@ -1,35 +1,35 @@
 {
-  "VAD": {
-    "name": "Vaduz"
-  },
-  "SCH": {
-    "name": "Schaan"
-  },
-  "TRI": {
-    "name": "Triesen"
-  },
   "BAL": {
     "name": "Balzers"
   },
   "ESC": {
     "name": "Eschen"
   },
+  "GAM": {
+    "name": "Gamprin"
+  },
   "MAU": {
     "name": "Mauren"
   },
-  "TRI1": {
-    "name": "Triesenberg"
+  "PLA": {
+    "name": "Planken"
   },
   "RUG": {
     "name": "Ruggell"
   },
-  "GAM": {
-    "name": "Gamprin"
+  "SCH": {
+    "name": "Schaan"
   },
   "SCH1": {
     "name": "Schellenberg"
   },
-  "PLA": {
-    "name": "Planken"
+  "TRI": {
+    "name": "Triesen"
+  },
+  "TRI1": {
+    "name": "Triesenberg"
+  },
+  "VAD": {
+    "name": "Vaduz"
   }
 }
