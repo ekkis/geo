@@ -12207,5 +12207,967 @@
         ]
       }
     }
+  },
+  "PL": {
+    "divisions": {
+      "GREPO": {
+        "name": "Greater Poland",
+        "regions": [
+          "Greater Poland"
+        ]
+      },
+      "KUY": {
+        "name": "Kuyavian-Pomeranian",
+        "regions": [
+          "Kuyavian-Pomeranian"
+        ]
+      },
+      "LESPO": {
+        "name": "Lesser Poland",
+        "regions": [
+          "Lesser Poland"
+        ]
+      },
+      "ODZ": {
+        "name": "Łódź",
+        "regions": [
+          "Łódź"
+        ]
+      },
+      "LOWSI": {
+        "name": "Lower Silesian",
+        "regions": [
+          "Lower Silesian"
+        ]
+      },
+      "LUB": {
+        "name": "Lublin",
+        "regions": [
+          "Lublin"
+        ]
+      },
+      "LUB1": {
+        "name": "Lubusz",
+        "regions": [
+          "Lubusz"
+        ]
+      },
+      "MAS": {
+        "name": "Masovian",
+        "regions": [
+          "Masovian"
+        ]
+      },
+      "OPO": {
+        "name": "Opole",
+        "regions": [
+          "Opole"
+        ]
+      },
+      "POD": {
+        "name": "Podlaskie",
+        "regions": [
+          "Podlaskie"
+        ]
+      },
+      "POM": {
+        "name": "Pomeranian",
+        "regions": [
+          "Pomeranian"
+        ]
+      },
+      "SWI": {
+        "name": "Świętokrzyskie",
+        "regions": [
+          "Świętokrzyskie"
+        ]
+      },
+      "WAR": {
+        "name": "Warmian-Masurian",
+        "regions": [
+          "Warmian-Masurian"
+        ]
+      },
+      "WESPO": {
+        "name": "West Pomeranian",
+        "regions": [
+          "West Pomeranian"
+        ]
+      }
+    }
+  },
+  "CZ": {
+    "divisions": {
+      "CENBO": {
+        "name": "Central Bohemian",
+        "regions": [
+          "Central Bohemian"
+        ]
+      },
+      "SOUBO": {
+        "name": "South Bohemian",
+        "regions": [
+          "South Bohemian"
+        ]
+      },
+      "PLZ": {
+        "name": "Plzeň",
+        "regions": [
+          "Plzeň"
+        ]
+      },
+      "KARVA": {
+        "name": "Karlovy Vary",
+        "regions": [
+          "Karlovy Vary"
+        ]
+      },
+      "USTNA": {
+        "name": "Ústí nad Labem",
+        "regions": [
+          "Ústí nad Labem"
+        ]
+      },
+      "LIB": {
+        "name": "Liberec",
+        "regions": [
+          "Liberec"
+        ]
+      },
+      "HRAKR": {
+        "name": "Hradec Králové",
+        "regions": [
+          "Hradec Králové"
+        ]
+      },
+      "PAR": {
+        "name": "Pardubice",
+        "regions": [
+          "Pardubice"
+        ]
+      },
+      "VYS": {
+        "name": "Vysočina",
+        "regions": [
+          "Vysočina"
+        ]
+      },
+      "SOUMO": {
+        "name": "South Moravian",
+        "regions": [
+          "South Moravian"
+        ]
+      },
+      "OLO": {
+        "name": "Olomouc",
+        "regions": [
+          "Olomouc"
+        ]
+      },
+      "ZLI": {
+        "name": "Zlín",
+        "regions": [
+          "Zlín"
+        ]
+      },
+      "MOR": {
+        "name": "Moravian-Silesian",
+        "regions": [
+          "Moravian-Silesian"
+        ]
+      },
+      "PRA": {
+        "name": "Prague",
+        "regions": [
+          "Prague"
+        ]
+      }
+    }
+  },
+  "SK": {
+    "divisions": {
+      "BANBY": {
+        "name": "Banská Bystrica",
+        "regions": [
+          "Banská Bystrica"
+        ]
+      },
+      "BRA": {
+        "name": "Bratislava",
+        "regions": [
+          "Bratislava"
+        ]
+      },
+      "KOS": {
+        "name": "Košice",
+        "regions": [
+          "Košice"
+        ]
+      },
+      "NIT": {
+        "name": "Nitra",
+        "regions": [
+          "Nitra"
+        ]
+      },
+      "PRE": {
+        "name": "Prešov",
+        "regions": [
+          "Prešov"
+        ]
+      },
+      "TRE": {
+        "name": "Trenčín",
+        "regions": [
+          "Trenčín"
+        ]
+      },
+      "TRN": {
+        "name": "Trnava",
+        "regions": [
+          "Trnava"
+        ]
+      },
+      "ZIL": {
+        "name": "Žilina",
+        "regions": [
+          "Žilina"
+        ]
+      }
+    }
+  },
+  "HU": {
+    "divisions": {
+      "BAC": {
+        "name": "Bács-Kiskun",
+        "regions": [
+          "Bács-Kiskun"
+        ]
+      },
+      "BAR": {
+        "name": "Baranya",
+        "regions": [
+          "Baranya"
+        ]
+      },
+      "BEK": {
+        "name": "Békés",
+        "regions": [
+          "Békés"
+        ]
+      },
+      "BOR": {
+        "name": "Borsod-Abaúj-Zemplén",
+        "regions": [
+          "Borsod-Abaúj-Zemplén"
+        ]
+      },
+      "BUD": {
+        "name": "Budapest",
+        "regions": [
+          "Budapest"
+        ]
+      },
+      "FEJ": {
+        "name": "Fejér",
+        "regions": [
+          "Fejér"
+        ]
+      },
+      "GYO": {
+        "name": "Győr-Moson-Sopron",
+        "regions": [
+          "Győr-Moson-Sopron"
+        ]
+      },
+      "HAJ": {
+        "name": "Hajdú-Bihar",
+        "regions": [
+          "Hajdú-Bihar"
+        ]
+      },
+      "HEV": {
+        "name": "Heves",
+        "regions": [
+          "Heves"
+        ]
+      },
+      "JAS": {
+        "name": "Jász-Nagykun-Szolnok",
+        "regions": [
+          "Jász-Nagykun-Szolnok"
+        ]
+      },
+      "KOM": {
+        "name": "Komárom-Esztergom",
+        "regions": [
+          "Komárom-Esztergom"
+        ]
+      },
+      "NOG": {
+        "name": "Nógrád",
+        "regions": [
+          "Nógrád"
+        ]
+      },
+      "PES": {
+        "name": "Pest",
+        "regions": [
+          "Pest"
+        ]
+      },
+      "SOM": {
+        "name": "Somogy",
+        "regions": [
+          "Somogy"
+        ]
+      },
+      "SZA": {
+        "name": "Szabolcs-Szatmár-Bereg",
+        "regions": [
+          "Szabolcs-Szatmár-Bereg"
+        ]
+      },
+      "TOL": {
+        "name": "Tolna",
+        "regions": [
+          "Tolna"
+        ]
+      },
+      "VAS": {
+        "name": "Vas",
+        "regions": [
+          "Vas"
+        ]
+      },
+      "VES": {
+        "name": "Veszprém",
+        "regions": [
+          "Veszprém"
+        ]
+      },
+      "ZAL": {
+        "name": "Zala",
+        "regions": [
+          "Zala"
+        ]
+      }
+    }
+  },
+  "RO": {
+    "divisions": {
+      "ALB": {
+        "name": "Alba",
+        "regions": [
+          "Alba"
+        ]
+      },
+      "ARA": {
+        "name": "Arad",
+        "regions": [
+          "Arad"
+        ]
+      },
+      "ARG": {
+        "name": "Argeș",
+        "regions": [
+          "Argeș"
+        ]
+      },
+      "BAC": {
+        "name": "Bacău",
+        "regions": [
+          "Bacău"
+        ]
+      },
+      "BIH": {
+        "name": "Bihor",
+        "regions": [
+          "Bihor"
+        ]
+      },
+      "BIS": {
+        "name": "Bistrița-Năsăud",
+        "regions": [
+          "Bistrița-Năsăud"
+        ]
+      },
+      "BOT": {
+        "name": "Botoșani",
+        "regions": [
+          "Botoșani"
+        ]
+      },
+      "BRA": {
+        "name": "Brașov",
+        "regions": [
+          "Brașov"
+        ]
+      },
+      "BRA1": {
+        "name": "Brăila",
+        "regions": [
+          "Brăila"
+        ]
+      },
+      "BUZ": {
+        "name": "Buzău",
+        "regions": [
+          "Buzău"
+        ]
+      },
+      "CAL": {
+        "name": "Călărași",
+        "regions": [
+          "Călărași"
+        ]
+      },
+      "CAR": {
+        "name": "Caraș-Severin",
+        "regions": [
+          "Caraș-Severin"
+        ]
+      },
+      "CLU": {
+        "name": "Cluj",
+        "regions": [
+          "Cluj"
+        ]
+      },
+      "CON": {
+        "name": "Constanța",
+        "regions": [
+          "Constanța"
+        ]
+      },
+      "COV": {
+        "name": "Covasna",
+        "regions": [
+          "Covasna"
+        ]
+      },
+      "DAM": {
+        "name": "Dâmbovița",
+        "regions": [
+          "Dâmbovița"
+        ]
+      },
+      "DOL": {
+        "name": "Dolj",
+        "regions": [
+          "Dolj"
+        ]
+      },
+      "GAL": {
+        "name": "Galați",
+        "regions": [
+          "Galați"
+        ]
+      },
+      "GIU": {
+        "name": "Giurgiu",
+        "regions": [
+          "Giurgiu"
+        ]
+      },
+      "GOR": {
+        "name": "Gorj",
+        "regions": [
+          "Gorj"
+        ]
+      },
+      "HAR": {
+        "name": "Harghita",
+        "regions": [
+          "Harghita"
+        ]
+      },
+      "HUN": {
+        "name": "Hunedoara",
+        "regions": [
+          "Hunedoara"
+        ]
+      },
+      "IAL": {
+        "name": "Ialomița",
+        "regions": [
+          "Ialomița"
+        ]
+      },
+      "IAS": {
+        "name": "Iași",
+        "regions": [
+          "Iași"
+        ]
+      },
+      "ILF": {
+        "name": "Ilfov",
+        "regions": [
+          "Ilfov"
+        ]
+      },
+      "MAR": {
+        "name": "Maramureș",
+        "regions": [
+          "Maramureș"
+        ]
+      },
+      "MEH": {
+        "name": "Mehedinți",
+        "regions": [
+          "Mehedinți"
+        ]
+      },
+      "MUR": {
+        "name": "Mureș",
+        "regions": [
+          "Mureș"
+        ]
+      },
+      "NEA": {
+        "name": "Neamț",
+        "regions": [
+          "Neamț"
+        ]
+      },
+      "OLT": {
+        "name": "Olt",
+        "regions": [
+          "Olt"
+        ]
+      },
+      "PRA": {
+        "name": "Prahova",
+        "regions": [
+          "Prahova"
+        ]
+      },
+      "SATMA": {
+        "name": "Satu Mare",
+        "regions": [
+          "Satu Mare"
+        ]
+      },
+      "SAL": {
+        "name": "Sălaj",
+        "regions": [
+          "Sălaj"
+        ]
+      },
+      "SIB": {
+        "name": "Sibiu",
+        "regions": [
+          "Sibiu"
+        ]
+      },
+      "SUC": {
+        "name": "Suceava",
+        "regions": [
+          "Suceava"
+        ]
+      },
+      "TEL": {
+        "name": "Teleorman",
+        "regions": [
+          "Teleorman"
+        ]
+      },
+      "TIM": {
+        "name": "Timiș",
+        "regions": [
+          "Timiș"
+        ]
+      },
+      "TUL": {
+        "name": "Tulcea",
+        "regions": [
+          "Tulcea"
+        ]
+      },
+      "VAS": {
+        "name": "Vaslui",
+        "regions": [
+          "Vaslui"
+        ]
+      },
+      "VAL": {
+        "name": "Vâlcea",
+        "regions": [
+          "Vâlcea"
+        ]
+      },
+      "VRA": {
+        "name": "Vrancea",
+        "regions": [
+          "Vrancea"
+        ]
+      }
+    }
+  },
+  "BG": {
+    "divisions": {
+      "BLA": {
+        "name": "Blagoevgrad",
+        "regions": [
+          "Blagoevgrad"
+        ]
+      },
+      "BUR": {
+        "name": "Burgas",
+        "regions": [
+          "Burgas"
+        ]
+      },
+      "DOB": {
+        "name": "Dobrich",
+        "regions": [
+          "Dobrich"
+        ]
+      },
+      "GAB": {
+        "name": "Gabrovo",
+        "regions": [
+          "Gabrovo"
+        ]
+      },
+      "HAS": {
+        "name": "Haskovo",
+        "regions": [
+          "Haskovo"
+        ]
+      },
+      "KAR": {
+        "name": "Kardzhali",
+        "regions": [
+          "Kardzhali"
+        ]
+      },
+      "KYU": {
+        "name": "Kyustendil",
+        "regions": [
+          "Kyustendil"
+        ]
+      },
+      "LOV": {
+        "name": "Lovech",
+        "regions": [
+          "Lovech"
+        ]
+      },
+      "MON": {
+        "name": "Montana",
+        "regions": [
+          "Montana"
+        ]
+      },
+      "PAZ": {
+        "name": "Pazardzhik",
+        "regions": [
+          "Pazardzhik"
+        ]
+      },
+      "PER": {
+        "name": "Pernik",
+        "regions": [
+          "Pernik"
+        ]
+      },
+      "PLE": {
+        "name": "Pleven",
+        "regions": [
+          "Pleven"
+        ]
+      },
+      "PLO": {
+        "name": "Plovdiv",
+        "regions": [
+          "Plovdiv"
+        ]
+      },
+      "RAZ": {
+        "name": "Razgrad",
+        "regions": [
+          "Razgrad"
+        ]
+      },
+      "RUS": {
+        "name": "Ruse",
+        "regions": [
+          "Ruse"
+        ]
+      },
+      "SHU": {
+        "name": "Shumen",
+        "regions": [
+          "Shumen"
+        ]
+      },
+      "SIL": {
+        "name": "Silistra",
+        "regions": [
+          "Silistra"
+        ]
+      },
+      "SLI": {
+        "name": "Sliven",
+        "regions": [
+          "Sliven"
+        ]
+      },
+      "SMO": {
+        "name": "Smolyan",
+        "regions": [
+          "Smolyan"
+        ]
+      },
+      "SOF": {
+        "name": "Sofia",
+        "regions": [
+          "Sofia"
+        ]
+      },
+      "SOFPR": {
+        "name": "Sofia Province",
+        "regions": [
+          "Sofia Province"
+        ]
+      },
+      "STAZA": {
+        "name": "Stara Zagora",
+        "regions": [
+          "Stara Zagora"
+        ]
+      },
+      "TAR": {
+        "name": "Targovishte",
+        "regions": [
+          "Targovishte"
+        ]
+      },
+      "VAR": {
+        "name": "Varna",
+        "regions": [
+          "Varna"
+        ]
+      },
+      "VELTA": {
+        "name": "Veliko Tarnovo",
+        "regions": [
+          "Veliko Tarnovo"
+        ]
+      },
+      "VID": {
+        "name": "Vidin",
+        "regions": [
+          "Vidin"
+        ]
+      },
+      "VRA": {
+        "name": "Vratsa",
+        "regions": [
+          "Vratsa"
+        ]
+      },
+      "YAM": {
+        "name": "Yambol",
+        "regions": [
+          "Yambol"
+        ]
+      }
+    }
+  },
+  "GR": {
+    "divisions": {
+      "ATT": {
+        "name": "Attica",
+        "regions": [
+          "Attica"
+        ]
+      },
+      "CENGR": {
+        "name": "Central Greece",
+        "regions": [
+          "Central Greece"
+        ]
+      },
+      "CENMA": {
+        "name": "Central Macedonia",
+        "regions": [
+          "Central Macedonia"
+        ]
+      },
+      "CRE": {
+        "name": "Crete",
+        "regions": [
+          "Crete"
+        ]
+      },
+      "EASMA": {
+        "name": "East Macedonia and Thrace",
+        "regions": [
+          "East Macedonia and Thrace"
+        ]
+      },
+      "EPI": {
+        "name": "Epirus",
+        "regions": [
+          "Epirus"
+        ]
+      },
+      "IONIS": {
+        "name": "Ionian Islands",
+        "regions": [
+          "Ionian Islands"
+        ]
+      },
+      "NORAE": {
+        "name": "North Aegean",
+        "regions": [
+          "North Aegean"
+        ]
+      },
+      "PEL": {
+        "name": "Peloponnese",
+        "regions": [
+          "Peloponnese"
+        ]
+      },
+      "SOUAE": {
+        "name": "South Aegean",
+        "regions": [
+          "South Aegean"
+        ]
+      },
+      "THE": {
+        "name": "Thessaly",
+        "regions": [
+          "Thessaly"
+        ]
+      },
+      "WESGR": {
+        "name": "West Greece",
+        "regions": [
+          "West Greece"
+        ]
+      },
+      "WESMA": {
+        "name": "West Macedonia",
+        "regions": [
+          "West Macedonia"
+        ]
+      }
+    }
+  },
+  "PT": {
+    "divisions": {
+      "AVE": {
+        "name": "Aveiro",
+        "regions": [
+          "Aveiro"
+        ]
+      },
+      "BEJ": {
+        "name": "Beja",
+        "regions": [
+          "Beja"
+        ]
+      },
+      "BRA": {
+        "name": "Braga",
+        "regions": [
+          "Braga"
+        ]
+      },
+      "BRA1": {
+        "name": "Bragança",
+        "regions": [
+          "Bragança"
+        ]
+      },
+      "CASBR": {
+        "name": "Castelo Branco",
+        "regions": [
+          "Castelo Branco"
+        ]
+      },
+      "COI": {
+        "name": "Coimbra",
+        "regions": [
+          "Coimbra"
+        ]
+      },
+      "EVO": {
+        "name": "Évora",
+        "regions": [
+          "Évora"
+        ]
+      },
+      "FAR": {
+        "name": "Faro",
+        "regions": [
+          "Faro"
+        ]
+      },
+      "GUA": {
+        "name": "Guarda",
+        "regions": [
+          "Guarda"
+        ]
+      },
+      "LEI": {
+        "name": "Leiria",
+        "regions": [
+          "Leiria"
+        ]
+      },
+      "LIS": {
+        "name": "Lisboa",
+        "regions": [
+          "Lisboa"
+        ]
+      },
+      "POR": {
+        "name": "Portalegre",
+        "regions": [
+          "Portalegre"
+        ]
+      },
+      "POR1": {
+        "name": "Porto",
+        "regions": [
+          "Porto"
+        ]
+      },
+      "SAN": {
+        "name": "Santarém",
+        "regions": [
+          "Santarém"
+        ]
+      },
+      "SET": {
+        "name": "Setúbal",
+        "regions": [
+          "Setúbal"
+        ]
+      },
+      "VIADO": {
+        "name": "Viana do Castelo",
+        "regions": [
+          "Viana do Castelo"
+        ]
+      },
+      "VILRE": {
+        "name": "Vila Real",
+        "regions": [
+          "Vila Real"
+        ]
+      },
+      "VIS": {
+        "name": "Viseu",
+        "regions": [
+          "Viseu"
+        ]
+      }
+    }
   }
 }
