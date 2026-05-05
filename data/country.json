@@ -19,7 +19,7 @@
     "currency_code": "AED",
     "iso3": "ARE",
     "language_code": [
-      "are"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -32,7 +32,7 @@
     "currency_code": "AFN",
     "iso3": "AFG",
     "language_code": [
-      "afg"
+      "ps"
     ],
     "continent_code": "AS"
   },
@@ -93,7 +93,7 @@
     "currency_code": "AOA",
     "iso3": "AGO",
     "language_code": [
-      "ago"
+      "pt"
     ],
     "continent_code": "AF"
   },
@@ -143,7 +143,7 @@
     "currency_code": "EUR",
     "iso3": "AUT",
     "language_code": [
-      "aut"
+      "de"
     ],
     "continent_code": "EU"
   },
@@ -156,7 +156,7 @@
     "currency_code": "AUD",
     "iso3": "AUS",
     "language_code": [
-      "aus"
+      "en"
     ],
     "continent_code": "OC"
   },
@@ -228,7 +228,7 @@
     "currency_code": "BDT",
     "iso3": "BGD",
     "language_code": [
-      "bgd"
+      "bn"
     ],
     "continent_code": "AS"
   },
@@ -254,7 +254,7 @@
     "currency_code": "XOF",
     "iso3": "BFA",
     "language_code": [
-      "bfa",
+      "fr",
       "hv"
     ],
     "continent_code": "AF"
@@ -281,7 +281,7 @@
     "currency_code": "BHD",
     "iso3": "BHR",
     "language_code": [
-      "bhr"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -341,7 +341,7 @@
     "currency_code": "BND",
     "iso3": "BRN",
     "language_code": [
-      "brn"
+      "ms"
     ],
     "continent_code": "AS"
   },
@@ -354,7 +354,7 @@
     "currency_code": "BOB",
     "iso3": "BOL",
     "language_code": [
-      "bol"
+      "es"
     ],
     "continent_code": "SA"
   },
@@ -378,7 +378,7 @@
     "currency_code": "BRL",
     "iso3": "BRA",
     "language_code": [
-      "bra"
+      "pt"
     ],
     "continent_code": "SA"
   },
@@ -437,7 +437,7 @@
     "currency_code": "BYN",
     "iso3": "BLR",
     "language_code": [
-      "blr"
+      "be"
     ],
     "continent_code": "EU"
   },
@@ -461,7 +461,7 @@
     "currency_code": "CAD",
     "iso3": "CAN",
     "language_code": [
-      "can"
+      "en"
     ],
     "continent_code": "NA"
   },
@@ -483,8 +483,7 @@
     "currency_code": "CDF",
     "iso3": "COD",
     "language_code": [
-      "cod",
-      "zar",
+      "fr",
       "zr"
     ],
     "continent_code": "AF"
@@ -498,7 +497,7 @@
     "currency_code": "XAF",
     "iso3": "CAF",
     "language_code": [
-      "caf"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -509,7 +508,7 @@
     "currency_code": "XAF",
     "iso3": "COG",
     "language_code": [
-      "cog"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -533,7 +532,7 @@
     "currency_code": "XOF",
     "iso3": "CIV",
     "language_code": [
-      "civ"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -557,7 +556,7 @@
     "currency_code": "CLP",
     "iso3": "CHL",
     "language_code": [
-      "chl"
+      "es"
     ],
     "continent_code": "SA"
   },
@@ -570,7 +569,7 @@
     "currency_code": "XAF",
     "iso3": "CMR",
     "language_code": [
-      "cmr"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -583,7 +582,7 @@
     "currency_code": "CNY",
     "iso3": "CHN",
     "language_code": [
-      "chn"
+      "zh"
     ],
     "continent_code": "AS"
   },
@@ -596,7 +595,7 @@
     "currency_code": "COP",
     "iso3": "COL",
     "language_code": [
-      "col"
+      "es"
     ],
     "continent_code": "SA"
   },
@@ -607,7 +606,7 @@
     "currency_code": "CRC",
     "iso3": "CRI",
     "language_code": [
-      "cri"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -620,7 +619,7 @@
     "currency_code": "CUP",
     "iso3": "CUB",
     "language_code": [
-      "cub"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -670,7 +669,7 @@
     "currency_code": "EUR",
     "iso3": "CYP",
     "language_code": [
-      "cyp"
+      "tr"
     ],
     "continent_code": "EU"
   },
@@ -697,7 +696,6 @@
     "iso3": "DEU",
     "language_code": [
       "dd",
-      "ddr",
       "de"
     ],
     "continent_code": "EU"
@@ -746,7 +744,7 @@
     "currency_code": "DOP",
     "iso3": "DOM",
     "language_code": [
-      "dom"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -759,7 +757,7 @@
     "currency_code": "DZD",
     "iso3": "DZA",
     "language_code": [
-      "dza"
+      "ar"
     ],
     "continent_code": "AF"
   },
@@ -770,7 +768,7 @@
     "currency_code": "USD",
     "iso3": "ECU",
     "language_code": [
-      "ecu"
+      "es"
     ],
     "continent_code": "SA"
   },
@@ -794,7 +792,7 @@
     "currency_code": "EGP",
     "iso3": "EGY",
     "language_code": [
-      "egy"
+      "ar"
     ],
     "continent_code": "AF"
   },
@@ -829,7 +827,7 @@
     "currency_code": "EUR",
     "iso3": "ESP",
     "language_code": [
-      "esp"
+      "es"
     ],
     "continent_code": "EU"
   },
@@ -842,7 +840,7 @@
     "currency_code": "ETB",
     "iso3": "ETH",
     "language_code": [
-      "eth"
+      "am"
     ],
     "continent_code": "AF"
   },
@@ -866,7 +864,7 @@
     "currency_code": "FJD",
     "iso3": "FJI",
     "language_code": [
-      "fji"
+      "en"
     ],
     "continent_code": "OC"
   },
@@ -888,7 +886,7 @@
     "currency_code": "USD",
     "iso3": "FSM",
     "language_code": [
-      "fsm",
+      "en",
       "pc"
     ],
     "continent_code": "OC"
@@ -914,8 +912,7 @@
     "iso3": "FRA",
     "language_code": [
       "fr",
-      "fx",
-      "fxx"
+      "fx"
     ],
     "continent_code": "EU"
   },
@@ -926,7 +923,7 @@
     "currency_code": "XAF",
     "iso3": "GAB",
     "language_code": [
-      "gab"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -939,7 +936,7 @@
     "currency_code": "GBP",
     "iso3": "GBR",
     "language_code": [
-      "gbr",
+      "en",
       "uk"
     ],
     "continent_code": "EU"
@@ -997,7 +994,7 @@
     "currency_code": "GHS",
     "iso3": "GHA",
     "language_code": [
-      "gha"
+      "ak"
     ],
     "continent_code": "AF"
   },
@@ -1043,7 +1040,7 @@
     "currency_code": "GNF",
     "iso3": "GIN",
     "language_code": [
-      "gin"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -1100,7 +1097,7 @@
     "currency_code": "GTQ",
     "iso3": "GTM",
     "language_code": [
-      "gtm"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -1122,7 +1119,7 @@
     "currency_code": "XOF",
     "iso3": "GNB",
     "language_code": [
-      "gnb"
+      "pt"
     ],
     "continent_code": "AF"
   },
@@ -1144,7 +1141,7 @@
     "currency_code": "HKD",
     "iso3": "HKG",
     "language_code": [
-      "hkg"
+      "zh"
     ],
     "continent_code": "AS"
   },
@@ -1166,7 +1163,7 @@
     "currency_code": "HNL",
     "iso3": "HND",
     "language_code": [
-      "hnd"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -1217,7 +1214,7 @@
     "currency_code": "IDR",
     "iso3": "IDN",
     "language_code": [
-      "idn"
+      "id"
     ],
     "continent_code": "AS"
   },
@@ -1230,7 +1227,7 @@
     "currency_code": "EUR",
     "iso3": "IRL",
     "language_code": [
-      "irl"
+      "en"
     ],
     "continent_code": "EU"
   },
@@ -1241,7 +1238,7 @@
     "currency_code": "ILS",
     "iso3": "ISR",
     "language_code": [
-      "isr"
+      "he"
     ],
     "continent_code": "AS"
   },
@@ -1287,7 +1284,7 @@
     "currency_code": "IQD",
     "iso3": "IRQ",
     "language_code": [
-      "irq"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -1298,7 +1295,7 @@
     "currency_code": "IRR",
     "iso3": "IRN",
     "language_code": [
-      "irn"
+      "fa"
     ],
     "continent_code": "AS"
   },
@@ -1361,7 +1358,7 @@
     "currency_code": "JOD",
     "iso3": "JOR",
     "language_code": [
-      "jor"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -1385,7 +1382,7 @@
     "currency_code": "KES",
     "iso3": "KEN",
     "language_code": [
-      "ken"
+      "en"
     ],
     "continent_code": "AF"
   },
@@ -1398,7 +1395,7 @@
     "currency_code": "KGS",
     "iso3": "KGZ",
     "language_code": [
-      "kgz"
+      "ky"
     ],
     "continent_code": "AS"
   },
@@ -1464,7 +1461,7 @@
     "currency_code": "KPW",
     "iso3": "PRK",
     "language_code": [
-      "prk"
+      "ko"
     ],
     "continent_code": "AS"
   },
@@ -1488,7 +1485,7 @@
     "currency_code": "KWD",
     "iso3": "KWT",
     "language_code": [
-      "kwt"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -1540,7 +1537,7 @@
     "currency_code": "LBP",
     "iso3": "LBN",
     "language_code": [
-      "lbn"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -1627,7 +1624,7 @@
     "currency_code": "EUR",
     "iso3": "LUX",
     "language_code": [
-      "lux"
+      "lb"
     ],
     "continent_code": "EU"
   },
@@ -1653,7 +1650,7 @@
     "currency_code": "LYD",
     "iso3": "LBY",
     "language_code": [
-      "lby"
+      "ar"
     ],
     "continent_code": "AF"
   },
@@ -1738,7 +1735,7 @@
     "currency_code": "USD",
     "iso3": "MHL",
     "language_code": [
-      "mhl"
+      "en"
     ],
     "continent_code": "OC"
   },
@@ -1764,7 +1761,7 @@
     "currency_code": "XOF",
     "iso3": "MLI",
     "language_code": [
-      "mli"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -1778,8 +1775,7 @@
     "iso3": "MMR",
     "language_code": [
       "bu",
-      "bur",
-      "mmr"
+      "my"
     ],
     "continent_code": "AS"
   },
@@ -1792,7 +1788,7 @@
     "currency_code": "MNT",
     "iso3": "MNG",
     "language_code": [
-      "mng"
+      "mn"
     ],
     "continent_code": "AS"
   },
@@ -1803,7 +1799,7 @@
     "currency_code": "MOP",
     "iso3": "MAC",
     "language_code": [
-      "mac"
+      "zh"
     ],
     "continent_code": "AS"
   },
@@ -1914,7 +1910,7 @@
     "currency_code": "MXN",
     "iso3": "MEX",
     "language_code": [
-      "mex"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -1927,7 +1923,7 @@
     "currency_code": "MYR",
     "iso3": "MYS",
     "language_code": [
-      "mys"
+      "ms"
     ],
     "continent_code": "AS"
   },
@@ -1938,7 +1934,7 @@
     "currency_code": "MZN",
     "iso3": "MOZ",
     "language_code": [
-      "moz"
+      "pt"
     ],
     "continent_code": "AF"
   },
@@ -1973,7 +1969,7 @@
     "currency_code": "XOF",
     "iso3": "NER",
     "language_code": [
-      "ner"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -1997,7 +1993,7 @@
     "currency_code": "NGN",
     "iso3": "NGA",
     "language_code": [
-      "nga"
+      "ha"
     ],
     "continent_code": "AF"
   },
@@ -2010,7 +2006,7 @@
     "currency_code": "NIO",
     "iso3": "NIC",
     "language_code": [
-      "nic"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -2050,7 +2046,7 @@
     "currency_code": "NPR",
     "iso3": "NPL",
     "language_code": [
-      "npl"
+      "ne"
     ],
     "continent_code": "AS"
   },
@@ -2089,7 +2085,7 @@
     "currency_code": "NZD",
     "iso3": "NZL",
     "language_code": [
-      "nzl"
+      "en"
     ],
     "continent_code": "OC"
   },
@@ -2100,7 +2096,7 @@
     "currency_code": "OMR",
     "iso3": "OMN",
     "language_code": [
-      "omn"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -2125,7 +2121,7 @@
     "currency_code": "PEN",
     "iso3": "PER",
     "language_code": [
-      "per"
+      "es"
     ],
     "continent_code": "SA"
   },
@@ -2160,7 +2156,7 @@
     "currency_code": "PHP",
     "iso3": "PHL",
     "language_code": [
-      "phl"
+      "tl"
     ],
     "continent_code": "AS"
   },
@@ -2173,7 +2169,7 @@
     "currency_code": "PKR",
     "iso3": "PAK",
     "language_code": [
-      "pak"
+      "ur"
     ],
     "continent_code": "AS"
   },
@@ -2219,7 +2215,7 @@
     "currency_code": "USD",
     "iso3": "PRI",
     "language_code": [
-      "pri"
+      "es"
     ],
     "continent_code": "NA"
   },
@@ -2230,7 +2226,7 @@
     "currency_code": "ILS",
     "iso3": "PSE",
     "language_code": [
-      "pse"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -2243,7 +2239,7 @@
     "currency_code": "EUR",
     "iso3": "PRT",
     "language_code": [
-      "prt"
+      "pt"
     ],
     "continent_code": "EU"
   },
@@ -2254,7 +2250,7 @@
     "currency_code": "USD",
     "iso3": "PLW",
     "language_code": [
-      "plw"
+      "en"
     ],
     "continent_code": "OC"
   },
@@ -2265,7 +2261,7 @@
     "currency_code": "PYG",
     "iso3": "PRY",
     "language_code": [
-      "pry"
+      "gn"
     ],
     "continent_code": "SA"
   },
@@ -2276,7 +2272,7 @@
     "currency_code": "QAR",
     "iso3": "QAT",
     "language_code": [
-      "qat"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -2353,9 +2349,8 @@
     "currency_code": "SAR",
     "iso3": "SAU",
     "language_code": [
-      "nt",
-      "ntz",
-      "sau"
+      "ar",
+      "nt"
     ],
     "continent_code": "AS"
   },
@@ -2366,7 +2361,7 @@
     "currency_code": "SBD",
     "iso3": "SLB",
     "language_code": [
-      "slb"
+      "en"
     ],
     "continent_code": "OC"
   },
@@ -2388,7 +2383,7 @@
     "currency_code": "SDG",
     "iso3": "SDN",
     "language_code": [
-      "sdn"
+      "ar"
     ],
     "continent_code": "AF"
   },
@@ -2416,7 +2411,7 @@
     "currency_code": "SGD",
     "iso3": "SGP",
     "language_code": [
-      "sgp"
+      "zh"
     ],
     "continent_code": "AS"
   },
@@ -2488,7 +2483,7 @@
     "currency_code": "EUR",
     "iso3": "SMR",
     "language_code": [
-      "smr"
+      "it"
     ],
     "continent_code": "EU"
   },
@@ -2499,7 +2494,7 @@
     "currency_code": "XOF",
     "iso3": "SEN",
     "language_code": [
-      "sen"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -2576,7 +2571,7 @@
     "currency_code": "SYP",
     "iso3": "SYR",
     "language_code": [
-      "syr"
+      "ar"
     ],
     "continent_code": "AS"
   },
@@ -2633,7 +2628,7 @@
     "currency_code": "XOF",
     "iso3": "TGO",
     "language_code": [
-      "tgo"
+      "fr"
     ],
     "continent_code": "AF"
   },
@@ -2659,7 +2654,7 @@
     "currency_code": "TJS",
     "iso3": "TJK",
     "language_code": [
-      "tjk"
+      "tg"
     ],
     "continent_code": "AS"
   },
@@ -2683,8 +2678,7 @@
     "currency_code": "USD",
     "iso3": "TLS",
     "language_code": [
-      "tls",
-      "tmp",
+      "pt",
       "tp"
     ],
     "continent_code": "OC"
@@ -2698,7 +2692,7 @@
     "currency_code": "TMT",
     "iso3": "TKM",
     "language_code": [
-      "tkm"
+      "tk"
     ],
     "continent_code": "AS"
   },
@@ -2709,7 +2703,7 @@
     "currency_code": "TND",
     "iso3": "TUN",
     "language_code": [
-      "tun"
+      "ar"
     ],
     "continent_code": "AF"
   },
@@ -2767,7 +2761,7 @@
     "currency_code": "TWD",
     "iso3": "TWN",
     "language_code": [
-      "twn"
+      "zh"
     ],
     "continent_code": "AS"
   },
@@ -2778,7 +2772,7 @@
     "currency_code": "TZS",
     "iso3": "TZA",
     "language_code": [
-      "tza"
+      "sw"
     ],
     "continent_code": "AF"
   },
@@ -2802,7 +2796,7 @@
     "currency_code": "UGX",
     "iso3": "UGA",
     "language_code": [
-      "uga"
+      "en"
     ],
     "continent_code": "AF"
   },
@@ -2830,7 +2824,7 @@
     "currency_code": "USD",
     "iso3": "USA",
     "language_code": [
-      "usa"
+      "en"
     ],
     "continent_code": "NA"
   },
@@ -2841,7 +2835,7 @@
     "currency_code": "UYU",
     "iso3": "URY",
     "language_code": [
-      "ury"
+      "es"
     ],
     "continent_code": "SA"
   },
@@ -2867,7 +2861,7 @@
     "currency_code": "EUR",
     "iso3": "VAT",
     "language_code": [
-      "vat"
+      "it"
     ],
     "continent_code": "EU"
   },
@@ -2925,7 +2919,7 @@
     "iso3": "VNM",
     "language_code": [
       "vd",
-      "vnm"
+      "vi"
     ],
     "continent_code": "AS"
   },
@@ -2936,8 +2930,8 @@
     "currency_code": "VUV",
     "iso3": "VUT",
     "language_code": [
-      "nh",
-      "vut"
+      "bi",
+      "nh"
     ],
     "continent_code": "OC"
   },
@@ -2983,9 +2977,8 @@
     "currency_code": "YER",
     "iso3": "YEM",
     "language_code": [
-      "yd",
-      "yem",
-      "ymd"
+      "ar",
+      "yd"
     ],
     "continent_code": "AS"
   },
@@ -3007,7 +3000,7 @@
     "currency_code": "ZAR",
     "iso3": "ZAF",
     "language_code": [
-      "zaf"
+      "af"
     ],
     "continent_code": "AF"
   },
