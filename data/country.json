@@ -10,7 +10,15 @@
     "language_code": [
       "and"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ad",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 468.0,
+    "population": 88406,
+    "flag": "\ud83c\udde6\ud83c\udde9",
+    "region_common": "Europe"
   },
   "AE": {
     "name": "United Arab Emirates",
@@ -21,7 +29,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".ae",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 83600.0,
+    "population": 11294243,
+    "flag": "\ud83c\udde6\ud83c\uddea",
+    "region_common": "Asia"
   },
   "AF": {
     "name": "Afghanistan",
@@ -34,7 +50,15 @@
     "language_code": [
       "ps"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".af",
+    "timezones": [
+      "UTC+04:30"
+    ],
+    "area": 652230.0,
+    "population": 43844000,
+    "flag": "\ud83c\udde6\ud83c\uddeb",
+    "region_common": "Asia"
   },
   "AG": {
     "name": "Antigua and Barbuda",
@@ -45,7 +69,15 @@
     "language_code": [
       "atg"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ag",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 442.0,
+    "population": 103603,
+    "flag": "\ud83c\udde6\ud83c\uddec",
+    "region_common": "Americas"
   },
   "AI": {
     "name": "Anguilla",
@@ -56,7 +88,15 @@
     "language_code": [
       "aia"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ai",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 91.0,
+    "population": 16010,
+    "flag": "\ud83c\udde6\ud83c\uddee",
+    "region_common": "Americas"
   },
   "AL": {
     "name": "Albania",
@@ -69,7 +109,15 @@
     "language_code": [
       "alb"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".al",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 28748.0,
+    "population": 2363314,
+    "flag": "\ud83c\udde6\ud83c\uddf1",
+    "region_common": "Europe"
   },
   "AM": {
     "name": "Armenia",
@@ -83,7 +131,15 @@
     "language_code": [
       "arm"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".am",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 29743.0,
+    "population": 3076200,
+    "flag": "\ud83c\udde6\ud83c\uddf2",
+    "region_common": "Asia"
   },
   "AO": {
     "name": "Angola",
@@ -97,7 +153,15 @@
     "language_code": [
       "pt"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ao",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 1246700.0,
+    "population": 36170961,
+    "flag": "\ud83c\udde6\ud83c\uddf4",
+    "region_common": "Africa"
   },
   "AQ": {
     "name": "Antarctica",
@@ -110,7 +174,22 @@
       "fq",
       "nq"
     ],
-    "continent_code": "AN"
+    "continent_code": "AN",
+    "tld": ".aq",
+    "timezones": [
+      "UTC-03:00",
+      "UTC+03:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "area": 14000000.0,
+    "population": 1300,
+    "flag": "\ud83c\udde6\ud83c\uddf6",
+    "region_common": "Antarctic"
   },
   "AR": {
     "name": "Argentina",
@@ -124,7 +203,15 @@
     "language_code": [
       "an"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".ar",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 2780400.0,
+    "population": 46735004,
+    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "region_common": "Americas"
   },
   "AS": {
     "name": "American Samoa",
@@ -135,7 +222,15 @@
     "language_code": [
       "as"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".as",
+    "timezones": [
+      "UTC-11:00"
+    ],
+    "area": 199.0,
+    "population": 49710,
+    "flag": "\ud83c\udde6\ud83c\uddf8",
+    "region_common": "Oceania"
   },
   "AT": {
     "name": "Austria",
@@ -148,7 +243,15 @@
     "language_code": [
       "de"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".at",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 83871.0,
+    "population": 9200931,
+    "flag": "\ud83c\udde6\ud83c\uddf9",
+    "region_common": "Europe"
   },
   "AU": {
     "name": "Australia",
@@ -161,7 +264,22 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".au",
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ],
+    "area": 7692024.0,
+    "population": 27536874,
+    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "region_common": "Oceania"
   },
   "AW": {
     "name": "Aruba",
@@ -172,7 +290,15 @@
     "language_code": [
       "abw"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".aw",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 180.0,
+    "population": 107566,
+    "flag": "\ud83c\udde6\ud83c\uddfc",
+    "region_common": "Americas"
   },
   "AX": {
     "name": "Aland Islands",
@@ -186,7 +312,15 @@
     "language_code": [
       "ala"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ax",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 1580.0,
+    "population": 30654,
+    "flag": "\ud83c\udde6\ud83c\uddfd",
+    "region_common": "Europe"
   },
   "AZ": {
     "name": "Azerbaijan",
@@ -200,7 +334,15 @@
     "language_code": [
       "az"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".az",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 86600.0,
+    "population": 10241722,
+    "flag": "\ud83c\udde6\ud83c\uddff",
+    "region_common": "Asia"
   },
   "BA": {
     "name": "Bosnia and Herzegovina",
@@ -211,7 +353,15 @@
     "currency_code": "BAM",
     "iso3": "BIH",
     "language_code": [],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ba",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 51209.0,
+    "population": 3422000,
+    "flag": "\ud83c\udde7\ud83c\udde6",
+    "region_common": "Europe"
   },
   "BB": {
     "name": "Barbados",
@@ -222,7 +372,15 @@
     "language_code": [
       "brb"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".bb",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 430.0,
+    "population": 267800,
+    "flag": "\ud83c\udde7\ud83c\udde7",
+    "region_common": "Americas"
   },
   "BD": {
     "name": "Bangladesh",
@@ -235,7 +393,15 @@
     "language_code": [
       "bn"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".bd",
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "area": 147570.0,
+    "population": 169828911,
+    "flag": "\ud83c\udde7\ud83c\udde9",
+    "region_common": "Asia"
   },
   "BE": {
     "name": "Belgium",
@@ -248,7 +414,15 @@
     "language_code": [
       "be"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".be",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 30528.0,
+    "population": 11825551,
+    "flag": "\ud83c\udde7\ud83c\uddea",
+    "region_common": "Europe"
   },
   "BF": {
     "name": "Burkina Faso",
@@ -263,7 +437,15 @@
       "fr",
       "hv"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".bf",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 272967.0,
+    "population": 24070553,
+    "flag": "\ud83c\udde7\ud83c\uddeb",
+    "region_common": "Africa"
   },
   "BG": {
     "name": "Bulgaria",
@@ -276,7 +458,15 @@
     "language_code": [
       "bgr"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".bg",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 110879.0,
+    "population": 6437360,
+    "flag": "\ud83c\udde7\ud83c\uddec",
+    "region_common": "Europe"
   },
   "BH": {
     "name": "Bahrain",
@@ -289,7 +479,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".bh",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 765.0,
+    "population": 1594654,
+    "flag": "\ud83c\udde7\ud83c\udded",
+    "region_common": "Asia"
   },
   "BI": {
     "name": "Burundi",
@@ -302,7 +500,15 @@
     "language_code": [
       "bdi"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".bi",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 27834.0,
+    "population": 12332788,
+    "flag": "\ud83c\udde7\ud83c\uddee",
+    "region_common": "Africa"
   },
   "BJ": {
     "name": "Benin",
@@ -317,7 +523,15 @@
       "bn",
       "dy"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".bj",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 112622.0,
+    "population": 13224860,
+    "flag": "\ud83c\udde7\ud83c\uddef",
+    "region_common": "Africa"
   },
   "BL": {
     "name": "Saint Barthelemy",
@@ -328,7 +542,15 @@
     "language_code": [
       "blm"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".bl",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 21.0,
+    "population": 10562,
+    "flag": "\ud83c\udde7\ud83c\uddf1",
+    "region_common": "Americas"
   },
   "BM": {
     "name": "Bermuda",
@@ -339,7 +561,15 @@
     "language_code": [
       "bmu"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".bm",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 54.0,
+    "population": 64055,
+    "flag": "\ud83c\udde7\ud83c\uddf2",
+    "region_common": "Americas"
   },
   "BN": {
     "name": "Brunei",
@@ -352,7 +582,15 @@
     "language_code": [
       "ms"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".bn",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 5765.0,
+    "population": 455500,
+    "flag": "\ud83c\udde7\ud83c\uddf3",
+    "region_common": "Asia"
   },
   "BO": {
     "name": "Bolivia",
@@ -366,7 +604,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".bo",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 1098581.0,
+    "population": 11365333,
+    "flag": "\ud83c\udde7\ud83c\uddf4",
+    "region_common": "Americas"
   },
   "BQ": {
     "name": "Bonaire, Saint Eustatius and Saba ",
@@ -377,7 +623,15 @@
     "language_code": [
       "bes"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".bq",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 328.0,
+    "population": 31980,
+    "flag": "\ud83c\udde7\ud83c\uddf6",
+    "region_common": "Americas"
   },
   "BR": {
     "name": "Brazil",
@@ -391,7 +645,18 @@
     "language_code": [
       "pt"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".br",
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
+    ],
+    "area": 8515767.0,
+    "population": 213421037,
+    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "region_common": "Americas"
   },
   "BS": {
     "name": "Bahamas",
@@ -402,7 +667,15 @@
     "language_code": [
       "bhs"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".bs",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 13943.0,
+    "population": 398165,
+    "flag": "\ud83c\udde7\ud83c\uddf8",
+    "region_common": "Americas"
   },
   "BT": {
     "name": "Bhutan",
@@ -413,7 +686,15 @@
     "language_code": [
       "btn"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".bt",
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "area": 38394.0,
+    "population": 784043,
+    "flag": "\ud83c\udde7\ud83c\uddf9",
+    "region_common": "Asia"
   },
   "BV": {
     "name": "Bouvet Island",
@@ -424,7 +705,15 @@
     "language_code": [
       "bvt"
     ],
-    "continent_code": "AN"
+    "continent_code": "AN",
+    "tld": ".bv",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 49.0,
+    "population": 0,
+    "flag": "\ud83c\udde7\ud83c\uddfb",
+    "region_common": "Antarctic"
   },
   "BW": {
     "name": "Botswana",
@@ -438,7 +727,15 @@
     "language_code": [
       "bwa"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".bw",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 582000.0,
+    "population": 2359609,
+    "flag": "\ud83c\udde7\ud83c\uddfc",
+    "region_common": "Africa"
   },
   "BY": {
     "name": "Belarus",
@@ -451,7 +748,15 @@
     "language_code": [
       "be"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".by",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 207600.0,
+    "population": 9109280,
+    "flag": "\ud83c\udde7\ud83c\uddfe",
+    "region_common": "Europe"
   },
   "BZ": {
     "name": "Belize",
@@ -464,7 +769,15 @@
     "language_code": [
       "blz"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".bz",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 22966.0,
+    "population": 417634,
+    "flag": "\ud83c\udde7\ud83c\uddff",
+    "region_common": "Americas"
   },
   "CA": {
     "name": "Canada",
@@ -477,7 +790,20 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ca",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "area": 9984670.0,
+    "population": 41651653,
+    "flag": "\ud83c\udde8\ud83c\udde6",
+    "region_common": "Americas"
   },
   "CC": {
     "name": "Cocos Islands",
@@ -488,7 +814,15 @@
     "language_code": [
       "cck"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".cc",
+    "timezones": [
+      "UTC+06:30"
+    ],
+    "area": 14.0,
+    "population": 593,
+    "flag": "\ud83c\udde8\ud83c\udde8",
+    "region_common": "Oceania"
   },
   "CD": {
     "name": "Democratic Republic of the Congo",
@@ -502,7 +836,16 @@
       "fr",
       "zr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".cd",
+    "timezones": [
+      "UTC+01:00",
+      "UTC+02:00"
+    ],
+    "area": 2344858.0,
+    "population": 112832000,
+    "flag": "\ud83c\udde8\ud83c\udde9",
+    "region_common": "Africa"
   },
   "CF": {
     "name": "Central African Republic",
@@ -516,7 +859,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".cf",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 622984.0,
+    "population": 6470307,
+    "flag": "\ud83c\udde8\ud83c\uddeb",
+    "region_common": "Africa"
   },
   "CG": {
     "name": "Republic of the Congo",
@@ -529,7 +880,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".cg",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 342000.0,
+    "population": 6142180,
+    "flag": "\ud83c\udde8\ud83c\uddec",
+    "region_common": "Africa"
   },
   "CH": {
     "name": "Switzerland",
@@ -542,7 +901,15 @@
     "language_code": [
       "ce"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ch",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 41284.0,
+    "population": 9082848,
+    "flag": "\ud83c\udde8\ud83c\udded",
+    "region_common": "Europe"
   },
   "CI": {
     "name": "Ivory Coast",
@@ -555,7 +922,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ci",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 322463.0,
+    "population": 31719275,
+    "flag": "\ud83c\udde8\ud83c\uddee",
+    "region_common": "Africa"
   },
   "CK": {
     "name": "Cook Islands",
@@ -566,7 +941,15 @@
     "language_code": [
       "cok"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".ck",
+    "timezones": [
+      "UTC-10:00"
+    ],
+    "area": 236.0,
+    "population": 15040,
+    "flag": "\ud83c\udde8\ud83c\uddf0",
+    "region_common": "Oceania"
   },
   "CL": {
     "name": "Chile",
@@ -580,7 +963,16 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".cl",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
+    ],
+    "area": 756102.0,
+    "population": 20206953,
+    "flag": "\ud83c\udde8\ud83c\uddf1",
+    "region_common": "Americas"
   },
   "CM": {
     "name": "Cameroon",
@@ -594,7 +986,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".cm",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 475442.0,
+    "population": 29442327,
+    "flag": "\ud83c\udde8\ud83c\uddf2",
+    "region_common": "Africa"
   },
   "CN": {
     "name": "China",
@@ -607,7 +1007,15 @@
     "language_code": [
       "zh"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".cn",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 9706961.0,
+    "population": 1408280000,
+    "flag": "\ud83c\udde8\ud83c\uddf3",
+    "region_common": "Asia"
   },
   "CO": {
     "name": "Colombia",
@@ -621,7 +1029,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".co",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 1141748.0,
+    "population": 53057212,
+    "flag": "\ud83c\udde8\ud83c\uddf4",
+    "region_common": "Americas"
   },
   "CR": {
     "name": "Costa Rica",
@@ -634,7 +1050,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".cr",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 51100.0,
+    "population": 5309625,
+    "flag": "\ud83c\udde8\ud83c\uddf7",
+    "region_common": "Americas"
   },
   "CU": {
     "name": "Cuba",
@@ -648,7 +1072,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".cu",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 109884.0,
+    "population": 9748007,
+    "flag": "\ud83c\udde8\ud83c\uddfa",
+    "region_common": "Americas"
   },
   "CV": {
     "name": "Cape Verde",
@@ -661,7 +1093,15 @@
     "language_code": [
       "cpv"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".cv",
+    "timezones": [
+      "UTC-01:00"
+    ],
+    "area": 4033.0,
+    "population": 491233,
+    "flag": "\ud83c\udde8\ud83c\uddfb",
+    "region_common": "Africa"
   },
   "CW": {
     "name": "Curacao",
@@ -674,7 +1114,15 @@
       "ant",
       "cuw"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".cw",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 444.0,
+    "population": 156115,
+    "flag": "\ud83c\udde8\ud83c\uddfc",
+    "region_common": "Americas"
   },
   "CX": {
     "name": "Christmas Island",
@@ -685,7 +1133,15 @@
     "language_code": [
       "cxr"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".cx",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 135.0,
+    "population": 1692,
+    "flag": "\ud83c\udde8\ud83c\uddfd",
+    "region_common": "Oceania"
   },
   "CY": {
     "name": "Cyprus",
@@ -699,7 +1155,15 @@
     "language_code": [
       "tr"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".cy",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 9251.0,
+    "population": 1442614,
+    "flag": "\ud83c\udde8\ud83c\uddfe",
+    "region_common": "Europe"
   },
   "CZ": {
     "name": "Czech Republic",
@@ -712,7 +1176,15 @@
     "language_code": [
       "cze"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".cz",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 78865.0,
+    "population": 10882341,
+    "flag": "\ud83c\udde8\ud83c\uddff",
+    "region_common": "Europe"
   },
   "DE": {
     "name": "Germany",
@@ -726,7 +1198,15 @@
       "dd",
       "de"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".de",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 357114.0,
+    "population": 83491249,
+    "flag": "\ud83c\udde9\ud83c\uddea",
+    "region_common": "Europe"
   },
   "DJ": {
     "name": "Djibouti",
@@ -739,7 +1219,15 @@
     "language_code": [
       "dji"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".dj",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 23200.0,
+    "population": 1066809,
+    "flag": "\ud83c\udde9\ud83c\uddef",
+    "region_common": "Africa"
   },
   "DK": {
     "name": "Denmark",
@@ -755,7 +1243,19 @@
     "language_code": [
       "dnk"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".dk",
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC",
+      "UTC+01:00"
+    ],
+    "area": 43094.0,
+    "population": 6011488,
+    "flag": "\ud83c\udde9\ud83c\uddf0",
+    "region_common": "Europe"
   },
   "DM": {
     "name": "Dominica",
@@ -766,7 +1266,15 @@
     "language_code": [
       "dma"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".dm",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 751.0,
+    "population": 67408,
+    "flag": "\ud83c\udde9\ud83c\uddf2",
+    "region_common": "Americas"
   },
   "DO": {
     "name": "Dominican Republic",
@@ -779,7 +1287,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".do",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 48671.0,
+    "population": 10771504,
+    "flag": "\ud83c\udde9\ud83c\uddf4",
+    "region_common": "Americas"
   },
   "DZ": {
     "name": "Algeria",
@@ -793,7 +1309,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".dz",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 2381741.0,
+    "population": 47400000,
+    "flag": "\ud83c\udde9\ud83c\uddff",
+    "region_common": "Africa"
   },
   "EC": {
     "name": "Ecuador",
@@ -806,7 +1330,16 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".ec",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-05:00"
+    ],
+    "area": 276841.0,
+    "population": 18103660,
+    "flag": "\ud83c\uddea\ud83c\udde8",
+    "region_common": "Americas"
   },
   "EE": {
     "name": "Estonia",
@@ -819,7 +1352,15 @@
     "language_code": [
       "et"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ee",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 45227.0,
+    "population": 1369995,
+    "flag": "\ud83c\uddea\ud83c\uddea",
+    "region_common": "Europe"
   },
   "EG": {
     "name": "Egypt",
@@ -830,7 +1371,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".eg",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 1002450.0,
+    "population": 107271260,
+    "flag": "\ud83c\uddea\ud83c\uddec",
+    "region_common": "Africa"
   },
   "EH": {
     "name": "Western Sahara",
@@ -843,7 +1392,15 @@
     "language_code": [
       "esh"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".eh",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 266000.0,
+    "population": 600904,
+    "flag": "\ud83c\uddea\ud83c\udded",
+    "region_common": "Africa"
   },
   "ER": {
     "name": "Eritrea",
@@ -856,7 +1413,15 @@
     "language_code": [
       "eri"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".er",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 117600.0,
+    "population": 3607000,
+    "flag": "\ud83c\uddea\ud83c\uddf7",
+    "region_common": "Africa"
   },
   "ES": {
     "name": "Spain",
@@ -869,7 +1434,16 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".es",
+    "timezones": [
+      "UTC",
+      "UTC+01:00"
+    ],
+    "area": 505992.0,
+    "population": 49315949,
+    "flag": "\ud83c\uddea\ud83c\uddf8",
+    "region_common": "Europe"
   },
   "ET": {
     "name": "Ethiopia",
@@ -883,7 +1457,15 @@
     "language_code": [
       "am"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".et",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 1104300.0,
+    "population": 111652998,
+    "flag": "\ud83c\uddea\ud83c\uddf9",
+    "region_common": "Africa"
   },
   "FI": {
     "name": "Finland",
@@ -897,7 +1479,15 @@
     "language_code": [
       "fi"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".fi",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 338455.0,
+    "population": 5650325,
+    "flag": "\ud83c\uddeb\ud83c\uddee",
+    "region_common": "Europe"
   },
   "FJ": {
     "name": "Fiji",
@@ -910,7 +1500,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".fj",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 18272.0,
+    "population": 900869,
+    "flag": "\ud83c\uddeb\ud83c\uddef",
+    "region_common": "Oceania"
   },
   "FK": {
     "name": "Falkland Islands",
@@ -921,7 +1519,15 @@
     "language_code": [
       "flk"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".fk",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 12173.0,
+    "population": 3662,
+    "flag": "\ud83c\uddeb\ud83c\uddf0",
+    "region_common": "Americas"
   },
   "FM": {
     "name": "Micronesia",
@@ -933,7 +1539,16 @@
       "en",
       "pc"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".fm",
+    "timezones": [
+      "UTC+10:00",
+      "UTC+11:00"
+    ],
+    "area": 702.0,
+    "population": 105564,
+    "flag": "\ud83c\uddeb\ud83c\uddf2",
+    "region_common": "Oceania"
   },
   "FO": {
     "name": "Faroe Islands",
@@ -946,7 +1561,15 @@
     "language_code": [
       "fro"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".fo",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 1393.0,
+    "population": 54885,
+    "flag": "\ud83c\uddeb\ud83c\uddf4",
+    "region_common": "Europe"
   },
   "FR": {
     "name": "France",
@@ -960,7 +1583,28 @@
       "fr",
       "fx"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".fr",
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "area": 543908.0,
+    "population": 66351959,
+    "flag": "\ud83c\uddeb\ud83c\uddf7",
+    "region_common": "Europe"
   },
   "GA": {
     "name": "Gabon",
@@ -973,7 +1617,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ga",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 267668.0,
+    "population": 2469296,
+    "flag": "\ud83c\uddec\ud83c\udde6",
+    "region_common": "Africa"
   },
   "GB": {
     "name": "United Kingdom",
@@ -987,7 +1639,23 @@
       "en",
       "uk"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".uk",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "area": 244376.0,
+    "population": 69281437,
+    "flag": "\ud83c\uddec\ud83c\udde7",
+    "region_common": "Europe"
   },
   "GD": {
     "name": "Grenada",
@@ -998,7 +1666,15 @@
     "language_code": [
       "grd"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".gd",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 344.0,
+    "population": 109021,
+    "flag": "\ud83c\uddec\ud83c\udde9",
+    "region_common": "Americas"
   },
   "GE": {
     "name": "Georgia",
@@ -1012,7 +1688,15 @@
     "language_code": [
       "geo"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".ge",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 69700.0,
+    "population": 4000921,
+    "flag": "\ud83c\uddec\ud83c\uddea",
+    "region_common": "Asia"
   },
   "GF": {
     "name": "French Guiana",
@@ -1025,7 +1709,15 @@
     "language_code": [
       "guf"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".gf",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 83534.0,
+    "population": 292354,
+    "flag": "\ud83c\uddec\ud83c\uddeb",
+    "region_common": "Americas"
   },
   "GG": {
     "name": "Guernsey",
@@ -1036,7 +1728,15 @@
     "language_code": [
       "ggy"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".gg",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 78.0,
+    "population": 64781,
+    "flag": "\ud83c\uddec\ud83c\uddec",
+    "region_common": "Europe"
   },
   "GH": {
     "name": "Ghana",
@@ -1049,7 +1749,15 @@
     "language_code": [
       "ak"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".gh",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 238533.0,
+    "population": 33742380,
+    "flag": "\ud83c\uddec\ud83c\udded",
+    "region_common": "Africa"
   },
   "GI": {
     "name": "Gibraltar",
@@ -1062,7 +1770,15 @@
     "language_code": [
       "gib"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".gi",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 6.0,
+    "population": 38000,
+    "flag": "\ud83c\uddec\ud83c\uddee",
+    "region_common": "Europe"
   },
   "GL": {
     "name": "Greenland",
@@ -1075,7 +1791,18 @@
     "language_code": [
       "grl"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".gl",
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00"
+    ],
+    "area": 2166086.0,
+    "population": 56542,
+    "flag": "\ud83c\uddec\ud83c\uddf1",
+    "region_common": "Americas"
   },
   "GM": {
     "name": "Gambia",
@@ -1088,7 +1815,15 @@
     "language_code": [
       "gmb"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".gm",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 10689.0,
+    "population": 2422712,
+    "flag": "\ud83c\uddec\ud83c\uddf2",
+    "region_common": "Africa"
   },
   "GN": {
     "name": "Guinea",
@@ -1101,7 +1836,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".gn",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 245857.0,
+    "population": 14363931,
+    "flag": "\ud83c\uddec\ud83c\uddf3",
+    "region_common": "Africa"
   },
   "GP": {
     "name": "Guadeloupe",
@@ -1114,7 +1857,15 @@
     "language_code": [
       "glp"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".gp",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 1628.0,
+    "population": 378561,
+    "flag": "\ud83c\uddec\ud83c\uddf5",
+    "region_common": "Americas"
   },
   "GQ": {
     "name": "Equatorial Guinea",
@@ -1127,7 +1878,15 @@
     "language_code": [
       "gnq"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".gq",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 28051.0,
+    "population": 1668768,
+    "flag": "\ud83c\uddec\ud83c\uddf6",
+    "region_common": "Africa"
   },
   "GR": {
     "name": "Greece",
@@ -1140,7 +1899,15 @@
     "language_code": [
       "grc"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".gr",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 131990.0,
+    "population": 10400720,
+    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "region_common": "Europe"
   },
   "GS": {
     "name": "South Georgia and the South Sandwich Islands",
@@ -1151,7 +1918,15 @@
     "language_code": [
       "sgs"
     ],
-    "continent_code": "AN"
+    "continent_code": "AN",
+    "tld": ".gs",
+    "timezones": [
+      "UTC-02:00"
+    ],
+    "area": 3903.0,
+    "population": 0,
+    "flag": "\ud83c\uddec\ud83c\uddf8",
+    "region_common": "Antarctic"
   },
   "GT": {
     "name": "Guatemala",
@@ -1164,7 +1939,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".gt",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 108889.0,
+    "population": 18079810,
+    "flag": "\ud83c\uddec\ud83c\uddf9",
+    "region_common": "Americas"
   },
   "GU": {
     "name": "Guam",
@@ -1175,7 +1958,15 @@
     "language_code": [
       "gum"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".gu",
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "area": 549.0,
+    "population": 153836,
+    "flag": "\ud83c\uddec\ud83c\uddfa",
+    "region_common": "Oceania"
   },
   "GW": {
     "name": "Guinea-Bissau",
@@ -1188,7 +1979,15 @@
     "language_code": [
       "pt"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".gw",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 36125.0,
+    "population": 1781308,
+    "flag": "\ud83c\uddec\ud83c\uddfc",
+    "region_common": "Africa"
   },
   "GY": {
     "name": "Guyana",
@@ -1201,7 +2000,15 @@
     "language_code": [
       "guy"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".gy",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 214969.0,
+    "population": 772975,
+    "flag": "\ud83c\uddec\ud83c\uddfe",
+    "region_common": "Americas"
   },
   "HK": {
     "name": "Hong Kong",
@@ -1212,7 +2019,15 @@
     "language_code": [
       "zh"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".hk",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 1104.0,
+    "population": 7527500,
+    "flag": "\ud83c\udded\ud83c\uddf0",
+    "region_common": "Asia"
   },
   "HM": {
     "name": "Heard Island and McDonald Islands",
@@ -1223,7 +2038,15 @@
     "language_code": [
       "hmd"
     ],
-    "continent_code": "AN"
+    "continent_code": "AN",
+    "tld": ".hm",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 412.0,
+    "population": 0,
+    "flag": "\ud83c\udded\ud83c\uddf2",
+    "region_common": "Antarctic"
   },
   "HN": {
     "name": "Honduras",
@@ -1236,7 +2059,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".hn",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 112492.0,
+    "population": 9892632,
+    "flag": "\ud83c\udded\ud83c\uddf3",
+    "region_common": "Americas"
   },
   "HR": {
     "name": "Croatia",
@@ -1249,7 +2080,15 @@
     "language_code": [
       "hr"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".hr",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 56594.0,
+    "population": 3866233,
+    "flag": "\ud83c\udded\ud83c\uddf7",
+    "region_common": "Europe"
   },
   "HT": {
     "name": "Haiti",
@@ -1262,7 +2101,15 @@
     "language_code": [
       "hti"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ht",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 27750.0,
+    "population": 11867032,
+    "flag": "\ud83c\udded\ud83c\uddf9",
+    "region_common": "Americas"
   },
   "HU": {
     "name": "Hungary",
@@ -1275,7 +2122,15 @@
     "language_code": [
       "hu"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".hu",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 93028.0,
+    "population": 9539502,
+    "flag": "\ud83c\udded\ud83c\uddfa",
+    "region_common": "Europe"
   },
   "ID": {
     "name": "Indonesia",
@@ -1289,7 +2144,17 @@
     "language_code": [
       "id"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".id",
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00"
+    ],
+    "area": 1904569.0,
+    "population": 284438782,
+    "flag": "\ud83c\uddee\ud83c\udde9",
+    "region_common": "Asia"
   },
   "IE": {
     "name": "Ireland",
@@ -1302,7 +2167,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ie",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 70273.0,
+    "population": 5458600,
+    "flag": "\ud83c\uddee\ud83c\uddea",
+    "region_common": "Europe"
   },
   "IL": {
     "name": "Israel",
@@ -1315,7 +2188,15 @@
     "language_code": [
       "he"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".il",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 21937.0,
+    "population": 10134800,
+    "flag": "\ud83c\uddee\ud83c\uddf1",
+    "region_common": "Asia"
   },
   "IM": {
     "name": "Isle of Man",
@@ -1326,7 +2207,15 @@
     "language_code": [
       "imn"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".im",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 572.0,
+    "population": 84530,
+    "flag": "\ud83c\uddee\ud83c\uddf2",
+    "region_common": "Europe"
   },
   "IN": {
     "name": "India",
@@ -1339,7 +2228,15 @@
     "language_code": [
       "hi"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".in",
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "area": 3287263.0,
+    "population": 1417492000,
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "region_common": "Asia"
   },
   "IO": {
     "name": "British Indian Ocean Territory",
@@ -1350,7 +2247,15 @@
     "language_code": [
       "iot"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".io",
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "area": 60.0,
+    "population": 0,
+    "flag": "\ud83c\uddee\ud83c\uddf4",
+    "region_common": "Africa"
   },
   "IQ": {
     "name": "Iraq",
@@ -1361,7 +2266,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".iq",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 438317.0,
+    "population": 46118793,
+    "flag": "\ud83c\uddee\ud83c\uddf6",
+    "region_common": "Asia"
   },
   "IR": {
     "name": "Iran",
@@ -1372,7 +2285,15 @@
     "language_code": [
       "fa"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".ir",
+    "timezones": [
+      "UTC+03:30"
+    ],
+    "area": 1648195.0,
+    "population": 85961000,
+    "flag": "\ud83c\uddee\ud83c\uddf7",
+    "region_common": "Asia"
   },
   "IS": {
     "name": "Iceland",
@@ -1387,7 +2308,15 @@
     "language_code": [
       "is"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".is",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 103000.0,
+    "population": 391810,
+    "flag": "\ud83c\uddee\ud83c\uddf8",
+    "region_common": "Europe"
   },
   "IT": {
     "name": "Italy",
@@ -1400,7 +2329,15 @@
     "language_code": [
       "it"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".it",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 301336.0,
+    "population": 58927633,
+    "flag": "\ud83c\uddee\ud83c\uddf9",
+    "region_common": "Europe"
   },
   "JE": {
     "name": "Jersey",
@@ -1411,7 +2348,15 @@
     "language_code": [
       "jey"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".je",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 116.0,
+    "population": 103267,
+    "flag": "\ud83c\uddef\ud83c\uddea",
+    "region_common": "Europe"
   },
   "JM": {
     "name": "Jamaica",
@@ -1422,7 +2367,15 @@
     "language_code": [
       "jam"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".jm",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 10991.0,
+    "population": 2825544,
+    "flag": "\ud83c\uddef\ud83c\uddf2",
+    "region_common": "Americas"
   },
   "JO": {
     "name": "Jordan",
@@ -1437,7 +2390,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".jo",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 89342.0,
+    "population": 11734000,
+    "flag": "\ud83c\uddef\ud83c\uddf4",
+    "region_common": "Asia"
   },
   "JP": {
     "name": "Japan",
@@ -1450,7 +2411,15 @@
     "language_code": [
       "ja"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".jp",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 377930.0,
+    "population": 123210000,
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "region_common": "Asia"
   },
   "KE": {
     "name": "Kenya",
@@ -1463,7 +2432,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ke",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 580367.0,
+    "population": 53330978,
+    "flag": "\ud83c\uddf0\ud83c\uddea",
+    "region_common": "Africa"
   },
   "KG": {
     "name": "Kyrgyzstan",
@@ -1476,7 +2453,15 @@
     "language_code": [
       "ky"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".kg",
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "area": 199951.0,
+    "population": 7281800,
+    "flag": "\ud83c\uddf0\ud83c\uddec",
+    "region_common": "Asia"
   },
   "KH": {
     "name": "Cambodia",
@@ -1490,7 +2475,15 @@
     "language_code": [
       "km"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".kh",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 181035.0,
+    "population": 17577760,
+    "flag": "\ud83c\uddf0\ud83c\udded",
+    "region_common": "Asia"
   },
   "KI": {
     "name": "Kiribati",
@@ -1504,7 +2497,17 @@
       "ct",
       "ky"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".ki",
+    "timezones": [
+      "UTC+12:00",
+      "UTC+13:00",
+      "UTC+14:00"
+    ],
+    "area": 811.0,
+    "population": 120740,
+    "flag": "\ud83c\uddf0\ud83c\uddee",
+    "region_common": "Oceania"
   },
   "KM": {
     "name": "Comoros",
@@ -1517,7 +2520,15 @@
     "language_code": [
       "com"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".km",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 1862.0,
+    "population": 919901,
+    "flag": "\ud83c\uddf0\ud83c\uddf2",
+    "region_common": "Africa"
   },
   "KN": {
     "name": "Saint Kitts and Nevis",
@@ -1530,7 +2541,15 @@
     "language_code": [
       "kna"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".kn",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 261.0,
+    "population": 51320,
+    "flag": "\ud83c\uddf0\ud83c\uddf3",
+    "region_common": "Americas"
   },
   "KP": {
     "name": "North Korea",
@@ -1543,7 +2562,15 @@
     "language_code": [
       "ko"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".kp",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 120538.0,
+    "population": 25950000,
+    "flag": "\ud83c\uddf0\ud83c\uddf5",
+    "region_common": "Asia"
   },
   "KR": {
     "name": "South Korea",
@@ -1556,7 +2583,15 @@
     "language_code": [
       "ko"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".kr",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 100210.0,
+    "population": 51159889,
+    "flag": "\ud83c\uddf0\ud83c\uddf7",
+    "region_common": "Asia"
   },
   "KW": {
     "name": "Kuwait",
@@ -1567,7 +2602,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".kw",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 17818.0,
+    "population": 4881254,
+    "flag": "\ud83c\uddf0\ud83c\uddfc",
+    "region_common": "Asia"
   },
   "KY": {
     "name": "Cayman Islands",
@@ -1580,7 +2623,15 @@
     "language_code": [
       "cy"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ky",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 264.0,
+    "population": 84738,
+    "flag": "\ud83c\uddf0\ud83c\uddfe",
+    "region_common": "Americas"
   },
   "KZ": {
     "name": "Kazakhstan",
@@ -1594,7 +2645,16 @@
     "language_code": [
       "kk"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".kz",
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:00"
+    ],
+    "area": 2724900.0,
+    "population": 20426568,
+    "flag": "\ud83c\uddf0\ud83c\uddff",
+    "region_common": "Asia"
   },
   "LA": {
     "name": "Laos",
@@ -1608,7 +2668,15 @@
     "language_code": [
       "lo"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".la",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 236800.0,
+    "population": 7647000,
+    "flag": "\ud83c\uddf1\ud83c\udde6",
+    "region_common": "Asia"
   },
   "LB": {
     "name": "Lebanon",
@@ -1622,7 +2690,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".lb",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 10452.0,
+    "population": 5490000,
+    "flag": "\ud83c\uddf1\ud83c\udde7",
+    "region_common": "Asia"
   },
   "LC": {
     "name": "Saint Lucia",
@@ -1633,7 +2709,15 @@
     "language_code": [
       "lca"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".lc",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 616.0,
+    "population": 184100,
+    "flag": "\ud83c\uddf1\ud83c\udde8",
+    "region_common": "Americas"
   },
   "LI": {
     "name": "Liechtenstein",
@@ -1646,7 +2730,15 @@
     "language_code": [
       "lie"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".li",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 160.0,
+    "population": 40900,
+    "flag": "\ud83c\uddf1\ud83c\uddee",
+    "region_common": "Europe"
   },
   "LK": {
     "name": "Sri Lanka",
@@ -1657,7 +2749,15 @@
     "language_code": [
       "lka"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".lk",
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "area": 65610.0,
+    "population": 21763170,
+    "flag": "\ud83c\uddf1\ud83c\uddf0",
+    "region_common": "Asia"
   },
   "LR": {
     "name": "Liberia",
@@ -1671,7 +2771,15 @@
     "language_code": [
       "lbr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".lr",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 111369.0,
+    "population": 5248621,
+    "flag": "\ud83c\uddf1\ud83c\uddf7",
+    "region_common": "Africa"
   },
   "LS": {
     "name": "Lesotho",
@@ -1685,7 +2793,15 @@
     "language_code": [
       "lso"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ls",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 30355.0,
+    "population": 2116427,
+    "flag": "\ud83c\uddf1\ud83c\uddf8",
+    "region_common": "Africa"
   },
   "LT": {
     "name": "Lithuania",
@@ -1698,7 +2814,15 @@
     "language_code": [
       "ltu"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".lt",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 65300.0,
+    "population": 2894886,
+    "flag": "\ud83c\uddf1\ud83c\uddf9",
+    "region_common": "Europe"
   },
   "LU": {
     "name": "Luxembourg",
@@ -1711,7 +2835,15 @@
     "language_code": [
       "lb"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".lu",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 2586.0,
+    "population": 681973,
+    "flag": "\ud83c\uddf1\ud83c\uddfa",
+    "region_common": "Europe"
   },
   "LV": {
     "name": "Latvia",
@@ -1724,7 +2856,15 @@
     "language_code": [
       "lva"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".lv",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 64559.0,
+    "population": 1829000,
+    "flag": "\ud83c\uddf1\ud83c\uddfb",
+    "region_common": "Europe"
   },
   "LY": {
     "name": "Libya",
@@ -1738,7 +2878,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ly",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 1759540.0,
+    "population": 7459000,
+    "flag": "\ud83c\uddf1\ud83c\uddfe",
+    "region_common": "Africa"
   },
   "MA": {
     "name": "Morocco",
@@ -1751,7 +2899,15 @@
     "language_code": [
       "mr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ma",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 446550.0,
+    "population": 36828330,
+    "flag": "\ud83c\uddf2\ud83c\udde6",
+    "region_common": "Africa"
   },
   "MC": {
     "name": "Monaco",
@@ -1764,7 +2920,15 @@
     "language_code": [
       "mco"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".mc",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 2.02,
+    "population": 38423,
+    "flag": "\ud83c\uddf2\ud83c\udde8",
+    "region_common": "Europe"
   },
   "MD": {
     "name": "Moldova",
@@ -1777,7 +2941,15 @@
     "language_code": [
       "mda"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".md",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 33847.0,
+    "population": 2749076,
+    "flag": "\ud83c\uddf2\ud83c\udde9",
+    "region_common": "Europe"
   },
   "ME": {
     "name": "Montenegro",
@@ -1790,7 +2962,15 @@
     "language_code": [
       "mne"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".me",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 13812.0,
+    "population": 623327,
+    "flag": "\ud83c\uddf2\ud83c\uddea",
+    "region_common": "Europe"
   },
   "MF": {
     "name": "Saint Martin",
@@ -1803,7 +2983,15 @@
     "language_code": [
       "maf"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".fr",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 53.0,
+    "population": 31496,
+    "flag": "\ud83c\uddf2\ud83c\uddeb",
+    "region_common": "Americas"
   },
   "MG": {
     "name": "Madagascar",
@@ -1817,7 +3005,15 @@
     "language_code": [
       "mdg"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".mg",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 587041.0,
+    "population": 31727042,
+    "flag": "\ud83c\uddf2\ud83c\uddec",
+    "region_common": "Africa"
   },
   "MH": {
     "name": "Marshall Islands",
@@ -1828,7 +3024,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".mh",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 181.0,
+    "population": 42418,
+    "flag": "\ud83c\uddf2\ud83c\udded",
+    "region_common": "Oceania"
   },
   "MK": {
     "name": "Macedonia",
@@ -1841,7 +3045,15 @@
     "language_code": [
       "mk"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".mk",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 25713.0,
+    "population": 1822612,
+    "flag": "\ud83c\uddf2\ud83c\uddf0",
+    "region_common": "Europe"
   },
   "ML": {
     "name": "Mali",
@@ -1855,7 +3067,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ml",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 1240192.0,
+    "population": 22395489,
+    "flag": "\ud83c\uddf2\ud83c\uddf1",
+    "region_common": "Africa"
   },
   "MM": {
     "name": "Myanmar",
@@ -1870,7 +3090,15 @@
       "bu",
       "my"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".mm",
+    "timezones": [
+      "UTC+06:30"
+    ],
+    "area": 676578.0,
+    "population": 51316756,
+    "flag": "\ud83c\uddf2\ud83c\uddf2",
+    "region_common": "Asia"
   },
   "MN": {
     "name": "Mongolia",
@@ -1883,7 +3111,16 @@
     "language_code": [
       "mn"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".mn",
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00"
+    ],
+    "area": 1564110.0,
+    "population": 3544835,
+    "flag": "\ud83c\uddf2\ud83c\uddf3",
+    "region_common": "Asia"
   },
   "MO": {
     "name": "Macao",
@@ -1894,7 +3131,15 @@
     "language_code": [
       "zh"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".mo",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 30.0,
+    "population": 685900,
+    "flag": "\ud83c\uddf2\ud83c\uddf4",
+    "region_common": "Asia"
   },
   "MP": {
     "name": "Northern Mariana Islands",
@@ -1905,7 +3150,15 @@
     "language_code": [
       "mnp"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".mp",
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "area": 464.0,
+    "population": 47329,
+    "flag": "\ud83c\uddf2\ud83c\uddf5",
+    "region_common": "Oceania"
   },
   "MQ": {
     "name": "Martinique",
@@ -1918,7 +3171,15 @@
     "language_code": [
       "mtq"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".mq",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 1128.0,
+    "population": 349925,
+    "flag": "\ud83c\uddf2\ud83c\uddf6",
+    "region_common": "Americas"
   },
   "MR": {
     "name": "Mauritania",
@@ -1932,7 +3193,15 @@
     "language_code": [
       "mrt"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".mr",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 1030700.0,
+    "population": 4927532,
+    "flag": "\ud83c\uddf2\ud83c\uddf7",
+    "region_common": "Africa"
   },
   "MS": {
     "name": "Montserrat",
@@ -1943,7 +3212,15 @@
     "language_code": [
       "msr"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ms",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 102.0,
+    "population": 4386,
+    "flag": "\ud83c\uddf2\ud83c\uddf8",
+    "region_common": "Americas"
   },
   "MT": {
     "name": "Malta",
@@ -1956,7 +3233,15 @@
     "language_code": [
       "mt"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".mt",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 316.0,
+    "population": 574250,
+    "flag": "\ud83c\uddf2\ud83c\uddf9",
+    "region_common": "Europe"
   },
   "MU": {
     "name": "Mauritius",
@@ -1969,7 +3254,15 @@
     "language_code": [
       "mus"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".mu",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 2040.0,
+    "population": 1243741,
+    "flag": "\ud83c\uddf2\ud83c\uddfa",
+    "region_common": "Africa"
   },
   "MV": {
     "name": "Maldives",
@@ -1982,7 +3275,15 @@
     "language_code": [
       "mdv"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".mv",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 300.0,
+    "population": 515132,
+    "flag": "\ud83c\uddf2\ud83c\uddfb",
+    "region_common": "Asia"
   },
   "MW": {
     "name": "Malawi",
@@ -1996,7 +3297,15 @@
     "language_code": [
       "mwi"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".mw",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 118484.0,
+    "population": 20734262,
+    "flag": "\ud83c\uddf2\ud83c\uddfc",
+    "region_common": "Africa"
   },
   "MX": {
     "name": "Mexico",
@@ -2010,7 +3319,17 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".mx",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ],
+    "area": 1964375.0,
+    "population": 130575786,
+    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "region_common": "Americas"
   },
   "MY": {
     "name": "Malaysia",
@@ -2023,7 +3342,15 @@
     "language_code": [
       "ms"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".my",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 330803.0,
+    "population": 34231700,
+    "flag": "\ud83c\uddf2\ud83c\uddfe",
+    "region_common": "Asia"
   },
   "MZ": {
     "name": "Mozambique",
@@ -2036,7 +3363,15 @@
     "language_code": [
       "pt"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".mz",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 801590.0,
+    "population": 34090466,
+    "flag": "\ud83c\uddf2\ud83c\uddff",
+    "region_common": "Africa"
   },
   "NA": {
     "name": "Namibia",
@@ -2049,7 +3384,15 @@
     "language_code": [
       "nam"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".na",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 825615.0,
+    "population": 3022401,
+    "flag": "\ud83c\uddf3\ud83c\udde6",
+    "region_common": "Africa"
   },
   "NC": {
     "name": "New Caledonia",
@@ -2062,7 +3405,15 @@
     "language_code": [
       "ncl"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".nc",
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "area": 18575.0,
+    "population": 264596,
+    "flag": "\ud83c\uddf3\ud83c\udde8",
+    "region_common": "Oceania"
   },
   "NE": {
     "name": "Niger",
@@ -2076,7 +3427,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ne",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 1267000.0,
+    "population": 26312034,
+    "flag": "\ud83c\uddf3\ud83c\uddea",
+    "region_common": "Africa"
   },
   "NF": {
     "name": "Norfolk Island",
@@ -2087,7 +3446,15 @@
     "language_code": [
       "nfk"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".nf",
+    "timezones": [
+      "UTC+11:30"
+    ],
+    "area": 36.0,
+    "population": 2188,
+    "flag": "\ud83c\uddf3\ud83c\uddeb",
+    "region_common": "Oceania"
   },
   "NG": {
     "name": "Nigeria",
@@ -2101,7 +3468,15 @@
     "language_code": [
       "ha"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ng",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 923768.0,
+    "population": 223800000,
+    "flag": "\ud83c\uddf3\ud83c\uddec",
+    "region_common": "Africa"
   },
   "NI": {
     "name": "Nicaragua",
@@ -2115,7 +3490,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".ni",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 130373.0,
+    "population": 6803886,
+    "flag": "\ud83c\uddf3\ud83c\uddee",
+    "region_common": "Americas"
   },
   "NL": {
     "name": "Netherlands",
@@ -2129,7 +3512,15 @@
     "language_code": [
       "nl"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".nl",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 41865.0,
+    "population": 18100436,
+    "flag": "\ud83c\uddf3\ud83c\uddf1",
+    "region_common": "Europe"
   },
   "NO": {
     "name": "Norway",
@@ -2143,7 +3534,15 @@
     "currency_code": "NOK",
     "iso3": "NOR",
     "language_code": [],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".no",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 386224.0,
+    "population": 5606944,
+    "flag": "\ud83c\uddf3\ud83c\uddf4",
+    "region_common": "Europe"
   },
   "NP": {
     "name": "Nepal",
@@ -2156,7 +3555,15 @@
     "language_code": [
       "ne"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".np",
+    "timezones": [
+      "UTC+05:45"
+    ],
+    "area": 147181.0,
+    "population": 29911840,
+    "flag": "\ud83c\uddf3\ud83c\uddf5",
+    "region_common": "Asia"
   },
   "NR": {
     "name": "Nauru",
@@ -2169,7 +3576,15 @@
     "language_code": [
       "nru"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".nr",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 21.0,
+    "population": 11680,
+    "flag": "\ud83c\uddf3\ud83c\uddf7",
+    "region_common": "Oceania"
   },
   "NU": {
     "name": "Niue",
@@ -2182,7 +3597,15 @@
     "language_code": [
       "niu"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".nu",
+    "timezones": [
+      "UTC-11:00"
+    ],
+    "area": 260.0,
+    "population": 1681,
+    "flag": "\ud83c\uddf3\ud83c\uddfa",
+    "region_common": "Oceania"
   },
   "NZ": {
     "name": "New Zealand",
@@ -2195,7 +3618,19 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".nz",
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ],
+    "area": 268838.0,
+    "population": 5324700,
+    "flag": "\ud83c\uddf3\ud83c\uddff",
+    "region_common": "Oceania"
   },
   "OM": {
     "name": "Oman",
@@ -2206,7 +3641,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".om",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 309500.0,
+    "population": 5343630,
+    "flag": "\ud83c\uddf4\ud83c\uddf2",
+    "region_common": "Asia"
   },
   "PA": {
     "name": "Panama",
@@ -2220,7 +3663,15 @@
       "pa",
       "pz"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".pa",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 75417.0,
+    "population": 4064780,
+    "flag": "\ud83c\uddf5\ud83c\udde6",
+    "region_common": "Americas"
   },
   "PE": {
     "name": "Peru",
@@ -2234,7 +3685,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".pe",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 1285216.0,
+    "population": 34350244,
+    "flag": "\ud83c\uddf5\ud83c\uddea",
+    "region_common": "Americas"
   },
   "PF": {
     "name": "French Polynesia",
@@ -2245,7 +3704,17 @@
     "language_code": [
       "pyf"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".pf",
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00"
+    ],
+    "area": 4167.0,
+    "population": 279500,
+    "flag": "\ud83c\uddf5\ud83c\uddeb",
+    "region_common": "Oceania"
   },
   "PG": {
     "name": "Papua New Guinea",
@@ -2258,7 +3727,15 @@
     "language_code": [
       "png"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".pg",
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "area": 462840.0,
+    "population": 11781559,
+    "flag": "\ud83c\uddf5\ud83c\uddec",
+    "region_common": "Oceania"
   },
   "PH": {
     "name": "Philippines",
@@ -2271,7 +3748,15 @@
     "language_code": [
       "tl"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".ph",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 342353.0,
+    "population": 114123600,
+    "flag": "\ud83c\uddf5\ud83c\udded",
+    "region_common": "Asia"
   },
   "PK": {
     "name": "Pakistan",
@@ -2284,7 +3769,15 @@
     "language_code": [
       "ur"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".pk",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 796095.0,
+    "population": 241499431,
+    "flag": "\ud83c\uddf5\ud83c\uddf0",
+    "region_common": "Asia"
   },
   "PL": {
     "name": "Poland",
@@ -2297,7 +3790,15 @@
     "language_code": [
       "pl"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".pl",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 312679.0,
+    "population": 37392000,
+    "flag": "\ud83c\uddf5\ud83c\uddf1",
+    "region_common": "Europe"
   },
   "PM": {
     "name": "Saint Pierre and Miquelon",
@@ -2310,7 +3811,15 @@
     "language_code": [
       "spm"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".pm",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 242.0,
+    "population": 5819,
+    "flag": "\ud83c\uddf5\ud83c\uddf2",
+    "region_common": "Americas"
   },
   "PN": {
     "name": "Pitcairn",
@@ -2321,7 +3830,15 @@
     "language_code": [
       "pcn"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".pn",
+    "timezones": [
+      "UTC-08:00"
+    ],
+    "area": 47.0,
+    "population": 35,
+    "flag": "\ud83c\uddf5\ud83c\uddf3",
+    "region_common": "Oceania"
   },
   "PR": {
     "name": "Puerto Rico",
@@ -2332,7 +3849,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".pr",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 8870.0,
+    "population": 3203295,
+    "flag": "\ud83c\uddf5\ud83c\uddf7",
+    "region_common": "Americas"
   },
   "PS": {
     "name": "Palestinian Territory",
@@ -2345,7 +3870,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".ps",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 6220.0,
+    "population": 5483450,
+    "flag": "\ud83c\uddf5\ud83c\uddf8",
+    "region_common": "Asia"
   },
   "PT": {
     "name": "Portugal",
@@ -2358,7 +3891,16 @@
     "language_code": [
       "pt"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".pt",
+    "timezones": [
+      "UTC-01:00",
+      "UTC"
+    ],
+    "area": 92090.0,
+    "population": 10749635,
+    "flag": "\ud83c\uddf5\ud83c\uddf9",
+    "region_common": "Europe"
   },
   "PW": {
     "name": "Palau",
@@ -2369,7 +3911,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".pw",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 459.0,
+    "population": 16733,
+    "flag": "\ud83c\uddf5\ud83c\uddfc",
+    "region_common": "Oceania"
   },
   "PY": {
     "name": "Paraguay",
@@ -2382,7 +3932,15 @@
     "language_code": [
       "gn"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".py",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 406752.0,
+    "population": 6109644,
+    "flag": "\ud83c\uddf5\ud83c\uddfe",
+    "region_common": "Americas"
   },
   "QA": {
     "name": "Qatar",
@@ -2393,7 +3951,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".qa",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 11586.0,
+    "population": 3173024,
+    "flag": "\ud83c\uddf6\ud83c\udde6",
+    "region_common": "Asia"
   },
   "RE": {
     "name": "Reunion",
@@ -2404,7 +3970,15 @@
     "language_code": [
       "reu"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".re",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 2511.0,
+    "population": 896175,
+    "flag": "\ud83c\uddf7\ud83c\uddea",
+    "region_common": "Africa"
   },
   "RO": {
     "name": "Romania",
@@ -2417,7 +3991,15 @@
     "language_code": [
       "rou"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ro",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 238391.0,
+    "population": 19036031,
+    "flag": "\ud83c\uddf7\ud83c\uddf4",
+    "region_common": "Europe"
   },
   "RS": {
     "name": "Serbia",
@@ -2434,7 +4016,15 @@
       "yu",
       "yug"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".rs",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 77589.0,
+    "population": 6567783,
+    "flag": "\ud83c\uddf7\ud83c\uddf8",
+    "region_common": "Europe"
   },
   "RU": {
     "name": "Russia",
@@ -2449,7 +4039,23 @@
       "ru",
       "su"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ru",
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "area": 17098246.0,
+    "population": 146028325,
+    "flag": "\ud83c\uddf7\ud83c\uddfa",
+    "region_common": "Europe"
   },
   "RW": {
     "name": "Rwanda",
@@ -2462,7 +4068,15 @@
     "language_code": [
       "rwa"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".rw",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 26338.0,
+    "population": 14104969,
+    "flag": "\ud83c\uddf7\ud83c\uddfc",
+    "region_common": "Africa"
   },
   "SA": {
     "name": "Saudi Arabia",
@@ -2474,7 +4088,15 @@
       "ar",
       "nt"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".sa",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 2149690.0,
+    "population": 35300280,
+    "flag": "\ud83c\uddf8\ud83c\udde6",
+    "region_common": "Asia"
   },
   "SB": {
     "name": "Solomon Islands",
@@ -2487,7 +4109,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".sb",
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "area": 28896.0,
+    "population": 750325,
+    "flag": "\ud83c\uddf8\ud83c\udde7",
+    "region_common": "Oceania"
   },
   "SC": {
     "name": "Seychelles",
@@ -2498,7 +4128,15 @@
     "language_code": [
       "syc"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".sc",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 452.0,
+    "population": 122729,
+    "flag": "\ud83c\uddf8\ud83c\udde8",
+    "region_common": "Africa"
   },
   "SD": {
     "name": "Sudan",
@@ -2509,7 +4147,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".sd",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 1886068.0,
+    "population": 51662000,
+    "flag": "\ud83c\uddf8\ud83c\udde9",
+    "region_common": "Africa"
   },
   "SE": {
     "name": "Sweden",
@@ -2525,7 +4171,15 @@
     "language_code": [
       "sv"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".se",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 450295.0,
+    "population": 10605098,
+    "flag": "\ud83c\uddf8\ud83c\uddea",
+    "region_common": "Europe"
   },
   "SG": {
     "name": "Singapore",
@@ -2538,7 +4192,15 @@
     "language_code": [
       "zh"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".sg",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 710.0,
+    "population": 6110200,
+    "flag": "\ud83c\uddf8\ud83c\uddec",
+    "region_common": "Asia"
   },
   "SH": {
     "name": "Saint Helena",
@@ -2549,7 +4211,15 @@
     "language_code": [
       "shn"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".sh",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 394.0,
+    "population": 5651,
+    "flag": "\ud83c\uddf8\ud83c\udded",
+    "region_common": "Africa"
   },
   "SI": {
     "name": "Slovenia",
@@ -2562,7 +4232,15 @@
     "language_code": [
       "svn"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".si",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 20273.0,
+    "population": 2130638,
+    "flag": "\ud83c\uddf8\ud83c\uddee",
+    "region_common": "Europe"
   },
   "SJ": {
     "name": "Svalbard and Jan Mayen",
@@ -2573,7 +4251,15 @@
     "language_code": [
       "sjm"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".sj",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 61399.0,
+    "population": 2530,
+    "flag": "\ud83c\uddf8\ud83c\uddef",
+    "region_common": "Europe"
   },
   "SK": {
     "name": "Slovakia",
@@ -2586,7 +4272,15 @@
     "language_code": [
       "svk"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".sk",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 49037.0,
+    "population": 5413813,
+    "flag": "\ud83c\uddf8\ud83c\uddf0",
+    "region_common": "Europe"
   },
   "SL": {
     "name": "Sierra Leone",
@@ -2599,7 +4293,15 @@
     "language_code": [
       "sle"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".sl",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 71740.0,
+    "population": 9077691,
+    "flag": "\ud83c\uddf8\ud83c\uddf1",
+    "region_common": "Africa"
   },
   "SM": {
     "name": "San Marino",
@@ -2612,7 +4314,15 @@
     "language_code": [
       "it"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".sm",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 61.0,
+    "population": 34132,
+    "flag": "\ud83c\uddf8\ud83c\uddf2",
+    "region_common": "Europe"
   },
   "SN": {
     "name": "Senegal",
@@ -2625,7 +4335,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".sn",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 196722.0,
+    "population": 18593258,
+    "flag": "\ud83c\uddf8\ud83c\uddf3",
+    "region_common": "Africa"
   },
   "SO": {
     "name": "Somalia",
@@ -2638,7 +4356,15 @@
     "language_code": [
       "so"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".so",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 637657.0,
+    "population": 19655000,
+    "flag": "\ud83c\uddf8\ud83c\uddf4",
+    "region_common": "Africa"
   },
   "SR": {
     "name": "Suriname",
@@ -2651,7 +4377,15 @@
     "language_code": [
       "sur"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".sr",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 163820.0,
+    "population": 616500,
+    "flag": "\ud83c\uddf8\ud83c\uddf7",
+    "region_common": "Americas"
   },
   "SS": {
     "name": "South Sudan",
@@ -2664,7 +4398,15 @@
     "language_code": [
       "ssd"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ss",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 619745.0,
+    "population": 15786898,
+    "flag": "\ud83c\uddf8\ud83c\uddf8",
+    "region_common": "Africa"
   },
   "ST": {
     "name": "Sao Tome and Principe",
@@ -2677,7 +4419,15 @@
     "language_code": [
       "stp"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".st",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 964.0,
+    "population": 209607,
+    "flag": "\ud83c\uddf8\ud83c\uddf9",
+    "region_common": "Africa"
   },
   "SV": {
     "name": "El Salvador",
@@ -2690,7 +4440,15 @@
     "language_code": [
       "sl"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".sv",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 21041.0,
+    "population": 6029976,
+    "flag": "\ud83c\uddf8\ud83c\uddfb",
+    "region_common": "Americas"
   },
   "SX": {
     "name": "Sint Maarten",
@@ -2701,7 +4459,15 @@
     "language_code": [
       "sxm"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".sx",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 34.0,
+    "population": 41349,
+    "flag": "\ud83c\uddf8\ud83c\uddfd",
+    "region_common": "Americas"
   },
   "SY": {
     "name": "Syria",
@@ -2714,7 +4480,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".sy",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 185180.0,
+    "population": 25620000,
+    "flag": "\ud83c\uddf8\ud83c\uddfe",
+    "region_common": "Asia"
   },
   "SZ": {
     "name": "Swaziland",
@@ -2727,7 +4501,15 @@
     "language_code": [
       "swz"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".sz",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 17364.0,
+    "population": 1235549,
+    "flag": "\ud83c\uddf8\ud83c\uddff",
+    "region_common": "Africa"
   },
   "TC": {
     "name": "Turks and Caicos Islands",
@@ -2738,7 +4520,15 @@
     "language_code": [
       "tca"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".tc",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 948.0,
+    "population": 50828,
+    "flag": "\ud83c\uddf9\ud83c\udde8",
+    "region_common": "Americas"
   },
   "TD": {
     "name": "Chad",
@@ -2752,7 +4542,15 @@
     "language_code": [
       "tcd"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".td",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 1284000.0,
+    "population": 19340757,
+    "flag": "\ud83c\uddf9\ud83c\udde9",
+    "region_common": "Africa"
   },
   "TF": {
     "name": "French Southern Territories",
@@ -2763,7 +4561,15 @@
     "language_code": [
       "atf"
     ],
-    "continent_code": "AN"
+    "continent_code": "AN",
+    "tld": ".tf",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 7747.0,
+    "population": 400,
+    "flag": "\ud83c\uddf9\ud83c\uddeb",
+    "region_common": "Antarctic"
   },
   "TG": {
     "name": "Togo",
@@ -2774,7 +4580,15 @@
     "language_code": [
       "fr"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".tg",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 56785.0,
+    "population": 8095498,
+    "flag": "\ud83c\uddf9\ud83c\uddec",
+    "region_common": "Africa"
   },
   "TH": {
     "name": "Thailand",
@@ -2788,7 +4602,15 @@
     "language_code": [
       "th"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".th",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 513120.0,
+    "population": 65859640,
+    "flag": "\ud83c\uddf9\ud83c\udded",
+    "region_common": "Asia"
   },
   "TJ": {
     "name": "Tajikistan",
@@ -2801,7 +4623,15 @@
     "language_code": [
       "tg"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".tj",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 143100.0,
+    "population": 10499000,
+    "flag": "\ud83c\uddf9\ud83c\uddef",
+    "region_common": "Asia"
   },
   "TK": {
     "name": "Tokelau",
@@ -2812,7 +4642,15 @@
     "language_code": [
       "tkl"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".tk",
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "area": 12.0,
+    "population": 2608,
+    "flag": "\ud83c\uddf9\ud83c\uddf0",
+    "region_common": "Oceania"
   },
   "TL": {
     "name": "East Timor",
@@ -2826,7 +4664,15 @@
       "pt",
       "tp"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".tl",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 14874.0,
+    "population": 1391221,
+    "flag": "\ud83c\uddf9\ud83c\uddf1",
+    "region_common": "Asia"
   },
   "TM": {
     "name": "Turkmenistan",
@@ -2839,7 +4685,15 @@
     "language_code": [
       "tk"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".tm",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 488100.0,
+    "population": 7057841,
+    "flag": "\ud83c\uddf9\ud83c\uddf2",
+    "region_common": "Asia"
   },
   "TN": {
     "name": "Tunisia",
@@ -2852,7 +4706,15 @@
     "language_code": [
       "ar"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".tn",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 163610.0,
+    "population": 11972169,
+    "flag": "\ud83c\uddf9\ud83c\uddf3",
+    "region_common": "Africa"
   },
   "TO": {
     "name": "Tonga",
@@ -2863,7 +4725,15 @@
     "language_code": [
       "to"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".to",
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "area": 747.0,
+    "population": 100179,
+    "flag": "\ud83c\uddf9\ud83c\uddf4",
+    "region_common": "Oceania"
   },
   "TR": {
     "name": "Turkey",
@@ -2878,7 +4748,15 @@
     "language_code": [
       "tr"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".tr",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 783562.0,
+    "population": 85664944,
+    "flag": "\ud83c\uddf9\ud83c\uddf7",
+    "region_common": "Asia"
   },
   "TT": {
     "name": "Trinidad and Tobago",
@@ -2891,7 +4769,15 @@
     "language_code": [
       "tto"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".tt",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 5130.0,
+    "population": 1367764,
+    "flag": "\ud83c\uddf9\ud83c\uddf9",
+    "region_common": "Americas"
   },
   "TV": {
     "name": "Tuvalu",
@@ -2902,7 +4788,15 @@
     "language_code": [
       "tuv"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".tv",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 26.0,
+    "population": 10643,
+    "flag": "\ud83c\uddf9\ud83c\uddfb",
+    "region_common": "Oceania"
   },
   "TW": {
     "name": "Taiwan",
@@ -2913,7 +4807,15 @@
     "language_code": [
       "zh"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".tw",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 36197.0,
+    "population": 23317031,
+    "flag": "\ud83c\uddf9\ud83c\uddfc",
+    "region_common": "Asia"
   },
   "TZ": {
     "name": "Tanzania",
@@ -2926,7 +4828,15 @@
     "language_code": [
       "sw"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".tz",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 947303.0,
+    "population": 68153004,
+    "flag": "\ud83c\uddf9\ud83c\uddff",
+    "region_common": "Africa"
   },
   "UA": {
     "name": "Ukraine",
@@ -2939,7 +4849,15 @@
     "language_code": [
       "uk"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".ua",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 603550.0,
+    "population": 32862000,
+    "flag": "\ud83c\uddfa\ud83c\udde6",
+    "region_common": "Europe"
   },
   "UG": {
     "name": "Uganda",
@@ -2952,7 +4870,15 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".ug",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 241550.0,
+    "population": 45905417,
+    "flag": "\ud83c\uddfa\ud83c\uddec",
+    "region_common": "Africa"
   },
   "UM": {
     "name": "United States Minor Outlying Islands",
@@ -2967,7 +4893,17 @@
       "umi",
       "wk"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".us",
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ],
+    "area": 34.2,
+    "population": 0,
+    "flag": "\ud83c\uddfa\ud83c\uddf2",
+    "region_common": "Americas"
   },
   "US": {
     "name": "United States",
@@ -2980,7 +4916,25 @@
     "language_code": [
       "en"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".us",
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "area": 9525067.0,
+    "population": 340110988,
+    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "region_common": "Americas"
   },
   "UY": {
     "name": "Uruguay",
@@ -2993,7 +4947,15 @@
     "language_code": [
       "es"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".uy",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 181034.0,
+    "population": 3499451,
+    "flag": "\ud83c\uddfa\ud83c\uddfe",
+    "region_common": "Americas"
   },
   "UZ": {
     "name": "Uzbekistan",
@@ -3006,7 +4968,15 @@
     "language_code": [
       "uz"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".uz",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 447400.0,
+    "population": 37859698,
+    "flag": "\ud83c\uddfa\ud83c\uddff",
+    "region_common": "Asia"
   },
   "VA": {
     "name": "Vatican",
@@ -3019,7 +4989,15 @@
     "language_code": [
       "it"
     ],
-    "continent_code": "EU"
+    "continent_code": "EU",
+    "tld": ".va",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 0.49,
+    "population": 882,
+    "flag": "\ud83c\uddfb\ud83c\udde6",
+    "region_common": "Europe"
   },
   "VC": {
     "name": "Saint Vincent and the Grenadines",
@@ -3030,7 +5008,15 @@
     "language_code": [
       "vct"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".vc",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 389.0,
+    "population": 110872,
+    "flag": "\ud83c\uddfb\ud83c\udde8",
+    "region_common": "Americas"
   },
   "VE": {
     "name": "Venezuela",
@@ -3043,7 +5029,15 @@
     "language_code": [
       "ve"
     ],
-    "continent_code": "SA"
+    "continent_code": "SA",
+    "tld": ".ve",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 916445.0,
+    "population": 28517000,
+    "flag": "\ud83c\uddfb\ud83c\uddea",
+    "region_common": "Americas"
   },
   "VG": {
     "name": "British Virgin Islands",
@@ -3054,7 +5048,15 @@
     "language_code": [
       "vgb"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".vg",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 151.0,
+    "population": 39471,
+    "flag": "\ud83c\uddfb\ud83c\uddec",
+    "region_common": "Americas"
   },
   "VI": {
     "name": "U.S. Virgin Islands",
@@ -3065,7 +5067,15 @@
     "language_code": [
       "vir"
     ],
-    "continent_code": "NA"
+    "continent_code": "NA",
+    "tld": ".vi",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 347.0,
+    "population": 87146,
+    "flag": "\ud83c\uddfb\ud83c\uddee",
+    "region_common": "Americas"
   },
   "VN": {
     "name": "Vietnam",
@@ -3080,7 +5090,15 @@
       "vd",
       "vi"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".vn",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 331212.0,
+    "population": 101343800,
+    "flag": "\ud83c\uddfb\ud83c\uddf3",
+    "region_common": "Asia"
   },
   "VU": {
     "name": "Vanuatu",
@@ -3094,7 +5112,15 @@
       "bi",
       "nh"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".vu",
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "area": 12189.0,
+    "population": 321409,
+    "flag": "\ud83c\uddfb\ud83c\uddfa",
+    "region_common": "Oceania"
   },
   "WF": {
     "name": "Wallis and Futuna",
@@ -3105,7 +5131,15 @@
     "language_code": [
       "wlf"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".wf",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 142.0,
+    "population": 11620,
+    "flag": "\ud83c\uddfc\ud83c\uddeb",
+    "region_common": "Oceania"
   },
   "WS": {
     "name": "Samoa",
@@ -3116,7 +5150,15 @@
     "language_code": [
       "wsm"
     ],
-    "continent_code": "OC"
+    "continent_code": "OC",
+    "tld": ".ws",
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "area": 2842.0,
+    "population": 205557,
+    "flag": "\ud83c\uddfc\ud83c\uddf8",
+    "region_common": "Oceania"
   },
   "XK": {
     "name": "Kosovo",
@@ -3141,7 +5183,15 @@
       "ar",
       "yd"
     ],
-    "continent_code": "AS"
+    "continent_code": "AS",
+    "tld": ".ye",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 527968.0,
+    "population": 32684503,
+    "flag": "\ud83c\uddfe\ud83c\uddea",
+    "region_common": "Asia"
   },
   "YT": {
     "name": "Mayotte",
@@ -3152,7 +5202,15 @@
     "language_code": [
       "myt"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".yt",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 374.0,
+    "population": 320901,
+    "flag": "\ud83c\uddfe\ud83c\uddf9",
+    "region_common": "Africa"
   },
   "ZA": {
     "name": "South Africa",
@@ -3163,7 +5221,15 @@
     "language_code": [
       "af"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".za",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 1221037.0,
+    "population": 63100945,
+    "flag": "\ud83c\uddff\ud83c\udde6",
+    "region_common": "Africa"
   },
   "ZM": {
     "name": "Zambia",
@@ -3176,7 +5242,15 @@
     "language_code": [
       "zmb"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".zm",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 752612.0,
+    "population": 19693423,
+    "flag": "\ud83c\uddff\ud83c\uddf2",
+    "region_common": "Africa"
   },
   "ZW": {
     "name": "Zimbabwe",
@@ -3190,6 +5264,14 @@
       "rh",
       "zwe"
     ],
-    "continent_code": "AF"
+    "continent_code": "AF",
+    "tld": ".zw",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 390757.0,
+    "population": 17073087,
+    "flag": "\ud83c\uddff\ud83c\uddfc",
+    "region_common": "Africa"
   }
 }
