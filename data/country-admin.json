@@ -5,82 +5,148 @@
         "name": "Ciudad Autónoma de Buenos Aires",
         "alias": [
           "Ciudad Autonoma de Buenos Aires"
+        ],
+        "regions": [
+          "Buenos Aires"
         ]
       },
       "BA": {
-        "name": "Buenos Aires"
+        "name": "Buenos Aires",
+        "regions": [
+          "Buenos Aires"
+        ]
       },
       "CAT": {
-        "name": "Catamarca"
+        "name": "Catamarca",
+        "regions": [
+          "Northwest"
+        ]
       },
       "CHA": {
-        "name": "Chaco"
+        "name": "Chaco",
+        "regions": [
+          "Northeast"
+        ]
       },
       "CHU": {
-        "name": "Chubut"
+        "name": "Chubut",
+        "regions": [
+          "Patagonia"
+        ]
       },
       "CÓR": {
         "name": "Córdoba",
         "alias": [
           "Cordoba"
+        ],
+        "regions": [
+          "Pampas"
         ]
       },
       "COR": {
-        "name": "Corrientes"
+        "name": "Corrientes",
+        "regions": [
+          "Northeast"
+        ]
       },
       "ER": {
         "name": "Entre Ríos",
         "alias": [
           "Entre Rios"
+        ],
+        "regions": [
+          "Northeast"
         ]
       },
       "FOR": {
-        "name": "Formosa"
+        "name": "Formosa",
+        "regions": [
+          "Northeast"
+        ]
       },
       "JUJ": {
-        "name": "Jujuy"
+        "name": "Jujuy",
+        "regions": [
+          "Northwest"
+        ]
       },
       "LP": {
-        "name": "La Pampa"
+        "name": "La Pampa",
+        "regions": [
+          "Patagonia"
+        ]
       },
       "LR": {
-        "name": "La Rioja"
+        "name": "La Rioja",
+        "regions": [
+          "Cuyo"
+        ]
       },
       "MEN": {
-        "name": "Mendoza"
+        "name": "Mendoza",
+        "regions": [
+          "Cuyo"
+        ]
       },
       "MIS": {
-        "name": "Misiones"
+        "name": "Misiones",
+        "regions": [
+          "Northeast"
+        ]
       },
       "NEU": {
         "name": "Neuquén",
         "alias": [
           "Neuquen"
+        ],
+        "regions": [
+          "Patagonia"
         ]
       },
       "RN": {
         "name": "Río Negro",
         "alias": [
           "Rio Negro"
+        ],
+        "regions": [
+          "Patagonia"
         ]
       },
       "SAL": {
-        "name": "Salta"
+        "name": "Salta",
+        "regions": [
+          "Northwest"
+        ]
       },
       "SJ": {
-        "name": "San Juan"
+        "name": "San Juan",
+        "regions": [
+          "Cuyo"
+        ]
       },
       "SL": {
-        "name": "San Luis"
+        "name": "San Luis",
+        "regions": [
+          "Cuyo"
+        ]
       },
       "SC": {
-        "name": "Santa Cruz"
+        "name": "Santa Cruz",
+        "regions": [
+          "Patagonia"
+        ]
       },
       "SF": {
-        "name": "Santa Fe"
+        "name": "Santa Fe",
+        "regions": [
+          "Pampas"
+        ]
       },
       "SD": {
-        "name": "Santiago del Estero"
+        "name": "Santiago del Estero",
+        "regions": [
+          "Northwest"
+        ]
       },
       "TD": {
         "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
@@ -92,6 +158,9 @@
         "name": "Tucumán",
         "alias": [
           "Tucuman"
+        ],
+        "regions": [
+          "Northwest"
         ]
       }
     },
@@ -695,367 +764,643 @@
   "BO": {
     "divisions": {
       "CER": {
-        "name": "Cercado"
+        "name": "Cercado",
+        "regions": [
+          "BO"
+        ]
       },
       "ITÉ": {
         "name": "Iténez",
         "alias": [
           "Itenez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "JB": {
         "name": "José Ballivián",
         "alias": [
           "Jose Ballivian"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "MAM": {
         "name": "Mamoré",
         "alias": [
           "Mamore"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "MAR": {
         "name": "Marbán",
         "alias": [
           "Marban"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "MOX": {
-        "name": "Moxos"
+        "name": "Moxos",
+        "regions": [
+          "BO"
+        ]
       },
       "VD": {
         "name": "Vaca Díez",
         "alias": [
           "Vaca Diez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "YAC": {
-        "name": "Yacuma"
+        "name": "Yacuma",
+        "regions": [
+          "BO"
+        ]
       },
       "AZU": {
-        "name": "Azurduy"
+        "name": "Azurduy",
+        "regions": [
+          "BO"
+        ]
       },
       "BB": {
-        "name": "Bernardino Bilbao"
+        "name": "Bernardino Bilbao",
+        "regions": [
+          "BO"
+        ]
       },
       "HS": {
-        "name": "Hernando Siles"
+        "name": "Hernando Siles",
+        "regions": [
+          "BO"
+        ]
       },
       "JZ": {
         "name": "Jaime Zudáñez",
         "alias": [
           "Jaime Zudanez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "LC": {
-        "name": "Ladislao Cabrera"
+        "name": "Ladislao Cabrera",
+        "regions": [
+          "BO"
+        ]
       },
       "NC": {
-        "name": "Nor Chichas"
+        "name": "Nor Chichas",
+        "regions": [
+          "BO"
+        ]
       },
       "ORO": {
-        "name": "Oropeza"
+        "name": "Oropeza",
+        "regions": [
+          "BO"
+        ]
       },
       "SC": {
-        "name": "Sur Chichas"
+        "name": "Sur Chichas",
+        "regions": [
+          "BO"
+        ]
       },
       "TOM": {
-        "name": "Tomina"
+        "name": "Tomina",
+        "regions": [
+          "BO"
+        ]
       },
       "YAM": {
         "name": "Yamparáez",
         "alias": [
           "Yamparaez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "ARA": {
-        "name": "Arani"
+        "name": "Arani",
+        "regions": [
+          "BO"
+        ]
       },
       "ARQ": {
-        "name": "Arque"
+        "name": "Arque",
+        "regions": [
+          "BO"
+        ]
       },
       "AYO": {
-        "name": "Ayopaya"
+        "name": "Ayopaya",
+        "regions": [
+          "BO"
+        ]
       },
       "CAP": {
-        "name": "Capinota"
+        "name": "Capinota",
+        "regions": [
+          "BO"
+        ]
       },
       "CAR": {
-        "name": "Carangas"
+        "name": "Carangas",
+        "regions": [
+          "BO"
+        ]
       },
       "CHA": {
-        "name": "Chayanta"
+        "name": "Chayanta",
+        "regions": [
+          "BO"
+        ]
       },
       "EA": {
-        "name": "Eduardo Avaroa"
+        "name": "Eduardo Avaroa",
+        "regions": [
+          "BO"
+        ]
       },
       "GJ": {
         "name": "Germán Jordán",
         "alias": [
           "German Jordan"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "MIZ": {
-        "name": "Mizque"
+        "name": "Mizque",
+        "regions": [
+          "BO"
+        ]
       },
       "CAM": {
-        "name": "Campero"
+        "name": "Campero",
+        "regions": [
+          "BO"
+        ]
       },
       "PUN": {
-        "name": "Punata"
+        "name": "Punata",
+        "regions": [
+          "BO"
+        ]
       },
       "QUI": {
-        "name": "Quillacollo"
+        "name": "Quillacollo",
+        "regions": [
+          "BO"
+        ]
       },
       "BOL": {
         "name": "Bolívar",
         "alias": [
           "Bolivar"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "TAP": {
         "name": "Tapacarí",
         "alias": [
           "Tapacari"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "TIR": {
-        "name": "Tiraque"
+        "name": "Tiraque",
+        "regions": [
+          "BO"
+        ]
       },
       "AI": {
         "name": "Andrés Ibáñez",
         "alias": [
           "Andres Ibanez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "ARO": {
-        "name": "Aroma"
+        "name": "Aroma",
+        "regions": [
+          "BO"
+        ]
       },
       "BS": {
-        "name": "Bautista Saavedra"
+        "name": "Bautista Saavedra",
+        "regions": [
+          "BO"
+        ]
       },
       "EC": {
-        "name": "Eliodoro Camacho"
+        "name": "Eliodoro Camacho",
+        "regions": [
+          "BO"
+        ]
       },
       "FT": {
-        "name": "Franz Tamayo"
+        "name": "Franz Tamayo",
+        "regions": [
+          "BO"
+        ]
       },
       "GV": {
-        "name": "Gualberto Villarroel"
+        "name": "Gualberto Villarroel",
+        "regions": [
+          "BO"
+        ]
       },
       "ING": {
-        "name": "Ingavi"
+        "name": "Ingavi",
+        "regions": [
+          "BO"
+        ]
       },
       "INQ": {
-        "name": "Inquisivi"
+        "name": "Inquisivi",
+        "regions": [
+          "BO"
+        ]
       },
       "JM": {
         "name": "José María Avilés",
         "alias": [
           "Jose María Aviles"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "LAR": {
-        "name": "Larecaja"
+        "name": "Larecaja",
+        "regions": [
+          "BO"
+        ]
       },
       "LOA": {
-        "name": "Loayza"
+        "name": "Loayza",
+        "regions": [
+          "BO"
+        ]
       },
       "LA": {
-        "name": "Los Andes"
+        "name": "Los Andes",
+        "regions": [
+          "BO"
+        ]
       },
       "MK": {
-        "name": "Manco Kapac"
+        "name": "Manco Kapac",
+        "regions": [
+          "BO"
+        ]
       },
       "MUÑ": {
         "name": "Muñecas",
         "alias": [
           "Munecas"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "NY": {
-        "name": "Nor Yungas"
+        "name": "Nor Yungas",
+        "regions": [
+          "BO"
+        ]
       },
       "OMA": {
-        "name": "Omasuyos"
+        "name": "Omasuyos",
+        "regions": [
+          "BO"
+        ]
       },
       "PAC": {
-        "name": "Pacajes"
+        "name": "Pacajes",
+        "regions": [
+          "BO"
+        ]
       },
       "MUR": {
-        "name": "Murillo"
+        "name": "Murillo",
+        "regions": [
+          "BO"
+        ]
       },
       "SY": {
-        "name": "Sud Yungas"
+        "name": "Sud Yungas",
+        "regions": [
+          "BO"
+        ]
       },
       "ATA": {
-        "name": "Atahuallpa"
+        "name": "Atahuallpa",
+        "regions": [
+          "BO"
+        ]
       },
       "LIT": {
-        "name": "Litoral"
+        "name": "Litoral",
+        "regions": [
+          "BO"
+        ]
       },
       "PD": {
-        "name": "Puerto de Mejillones"
+        "name": "Puerto de Mejillones",
+        "regions": [
+          "BO"
+        ]
       },
       "POO": {
         "name": "Poopó",
         "alias": [
           "Poopo"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "SAJ": {
-        "name": "Sajama"
+        "name": "Sajama",
+        "regions": [
+          "BO"
+        ]
       },
       "SP": {
         "name": "Sebastián Pagador",
         "alias": [
           "Sebastian Pagador"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "SAU": {
         "name": "Saucarí",
         "alias": [
           "Saucari"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "TB": {
         "name": "Tomas Barrón",
         "alias": [
           "Tomas Barron"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "ABU": {
         "name": "Abuná",
         "alias": [
           "Abuna"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "FR": {
         "name": "Federico Román",
         "alias": [
           "Federico Roman"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "MD": {
-        "name": "Madre de Dios"
+        "name": "Madre de Dios",
+        "regions": [
+          "BO"
+        ]
       },
       "MAN": {
-        "name": "Manuripi"
+        "name": "Manuripi",
+        "regions": [
+          "BO"
+        ]
       },
       "NS": {
         "name": "Nicolás Suárez",
         "alias": [
           "Nicolas Suarez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "AD": {
         "name": "Alonso de Ibáñez",
         "alias": [
           "Alonso de Ibanez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "AQ": {
-        "name": "Antonio Quijarro"
+        "name": "Antonio Quijarro",
+        "regions": [
+          "BO"
+        ]
       },
       "CS": {
-        "name": "Cornelio Saavedra"
+        "name": "Cornelio Saavedra",
+        "regions": [
+          "BO"
+        ]
       },
       "DC": {
-        "name": "Daniel Campos"
+        "name": "Daniel Campos",
+        "regions": [
+          "BO"
+        ]
       },
       "EB": {
-        "name": "Enrique Baldivieso"
+        "name": "Enrique Baldivieso",
+        "regions": [
+          "BO"
+        ]
       },
       "MO": {
-        "name": "Modesto Omiste"
+        "name": "Modesto Omiste",
+        "regions": [
+          "BO"
+        ]
       },
       "NL": {
         "name": "Nor Lípez",
         "alias": [
           "Nor Lipez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "RB": {
-        "name": "Rafael Bustillo"
+        "name": "Rafael Bustillo",
+        "regions": [
+          "BO"
+        ]
       },
       "SL": {
         "name": "Sur Lípez",
         "alias": [
           "Sur Lipez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "TF": {
         "name": "Tomás Frías",
         "alias": [
           "Tomas Frias"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "ÁS": {
         "name": "Ángel Sandoval",
         "alias": [
           "Angel Sandoval"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "CHI": {
-        "name": "Chiquitos"
+        "name": "Chiquitos",
+        "regions": [
+          "BO"
+        ]
       },
       "COR": {
-        "name": "Cordillera"
+        "name": "Cordillera",
+        "regions": [
+          "BO"
+        ]
       },
       "FLO": {
-        "name": "Florida"
+        "name": "Florida",
+        "regions": [
+          "BO"
+        ]
       },
       "GB": {
         "name": "Germán Busch",
         "alias": [
           "German Busch"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "GUA": {
-        "name": "Guarayos"
+        "name": "Guarayos",
+        "regions": [
+          "BO"
+        ]
       },
       "ICH": {
-        "name": "Ichilo"
+        "name": "Ichilo",
+        "regions": [
+          "BO"
+        ]
       },
       "IW": {
-        "name": "Ignacio Warnes"
+        "name": "Ignacio Warnes",
+        "regions": [
+          "BO"
+        ]
       },
       "MM": {
         "name": "Manuel María Caballero",
         "alias": [
           "Manuel Maria Caballero"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "ÑD": {
         "name": "Ñuflo de Chávez",
         "alias": [
           "Nuflo de Chavez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "OS": {
-        "name": "Obispo Santistevan"
+        "name": "Obispo Santistevan",
+        "regions": [
+          "BO"
+        ]
       },
       "SAR": {
-        "name": "Sara"
+        "name": "Sara",
+        "regions": [
+          "BO"
+        ]
       },
       "VAL": {
-        "name": "Vallegrande"
+        "name": "Vallegrande",
+        "regions": [
+          "BO"
+        ]
       },
       "AA": {
-        "name": "Aniceto Arce"
+        "name": "Aniceto Arce",
+        "regions": [
+          "BO"
+        ]
       },
       "BO": {
-        "name": "Burnet O'Connor"
+        "name": "Burnet O'Connor",
+        "regions": [
+          "BO"
+        ]
       },
       "EM": {
         "name": "Eustaquio Méndez",
         "alias": [
           "Eustaquio Mendez"
+        ],
+        "regions": [
+          "BO"
         ]
       },
       "GC": {
-        "name": "Gran Chaco"
+        "name": "Gran Chaco",
+        "regions": [
+          "BO"
+        ]
       }
     },
     "regions": [
@@ -1065,91 +1410,154 @@
   "BR": {
     "divisions": {
       "ACR": {
-        "name": "Acre"
+        "name": "Acre",
+        "regions": [
+          "North"
+        ]
       },
       "ALA": {
-        "name": "Alagoas"
+        "name": "Alagoas",
+        "regions": [
+          "Northeast"
+        ]
       },
       "AMA": {
-        "name": "Amazonas"
+        "name": "Amazonas",
+        "regions": [
+          "North"
+        ]
       },
       "BAH": {
-        "name": "Bahia"
+        "name": "Bahia",
+        "regions": [
+          "Northeast"
+        ]
       },
       "CEA": {
         "name": "Ceará",
         "alias": [
           "Ceara"
+        ],
+        "regions": [
+          "Northeast"
         ]
       },
       "DF": {
-        "name": "Distrito Federal"
+        "name": "Distrito Federal",
+        "regions": [
+          "Central-West"
+        ]
       },
       "ES": {
         "name": "Espírito Santo",
         "alias": [
           "Espirito Santo"
+        ],
+        "regions": [
+          "Southeast"
         ]
       },
       "GOI": {
         "name": "Goiás",
         "alias": [
           "Goias"
+        ],
+        "regions": [
+          "Central-West"
         ]
       },
       "MAR": {
         "name": "Maranhão",
         "alias": [
           "Maranhao"
+        ],
+        "regions": [
+          "Northeast"
         ]
       },
       "MG": {
-        "name": "Minas Gerais"
+        "name": "Minas Gerais",
+        "regions": [
+          "Southeast"
+        ]
       },
       "PAR": {
         "name": "Paraná",
         "alias": [
           "Parana"
+        ],
+        "regions": [
+          "South"
         ]
       },
       "PER": {
-        "name": "Pernambuco"
+        "name": "Pernambuco",
+        "regions": [
+          "Northeast"
+        ]
       },
       "PIA": {
         "name": "Piauí",
         "alias": [
           "Piaui"
+        ],
+        "regions": [
+          "Northeast"
         ]
       },
       "RD": {
-        "name": "Rio de Janeiro"
+        "name": "Rio de Janeiro",
+        "regions": [
+          "Southeast"
+        ]
       },
       "RG": {
-        "name": "Rio Grande do Sul"
+        "name": "Rio Grande do Sul",
+        "regions": [
+          "South"
+        ]
       },
       "RON": {
         "name": "Rondônia",
         "alias": [
           "Rondonia"
+        ],
+        "regions": [
+          "North"
         ]
       },
       "ROR": {
-        "name": "Roraima"
+        "name": "Roraima",
+        "regions": [
+          "North"
+        ]
       },
       "SC": {
-        "name": "Santa Catarina"
+        "name": "Santa Catarina",
+        "regions": [
+          "South"
+        ]
       },
       "SP": {
         "name": "São Paulo",
         "alias": [
           "Sao Paulo"
+        ],
+        "regions": [
+          "Southeast"
         ]
       },
       "SER": {
-        "name": "Sergipe"
+        "name": "Sergipe",
+        "regions": [
+          "Northeast"
+        ]
       },
       "TOC": {
-        "name": "Tocantins"
+        "name": "Tocantins",
+        "regions": [
+          "North"
+        ]
       }
     },
     "regions": [
@@ -1209,178 +1617,328 @@
   "CL": {
     "divisions": {
       "ARI": {
-        "name": "Arica"
+        "name": "Arica",
+        "regions": [
+          "CL"
+        ]
       },
       "PAR": {
-        "name": "Parinacota"
+        "name": "Parinacota",
+        "regions": [
+          "CL"
+        ]
       },
       "IQU": {
-        "name": "Iquique"
+        "name": "Iquique",
+        "regions": [
+          "CL"
+        ]
       },
       "TAM": {
-        "name": "Tamarugal"
+        "name": "Tamarugal",
+        "regions": [
+          "CL"
+        ]
       },
       "ANT": {
-        "name": "Antofagasta"
+        "name": "Antofagasta",
+        "regions": [
+          "CL"
+        ]
       },
       "EL": {
-        "name": "El Loa"
+        "name": "El Loa",
+        "regions": [
+          "CL"
+        ]
       },
       "TOC": {
-        "name": "Tocopilla"
+        "name": "Tocopilla",
+        "regions": [
+          "CL"
+        ]
       },
       "COP": {
         "name": "Copiapó",
         "alias": [
           "Copiapo"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "HUA": {
-        "name": "Huasco"
+        "name": "Huasco",
+        "regions": [
+          "CL"
+        ]
       },
       "CHA": {
-        "name": "Chacabuco"
+        "name": "Chacabuco",
+        "regions": [
+          "CL"
+        ]
       },
       "ELQ": {
-        "name": "Elqui"
+        "name": "Elqui",
+        "regions": [
+          "CL"
+        ]
       },
       "LIM": {
         "name": "Limarí",
         "alias": [
           "Limari"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "CHO": {
-        "name": "Choapa"
+        "name": "Choapa",
+        "regions": [
+          "CL"
+        ]
       },
       "ID": {
-        "name": "Isla de Pascua"
+        "name": "Isla de Pascua",
+        "regions": [
+          "CL"
+        ]
       },
       "LA": {
-        "name": "Los Andes"
+        "name": "Los Andes",
+        "regions": [
+          "CL"
+        ]
       },
       "MM": {
-        "name": "Marga Marga"
+        "name": "Marga Marga",
+        "regions": [
+          "CL"
+        ]
       },
       "PET": {
-        "name": "Petorca"
+        "name": "Petorca",
+        "regions": [
+          "CL"
+        ]
       },
       "QUI": {
-        "name": "Quillota"
+        "name": "Quillota",
+        "regions": [
+          "CL"
+        ]
       },
       "SA": {
-        "name": "San Antonio"
+        "name": "San Antonio",
+        "regions": [
+          "CL"
+        ]
       },
       "SF": {
-        "name": "San Felipe de Aconcagua"
+        "name": "San Felipe de Aconcagua",
+        "regions": [
+          "CL"
+        ]
       },
       "VAL": {
-        "name": "Valdivia"
+        "name": "Valdivia",
+        "regions": [
+          "CL"
+        ]
       },
       "CAC": {
-        "name": "Cachapoal"
+        "name": "Cachapoal",
+        "regions": [
+          "CL"
+        ]
       },
       "COL": {
-        "name": "Colchagua"
+        "name": "Colchagua",
+        "regions": [
+          "CL"
+        ]
       },
       "CC": {
-        "name": "Cardenal Caro"
+        "name": "Cardenal Caro",
+        "regions": [
+          "CL"
+        ]
       },
       "TAL": {
-        "name": "Talagante"
+        "name": "Talagante",
+        "regions": [
+          "CL"
+        ]
       },
       "LIN": {
-        "name": "Linares"
+        "name": "Linares",
+        "regions": [
+          "CL"
+        ]
       },
       "CUR": {
         "name": "Curicó",
         "alias": [
           "Curico"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "CAU": {
-        "name": "Cautin"
+        "name": "Cautin",
+        "regions": [
+          "CL"
+        ]
       },
       "CON": {
         "name": "Concepción",
         "alias": [
           "Concepcion"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "ÑUB": {
         "name": "Ñuble",
         "alias": [
           "Nuble"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "BIO": {
         "name": "Biobío",
         "alias": [
           "Biobio"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "ARA": {
-        "name": "Arauco"
+        "name": "Arauco",
+        "regions": [
+          "CL"
+        ]
       },
       "MAL": {
-        "name": "Malleco"
+        "name": "Malleco",
+        "regions": [
+          "CL"
+        ]
       },
       "RAN": {
-        "name": "Ranco"
+        "name": "Ranco",
+        "regions": [
+          "CL"
+        ]
       },
       "LLA": {
-        "name": "Llanquihue"
+        "name": "Llanquihue",
+        "regions": [
+          "CL"
+        ]
       },
       "OSO": {
-        "name": "Osorno"
+        "name": "Osorno",
+        "regions": [
+          "CL"
+        ]
       },
       "CHI": {
-        "name": "Chiloe"
+        "name": "Chiloe",
+        "regions": [
+          "CL"
+        ]
       },
       "PAL": {
-        "name": "Palena"
+        "name": "Palena",
+        "regions": [
+          "CL"
+        ]
       },
       "COI": {
-        "name": "Coihaique"
+        "name": "Coihaique",
+        "regions": [
+          "CL"
+        ]
       },
       "AIS": {
         "name": "Aisén",
         "alias": [
           "Aisen"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "GC": {
-        "name": "General Carrera"
+        "name": "General Carrera",
+        "regions": [
+          "CL"
+        ]
       },
       "CP": {
-        "name": "Capitan Prat"
+        "name": "Capitan Prat",
+        "regions": [
+          "CL"
+        ]
       },
       "MAG": {
-        "name": "Magallanes"
+        "name": "Magallanes",
+        "regions": [
+          "CL"
+        ]
       },
       "UE": {
-        "name": "Ultima Esperanza"
+        "name": "Ultima Esperanza",
+        "regions": [
+          "CL"
+        ]
       },
       "TD": {
-        "name": "Tierra del Fuego"
+        "name": "Tierra del Fuego",
+        "regions": [
+          "CL"
+        ]
       },
       "AC": {
         "name": "Antártica Chilena",
         "alias": [
           "Antartica Chilena"
+        ],
+        "regions": [
+          "CL"
         ]
       },
       "SAN": {
-        "name": "Santiago"
+        "name": "Santiago",
+        "regions": [
+          "CL"
+        ]
       },
       "COR": {
-        "name": "Cordillera"
+        "name": "Cordillera",
+        "regions": [
+          "CL"
+        ]
       },
       "MAI": {
-        "name": "Maipo"
+        "name": "Maipo",
+        "regions": [
+          "CL"
+        ]
       },
       "MEL": {
-        "name": "Melipilla"
+        "name": "Melipilla",
+        "regions": [
+          "CL"
+        ]
       }
     },
     "regions": [
@@ -3453,540 +4011,969 @@
   "PE": {
     "divisions": {
       "CHA": {
-        "name": "Chanchamayo"
+        "name": "Chanchamayo",
+        "regions": [
+          "PE"
+        ]
       },
       "BAG": {
-        "name": "Bagua"
+        "name": "Bagua",
+        "regions": [
+          "PE"
+        ]
       },
       "BON": {
         "name": "Bongará",
         "alias": [
           "Bongara"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CON": {
         "name": "Concepción",
         "alias": [
           "Concepcion"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "LUY": {
-        "name": "Luya"
+        "name": "Luya",
+        "regions": [
+          "PE"
+        ]
       },
       "RD": {
         "name": "Rodríguez de Mendoza",
         "alias": [
           "Rodriguez de Mendoza"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "UTC": {
-        "name": "Utcubamba"
+        "name": "Utcubamba",
+        "regions": [
+          "PE"
+        ]
       },
       "HUA": {
-        "name": "Huallaga"
+        "name": "Huallaga",
+        "regions": [
+          "PE"
+        ]
       },
       "AIJ": {
-        "name": "Aija"
+        "name": "Aija",
+        "regions": [
+          "PE"
+        ]
       },
       "AR": {
-        "name": "Antonio Raymondi"
+        "name": "Antonio Raymondi",
+        "regions": [
+          "PE"
+        ]
       },
       "ASU": {
         "name": "Asunción",
         "alias": [
           "Asuncion"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "BOL": {
         "name": "Bolívar",
         "alias": [
           "Bolivar"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CAR": {
-        "name": "Carabaya"
+        "name": "Carabaya",
+        "regions": [
+          "PE"
+        ]
       },
       "CF": {
         "name": "Carlos Fermín Fitzcarrald",
         "alias": [
           "Carlos Fermin Fitzcarrald"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CAS": {
-        "name": "Castrovirreyna"
+        "name": "Castrovirreyna",
+        "regions": [
+          "PE"
+        ]
       },
       "COR": {
-        "name": "Corongo"
+        "name": "Corongo",
+        "regions": [
+          "PE"
+        ]
       },
       "ML": {
-        "name": "Mariscal Luzuriaga"
+        "name": "Mariscal Luzuriaga",
+        "regions": [
+          "PE"
+        ]
       },
       "OCR": {
-        "name": "Ocros"
+        "name": "Ocros",
+        "regions": [
+          "PE"
+        ]
       },
       "PAL": {
-        "name": "Palpa"
+        "name": "Palpa",
+        "regions": [
+          "PE"
+        ]
       },
       "POM": {
-        "name": "Pomabamba"
+        "name": "Pomabamba",
+        "regions": [
+          "PE"
+        ]
       },
       "REC": {
-        "name": "Recuay"
+        "name": "Recuay",
+        "regions": [
+          "PE"
+        ]
       },
       "SAN": {
-        "name": "Sandia"
+        "name": "Sandia",
+        "regions": [
+          "PE"
+        ]
       },
       "SIH": {
-        "name": "Sihuas"
+        "name": "Sihuas",
+        "regions": [
+          "PE"
+        ]
       },
       "YUN": {
-        "name": "Yunguyo"
+        "name": "Yunguyo",
+        "regions": [
+          "PE"
+        ]
       },
       "ABA": {
-        "name": "Abancay"
+        "name": "Abancay",
+        "regions": [
+          "PE"
+        ]
       },
       "AND": {
-        "name": "Andahuaylas"
+        "name": "Andahuaylas",
+        "regions": [
+          "PE"
+        ]
       },
       "ANT": {
-        "name": "Anta"
+        "name": "Anta",
+        "regions": [
+          "PE"
+        ]
       },
       "AYM": {
-        "name": "Aymaraes"
+        "name": "Aymaraes",
+        "regions": [
+          "PE"
+        ]
       },
       "COT": {
-        "name": "Cotabambas"
+        "name": "Cotabambas",
+        "regions": [
+          "PE"
+        ]
       },
       "CHI": {
-        "name": "Chiclayo"
+        "name": "Chiclayo",
+        "regions": [
+          "PE"
+        ]
       },
       "GRA": {
-        "name": "Grau"
+        "name": "Grau",
+        "regions": [
+          "PE"
+        ]
       },
       "ARE": {
-        "name": "Arequipa"
+        "name": "Arequipa",
+        "regions": [
+          "PE"
+        ]
       },
       "CAM": {
         "name": "Camaná",
         "alias": [
           "Camana"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CAY": {
-        "name": "Caylloma"
+        "name": "Caylloma",
+        "regions": [
+          "PE"
+        ]
       },
       "ISL": {
-        "name": "Islay"
+        "name": "Islay",
+        "regions": [
+          "PE"
+        ]
       },
       "LU": {
         "name": "La Unión",
         "alias": [
           "La Union"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CAN": {
-        "name": "Candarave"
+        "name": "Candarave",
+        "regions": [
+          "PE"
+        ]
       },
       "HS": {
-        "name": "Huanca Sancos"
+        "name": "Huanca Sancos",
+        "regions": [
+          "PE"
+        ]
       },
       "LM": {
-        "name": "La Mar"
+        "name": "La Mar",
+        "regions": [
+          "PE"
+        ]
       },
       "LUC": {
-        "name": "Lucanas"
+        "name": "Lucanas",
+        "regions": [
+          "PE"
+        ]
       },
       "PAR": {
-        "name": "Paruro"
+        "name": "Paruro",
+        "regions": [
+          "PE"
+        ]
       },
       "PD": {
         "name": "Páucar del Sara Sara",
         "alias": [
           "Paucar del Sara Sara"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "SUC": {
-        "name": "Sucre"
+        "name": "Sucre",
+        "regions": [
+          "PE"
+        ]
       },
       "VF": {
         "name": "Víctor Fajardo",
         "alias": [
           "Victor Fajardo"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "VH": {
         "name": "Vilcas Huamán",
         "alias": [
           "Vilcas Huaman"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CAJ": {
-        "name": "Cajatambo"
+        "name": "Cajatambo",
+        "regions": [
+          "PE"
+        ]
       },
       "CEL": {
         "name": "Celendín",
         "alias": [
           "Celendin"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CHO": {
-        "name": "Chota"
+        "name": "Chota",
+        "regions": [
+          "PE"
+        ]
       },
       "CUT": {
-        "name": "Cutervo"
+        "name": "Cutervo",
+        "regions": [
+          "PE"
+        ]
       },
       "JAÉ": {
         "name": "Jaén",
         "alias": [
           "Jaen"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "SI": {
-        "name": "San Ignacio"
+        "name": "San Ignacio",
+        "regions": [
+          "PE"
+        ]
       },
       "SM": {
         "name": "San Martín",
         "alias": [
           "San Martin"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "SP": {
-        "name": "San Pablo"
+        "name": "San Pablo",
+        "regions": [
+          "PE"
+        ]
       },
       "SC": {
         "name": "Sánchez Carrión",
         "alias": [
           "Sanchez Carrion"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "CAL": {
-        "name": "Calca"
+        "name": "Calca",
+        "regions": [
+          "PE"
+        ]
       },
       "CUS": {
-        "name": "Cusco"
+        "name": "Cusco",
+        "regions": [
+          "PE"
+        ]
       },
       "ACO": {
-        "name": "Acobamba"
+        "name": "Acobamba",
+        "regions": [
+          "PE"
+        ]
       },
       "CHU": {
-        "name": "Chucuito"
+        "name": "Chucuito",
+        "regions": [
+          "PE"
+        ]
       },
       "ESP": {
-        "name": "Espinar"
+        "name": "Espinar",
+        "regions": [
+          "PE"
+        ]
       },
       "LC": {
         "name": "La Convención",
         "alias": [
           "La Convencion"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "PAU": {
-        "name": "Paucartambo"
+        "name": "Paucartambo",
+        "regions": [
+          "PE"
+        ]
       },
       "QUI": {
-        "name": "Quispicanchi"
+        "name": "Quispicanchi",
+        "regions": [
+          "PE"
+        ]
       },
       "URU": {
-        "name": "Urubamba"
+        "name": "Urubamba",
+        "regions": [
+          "PE"
+        ]
       },
       "ANG": {
-        "name": "Angaraes"
+        "name": "Angaraes",
+        "regions": [
+          "PE"
+        ]
       },
       "TAY": {
-        "name": "Tayacaja"
+        "name": "Tayacaja",
+        "regions": [
+          "PE"
+        ]
       },
       "HUÁ": {
         "name": "Huánuco",
         "alias": [
           "Huanuco"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "AMB": {
-        "name": "Ambo"
+        "name": "Ambo",
+        "regions": [
+          "PE"
+        ]
       },
       "DD": {
         "name": "Datem del Marañón",
         "alias": [
           "Datem del Maranon"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "LP": {
-        "name": "Leoncio Prado"
+        "name": "Leoncio Prado",
+        "regions": [
+          "PE"
+        ]
       },
       "MAR": {
         "name": "Marañón",
         "alias": [
           "Maranon"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "PAC": {
-        "name": "Pacasmayo"
+        "name": "Pacasmayo",
+        "regions": [
+          "PE"
+        ]
       },
       "PI": {
-        "name": "Puerto Inca"
+        "name": "Puerto Inca",
+        "regions": [
+          "PE"
+        ]
       },
       "LAU": {
-        "name": "Lauricocha"
+        "name": "Lauricocha",
+        "regions": [
+          "PE"
+        ]
       },
       "YAR": {
-        "name": "Yarowilca"
+        "name": "Yarowilca",
+        "regions": [
+          "PE"
+        ]
       },
       "ICA": {
-        "name": "Ica"
+        "name": "Ica",
+        "regions": [
+          "PE"
+        ]
       },
       "NAZ": {
-        "name": "Nazca"
+        "name": "Nazca",
+        "regions": [
+          "PE"
+        ]
       },
       "PIS": {
-        "name": "Pisco"
+        "name": "Pisco",
+        "regions": [
+          "PE"
+        ]
       },
       "JAU": {
-        "name": "Jauja"
+        "name": "Jauja",
+        "regions": [
+          "PE"
+        ]
       },
       "JUN": {
         "name": "Junín",
         "alias": [
           "Junin"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "SAT": {
-        "name": "Satipo"
+        "name": "Satipo",
+        "regions": [
+          "PE"
+        ]
       },
       "TAR": {
-        "name": "Tarata"
+        "name": "Tarata",
+        "regions": [
+          "PE"
+        ]
       },
       "YAU": {
-        "name": "Yauyos"
+        "name": "Yauyos",
+        "regions": [
+          "PE"
+        ]
       },
       "TRU": {
-        "name": "Trujillo"
+        "name": "Trujillo",
+        "regions": [
+          "PE"
+        ]
       },
       "ASC": {
-        "name": "Ascope"
+        "name": "Ascope",
+        "regions": [
+          "PE"
+        ]
       },
       "CHE": {
         "name": "Chepén",
         "alias": [
           "Chepen"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "JUL": {
         "name": "Julcán",
         "alias": [
           "Julcan"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "OTU": {
-        "name": "Otuzco"
+        "name": "Otuzco",
+        "regions": [
+          "PE"
+        ]
       },
       "PAT": {
-        "name": "Pataz"
+        "name": "Pataz",
+        "regions": [
+          "PE"
+        ]
       },
       "SD": {
-        "name": "Santiago de Chuco"
+        "name": "Santiago de Chuco",
+        "regions": [
+          "PE"
+        ]
       },
       "GC": {
         "name": "Gran Chimú",
         "alias": [
           "Gran Chimu"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "VIR": {
         "name": "Virú",
         "alias": [
           "Viru"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "FER": {
         "name": "Ferreñafe",
         "alias": [
           "Ferrenafe"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "LAM": {
-        "name": "Lamas"
+        "name": "Lamas",
+        "regions": [
+          "PE"
+        ]
       },
       "LIM": {
-        "name": "Lima"
+        "name": "Lima",
+        "regions": [
+          "PE"
+        ]
       },
       "BAR": {
-        "name": "Barranca"
+        "name": "Barranca",
+        "regions": [
+          "PE"
+        ]
       },
       "CAÑ": {
         "name": "Cañete",
         "alias": [
           "Canete"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "OYÓ": {
         "name": "Oyón",
         "alias": [
           "Oyon"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "MAY": {
-        "name": "Maynas"
+        "name": "Maynas",
+        "regions": [
+          "PE"
+        ]
       },
       "AA": {
-        "name": "Aliaso Amazonas"
+        "name": "Aliaso Amazonas",
+        "regions": [
+          "PE"
+        ]
       },
       "LOR": {
-        "name": "Loreto"
+        "name": "Loreto",
+        "regions": [
+          "PE"
+        ]
       },
       "MR": {
         "name": "Mariscal Ramón Castilla",
         "alias": [
           "Mariscal Ramon Castilla"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "PUT": {
-        "name": "Putumayo"
+        "name": "Putumayo",
+        "regions": [
+          "PE"
+        ]
       },
       "REQ": {
-        "name": "Requena"
+        "name": "Requena",
+        "regions": [
+          "PE"
+        ]
       },
       "UCA": {
-        "name": "Ucayali"
+        "name": "Ucayali",
+        "regions": [
+          "PE"
+        ]
       },
       "TAM": {
-        "name": "Tambopata"
+        "name": "Tambopata",
+        "regions": [
+          "PE"
+        ]
       },
       "MAN": {
         "name": "Manú",
         "alias": [
           "Manu"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "TAH": {
-        "name": "Tahuamanu"
+        "name": "Tahuamanu",
+        "regions": [
+          "PE"
+        ]
       },
       "MN": {
-        "name": "Mariscal Nieto"
+        "name": "Mariscal Nieto",
+        "regions": [
+          "PE"
+        ]
       },
       "GS": {
         "name": "General Sánchez Cerro",
         "alias": [
           "General Sanchez Cerro"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "ILO": {
-        "name": "Ilo"
+        "name": "Ilo",
+        "regions": [
+          "PE"
+        ]
       },
       "PAS": {
-        "name": "Pasco"
+        "name": "Pasco",
+        "regions": [
+          "PE"
+        ]
       },
       "DA": {
         "name": "Daniel Alcídes Carrión",
         "alias": [
           "Daniel Alcides Carrion"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "OXA": {
-        "name": "Oxapampa"
+        "name": "Oxapampa",
+        "regions": [
+          "PE"
+        ]
       },
       "PIU": {
-        "name": "Piura"
+        "name": "Piura",
+        "regions": [
+          "PE"
+        ]
       },
       "AYA": {
-        "name": "Ayabaca"
+        "name": "Ayabaca",
+        "regions": [
+          "PE"
+        ]
       },
       "MOR": {
         "name": "Morropón",
         "alias": [
           "Morropon"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "PAI": {
-        "name": "Paita"
+        "name": "Paita",
+        "regions": [
+          "PE"
+        ]
       },
       "SUL": {
-        "name": "Sullana"
+        "name": "Sullana",
+        "regions": [
+          "PE"
+        ]
       },
       "TAL": {
-        "name": "Talara"
+        "name": "Talara",
+        "regions": [
+          "PE"
+        ]
       },
       "SEC": {
-        "name": "Sechura"
+        "name": "Sechura",
+        "regions": [
+          "PE"
+        ]
       },
       "PUN": {
-        "name": "Puno"
+        "name": "Puno",
+        "regions": [
+          "PE"
+        ]
       },
       "AZÁ": {
         "name": "Azángaro",
         "alias": [
           "Azangaro"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "EC": {
-        "name": "El Collao"
+        "name": "El Collao",
+        "regions": [
+          "PE"
+        ]
       },
       "MEL": {
-        "name": "Melgar"
+        "name": "Melgar",
+        "regions": [
+          "PE"
+        ]
       },
       "MOH": {
-        "name": "Moho"
+        "name": "Moho",
+        "regions": [
+          "PE"
+        ]
       },
       "SA": {
-        "name": "San Antonio de Putina"
+        "name": "San Antonio de Putina",
+        "regions": [
+          "PE"
+        ]
       },
       "SR": {
         "name": "San Román",
         "alias": [
           "San Roman"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "MOY": {
-        "name": "Moyobamba"
+        "name": "Moyobamba",
+        "regions": [
+          "PE"
+        ]
       },
       "BEL": {
-        "name": "Bellavista"
+        "name": "Bellavista",
+        "regions": [
+          "PE"
+        ]
       },
       "ED": {
-        "name": "El Dorado"
+        "name": "El Dorado",
+        "regions": [
+          "PE"
+        ]
       },
       "MC": {
         "name": "Mariscal Cáceres",
         "alias": [
           "Mariscal Caceres"
+        ],
+        "regions": [
+          "PE"
         ]
       },
       "PIC": {
-        "name": "Picota"
+        "name": "Picota",
+        "regions": [
+          "PE"
+        ]
       },
       "RIO": {
-        "name": "Rioja"
+        "name": "Rioja",
+        "regions": [
+          "PE"
+        ]
       },
       "TOC": {
-        "name": "Tocache"
+        "name": "Tocache",
+        "regions": [
+          "PE"
+        ]
       },
       "TAC": {
-        "name": "Tacna"
+        "name": "Tacna",
+        "regions": [
+          "PE"
+        ]
       },
       "JB": {
-        "name": "Jorge Basadre"
+        "name": "Jorge Basadre",
+        "regions": [
+          "PE"
+        ]
       },
       "TUM": {
-        "name": "Tumbes"
+        "name": "Tumbes",
+        "regions": [
+          "PE"
+        ]
       },
       "CV": {
-        "name": "Contralmirante Villar"
+        "name": "Contralmirante Villar",
+        "regions": [
+          "PE"
+        ]
       },
       "ZAR": {
-        "name": "Zarumilla"
+        "name": "Zarumilla",
+        "regions": [
+          "PE"
+        ]
       },
       "CP": {
-        "name": "Coronel Portillo"
+        "name": "Coronel Portillo",
+        "regions": [
+          "PE"
+        ]
       },
       "ATA": {
-        "name": "Atalaya"
+        "name": "Atalaya",
+        "regions": [
+          "PE"
+        ]
       },
       "PA": {
-        "name": "Padre Abad"
+        "name": "Padre Abad",
+        "regions": [
+          "PE"
+        ]
       },
       "PUR": {
         "name": "Purús",
         "alias": [
           "Purus"
+        ],
+        "regions": [
+          "PE"
         ]
       }
     },
