@@ -3023,84 +3023,108 @@
         "alias": [
           "Aichi"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "秋田県": {
         "name": "秋田県",
         "alias": [
           "Akita"
         ],
-        "regions": []
+        "regions": [
+          "Tohoku"
+        ]
       },
       "青森県": {
         "name": "青森県",
         "alias": [
           "Aomori"
         ],
-        "regions": []
+        "regions": [
+          "Tohoku"
+        ]
       },
       "千葉県": {
         "name": "千葉県",
         "alias": [
           "Chiba"
         ],
-        "regions": []
+        "regions": [
+          "Kanto"
+        ]
       },
       "愛媛県": {
         "name": "愛媛県",
         "alias": [
           "Ehime"
         ],
-        "regions": []
+        "regions": [
+          "Shikoku"
+        ]
       },
       "福井県": {
         "name": "福井県",
         "alias": [
           "Fukui"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "福岡県": {
         "name": "福岡県",
         "alias": [
           "Fukuoka"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "福島県": {
         "name": "福島県",
         "alias": [
           "Fukushima"
         ],
-        "regions": []
+        "regions": [
+          "Tohoku"
+        ]
       },
       "岐阜県": {
         "name": "岐阜県",
         "alias": [
           "Gifu"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "群馬県": {
         "name": "群馬県",
         "alias": [
           "Gunma"
         ],
-        "regions": []
+        "regions": [
+          "Kanto"
+        ]
       },
       "広島県": {
         "name": "広島県",
         "alias": [
           "Hiroshima"
         ],
-        "regions": []
+        "regions": [
+          "Chugoku"
+        ]
       },
       "北海道": {
         "name": "北海道",
         "alias": [
           "Hokkaidō"
         ],
-        "regions": []
+        "regions": [
+          "Hokkaido"
+        ]
       },
       "兵庫県": {
         "name": "兵庫県",
@@ -3108,35 +3132,45 @@
           "Hyōgo",
           "Hyogo"
         ],
-        "regions": []
+        "regions": [
+          "Kansai"
+        ]
       },
       "茨城県": {
         "name": "茨城県",
         "alias": [
           "Ibaraki"
         ],
-        "regions": []
+        "regions": [
+          "Kanto"
+        ]
       },
       "石川県": {
         "name": "石川県",
         "alias": [
           "Ishikawa"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "岩手県": {
         "name": "岩手県",
         "alias": [
           "Iwate"
         ],
-        "regions": []
+        "regions": [
+          "Tohoku"
+        ]
       },
       "香川県": {
         "name": "香川県",
         "alias": [
           "Kagawa"
         ],
-        "regions": []
+        "regions": [
+          "Shikoku"
+        ]
       },
       "鹿児島": {
         "name": "鹿児島県",
@@ -3158,14 +3192,18 @@
           "Kōchi",
           "Kochi"
         ],
-        "regions": []
+        "regions": [
+          "Shikoku"
+        ]
       },
       "熊本県": {
         "name": "熊本県",
         "alias": [
           "Kumamoto"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "京都府": {
         "name": "京都府",
@@ -3173,56 +3211,72 @@
           "Kyōto",
           "Kyoto"
         ],
-        "regions": []
+        "regions": [
+          "Kansai"
+        ]
       },
       "三重県": {
         "name": "三重県",
         "alias": [
           "Mie"
         ],
-        "regions": []
+        "regions": [
+          "Kansai"
+        ]
       },
       "宮城県": {
         "name": "宮城県",
         "alias": [
           "Miyagi"
         ],
-        "regions": []
+        "regions": [
+          "Tohoku"
+        ]
       },
       "宮崎県": {
         "name": "宮崎県",
         "alias": [
           "Miyazaki"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "長野県": {
         "name": "長野県",
         "alias": [
           "Nagano"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "長崎県": {
         "name": "長崎県",
         "alias": [
           "Nagasaki"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "奈良県": {
         "name": "奈良県",
         "alias": [
           "Nara"
         ],
-        "regions": []
+        "regions": [
+          "Kansai"
+        ]
       },
       "新潟県": {
         "name": "新潟県",
         "alias": [
           "Niigata"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "大分県": {
         "name": "大分県",
@@ -3230,77 +3284,99 @@
           "Ōita",
           "Oita"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "岡山県": {
         "name": "岡山県",
         "alias": [
           "Okayama"
         ],
-        "regions": []
+        "regions": [
+          "Chugoku"
+        ]
       },
       "沖縄県": {
         "name": "沖縄県",
         "alias": [
           "Okinawa"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "大阪府": {
         "name": "大阪府",
         "alias": [
           "Ōsaka"
         ],
-        "regions": []
+        "regions": [
+          "Kansai"
+        ]
       },
       "佐賀県": {
         "name": "佐賀県",
         "alias": [
           "Saga"
         ],
-        "regions": []
+        "regions": [
+          "Kyushu"
+        ]
       },
       "埼玉県": {
         "name": "埼玉県",
         "alias": [
           "Saitama"
         ],
-        "regions": []
+        "regions": [
+          "Kanto"
+        ]
       },
       "滋賀県": {
         "name": "滋賀県",
         "alias": [
           "Shiga"
         ],
-        "regions": []
+        "regions": [
+          "Kansai"
+        ]
       },
       "島根県": {
         "name": "島根県",
         "alias": [
           "Shimane"
         ],
-        "regions": []
+        "regions": [
+          "Chugoku"
+        ]
       },
       "静岡県": {
         "name": "静岡県",
         "alias": [
           "Shizuoka"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "栃木県": {
         "name": "栃木県",
         "alias": [
           "Tochigi"
         ],
-        "regions": []
+        "regions": [
+          "Kanto"
+        ]
       },
       "徳島県": {
         "name": "徳島県",
         "alias": [
           "Tokushima"
         ],
-        "regions": []
+        "regions": [
+          "Shikoku"
+        ]
       },
       "東京都": {
         "name": "東京都",
@@ -3308,21 +3384,27 @@
           "Tōkyō",
           "Tokyo"
         ],
-        "regions": []
+        "regions": [
+          "Kanto"
+        ]
       },
       "鳥取県": {
         "name": "鳥取県",
         "alias": [
           "Tottori"
         ],
-        "regions": []
+        "regions": [
+          "Chugoku"
+        ]
       },
       "富山県": {
         "name": "富山県",
         "alias": [
           "Toyama"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       },
       "和歌山": {
         "name": "和歌山県",
@@ -3336,21 +3418,27 @@
         "alias": [
           "Yamagata"
         ],
-        "regions": []
+        "regions": [
+          "Tohoku"
+        ]
       },
       "山口県": {
         "name": "山口県",
         "alias": [
           "Yamaguchi"
         ],
-        "regions": []
+        "regions": [
+          "Chugoku"
+        ]
       },
       "山梨県": {
         "name": "山梨県",
         "alias": [
           "Yamanashi"
         ],
-        "regions": []
+        "regions": [
+          "Chubu"
+        ]
       }
     },
     "regions": [
@@ -6355,9 +6443,64 @@
         "name": "California",
         "alias": [],
         "counties": [
+          "Alameda",
+          "Alpine",
+          "Amador",
+          "Butte",
+          "Calaveras",
+          "Colusa",
+          "Contra Costa",
+          "Del Norte",
+          "El Dorado",
+          "Fresno",
+          "Glenn",
+          "Humboldt",
+          "Imperial",
+          "Inyo",
+          "Kern",
+          "Kings",
+          "Lake",
+          "Lassen",
           "Los Angeles",
+          "Madera",
+          "Marin",
+          "Mariposa",
+          "Mendocino",
+          "Merced",
+          "Modoc",
+          "Mono",
+          "Monterey",
+          "Napa",
+          "Nevada",
+          "Orange",
+          "Placer",
+          "Plumas",
+          "Riverside",
+          "Sacramento",
+          "San Benito",
           "San Bernardino",
-          "Orange"
+          "San Diego",
+          "San Francisco",
+          "San Joaquin",
+          "San Luis Obispo",
+          "San Mateo",
+          "Santa Barbara",
+          "Santa Clara",
+          "Santa Cruz",
+          "Shasta",
+          "Sierra",
+          "Siskiyou",
+          "Solano",
+          "Sonoma",
+          "Stanislaus",
+          "Sutter",
+          "Tehama",
+          "Trinity",
+          "Tulare",
+          "Tuolumne",
+          "Ventura",
+          "Yolo",
+          "Yuba"
         ],
         "regions": [
           "West Coast"
