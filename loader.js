@@ -26,7 +26,7 @@ function loadAllRegions() {
     const allRegions = {};
     
     for (const file of files) {
-        if file.endsWith('.json') {
+        if (file.endsWith('.json')) {
             const countryCode = file.split('.')[0];
             const filePath = path.join(regionsDir, file);
             try {
