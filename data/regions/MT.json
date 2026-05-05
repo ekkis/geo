@@ -1,8 +1,14 @@
 {
   "GOZ": {
-    "name": "Gozo"
+    "name": "Gozo",
+    "regions": [
+      "Gozo"
+    ]
   },
   "MAL": {
-    "name": "Malta"
+    "name": "Malta",
+    "regions": [
+      "Malta"
+    ]
   }
 }

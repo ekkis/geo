@@ -1,122 +1,242 @@
 {
   "ALTKR": {
-    "name": "Altai Krai"
+    "name": "Altai Krai",
+    "regions": [
+      "Siberia"
+    ]
   },
   "AMUOB": {
-    "name": "Amur Oblast"
+    "name": "Amur Oblast",
+    "regions": [
+      "Far Eastern"
+    ]
   },
   "ARKOB": {
-    "name": "Arkhangelsk Oblast"
+    "name": "Arkhangelsk Oblast",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "ASTOB": {
-    "name": "Astrakhan Oblast"
+    "name": "Astrakhan Oblast",
+    "regions": [
+      "Southern"
+    ]
   },
   "BAS": {
-    "name": "Bashkortostan"
+    "name": "Bashkortostan",
+    "regions": [
+      "Volga"
+    ]
   },
   "CHEOB": {
-    "name": "Chelyabinsk Oblast"
+    "name": "Chelyabinsk Oblast",
+    "regions": [
+      "Urals"
+    ]
   },
   "CHERE": {
-    "name": "Chechen Republic"
+    "name": "Chechen Republic",
+    "regions": [
+      "North Caucasian"
+    ]
   },
   "DAG": {
-    "name": "Dagestan"
+    "name": "Dagestan",
+    "regions": [
+      "North Caucasian"
+    ]
   },
   "ING": {
-    "name": "Ingushetia"
+    "name": "Ingushetia",
+    "regions": [
+      "North Caucasian"
+    ]
   },
   "KABRE": {
-    "name": "Kabardino-Balkar Republic"
+    "name": "Kabardino-Balkar Republic",
+    "regions": [
+      "North Caucasian"
+    ]
   },
   "KAMKR": {
-    "name": "Kamchatka Krai"
+    "name": "Kamchatka Krai",
+    "regions": [
+      "Far Eastern"
+    ]
   },
   "KARRE": {
-    "name": "Karachay-Cherkess Republic"
+    "name": "Karachay-Cherkess Republic",
+    "regions": [
+      "North Caucasian"
+    ]
   },
   "KEMOB": {
-    "name": "Kemerovo Oblast"
+    "name": "Kemerovo Oblast",
+    "regions": [
+      "Siberia"
+    ]
   },
   "KHAAU": {
-    "name": "Khanty-Mansi Autonomous Okrug"
+    "name": "Khanty-Mansi Autonomous Okrug",
+    "regions": [
+      "Urals"
+    ]
   },
   "KHAKR": {
-    "name": "Khabarovsk Krai"
+    "name": "Khabarovsk Krai",
+    "regions": [
+      "Far Eastern"
+    ]
   },
   "KRAKR": {
-    "name": "Krasnodar Krai"
+    "name": "Krasnodar Krai",
+    "regions": [
+      "Southern"
+    ]
   },
   "LENOB": {
-    "name": "Leningrad Oblast"
+    "name": "Leningrad Oblast",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "MAGOB": {
-    "name": "Magadan Oblast"
+    "name": "Magadan Oblast",
+    "regions": [
+      "Far Eastern"
+    ]
   },
   "MOS": {
-    "name": "Moscow"
+    "name": "Moscow",
+    "regions": [
+      "Central"
+    ]
   },
   "MOSOB": {
-    "name": "Moscow Oblast"
+    "name": "Moscow Oblast",
+    "regions": [
+      "Central"
+    ]
   },
   "MUROB": {
-    "name": "Murmansk Oblast"
+    "name": "Murmansk Oblast",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "NENAU": {
-    "name": "Nenets Autonomous Okrug"
+    "name": "Nenets Autonomous Okrug",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "NIZNO": {
-    "name": "Nizhny Novgorod Oblast"
+    "name": "Nizhny Novgorod Oblast",
+    "regions": [
+      "Volga"
+    ]
   },
   "NOROS": {
-    "name": "North Ossetia–Alania"
+    "name": "North Ossetia–Alania",
+    "regions": [
+      "North Caucasian"
+    ]
   },
   "NOVOB": {
-    "name": "Novosibirsk Oblast"
+    "name": "Novosibirsk Oblast",
+    "regions": [
+      "Siberia"
+    ]
   },
   "OMSOB": {
-    "name": "Omsk Oblast"
+    "name": "Omsk Oblast",
+    "regions": [
+      "Siberia"
+    ]
   },
   "PERKR": {
-    "name": "Perm Krai"
+    "name": "Perm Krai",
+    "regions": [
+      "Volga"
+    ]
   },
   "PRIKR": {
-    "name": "Primorsky Krai"
+    "name": "Primorsky Krai",
+    "regions": [
+      "Far Eastern"
+    ]
   },
   "PSKOB": {
-    "name": "Pskov Oblast"
+    "name": "Pskov Oblast",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "REPOF": {
-    "name": "Republic of Karelia"
+    "name": "Republic of Karelia",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "ROSOB": {
-    "name": "Rostov Oblast"
+    "name": "Rostov Oblast",
+    "regions": [
+      "Southern"
+    ]
   },
   "SAKOB": {
-    "name": "Sakhalin Oblast"
+    "name": "Sakhalin Oblast",
+    "regions": [
+      "Far Eastern"
+    ]
   },
   "ST.PE": {
-    "name": "St. Petersburg"
+    "name": "St. Petersburg",
+    "regions": [
+      "Northwestern"
+    ]
   },
   "SVEOB": {
-    "name": "Sverdlovsk Oblast"
+    "name": "Sverdlovsk Oblast",
+    "regions": [
+      "Urals"
+    ]
   },
   "TAT": {
-    "name": "Tatarstan"
+    "name": "Tatarstan",
+    "regions": [
+      "Volga"
+    ]
   },
   "TOMOB": {
-    "name": "Tomsk Oblast"
+    "name": "Tomsk Oblast",
+    "regions": [
+      "Siberia"
+    ]
   },
   "TYUOB": {
-    "name": "Tyumen Oblast"
+    "name": "Tyumen Oblast",
+    "regions": [
+      "Urals"
+    ]
   },
   "UDMRE": {
-    "name": "Udmurt Republic"
+    "name": "Udmurt Republic",
+    "regions": [
+      "Volga"
+    ]
   },
   "VOLOB": {
-    "name": "Volgograd Oblast"
+    "name": "Volgograd Oblast",
+    "regions": [
+      "Southern"
+    ]
   },
   "YAMAU": {
-    "name": "Yamalo-Nenets Autonomous Okrug"
+    "name": "Yamalo-Nenets Autonomous Okrug",
+    "regions": [
+      "Urals"
+    ]
   }
 }

@@ -1,86 +1,170 @@
 {
   "BLA": {
-    "name": "Blagoevgrad"
+    "name": "Blagoevgrad",
+    "regions": [
+      "Blagoevgrad"
+    ]
   },
   "BUR": {
-    "name": "Burgas"
+    "name": "Burgas",
+    "regions": [
+      "Burgas"
+    ]
   },
   "DOB": {
-    "name": "Dobrich"
+    "name": "Dobrich",
+    "regions": [
+      "Dobrich"
+    ]
   },
   "GAB": {
-    "name": "Gabrovo"
+    "name": "Gabrovo",
+    "regions": [
+      "Gabrovo"
+    ]
   },
   "HAS": {
-    "name": "Haskovo"
+    "name": "Haskovo",
+    "regions": [
+      "Haskovo"
+    ]
   },
   "KAR": {
-    "name": "Kardzhali"
+    "name": "Kardzhali",
+    "regions": [
+      "Kardzhali"
+    ]
   },
   "KYU": {
-    "name": "Kyustendil"
+    "name": "Kyustendil",
+    "regions": [
+      "Kyustendil"
+    ]
   },
   "LOV": {
-    "name": "Lovech"
+    "name": "Lovech",
+    "regions": [
+      "Lovech"
+    ]
   },
   "MON": {
-    "name": "Montana"
+    "name": "Montana",
+    "regions": [
+      "Montana"
+    ]
   },
   "PAZ": {
-    "name": "Pazardzhik"
+    "name": "Pazardzhik",
+    "regions": [
+      "Pazardzhik"
+    ]
   },
   "PER": {
-    "name": "Pernik"
+    "name": "Pernik",
+    "regions": [
+      "Pernik"
+    ]
   },
   "PLE": {
-    "name": "Pleven"
+    "name": "Pleven",
+    "regions": [
+      "Pleven"
+    ]
   },
   "PLO": {
-    "name": "Plovdiv"
+    "name": "Plovdiv",
+    "regions": [
+      "Plovdiv"
+    ]
   },
   "RAZ": {
-    "name": "Razgrad"
+    "name": "Razgrad",
+    "regions": [
+      "Razgrad"
+    ]
   },
   "RUS": {
-    "name": "Ruse"
+    "name": "Ruse",
+    "regions": [
+      "Ruse"
+    ]
   },
   "SHU": {
-    "name": "Shumen"
+    "name": "Shumen",
+    "regions": [
+      "Shumen"
+    ]
   },
   "SIL": {
-    "name": "Silistra"
+    "name": "Silistra",
+    "regions": [
+      "Silistra"
+    ]
   },
   "SLI": {
-    "name": "Sliven"
+    "name": "Sliven",
+    "regions": [
+      "Sliven"
+    ]
   },
   "SMO": {
-    "name": "Smolyan"
+    "name": "Smolyan",
+    "regions": [
+      "Smolyan"
+    ]
   },
   "SOF": {
-    "name": "Sofia"
+    "name": "Sofia",
+    "regions": [
+      "Sofia"
+    ]
   },
   "SOFPR": {
-    "name": "Sofia Province"
+    "name": "Sofia Province",
+    "regions": [
+      "Sofia Province"
+    ]
   },
   "STAZA": {
-    "name": "Stara Zagora"
+    "name": "Stara Zagora",
+    "regions": [
+      "Stara Zagora"
+    ]
   },
   "TAR": {
-    "name": "Targovishte"
+    "name": "Targovishte",
+    "regions": [
+      "Targovishte"
+    ]
   },
   "VAR": {
-    "name": "Varna"
+    "name": "Varna",
+    "regions": [
+      "Varna"
+    ]
   },
   "VELTA": {
-    "name": "Veliko Tarnovo"
+    "name": "Veliko Tarnovo",
+    "regions": [
+      "Veliko Tarnovo"
+    ]
   },
   "VID": {
-    "name": "Vidin"
+    "name": "Vidin",
+    "regions": [
+      "Vidin"
+    ]
   },
   "VRA": {
-    "name": "Vratsa"
+    "name": "Vratsa",
+    "regions": [
+      "Vratsa"
+    ]
   },
   "YAM": {
-    "name": "Yambol"
+    "name": "Yambol",
+    "regions": [
+      "Yambol"
+    ]
   }
 }

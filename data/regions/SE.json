@@ -1,53 +1,104 @@
 {
   "DAL": {
-    "name": "Dalarna"
+    "name": "Dalarna",
+    "regions": [
+      "Dalarna"
+    ]
   },
   "GAV": {
-    "name": "Gävleborg"
+    "name": "Gävleborg",
+    "regions": [
+      "Gävleborg"
+    ]
   },
   "GOT": {
-    "name": "Gotland"
+    "name": "Gotland",
+    "regions": [
+      "Gotland"
+    ]
   },
   "HAL": {
-    "name": "Halland"
+    "name": "Halland",
+    "regions": [
+      "Halland"
+    ]
   },
   "JON": {
-    "name": "Jönköping"
+    "name": "Jönköping",
+    "regions": [
+      "Jönköping"
+    ]
   },
   "KAL": {
-    "name": "Kalmar"
+    "name": "Kalmar",
+    "regions": [
+      "Kalmar"
+    ]
   },
   "KRO": {
-    "name": "Kronoberg"
+    "name": "Kronoberg",
+    "regions": [
+      "Kronoberg"
+    ]
   },
   "NOR": {
-    "name": "Norrbotten"
+    "name": "Norrbotten",
+    "regions": [
+      "Norrbotten"
+    ]
   },
   "ORE": {
-    "name": "Örebro"
+    "name": "Örebro",
+    "regions": [
+      "Örebro"
+    ]
   },
   "OST": {
-    "name": "Östergötland"
+    "name": "Östergötland",
+    "regions": [
+      "Östergötland"
+    ]
   },
   "SKA": {
-    "name": "Skåne"
+    "name": "Skåne",
+    "regions": [
+      "Skåne"
+    ]
   },
   "SOD": {
-    "name": "Södermanland"
+    "name": "Södermanland",
+    "regions": [
+      "Södermanland"
+    ]
   },
   "STO": {
-    "name": "Stockholm"
+    "name": "Stockholm",
+    "regions": [
+      "Stockholm"
+    ]
   },
   "UPP": {
-    "name": "Uppsala"
+    "name": "Uppsala",
+    "regions": [
+      "Uppsala"
+    ]
   },
   "VAR": {
-    "name": "Värmland"
+    "name": "Värmland",
+    "regions": [
+      "Värmland"
+    ]
   },
   "VAS": {
-    "name": "Västernorrland"
+    "name": "Västernorrland",
+    "regions": [
+      "Västernorrland"
+    ]
   },
   "VASGO": {
-    "name": "Västra Götaland"
+    "name": "Västra Götaland",
+    "regions": [
+      "Västra Götaland"
+    ]
   }
 }

@@ -1,65 +1,128 @@
 {
   "BJE": {
-    "name": "Bjelovar-Bilogora"
+    "name": "Bjelovar-Bilogora",
+    "regions": [
+      "Bjelovar-Bilogora"
+    ]
   },
   "BRO": {
-    "name": " Brod-Posavina"
+    "name": " Brod-Posavina",
+    "regions": [
+      " Brod-Posavina"
+    ]
   },
   "DUB": {
-    "name": "Dubrovnik-Neretva"
+    "name": "Dubrovnik-Neretva",
+    "regions": [
+      "Dubrovnik-Neretva"
+    ]
   },
   "DUB1": {
-    "name": "Dubrovnik-Neretva"
+    "name": "Dubrovnik-Neretva",
+    "regions": [
+      "Dubrovnik-Neretva"
+    ]
   },
   "IST": {
-    "name": "Istria"
+    "name": "Istria",
+    "regions": [
+      "Istria"
+    ]
   },
   "KOP": {
-    "name": "Koprivnica-Križevci"
+    "name": "Koprivnica-Križevci",
+    "regions": [
+      "Koprivnica-Križevci"
+    ]
   },
   "KRA": {
-    "name": "Krapina-Zagorje"
+    "name": "Krapina-Zagorje",
+    "regions": [
+      "Krapina-Zagorje"
+    ]
   },
   "LIK": {
-    "name": "Lika-Senj"
+    "name": "Lika-Senj",
+    "regions": [
+      "Lika-Senj"
+    ]
   },
   "MEI": {
-    "name": "Međimurje"
+    "name": "Međimurje",
+    "regions": [
+      "Međimurje"
+    ]
   },
   "OSI": {
-    "name": "Osijek-Baranja"
+    "name": "Osijek-Baranja",
+    "regions": [
+      "Osijek-Baranja"
+    ]
   },
   "POZ": {
-    "name": "Požega-Slavonia"
+    "name": "Požega-Slavonia",
+    "regions": [
+      "Požega-Slavonia"
+    ]
   },
   "POZ1": {
-    "name": "Požega-Slavonia"
+    "name": "Požega-Slavonia",
+    "regions": [
+      "Požega-Slavonia"
+    ]
   },
   "PRIKO": {
-    "name": "Primorje-Gorski Kotar"
+    "name": "Primorje-Gorski Kotar",
+    "regions": [
+      "Primorje-Gorski Kotar"
+    ]
   },
   "SIB": {
-    "name": "Šibenik-Knin"
+    "name": "Šibenik-Knin",
+    "regions": [
+      "Šibenik-Knin"
+    ]
   },
   "SIS": {
-    "name": "Sisak-Moslavina"
+    "name": "Sisak-Moslavina",
+    "regions": [
+      "Sisak-Moslavina"
+    ]
   },
   "SPL": {
-    "name": "Split-Dalmatia"
+    "name": "Split-Dalmatia",
+    "regions": [
+      "Split-Dalmatia"
+    ]
   },
   "VIR": {
-    "name": "Virovitica-Podravina"
+    "name": "Virovitica-Podravina",
+    "regions": [
+      "Virovitica-Podravina"
+    ]
   },
   "VIR1": {
-    "name": "Virovitica-Podravina"
+    "name": "Virovitica-Podravina",
+    "regions": [
+      "Virovitica-Podravina"
+    ]
   },
   "VUK": {
-    "name": "Vukovar-Srijem"
+    "name": "Vukovar-Srijem",
+    "regions": [
+      "Vukovar-Srijem"
+    ]
   },
   "ZAD": {
-    "name": "Zadar"
+    "name": "Zadar",
+    "regions": [
+      "Zadar"
+    ]
   },
   "ZAG": {
-    "name": "Zagreb"
+    "name": "Zagreb",
+    "regions": [
+      "Zagreb"
+    ]
   }
 }

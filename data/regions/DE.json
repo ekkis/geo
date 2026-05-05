@@ -1,47 +1,92 @@
 {
   "BAY": {
-    "name": "Bayern"
+    "name": "Bayern",
+    "regions": [
+      "Süddeutschland"
+    ]
   },
   "BB": {
-    "name": "Brandenburg"
+    "name": "Brandenburg",
+    "regions": [
+      "Ostdeutschland"
+    ]
   },
   "BE": {
-    "name": "Berlin"
+    "name": "Berlin",
+    "regions": [
+      "Ostdeutschland"
+    ]
   },
   "BW": {
-    "name": "Baden-Württemberg"
+    "name": "Baden-Württemberg",
+    "regions": [
+      "Süddeutschland"
+    ]
   },
   "HB": {
-    "name": "Bremen"
+    "name": "Bremen",
+    "regions": [
+      "Norddeutschland"
+    ]
   },
   "HES": {
-    "name": "Hessen"
+    "name": "Hessen",
+    "regions": [
+      "Westdeutschland"
+    ]
   },
   "HH": {
-    "name": "Hamburg"
+    "name": "Hamburg",
+    "regions": [
+      "Norddeutschland"
+    ]
   },
   "MV": {
-    "name": "Mecklenburg-Vorpommern"
+    "name": "Mecklenburg-Vorpommern",
+    "regions": [
+      "Norddeutschland"
+    ]
   },
   "NIE": {
-    "name": "Niedersachsen"
+    "name": "Niedersachsen",
+    "regions": [
+      "Norddeutschland"
+    ]
   },
   "NOR": {
-    "name": "Nordrhein-Westfalen"
+    "name": "Nordrhein-Westfalen",
+    "regions": [
+      "Westdeutschland"
+    ]
   },
   "RHE": {
-    "name": "Rheinland-Pfalz"
+    "name": "Rheinland-Pfalz",
+    "regions": [
+      "Westdeutschland"
+    ]
   },
   "SAC": {
-    "name": "Sachsen-Anhalt"
+    "name": "Sachsen-Anhalt",
+    "regions": [
+      "Ostdeutschland"
+    ]
   },
   "SH": {
-    "name": "Schleswig-Holstein"
+    "name": "Schleswig-Holstein",
+    "regions": [
+      "Norddeutschland"
+    ]
   },
   "SL": {
-    "name": "Saarland"
+    "name": "Saarland",
+    "regions": [
+      "Westdeutschland"
+    ]
   },
   "THÜ": {
-    "name": "Thüringen"
+    "name": "Thüringen",
+    "regions": [
+      "Ostdeutschland"
+    ]
   }
 }

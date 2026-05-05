@@ -1,5 +1,8 @@
 {
   "SINGAPOR": {
-    "name": "Singapore"
+    "name": "Singapore",
+    "regions": [
+      "Singapore"
+    ]
   }
 }

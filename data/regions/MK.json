@@ -1,209 +1,416 @@
 {
   "AER": {
-    "name": "Aerodrom"
+    "name": "Aerodrom",
+    "regions": [
+      "Aerodrom"
+    ]
   },
   "ARA": {
-    "name": "Aračinovo"
+    "name": "Aračinovo",
+    "regions": [
+      "Aračinovo"
+    ]
   },
   "BER": {
-    "name": "Berovo"
+    "name": "Berovo",
+    "regions": [
+      "Berovo"
+    ]
   },
   "BIT": {
-    "name": "Bitola"
+    "name": "Bitola",
+    "regions": [
+      "Bitola"
+    ]
   },
   "BOG": {
-    "name": "Bogdanci"
+    "name": "Bogdanci",
+    "regions": [
+      "Bogdanci"
+    ]
   },
   "BOG1": {
-    "name": "Bogovinje"
+    "name": "Bogovinje",
+    "regions": [
+      "Bogovinje"
+    ]
   },
   "BOS": {
-    "name": "Bosilovo"
+    "name": "Bosilovo",
+    "regions": [
+      "Bosilovo"
+    ]
   },
   "BRV": {
-    "name": "Brvenica"
+    "name": "Brvenica",
+    "regions": [
+      "Brvenica"
+    ]
   },
   "BUT": {
-    "name": "Butel"
+    "name": "Butel",
+    "regions": [
+      "Butel"
+    ]
   },
   "CAI": {
-    "name": "Čair"
+    "name": "Čair",
+    "regions": [
+      "Čair"
+    ]
   },
   "CAS": {
-    "name": "Čaška"
+    "name": "Čaška",
+    "regions": [
+      "Čaška"
+    ]
   },
   "CEN": {
-    "name": "Centar"
+    "name": "Centar",
+    "regions": [
+      "Centar"
+    ]
   },
   "CENZU": {
-    "name": "Centar Župa"
+    "name": "Centar Župa",
+    "regions": [
+      "Centar Župa"
+    ]
   },
   "CUC": {
-    "name": "Čučer-Sandevo"
+    "name": "Čučer-Sandevo",
+    "regions": [
+      "Čučer-Sandevo"
+    ]
   },
   "DEB": {
-    "name": "Debar"
+    "name": "Debar",
+    "regions": [
+      "Debar"
+    ]
   },
   "DEB1": {
-    "name": "Debarca"
+    "name": "Debarca",
+    "regions": [
+      "Debarca"
+    ]
   },
   "DEL": {
-    "name": "Delčevo"
+    "name": "Delčevo",
+    "regions": [
+      "Delčevo"
+    ]
   },
   "DEMHI": {
-    "name": "Demir Hisar"
+    "name": "Demir Hisar",
+    "regions": [
+      "Demir Hisar"
+    ]
   },
   "DEMKA": {
-    "name": "Demir Kapija"
+    "name": "Demir Kapija",
+    "regions": [
+      "Demir Kapija"
+    ]
   },
   "DOJ": {
-    "name": "Dojran"
+    "name": "Dojran",
+    "regions": [
+      "Dojran"
+    ]
   },
   "DOL": {
-    "name": "Dolneni"
+    "name": "Dolneni",
+    "regions": [
+      "Dolneni"
+    ]
   },
   "DRU": {
-    "name": "Drugovo"
+    "name": "Drugovo",
+    "regions": [
+      "Drugovo"
+    ]
   },
   "GAZBA": {
-    "name": "Gazi Baba"
+    "name": "Gazi Baba",
+    "regions": [
+      "Gazi Baba"
+    ]
   },
   "GEV": {
-    "name": "Gevgelija"
+    "name": "Gevgelija",
+    "regions": [
+      "Gevgelija"
+    ]
   },
   "GJOPE": {
-    "name": "Gjorče Petrov"
+    "name": "Gjorče Petrov",
+    "regions": [
+      "Gjorče Petrov"
+    ]
   },
   "GOS": {
-    "name": "Gostivar"
+    "name": "Gostivar",
+    "regions": [
+      "Gostivar"
+    ]
   },
   "GRA": {
-    "name": "Gradsko"
+    "name": "Gradsko",
+    "regions": [
+      "Gradsko"
+    ]
   },
   "ILI": {
-    "name": "Ilinden"
+    "name": "Ilinden",
+    "regions": [
+      "Ilinden"
+    ]
   },
   "JEG": {
-    "name": "Jegunovce"
+    "name": "Jegunovce",
+    "regions": [
+      "Jegunovce"
+    ]
   },
   "KAR": {
-    "name": "Karbinci"
+    "name": "Karbinci",
+    "regions": [
+      "Karbinci"
+    ]
   },
   "KAV": {
-    "name": "Kavadarci"
+    "name": "Kavadarci",
+    "regions": [
+      "Kavadarci"
+    ]
   },
   "KIC": {
-    "name": "Kičevo"
+    "name": "Kičevo",
+    "regions": [
+      "Kičevo"
+    ]
   },
   "KISVO": {
-    "name": "Kisela Voda"
+    "name": "Kisela Voda",
+    "regions": [
+      "Kisela Voda"
+    ]
   },
   "KOC": {
-    "name": "Kočani"
+    "name": "Kočani",
+    "regions": [
+      "Kočani"
+    ]
   },
   "KON": {
-    "name": "Konče"
+    "name": "Konče",
+    "regions": [
+      "Konče"
+    ]
   },
   "KRA": {
-    "name": "Kratovo"
+    "name": "Kratovo",
+    "regions": [
+      "Kratovo"
+    ]
   },
   "KRIPA": {
-    "name": "Kriva Palanka"
+    "name": "Kriva Palanka",
+    "regions": [
+      "Kriva Palanka"
+    ]
   },
   "KRU": {
-    "name": "Kruševo"
+    "name": "Kruševo",
+    "regions": [
+      "Kruševo"
+    ]
   },
   "KUM": {
-    "name": "Kumanovo"
+    "name": "Kumanovo",
+    "regions": [
+      "Kumanovo"
+    ]
   },
   "LIP": {
-    "name": "Lipkovo"
+    "name": "Lipkovo",
+    "regions": [
+      "Lipkovo"
+    ]
   },
   "MAKBR": {
-    "name": "Makedonski Brod"
+    "name": "Makedonski Brod",
+    "regions": [
+      "Makedonski Brod"
+    ]
   },
   "MAKKA": {
-    "name": "Makedonska Kamenica"
+    "name": "Makedonska Kamenica",
+    "regions": [
+      "Makedonska Kamenica"
+    ]
   },
   "MAVAN": {
-    "name": "Mavrovo and Rostuša"
+    "name": "Mavrovo and Rostuša",
+    "regions": [
+      "Mavrovo and Rostuša"
+    ]
   },
   "MOG": {
-    "name": "Mogila"
+    "name": "Mogila",
+    "regions": [
+      "Mogila"
+    ]
   },
   "NEG": {
-    "name": "Negotino"
+    "name": "Negotino",
+    "regions": [
+      "Negotino"
+    ]
   },
   "NOV": {
-    "name": "Novaci"
+    "name": "Novaci",
+    "regions": [
+      "Novaci"
+    ]
   },
   "NOVSE": {
-    "name": "Novo Selo"
+    "name": "Novo Selo",
+    "regions": [
+      "Novo Selo"
+    ]
   },
   "OHR": {
-    "name": "Ohrid"
+    "name": "Ohrid",
+    "regions": [
+      "Ohrid"
+    ]
   },
   "PEH": {
-    "name": "Pehčevo"
+    "name": "Pehčevo",
+    "regions": [
+      "Pehčevo"
+    ]
   },
   "PET": {
-    "name": "Petrovec"
+    "name": "Petrovec",
+    "regions": [
+      "Petrovec"
+    ]
   },
   "PLA": {
-    "name": "Plasnica"
+    "name": "Plasnica",
+    "regions": [
+      "Plasnica"
+    ]
   },
   "PRI": {
-    "name": "Prilep"
+    "name": "Prilep",
+    "regions": [
+      "Prilep"
+    ]
   },
   "PRO": {
-    "name": "Probištip"
+    "name": "Probištip",
+    "regions": [
+      "Probištip"
+    ]
   },
   "RAD": {
-    "name": "Radoviš"
+    "name": "Radoviš",
+    "regions": [
+      "Radoviš"
+    ]
   },
   "RAN": {
-    "name": "Rankovce"
+    "name": "Rankovce",
+    "regions": [
+      "Rankovce"
+    ]
   },
   "RES": {
-    "name": "Resen"
+    "name": "Resen",
+    "regions": [
+      "Resen"
+    ]
   },
   "ROS": {
-    "name": "Rosoman"
+    "name": "Rosoman",
+    "regions": [
+      "Rosoman"
+    ]
   },
   "SAR": {
-    "name": "Saraj"
+    "name": "Saraj",
+    "regions": [
+      "Saraj"
+    ]
   },
   "SOP": {
-    "name": "Sopište"
+    "name": "Sopište",
+    "regions": [
+      "Sopište"
+    ]
   },
   "STANA": {
-    "name": "Staro Nagoričane"
+    "name": "Staro Nagoričane",
+    "regions": [
+      "Staro Nagoričane"
+    ]
   },
   "STI": {
-    "name": "Štip"
+    "name": "Štip",
+    "regions": [
+      "Štip"
+    ]
   },
   "STR": {
-    "name": "Struga"
+    "name": "Struga",
+    "regions": [
+      "Struga"
+    ]
   },
   "STR1": {
-    "name": "Strumica"
+    "name": "Strumica",
+    "regions": [
+      "Strumica"
+    ]
   },
   "STU": {
-    "name": "Studeničani"
+    "name": "Studeničani",
+    "regions": [
+      "Studeničani"
+    ]
   },
   "TET": {
-    "name": "Tetovo"
+    "name": "Tetovo",
+    "regions": [
+      "Tetovo"
+    ]
   },
   "VAL": {
-    "name": "Valandovo"
+    "name": "Valandovo",
+    "regions": [
+      "Valandovo"
+    ]
   },
   "VAS": {
-    "name": "Vasilevo"
+    "name": "Vasilevo",
+    "regions": [
+      "Vasilevo"
+    ]
   },
   "VEL": {
-    "name": "Veles"
+    "name": "Veles",
+    "regions": [
+      "Veles"
+    ]
   },
   "VRA": {
-    "name": "Vrapčište"
+    "name": "Vrapčište",
+    "regions": [
+      "Vrapčište"
+    ]
   }
 }

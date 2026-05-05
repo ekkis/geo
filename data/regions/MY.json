@@ -1,50 +1,98 @@
 {
   "JOHOR": {
-    "name": "Johor"
+    "name": "Johor",
+    "regions": [
+      "Johor"
+    ]
   },
   "KEDAH": {
-    "name": "Kedah"
+    "name": "Kedah",
+    "regions": [
+      "Kedah"
+    ]
   },
   "KELANTAN": {
-    "name": "Kelantan"
+    "name": "Kelantan",
+    "regions": [
+      "Kelantan"
+    ]
   },
   "KL": {
-    "name": "Kuala Lumpur"
+    "name": "Kuala Lumpur",
+    "regions": [
+      "Kuala Lumpur"
+    ]
   },
   "LABUAN": {
-    "name": "Labuan"
+    "name": "Labuan",
+    "regions": [
+      "Labuan"
+    ]
   },
   "MELAKA": {
-    "name": "Malacca"
+    "name": "Malacca",
+    "regions": [
+      "Malacca"
+    ]
   },
   "NSEM": {
-    "name": "Negeri Sembilan"
+    "name": "Negeri Sembilan",
+    "regions": [
+      "Negeri Sembilan"
+    ]
   },
   "PAHANG": {
-    "name": "Pahang"
+    "name": "Pahang",
+    "regions": [
+      "Pahang"
+    ]
   },
   "PENANG": {
-    "name": "Penang"
+    "name": "Penang",
+    "regions": [
+      "Penang"
+    ]
   },
   "PERAK": {
-    "name": "Perak"
+    "name": "Perak",
+    "regions": [
+      "Perak"
+    ]
   },
   "PERLIS": {
-    "name": "Perlis"
+    "name": "Perlis",
+    "regions": [
+      "Perlis"
+    ]
   },
   "PUTRAJAYA": {
-    "name": "Putrajaya"
+    "name": "Putrajaya",
+    "regions": [
+      "Putrajaya"
+    ]
   },
   "SABAH": {
-    "name": "Sabah"
+    "name": "Sabah",
+    "regions": [
+      "Sabah"
+    ]
   },
   "SARAWAK": {
-    "name": "Sarawak"
+    "name": "Sarawak",
+    "regions": [
+      "Sarawak"
+    ]
   },
   "SELANGOR": {
-    "name": "Selangor"
+    "name": "Selangor",
+    "regions": [
+      "Selangor"
+    ]
   },
   "TERENGGANU": {
-    "name": "Terengganu"
+    "name": "Terengganu",
+    "regions": [
+      "Terengganu"
+    ]
   }
 }

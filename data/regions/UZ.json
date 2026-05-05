@@ -1,41 +1,80 @@
 {
   "ANDI": {
-    "name": "Andijan"
+    "name": "Andijan",
+    "regions": [
+      "Andijan"
+    ]
   },
   "BUKH": {
-    "name": "Bukhara"
+    "name": "Bukhara",
+    "regions": [
+      "Bukhara"
+    ]
   },
   "FERG": {
-    "name": "Fergana"
+    "name": "Fergana",
+    "regions": [
+      "Fergana"
+    ]
   },
   "JIZZ": {
-    "name": "Jizzakh"
+    "name": "Jizzakh",
+    "regions": [
+      "Jizzakh"
+    ]
   },
   "KARA": {
-    "name": "Karakalpakstan"
+    "name": "Karakalpakstan",
+    "regions": [
+      "Karakalpakstan"
+    ]
   },
   "KHOR": {
-    "name": "Khorezm"
+    "name": "Khorezm",
+    "regions": [
+      "Khorezm"
+    ]
   },
   "NAMA": {
-    "name": "Namangan"
+    "name": "Namangan",
+    "regions": [
+      "Namangan"
+    ]
   },
   "NAV": {
-    "name": "Navoiy"
+    "name": "Navoiy",
+    "regions": [
+      "Navoiy"
+    ]
   },
   "QASH": {
-    "name": "Qashqadaryo"
+    "name": "Qashqadaryo",
+    "regions": [
+      "Qashqadaryo"
+    ]
   },
   "SAM": {
-    "name": "Samarkand"
+    "name": "Samarkand",
+    "regions": [
+      "Samarkand"
+    ]
   },
   "SURX": {
-    "name": "Surxondaryo"
+    "name": "Surxondaryo",
+    "regions": [
+      "Surxondaryo"
+    ]
   },
   "SYR": {
-    "name": "Syrdarya"
+    "name": "Syrdarya",
+    "regions": [
+      "Syrdarya"
+    ]
   },
   "TASH": {
-    "name": "Tashkent"
+    "name": "Tashkent",
+    "regions": [
+      "Tashkent"
+    ]
   }
 }

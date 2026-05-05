@@ -1,107 +1,212 @@
 {
   "ANENI": {
-    "name": "Anenii Noi"
+    "name": "Anenii Noi",
+    "regions": [
+      "Anenii Noi"
+    ]
   },
   "BALT": {
-    "name": "Bălți"
+    "name": "Bălți",
+    "regions": [
+      "Bălți"
+    ]
   },
   "BASAR": {
-    "name": "Basarabeasca"
+    "name": "Basarabeasca",
+    "regions": [
+      "Basarabeasca"
+    ]
   },
   "BENDER": {
-    "name": "Bender"
+    "name": "Bender",
+    "regions": [
+      "Bender"
+    ]
   },
   "BRICE": {
-    "name": "Briceni"
+    "name": "Briceni",
+    "regions": [
+      "Briceni"
+    ]
   },
   "CAHUL": {
-    "name": "Cahul"
+    "name": "Cahul",
+    "regions": [
+      "Cahul"
+    ]
   },
   "CALAR": {
-    "name": "Călărași"
+    "name": "Călărași",
+    "regions": [
+      "Călărași"
+    ]
   },
   "CANTEM": {
-    "name": "Cantemir"
+    "name": "Cantemir",
+    "regions": [
+      "Cantemir"
+    ]
   },
   "CAUSEN": {
-    "name": "Căușeni"
+    "name": "Căușeni",
+    "regions": [
+      "Căușeni"
+    ]
   },
   "CHISIN": {
-    "name": "Chișinău"
+    "name": "Chișinău",
+    "regions": [
+      "Chișinău"
+    ]
   },
   "CIMIS": {
-    "name": "Cimișlia"
+    "name": "Cimișlia",
+    "regions": [
+      "Cimișlia"
+    ]
   },
   "CRIUL": {
-    "name": "Criuleni"
+    "name": "Criuleni",
+    "regions": [
+      "Criuleni"
+    ]
   },
   "DONDU": {
-    "name": "Dondușeni"
+    "name": "Dondușeni",
+    "regions": [
+      "Dondușeni"
+    ]
   },
   "DROCH": {
-    "name": "Drochia"
+    "name": "Drochia",
+    "regions": [
+      "Drochia"
+    ]
   },
   "DUBAS": {
-    "name": "Dubăsari"
+    "name": "Dubăsari",
+    "regions": [
+      "Dubăsari"
+    ]
   },
   "EDINE": {
-    "name": "Edineț"
+    "name": "Edineț",
+    "regions": [
+      "Edineț"
+    ]
   },
   "FALEST": {
-    "name": "Fălești"
+    "name": "Fălești",
+    "regions": [
+      "Fălești"
+    ]
   },
   "FLORE": {
-    "name": "Florești"
+    "name": "Florești",
+    "regions": [
+      "Florești"
+    ]
   },
   "GAGAU": {
-    "name": "Gagauzia"
+    "name": "Gagauzia",
+    "regions": [
+      "Gagauzia"
+    ]
   },
   "GLoden": {
-    "name": "Glodeni"
+    "name": "Glodeni",
+    "regions": [
+      "Glodeni"
+    ]
   },
   "HINC": {
-    "name": "Hîncești"
+    "name": "Hîncești",
+    "regions": [
+      "Hîncești"
+    ]
   },
   "IALOV": {
-    "name": "Ialoveni"
+    "name": "Ialoveni",
+    "regions": [
+      "Ialoveni"
+    ]
   },
   "LEOVA": {
-    "name": "Leova"
+    "name": "Leova",
+    "regions": [
+      "Leova"
+    ]
   },
   "NISPO": {
-    "name": "Nisporeni"
+    "name": "Nisporeni",
+    "regions": [
+      "Nisporeni"
+    ]
   },
   "OCNIT": {
-    "name": "Ocnița"
+    "name": "Ocnița",
+    "regions": [
+      "Ocnița"
+    ]
   },
   "ORHEI": {
-    "name": "Orhei"
+    "name": "Orhei",
+    "regions": [
+      "Orhei"
+    ]
   },
   "REZIN": {
-    "name": "Rezina"
+    "name": "Rezina",
+    "regions": [
+      "Rezina"
+    ]
   },
   "RISC": {
-    "name": "Rîșcani"
+    "name": "Rîșcani",
+    "regions": [
+      "Rîșcani"
+    ]
   },
   "SING": {
-    "name": "Sîngerei"
+    "name": "Sîngerei",
+    "regions": [
+      "Sîngerei"
+    ]
   },
   "SOROC": {
-    "name": "Soroca"
+    "name": "Soroca",
+    "regions": [
+      "Soroca"
+    ]
   },
   "STIR": {
-    "name": "Stîrcea"
+    "name": "Stîrcea",
+    "regions": [
+      "Stîrcea"
+    ]
   },
   "STRAS": {
-    "name": "Strășeni"
+    "name": "Strășeni",
+    "regions": [
+      "Strășeni"
+    ]
   },
   "TELEN": {
-    "name": "Telenești"
+    "name": "Telenești",
+    "regions": [
+      "Telenești"
+    ]
   },
   "TRANS": {
-    "name": "Transnistria"
+    "name": "Transnistria",
+    "regions": [
+      "Transnistria"
+    ]
   },
   "UNGHE": {
-    "name": "Ungheni"
+    "name": "Ungheni",
+    "regions": [
+      "Ungheni"
+    ]
   }
 }

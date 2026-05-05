@@ -1,47 +1,92 @@
 {
   "HAR": {
-    "name": "Harju"
+    "name": "Harju",
+    "regions": [
+      "Harju"
+    ]
   },
   "HII": {
-    "name": "Hiiu"
+    "name": "Hiiu",
+    "regions": [
+      "Hiiu"
+    ]
   },
   "IDA": {
-    "name": "Ida-Viru"
+    "name": "Ida-Viru",
+    "regions": [
+      "Ida-Viru"
+    ]
   },
   "JAR": {
-    "name": "Järva"
+    "name": "Järva",
+    "regions": [
+      "Järva"
+    ]
   },
   "JOG": {
-    "name": "Jõgeva"
+    "name": "Jõgeva",
+    "regions": [
+      "Jõgeva"
+    ]
   },
   "LAA": {
-    "name": "Lääne"
+    "name": "Lääne",
+    "regions": [
+      "Lääne"
+    ]
   },
   "LAA1": {
-    "name": "Lääne-Viru"
+    "name": "Lääne-Viru",
+    "regions": [
+      "Lääne-Viru"
+    ]
   },
   "PAR": {
-    "name": "Pärnu"
+    "name": "Pärnu",
+    "regions": [
+      "Pärnu"
+    ]
   },
   "POL": {
-    "name": "Põlva"
+    "name": "Põlva",
+    "regions": [
+      "Põlva"
+    ]
   },
   "RAP": {
-    "name": "Rapla"
+    "name": "Rapla",
+    "regions": [
+      "Rapla"
+    ]
   },
   "SAA": {
-    "name": "Saare"
+    "name": "Saare",
+    "regions": [
+      "Saare"
+    ]
   },
   "TAR": {
-    "name": "Tartu"
+    "name": "Tartu",
+    "regions": [
+      "Tartu"
+    ]
   },
   "VAL": {
-    "name": "Valga"
+    "name": "Valga",
+    "regions": [
+      "Valga"
+    ]
   },
   "VIL": {
-    "name": "Viljandi"
+    "name": "Viljandi",
+    "regions": [
+      "Viljandi"
+    ]
   },
   "VOR": {
-    "name": "Võru"
+    "name": "Võru",
+    "regions": [
+      "Võru"
+    ]
   }
 }

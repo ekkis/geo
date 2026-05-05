@@ -1,59 +1,116 @@
 {
   "BAC": {
-    "name": "Bács-Kiskun"
+    "name": "Bács-Kiskun",
+    "regions": [
+      "Bács-Kiskun"
+    ]
   },
   "BAR": {
-    "name": "Baranya"
+    "name": "Baranya",
+    "regions": [
+      "Baranya"
+    ]
   },
   "BEK": {
-    "name": "Békés"
+    "name": "Békés",
+    "regions": [
+      "Békés"
+    ]
   },
   "BOR": {
-    "name": "Borsod-Abaúj-Zemplén"
+    "name": "Borsod-Abaúj-Zemplén",
+    "regions": [
+      "Borsod-Abaúj-Zemplén"
+    ]
   },
   "BUD": {
-    "name": "Budapest"
+    "name": "Budapest",
+    "regions": [
+      "Budapest"
+    ]
   },
   "FEJ": {
-    "name": "Fejér"
+    "name": "Fejér",
+    "regions": [
+      "Fejér"
+    ]
   },
   "GYO": {
-    "name": "Győr-Moson-Sopron"
+    "name": "Győr-Moson-Sopron",
+    "regions": [
+      "Győr-Moson-Sopron"
+    ]
   },
   "HAJ": {
-    "name": "Hajdú-Bihar"
+    "name": "Hajdú-Bihar",
+    "regions": [
+      "Hajdú-Bihar"
+    ]
   },
   "HEV": {
-    "name": "Heves"
+    "name": "Heves",
+    "regions": [
+      "Heves"
+    ]
   },
   "JAS": {
-    "name": "Jász-Nagykun-Szolnok"
+    "name": "Jász-Nagykun-Szolnok",
+    "regions": [
+      "Jász-Nagykun-Szolnok"
+    ]
   },
   "KOM": {
-    "name": "Komárom-Esztergom"
+    "name": "Komárom-Esztergom",
+    "regions": [
+      "Komárom-Esztergom"
+    ]
   },
   "NOG": {
-    "name": "Nógrád"
+    "name": "Nógrád",
+    "regions": [
+      "Nógrád"
+    ]
   },
   "PES": {
-    "name": "Pest"
+    "name": "Pest",
+    "regions": [
+      "Pest"
+    ]
   },
   "SOM": {
-    "name": "Somogy"
+    "name": "Somogy",
+    "regions": [
+      "Somogy"
+    ]
   },
   "SZA": {
-    "name": "Szabolcs-Szatmár-Bereg"
+    "name": "Szabolcs-Szatmár-Bereg",
+    "regions": [
+      "Szabolcs-Szatmár-Bereg"
+    ]
   },
   "TOL": {
-    "name": "Tolna"
+    "name": "Tolna",
+    "regions": [
+      "Tolna"
+    ]
   },
   "VAS": {
-    "name": "Vas"
+    "name": "Vas",
+    "regions": [
+      "Vas"
+    ]
   },
   "VES": {
-    "name": "Veszprém"
+    "name": "Veszprém",
+    "regions": [
+      "Veszprém"
+    ]
   },
   "ZAL": {
-    "name": "Zala"
+    "name": "Zala",
+    "regions": [
+      "Zala"
+    ]
   }
 }

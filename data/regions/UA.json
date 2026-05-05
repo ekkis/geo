@@ -1,83 +1,164 @@
 {
   "CHER": {
-    "name": "Cherkasy Oblast"
+    "name": "Cherkasy Oblast",
+    "regions": [
+      "Cherkasy Oblast"
+    ]
   },
   "CHERN": {
-    "name": "Chernihiv Oblast"
+    "name": "Chernihiv Oblast",
+    "regions": [
+      "Chernihiv Oblast"
+    ]
   },
   "CHERV": {
-    "name": "Chernivtsi Oblast"
+    "name": "Chernivtsi Oblast",
+    "regions": [
+      "Chernivtsi Oblast"
+    ]
   },
   "CRIME": {
-    "name": "Autonomous Republic of Crimea"
+    "name": "Autonomous Republic of Crimea",
+    "regions": [
+      "Autonomous Republic of Crimea"
+    ]
   },
   "DNIPR": {
-    "name": "Dnipropetrovsk Oblast"
+    "name": "Dnipropetrovsk Oblast",
+    "regions": [
+      "Dnipropetrovsk Oblast"
+    ]
   },
   "DONET": {
-    "name": "Donetsk Oblast"
+    "name": "Donetsk Oblast",
+    "regions": [
+      "Donetsk Oblast"
+    ]
   },
   "IVANO": {
-    "name": "Ivano-Frankivsk Oblast"
+    "name": "Ivano-Frankivsk Oblast",
+    "regions": [
+      "Ivano-Frankivsk Oblast"
+    ]
   },
   "KHARK": {
-    "name": "Kharkiv Oblast"
+    "name": "Kharkiv Oblast",
+    "regions": [
+      "Kharkiv Oblast"
+    ]
   },
   "KHERS": {
-    "name": "Kherson Oblast"
+    "name": "Kherson Oblast",
+    "regions": [
+      "Kherson Oblast"
+    ]
   },
   "KHMLT": {
-    "name": "Khmelnytskyi Oblast"
+    "name": "Khmelnytskyi Oblast",
+    "regions": [
+      "Khmelnytskyi Oblast"
+    ]
   },
   "KIEV": {
-    "name": "Kiev Oblast"
+    "name": "Kiev Oblast",
+    "regions": [
+      "Kiev Oblast"
+    ]
   },
   "KIEV-CITY": {
-    "name": "Kiev"
+    "name": "Kiev",
+    "regions": [
+      "Kiev"
+    ]
   },
   "KIRO": {
-    "name": "Kirovohrad Oblast"
+    "name": "Kirovohrad Oblast",
+    "regions": [
+      "Kirovohrad Oblast"
+    ]
   },
   "LUHAN": {
-    "name": "Luhansk Oblast"
+    "name": "Luhansk Oblast",
+    "regions": [
+      "Luhansk Oblast"
+    ]
   },
   "LVIV": {
-    "name": "Lviv Oblast"
+    "name": "Lviv Oblast",
+    "regions": [
+      "Lviv Oblast"
+    ]
   },
   "MYKO": {
-    "name": "Mykolaiv Oblast"
+    "name": "Mykolaiv Oblast",
+    "regions": [
+      "Mykolaiv Oblast"
+    ]
   },
   "ODESS": {
-    "name": "Odessa Oblast"
+    "name": "Odessa Oblast",
+    "regions": [
+      "Odessa Oblast"
+    ]
   },
   "POLTA": {
-    "name": "Poltava Oblast"
+    "name": "Poltava Oblast",
+    "regions": [
+      "Poltava Oblast"
+    ]
   },
   "RIVN": {
-    "name": "Rivne Oblast"
+    "name": "Rivne Oblast",
+    "regions": [
+      "Rivne Oblast"
+    ]
   },
   "SEVAS": {
-    "name": "Sevastopol"
+    "name": "Sevastopol",
+    "regions": [
+      "Sevastopol"
+    ]
   },
   "SUMY": {
-    "name": "Sumy Oblast"
+    "name": "Sumy Oblast",
+    "regions": [
+      "Sumy Oblast"
+    ]
   },
   "TERN": {
-    "name": "Ternopil Oblast"
+    "name": "Ternopil Oblast",
+    "regions": [
+      "Ternopil Oblast"
+    ]
   },
   "VINNY": {
-    "name": "Vinnytsia Oblast"
+    "name": "Vinnytsia Oblast",
+    "regions": [
+      "Vinnytsia Oblast"
+    ]
   },
   "VOLYN": {
-    "name": "Volyn Oblast"
+    "name": "Volyn Oblast",
+    "regions": [
+      "Volyn Oblast"
+    ]
   },
   "ZAKAR": {
-    "name": "Zakarpattia Oblast"
+    "name": "Zakarpattia Oblast",
+    "regions": [
+      "Zakarpattia Oblast"
+    ]
   },
   "ZAPOR": {
-    "name": "Zaporizhzhia Oblast"
+    "name": "Zaporizhzhia Oblast",
+    "regions": [
+      "Zaporizhzhia Oblast"
+    ]
   },
   "ZHYTO": {
-    "name": "Zhytomyr Oblast"
+    "name": "Zhytomyr Oblast",
+    "regions": [
+      "Zhytomyr Oblast"
+    ]
   }
 }

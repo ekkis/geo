@@ -1,47 +1,92 @@
 {
   "AYEYAR": {
-    "name": "Ayeyarwady"
+    "name": "Ayeyarwady",
+    "regions": [
+      "Ayeyarwady"
+    ]
   },
   "BAGO": {
-    "name": "Bago"
+    "name": "Bago",
+    "regions": [
+      "Bago"
+    ]
   },
   "CHIN": {
-    "name": "Chin"
+    "name": "Chin",
+    "regions": [
+      "Chin"
+    ]
   },
   "KACHIN": {
-    "name": "Kachin"
+    "name": "Kachin",
+    "regions": [
+      "Kachin"
+    ]
   },
   "KAYAH": {
-    "name": "Kayah"
+    "name": "Kayah",
+    "regions": [
+      "Kayah"
+    ]
   },
   "KAYIN": {
-    "name": "Kayin"
+    "name": "Kayin",
+    "regions": [
+      "Kayin"
+    ]
   },
   "MAGWAY": {
-    "name": "Magway"
+    "name": "Magway",
+    "regions": [
+      "Magway"
+    ]
   },
   "MANDALAY": {
-    "name": "Mandalay"
+    "name": "Mandalay",
+    "regions": [
+      "Mandalay"
+    ]
   },
   "MON": {
-    "name": "Mon"
+    "name": "Mon",
+    "regions": [
+      "Mon"
+    ]
   },
   "NAYPYID": {
-    "name": "Naypyidaw"
+    "name": "Naypyidaw",
+    "regions": [
+      "Naypyidaw"
+    ]
   },
   "RAKHINE": {
-    "name": "Rakhine"
+    "name": "Rakhine",
+    "regions": [
+      "Rakhine"
+    ]
   },
   "SAGAING": {
-    "name": "Sagaing"
+    "name": "Sagaing",
+    "regions": [
+      "Sagaing"
+    ]
   },
   "SHAN": {
-    "name": "Shan"
+    "name": "Shan",
+    "regions": [
+      "Shan"
+    ]
   },
   "TANINTH": {
-    "name": "Tanintharyi"
+    "name": "Tanintharyi",
+    "regions": [
+      "Tanintharyi"
+    ]
   },
   "YANGON": {
-    "name": "Yangon"
+    "name": "Yangon",
+    "regions": [
+      "Yangon"
+    ]
   }
 }

@@ -1,23 +1,44 @@
 {
   "ANDORRA": {
-    "name": "Andorra la Vella"
+    "name": "Andorra la Vella",
+    "regions": [
+      "Andorra la Vella"
+    ]
   },
   "CANILLO": {
-    "name": "Canillo"
+    "name": "Canillo",
+    "regions": [
+      "Canillo"
+    ]
   },
   "ENCAMP": {
-    "name": "Encamp"
+    "name": "Encamp",
+    "regions": [
+      "Encamp"
+    ]
   },
   "ESCALD": {
-    "name": "Escaldes-Engordany"
+    "name": "Escaldes-Engordany",
+    "regions": [
+      "Escaldes-Engordany"
+    ]
   },
   "MASSANA": {
-    "name": "La Massana"
+    "name": "La Massana",
+    "regions": [
+      "La Massana"
+    ]
   },
   "ORDINO": {
-    "name": "Ordino"
+    "name": "Ordino",
+    "regions": [
+      "Ordino"
+    ]
   },
   "SANTJULIA": {
-    "name": "Sant Julià de Lòria"
+    "name": "Sant Julià de Lòria",
+    "regions": [
+      "Sant Julià de Lòria"
+    ]
   }
 }

@@ -1,23 +1,44 @@
 {
   "FERIZAJ": {
-    "name": "Ferizaj"
+    "name": "Ferizaj",
+    "regions": [
+      "Ferizaj"
+    ]
   },
   "GJAKOVA": {
-    "name": "Gjakova"
+    "name": "Gjakova",
+    "regions": [
+      "Gjakova"
+    ]
   },
   "GJILAN": {
-    "name": "Gjilan"
+    "name": "Gjilan",
+    "regions": [
+      "Gjilan"
+    ]
   },
   "MITROVICA": {
-    "name": "Mitrovica"
+    "name": "Mitrovica",
+    "regions": [
+      "Mitrovica"
+    ]
   },
   "PEJA": {
-    "name": "Peja"
+    "name": "Peja",
+    "regions": [
+      "Peja"
+    ]
   },
   "PRISTINA": {
-    "name": "Pristina"
+    "name": "Pristina",
+    "regions": [
+      "Pristina"
+    ]
   },
   "PRIZREN": {
-    "name": "Prizren"
+    "name": "Prizren",
+    "regions": [
+      "Prizren"
+    ]
   }
 }

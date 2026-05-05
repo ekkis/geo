@@ -1,152 +1,302 @@
 {
   "AC": {
-    "name": "Antártica Chilena"
+    "name": "Antártica Chilena",
+    "regions": [
+      "CL"
+    ]
   },
   "AIS": {
-    "name": "Aisén"
+    "name": "Aisén",
+    "regions": [
+      "CL"
+    ]
   },
   "ANT": {
-    "name": "Antofagasta"
+    "name": "Antofagasta",
+    "regions": [
+      "CL"
+    ]
   },
   "ARA": {
-    "name": "Arauco"
+    "name": "Arauco",
+    "regions": [
+      "CL"
+    ]
   },
   "ARI": {
-    "name": "Arica"
+    "name": "Arica",
+    "regions": [
+      "CL"
+    ]
   },
   "BIO": {
-    "name": "Biobío"
+    "name": "Biobío",
+    "regions": [
+      "CL"
+    ]
   },
   "CAC": {
-    "name": "Cachapoal"
+    "name": "Cachapoal",
+    "regions": [
+      "CL"
+    ]
   },
   "CAU": {
-    "name": "Cautin"
+    "name": "Cautin",
+    "regions": [
+      "CL"
+    ]
   },
   "CC": {
-    "name": "Cardenal Caro"
+    "name": "Cardenal Caro",
+    "regions": [
+      "CL"
+    ]
   },
   "CHA": {
-    "name": "Chacabuco"
+    "name": "Chacabuco",
+    "regions": [
+      "CL"
+    ]
   },
   "CHI": {
-    "name": "Chiloe"
+    "name": "Chiloe",
+    "regions": [
+      "CL"
+    ]
   },
   "CHO": {
-    "name": "Choapa"
+    "name": "Choapa",
+    "regions": [
+      "CL"
+    ]
   },
   "COI": {
-    "name": "Coihaique"
+    "name": "Coihaique",
+    "regions": [
+      "CL"
+    ]
   },
   "COL": {
-    "name": "Colchagua"
+    "name": "Colchagua",
+    "regions": [
+      "CL"
+    ]
   },
   "CON": {
-    "name": "Concepción"
+    "name": "Concepción",
+    "regions": [
+      "CL"
+    ]
   },
   "COP": {
-    "name": "Copiapó"
+    "name": "Copiapó",
+    "regions": [
+      "CL"
+    ]
   },
   "COR": {
-    "name": "Cordillera"
+    "name": "Cordillera",
+    "regions": [
+      "CL"
+    ]
   },
   "CP": {
-    "name": "Capitan Prat"
+    "name": "Capitan Prat",
+    "regions": [
+      "CL"
+    ]
   },
   "CUR": {
-    "name": "Curicó"
+    "name": "Curicó",
+    "regions": [
+      "CL"
+    ]
   },
   "EL": {
-    "name": "El Loa"
+    "name": "El Loa",
+    "regions": [
+      "CL"
+    ]
   },
   "ELQ": {
-    "name": "Elqui"
+    "name": "Elqui",
+    "regions": [
+      "CL"
+    ]
   },
   "GC": {
-    "name": "General Carrera"
+    "name": "General Carrera",
+    "regions": [
+      "CL"
+    ]
   },
   "HUA": {
-    "name": "Huasco"
+    "name": "Huasco",
+    "regions": [
+      "CL"
+    ]
   },
   "ID": {
-    "name": "Isla de Pascua"
+    "name": "Isla de Pascua",
+    "regions": [
+      "CL"
+    ]
   },
   "IQU": {
-    "name": "Iquique"
+    "name": "Iquique",
+    "regions": [
+      "CL"
+    ]
   },
   "LA": {
-    "name": "Los Andes"
+    "name": "Los Andes",
+    "regions": [
+      "CL"
+    ]
   },
   "LIM": {
-    "name": "Limarí"
+    "name": "Limarí",
+    "regions": [
+      "CL"
+    ]
   },
   "LIN": {
-    "name": "Linares"
+    "name": "Linares",
+    "regions": [
+      "CL"
+    ]
   },
   "LLA": {
-    "name": "Llanquihue"
+    "name": "Llanquihue",
+    "regions": [
+      "CL"
+    ]
   },
   "MAG": {
-    "name": "Magallanes"
+    "name": "Magallanes",
+    "regions": [
+      "CL"
+    ]
   },
   "MAI": {
-    "name": "Maipo"
+    "name": "Maipo",
+    "regions": [
+      "CL"
+    ]
   },
   "MAL": {
-    "name": "Malleco"
+    "name": "Malleco",
+    "regions": [
+      "CL"
+    ]
   },
   "MEL": {
-    "name": "Melipilla"
+    "name": "Melipilla",
+    "regions": [
+      "CL"
+    ]
   },
   "MM": {
-    "name": "Marga Marga"
+    "name": "Marga Marga",
+    "regions": [
+      "CL"
+    ]
   },
   "OSO": {
-    "name": "Osorno"
+    "name": "Osorno",
+    "regions": [
+      "CL"
+    ]
   },
   "PAL": {
-    "name": "Palena"
+    "name": "Palena",
+    "regions": [
+      "CL"
+    ]
   },
   "PAR": {
-    "name": "Parinacota"
+    "name": "Parinacota",
+    "regions": [
+      "CL"
+    ]
   },
   "PET": {
-    "name": "Petorca"
+    "name": "Petorca",
+    "regions": [
+      "CL"
+    ]
   },
   "QUI": {
-    "name": "Quillota"
+    "name": "Quillota",
+    "regions": [
+      "CL"
+    ]
   },
   "RAN": {
-    "name": "Ranco"
+    "name": "Ranco",
+    "regions": [
+      "CL"
+    ]
   },
   "SA": {
-    "name": "San Antonio"
+    "name": "San Antonio",
+    "regions": [
+      "CL"
+    ]
   },
   "SAN": {
-    "name": "Santiago"
+    "name": "Santiago",
+    "regions": [
+      "CL"
+    ]
   },
   "SF": {
-    "name": "San Felipe de Aconcagua"
+    "name": "San Felipe de Aconcagua",
+    "regions": [
+      "CL"
+    ]
   },
   "TAL": {
-    "name": "Talagante"
+    "name": "Talagante",
+    "regions": [
+      "CL"
+    ]
   },
   "TAM": {
-    "name": "Tamarugal"
+    "name": "Tamarugal",
+    "regions": [
+      "CL"
+    ]
   },
   "TD": {
-    "name": "Tierra del Fuego"
+    "name": "Tierra del Fuego",
+    "regions": [
+      "CL"
+    ]
   },
   "TOC": {
-    "name": "Tocopilla"
+    "name": "Tocopilla",
+    "regions": [
+      "CL"
+    ]
   },
   "UE": {
-    "name": "Ultima Esperanza"
+    "name": "Ultima Esperanza",
+    "regions": [
+      "CL"
+    ]
   },
   "VAL": {
-    "name": "Valdivia"
+    "name": "Valdivia",
+    "regions": [
+      "CL"
+    ]
   },
   "ÑUB": {
-    "name": "Ñuble"
+    "name": "Ñuble",
+    "regions": [
+      "CL"
+    ]
   }
 }

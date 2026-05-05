@@ -1,74 +1,143 @@
 {
   "BA": {
-    "name": "Buenos Aires"
+    "name": "Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ]
   },
   "CA": {
-    "name": "Ciudad Autónoma de Buenos Aires"
+    "name": "Ciudad Autónoma de Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ]
   },
   "CAT": {
-    "name": "Catamarca"
+    "name": "Catamarca",
+    "regions": [
+      "Northwest"
+    ]
   },
   "CHA": {
-    "name": "Chaco"
+    "name": "Chaco",
+    "regions": [
+      "Northeast"
+    ]
   },
   "CHU": {
-    "name": "Chubut"
+    "name": "Chubut",
+    "regions": [
+      "Patagonia"
+    ]
   },
   "COR": {
-    "name": "Corrientes"
+    "name": "Corrientes",
+    "regions": [
+      "Northeast"
+    ]
   },
   "CÓR": {
-    "name": "Córdoba"
+    "name": "Córdoba",
+    "regions": [
+      "Pampas"
+    ]
   },
   "ER": {
-    "name": "Entre Ríos"
+    "name": "Entre Ríos",
+    "regions": [
+      "Northeast"
+    ]
   },
   "FOR": {
-    "name": "Formosa"
+    "name": "Formosa",
+    "regions": [
+      "Northeast"
+    ]
   },
   "JUJ": {
-    "name": "Jujuy"
+    "name": "Jujuy",
+    "regions": [
+      "Northwest"
+    ]
   },
   "LP": {
-    "name": "La Pampa"
+    "name": "La Pampa",
+    "regions": [
+      "Patagonia"
+    ]
   },
   "LR": {
-    "name": "La Rioja"
+    "name": "La Rioja",
+    "regions": [
+      "Cuyo"
+    ]
   },
   "MEN": {
-    "name": "Mendoza"
+    "name": "Mendoza",
+    "regions": [
+      "Cuyo"
+    ]
   },
   "MIS": {
-    "name": "Misiones"
+    "name": "Misiones",
+    "regions": [
+      "Northeast"
+    ]
   },
   "NEU": {
-    "name": "Neuquén"
+    "name": "Neuquén",
+    "regions": [
+      "Patagonia"
+    ]
   },
   "RN": {
-    "name": "Río Negro"
+    "name": "Río Negro",
+    "regions": [
+      "Patagonia"
+    ]
   },
   "SAL": {
-    "name": "Salta"
+    "name": "Salta",
+    "regions": [
+      "Northwest"
+    ]
   },
   "SC": {
-    "name": "Santa Cruz"
+    "name": "Santa Cruz",
+    "regions": [
+      "Patagonia"
+    ]
   },
   "SD": {
-    "name": "Santiago del Estero"
+    "name": "Santiago del Estero",
+    "regions": [
+      "Northwest"
+    ]
   },
   "SF": {
-    "name": "Santa Fe"
+    "name": "Santa Fe",
+    "regions": [
+      "Pampas"
+    ]
   },
   "SJ": {
-    "name": "San Juan"
+    "name": "San Juan",
+    "regions": [
+      "Cuyo"
+    ]
   },
   "SL": {
-    "name": "San Luis"
+    "name": "San Luis",
+    "regions": [
+      "Cuyo"
+    ]
   },
   "TD": {
     "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
   },
   "TUC": {
-    "name": "Tucumán"
+    "name": "Tucumán",
+    "regions": [
+      "Northwest"
+    ]
   }
 }

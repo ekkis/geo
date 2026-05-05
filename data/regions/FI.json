@@ -1,50 +1,98 @@
 {
   "ALA": {
-    "name": "Åland"
+    "name": "Åland",
+    "regions": [
+      "Åland"
+    ]
   },
   "CENFI": {
-    "name": "Central Finland"
+    "name": "Central Finland",
+    "regions": [
+      "Central Finland"
+    ]
   },
   "CENOS": {
-    "name": "Central Ostrobothnia"
+    "name": "Central Ostrobothnia",
+    "regions": [
+      "Central Ostrobothnia"
+    ]
   },
   "CENSA": {
-    "name": "Central Savo"
+    "name": "Central Savo",
+    "regions": [
+      "Central Savo"
+    ]
   },
   "KYM": {
-    "name": "Kymenlaakso"
+    "name": "Kymenlaakso",
+    "regions": [
+      "Kymenlaakso"
+    ]
   },
   "LAP": {
-    "name": "Lapland"
+    "name": "Lapland",
+    "regions": [
+      "Lapland"
+    ]
   },
   "NORKA": {
-    "name": "North Karelia"
+    "name": "North Karelia",
+    "regions": [
+      "North Karelia"
+    ]
   },
   "NOROS": {
-    "name": "Northern Ostrobothnia"
+    "name": "Northern Ostrobothnia",
+    "regions": [
+      "Northern Ostrobothnia"
+    ]
   },
   "OST": {
-    "name": "Ostrobothnia"
+    "name": "Ostrobothnia",
+    "regions": [
+      "Ostrobothnia"
+    ]
   },
   "PAI": {
-    "name": "Päijät-Häme"
+    "name": "Päijät-Häme",
+    "regions": [
+      "Päijät-Häme"
+    ]
   },
   "PIR": {
-    "name": "Pirkanmaa"
+    "name": "Pirkanmaa",
+    "regions": [
+      "Pirkanmaa"
+    ]
   },
   "SAT": {
-    "name": "Satakunta"
+    "name": "Satakunta",
+    "regions": [
+      "Satakunta"
+    ]
   },
   "SOUFI": {
-    "name": "Southwest Finland"
+    "name": "Southwest Finland",
+    "regions": [
+      "Southwest Finland"
+    ]
   },
   "SOUKA": {
-    "name": "South Karelia"
+    "name": "South Karelia",
+    "regions": [
+      "South Karelia"
+    ]
   },
   "SOUSA": {
-    "name": "South Savo"
+    "name": "South Savo",
+    "regions": [
+      "South Savo"
+    ]
   },
   "UUS": {
-    "name": "Uusimaa"
+    "name": "Uusimaa",
+    "regions": [
+      "Uusimaa"
+    ]
   }
 }

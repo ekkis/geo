@@ -1,32 +1,62 @@
 {
   "ALY": {
-    "name": "Alytus"
+    "name": "Alytus",
+    "regions": [
+      "Alytus"
+    ]
   },
   "KAU": {
-    "name": "Kaunas"
+    "name": "Kaunas",
+    "regions": [
+      "Kaunas"
+    ]
   },
   "KLA": {
-    "name": "Klaipėda"
+    "name": "Klaipėda",
+    "regions": [
+      "Klaipėda"
+    ]
   },
   "MAR": {
-    "name": "Marijampolė"
+    "name": "Marijampolė",
+    "regions": [
+      "Marijampolė"
+    ]
   },
   "PAN": {
-    "name": "Panevėžys"
+    "name": "Panevėžys",
+    "regions": [
+      "Panevėžys"
+    ]
   },
   "SIA": {
-    "name": "Šiauliai"
+    "name": "Šiauliai",
+    "regions": [
+      "Šiauliai"
+    ]
   },
   "TAU": {
-    "name": "Tauragė"
+    "name": "Tauragė",
+    "regions": [
+      "Tauragė"
+    ]
   },
   "TEL": {
-    "name": "Telšiai"
+    "name": "Telšiai",
+    "regions": [
+      "Telšiai"
+    ]
   },
   "UTE": {
-    "name": "Utena"
+    "name": "Utena",
+    "regions": [
+      "Utena"
+    ]
   },
   "VIL": {
-    "name": "Vilnius"
+    "name": "Vilnius",
+    "regions": [
+      "Vilnius"
+    ]
   }
 }

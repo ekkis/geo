@@ -1,224 +1,446 @@
 {
   "AMNATCHA": {
-    "name": "Amnat Charoen"
+    "name": "Amnat Charoen",
+    "regions": [
+      "Amnat Charoen"
+    ]
   },
   "ANGTHONG": {
-    "name": "Ang Thong"
+    "name": "Ang Thong",
+    "regions": [
+      "Ang Thong"
+    ]
   },
   "BANGKOK": {
-    "name": "Bangkok"
+    "name": "Bangkok",
+    "regions": [
+      "Bangkok"
+    ]
   },
   "BUENGKAN": {
-    "name": "Bueng Kan"
+    "name": "Bueng Kan",
+    "regions": [
+      "Bueng Kan"
+    ]
   },
   "CHAINAT": {
-    "name": "Chai Nat"
+    "name": "Chai Nat",
+    "regions": [
+      "Chai Nat"
+    ]
   },
   "CHAIYAPH": {
-    "name": "Chaiyaphum"
+    "name": "Chaiyaphum",
+    "regions": [
+      "Chaiyaphum"
+    ]
   },
   "CHANTHAB": {
-    "name": "Chanthaburi"
+    "name": "Chanthaburi",
+    "regions": [
+      "Chanthaburi"
+    ]
   },
   "CHIANGMA": {
-    "name": "Chiang Mai"
+    "name": "Chiang Mai",
+    "regions": [
+      "Chiang Mai"
+    ]
   },
   "CHIANGRA": {
-    "name": "Chiang Rai"
+    "name": "Chiang Rai",
+    "regions": [
+      "Chiang Rai"
+    ]
   },
   "CHONBURI": {
-    "name": "Chonburi"
+    "name": "Chonburi",
+    "regions": [
+      "Chonburi"
+    ]
   },
   "CHUMPHON": {
-    "name": "Chumphon"
+    "name": "Chumphon",
+    "regions": [
+      "Chumphon"
+    ]
   },
   "KALASIN": {
-    "name": "Kalasin"
+    "name": "Kalasin",
+    "regions": [
+      "Kalasin"
+    ]
   },
   "KAMPHAEN": {
-    "name": "Kamphaeng Phet"
+    "name": "Kamphaeng Phet",
+    "regions": [
+      "Kamphaeng Phet"
+    ]
   },
   "KANCHANA": {
-    "name": "Kanchanaburi"
+    "name": "Kanchanaburi",
+    "regions": [
+      "Kanchanaburi"
+    ]
   },
   "KHONKAEN": {
-    "name": "Khon Kaen"
+    "name": "Khon Kaen",
+    "regions": [
+      "Khon Kaen"
+    ]
   },
   "KRABI": {
-    "name": "Krabi"
+    "name": "Krabi",
+    "regions": [
+      "Krabi"
+    ]
   },
   "LAMPANG": {
-    "name": "Lampang"
+    "name": "Lampang",
+    "regions": [
+      "Lampang"
+    ]
   },
   "LAMPHUN": {
-    "name": "Lamphun"
+    "name": "Lamphun",
+    "regions": [
+      "Lamphun"
+    ]
   },
   "LOEI": {
-    "name": "Loei"
+    "name": "Loei",
+    "regions": [
+      "Loei"
+    ]
   },
   "LOPBURI": {
-    "name": "Lopburi"
+    "name": "Lopburi",
+    "regions": [
+      "Lopburi"
+    ]
   },
   "MAEHONGS": {
-    "name": "Mae Hong Son"
+    "name": "Mae Hong Son",
+    "regions": [
+      "Mae Hong Son"
+    ]
   },
   "MAHASARA": {
-    "name": "Maha Sarakham"
+    "name": "Maha Sarakham",
+    "regions": [
+      "Maha Sarakham"
+    ]
   },
   "MUKDAHAN": {
-    "name": "Mukdahan"
+    "name": "Mukdahan",
+    "regions": [
+      "Mukdahan"
+    ]
   },
   "NAKHONNA": {
-    "name": "Nakhon Nayok"
+    "name": "Nakhon Nayok",
+    "regions": [
+      "Nakhon Nayok"
+    ]
   },
   "NAKHONPA": {
-    "name": "Nakhon Pathom"
+    "name": "Nakhon Pathom",
+    "regions": [
+      "Nakhon Pathom"
+    ]
   },
   "NAKHONPH": {
-    "name": "Nakhon Phanom"
+    "name": "Nakhon Phanom",
+    "regions": [
+      "Nakhon Phanom"
+    ]
   },
   "NAKHONRA": {
-    "name": "Nakhon Ratchasima"
+    "name": "Nakhon Ratchasima",
+    "regions": [
+      "Nakhon Ratchasima"
+    ]
   },
   "NAKHONSA": {
-    "name": "Nakhon Sawan"
+    "name": "Nakhon Sawan",
+    "regions": [
+      "Nakhon Sawan"
+    ]
   },
   "NAKHONSI": {
-    "name": "Nakhon Si Thammarat"
+    "name": "Nakhon Si Thammarat",
+    "regions": [
+      "Nakhon Si Thammarat"
+    ]
   },
   "NAN": {
-    "name": "Nan"
+    "name": "Nan",
+    "regions": [
+      "Nan"
+    ]
   },
   "NARATHIW": {
-    "name": "Narathiwat"
+    "name": "Narathiwat",
+    "regions": [
+      "Narathiwat"
+    ]
   },
   "NONGBUAL": {
-    "name": "Nong Bua Lam Phu"
+    "name": "Nong Bua Lam Phu",
+    "regions": [
+      "Nong Bua Lam Phu"
+    ]
   },
   "NONGKHAI": {
-    "name": "Nong Khai"
+    "name": "Nong Khai",
+    "regions": [
+      "Nong Khai"
+    ]
   },
   "NONTHABU": {
-    "name": "Nonthaburi"
+    "name": "Nonthaburi",
+    "regions": [
+      "Nonthaburi"
+    ]
   },
   "PATHUMTH": {
-    "name": "Pathum Thani"
+    "name": "Pathum Thani",
+    "regions": [
+      "Pathum Thani"
+    ]
   },
   "PATTANI": {
-    "name": "Pattani"
+    "name": "Pattani",
+    "regions": [
+      "Pattani"
+    ]
   },
   "PHANGNGA": {
-    "name": "Phang Nga"
+    "name": "Phang Nga",
+    "regions": [
+      "Phang Nga"
+    ]
   },
   "PHATTHAL": {
-    "name": "Phatthalung"
+    "name": "Phatthalung",
+    "regions": [
+      "Phatthalung"
+    ]
   },
   "PHAYAO": {
-    "name": "Phayao"
+    "name": "Phayao",
+    "regions": [
+      "Phayao"
+    ]
   },
   "PHETCHAB": {
-    "name": "Phetchaburi"
+    "name": "Phetchaburi",
+    "regions": [
+      "Phetchaburi"
+    ]
   },
   "PHICHIT": {
-    "name": "Phichit"
+    "name": "Phichit",
+    "regions": [
+      "Phichit"
+    ]
   },
   "PHITSANU": {
-    "name": "Phitsanulok"
+    "name": "Phitsanulok",
+    "regions": [
+      "Phitsanulok"
+    ]
   },
   "PHRAE": {
-    "name": "Phrae"
+    "name": "Phrae",
+    "regions": [
+      "Phrae"
+    ]
   },
   "PHRANAKH": {
-    "name": "Phra Nakhon Si Ayutthaya"
+    "name": "Phra Nakhon Si Ayutthaya",
+    "regions": [
+      "Phra Nakhon Si Ayutthaya"
+    ]
   },
   "PHUKET": {
-    "name": "Phuket"
+    "name": "Phuket",
+    "regions": [
+      "Phuket"
+    ]
   },
   "PRACHINB": {
-    "name": "Prachin Buri"
+    "name": "Prachin Buri",
+    "regions": [
+      "Prachin Buri"
+    ]
   },
   "PRACHUAP": {
-    "name": "Prachuap Khiri Khan"
+    "name": "Prachuap Khiri Khan",
+    "regions": [
+      "Prachuap Khiri Khan"
+    ]
   },
   "RANONG": {
-    "name": "Ranong"
+    "name": "Ranong",
+    "regions": [
+      "Ranong"
+    ]
   },
   "RATCHABU": {
-    "name": "Ratchaburi"
+    "name": "Ratchaburi",
+    "regions": [
+      "Ratchaburi"
+    ]
   },
   "RAYONG": {
-    "name": "Rayong"
+    "name": "Rayong",
+    "regions": [
+      "Rayong"
+    ]
   },
   "ROIET": {
-    "name": "Roi Et"
+    "name": "Roi Et",
+    "regions": [
+      "Roi Et"
+    ]
   },
   "SAKAEO": {
-    "name": "Sa Kaeo"
+    "name": "Sa Kaeo",
+    "regions": [
+      "Sa Kaeo"
+    ]
   },
   "SAKONNAK": {
-    "name": "Sakon Nakhon"
+    "name": "Sakon Nakhon",
+    "regions": [
+      "Sakon Nakhon"
+    ]
   },
   "SAMUTPRA": {
-    "name": "Samut Prakan"
+    "name": "Samut Prakan",
+    "regions": [
+      "Samut Prakan"
+    ]
   },
   "SAMUTSAK": {
-    "name": "Samut Sakhon"
+    "name": "Samut Sakhon",
+    "regions": [
+      "Samut Sakhon"
+    ]
   },
   "SAMUTSON": {
-    "name": "Samut Songkhram"
+    "name": "Samut Songkhram",
+    "regions": [
+      "Samut Songkhram"
+    ]
   },
   "SARABURI": {
-    "name": "Saraburi"
+    "name": "Saraburi",
+    "regions": [
+      "Saraburi"
+    ]
   },
   "SATUN": {
-    "name": "Satun"
+    "name": "Satun",
+    "regions": [
+      "Satun"
+    ]
   },
   "SINGBURI": {
-    "name": "Sing Buri"
+    "name": "Sing Buri",
+    "regions": [
+      "Sing Buri"
+    ]
   },
   "SISAKET": {
-    "name": "Sisaket"
+    "name": "Sisaket",
+    "regions": [
+      "Sisaket"
+    ]
   },
   "SONGKHLA": {
-    "name": "Songkhla"
+    "name": "Songkhla",
+    "regions": [
+      "Songkhla"
+    ]
   },
   "SUKHOTHA": {
-    "name": "Sukhothai"
+    "name": "Sukhothai",
+    "regions": [
+      "Sukhothai"
+    ]
   },
   "SUPHANBU": {
-    "name": "Suphan Buri"
+    "name": "Suphan Buri",
+    "regions": [
+      "Suphan Buri"
+    ]
   },
   "SURATTHA": {
-    "name": "Surat Thani"
+    "name": "Surat Thani",
+    "regions": [
+      "Surat Thani"
+    ]
   },
   "SURIN": {
-    "name": "Surin"
+    "name": "Surin",
+    "regions": [
+      "Surin"
+    ]
   },
   "TAK": {
-    "name": "Tak"
+    "name": "Tak",
+    "regions": [
+      "Tak"
+    ]
   },
   "TRANG": {
-    "name": "Trang"
+    "name": "Trang",
+    "regions": [
+      "Trang"
+    ]
   },
   "TRAT": {
-    "name": "Trat"
+    "name": "Trat",
+    "regions": [
+      "Trat"
+    ]
   },
   "UBONRATC": {
-    "name": "Ubon Ratchathani"
+    "name": "Ubon Ratchathani",
+    "regions": [
+      "Ubon Ratchathani"
+    ]
   },
   "UDONTHAN": {
-    "name": "Udon Thani"
+    "name": "Udon Thani",
+    "regions": [
+      "Udon Thani"
+    ]
   },
   "UTHAITHA": {
-    "name": "Uthai Thani"
+    "name": "Uthai Thani",
+    "regions": [
+      "Uthai Thani"
+    ]
   },
   "UTTARADI": {
-    "name": "Uttaradit"
+    "name": "Uttaradit",
+    "regions": [
+      "Uttaradit"
+    ]
   },
   "YALA": {
-    "name": "Yala"
+    "name": "Yala",
+    "regions": [
+      "Yala"
+    ]
   },
   "YASOTHON": {
-    "name": "Yasothon"
+    "name": "Yasothon",
+    "regions": [
+      "Yasothon"
+    ]
   }
 }

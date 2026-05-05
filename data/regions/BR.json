@@ -1,65 +1,128 @@
 {
   "ACR": {
-    "name": "Acre"
+    "name": "Acre",
+    "regions": [
+      "North"
+    ]
   },
   "ALA": {
-    "name": "Alagoas"
+    "name": "Alagoas",
+    "regions": [
+      "Northeast"
+    ]
   },
   "AMA": {
-    "name": "Amazonas"
+    "name": "Amazonas",
+    "regions": [
+      "North"
+    ]
   },
   "BAH": {
-    "name": "Bahia"
+    "name": "Bahia",
+    "regions": [
+      "Northeast"
+    ]
   },
   "CEA": {
-    "name": "Ceará"
+    "name": "Ceará",
+    "regions": [
+      "Northeast"
+    ]
   },
   "DF": {
-    "name": "Distrito Federal"
+    "name": "Distrito Federal",
+    "regions": [
+      "Central-West"
+    ]
   },
   "ES": {
-    "name": "Espírito Santo"
+    "name": "Espírito Santo",
+    "regions": [
+      "Southeast"
+    ]
   },
   "GOI": {
-    "name": "Goiás"
+    "name": "Goiás",
+    "regions": [
+      "Central-West"
+    ]
   },
   "MAR": {
-    "name": "Maranhão"
+    "name": "Maranhão",
+    "regions": [
+      "Northeast"
+    ]
   },
   "MG": {
-    "name": "Minas Gerais"
+    "name": "Minas Gerais",
+    "regions": [
+      "Southeast"
+    ]
   },
   "PAR": {
-    "name": "Paraná"
+    "name": "Paraná",
+    "regions": [
+      "South"
+    ]
   },
   "PER": {
-    "name": "Pernambuco"
+    "name": "Pernambuco",
+    "regions": [
+      "Northeast"
+    ]
   },
   "PIA": {
-    "name": "Piauí"
+    "name": "Piauí",
+    "regions": [
+      "Northeast"
+    ]
   },
   "RD": {
-    "name": "Rio de Janeiro"
+    "name": "Rio de Janeiro",
+    "regions": [
+      "Southeast"
+    ]
   },
   "RG": {
-    "name": "Rio Grande do Sul"
+    "name": "Rio Grande do Sul",
+    "regions": [
+      "South"
+    ]
   },
   "RON": {
-    "name": "Rondônia"
+    "name": "Rondônia",
+    "regions": [
+      "North"
+    ]
   },
   "ROR": {
-    "name": "Roraima"
+    "name": "Roraima",
+    "regions": [
+      "North"
+    ]
   },
   "SC": {
-    "name": "Santa Catarina"
+    "name": "Santa Catarina",
+    "regions": [
+      "South"
+    ]
   },
   "SER": {
-    "name": "Sergipe"
+    "name": "Sergipe",
+    "regions": [
+      "Northeast"
+    ]
   },
   "SP": {
-    "name": "São Paulo"
+    "name": "São Paulo",
+    "regions": [
+      "Southeast"
+    ]
   },
   "TOC": {
-    "name": "Tocantins"
+    "name": "Tocantins",
+    "regions": [
+      "North"
+    ]
   }
 }

@@ -1,62 +1,122 @@
 {
   "AKE": {
-    "name": "Akershus"
+    "name": "Akershus",
+    "regions": [
+      "Akershus"
+    ]
   },
   "AUS": {
-    "name": "Aust-Agder"
+    "name": "Aust-Agder",
+    "regions": [
+      "Aust-Agder"
+    ]
   },
   "BUS": {
-    "name": "Buskerud"
+    "name": "Buskerud",
+    "regions": [
+      "Buskerud"
+    ]
   },
   "FIN": {
-    "name": "Finnmark"
+    "name": "Finnmark",
+    "regions": [
+      "Finnmark"
+    ]
   },
   "HED": {
-    "name": "Hedmark"
+    "name": "Hedmark",
+    "regions": [
+      "Hedmark"
+    ]
   },
   "HOR": {
-    "name": "Hordaland"
+    "name": "Hordaland",
+    "regions": [
+      "Hordaland"
+    ]
   },
   "MREOG": {
-    "name": "Møre og Romsdal"
+    "name": "Møre og Romsdal",
+    "regions": [
+      "Møre og Romsdal"
+    ]
   },
   "NOR": {
-    "name": "Nord-Trøndelag"
+    "name": "Nord-Trøndelag",
+    "regions": [
+      "Nord-Trøndelag"
+    ]
   },
   "NOR1": {
-    "name": "Nordland"
+    "name": "Nordland",
+    "regions": [
+      "Nordland"
+    ]
   },
   "OPP": {
-    "name": "Oppland"
+    "name": "Oppland",
+    "regions": [
+      "Oppland"
+    ]
   },
   "OSL": {
-    "name": "Oslo"
+    "name": "Oslo",
+    "regions": [
+      "Oslo"
+    ]
   },
   "ROG": {
-    "name": "Rogaland"
+    "name": "Rogaland",
+    "regions": [
+      "Rogaland"
+    ]
   },
   "SOGOG": {
-    "name": "Sogn og Fjordane"
+    "name": "Sogn og Fjordane",
+    "regions": [
+      "Sogn og Fjordane"
+    ]
   },
   "SR-": {
-    "name": "Sør-Trøndelag"
+    "name": "Sør-Trøndelag",
+    "regions": [
+      "Sør-Trøndelag"
+    ]
   },
   "STF": {
-    "name": "Østfold"
+    "name": "Østfold",
+    "regions": [
+      "Østfold"
+    ]
   },
   "SVA": {
-    "name": "Svalbard"
+    "name": "Svalbard",
+    "regions": [
+      "Svalbard"
+    ]
   },
   "TEL": {
-    "name": "Telemark"
+    "name": "Telemark",
+    "regions": [
+      "Telemark"
+    ]
   },
   "TRO": {
-    "name": "Troms"
+    "name": "Troms",
+    "regions": [
+      "Troms"
+    ]
   },
   "VES": {
-    "name": "Vestfold"
+    "name": "Vestfold",
+    "regions": [
+      "Vestfold"
+    ]
   },
   "VES1": {
-    "name": "Vest-Agder"
+    "name": "Vest-Agder",
+    "regions": [
+      "Vest-Agder"
+    ]
   }
 }

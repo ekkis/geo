@@ -1,35 +1,68 @@
 {
   "BAR": {
-    "name": "Bar"
+    "name": "Bar",
+    "regions": [
+      "Bar"
+    ]
   },
   "BIJPO": {
-    "name": "Bijelo Polje"
+    "name": "Bijelo Polje",
+    "regions": [
+      "Bijelo Polje"
+    ]
   },
   "CET": {
-    "name": "Cetinje"
+    "name": "Cetinje",
+    "regions": [
+      "Cetinje"
+    ]
   },
   "DAN": {
-    "name": "Danilovgrad"
+    "name": "Danilovgrad",
+    "regions": [
+      "Danilovgrad"
+    ]
   },
   "HERNO": {
-    "name": "Herceg Novi"
+    "name": "Herceg Novi",
+    "regions": [
+      "Herceg Novi"
+    ]
   },
   "NIK": {
-    "name": "Nikšić"
+    "name": "Nikšić",
+    "regions": [
+      "Nikšić"
+    ]
   },
   "PLJ": {
-    "name": "Pljevlja"
+    "name": "Pljevlja",
+    "regions": [
+      "Pljevlja"
+    ]
   },
   "POD": {
-    "name": "Podgorica"
+    "name": "Podgorica",
+    "regions": [
+      "Podgorica"
+    ]
   },
   "ROZ": {
-    "name": "Rožaje"
+    "name": "Rožaje",
+    "regions": [
+      "Rožaje"
+    ]
   },
   "SAV": {
-    "name": "Šavnik"
+    "name": "Šavnik",
+    "regions": [
+      "Šavnik"
+    ]
   },
   "ULC": {
-    "name": "Ulcinj"
+    "name": "Ulcinj",
+    "regions": [
+      "Ulcinj"
+    ]
   }
 }

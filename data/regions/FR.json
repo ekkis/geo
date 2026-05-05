@@ -1,56 +1,110 @@
 {
   "AUV": {
-    "name": "Auvergne-Rhône-Alpes"
+    "name": "Auvergne-Rhône-Alpes",
+    "regions": [
+      "Auvergne-Rhône-Alpes"
+    ]
   },
   "BOU": {
-    "name": "Bourgogne-Franche-Comté"
+    "name": "Bourgogne-Franche-Comté",
+    "regions": [
+      "Bourgogne-Franche-Comté"
+    ]
   },
   "BRI": {
-    "name": "Brittany"
+    "name": "Brittany",
+    "regions": [
+      "Brittany"
+    ]
   },
   "CENDE": {
-    "name": "Centre-Val de Loire"
+    "name": "Centre-Val de Loire",
+    "regions": [
+      "Centre-Val de Loire"
+    ]
   },
   "COR": {
-    "name": "Corsica"
+    "name": "Corsica",
+    "regions": [
+      "Corsica"
+    ]
   },
   "FREGU": {
-    "name": "French Guiana"
+    "name": "French Guiana",
+    "regions": [
+      "French Guiana"
+    ]
   },
   "GRAES": {
-    "name": "Grand Est"
+    "name": "Grand Est",
+    "regions": [
+      "Grand Est"
+    ]
   },
   "GUA": {
-    "name": "Guadeloupe"
+    "name": "Guadeloupe",
+    "regions": [
+      "Guadeloupe"
+    ]
   },
   "HAU": {
-    "name": "Hauts-de-France"
+    "name": "Hauts-de-France",
+    "regions": [
+      "Hauts-de-France"
+    ]
   },
   "ILE": {
-    "name": "Île-de-France"
+    "name": "Île-de-France",
+    "regions": [
+      "Île-de-France"
+    ]
   },
   "MAR": {
-    "name": "Martinique"
+    "name": "Martinique",
+    "regions": [
+      "Martinique"
+    ]
   },
   "MAY": {
-    "name": "Mayotte"
+    "name": "Mayotte",
+    "regions": [
+      "Mayotte"
+    ]
   },
   "NOR": {
-    "name": "Normandy"
+    "name": "Normandy",
+    "regions": [
+      "Normandy"
+    ]
   },
   "NOU": {
-    "name": "Nouvelle-Aquitaine"
+    "name": "Nouvelle-Aquitaine",
+    "regions": [
+      "Nouvelle-Aquitaine"
+    ]
   },
   "OCC": {
-    "name": "Occitanie"
+    "name": "Occitanie",
+    "regions": [
+      "Occitanie"
+    ]
   },
   "PAYDE": {
-    "name": "Pays de la Loire"
+    "name": "Pays de la Loire",
+    "regions": [
+      "Pays de la Loire"
+    ]
   },
   "PROD'": {
-    "name": "Provence-Alpes-Côte d'Azur"
+    "name": "Provence-Alpes-Côte d'Azur",
+    "regions": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
   },
   "REU": {
-    "name": "Réunion"
+    "name": "Réunion",
+    "regions": [
+      "Réunion"
+    ]
   }
 }

@@ -1,41 +1,80 @@
 {
   "ATT": {
-    "name": "Attica"
+    "name": "Attica",
+    "regions": [
+      "Attica"
+    ]
   },
   "CENGR": {
-    "name": "Central Greece"
+    "name": "Central Greece",
+    "regions": [
+      "Central Greece"
+    ]
   },
   "CENMA": {
-    "name": "Central Macedonia"
+    "name": "Central Macedonia",
+    "regions": [
+      "Central Macedonia"
+    ]
   },
   "CRE": {
-    "name": "Crete"
+    "name": "Crete",
+    "regions": [
+      "Crete"
+    ]
   },
   "EASMA": {
-    "name": "East Macedonia and Thrace"
+    "name": "East Macedonia and Thrace",
+    "regions": [
+      "East Macedonia and Thrace"
+    ]
   },
   "EPI": {
-    "name": "Epirus"
+    "name": "Epirus",
+    "regions": [
+      "Epirus"
+    ]
   },
   "IONIS": {
-    "name": "Ionian Islands"
+    "name": "Ionian Islands",
+    "regions": [
+      "Ionian Islands"
+    ]
   },
   "NORAE": {
-    "name": "North Aegean"
+    "name": "North Aegean",
+    "regions": [
+      "North Aegean"
+    ]
   },
   "PEL": {
-    "name": "Peloponnese"
+    "name": "Peloponnese",
+    "regions": [
+      "Peloponnese"
+    ]
   },
   "SOUAE": {
-    "name": "South Aegean"
+    "name": "South Aegean",
+    "regions": [
+      "South Aegean"
+    ]
   },
   "THE": {
-    "name": "Thessaly"
+    "name": "Thessaly",
+    "regions": [
+      "Thessaly"
+    ]
   },
   "WESGR": {
-    "name": "West Greece"
+    "name": "West Greece",
+    "regions": [
+      "West Greece"
+    ]
   },
   "WESMA": {
-    "name": "West Macedonia"
+    "name": "West Macedonia",
+    "regions": [
+      "West Macedonia"
+    ]
   }
 }

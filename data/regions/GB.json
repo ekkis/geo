@@ -18,22 +18,37 @@
     "name": "Armagh"
   },
   "AVO": {
-    "name": "Avon"
+    "name": "Avon",
+    "regions": [
+      "England"
+    ]
   },
   "BED": {
-    "name": "Bedfordshire"
+    "name": "Bedfordshire",
+    "regions": [
+      "England"
+    ]
   },
   "BER": {
-    "name": "Berkshire"
+    "name": "Berkshire",
+    "regions": [
+      "England"
+    ]
   },
   "BG": {
     "name": "Blaenau Gwent"
   },
   "BOR": {
-    "name": "Borders"
+    "name": "Borders",
+    "regions": [
+      "Scotland"
+    ]
   },
   "BRI": {
-    "name": "Bridgend"
+    "name": "Bridgend",
+    "regions": [
+      "Wales"
+    ]
   },
   "BUC": {
     "name": "Buckinghamshire"
@@ -42,7 +57,10 @@
     "name": "Caerphilly"
   },
   "CAM": {
-    "name": "Cambridgeshire"
+    "name": "Cambridgeshire",
+    "regions": [
+      "England"
+    ]
   },
   "CAR": {
     "name": "Cardiff"
@@ -51,7 +69,10 @@
     "name": "Ceredigion"
   },
   "CHE": {
-    "name": "Cheshire"
+    "name": "Cheshire",
+    "regions": [
+      "England"
+    ]
   },
   "CI": {
     "name": "Channel Islands"
@@ -60,16 +81,25 @@
     "name": "Clackmannan"
   },
   "CLE": {
-    "name": "Cleveland"
+    "name": "Cleveland",
+    "regions": [
+      "England"
+    ]
   },
   "CON": {
     "name": "Conwy"
   },
   "COR": {
-    "name": "Cornwall"
+    "name": "Cornwall",
+    "regions": [
+      "England"
+    ]
   },
   "CUM": {
-    "name": "Cumbria"
+    "name": "Cumbria",
+    "regions": [
+      "England"
+    ]
   },
   "DA": {
     "name": "Dumfries and Galloway"
@@ -78,19 +108,31 @@
     "name": "Denbighshire"
   },
   "DER": {
-    "name": "Derbyshire"
+    "name": "Derbyshire",
+    "regions": [
+      "England"
+    ]
   },
   "DEV": {
-    "name": "Devon"
+    "name": "Devon",
+    "regions": [
+      "England"
+    ]
   },
   "DOR": {
-    "name": "Dorset"
+    "name": "Dorset",
+    "regions": [
+      "England"
+    ]
   },
   "DOW": {
     "name": "Down"
   },
   "DUR": {
-    "name": "Durham"
+    "name": "Durham",
+    "regions": [
+      "England"
+    ]
   },
   "EA": {
     "name": "East Ayrshire"
@@ -108,10 +150,16 @@
     "name": "East Renfrewshire"
   },
   "ES": {
-    "name": "East Sussex"
+    "name": "East Sussex",
+    "regions": [
+      "England"
+    ]
   },
   "ESS": {
-    "name": "Essex"
+    "name": "Essex",
+    "regions": [
+      "England"
+    ]
   },
   "FAL": {
     "name": "Falkirk"
@@ -120,28 +168,46 @@
     "name": "Fermanagh"
   },
   "FIF": {
-    "name": "Fife"
+    "name": "Fife",
+    "regions": [
+      "Scotland"
+    ]
   },
   "FLI": {
     "name": "Flintshire"
   },
   "GLA": {
-    "name": "Glasgow"
+    "name": "Glasgow",
+    "regions": [
+      "Scotland"
+    ]
   },
   "GLO": {
-    "name": "Gloucestershire"
+    "name": "Gloucestershire",
+    "regions": [
+      "England"
+    ]
   },
   "GM": {
-    "name": "Greater Manchester"
+    "name": "Greater Manchester",
+    "regions": [
+      "England"
+    ]
   },
   "GWY": {
     "name": "Gwynedd"
   },
   "HAM": {
-    "name": "Hampshire"
+    "name": "Hampshire",
+    "regions": [
+      "England"
+    ]
   },
   "HER": {
-    "name": "Hertfordshire"
+    "name": "Hertfordshire",
+    "regions": [
+      "England"
+    ]
   },
   "HIG": {
     "name": "Highland"
@@ -156,31 +222,52 @@
     "name": "Isle of Anglesey"
   },
   "KEN": {
-    "name": "Kent"
+    "name": "Kent",
+    "regions": [
+      "England"
+    ]
   },
   "LAN": {
-    "name": "Lancashire"
+    "name": "Lancashire",
+    "regions": [
+      "England"
+    ]
   },
   "LEI": {
-    "name": "Leicestershire"
+    "name": "Leicestershire",
+    "regions": [
+      "England"
+    ]
   },
   "LIN": {
-    "name": "Lincolnshire"
+    "name": "Lincolnshire",
+    "regions": [
+      "England"
+    ]
   },
   "LON": {
     "name": "Londonderry"
   },
   "MER": {
-    "name": "Merseyside"
+    "name": "Merseyside",
+    "regions": [
+      "England"
+    ]
   },
   "MID": {
-    "name": "Midlothian"
+    "name": "Midlothian",
+    "regions": [
+      "Scotland"
+    ]
   },
   "MON": {
     "name": "Monmouthshire"
   },
   "MOR": {
-    "name": "Moray"
+    "name": "Moray",
+    "regions": [
+      "Scotland"
+    ]
   },
   "MT": {
     "name": "Merthyr Tydfil"
@@ -195,10 +282,16 @@
     "name": "North Lanarkshire"
   },
   "NOR": {
-    "name": "Northumberland"
+    "name": "Northumberland",
+    "regions": [
+      "England"
+    ]
   },
   "NOT": {
-    "name": "Nottinghamshire"
+    "name": "Nottinghamshire",
+    "regions": [
+      "England"
+    ]
   },
   "NP": {
     "name": "Neath Port Talbot"
@@ -207,10 +300,16 @@
     "name": "North Yorkshire"
   },
   "ORK": {
-    "name": "Orkney"
+    "name": "Orkney",
+    "regions": [
+      "Scotland"
+    ]
   },
   "OXF": {
-    "name": "Oxfordshire"
+    "name": "Oxfordshire",
+    "regions": [
+      "England"
+    ]
   },
   "PA": {
     "name": "Perthshire and Kinross"
@@ -231,34 +330,58 @@
     "name": "Roxburghshire"
   },
   "RUT": {
-    "name": "Rutland"
+    "name": "Rutland",
+    "regions": [
+      "England"
+    ]
   },
   "SA": {
     "name": "South Ayrshire"
   },
   "SHE": {
-    "name": "Shetland"
+    "name": "Shetland",
+    "regions": [
+      "Scotland"
+    ]
   },
   "SHR": {
-    "name": "Shropshire"
+    "name": "Shropshire",
+    "regions": [
+      "England"
+    ]
   },
   "SL": {
     "name": "South Lanarkshire"
   },
   "SOM": {
-    "name": "Somerset"
+    "name": "Somerset",
+    "regions": [
+      "England"
+    ]
   },
   "STA": {
-    "name": "Staffordshire"
+    "name": "Staffordshire",
+    "regions": [
+      "England"
+    ]
   },
   "STI": {
-    "name": "Stirling"
+    "name": "Stirling",
+    "regions": [
+      "Scotland"
+    ]
   },
   "SUF": {
-    "name": "Suffolk"
+    "name": "Suffolk",
+    "regions": [
+      "England"
+    ]
   },
   "SUR": {
-    "name": "Surrey"
+    "name": "Surrey",
+    "regions": [
+      "England"
+    ]
   },
   "SWA": {
     "name": "Swansea"
@@ -279,7 +402,10 @@
     "name": "Tyrone"
   },
   "WAR": {
-    "name": "Warwickshire"
+    "name": "Warwickshire",
+    "regions": [
+      "England"
+    ]
   },
   "WD": {
     "name": "West Dunbartonshire"
@@ -288,24 +414,42 @@
     "name": "Western Isles"
   },
   "WIL": {
-    "name": "Wiltshire"
+    "name": "Wiltshire",
+    "regions": [
+      "England"
+    ]
   },
   "WL": {
-    "name": "West Lothian"
+    "name": "West Lothian",
+    "regions": [
+      "Scotland"
+    ]
   },
   "WM": {
-    "name": "West Midlands"
+    "name": "West Midlands",
+    "regions": [
+      "England"
+    ]
   },
   "WOR": {
-    "name": "Worcestershire"
+    "name": "Worcestershire",
+    "regions": [
+      "England"
+    ]
   },
   "WRE": {
     "name": "Wrexham"
   },
   "WS": {
-    "name": "West Sussex"
+    "name": "West Sussex",
+    "regions": [
+      "England"
+    ]
   },
   "WY": {
-    "name": "West Yorkshire"
+    "name": "West Yorkshire",
+    "regions": [
+      "England"
+    ]
   }
 }

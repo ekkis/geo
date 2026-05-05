@@ -1,35 +1,68 @@
 {
   "BAL": {
-    "name": "Balzers"
+    "name": "Balzers",
+    "regions": [
+      "Balzers"
+    ]
   },
   "ESC": {
-    "name": "Eschen"
+    "name": "Eschen",
+    "regions": [
+      "Eschen"
+    ]
   },
   "GAM": {
-    "name": "Gamprin"
+    "name": "Gamprin",
+    "regions": [
+      "Gamprin"
+    ]
   },
   "MAU": {
-    "name": "Mauren"
+    "name": "Mauren",
+    "regions": [
+      "Mauren"
+    ]
   },
   "PLA": {
-    "name": "Planken"
+    "name": "Planken",
+    "regions": [
+      "Planken"
+    ]
   },
   "RUG": {
-    "name": "Ruggell"
+    "name": "Ruggell",
+    "regions": [
+      "Ruggell"
+    ]
   },
   "SCH": {
-    "name": "Schaan"
+    "name": "Schaan",
+    "regions": [
+      "Schaan"
+    ]
   },
   "SCH1": {
-    "name": "Schellenberg"
+    "name": "Schellenberg",
+    "regions": [
+      "Schellenberg"
+    ]
   },
   "TRI": {
-    "name": "Triesen"
+    "name": "Triesen",
+    "regions": [
+      "Triesen"
+    ]
   },
   "TRI1": {
-    "name": "Triesenberg"
+    "name": "Triesenberg",
+    "regions": [
+      "Triesenberg"
+    ]
   },
   "VAD": {
-    "name": "Vaduz"
+    "name": "Vaduz",
+    "regions": [
+      "Vaduz"
+    ]
   }
 }

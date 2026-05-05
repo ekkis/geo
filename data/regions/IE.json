@@ -1,14 +1,26 @@
 {
   "CON": {
-    "name": "Connacht"
+    "name": "Connacht",
+    "regions": [
+      "Connacht"
+    ]
   },
   "LEI": {
-    "name": "Leinster"
+    "name": "Leinster",
+    "regions": [
+      "Leinster"
+    ]
   },
   "MUN": {
-    "name": "Munster"
+    "name": "Munster",
+    "regions": [
+      "Munster"
+    ]
   },
   "ULS": {
-    "name": "Ulster"
+    "name": "Ulster",
+    "regions": [
+      "Ulster"
+    ]
   }
 }

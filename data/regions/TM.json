@@ -1,20 +1,38 @@
 {
   "AHAL": {
-    "name": "Ahal"
+    "name": "Ahal",
+    "regions": [
+      "Ahal"
+    ]
   },
   "ASH": {
-    "name": "Ashgabat"
+    "name": "Ashgabat",
+    "regions": [
+      "Ashgabat"
+    ]
   },
   "BALK": {
-    "name": "Balkan"
+    "name": "Balkan",
+    "regions": [
+      "Balkan"
+    ]
   },
   "DASH": {
-    "name": "Dashoguz"
+    "name": "Dashoguz",
+    "regions": [
+      "Dashoguz"
+    ]
   },
   "LEBA": {
-    "name": "Lebap"
+    "name": "Lebap",
+    "regions": [
+      "Lebap"
+    ]
   },
   "MARY": {
-    "name": "Mary"
+    "name": "Mary",
+    "regions": [
+      "Mary"
+    ]
   }
 }

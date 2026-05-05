@@ -1,65 +1,128 @@
 {
   "AAR": {
-    "name": "Aargau"
+    "name": "Aargau",
+    "regions": [
+      "Aargau"
+    ]
   },
   "APPAU": {
-    "name": "Appenzell Ausserrhoden"
+    "name": "Appenzell Ausserrhoden",
+    "regions": [
+      "Appenzell Ausserrhoden"
+    ]
   },
   "APPIN": {
-    "name": "Appenzell Innerrhoden"
+    "name": "Appenzell Innerrhoden",
+    "regions": [
+      "Appenzell Innerrhoden"
+    ]
   },
   "BAS": {
-    "name": "Basel-Stadt"
+    "name": "Basel-Stadt",
+    "regions": [
+      "Basel-Stadt"
+    ]
   },
   "BER": {
-    "name": "Bern"
+    "name": "Bern",
+    "regions": [
+      "Bern"
+    ]
   },
   "FRI": {
-    "name": "Fribourg"
+    "name": "Fribourg",
+    "regions": [
+      "Fribourg"
+    ]
   },
   "GEN": {
-    "name": "Geneva"
+    "name": "Geneva",
+    "regions": [
+      "Geneva"
+    ]
   },
   "GLA": {
-    "name": "Glarus"
+    "name": "Glarus",
+    "regions": [
+      "Glarus"
+    ]
   },
   "GRA": {
-    "name": "Graubünden"
+    "name": "Graubünden",
+    "regions": [
+      "Graubünden"
+    ]
   },
   "LUZ": {
-    "name": "Luzern"
+    "name": "Luzern",
+    "regions": [
+      "Luzern"
+    ]
   },
   "NEU": {
-    "name": "Neuchâtel"
+    "name": "Neuchâtel",
+    "regions": [
+      "Neuchâtel"
+    ]
   },
   "SANGA": {
-    "name": "Sankt Gallen"
+    "name": "Sankt Gallen",
+    "regions": [
+      "Sankt Gallen"
+    ]
   },
   "SCH": {
-    "name": "Schaffhausen"
+    "name": "Schaffhausen",
+    "regions": [
+      "Schaffhausen"
+    ]
   },
   "SCH1": {
-    "name": "Schwyz"
+    "name": "Schwyz",
+    "regions": [
+      "Schwyz"
+    ]
   },
   "SOL": {
-    "name": "Solothurn"
+    "name": "Solothurn",
+    "regions": [
+      "Solothurn"
+    ]
   },
   "ST.GA": {
-    "name": "St. Gallen"
+    "name": "St. Gallen",
+    "regions": [
+      "St. Gallen"
+    ]
   },
   "THU": {
-    "name": "Thurgau"
+    "name": "Thurgau",
+    "regions": [
+      "Thurgau"
+    ]
   },
   "TIC": {
-    "name": "Ticino"
+    "name": "Ticino",
+    "regions": [
+      "Ticino"
+    ]
   },
   "VAL": {
-    "name": "Valais"
+    "name": "Valais",
+    "regions": [
+      "Valais"
+    ]
   },
   "VAU": {
-    "name": "Vaud"
+    "name": "Vaud",
+    "regions": [
+      "Vaud"
+    ]
   },
   "ZUR": {
-    "name": "Zurich"
+    "name": "Zurich",
+    "regions": [
+      "Zurich"
+    ]
   }
 }

@@ -1,29 +1,56 @@
 {
   "BLA": {
-    "name": "Blago-Kras"
+    "name": "Blago-Kras",
+    "regions": [
+      "Blago-Kras"
+    ]
   },
   "GOR": {
-    "name": "Gorenjska"
+    "name": "Gorenjska",
+    "regions": [
+      "Gorenjska"
+    ]
   },
   "GOR1": {
-    "name": "Goriška"
+    "name": "Goriška",
+    "regions": [
+      "Goriška"
+    ]
   },
   "JUGSL": {
-    "name": "Jugovzhodna Slovenija"
+    "name": "Jugovzhodna Slovenija",
+    "regions": [
+      "Jugovzhodna Slovenija"
+    ]
   },
   "KOR": {
-    "name": "Koroška"
+    "name": "Koroška",
+    "regions": [
+      "Koroška"
+    ]
   },
   "OBA": {
-    "name": "Obalno-Kraška"
+    "name": "Obalno-Kraška",
+    "regions": [
+      "Obalno-Kraška"
+    ]
   },
   "OSR": {
-    "name": "Osrednjeslovenska"
+    "name": "Osrednjeslovenska",
+    "regions": [
+      "Osrednjeslovenska"
+    ]
   },
   "POD": {
-    "name": "Podravska"
+    "name": "Podravska",
+    "regions": [
+      "Podravska"
+    ]
   },
   "POM": {
-    "name": "Pomurska"
+    "name": "Pomurska",
+    "regions": [
+      "Pomurska"
+    ]
   }
 }

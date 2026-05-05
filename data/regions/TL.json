@@ -1,41 +1,80 @@
 {
   "AILEU": {
-    "name": "Aileu"
+    "name": "Aileu",
+    "regions": [
+      "Aileu"
+    ]
   },
   "AINARO": {
-    "name": "Ainaro"
+    "name": "Ainaro",
+    "regions": [
+      "Ainaro"
+    ]
   },
   "BAUCAU": {
-    "name": "Baucau"
+    "name": "Baucau",
+    "regions": [
+      "Baucau"
+    ]
   },
   "BOBONAR": {
-    "name": "Bobonaro"
+    "name": "Bobonaro",
+    "regions": [
+      "Bobonaro"
+    ]
   },
   "COVAI": {
-    "name": "Cova Lima"
+    "name": "Cova Lima",
+    "regions": [
+      "Cova Lima"
+    ]
   },
   "DILI": {
-    "name": "Dili"
+    "name": "Dili",
+    "regions": [
+      "Dili"
+    ]
   },
   "ERME": {
-    "name": "Ermera"
+    "name": "Ermera",
+    "regions": [
+      "Ermera"
+    ]
   },
   "LAUTEM": {
-    "name": "Lautém"
+    "name": "Lautém",
+    "regions": [
+      "Lautém"
+    ]
   },
   "LIQUI": {
-    "name": "Liquiçá"
+    "name": "Liquiçá",
+    "regions": [
+      "Liquiçá"
+    ]
   },
   "MANATU": {
-    "name": "Manatuto"
+    "name": "Manatuto",
+    "regions": [
+      "Manatuto"
+    ]
   },
   "MANUFA": {
-    "name": "Manufahi"
+    "name": "Manufahi",
+    "regions": [
+      "Manufahi"
+    ]
   },
   "OECUSSE": {
-    "name": "Oecusse"
+    "name": "Oecusse",
+    "regions": [
+      "Oecusse"
+    ]
   },
   "VIQUE": {
-    "name": "Viqueque"
+    "name": "Viqueque",
+    "regions": [
+      "Viqueque"
+    ]
   }
 }

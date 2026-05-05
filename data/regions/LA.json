@@ -1,56 +1,110 @@
 {
   "ATTA": {
-    "name": "Attapeu"
+    "name": "Attapeu",
+    "regions": [
+      "Attapeu"
+    ]
   },
   "BOKEO": {
-    "name": "Bokeo"
+    "name": "Bokeo",
+    "regions": [
+      "Bokeo"
+    ]
   },
   "BOLIKH": {
-    "name": "Bolikhamsai"
+    "name": "Bolikhamsai",
+    "regions": [
+      "Bolikhamsai"
+    ]
   },
   "CHAMPAS": {
-    "name": "Champasak"
+    "name": "Champasak",
+    "regions": [
+      "Champasak"
+    ]
   },
   "HOUAPH": {
-    "name": "Houaphanh"
+    "name": "Houaphanh",
+    "regions": [
+      "Houaphanh"
+    ]
   },
   "KHAMMOU": {
-    "name": "Khammouane"
+    "name": "Khammouane",
+    "regions": [
+      "Khammouane"
+    ]
   },
   "LUANGBP": {
-    "name": "Luang Prabang"
+    "name": "Luang Prabang",
+    "regions": [
+      "Luang Prabang"
+    ]
   },
   "LUANGNAM": {
-    "name": "Luang Namtha"
+    "name": "Luang Namtha",
+    "regions": [
+      "Luang Namtha"
+    ]
   },
   "OUDOMX": {
-    "name": "Oudomxay"
+    "name": "Oudomxay",
+    "regions": [
+      "Oudomxay"
+    ]
   },
   "PHONGS": {
-    "name": "Phongsaly"
+    "name": "Phongsaly",
+    "regions": [
+      "Phongsaly"
+    ]
   },
   "SALAVAN": {
-    "name": "Salavan"
+    "name": "Salavan",
+    "regions": [
+      "Salavan"
+    ]
   },
   "SAVANNA": {
-    "name": "Savannakhet"
+    "name": "Savannakhet",
+    "regions": [
+      "Savannakhet"
+    ]
   },
   "SEKONG": {
-    "name": "Sekong"
+    "name": "Sekong",
+    "regions": [
+      "Sekong"
+    ]
   },
   "VIENTJ": {
-    "name": "Vientiane Prefecture"
+    "name": "Vientiane Prefecture",
+    "regions": [
+      "Vientiane"
+    ]
   },
   "VIENTP": {
-    "name": "Vientiane Province"
+    "name": "Vientiane Province",
+    "regions": [
+      "Vientiane Province"
+    ]
   },
   "XAI": {
-    "name": "Xaisomboun"
+    "name": "Xaisomboun",
+    "regions": [
+      "Xaisomboun"
+    ]
   },
   "XAYABUR": {
-    "name": "Xayaburi"
+    "name": "Xayaburi",
+    "regions": [
+      "Xayaburi"
+    ]
   },
   "XIENGK": {
-    "name": "Xieng Khouang"
+    "name": "Xieng Khouang",
+    "regions": [
+      "Xieng Khouang"
+    ]
   }
 }

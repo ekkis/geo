@@ -1,38 +1,74 @@
 {
   "BER": {
-    "name": "Berat"
+    "name": "Berat",
+    "regions": [
+      "Berat"
+    ]
   },
   "DIB": {
-    "name": "Dibër"
+    "name": "Dibër",
+    "regions": [
+      "Dibër"
+    ]
   },
   "DUR": {
-    "name": "Durrës"
+    "name": "Durrës",
+    "regions": [
+      "Durrës"
+    ]
   },
   "ELB": {
-    "name": "Elbasan"
+    "name": "Elbasan",
+    "regions": [
+      "Elbasan"
+    ]
   },
   "FIE": {
-    "name": "Fier"
+    "name": "Fier",
+    "regions": [
+      "Fier"
+    ]
   },
   "GJI": {
-    "name": "Gjirokastër"
+    "name": "Gjirokastër",
+    "regions": [
+      "Gjirokastër"
+    ]
   },
   "KOR": {
-    "name": "Korçë"
+    "name": "Korçë",
+    "regions": [
+      "Korçë"
+    ]
   },
   "KUK": {
-    "name": "Kukës"
+    "name": "Kukës",
+    "regions": [
+      "Kukës"
+    ]
   },
   "LEZ": {
-    "name": "Lezhë"
+    "name": "Lezhë",
+    "regions": [
+      "Lezhë"
+    ]
   },
   "SHK": {
-    "name": "Shkodër"
+    "name": "Shkodër",
+    "regions": [
+      "Shkodër"
+    ]
   },
   "TIR": {
-    "name": "Tirana"
+    "name": "Tirana",
+    "regions": [
+      "Tirana"
+    ]
   },
   "VLO": {
-    "name": "Vlorë"
+    "name": "Vlorë",
+    "regions": [
+      "Vlorë"
+    ]
   }
 }

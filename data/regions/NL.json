@@ -9,28 +9,52 @@
     "name": "Curaçao"
   },
   "DRE": {
-    "name": "Drenthe"
+    "name": "Drenthe",
+    "regions": [
+      "Drenthe"
+    ]
   },
   "FLE": {
-    "name": "Flevoland"
+    "name": "Flevoland",
+    "regions": [
+      "Flevoland"
+    ]
   },
   "FRI": {
-    "name": "Friesland"
+    "name": "Friesland",
+    "regions": [
+      "Friesland"
+    ]
   },
   "GEL": {
-    "name": "Gelderland"
+    "name": "Gelderland",
+    "regions": [
+      "Gelderland"
+    ]
   },
   "GRO": {
-    "name": "Groningen"
+    "name": "Groningen",
+    "regions": [
+      "Groningen"
+    ]
   },
   "LIM": {
-    "name": "Limburg"
+    "name": "Limburg",
+    "regions": [
+      "Limburg"
+    ]
   },
   "NOO": {
-    "name": "Noord-Holland"
+    "name": "Noord-Holland",
+    "regions": [
+      "Noord-Holland"
+    ]
   },
   "OVE": {
-    "name": "Overijssel"
+    "name": "Overijssel",
+    "regions": [
+      "Overijssel"
+    ]
   },
   "SAB": {
     "name": "Saba"
@@ -42,12 +66,21 @@
     "name": "Sint Maarten"
   },
   "UTR": {
-    "name": "Utrecht"
+    "name": "Utrecht",
+    "regions": [
+      "Utrecht"
+    ]
   },
   "ZEE": {
-    "name": "Zeeland"
+    "name": "Zeeland",
+    "regions": [
+      "Zeeland"
+    ]
   },
   "ZUI": {
-    "name": "Zuid-Holland"
+    "name": "Zuid-Holland",
+    "regions": [
+      "Zuid-Holland"
+    ]
   }
 }

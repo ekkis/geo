@@ -1,20 +1,38 @@
 {
   "FAM": {
-    "name": "Famagusta"
+    "name": "Famagusta",
+    "regions": [
+      "Famagusta"
+    ]
   },
   "KYR": {
-    "name": "Kyrenia"
+    "name": "Kyrenia",
+    "regions": [
+      "Kyrenia"
+    ]
   },
   "LAR": {
-    "name": "Larnaca"
+    "name": "Larnaca",
+    "regions": [
+      "Larnaca"
+    ]
   },
   "LIM": {
-    "name": "Limassol"
+    "name": "Limassol",
+    "regions": [
+      "Limassol"
+    ]
   },
   "NIC": {
-    "name": "Nicosia"
+    "name": "Nicosia",
+    "regions": [
+      "Nicosia"
+    ]
   },
   "PAP": {
-    "name": "Paphos"
+    "name": "Paphos",
+    "regions": [
+      "Paphos"
+    ]
   }
 }

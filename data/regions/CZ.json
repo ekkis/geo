@@ -1,44 +1,86 @@
 {
   "CENBO": {
-    "name": "Central Bohemian"
+    "name": "Central Bohemian",
+    "regions": [
+      "Central Bohemian"
+    ]
   },
   "HRAKR": {
-    "name": "Hradec Králové"
+    "name": "Hradec Králové",
+    "regions": [
+      "Hradec Králové"
+    ]
   },
   "KARVA": {
-    "name": "Karlovy Vary"
+    "name": "Karlovy Vary",
+    "regions": [
+      "Karlovy Vary"
+    ]
   },
   "LIB": {
-    "name": "Liberec"
+    "name": "Liberec",
+    "regions": [
+      "Liberec"
+    ]
   },
   "MOR": {
-    "name": "Moravian-Silesian"
+    "name": "Moravian-Silesian",
+    "regions": [
+      "Moravian-Silesian"
+    ]
   },
   "OLO": {
-    "name": "Olomouc"
+    "name": "Olomouc",
+    "regions": [
+      "Olomouc"
+    ]
   },
   "PAR": {
-    "name": "Pardubice"
+    "name": "Pardubice",
+    "regions": [
+      "Pardubice"
+    ]
   },
   "PLZ": {
-    "name": "Plzeň"
+    "name": "Plzeň",
+    "regions": [
+      "Plzeň"
+    ]
   },
   "PRA": {
-    "name": "Prague"
+    "name": "Prague",
+    "regions": [
+      "Prague"
+    ]
   },
   "SOUBO": {
-    "name": "South Bohemian"
+    "name": "South Bohemian",
+    "regions": [
+      "South Bohemian"
+    ]
   },
   "SOUMO": {
-    "name": "South Moravian"
+    "name": "South Moravian",
+    "regions": [
+      "South Moravian"
+    ]
   },
   "USTNA": {
-    "name": "Ústí nad Labem"
+    "name": "Ústí nad Labem",
+    "regions": [
+      "Ústí nad Labem"
+    ]
   },
   "VYS": {
-    "name": "Vysočina"
+    "name": "Vysočina",
+    "regions": [
+      "Vysočina"
+    ]
   },
   "ZLI": {
-    "name": "Zlín"
+    "name": "Zlín",
+    "regions": [
+      "Zlín"
+    ]
   }
 }

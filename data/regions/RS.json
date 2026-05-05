@@ -1,62 +1,122 @@
 {
   "BEL": {
-    "name": "Belgrade"
+    "name": "Belgrade",
+    "regions": [
+      "Belgrade"
+    ]
   },
   "BOR": {
-    "name": "Bor"
+    "name": "Bor",
+    "regions": [
+      "Bor"
+    ]
   },
   "BRA": {
-    "name": "Braničevo"
+    "name": "Braničevo",
+    "regions": [
+      "Braničevo"
+    ]
   },
   "BRA1": {
-    "name": "Braničevo"
+    "name": "Braničevo",
+    "regions": [
+      "Braničevo"
+    ]
   },
   "JAB": {
-    "name": "Jablanica"
+    "name": "Jablanica",
+    "regions": [
+      "Jablanica"
+    ]
   },
   "KOL": {
-    "name": "Kolubara"
+    "name": "Kolubara",
+    "regions": [
+      "Kolubara"
+    ]
   },
   "MAC": {
-    "name": "Mačva"
+    "name": "Mačva",
+    "regions": [
+      "Mačva"
+    ]
   },
   "MOR": {
-    "name": "Moravica"
+    "name": "Moravica",
+    "regions": [
+      "Moravica"
+    ]
   },
   "NIS": {
-    "name": "Nišava"
+    "name": "Nišava",
+    "regions": [
+      "Nišava"
+    ]
   },
   "PCI": {
-    "name": "Pčinja"
+    "name": "Pčinja",
+    "regions": [
+      "Pčinja"
+    ]
   },
   "PCI1": {
-    "name": "Pčinja"
+    "name": "Pčinja",
+    "regions": [
+      "Pčinja"
+    ]
   },
   "POD": {
-    "name": "Podunavlje"
+    "name": "Podunavlje",
+    "regions": [
+      "Podunavlje"
+    ]
   },
   "POM": {
-    "name": "Pomoravlje"
+    "name": "Pomoravlje",
+    "regions": [
+      "Pomoravlje"
+    ]
   },
   "RAS": {
-    "name": "Rasina"
+    "name": "Rasina",
+    "regions": [
+      "Rasina"
+    ]
   },
   "RAS1": {
-    "name": "Raska"
+    "name": "Raska",
+    "regions": [
+      "Raska"
+    ]
   },
   "SOUAN": {
-    "name": "Southern and Eastern Serbia"
+    "name": "Southern and Eastern Serbia",
+    "regions": [
+      "Southern and Eastern Serbia"
+    ]
   },
   "SUMAN": {
-    "name": "Šumadija and Western Serbia"
+    "name": "Šumadija and Western Serbia",
+    "regions": [
+      "Šumadija and Western Serbia"
+    ]
   },
   "VOJ": {
-    "name": "Vojvodina"
+    "name": "Vojvodina",
+    "regions": [
+      "Vojvodina"
+    ]
   },
   "ZLA": {
-    "name": "Zlatibor"
+    "name": "Zlatibor",
+    "regions": [
+      "Zlatibor"
+    ]
   },
   "ZLA1": {
-    "name": "Zlatibor"
+    "name": "Zlatibor",
+    "regions": [
+      "Zlatibor"
+    ]
   }
 }

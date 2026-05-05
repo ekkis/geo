@@ -1,38 +1,74 @@
 {
   "AJL": {
-    "name": "Ajloun"
+    "name": "Ajloun",
+    "regions": [
+      "North"
+    ]
   },
   "AMM": {
-    "name": "Amman"
+    "name": "Amman",
+    "regions": [
+      "Central"
+    ]
   },
   "AQA": {
-    "name": "Aqaba"
+    "name": "Aqaba",
+    "regions": [
+      "South"
+    ]
   },
   "BAL": {
-    "name": "Balqa"
+    "name": "Balqa",
+    "regions": [
+      "Central"
+    ]
   },
   "IRB": {
-    "name": "Irbid"
+    "name": "Irbid",
+    "regions": [
+      "North"
+    ]
   },
   "JER": {
-    "name": "Jerash"
+    "name": "Jerash",
+    "regions": [
+      "North"
+    ]
   },
   "KAR": {
-    "name": "Karak"
+    "name": "Karak",
+    "regions": [
+      "South"
+    ]
   },
   "MA'": {
-    "name": "Ma'an"
+    "name": "Ma'an",
+    "regions": [
+      "South"
+    ]
   },
   "MAD": {
-    "name": "Madaba"
+    "name": "Madaba",
+    "regions": [
+      "Central"
+    ]
   },
   "MAF": {
-    "name": "Mafraq"
+    "name": "Mafraq",
+    "regions": [
+      "North"
+    ]
   },
   "TAF": {
-    "name": "Tafilah"
+    "name": "Tafilah",
+    "regions": [
+      "South"
+    ]
   },
   "ZAR": {
-    "name": "Zarqa"
+    "name": "Zarqa",
+    "regions": [
+      "Central"
+    ]
   }
 }

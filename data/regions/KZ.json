@@ -1,50 +1,98 @@
 {
   "AKMO": {
-    "name": "Akmola"
+    "name": "Akmola",
+    "regions": [
+      "Akmola"
+    ]
   },
   "AKTO": {
-    "name": "Aktobe"
+    "name": "Aktobe",
+    "regions": [
+      "Aktobe"
+    ]
   },
   "ALM": {
-    "name": "Almaty"
+    "name": "Almaty",
+    "regions": [
+      "Almaty"
+    ]
   },
   "AST": {
-    "name": "Nur-Sultan"
+    "name": "Nur-Sultan",
+    "regions": [
+      "Nur-Sultan"
+    ]
   },
   "ATYR": {
-    "name": "Atyrau"
+    "name": "Atyrau",
+    "regions": [
+      "Atyrau"
+    ]
   },
   "KARAG": {
-    "name": "Karaganda"
+    "name": "Karaganda",
+    "regions": [
+      "Karaganda"
+    ]
   },
   "KOST": {
-    "name": "Kostanay"
+    "name": "Kostanay",
+    "regions": [
+      "Kostanay"
+    ]
   },
   "KYZY": {
-    "name": "Kyzylorda"
+    "name": "Kyzylorda",
+    "regions": [
+      "Kyzylorda"
+    ]
   },
   "MANGS": {
-    "name": "Mangystau"
+    "name": "Mangystau",
+    "regions": [
+      "Mangystau"
+    ]
   },
   "PAV": {
-    "name": "Pavlodar"
+    "name": "Pavlodar",
+    "regions": [
+      "Pavlodar"
+    ]
   },
   "SEVZ": {
-    "name": "North Kazakhstan"
+    "name": "North Kazakhstan",
+    "regions": [
+      "North Kazakhstan"
+    ]
   },
   "SHYM": {
-    "name": "Shymkent"
+    "name": "Shymkent",
+    "regions": [
+      "Shymkent"
+    ]
   },
   "TURK": {
-    "name": "Turkestan"
+    "name": "Turkestan",
+    "regions": [
+      "Turkestan"
+    ]
   },
   "VOST": {
-    "name": "East Kazakhstan"
+    "name": "East Kazakhstan",
+    "regions": [
+      "East Kazakhstan"
+    ]
   },
   "YUZH": {
-    "name": "South Kazakhstan"
+    "name": "South Kazakhstan",
+    "regions": [
+      "South Kazakhstan"
+    ]
   },
   "ZAPAD": {
-    "name": "West Kazakhstan"
+    "name": "West Kazakhstan",
+    "regions": [
+      "West Kazakhstan"
+    ]
   }
 }

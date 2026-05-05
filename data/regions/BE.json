@@ -1,32 +1,62 @@
 {
   "ANT": {
-    "name": "Antwerpen"
+    "name": "Antwerpen",
+    "regions": [
+      "Flanders"
+    ]
   },
   "HEN": {
-    "name": "Henegouwen"
+    "name": "Henegouwen",
+    "regions": [
+      "Wallonia"
+    ]
   },
   "LIM": {
-    "name": "Limburg"
+    "name": "Limburg",
+    "regions": [
+      "Flanders"
+    ]
   },
   "LUI": {
-    "name": "Luik"
+    "name": "Luik",
+    "regions": [
+      "Wallonia"
+    ]
   },
   "LUX": {
-    "name": "Luxemburg"
+    "name": "Luxemburg",
+    "regions": [
+      "Wallonia"
+    ]
   },
   "NAM": {
-    "name": "Namen"
+    "name": "Namen",
+    "regions": [
+      "Wallonia"
+    ]
   },
   "OOS": {
-    "name": "Oost-Vlaanderen"
+    "name": "Oost-Vlaanderen",
+    "regions": [
+      "Flanders"
+    ]
   },
   "VLA": {
-    "name": "Vlaams-Brabant"
+    "name": "Vlaams-Brabant",
+    "regions": [
+      "Flanders"
+    ]
   },
   "WAA": {
-    "name": "Waals-Brabant"
+    "name": "Waals-Brabant",
+    "regions": [
+      "Wallonia"
+    ]
   },
   "WES": {
-    "name": "West-Vlaanderen"
+    "name": "West-Vlaanderen",
+    "regions": [
+      "Flanders"
+    ]
   }
 }

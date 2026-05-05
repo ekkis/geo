@@ -1,17 +1,32 @@
 {
   "HOV": {
-    "name": "Hovedstaden"
+    "name": "Hovedstaden",
+    "regions": [
+      "Denmark"
+    ]
   },
   "MID": {
-    "name": "Midtjylland"
+    "name": "Midtjylland",
+    "regions": [
+      "Denmark"
+    ]
   },
   "NOR": {
-    "name": "Nordjylland"
+    "name": "Nordjylland",
+    "regions": [
+      "Denmark"
+    ]
   },
   "SJÆ": {
-    "name": "Sjælland"
+    "name": "Sjælland",
+    "regions": [
+      "Denmark"
+    ]
   },
   "SYD": {
-    "name": "Syddanmark"
+    "name": "Syddanmark",
+    "regions": [
+      "Denmark"
+    ]
   }
 }

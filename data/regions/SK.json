@@ -1,26 +1,50 @@
 {
   "BANBY": {
-    "name": "Banská Bystrica"
+    "name": "Banská Bystrica",
+    "regions": [
+      "Banská Bystrica"
+    ]
   },
   "BRA": {
-    "name": "Bratislava"
+    "name": "Bratislava",
+    "regions": [
+      "Bratislava"
+    ]
   },
   "KOS": {
-    "name": "Košice"
+    "name": "Košice",
+    "regions": [
+      "Košice"
+    ]
   },
   "NIT": {
-    "name": "Nitra"
+    "name": "Nitra",
+    "regions": [
+      "Nitra"
+    ]
   },
   "PRE": {
-    "name": "Prešov"
+    "name": "Prešov",
+    "regions": [
+      "Prešov"
+    ]
   },
   "TRE": {
-    "name": "Trenčín"
+    "name": "Trenčín",
+    "regions": [
+      "Trenčín"
+    ]
   },
   "TRN": {
-    "name": "Trnava"
+    "name": "Trnava",
+    "regions": [
+      "Trnava"
+    ]
   },
   "ZIL": {
-    "name": "Žilina"
+    "name": "Žilina",
+    "regions": [
+      "Žilina"
+    ]
   }
 }

@@ -1,65 +1,128 @@
 {
   "ARKH": {
-    "name": "Arkhangai"
+    "name": "Arkhangai",
+    "regions": [
+      "Arkhangai"
+    ]
   },
   "BAYANH": {
-    "name": "Bayankhongor"
+    "name": "Bayankhongor",
+    "regions": [
+      "Bayankhongor"
+    ]
   },
   "BAYAO": {
-    "name": "Bayan-Olgii"
+    "name": "Bayan-Olgii",
+    "regions": [
+      "Bayan-Olgii"
+    ]
   },
   "BULG": {
-    "name": "Bulgan"
+    "name": "Bulgan",
+    "regions": [
+      "Bulgan"
+    ]
   },
   "DARKH": {
-    "name": "Darkhan-Uul"
+    "name": "Darkhan-Uul",
+    "regions": [
+      "Darkhan-Uul"
+    ]
   },
   "DORN": {
-    "name": "Dornod"
+    "name": "Dornod",
+    "regions": [
+      "Dornod"
+    ]
   },
   "DORNO": {
-    "name": "Dornogovi"
+    "name": "Dornogovi",
+    "regions": [
+      "Dornogovi"
+    ]
   },
   "DUND": {
-    "name": "Dundgovi"
+    "name": "Dundgovi",
+    "regions": [
+      "Dundgovi"
+    ]
   },
   "GOVI": {
-    "name": "Govi-Altai"
+    "name": "Govi-Altai",
+    "regions": [
+      "Govi-Altai"
+    ]
   },
   "GOVIS": {
-    "name": "Govi-Sumber"
+    "name": "Govi-Sumber",
+    "regions": [
+      "Govi-Sumber"
+    ]
   },
   "KHENT": {
-    "name": "Khentii"
+    "name": "Khentii",
+    "regions": [
+      "Khentii"
+    ]
   },
   "KHOV": {
-    "name": "Khovd"
+    "name": "Khovd",
+    "regions": [
+      "Khovd"
+    ]
   },
   "KHOVG": {
-    "name": "Khövsgöl"
+    "name": "Khövsgöl",
+    "regions": [
+      "Khövsgöl"
+    ]
   },
   "ORKHON": {
-    "name": "Orkhon"
+    "name": "Orkhon",
+    "regions": [
+      "Orkhon"
+    ]
   },
   "OVORK": {
-    "name": "Ovorkhangai"
+    "name": "Ovorkhangai",
+    "regions": [
+      "Ovorkhangai"
+    ]
   },
   "SELE": {
-    "name": "Selenge"
+    "name": "Selenge",
+    "regions": [
+      "Selenge"
+    ]
   },
   "TUV": {
-    "name": "Töv"
+    "name": "Töv",
+    "regions": [
+      "Töv"
+    ]
   },
   "ULAANB": {
-    "name": "Ulaanbaatar"
+    "name": "Ulaanbaatar",
+    "regions": [
+      "Ulaanbaatar"
+    ]
   },
   "UMNU": {
-    "name": "Umnugovi"
+    "name": "Umnugovi",
+    "regions": [
+      "Umnugovi"
+    ]
   },
   "UVS": {
-    "name": "Uvs"
+    "name": "Uvs",
+    "regions": [
+      "Uvs"
+    ]
   },
   "ZAVK": {
-    "name": "Zavkhan"
+    "name": "Zavkhan",
+    "regions": [
+      "Zavkhan"
+    ]
   }
 }

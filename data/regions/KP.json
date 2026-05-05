@@ -1,38 +1,74 @@
 {
   "CHAGANG": {
-    "name": "Chagang"
+    "name": "Chagang",
+    "regions": [
+      "Chagang"
+    ]
   },
   "HAMPNORTH": {
-    "name": "North Hamgyong"
+    "name": "North Hamgyong",
+    "regions": [
+      "North Hamgyong"
+    ]
   },
   "HAMSOUTH": {
-    "name": "South Hamgyong"
+    "name": "South Hamgyong",
+    "regions": [
+      "South Hamgyong"
+    ]
   },
   "HWABONORTH": {
-    "name": "North Hwanghae"
+    "name": "North Hwanghae",
+    "regions": [
+      "North Hwanghae"
+    ]
   },
   "HWABOSOUTH": {
-    "name": "South Hwanghae"
+    "name": "South Hwanghae",
+    "regions": [
+      "South Hwanghae"
+    ]
   },
   "KANGWON": {
-    "name": "Kangwon"
+    "name": "Kangwon",
+    "regions": [
+      "Kangwon"
+    ]
   },
   "NAMPO": {
-    "name": "Nampo"
+    "name": "Nampo",
+    "regions": [
+      "Nampo"
+    ]
   },
   "PYONGBONORTH": {
-    "name": "North Pyongan"
+    "name": "North Pyongan",
+    "regions": [
+      "North Pyongan"
+    ]
   },
   "PYONGBOSOUTH": {
-    "name": "South Pyongan"
+    "name": "South Pyongan",
+    "regions": [
+      "South Pyongan"
+    ]
   },
   "PYONGYANG": {
-    "name": "Pyongyang"
+    "name": "Pyongyang",
+    "regions": [
+      "Pyongyang"
+    ]
   },
   "RASON": {
-    "name": "Rason"
+    "name": "Rason",
+    "regions": [
+      "Rason"
+    ]
   },
   "RYANGANG": {
-    "name": "Ryanggang"
+    "name": "Ryanggang",
+    "regions": [
+      "Ryanggang"
+    ]
   }
 }

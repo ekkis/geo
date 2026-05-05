@@ -1,5 +1,8 @@
 {
   "GIBRALT": {
-    "name": "Gibraltar"
+    "name": "Gibraltar",
+    "regions": [
+      "Gibraltar"
+    ]
   }
 }

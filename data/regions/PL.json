@@ -1,44 +1,86 @@
 {
   "GREPO": {
-    "name": "Greater Poland"
+    "name": "Greater Poland",
+    "regions": [
+      "Greater Poland"
+    ]
   },
   "KUY": {
-    "name": "Kuyavian-Pomeranian"
+    "name": "Kuyavian-Pomeranian",
+    "regions": [
+      "Kuyavian-Pomeranian"
+    ]
   },
   "LESPO": {
-    "name": "Lesser Poland"
+    "name": "Lesser Poland",
+    "regions": [
+      "Lesser Poland"
+    ]
   },
   "LOWSI": {
-    "name": "Lower Silesian"
+    "name": "Lower Silesian",
+    "regions": [
+      "Lower Silesian"
+    ]
   },
   "LUB": {
-    "name": "Lublin"
+    "name": "Lublin",
+    "regions": [
+      "Lublin"
+    ]
   },
   "LUB1": {
-    "name": "Lubusz"
+    "name": "Lubusz",
+    "regions": [
+      "Lubusz"
+    ]
   },
   "MAS": {
-    "name": "Masovian"
+    "name": "Masovian",
+    "regions": [
+      "Masovian"
+    ]
   },
   "ODZ": {
-    "name": "Łódź"
+    "name": "Łódź",
+    "regions": [
+      "Łódź"
+    ]
   },
   "OPO": {
-    "name": "Opole"
+    "name": "Opole",
+    "regions": [
+      "Opole"
+    ]
   },
   "POD": {
-    "name": "Podlaskie"
+    "name": "Podlaskie",
+    "regions": [
+      "Podlaskie"
+    ]
   },
   "POM": {
-    "name": "Pomeranian"
+    "name": "Pomeranian",
+    "regions": [
+      "Pomeranian"
+    ]
   },
   "SWI": {
-    "name": "Świętokrzyskie"
+    "name": "Świętokrzyskie",
+    "regions": [
+      "Świętokrzyskie"
+    ]
   },
   "WAR": {
-    "name": "Warmian-Masurian"
+    "name": "Warmian-Masurian",
+    "regions": [
+      "Warmian-Masurian"
+    ]
   },
   "WESPO": {
-    "name": "West Pomeranian"
+    "name": "West Pomeranian",
+    "regions": [
+      "West Pomeranian"
+    ]
   }
 }

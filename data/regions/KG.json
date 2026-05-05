@@ -1,29 +1,56 @@
 {
   "BATK": {
-    "name": "Batken"
+    "name": "Batken",
+    "regions": [
+      "Batken"
+    ]
   },
   "BISH": {
-    "name": "Bishkek"
+    "name": "Bishkek",
+    "regions": [
+      "Bishkek"
+    ]
   },
   "CHUY": {
-    "name": "Chuy"
+    "name": "Chuy",
+    "regions": [
+      "Chuy"
+    ]
   },
   "ISSYK": {
-    "name": "Issyk-Kul"
+    "name": "Issyk-Kul",
+    "regions": [
+      "Issyk-Kul"
+    ]
   },
   "JALA": {
-    "name": "Jalal-Abad"
+    "name": "Jalal-Abad",
+    "regions": [
+      "Jalal-Abad"
+    ]
   },
   "NARY": {
-    "name": "Naryn"
+    "name": "Naryn",
+    "regions": [
+      "Naryn"
+    ]
   },
   "OSH": {
-    "name": "Osh"
+    "name": "Osh",
+    "regions": [
+      "Osh"
+    ]
   },
   "OSHREG": {
-    "name": "Osh Region"
+    "name": "Osh Region",
+    "regions": [
+      "Osh Region"
+    ]
   },
   "TALAS": {
-    "name": "Talas"
+    "name": "Talas",
+    "regions": [
+      "Talas"
+    ]
   }
 }

@@ -1,141 +1,267 @@
 {
   "AGR": {
-    "name": "Agrigento"
+    "name": "Agrigento",
+    "regions": [
+      "Sicily"
+    ]
   },
   "ALE": {
-    "name": "Alessandria"
+    "name": "Alessandria",
+    "regions": [
+      "Piedmont"
+    ]
   },
   "ANC": {
-    "name": "Ancona"
+    "name": "Ancona",
+    "regions": [
+      "Marche"
+    ]
   },
   "AOS": {
-    "name": "Aosta"
+    "name": "Aosta",
+    "regions": [
+      "Aosta Valley"
+    ]
   },
   "AP": {
     "name": "Ascoli Piceno"
   },
   "ARE": {
-    "name": "Arezzo"
+    "name": "Arezzo",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "AST": {
-    "name": "Asti"
+    "name": "Asti",
+    "regions": [
+      "Piedmont"
+    ]
   },
   "AVE": {
-    "name": "Avellino"
+    "name": "Avellino",
+    "regions": [
+      "Campania"
+    ]
   },
   "BAR": {
     "name": "Barletta-Andria-Trani"
   },
   "BEL": {
-    "name": "Belluno"
+    "name": "Belluno",
+    "regions": [
+      "Veneto"
+    ]
   },
   "BEN": {
-    "name": "Benevento"
+    "name": "Benevento",
+    "regions": [
+      "Campania"
+    ]
   },
   "BER": {
-    "name": "Bergamo"
+    "name": "Bergamo",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "BIE": {
-    "name": "Biella"
+    "name": "Biella",
+    "regions": [
+      "Piedmont"
+    ]
   },
   "BOL": {
-    "name": "Bolzano"
+    "name": "Bolzano",
+    "regions": [
+      "Trentino-Alto Adige"
+    ]
   },
   "BRE": {
-    "name": "Brescia"
+    "name": "Brescia",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "BRI": {
-    "name": "Brindisi"
+    "name": "Brindisi",
+    "regions": [
+      "Apulia"
+    ]
   },
   "CAG": {
-    "name": "Cagliari"
+    "name": "Cagliari",
+    "regions": [
+      "Sardinia"
+    ]
   },
   "CAL": {
-    "name": "Caltanissetta"
+    "name": "Caltanissetta",
+    "regions": [
+      "Sicily"
+    ]
   },
   "CAM": {
-    "name": "Campobasso"
+    "name": "Campobasso",
+    "regions": [
+      "Molise"
+    ]
   },
   "CAS": {
-    "name": "Caserta"
+    "name": "Caserta",
+    "regions": [
+      "Campania"
+    ]
   },
   "CAT": {
-    "name": "Catanzaro"
+    "name": "Catanzaro",
+    "regions": [
+      "Calabria"
+    ]
   },
   "CHI": {
-    "name": "Chieti"
+    "name": "Chieti",
+    "regions": [
+      "Abruzzo"
+    ]
   },
   "COM": {
-    "name": "Como"
+    "name": "Como",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "COS": {
-    "name": "Cosenza"
+    "name": "Cosenza",
+    "regions": [
+      "Calabria"
+    ]
   },
   "CRE": {
-    "name": "Cremona"
+    "name": "Cremona",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "CRO": {
-    "name": "Crotone"
+    "name": "Crotone",
+    "regions": [
+      "Calabria"
+    ]
   },
   "CUN": {
-    "name": "Cuneo"
+    "name": "Cuneo",
+    "regions": [
+      "Piedmont"
+    ]
   },
   "ENN": {
-    "name": "Enna"
+    "name": "Enna",
+    "regions": [
+      "Sicily"
+    ]
   },
   "FER": {
-    "name": "Ferrara"
+    "name": "Ferrara",
+    "regions": [
+      "Emilia-Romagna"
+    ]
   },
   "FIR": {
-    "name": "Firenze"
+    "name": "Firenze",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "FOG": {
-    "name": "Foggia"
+    "name": "Foggia",
+    "regions": [
+      "Apulia"
+    ]
   },
   "FOR": {
     "name": "Forlì-Cesena"
   },
   "FRO": {
-    "name": "Frosinone"
+    "name": "Frosinone",
+    "regions": [
+      "Lazio"
+    ]
   },
   "GEN": {
     "name": "Genova"
   },
   "GOR": {
-    "name": "Gorizia"
+    "name": "Gorizia",
+    "regions": [
+      "Friuli-Venezia Giulia"
+    ]
   },
   "GRO": {
-    "name": "Grosseto"
+    "name": "Grosseto",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "IMP": {
-    "name": "Imperia"
+    "name": "Imperia",
+    "regions": [
+      "Liguria"
+    ]
   },
   "ISE": {
-    "name": "Isernia"
+    "name": "Isernia",
+    "regions": [
+      "Molise"
+    ]
   },
   "L'A": {
-    "name": "L'Aquila"
+    "name": "L'Aquila",
+    "regions": [
+      "Abruzzo"
+    ]
   },
   "LAT": {
-    "name": "Latina"
+    "name": "Latina",
+    "regions": [
+      "Lazio"
+    ]
   },
   "LEC": {
-    "name": "Lecco"
+    "name": "Lecco",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "LIV": {
-    "name": "Livorno"
+    "name": "Livorno",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "LOD": {
-    "name": "Lodi"
+    "name": "Lodi",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "LS": {
-    "name": "La Spezia"
+    "name": "La Spezia",
+    "regions": [
+      "Liguria"
+    ]
   },
   "LUC": {
-    "name": "Lucca"
+    "name": "Lucca",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "MAC": {
-    "name": "Macerata"
+    "name": "Macerata",
+    "regions": [
+      "Marche"
+    ]
   },
   "MAN": {
     "name": "Mantova"
@@ -144,79 +270,133 @@
     "name": "Massa-Carrara"
   },
   "MAT": {
-    "name": "Matera"
+    "name": "Matera",
+    "regions": [
+      "Basilicata"
+    ]
   },
   "ME": {
     "name": "Monza e della Brianza"
   },
   "MES": {
-    "name": "Messina"
+    "name": "Messina",
+    "regions": [
+      "Sicily"
+    ]
   },
   "MIL": {
     "name": "Milano"
   },
   "MOD": {
-    "name": "Modena"
+    "name": "Modena",
+    "regions": [
+      "Emilia-Romagna"
+    ]
   },
   "NAP": {
     "name": "Napoli"
   },
   "NOV": {
-    "name": "Novara"
+    "name": "Novara",
+    "regions": [
+      "Piedmont"
+    ]
   },
   "NUO": {
     "name": "Nuoro"
   },
   "ORI": {
-    "name": "Oristano"
+    "name": "Oristano",
+    "regions": [
+      "Sardinia"
+    ]
   },
   "PAD": {
     "name": "Padova"
   },
   "PAL": {
-    "name": "Palermo"
+    "name": "Palermo",
+    "regions": [
+      "Sicily"
+    ]
   },
   "PAR": {
-    "name": "Parma"
+    "name": "Parma",
+    "regions": [
+      "Emilia-Romagna"
+    ]
   },
   "PAV": {
-    "name": "Pavia"
+    "name": "Pavia",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "PE": {
     "name": "Pesaro e Urbino"
   },
   "PER": {
-    "name": "Perugia"
+    "name": "Perugia",
+    "regions": [
+      "Umbria"
+    ]
   },
   "PES": {
-    "name": "Pescara"
+    "name": "Pescara",
+    "regions": [
+      "Abruzzo"
+    ]
   },
   "PIA": {
-    "name": "Piacenza"
+    "name": "Piacenza",
+    "regions": [
+      "Emilia-Romagna"
+    ]
   },
   "PIS": {
-    "name": "Pistoia"
+    "name": "Pistoia",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "POR": {
-    "name": "Pordenone"
+    "name": "Pordenone",
+    "regions": [
+      "Friuli-Venezia Giulia"
+    ]
   },
   "POT": {
-    "name": "Potenza"
+    "name": "Potenza",
+    "regions": [
+      "Basilicata"
+    ]
   },
   "PRA": {
     "name": "Prato"
   },
   "RAG": {
-    "name": "Ragusa"
+    "name": "Ragusa",
+    "regions": [
+      "Sicily"
+    ]
   },
   "RAV": {
-    "name": "Ravenna"
+    "name": "Ravenna",
+    "regions": [
+      "Emilia-Romagna"
+    ]
   },
   "RC": {
-    "name": "Reggio Calabria"
+    "name": "Reggio Calabria",
+    "regions": [
+      "Calabria"
+    ]
   },
   "RE": {
-    "name": "Reggio Emilia"
+    "name": "Reggio Emilia",
+    "regions": [
+      "Emilia-Romagna"
+    ]
   },
   "RIE": {
     "name": "Rieti"
@@ -231,58 +411,106 @@
     "name": "Rovigo"
   },
   "SAL": {
-    "name": "Salerno"
+    "name": "Salerno",
+    "regions": [
+      "Campania"
+    ]
   },
   "SAS": {
-    "name": "Sassari"
+    "name": "Sassari",
+    "regions": [
+      "Sardinia"
+    ]
   },
   "SAV": {
-    "name": "Savona"
+    "name": "Savona",
+    "regions": [
+      "Liguria"
+    ]
   },
   "SIE": {
-    "name": "Siena"
+    "name": "Siena",
+    "regions": [
+      "Tuscany"
+    ]
   },
   "SIR": {
-    "name": "Siracusa"
+    "name": "Siracusa",
+    "regions": [
+      "Sicily"
+    ]
   },
   "SON": {
-    "name": "Sondrio"
+    "name": "Sondrio",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "TAR": {
-    "name": "Taranto"
+    "name": "Taranto",
+    "regions": [
+      "Apulia"
+    ]
   },
   "TER": {
-    "name": "Terni"
+    "name": "Terni",
+    "regions": [
+      "Umbria"
+    ]
   },
   "TOR": {
-    "name": "Torino"
+    "name": "Torino",
+    "regions": [
+      "Piedmont"
+    ]
   },
   "TRA": {
-    "name": "Trapani"
+    "name": "Trapani",
+    "regions": [
+      "Sicily"
+    ]
   },
   "TRE": {
-    "name": "Treviso"
+    "name": "Treviso",
+    "regions": [
+      "Veneto"
+    ]
   },
   "TRI": {
     "name": "Trieste"
   },
   "UDI": {
-    "name": "Udine"
+    "name": "Udine",
+    "regions": [
+      "Friuli-Venezia Giulia"
+    ]
   },
   "VAR": {
-    "name": "Varese"
+    "name": "Varese",
+    "regions": [
+      "Lombardy"
+    ]
   },
   "VEN": {
     "name": "Venezia"
   },
   "VER": {
-    "name": "Verona"
+    "name": "Verona",
+    "regions": [
+      "Veneto"
+    ]
   },
   "VIC": {
-    "name": "Vicenza"
+    "name": "Vicenza",
+    "regions": [
+      "Veneto"
+    ]
   },
   "VIT": {
-    "name": "Viterbo"
+    "name": "Viterbo",
+    "regions": [
+      "Lazio"
+    ]
   },
   "VV": {
     "name": "Vibo Valentia"

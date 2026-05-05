@@ -1,125 +1,248 @@
 {
   "ALB": {
-    "name": "Alba"
+    "name": "Alba",
+    "regions": [
+      "Alba"
+    ]
   },
   "ARA": {
-    "name": "Arad"
+    "name": "Arad",
+    "regions": [
+      "Arad"
+    ]
   },
   "ARG": {
-    "name": "Argeș"
+    "name": "Argeș",
+    "regions": [
+      "Argeș"
+    ]
   },
   "BAC": {
-    "name": "Bacău"
+    "name": "Bacău",
+    "regions": [
+      "Bacău"
+    ]
   },
   "BIH": {
-    "name": "Bihor"
+    "name": "Bihor",
+    "regions": [
+      "Bihor"
+    ]
   },
   "BIS": {
-    "name": "Bistrița-Năsăud"
+    "name": "Bistrița-Năsăud",
+    "regions": [
+      "Bistrița-Năsăud"
+    ]
   },
   "BOT": {
-    "name": "Botoșani"
+    "name": "Botoșani",
+    "regions": [
+      "Botoșani"
+    ]
   },
   "BRA": {
-    "name": "Brașov"
+    "name": "Brașov",
+    "regions": [
+      "Brașov"
+    ]
   },
   "BRA1": {
-    "name": "Brăila"
+    "name": "Brăila",
+    "regions": [
+      "Brăila"
+    ]
   },
   "BUZ": {
-    "name": "Buzău"
+    "name": "Buzău",
+    "regions": [
+      "Buzău"
+    ]
   },
   "CAL": {
-    "name": "Călărași"
+    "name": "Călărași",
+    "regions": [
+      "Călărași"
+    ]
   },
   "CAR": {
-    "name": "Caraș-Severin"
+    "name": "Caraș-Severin",
+    "regions": [
+      "Caraș-Severin"
+    ]
   },
   "CLU": {
-    "name": "Cluj"
+    "name": "Cluj",
+    "regions": [
+      "Cluj"
+    ]
   },
   "CON": {
-    "name": "Constanța"
+    "name": "Constanța",
+    "regions": [
+      "Constanța"
+    ]
   },
   "COV": {
-    "name": "Covasna"
+    "name": "Covasna",
+    "regions": [
+      "Covasna"
+    ]
   },
   "DAM": {
-    "name": "Dâmbovița"
+    "name": "Dâmbovița",
+    "regions": [
+      "Dâmbovița"
+    ]
   },
   "DOL": {
-    "name": "Dolj"
+    "name": "Dolj",
+    "regions": [
+      "Dolj"
+    ]
   },
   "GAL": {
-    "name": "Galați"
+    "name": "Galați",
+    "regions": [
+      "Galați"
+    ]
   },
   "GIU": {
-    "name": "Giurgiu"
+    "name": "Giurgiu",
+    "regions": [
+      "Giurgiu"
+    ]
   },
   "GOR": {
-    "name": "Gorj"
+    "name": "Gorj",
+    "regions": [
+      "Gorj"
+    ]
   },
   "HAR": {
-    "name": "Harghita"
+    "name": "Harghita",
+    "regions": [
+      "Harghita"
+    ]
   },
   "HUN": {
-    "name": "Hunedoara"
+    "name": "Hunedoara",
+    "regions": [
+      "Hunedoara"
+    ]
   },
   "IAL": {
-    "name": "Ialomița"
+    "name": "Ialomița",
+    "regions": [
+      "Ialomița"
+    ]
   },
   "IAS": {
-    "name": "Iași"
+    "name": "Iași",
+    "regions": [
+      "Iași"
+    ]
   },
   "ILF": {
-    "name": "Ilfov"
+    "name": "Ilfov",
+    "regions": [
+      "Ilfov"
+    ]
   },
   "MAR": {
-    "name": "Maramureș"
+    "name": "Maramureș",
+    "regions": [
+      "Maramureș"
+    ]
   },
   "MEH": {
-    "name": "Mehedinți"
+    "name": "Mehedinți",
+    "regions": [
+      "Mehedinți"
+    ]
   },
   "MUR": {
-    "name": "Mureș"
+    "name": "Mureș",
+    "regions": [
+      "Mureș"
+    ]
   },
   "NEA": {
-    "name": "Neamț"
+    "name": "Neamț",
+    "regions": [
+      "Neamț"
+    ]
   },
   "OLT": {
-    "name": "Olt"
+    "name": "Olt",
+    "regions": [
+      "Olt"
+    ]
   },
   "PRA": {
-    "name": "Prahova"
+    "name": "Prahova",
+    "regions": [
+      "Prahova"
+    ]
   },
   "SAL": {
-    "name": "Sălaj"
+    "name": "Sălaj",
+    "regions": [
+      "Sălaj"
+    ]
   },
   "SATMA": {
-    "name": "Satu Mare"
+    "name": "Satu Mare",
+    "regions": [
+      "Satu Mare"
+    ]
   },
   "SIB": {
-    "name": "Sibiu"
+    "name": "Sibiu",
+    "regions": [
+      "Sibiu"
+    ]
   },
   "SUC": {
-    "name": "Suceava"
+    "name": "Suceava",
+    "regions": [
+      "Suceava"
+    ]
   },
   "TEL": {
-    "name": "Teleorman"
+    "name": "Teleorman",
+    "regions": [
+      "Teleorman"
+    ]
   },
   "TIM": {
-    "name": "Timiș"
+    "name": "Timiș",
+    "regions": [
+      "Timiș"
+    ]
   },
   "TUL": {
-    "name": "Tulcea"
+    "name": "Tulcea",
+    "regions": [
+      "Tulcea"
+    ]
   },
   "VAL": {
-    "name": "Vâlcea"
+    "name": "Vâlcea",
+    "regions": [
+      "Vâlcea"
+    ]
   },
   "VAS": {
-    "name": "Vaslui"
+    "name": "Vaslui",
+    "regions": [
+      "Vaslui"
+    ]
   },
   "VRA": {
-    "name": "Vrancea"
+    "name": "Vrancea",
+    "regions": [
+      "Vrancea"
+    ]
   }
 }
