@@ -10,7 +10,7 @@ function loadCountries() {
 
 // Load region data for a specific country
 function loadRegions(countryCode) {
-    const file = path.join(__dirname, 'data', 'regions', `${countryCode}.region.json`);
+    const file = path.join(__dirname, 'data', 'regions', `${countryCode}.json`);
     try {
         const data = JSON.parse(fs.readFileSync(file, 'utf-8'));
         return data;
@@ -26,7 +26,7 @@ function loadAllRegions() {
     const allRegions = {};
     
     for (const file of files) {
-        if (file.endsWith('.region.json')) {
+        if file.endsWith('.json') {
             const countryCode = file.split('.')[0];
             const filePath = path.join(regionsDir, file);
             try {
