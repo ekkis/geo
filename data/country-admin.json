@@ -14471,5 +14471,81 @@
         ]
       }
     }
+  },
+  "LU": {
+    "divisions": {
+      "Diekirch": {
+        "name": "Diekirch",
+        "regions": [
+          "Diekirch"
+        ]
+      },
+      "Clervaux": {
+        "name": "Clervaux",
+        "regions": [
+          "Clervaux"
+        ]
+      },
+      "Redange": {
+        "name": "Redange",
+        "regions": [
+          "Redange"
+        ]
+      },
+      "Vianden": {
+        "name": "Vianden",
+        "regions": [
+          "Vianden"
+        ]
+      },
+      "Wiltz": {
+        "name": "Wiltz",
+        "regions": [
+          "Wiltz"
+        ]
+      },
+      "Echternach": {
+        "name": "Echternach",
+        "regions": [
+          "Echternach"
+        ]
+      },
+      "Grevenmacher": {
+        "name": "Grevenmacher",
+        "regions": [
+          "Grevenmacher"
+        ]
+      },
+      "Remich": {
+        "name": "Remich",
+        "regions": [
+          "Remich"
+        ]
+      },
+      "Luxembourg": {
+        "name": "Luxembourg",
+        "regions": [
+          "Luxembourg"
+        ]
+      },
+      "Mersch": {
+        "name": "Mersch",
+        "regions": [
+          "Mersch"
+        ]
+      },
+      "Capellen": {
+        "name": "Capellen",
+        "regions": [
+          "Capellen"
+        ]
+      },
+      "Esch-sur-Alzette": {
+        "name": "Esch-sur-Alzette",
+        "regions": [
+          "Esch-sur-Alzette"
+        ]
+      }
+    }
   }
 }
