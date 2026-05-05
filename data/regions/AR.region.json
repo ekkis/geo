@@ -1,0 +1,74 @@
+{
+  "CA": {
+    "name": "Ciudad Autónoma de Buenos Aires"
+  },
+  "BA": {
+    "name": "Buenos Aires"
+  },
+  "CAT": {
+    "name": "Catamarca"
+  },
+  "CHA": {
+    "name": "Chaco"
+  },
+  "CHU": {
+    "name": "Chubut"
+  },
+  "CÓR": {
+    "name": "Córdoba"
+  },
+  "COR": {
+    "name": "Corrientes"
+  },
+  "ER": {
+    "name": "Entre Ríos"
+  },
+  "FOR": {
+    "name": "Formosa"
+  },
+  "JUJ": {
+    "name": "Jujuy"
+  },
+  "LP": {
+    "name": "La Pampa"
+  },
+  "LR": {
+    "name": "La Rioja"
+  },
+  "MEN": {
+    "name": "Mendoza"
+  },
+  "MIS": {
+    "name": "Misiones"
+  },
+  "NEU": {
+    "name": "Neuquén"
+  },
+  "RN": {
+    "name": "Río Negro"
+  },
+  "SAL": {
+    "name": "Salta"
+  },
+  "SJ": {
+    "name": "San Juan"
+  },
+  "SL": {
+    "name": "San Luis"
+  },
+  "SC": {
+    "name": "Santa Cruz"
+  },
+  "SF": {
+    "name": "Santa Fe"
+  },
+  "SD": {
+    "name": "Santiago del Estero"
+  },
+  "TD": {
+    "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+  },
+  "TUC": {
+    "name": "Tucumán"
+  }
+}

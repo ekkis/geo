@@ -1,0 +1,29 @@
+{
+  "BLA": {
+    "name": "Blago-Kras"
+  },
+  "GOR": {
+    "name": "Gorenjska"
+  },
+  "GOR1": {
+    "name": "Goriška"
+  },
+  "JUGSL": {
+    "name": "Jugovzhodna Slovenija"
+  },
+  "KOR": {
+    "name": "Koroška"
+  },
+  "OBA": {
+    "name": "Obalno-Kraška"
+  },
+  "OSR": {
+    "name": "Osrednjeslovenska"
+  },
+  "POD": {
+    "name": "Podravska"
+  },
+  "POM": {
+    "name": "Pomurska"
+  }
+}

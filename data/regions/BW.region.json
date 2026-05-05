@@ -1,0 +1,23 @@
+{
+  "NW": {
+    "name": "North-West"
+  },
+  "CE": {
+    "name": "Central"
+  },
+  "GH": {
+    "name": "Ghanzi"
+  },
+  "KD": {
+    "name": "Kgalagadi"
+  },
+  "KE": {
+    "name": "Kweneng"
+  },
+  "HH": {
+    "name": "Southern"
+  },
+  "KL": {
+    "name": "Kgatleng"
+  }
+}

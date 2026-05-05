@@ -1,0 +1,38 @@
+{
+  "BA": {
+    "name": "Baku"
+  },
+  "NX": {
+    "name": "Nakhchivan"
+  },
+  "LEN": {
+    "name": "Lankaran"
+  },
+  "MQ": {
+    "name": "Mingachevir"
+  },
+  "SM": {
+    "name": "Sumgait"
+  },
+  "ABS": {
+    "name": "Absheron"
+  },
+  "KAL": {
+    "name": "Kalbajar-Lachin"
+  },
+  "LAC": {
+    "name": "Lachin"
+  },
+  "QOB": {
+    "name": "Qobustan"
+  },
+  "SAT": {
+    "name": "Shamakhi"
+  },
+  "SMI": {
+    "name": "Samukh"
+  },
+  "SAR": {
+    "name": "Saratov"
+  }
+}

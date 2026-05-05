@@ -1,0 +1,26 @@
+{
+  "BANBY": {
+    "name": "Banská Bystrica"
+  },
+  "BRA": {
+    "name": "Bratislava"
+  },
+  "KOS": {
+    "name": "Košice"
+  },
+  "NIT": {
+    "name": "Nitra"
+  },
+  "PRE": {
+    "name": "Prešov"
+  },
+  "TRE": {
+    "name": "Trenčín"
+  },
+  "TRN": {
+    "name": "Trnava"
+  },
+  "ZIL": {
+    "name": "Žilina"
+  }
+}

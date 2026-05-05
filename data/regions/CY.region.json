@@ -1,0 +1,20 @@
+{
+  "FAM": {
+    "name": "Famagusta"
+  },
+  "KYR": {
+    "name": "Kyrenia"
+  },
+  "LAR": {
+    "name": "Larnaca"
+  },
+  "LIM": {
+    "name": "Limassol"
+  },
+  "NIC": {
+    "name": "Nicosia"
+  },
+  "PAP": {
+    "name": "Paphos"
+  }
+}

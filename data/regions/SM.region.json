@@ -1,0 +1,23 @@
+{
+  "SANMA": {
+    "name": "San Marino"
+  },
+  "BORMA": {
+    "name": "Borgo Maggiore"
+  },
+  "DOM": {
+    "name": "Domagnano"
+  },
+  "FAE": {
+    "name": "Faetano"
+  },
+  "FIO": {
+    "name": "Fiorentino"
+  },
+  "MON": {
+    "name": "Montegiardino"
+  },
+  "SER": {
+    "name": "Serravalle"
+  }
+}

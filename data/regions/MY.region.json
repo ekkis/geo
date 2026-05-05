@@ -1,0 +1,50 @@
+{
+  "JOHOR": {
+    "name": "Johor"
+  },
+  "KEDAH": {
+    "name": "Kedah"
+  },
+  "KELANTAN": {
+    "name": "Kelantan"
+  },
+  "MELAKA": {
+    "name": "Malacca"
+  },
+  "NSEM": {
+    "name": "Negeri Sembilan"
+  },
+  "PAHANG": {
+    "name": "Pahang"
+  },
+  "PENANG": {
+    "name": "Penang"
+  },
+  "PERAK": {
+    "name": "Perak"
+  },
+  "PERLIS": {
+    "name": "Perlis"
+  },
+  "SABAH": {
+    "name": "Sabah"
+  },
+  "SARAWAK": {
+    "name": "Sarawak"
+  },
+  "SELANGOR": {
+    "name": "Selangor"
+  },
+  "TERENGGANU": {
+    "name": "Terengganu"
+  },
+  "KL": {
+    "name": "Kuala Lumpur"
+  },
+  "LABUAN": {
+    "name": "Labuan"
+  },
+  "PUTRAJAYA": {
+    "name": "Putrajaya"
+  }
+}

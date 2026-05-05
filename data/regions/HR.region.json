@@ -1,0 +1,65 @@
+{
+  "ZAG": {
+    "name": "Zagreb"
+  },
+  "SPL": {
+    "name": "Split-Dalmatia"
+  },
+  "PRIKO": {
+    "name": "Primorje-Gorski Kotar"
+  },
+  "DUB": {
+    "name": "Dubrovnik-Neretva"
+  },
+  "IST": {
+    "name": "Istria"
+  },
+  "SIB": {
+    "name": "Šibenik-Knin"
+  },
+  "LIK": {
+    "name": "Lika-Senj"
+  },
+  "MEI": {
+    "name": "Međimurje"
+  },
+  "OSI": {
+    "name": "Osijek-Baranja"
+  },
+  "POZ": {
+    "name": "Požega-Slavonia"
+  },
+  "VIR": {
+    "name": "Virovitica-Podravina"
+  },
+  "VUK": {
+    "name": "Vukovar-Srijem"
+  },
+  "ZAD": {
+    "name": "Zadar"
+  },
+  "BJE": {
+    "name": "Bjelovar-Bilogora"
+  },
+  "BRO": {
+    "name": " Brod-Posavina"
+  },
+  "DUB1": {
+    "name": "Dubrovnik-Neretva"
+  },
+  "KOP": {
+    "name": "Koprivnica-Križevci"
+  },
+  "KRA": {
+    "name": "Krapina-Zagorje"
+  },
+  "POZ1": {
+    "name": "Požega-Slavonia"
+  },
+  "SIS": {
+    "name": "Sisak-Moslavina"
+  },
+  "VIR1": {
+    "name": "Virovitica-Podravina"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "ARI": {
+    "name": "Arica"
+  },
+  "PAR": {
+    "name": "Parinacota"
+  },
+  "IQU": {
+    "name": "Iquique"
+  },
+  "TAM": {
+    "name": "Tamarugal"
+  },
+  "ANT": {
+    "name": "Antofagasta"
+  },
+  "EL": {
+    "name": "El Loa"
+  },
+  "TOC": {
+    "name": "Tocopilla"
+  },
+  "COP": {
+    "name": "Copiapó"
+  },
+  "HUA": {
+    "name": "Huasco"
+  },
+  "CHA": {
+    "name": "Chacabuco"
+  },
+  "ELQ": {
+    "name": "Elqui"
+  },
+  "LIM": {
+    "name": "Limarí"
+  },
+  "CHO": {
+    "name": "Choapa"
+  },
+  "ID": {
+    "name": "Isla de Pascua"
+  },
+  "LA": {
+    "name": "Los Andes"
+  },
+  "MM": {
+    "name": "Marga Marga"
+  },
+  "PET": {
+    "name": "Petorca"
+  },
+  "QUI": {
+    "name": "Quillota"
+  },
+  "SA": {
+    "name": "San Antonio"
+  },
+  "SF": {
+    "name": "San Felipe de Aconcagua"
+  },
+  "VAL": {
+    "name": "Valdivia"
+  },
+  "CAC": {
+    "name": "Cachapoal"
+  },
+  "COL": {
+    "name": "Colchagua"
+  },
+  "CC": {
+    "name": "Cardenal Caro"
+  },
+  "TAL": {
+    "name": "Talagante"
+  },
+  "LIN": {
+    "name": "Linares"
+  },
+  "CUR": {
+    "name": "Curicó"
+  },
+  "CAU": {
+    "name": "Cautin"
+  },
+  "CON": {
+    "name": "Concepción"
+  },
+  "ÑUB": {
+    "name": "Ñuble"
+  },
+  "BIO": {
+    "name": "Biobío"
+  },
+  "ARA": {
+    "name": "Arauco"
+  },
+  "MAL": {
+    "name": "Malleco"
+  },
+  "RAN": {
+    "name": "Ranco"
+  },
+  "LLA": {
+    "name": "Llanquihue"
+  },
+  "OSO": {
+    "name": "Osorno"
+  },
+  "CHI": {
+    "name": "Chiloe"
+  },
+  "PAL": {
+    "name": "Palena"
+  },
+  "COI": {
+    "name": "Coihaique"
+  },
+  "AIS": {
+    "name": "Aisén"
+  },
+  "GC": {
+    "name": "General Carrera"
+  },
+  "CP": {
+    "name": "Capitan Prat"
+  },
+  "MAG": {
+    "name": "Magallanes"
+  },
+  "UE": {
+    "name": "Ultima Esperanza"
+  },
+  "TD": {
+    "name": "Tierra del Fuego"
+  },
+  "AC": {
+    "name": "Antártica Chilena"
+  },
+  "SAN": {
+    "name": "Santiago"
+  },
+  "COR": {
+    "name": "Cordillera"
+  },
+  "MAI": {
+    "name": "Maipo"
+  },
+  "MEL": {
+    "name": "Melipilla"
+  }
+}

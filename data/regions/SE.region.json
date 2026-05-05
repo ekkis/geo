@@ -1,0 +1,53 @@
+{
+  "STO": {
+    "name": "Stockholm"
+  },
+  "VASGO": {
+    "name": "Västra Götaland"
+  },
+  "SKA": {
+    "name": "Skåne"
+  },
+  "VAS": {
+    "name": "Västernorrland"
+  },
+  "OST": {
+    "name": "Östergötland"
+  },
+  "UPP": {
+    "name": "Uppsala"
+  },
+  "SOD": {
+    "name": "Södermanland"
+  },
+  "ORE": {
+    "name": "Örebro"
+  },
+  "GAV": {
+    "name": "Gävleborg"
+  },
+  "HAL": {
+    "name": "Halland"
+  },
+  "JON": {
+    "name": "Jönköping"
+  },
+  "KRO": {
+    "name": "Kronoberg"
+  },
+  "NOR": {
+    "name": "Norrbotten"
+  },
+  "KAL": {
+    "name": "Kalmar"
+  },
+  "VAR": {
+    "name": "Värmland"
+  },
+  "DAL": {
+    "name": "Dalarna"
+  },
+  "GOT": {
+    "name": "Gotland"
+  }
+}

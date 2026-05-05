@@ -1,0 +1,35 @@
+{
+  "VAD": {
+    "name": "Vaduz"
+  },
+  "SCH": {
+    "name": "Schaan"
+  },
+  "TRI": {
+    "name": "Triesen"
+  },
+  "BAL": {
+    "name": "Balzers"
+  },
+  "ESC": {
+    "name": "Eschen"
+  },
+  "MAU": {
+    "name": "Mauren"
+  },
+  "TRI1": {
+    "name": "Triesenberg"
+  },
+  "RUG": {
+    "name": "Ruggell"
+  },
+  "GAM": {
+    "name": "Gamprin"
+  },
+  "SCH1": {
+    "name": "Schellenberg"
+  },
+  "PLA": {
+    "name": "Planken"
+  }
+}

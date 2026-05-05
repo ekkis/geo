@@ -1,0 +1,32 @@
+{
+  "ALY": {
+    "name": "Alytus"
+  },
+  "KAU": {
+    "name": "Kaunas"
+  },
+  "KLA": {
+    "name": "Klaipėda"
+  },
+  "MAR": {
+    "name": "Marijampolė"
+  },
+  "PAN": {
+    "name": "Panevėžys"
+  },
+  "SIA": {
+    "name": "Šiauliai"
+  },
+  "TAU": {
+    "name": "Tauragė"
+  },
+  "TEL": {
+    "name": "Telšiai"
+  },
+  "UTE": {
+    "name": "Utena"
+  },
+  "VIL": {
+    "name": "Vilnius"
+  }
+}

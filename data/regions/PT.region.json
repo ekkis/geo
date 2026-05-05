@@ -1,0 +1,56 @@
+{
+  "AVE": {
+    "name": "Aveiro"
+  },
+  "BEJ": {
+    "name": "Beja"
+  },
+  "BRA": {
+    "name": "Braga"
+  },
+  "BRA1": {
+    "name": "Bragança"
+  },
+  "CASBR": {
+    "name": "Castelo Branco"
+  },
+  "COI": {
+    "name": "Coimbra"
+  },
+  "EVO": {
+    "name": "Évora"
+  },
+  "FAR": {
+    "name": "Faro"
+  },
+  "GUA": {
+    "name": "Guarda"
+  },
+  "LEI": {
+    "name": "Leiria"
+  },
+  "LIS": {
+    "name": "Lisboa"
+  },
+  "POR": {
+    "name": "Portalegre"
+  },
+  "POR1": {
+    "name": "Porto"
+  },
+  "SAN": {
+    "name": "Santarém"
+  },
+  "SET": {
+    "name": "Setúbal"
+  },
+  "VIADO": {
+    "name": "Viana do Castelo"
+  },
+  "VILRE": {
+    "name": "Vila Real"
+  },
+  "VIS": {
+    "name": "Viseu"
+  }
+}

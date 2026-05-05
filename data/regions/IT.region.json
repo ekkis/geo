@@ -1,0 +1,290 @@
+{
+  "AGR": {
+    "name": "Agrigento"
+  },
+  "ALE": {
+    "name": "Alessandria"
+  },
+  "ANC": {
+    "name": "Ancona"
+  },
+  "AOS": {
+    "name": "Aosta"
+  },
+  "ARE": {
+    "name": "Arezzo"
+  },
+  "AP": {
+    "name": "Ascoli Piceno"
+  },
+  "AST": {
+    "name": "Asti"
+  },
+  "AVE": {
+    "name": "Avellino"
+  },
+  "BAR": {
+    "name": "Barletta-Andria-Trani"
+  },
+  "BEL": {
+    "name": "Belluno"
+  },
+  "BEN": {
+    "name": "Benevento"
+  },
+  "BER": {
+    "name": "Bergamo"
+  },
+  "BIE": {
+    "name": "Biella"
+  },
+  "BOL": {
+    "name": "Bolzano"
+  },
+  "BRE": {
+    "name": "Brescia"
+  },
+  "BRI": {
+    "name": "Brindisi"
+  },
+  "CAG": {
+    "name": "Cagliari"
+  },
+  "CAL": {
+    "name": "Caltanissetta"
+  },
+  "CAM": {
+    "name": "Campobasso"
+  },
+  "CAS": {
+    "name": "Caserta"
+  },
+  "CAT": {
+    "name": "Catanzaro"
+  },
+  "CHI": {
+    "name": "Chieti"
+  },
+  "COM": {
+    "name": "Como"
+  },
+  "COS": {
+    "name": "Cosenza"
+  },
+  "CRE": {
+    "name": "Cremona"
+  },
+  "CRO": {
+    "name": "Crotone"
+  },
+  "CUN": {
+    "name": "Cuneo"
+  },
+  "ENN": {
+    "name": "Enna"
+  },
+  "FER": {
+    "name": "Ferrara"
+  },
+  "FIR": {
+    "name": "Firenze"
+  },
+  "FOG": {
+    "name": "Foggia"
+  },
+  "FOR": {
+    "name": "Forlì-Cesena"
+  },
+  "FRO": {
+    "name": "Frosinone"
+  },
+  "GEN": {
+    "name": "Genova"
+  },
+  "GOR": {
+    "name": "Gorizia"
+  },
+  "GRO": {
+    "name": "Grosseto"
+  },
+  "IMP": {
+    "name": "Imperia"
+  },
+  "ISE": {
+    "name": "Isernia"
+  },
+  "L'A": {
+    "name": "L'Aquila"
+  },
+  "LS": {
+    "name": "La Spezia"
+  },
+  "LAT": {
+    "name": "Latina"
+  },
+  "LEC": {
+    "name": "Lecco"
+  },
+  "LIV": {
+    "name": "Livorno"
+  },
+  "LOD": {
+    "name": "Lodi"
+  },
+  "LUC": {
+    "name": "Lucca"
+  },
+  "MAC": {
+    "name": "Macerata"
+  },
+  "MAN": {
+    "name": "Mantova"
+  },
+  "MAS": {
+    "name": "Massa-Carrara"
+  },
+  "MAT": {
+    "name": "Matera"
+  },
+  "MES": {
+    "name": "Messina"
+  },
+  "MIL": {
+    "name": "Milano"
+  },
+  "MOD": {
+    "name": "Modena"
+  },
+  "ME": {
+    "name": "Monza e della Brianza"
+  },
+  "NAP": {
+    "name": "Napoli"
+  },
+  "NOV": {
+    "name": "Novara"
+  },
+  "NUO": {
+    "name": "Nuoro"
+  },
+  "ORI": {
+    "name": "Oristano"
+  },
+  "PAD": {
+    "name": "Padova"
+  },
+  "PAL": {
+    "name": "Palermo"
+  },
+  "PAR": {
+    "name": "Parma"
+  },
+  "PAV": {
+    "name": "Pavia"
+  },
+  "PER": {
+    "name": "Perugia"
+  },
+  "PE": {
+    "name": "Pesaro e Urbino"
+  },
+  "PES": {
+    "name": "Pescara"
+  },
+  "PIA": {
+    "name": "Piacenza"
+  },
+  "PIS": {
+    "name": "Pistoia"
+  },
+  "POR": {
+    "name": "Pordenone"
+  },
+  "POT": {
+    "name": "Potenza"
+  },
+  "PRA": {
+    "name": "Prato"
+  },
+  "RAG": {
+    "name": "Ragusa"
+  },
+  "RAV": {
+    "name": "Ravenna"
+  },
+  "RC": {
+    "name": "Reggio Calabria"
+  },
+  "RE": {
+    "name": "Reggio Emilia"
+  },
+  "RIE": {
+    "name": "Rieti"
+  },
+  "RIM": {
+    "name": "Rimini"
+  },
+  "ROM": {
+    "name": "Roma"
+  },
+  "ROV": {
+    "name": "Rovigo"
+  },
+  "SAL": {
+    "name": "Salerno"
+  },
+  "SAS": {
+    "name": "Sassari"
+  },
+  "SAV": {
+    "name": "Savona"
+  },
+  "SIE": {
+    "name": "Siena"
+  },
+  "SIR": {
+    "name": "Siracusa"
+  },
+  "SON": {
+    "name": "Sondrio"
+  },
+  "TAR": {
+    "name": "Taranto"
+  },
+  "TER": {
+    "name": "Terni"
+  },
+  "TOR": {
+    "name": "Torino"
+  },
+  "TRA": {
+    "name": "Trapani"
+  },
+  "TRE": {
+    "name": "Treviso"
+  },
+  "TRI": {
+    "name": "Trieste"
+  },
+  "UDI": {
+    "name": "Udine"
+  },
+  "VAR": {
+    "name": "Varese"
+  },
+  "VEN": {
+    "name": "Venezia"
+  },
+  "VER": {
+    "name": "Verona"
+  },
+  "VV": {
+    "name": "Vibo Valentia"
+  },
+  "VIC": {
+    "name": "Vicenza"
+  },
+  "VIT": {
+    "name": "Viterbo"
+  }
+}

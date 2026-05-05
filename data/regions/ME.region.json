@@ -1,0 +1,35 @@
+{
+  "POD": {
+    "name": "Podgorica"
+  },
+  "NIK": {
+    "name": "Nikšić"
+  },
+  "PLJ": {
+    "name": "Pljevlja"
+  },
+  "BIJPO": {
+    "name": "Bijelo Polje"
+  },
+  "CET": {
+    "name": "Cetinje"
+  },
+  "BAR": {
+    "name": "Bar"
+  },
+  "HERNO": {
+    "name": "Herceg Novi"
+  },
+  "ULC": {
+    "name": "Ulcinj"
+  },
+  "ROZ": {
+    "name": "Rožaje"
+  },
+  "DAN": {
+    "name": "Danilovgrad"
+  },
+  "SAV": {
+    "name": "Šavnik"
+  }
+}

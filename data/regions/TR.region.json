@@ -1,0 +1,224 @@
+{
+  "ADA": {
+    "name": "Adana"
+  },
+  "ADI": {
+    "name": "Adıyaman"
+  },
+  "AFY": {
+    "name": "Afyonkarahisar"
+  },
+  "AĞR": {
+    "name": "Ağrı"
+  },
+  "AMA": {
+    "name": "Amasya"
+  },
+  "ANK": {
+    "name": "Ankara"
+  },
+  "ANT": {
+    "name": "Antalya"
+  },
+  "ART": {
+    "name": "Artvin"
+  },
+  "AYD": {
+    "name": "Aydın"
+  },
+  "BAL": {
+    "name": "Balıkesir"
+  },
+  "BIL": {
+    "name": "Bilecik"
+  },
+  "BIN": {
+    "name": "Bingöl"
+  },
+  "BIT": {
+    "name": "Bitlis"
+  },
+  "BOL": {
+    "name": "Bolu"
+  },
+  "BUR": {
+    "name": "Bursa"
+  },
+  "ÇAN": {
+    "name": "Çankırı"
+  },
+  "ÇOR": {
+    "name": "Çorum"
+  },
+  "DEN": {
+    "name": "Denizli"
+  },
+  "DIY": {
+    "name": "Diyarbakır"
+  },
+  "EDI": {
+    "name": "Edirne"
+  },
+  "ELA": {
+    "name": "Elazığ"
+  },
+  "ERZ": {
+    "name": "Erzurum"
+  },
+  "ESK": {
+    "name": "Eskişehir"
+  },
+  "GAZ": {
+    "name": "Gaziantep"
+  },
+  "GIR": {
+    "name": "Giresun"
+  },
+  "GÜM": {
+    "name": "Gümüşhane"
+  },
+  "HAK": {
+    "name": "Hakkâri"
+  },
+  "HAT": {
+    "name": "Hatay"
+  },
+  "ISP": {
+    "name": "Isparta"
+  },
+  "MER": {
+    "name": "Mersin"
+  },
+  "IST": {
+    "name": "Istanbul"
+  },
+  "İZM": {
+    "name": "İzmir"
+  },
+  "KAR": {
+    "name": "Karabük"
+  },
+  "KAS": {
+    "name": "Kastamonu"
+  },
+  "KAY": {
+    "name": "Kayseri"
+  },
+  "KIR": {
+    "name": "Kırıkkale"
+  },
+  "KOC": {
+    "name": "Kocaeli"
+  },
+  "KON": {
+    "name": "Konya"
+  },
+  "KÜT": {
+    "name": "Kütahya"
+  },
+  "MAL": {
+    "name": "Malatya"
+  },
+  "MAN": {
+    "name": "Manisa"
+  },
+  "KAH": {
+    "name": "Kahramanmaraş"
+  },
+  "MAR": {
+    "name": "Mardin"
+  },
+  "MUĞ": {
+    "name": "Muğla"
+  },
+  "MUŞ": {
+    "name": "Muş"
+  },
+  "NEV": {
+    "name": "Nevşehir"
+  },
+  "NIĞ": {
+    "name": "Niğde"
+  },
+  "ORD": {
+    "name": "Ordu"
+  },
+  "RIZ": {
+    "name": "Rize"
+  },
+  "SAK": {
+    "name": "Sakarya"
+  },
+  "SAM": {
+    "name": "Samsun"
+  },
+  "SII": {
+    "name": "Siirt"
+  },
+  "SIN": {
+    "name": "Sinop"
+  },
+  "SIV": {
+    "name": "Sivas"
+  },
+  "TEK": {
+    "name": "Tekirdağ"
+  },
+  "TOK": {
+    "name": "Tokat"
+  },
+  "TRA": {
+    "name": "Trabzon"
+  },
+  "TUN": {
+    "name": "Tunceli"
+  },
+  "ŞAN": {
+    "name": "Şanlıurfa"
+  },
+  "UŞA": {
+    "name": "Uşak"
+  },
+  "VAN": {
+    "name": "Van"
+  },
+  "YOZ": {
+    "name": "Yozgat"
+  },
+  "ZON": {
+    "name": "Zonguldak"
+  },
+  "AKS": {
+    "name": "Aksaray"
+  },
+  "BAY": {
+    "name": "Bayburt"
+  },
+  "BAT": {
+    "name": "Batman"
+  },
+  "ŞIR": {
+    "name": "Şırnak"
+  },
+  "BAR": {
+    "name": "Bartın"
+  },
+  "ARD": {
+    "name": "Ardahan"
+  },
+  "IĞD": {
+    "name": "Iğdır"
+  },
+  "YAL": {
+    "name": "Yalova"
+  },
+  "KIL": {
+    "name": "Kilis"
+  },
+  "OSM": {
+    "name": "Osmaniye"
+  },
+  "DÜZ": {
+    "name": "Düzce"
+  }
+}

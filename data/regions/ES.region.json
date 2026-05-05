@@ -1,0 +1,140 @@
+{
+  "LC": {
+    "name": "La Coruña"
+  },
+  "AST": {
+    "name": "Asturias"
+  },
+  "LUG": {
+    "name": "Lugo"
+  },
+  "VIZ": {
+    "name": "Vizcaya"
+  },
+  "GUI": {
+    "name": "Guipúzcoa"
+  },
+  "HUE": {
+    "name": "Huelva"
+  },
+  "LÉR": {
+    "name": "Lérida"
+  },
+  "GER": {
+    "name": "Gerona"
+  },
+  "BAR": {
+    "name": "Barcelona"
+  },
+  "TAR": {
+    "name": "Tarragona"
+  },
+  "CAS": {
+    "name": "Castellón"
+  },
+  "VAL": {
+    "name": "Valladolid"
+  },
+  "ALI": {
+    "name": "Alicante"
+  },
+  "MUR": {
+    "name": "Murcia"
+  },
+  "ZAR": {
+    "name": "Zaragoza"
+  },
+  "TER": {
+    "name": "Teruel"
+  },
+  "CUE": {
+    "name": "Cuenca"
+  },
+  "ALB": {
+    "name": "Albacete"
+  },
+  "ALM": {
+    "name": "Almeria"
+  },
+  "GRA": {
+    "name": "Granada"
+  },
+  "MÁL": {
+    "name": "Málaga"
+  },
+  "TEN": {
+    "name": "Tenerife"
+  },
+  "CÁD": {
+    "name": "Cádiz"
+  },
+  "SEV": {
+    "name": "Sevilla"
+  },
+  "LP": {
+    "name": "Las Palmas"
+  },
+  "MAD": {
+    "name": "Madrid"
+  },
+  "BAD": {
+    "name": "Badajoz"
+  },
+  "CÁC": {
+    "name": "Cáceres"
+  },
+  "TOL": {
+    "name": "Toledo"
+  },
+  "CR": {
+    "name": "Ciudad Real"
+  },
+  "SAL": {
+    "name": "Salamanca"
+  },
+  "CÓR": {
+    "name": "Córdoba"
+  },
+  "JAÉ": {
+    "name": "Jaén"
+  },
+  "ÁVI": {
+    "name": "Ávila"
+  },
+  "ZAM": {
+    "name": "Zamora"
+  },
+  "ÁLA": {
+    "name": "Álava"
+  },
+  "SEG": {
+    "name": "Segovia"
+  },
+  "BUR": {
+    "name": "Burgos"
+  },
+  "PON": {
+    "name": "Pontevedra"
+  },
+  "LEÓ": {
+    "name": "León"
+  },
+  "ORE": {
+    "name": "Orense"
+  },
+  "PAL": {
+    "name": "Palencia"
+  },
+  "LR": {
+    "name": "La Rioja"
+  },
+  "SOR": {
+    "name": "Soria"
+  },
+  "GUA": {
+    "name": "Guadalajara"
+  },
+  "BAL": {
+    "name": "Baleares"
+  }
+}

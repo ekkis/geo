@@ -1,0 +1,278 @@
+{
+  "CER": {
+    "name": "Cercado"
+  },
+  "ITÉ": {
+    "name": "Iténez"
+  },
+  "JB": {
+    "name": "José Ballivián"
+  },
+  "MAM": {
+    "name": "Mamoré"
+  },
+  "MAR": {
+    "name": "Marbán"
+  },
+  "MOX": {
+    "name": "Moxos"
+  },
+  "VD": {
+    "name": "Vaca Díez"
+  },
+  "YAC": {
+    "name": "Yacuma"
+  },
+  "AZU": {
+    "name": "Azurduy"
+  },
+  "BB": {
+    "name": "Bernardino Bilbao"
+  },
+  "HS": {
+    "name": "Hernando Siles"
+  },
+  "JZ": {
+    "name": "Jaime Zudáñez"
+  },
+  "LC": {
+    "name": "Ladislao Cabrera"
+  },
+  "NC": {
+    "name": "Nor Chichas"
+  },
+  "ORO": {
+    "name": "Oropeza"
+  },
+  "SC": {
+    "name": "Sur Chichas"
+  },
+  "TOM": {
+    "name": "Tomina"
+  },
+  "YAM": {
+    "name": "Yamparáez"
+  },
+  "ARA": {
+    "name": "Arani"
+  },
+  "ARQ": {
+    "name": "Arque"
+  },
+  "AYO": {
+    "name": "Ayopaya"
+  },
+  "CAP": {
+    "name": "Capinota"
+  },
+  "CAR": {
+    "name": "Carangas"
+  },
+  "CHA": {
+    "name": "Chayanta"
+  },
+  "EA": {
+    "name": "Eduardo Avaroa"
+  },
+  "GJ": {
+    "name": "Germán Jordán"
+  },
+  "MIZ": {
+    "name": "Mizque"
+  },
+  "CAM": {
+    "name": "Campero"
+  },
+  "PUN": {
+    "name": "Punata"
+  },
+  "QUI": {
+    "name": "Quillacollo"
+  },
+  "BOL": {
+    "name": "Bolívar"
+  },
+  "TAP": {
+    "name": "Tapacarí"
+  },
+  "TIR": {
+    "name": "Tiraque"
+  },
+  "AI": {
+    "name": "Andrés Ibáñez"
+  },
+  "ARO": {
+    "name": "Aroma"
+  },
+  "BS": {
+    "name": "Bautista Saavedra"
+  },
+  "EC": {
+    "name": "Eliodoro Camacho"
+  },
+  "FT": {
+    "name": "Franz Tamayo"
+  },
+  "GV": {
+    "name": "Gualberto Villarroel"
+  },
+  "ING": {
+    "name": "Ingavi"
+  },
+  "INQ": {
+    "name": "Inquisivi"
+  },
+  "JM": {
+    "name": "José María Avilés"
+  },
+  "LAR": {
+    "name": "Larecaja"
+  },
+  "LOA": {
+    "name": "Loayza"
+  },
+  "LA": {
+    "name": "Los Andes"
+  },
+  "MK": {
+    "name": "Manco Kapac"
+  },
+  "MUÑ": {
+    "name": "Muñecas"
+  },
+  "NY": {
+    "name": "Nor Yungas"
+  },
+  "OMA": {
+    "name": "Omasuyos"
+  },
+  "PAC": {
+    "name": "Pacajes"
+  },
+  "MUR": {
+    "name": "Murillo"
+  },
+  "SY": {
+    "name": "Sud Yungas"
+  },
+  "ATA": {
+    "name": "Atahuallpa"
+  },
+  "LIT": {
+    "name": "Litoral"
+  },
+  "PD": {
+    "name": "Puerto de Mejillones"
+  },
+  "POO": {
+    "name": "Poopó"
+  },
+  "SAJ": {
+    "name": "Sajama"
+  },
+  "SP": {
+    "name": "Sebastián Pagador"
+  },
+  "SAU": {
+    "name": "Saucarí"
+  },
+  "TB": {
+    "name": "Tomas Barrón"
+  },
+  "ABU": {
+    "name": "Abuná"
+  },
+  "FR": {
+    "name": "Federico Román"
+  },
+  "MD": {
+    "name": "Madre de Dios"
+  },
+  "MAN": {
+    "name": "Manuripi"
+  },
+  "NS": {
+    "name": "Nicolás Suárez"
+  },
+  "AD": {
+    "name": "Alonso de Ibáñez"
+  },
+  "AQ": {
+    "name": "Antonio Quijarro"
+  },
+  "CS": {
+    "name": "Cornelio Saavedra"
+  },
+  "DC": {
+    "name": "Daniel Campos"
+  },
+  "EB": {
+    "name": "Enrique Baldivieso"
+  },
+  "MO": {
+    "name": "Modesto Omiste"
+  },
+  "NL": {
+    "name": "Nor Lípez"
+  },
+  "RB": {
+    "name": "Rafael Bustillo"
+  },
+  "SL": {
+    "name": "Sur Lípez"
+  },
+  "TF": {
+    "name": "Tomás Frías"
+  },
+  "ÁS": {
+    "name": "Ángel Sandoval"
+  },
+  "CHI": {
+    "name": "Chiquitos"
+  },
+  "COR": {
+    "name": "Cordillera"
+  },
+  "FLO": {
+    "name": "Florida"
+  },
+  "GB": {
+    "name": "Germán Busch"
+  },
+  "GUA": {
+    "name": "Guarayos"
+  },
+  "ICH": {
+    "name": "Ichilo"
+  },
+  "IW": {
+    "name": "Ignacio Warnes"
+  },
+  "MM": {
+    "name": "Manuel María Caballero"
+  },
+  "ÑD": {
+    "name": "Ñuflo de Chávez"
+  },
+  "OS": {
+    "name": "Obispo Santistevan"
+  },
+  "SAR": {
+    "name": "Sara"
+  },
+  "VAL": {
+    "name": "Vallegrande"
+  },
+  "AA": {
+    "name": "Aniceto Arce"
+  },
+  "BO": {
+    "name": "Burnet O'Connor"
+  },
+  "EM": {
+    "name": "Eustaquio Méndez"
+  },
+  "GC": {
+    "name": "Gran Chaco"
+  }
+}

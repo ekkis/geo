@@ -1,0 +1,38 @@
+{
+  "IRB": {
+    "name": "Irbid"
+  },
+  "AJL": {
+    "name": "Ajloun"
+  },
+  "JER": {
+    "name": "Jerash"
+  },
+  "MAF": {
+    "name": "Mafraq"
+  },
+  "BAL": {
+    "name": "Balqa"
+  },
+  "AMM": {
+    "name": "Amman"
+  },
+  "ZAR": {
+    "name": "Zarqa"
+  },
+  "MAD": {
+    "name": "Madaba"
+  },
+  "KAR": {
+    "name": "Karak"
+  },
+  "TAF": {
+    "name": "Tafilah"
+  },
+  "MA'": {
+    "name": "Ma'an"
+  },
+  "AQA": {
+    "name": "Aqaba"
+  }
+}

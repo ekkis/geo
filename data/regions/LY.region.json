@@ -1,0 +1,32 @@
+{
+  "AZ": {
+    "name": "Az Zawiyah"
+  },
+  "BA": {
+    "name": "Benghazi"
+  },
+  "BJ": {
+    "name": "Benghazi"
+  },
+  "BZ": {
+    "name": "Bazma"
+  },
+  "HA": {
+    "name": "Al Wahat"
+  },
+  "MI": {
+    "name": "Misrata"
+  },
+  "TB": {
+    "name": "Tobruk"
+  },
+  "TR": {
+    "name": "Tripoli"
+  },
+  "NQ": {
+    "name": "Nuqat al Khams"
+  },
+  "WD": {
+    "name": "Wadi al Hayaa"
+  }
+}

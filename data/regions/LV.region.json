@@ -1,0 +1,308 @@
+{
+  "AGL": {
+    "name": "Aglona"
+  },
+  "AIZ": {
+    "name": "Aizkraukle"
+  },
+  "AIZ1": {
+    "name": "Aizpute"
+  },
+  "AUC": {
+    "name": "Auces"
+  },
+  "BAL": {
+    "name": "Baldone"
+  },
+  "BAL1": {
+    "name": "Baltinava"
+  },
+  "BAL2": {
+    "name": "Balvi"
+  },
+  "BAU": {
+    "name": "Bauska"
+  },
+  "BEV": {
+    "name": "Beverīna"
+  },
+  "BRO": {
+    "name": "Brocēni"
+  },
+  "BUR": {
+    "name": "Burtnieki"
+  },
+  "CAR": {
+    "name": "Carnikava"
+  },
+  "CES": {
+    "name": "Cesvaine"
+  },
+  "CES1": {
+    "name": "Cēsis"
+  },
+  "CIB": {
+    "name": "Cibla"
+  },
+  "DAG": {
+    "name": "Dagda"
+  },
+  "DAU": {
+    "name": "Daugavpils"
+  },
+  "DAUMU": {
+    "name": "Daugavpils Municipality"
+  },
+  "DOB": {
+    "name": "Dobele"
+  },
+  "DUN": {
+    "name": "Dundaga"
+  },
+  "DUR": {
+    "name": "Durbe"
+  },
+  "ENG": {
+    "name": "Engure"
+  },
+  "ERG": {
+    "name": "Ērgļi"
+  },
+  "GAR": {
+    "name": "Garkalne"
+  },
+  "GRO": {
+    "name": "Grobiņa"
+  },
+  "GUL": {
+    "name": "Gulbene"
+  },
+  "IEC": {
+    "name": "Iecava"
+  },
+  "IKS": {
+    "name": "Ikšķile"
+  },
+  "ILU": {
+    "name": "Ilūkste"
+  },
+  "INC": {
+    "name": "Inčukalns"
+  },
+  "JAU": {
+    "name": "Jaunjelgava"
+  },
+  "JAU1": {
+    "name": "Jaunpiebalga"
+  },
+  "JAU2": {
+    "name": "Jaunpils"
+  },
+  "JEL": {
+    "name": "Jelgava"
+  },
+  "JELMU": {
+    "name": "Jelgava Municipality"
+  },
+  "JEKMU": {
+    "name": "Jēkabpils Municipality"
+  },
+  "JELMU1": {
+    "name": "Jelgava Municipality"
+  },
+  "JUR": {
+    "name": "Jūrmala"
+  },
+  "KAN": {
+    "name": "Kandava"
+  },
+  "KAR": {
+    "name": "Kārsava"
+  },
+  "KOC": {
+    "name": "Kocēni"
+  },
+  "KOK": {
+    "name": "Koknese"
+  },
+  "KRA": {
+    "name": "Krāslava"
+  },
+  "KRI": {
+    "name": "Krimulda"
+  },
+  "KRU": {
+    "name": "Krustpils"
+  },
+  "KUL": {
+    "name": "Kuldīga"
+  },
+  "LIE": {
+    "name": "Lielvārde"
+  },
+  "LIM": {
+    "name": "Limbaži"
+  },
+  "LIG": {
+    "name": "Līgatne"
+  },
+  "LIV": {
+    "name": "Līvāni"
+  },
+  "LUB": {
+    "name": "Lubāna"
+  },
+  "LUD": {
+    "name": "Ludza"
+  },
+  "MAD": {
+    "name": "Madona"
+  },
+  "MAZ": {
+    "name": "Mazsalaca"
+  },
+  "MAL": {
+    "name": "Mālpils"
+  },
+  "MAR": {
+    "name": "Mārupe"
+  },
+  "MER": {
+    "name": "Mērsrags"
+  },
+  "NAU": {
+    "name": "Naukšēni"
+  },
+  "NER": {
+    "name": "Nereta"
+  },
+  "NIC": {
+    "name": "Nīca"
+  },
+  "OGR": {
+    "name": "Ogre"
+  },
+  "OLA": {
+    "name": "Olaine"
+  },
+  "OZO": {
+    "name": "Ozolnieki"
+  },
+  "PAR": {
+    "name": "Pārgauja"
+  },
+  "PAV": {
+    "name": "Pāvilosta"
+  },
+  "PLA": {
+    "name": "Pļaviņas"
+  },
+  "PRE": {
+    "name": "Preiļi"
+  },
+  "PRI": {
+    "name": "Priekule"
+  },
+  "PRI1": {
+    "name": "Priekuļi"
+  },
+  "RAU": {
+    "name": "Rauna"
+  },
+  "REZ": {
+    "name": "Rēzekne"
+  },
+  "REZMU": {
+    "name": "Rēzekne Municipality"
+  },
+  "RIG": {
+    "name": "Riga"
+  },
+  "ROJ": {
+    "name": "Roja"
+  },
+  "ROP": {
+    "name": "Ropaži"
+  },
+  "RUC": {
+    "name": "Rucava"
+  },
+  "RUG": {
+    "name": "Rugāji"
+  },
+  "RUJ": {
+    "name": "Rūjiena"
+  },
+  "SAL": {
+    "name": "Sala"
+  },
+  "SAL1": {
+    "name": "Salacgrīva"
+  },
+  "SAL2": {
+    "name": "Salaspils"
+  },
+  "SAL3": {
+    "name": "Saldus"
+  },
+  "SAU": {
+    "name": "Saulkrasti"
+  },
+  "SEJ": {
+    "name": "Sēja"
+  },
+  "SIG": {
+    "name": "Sigulda"
+  },
+  "SKR": {
+    "name": "Skrunda"
+  },
+  "STO": {
+    "name": "Stopiņi"
+  },
+  "STR": {
+    "name": "Strenči"
+  },
+  "TAL": {
+    "name": "Talsi"
+  },
+  "TER": {
+    "name": "Tērvete"
+  },
+  "VAI": {
+    "name": "Vaiņode"
+  },
+  "VAL": {
+    "name": "Valka"
+  },
+  "VAL1": {
+    "name": "Valmiera"
+  },
+  "VAR": {
+    "name": "Varakļāni"
+  },
+  "VEC": {
+    "name": "Vecpiebalga"
+  },
+  "VEC1": {
+    "name": "Vecumnieki"
+  },
+  "VEN": {
+    "name": "Ventspils"
+  },
+  "VENMU": {
+    "name": "Ventspils Municipality"
+  },
+  "VIE": {
+    "name": "Viesīte"
+  },
+  "VIL": {
+    "name": "Viļaka"
+  },
+  "VIL1": {
+    "name": "Viļāni"
+  },
+  "ZIL": {
+    "name": "Zilupe"
+  }
+}

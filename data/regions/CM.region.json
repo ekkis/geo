@@ -1,0 +1,32 @@
+{
+  "AD": {
+    "name": "Adamaoua"
+  },
+  "CE": {
+    "name": "Centre"
+  },
+  "ES": {
+    "name": "East"
+  },
+  "EN": {
+    "name": "Far North"
+  },
+  "LT": {
+    "name": "Littoral"
+  },
+  "NO": {
+    "name": "North"
+  },
+  "NW": {
+    "name": "North-West"
+  },
+  "SU": {
+    "name": "South"
+  },
+  "SW": {
+    "name": "South-West"
+  },
+  "OU": {
+    "name": "West"
+  }
+}

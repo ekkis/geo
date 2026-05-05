@@ -1,0 +1,47 @@
+{
+  "BW": {
+    "name": "Baden-Württemberg"
+  },
+  "BAY": {
+    "name": "Bayern"
+  },
+  "BE": {
+    "name": "Berlin"
+  },
+  "BB": {
+    "name": "Brandenburg"
+  },
+  "HB": {
+    "name": "Bremen"
+  },
+  "HH": {
+    "name": "Hamburg"
+  },
+  "HES": {
+    "name": "Hessen"
+  },
+  "MV": {
+    "name": "Mecklenburg-Vorpommern"
+  },
+  "NIE": {
+    "name": "Niedersachsen"
+  },
+  "NOR": {
+    "name": "Nordrhein-Westfalen"
+  },
+  "RHE": {
+    "name": "Rheinland-Pfalz"
+  },
+  "SL": {
+    "name": "Saarland"
+  },
+  "SAC": {
+    "name": "Sachsen-Anhalt"
+  },
+  "SH": {
+    "name": "Schleswig-Holstein"
+  },
+  "THÜ": {
+    "name": "Thüringen"
+  }
+}

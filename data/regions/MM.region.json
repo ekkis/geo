@@ -1,0 +1,47 @@
+{
+  "KACHIN": {
+    "name": "Kachin"
+  },
+  "KAYAH": {
+    "name": "Kayah"
+  },
+  "KAYIN": {
+    "name": "Kayin"
+  },
+  "CHIN": {
+    "name": "Chin"
+  },
+  "MON": {
+    "name": "Mon"
+  },
+  "RAKHINE": {
+    "name": "Rakhine"
+  },
+  "SHAN": {
+    "name": "Shan"
+  },
+  "AYEYAR": {
+    "name": "Ayeyarwady"
+  },
+  "BAGO": {
+    "name": "Bago"
+  },
+  "MAGWAY": {
+    "name": "Magway"
+  },
+  "MANDALAY": {
+    "name": "Mandalay"
+  },
+  "SAGAING": {
+    "name": "Sagaing"
+  },
+  "TANINTH": {
+    "name": "Tanintharyi"
+  },
+  "YANGON": {
+    "name": "Yangon"
+  },
+  "NAYPYID": {
+    "name": "Naypyidaw"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "HAR": {
+    "name": "Harju"
+  },
+  "HII": {
+    "name": "Hiiu"
+  },
+  "IDA": {
+    "name": "Ida-Viru"
+  },
+  "JOG": {
+    "name": "Jõgeva"
+  },
+  "JAR": {
+    "name": "Järva"
+  },
+  "LAA": {
+    "name": "Lääne"
+  },
+  "LAA1": {
+    "name": "Lääne-Viru"
+  },
+  "POL": {
+    "name": "Põlva"
+  },
+  "PAR": {
+    "name": "Pärnu"
+  },
+  "RAP": {
+    "name": "Rapla"
+  },
+  "SAA": {
+    "name": "Saare"
+  },
+  "TAR": {
+    "name": "Tartu"
+  },
+  "VAL": {
+    "name": "Valga"
+  },
+  "VIL": {
+    "name": "Viljandi"
+  },
+  "VOR": {
+    "name": "Võru"
+  }
+}

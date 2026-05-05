@@ -1,0 +1,56 @@
+{
+  "AUV": {
+    "name": "Auvergne-Rhône-Alpes"
+  },
+  "BOU": {
+    "name": "Bourgogne-Franche-Comté"
+  },
+  "BRI": {
+    "name": "Brittany"
+  },
+  "CENDE": {
+    "name": "Centre-Val de Loire"
+  },
+  "COR": {
+    "name": "Corsica"
+  },
+  "GRAES": {
+    "name": "Grand Est"
+  },
+  "HAU": {
+    "name": "Hauts-de-France"
+  },
+  "ILE": {
+    "name": "Île-de-France"
+  },
+  "NOR": {
+    "name": "Normandy"
+  },
+  "NOU": {
+    "name": "Nouvelle-Aquitaine"
+  },
+  "OCC": {
+    "name": "Occitanie"
+  },
+  "PAYDE": {
+    "name": "Pays de la Loire"
+  },
+  "PROD'": {
+    "name": "Provence-Alpes-Côte d'Azur"
+  },
+  "GUA": {
+    "name": "Guadeloupe"
+  },
+  "MAR": {
+    "name": "Martinique"
+  },
+  "FREGU": {
+    "name": "French Guiana"
+  },
+  "REU": {
+    "name": "Réunion"
+  },
+  "MAY": {
+    "name": "Mayotte"
+  }
+}

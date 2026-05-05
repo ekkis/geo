@@ -1,0 +1,53 @@
+{
+  "DRE": {
+    "name": "Drenthe"
+  },
+  "FLE": {
+    "name": "Flevoland"
+  },
+  "FRI": {
+    "name": "Friesland"
+  },
+  "GEL": {
+    "name": "Gelderland"
+  },
+  "GRO": {
+    "name": "Groningen"
+  },
+  "LIM": {
+    "name": "Limburg"
+  },
+  "NOO": {
+    "name": "Noord-Holland"
+  },
+  "OVE": {
+    "name": "Overijssel"
+  },
+  "UTR": {
+    "name": "Utrecht"
+  },
+  "ZUI": {
+    "name": "Zuid-Holland"
+  },
+  "ZEE": {
+    "name": "Zeeland"
+  },
+  "ARU": {
+    "name": "Aruba"
+  },
+  "BON": {
+    "name": "Bonaire"
+  },
+  "SAB": {
+    "name": "Saba"
+  },
+  "SE": {
+    "name": "Sint Eustatius"
+  },
+  "CUR": {
+    "name": "Curaçao"
+  },
+  "SM": {
+    "name": "Sint Maarten"
+  }
+}

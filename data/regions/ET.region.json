@@ -1,0 +1,32 @@
+{
+  "AA": {
+    "name": "Addis Ababa"
+  },
+  "AR": {
+    "name": "Amhara Region"
+  },
+  "BEN": {
+    "name": "Benishangul-Gumuz"
+  },
+  "DD": {
+    "name": "Dire Dawa"
+  },
+  "GAM": {
+    "name": "Gambela"
+  },
+  "HAR": {
+    "name": "Harari"
+  },
+  "ORO": {
+    "name": "Oromia"
+  },
+  "SOM": {
+    "name": "Somali"
+  },
+  "SN": {
+    "name": "Southern Nations, Nationalities, and Peoples' Region"
+  },
+  "TR": {
+    "name": "Tigray Region"
+  }
+}

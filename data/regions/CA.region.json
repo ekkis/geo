@@ -1,0 +1,41 @@
+{
+  "AB": {
+    "name": "Alberta"
+  },
+  "BC": {
+    "name": "British Columbia"
+  },
+  "MB": {
+    "name": "Manitoba"
+  },
+  "NB": {
+    "name": "New Brunswick"
+  },
+  "NL": {
+    "name": "Newfoundland and Labrador"
+  },
+  "NS": {
+    "name": "Nova Scotia"
+  },
+  "NU": {
+    "name": "Nunavut"
+  },
+  "NT": {
+    "name": "Northwest Territories"
+  },
+  "ON": {
+    "name": "Ontario"
+  },
+  "PE": {
+    "name": "Prince Edward Island"
+  },
+  "QC": {
+    "name": "Quebec"
+  },
+  "SK": {
+    "name": "Saskatchewan"
+  },
+  "YT": {
+    "name": "Yukon"
+  }
+}

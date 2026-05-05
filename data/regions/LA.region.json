@@ -1,0 +1,56 @@
+{
+  "ATTA": {
+    "name": "Attapeu"
+  },
+  "BOKEO": {
+    "name": "Bokeo"
+  },
+  "BOLIKH": {
+    "name": "Bolikhamsai"
+  },
+  "CHAMPAS": {
+    "name": "Champasak"
+  },
+  "HOUAPH": {
+    "name": "Houaphanh"
+  },
+  "KHAMMOU": {
+    "name": "Khammouane"
+  },
+  "LUANGNAM": {
+    "name": "Luang Namtha"
+  },
+  "LUANGBP": {
+    "name": "Luang Prabang"
+  },
+  "OUDOMX": {
+    "name": "Oudomxay"
+  },
+  "PHONGS": {
+    "name": "Phongsaly"
+  },
+  "SALAVAN": {
+    "name": "Salavan"
+  },
+  "SAVANNA": {
+    "name": "Savannakhet"
+  },
+  "SEKONG": {
+    "name": "Sekong"
+  },
+  "VIENTP": {
+    "name": "Vientiane Province"
+  },
+  "XAI": {
+    "name": "Xaisomboun"
+  },
+  "XAYABUR": {
+    "name": "Xayaburi"
+  },
+  "XIENGK": {
+    "name": "Xieng Khouang"
+  },
+  "VIENTJ": {
+    "name": "Vientiane Prefecture"
+  }
+}

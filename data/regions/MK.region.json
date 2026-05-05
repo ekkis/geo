@@ -1,0 +1,209 @@
+{
+  "AER": {
+    "name": "Aerodrom"
+  },
+  "ARA": {
+    "name": "Aračinovo"
+  },
+  "BER": {
+    "name": "Berovo"
+  },
+  "BIT": {
+    "name": "Bitola"
+  },
+  "BOG": {
+    "name": "Bogdanci"
+  },
+  "BOG1": {
+    "name": "Bogovinje"
+  },
+  "BOS": {
+    "name": "Bosilovo"
+  },
+  "BRV": {
+    "name": "Brvenica"
+  },
+  "BUT": {
+    "name": "Butel"
+  },
+  "CAI": {
+    "name": "Čair"
+  },
+  "CAS": {
+    "name": "Čaška"
+  },
+  "CEN": {
+    "name": "Centar"
+  },
+  "CENZU": {
+    "name": "Centar Župa"
+  },
+  "CUC": {
+    "name": "Čučer-Sandevo"
+  },
+  "DEB": {
+    "name": "Debar"
+  },
+  "DEB1": {
+    "name": "Debarca"
+  },
+  "DEL": {
+    "name": "Delčevo"
+  },
+  "DEMHI": {
+    "name": "Demir Hisar"
+  },
+  "DEMKA": {
+    "name": "Demir Kapija"
+  },
+  "DOJ": {
+    "name": "Dojran"
+  },
+  "DOL": {
+    "name": "Dolneni"
+  },
+  "DRU": {
+    "name": "Drugovo"
+  },
+  "GAZBA": {
+    "name": "Gazi Baba"
+  },
+  "GEV": {
+    "name": "Gevgelija"
+  },
+  "GJOPE": {
+    "name": "Gjorče Petrov"
+  },
+  "GOS": {
+    "name": "Gostivar"
+  },
+  "GRA": {
+    "name": "Gradsko"
+  },
+  "ILI": {
+    "name": "Ilinden"
+  },
+  "JEG": {
+    "name": "Jegunovce"
+  },
+  "KAR": {
+    "name": "Karbinci"
+  },
+  "KAV": {
+    "name": "Kavadarci"
+  },
+  "KIC": {
+    "name": "Kičevo"
+  },
+  "KISVO": {
+    "name": "Kisela Voda"
+  },
+  "KOC": {
+    "name": "Kočani"
+  },
+  "KON": {
+    "name": "Konče"
+  },
+  "KRA": {
+    "name": "Kratovo"
+  },
+  "KRIPA": {
+    "name": "Kriva Palanka"
+  },
+  "KRU": {
+    "name": "Kruševo"
+  },
+  "KUM": {
+    "name": "Kumanovo"
+  },
+  "LIP": {
+    "name": "Lipkovo"
+  },
+  "MAKKA": {
+    "name": "Makedonska Kamenica"
+  },
+  "MAKBR": {
+    "name": "Makedonski Brod"
+  },
+  "MAVAN": {
+    "name": "Mavrovo and Rostuša"
+  },
+  "MOG": {
+    "name": "Mogila"
+  },
+  "NEG": {
+    "name": "Negotino"
+  },
+  "NOV": {
+    "name": "Novaci"
+  },
+  "NOVSE": {
+    "name": "Novo Selo"
+  },
+  "OHR": {
+    "name": "Ohrid"
+  },
+  "PEH": {
+    "name": "Pehčevo"
+  },
+  "PET": {
+    "name": "Petrovec"
+  },
+  "PLA": {
+    "name": "Plasnica"
+  },
+  "PRI": {
+    "name": "Prilep"
+  },
+  "PRO": {
+    "name": "Probištip"
+  },
+  "RAD": {
+    "name": "Radoviš"
+  },
+  "RAN": {
+    "name": "Rankovce"
+  },
+  "RES": {
+    "name": "Resen"
+  },
+  "ROS": {
+    "name": "Rosoman"
+  },
+  "SAR": {
+    "name": "Saraj"
+  },
+  "SOP": {
+    "name": "Sopište"
+  },
+  "STANA": {
+    "name": "Staro Nagoričane"
+  },
+  "STR": {
+    "name": "Struga"
+  },
+  "STR1": {
+    "name": "Strumica"
+  },
+  "STU": {
+    "name": "Studeničani"
+  },
+  "STI": {
+    "name": "Štip"
+  },
+  "TET": {
+    "name": "Tetovo"
+  },
+  "VAL": {
+    "name": "Valandovo"
+  },
+  "VAS": {
+    "name": "Vasilevo"
+  },
+  "VEL": {
+    "name": "Veles"
+  },
+  "VRA": {
+    "name": "Vrapčište"
+  }
+}

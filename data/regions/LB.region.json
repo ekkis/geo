@@ -1,0 +1,26 @@
+{
+  "AH": {
+    "name": "Akkar"
+  },
+  "BH": {
+    "name": "Baalbek-Hermel"
+  },
+  "BT": {
+    "name": "Beirut"
+  },
+  "JL": {
+    "name": "Jabal Amel"
+  },
+  "JK": {
+    "name": "Jabal Amil"
+  },
+  "NL": {
+    "name": "North Lebanon"
+  },
+  "BA": {
+    "name": "Beqaa"
+  },
+  "SA": {
+    "name": "South Lebanon"
+  }
+}

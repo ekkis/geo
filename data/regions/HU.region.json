@@ -1,0 +1,59 @@
+{
+  "BAC": {
+    "name": "Bács-Kiskun"
+  },
+  "BAR": {
+    "name": "Baranya"
+  },
+  "BEK": {
+    "name": "Békés"
+  },
+  "BOR": {
+    "name": "Borsod-Abaúj-Zemplén"
+  },
+  "BUD": {
+    "name": "Budapest"
+  },
+  "FEJ": {
+    "name": "Fejér"
+  },
+  "GYO": {
+    "name": "Győr-Moson-Sopron"
+  },
+  "HAJ": {
+    "name": "Hajdú-Bihar"
+  },
+  "HEV": {
+    "name": "Heves"
+  },
+  "JAS": {
+    "name": "Jász-Nagykun-Szolnok"
+  },
+  "KOM": {
+    "name": "Komárom-Esztergom"
+  },
+  "NOG": {
+    "name": "Nógrád"
+  },
+  "PES": {
+    "name": "Pest"
+  },
+  "SOM": {
+    "name": "Somogy"
+  },
+  "SZA": {
+    "name": "Szabolcs-Szatmár-Bereg"
+  },
+  "TOL": {
+    "name": "Tolna"
+  },
+  "VAS": {
+    "name": "Vas"
+  },
+  "VES": {
+    "name": "Veszprém"
+  },
+  "ZAL": {
+    "name": "Zala"
+  }
+}

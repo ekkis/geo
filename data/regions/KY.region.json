@@ -1,0 +1,20 @@
+{
+  "CR": {
+    "name": "Cayman Brac"
+  },
+  "EI": {
+    "name": "East End"
+  },
+  "SC": {
+    "name": "South Town"
+  },
+  "SP": {
+    "name": "Spot Bay"
+  },
+  "WD": {
+    "name": "West Bay"
+  },
+  "WI": {
+    "name": "Western"
+  }
+}

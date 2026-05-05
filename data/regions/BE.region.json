@@ -1,0 +1,32 @@
+{
+  "ANT": {
+    "name": "Antwerpen"
+  },
+  "HEN": {
+    "name": "Henegouwen"
+  },
+  "LUI": {
+    "name": "Luik"
+  },
+  "LIM": {
+    "name": "Limburg"
+  },
+  "LUX": {
+    "name": "Luxemburg"
+  },
+  "NAM": {
+    "name": "Namen"
+  },
+  "OOS": {
+    "name": "Oost-Vlaanderen"
+  },
+  "VLA": {
+    "name": "Vlaams-Brabant"
+  },
+  "WAA": {
+    "name": "Waals-Brabant"
+  },
+  "WES": {
+    "name": "West-Vlaanderen"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ABKHAZ": {
+    "name": "Abkhazia"
+  },
+  "ADJARA": {
+    "name": "Adjara"
+  },
+  "GURIA": {
+    "name": "Guria"
+  },
+  "IMERE": {
+    "name": "Imereti"
+  },
+  "KAKHET": {
+    "name": "Kakheti"
+  },
+  "KVEVKAR": {
+    "name": "Kvemo Kartli"
+  },
+  "MTSKEH": {
+    "name": "Mtskheta-Mtianeti"
+  },
+  "RACHAL": {
+    "name": "Racha-Lechkhumi and Kvemo Svaneti"
+  },
+  "SAMEGRE": {
+    "name": "Samegrelo-Zemo Svaneti"
+  },
+  "SAMTSKH": {
+    "name": "Samtskhe-Javakheti"
+  },
+  "SHIDKAR": {
+    "name": "Shida Kartli"
+  },
+  "TBILISI": {
+    "name": "Tbilisi"
+  }
+}

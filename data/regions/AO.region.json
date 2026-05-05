@@ -1,0 +1,41 @@
+{
+  "LUA": {
+    "name": "Luanda"
+  },
+  "NO": {
+    "name": "Namibe"
+  },
+  "HS": {
+    "name": "Huíla"
+  },
+  "CC": {
+    "name": "Cuando Cubango"
+  },
+  "MX": {
+    "name": "Moxico"
+  },
+  "CN": {
+    "name": "Cunene"
+  },
+  "LN": {
+    "name": "Lunda Norte"
+  },
+  "LS": {
+    "name": "Lunda Sul"
+  },
+  "BN": {
+    "name": "Benguela"
+  },
+  "HO": {
+    "name": "Huambo"
+  },
+  "BI": {
+    "name": "Bié"
+  },
+  "CU": {
+    "name": "Cuanza Sul"
+  },
+  "CNB": {
+    "name": "Cuanza Norte"
+  }
+}

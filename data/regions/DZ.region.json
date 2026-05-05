@@ -1,0 +1,56 @@
+{
+  "ADR": {
+    "name": "Adrar"
+  },
+  "CHE": {
+    "name": "Cherchell"
+  },
+  "EO": {
+    "name": "El Bayadh"
+  },
+  "IO": {
+    "name": "Illizi"
+  },
+  "OA": {
+    "name": "Ouargla"
+  },
+  "OB": {
+    "name": "Ouled Djellal"
+  },
+  "SK": {
+    "name": "Sidi Bel Abbès"
+  },
+  "TH": {
+    "name": "Tamanrasset"
+  },
+  "OR": {
+    "name": "Oran"
+  },
+  "CON": {
+    "name": "Constantine"
+  },
+  "ANN": {
+    "name": "Annaba"
+  },
+  "BSK": {
+    "name": "Biskra"
+  },
+  "BT": {
+    "name": "Batna"
+  },
+  "MIL": {
+    "name": "Mila"
+  },
+  "MSL": {
+    "name": "Msila"
+  },
+  "SET": {
+    "name": "Sétif"
+  },
+  "SAI": {
+    "name": "Saïda"
+  },
+  "TEB": {
+    "name": "Tébessa"
+  }
+}

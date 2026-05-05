@@ -1,0 +1,41 @@
+{
+  "TASH": {
+    "name": "Tashkent"
+  },
+  "ANDI": {
+    "name": "Andijan"
+  },
+  "BUKH": {
+    "name": "Bukhara"
+  },
+  "FERG": {
+    "name": "Fergana"
+  },
+  "JIZZ": {
+    "name": "Jizzakh"
+  },
+  "NAMA": {
+    "name": "Namangan"
+  },
+  "NAV": {
+    "name": "Navoiy"
+  },
+  "QASH": {
+    "name": "Qashqadaryo"
+  },
+  "SAM": {
+    "name": "Samarkand"
+  },
+  "SURX": {
+    "name": "Surxondaryo"
+  },
+  "SYR": {
+    "name": "Syrdarya"
+  },
+  "KHOR": {
+    "name": "Khorezm"
+  },
+  "KARA": {
+    "name": "Karakalpakstan"
+  }
+}

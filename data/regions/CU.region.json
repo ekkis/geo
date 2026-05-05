@@ -1,0 +1,50 @@
+{
+  "CAM": {
+    "name": "Camagüey"
+  },
+  "CD": {
+    "name": "Ciego de Ávila"
+  },
+  "CIE": {
+    "name": "Cienfuegos"
+  },
+  "HAV": {
+    "name": "Havana"
+  },
+  "BAY": {
+    "name": "Bayamo"
+  },
+  "GUA": {
+    "name": "Guantánamo"
+  },
+  "HOL": {
+    "name": "Holguín"
+  },
+  "NG": {
+    "name": "Nueva Gerona"
+  },
+  "ART": {
+    "name": "Artemisa"
+  },
+  "LT": {
+    "name": "Las Tunas"
+  },
+  "MAT": {
+    "name": "Matanzas"
+  },
+  "SJ": {
+    "name": "San José de las Lajas"
+  },
+  "PD": {
+    "name": "Pinar del Río"
+  },
+  "SS": {
+    "name": "Sancti Spíritus"
+  },
+  "SD": {
+    "name": "Santiago de Cuba"
+  },
+  "SC": {
+    "name": "Santa Clara"
+  }
+}

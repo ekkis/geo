@@ -1,0 +1,47 @@
+{
+  "BGF": {
+    "name": "Bangui"
+  },
+  "BB": {
+    "name": "Bamingui-Bangoran"
+  },
+  "BK": {
+    "name": "Basse-Kotto"
+  },
+  "HK": {
+    "name": "Haute-Kotto"
+  },
+  "HM": {
+    "name": "Haut-Mbomou"
+  },
+  "KG": {
+    "name": "Kémo"
+  },
+  "LO": {
+    "name": "Lobaye"
+  },
+  "MB": {
+    "name": "Mbomou"
+  },
+  "MP": {
+    "name": "Ombella-M'Poko"
+  },
+  "NM": {
+    "name": "Nana-Mambéré"
+  },
+  "UK": {
+    "name": "Ouaka"
+  },
+  "AC": {
+    "name": "Ouham"
+  },
+  "OP": {
+    "name": "Ouham Péndé"
+  },
+  "SE": {
+    "name": "Sangha-Mbaéré"
+  },
+  "VK": {
+    "name": "Vakaga"
+  }
+}

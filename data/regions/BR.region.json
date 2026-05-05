@@ -1,0 +1,65 @@
+{
+  "ACR": {
+    "name": "Acre"
+  },
+  "ALA": {
+    "name": "Alagoas"
+  },
+  "AMA": {
+    "name": "Amazonas"
+  },
+  "BAH": {
+    "name": "Bahia"
+  },
+  "CEA": {
+    "name": "Ceará"
+  },
+  "DF": {
+    "name": "Distrito Federal"
+  },
+  "ES": {
+    "name": "Espírito Santo"
+  },
+  "GOI": {
+    "name": "Goiás"
+  },
+  "MAR": {
+    "name": "Maranhão"
+  },
+  "MG": {
+    "name": "Minas Gerais"
+  },
+  "PAR": {
+    "name": "Paraná"
+  },
+  "PER": {
+    "name": "Pernambuco"
+  },
+  "PIA": {
+    "name": "Piauí"
+  },
+  "RD": {
+    "name": "Rio de Janeiro"
+  },
+  "RG": {
+    "name": "Rio Grande do Sul"
+  },
+  "RON": {
+    "name": "Rondônia"
+  },
+  "ROR": {
+    "name": "Roraima"
+  },
+  "SC": {
+    "name": "Santa Catarina"
+  },
+  "SP": {
+    "name": "São Paulo"
+  },
+  "SER": {
+    "name": "Sergipe"
+  },
+  "TOC": {
+    "name": "Tocantins"
+  }
+}

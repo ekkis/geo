@@ -1,0 +1,224 @@
+{
+  "AMNATCHA": {
+    "name": "Amnat Charoen"
+  },
+  "ANGTHONG": {
+    "name": "Ang Thong"
+  },
+  "BUENGKAN": {
+    "name": "Bueng Kan"
+  },
+  "BANGKOK": {
+    "name": "Bangkok"
+  },
+  "CHAINAT": {
+    "name": "Chai Nat"
+  },
+  "CHAIYAPH": {
+    "name": "Chaiyaphum"
+  },
+  "CHANTHAB": {
+    "name": "Chanthaburi"
+  },
+  "CHIANGMA": {
+    "name": "Chiang Mai"
+  },
+  "CHIANGRA": {
+    "name": "Chiang Rai"
+  },
+  "CHONBURI": {
+    "name": "Chonburi"
+  },
+  "CHUMPHON": {
+    "name": "Chumphon"
+  },
+  "KALASIN": {
+    "name": "Kalasin"
+  },
+  "KAMPHAEN": {
+    "name": "Kamphaeng Phet"
+  },
+  "KANCHANA": {
+    "name": "Kanchanaburi"
+  },
+  "KHONKAEN": {
+    "name": "Khon Kaen"
+  },
+  "KRABI": {
+    "name": "Krabi"
+  },
+  "LAMPANG": {
+    "name": "Lampang"
+  },
+  "LAMPHUN": {
+    "name": "Lamphun"
+  },
+  "LOEI": {
+    "name": "Loei"
+  },
+  "LOPBURI": {
+    "name": "Lopburi"
+  },
+  "MAEHONGS": {
+    "name": "Mae Hong Son"
+  },
+  "MAHASARA": {
+    "name": "Maha Sarakham"
+  },
+  "MUKDAHAN": {
+    "name": "Mukdahan"
+  },
+  "NAKHONNA": {
+    "name": "Nakhon Nayok"
+  },
+  "NAKHONPA": {
+    "name": "Nakhon Pathom"
+  },
+  "NAKHONPH": {
+    "name": "Nakhon Phanom"
+  },
+  "NAKHONRA": {
+    "name": "Nakhon Ratchasima"
+  },
+  "NAKHONSA": {
+    "name": "Nakhon Sawan"
+  },
+  "NAKHONSI": {
+    "name": "Nakhon Si Thammarat"
+  },
+  "NAN": {
+    "name": "Nan"
+  },
+  "NARATHIW": {
+    "name": "Narathiwat"
+  },
+  "NONGBUAL": {
+    "name": "Nong Bua Lam Phu"
+  },
+  "NONGKHAI": {
+    "name": "Nong Khai"
+  },
+  "NONTHABU": {
+    "name": "Nonthaburi"
+  },
+  "PATHUMTH": {
+    "name": "Pathum Thani"
+  },
+  "PATTANI": {
+    "name": "Pattani"
+  },
+  "PHANGNGA": {
+    "name": "Phang Nga"
+  },
+  "PHATTHAL": {
+    "name": "Phatthalung"
+  },
+  "PHAYAO": {
+    "name": "Phayao"
+  },
+  "PHETCHAB": {
+    "name": "Phetchaburi"
+  },
+  "PHICHIT": {
+    "name": "Phichit"
+  },
+  "PHITSANU": {
+    "name": "Phitsanulok"
+  },
+  "PHRANAKH": {
+    "name": "Phra Nakhon Si Ayutthaya"
+  },
+  "PHRAE": {
+    "name": "Phrae"
+  },
+  "PHUKET": {
+    "name": "Phuket"
+  },
+  "PRACHINB": {
+    "name": "Prachin Buri"
+  },
+  "PRACHUAP": {
+    "name": "Prachuap Khiri Khan"
+  },
+  "RANONG": {
+    "name": "Ranong"
+  },
+  "RATCHABU": {
+    "name": "Ratchaburi"
+  },
+  "RAYONG": {
+    "name": "Rayong"
+  },
+  "ROIET": {
+    "name": "Roi Et"
+  },
+  "SAKAEO": {
+    "name": "Sa Kaeo"
+  },
+  "SAKONNAK": {
+    "name": "Sakon Nakhon"
+  },
+  "SAMUTPRA": {
+    "name": "Samut Prakan"
+  },
+  "SAMUTSAK": {
+    "name": "Samut Sakhon"
+  },
+  "SAMUTSON": {
+    "name": "Samut Songkhram"
+  },
+  "SARABURI": {
+    "name": "Saraburi"
+  },
+  "SATUN": {
+    "name": "Satun"
+  },
+  "SINGBURI": {
+    "name": "Sing Buri"
+  },
+  "SISAKET": {
+    "name": "Sisaket"
+  },
+  "SONGKHLA": {
+    "name": "Songkhla"
+  },
+  "SUKHOTHA": {
+    "name": "Sukhothai"
+  },
+  "SUPHANBU": {
+    "name": "Suphan Buri"
+  },
+  "SURATTHA": {
+    "name": "Surat Thani"
+  },
+  "SURIN": {
+    "name": "Surin"
+  },
+  "TAK": {
+    "name": "Tak"
+  },
+  "TRANG": {
+    "name": "Trang"
+  },
+  "TRAT": {
+    "name": "Trat"
+  },
+  "UBONRATC": {
+    "name": "Ubon Ratchathani"
+  },
+  "UDONTHAN": {
+    "name": "Udon Thani"
+  },
+  "UTHAITHA": {
+    "name": "Uthai Thani"
+  },
+  "UTTARADI": {
+    "name": "Uttaradit"
+  },
+  "YALA": {
+    "name": "Yala"
+  },
+  "YASOTHON": {
+    "name": "Yasothon"
+  }
+}

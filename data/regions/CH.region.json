@@ -1,0 +1,65 @@
+{
+  "ZUR": {
+    "name": "Zurich"
+  },
+  "GEN": {
+    "name": "Geneva"
+  },
+  "BAS": {
+    "name": "Basel-Stadt"
+  },
+  "BER": {
+    "name": "Bern"
+  },
+  "VAU": {
+    "name": "Vaud"
+  },
+  "TIC": {
+    "name": "Ticino"
+  },
+  "AAR": {
+    "name": "Aargau"
+  },
+  "LUZ": {
+    "name": "Luzern"
+  },
+  "SOL": {
+    "name": "Solothurn"
+  },
+  "VAL": {
+    "name": "Valais"
+  },
+  "GLA": {
+    "name": "Glarus"
+  },
+  "THU": {
+    "name": "Thurgau"
+  },
+  "SCH": {
+    "name": "Schaffhausen"
+  },
+  "FRI": {
+    "name": "Fribourg"
+  },
+  "ST.GA": {
+    "name": "St. Gallen"
+  },
+  "APPAU": {
+    "name": "Appenzell Ausserrhoden"
+  },
+  "APPIN": {
+    "name": "Appenzell Innerrhoden"
+  },
+  "GRA": {
+    "name": "Graubünden"
+  },
+  "NEU": {
+    "name": "Neuchâtel"
+  },
+  "SANGA": {
+    "name": "Sankt Gallen"
+  },
+  "SCH1": {
+    "name": "Schwyz"
+  }
+}

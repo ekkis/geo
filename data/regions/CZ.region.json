@@ -1,0 +1,44 @@
+{
+  "CENBO": {
+    "name": "Central Bohemian"
+  },
+  "SOUBO": {
+    "name": "South Bohemian"
+  },
+  "PLZ": {
+    "name": "Plzeň"
+  },
+  "KARVA": {
+    "name": "Karlovy Vary"
+  },
+  "USTNA": {
+    "name": "Ústí nad Labem"
+  },
+  "LIB": {
+    "name": "Liberec"
+  },
+  "HRAKR": {
+    "name": "Hradec Králové"
+  },
+  "PAR": {
+    "name": "Pardubice"
+  },
+  "VYS": {
+    "name": "Vysočina"
+  },
+  "SOUMO": {
+    "name": "South Moravian"
+  },
+  "OLO": {
+    "name": "Olomouc"
+  },
+  "ZLI": {
+    "name": "Zlín"
+  },
+  "MOR": {
+    "name": "Moravian-Silesian"
+  },
+  "PRA": {
+    "name": "Prague"
+  }
+}

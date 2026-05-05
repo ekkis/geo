@@ -1,0 +1,50 @@
+{
+  "ALA": {
+    "name": "Åland"
+  },
+  "LAP": {
+    "name": "Lapland"
+  },
+  "NORKA": {
+    "name": "North Karelia"
+  },
+  "NOROS": {
+    "name": "Northern Ostrobothnia"
+  },
+  "CENOS": {
+    "name": "Central Ostrobothnia"
+  },
+  "CENFI": {
+    "name": "Central Finland"
+  },
+  "SOUKA": {
+    "name": "South Karelia"
+  },
+  "PAI": {
+    "name": "Päijät-Häme"
+  },
+  "KYM": {
+    "name": "Kymenlaakso"
+  },
+  "SOUSA": {
+    "name": "South Savo"
+  },
+  "CENSA": {
+    "name": "Central Savo"
+  },
+  "OST": {
+    "name": "Ostrobothnia"
+  },
+  "SAT": {
+    "name": "Satakunta"
+  },
+  "PIR": {
+    "name": "Pirkanmaa"
+  },
+  "SOUFI": {
+    "name": "Southwest Finland"
+  },
+  "UUS": {
+    "name": "Uusimaa"
+  }
+}

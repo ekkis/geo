@@ -1,0 +1,50 @@
+{
+  "SEOUL": {
+    "name": "Seoul"
+  },
+  "BUSAN": {
+    "name": "Busan"
+  },
+  "DAEGU": {
+    "name": "Daegu"
+  },
+  "INCHEON": {
+    "name": "Incheon"
+  },
+  "GWANGJU": {
+    "name": "Gwangju"
+  },
+  "DAEJEON": {
+    "name": "Daejeon"
+  },
+  "ULSAN": {
+    "name": "Ulsan"
+  },
+  "SEJONG": {
+    "name": "Sejong"
+  },
+  "GYEONGGI": {
+    "name": "Gyeonggi"
+  },
+  "GANGWON": {
+    "name": "Gangwon"
+  },
+  "CHUNGNORTH": {
+    "name": "North Chungcheong"
+  },
+  "CHUNGSOUTH": {
+    "name": "South Chungcheong"
+  },
+  "JEONLAKNORTH": {
+    "name": "North Jeolla"
+  },
+  "JEONLAKSOUTH": {
+    "name": "South Jeolla"
+  },
+  "GYEONGSBNORTH": {
+    "name": "North Gyeongsang"
+  },
+  "GYEONGBSOUTH": {
+    "name": "South Gyeongsang"
+  }
+}

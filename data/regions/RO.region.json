@@ -1,0 +1,125 @@
+{
+  "ALB": {
+    "name": "Alba"
+  },
+  "ARA": {
+    "name": "Arad"
+  },
+  "ARG": {
+    "name": "Argeș"
+  },
+  "BAC": {
+    "name": "Bacău"
+  },
+  "BIH": {
+    "name": "Bihor"
+  },
+  "BIS": {
+    "name": "Bistrița-Năsăud"
+  },
+  "BOT": {
+    "name": "Botoșani"
+  },
+  "BRA": {
+    "name": "Brașov"
+  },
+  "BRA1": {
+    "name": "Brăila"
+  },
+  "BUZ": {
+    "name": "Buzău"
+  },
+  "CAL": {
+    "name": "Călărași"
+  },
+  "CAR": {
+    "name": "Caraș-Severin"
+  },
+  "CLU": {
+    "name": "Cluj"
+  },
+  "CON": {
+    "name": "Constanța"
+  },
+  "COV": {
+    "name": "Covasna"
+  },
+  "DAM": {
+    "name": "Dâmbovița"
+  },
+  "DOL": {
+    "name": "Dolj"
+  },
+  "GAL": {
+    "name": "Galați"
+  },
+  "GIU": {
+    "name": "Giurgiu"
+  },
+  "GOR": {
+    "name": "Gorj"
+  },
+  "HAR": {
+    "name": "Harghita"
+  },
+  "HUN": {
+    "name": "Hunedoara"
+  },
+  "IAL": {
+    "name": "Ialomița"
+  },
+  "IAS": {
+    "name": "Iași"
+  },
+  "ILF": {
+    "name": "Ilfov"
+  },
+  "MAR": {
+    "name": "Maramureș"
+  },
+  "MEH": {
+    "name": "Mehedinți"
+  },
+  "MUR": {
+    "name": "Mureș"
+  },
+  "NEA": {
+    "name": "Neamț"
+  },
+  "OLT": {
+    "name": "Olt"
+  },
+  "PRA": {
+    "name": "Prahova"
+  },
+  "SATMA": {
+    "name": "Satu Mare"
+  },
+  "SAL": {
+    "name": "Sălaj"
+  },
+  "SIB": {
+    "name": "Sibiu"
+  },
+  "SUC": {
+    "name": "Suceava"
+  },
+  "TEL": {
+    "name": "Teleorman"
+  },
+  "TIM": {
+    "name": "Timiș"
+  },
+  "TUL": {
+    "name": "Tulcea"
+  },
+  "VAS": {
+    "name": "Vaslui"
+  },
+  "VAL": {
+    "name": "Vâlcea"
+  },
+  "VRA": {
+    "name": "Vrancea"
+  }
+}

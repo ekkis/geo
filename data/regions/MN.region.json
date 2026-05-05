@@ -1,0 +1,65 @@
+{
+  "ULAANB": {
+    "name": "Ulaanbaatar"
+  },
+  "ARKH": {
+    "name": "Arkhangai"
+  },
+  "BAYAO": {
+    "name": "Bayan-Olgii"
+  },
+  "BAYANH": {
+    "name": "Bayankhongor"
+  },
+  "BULG": {
+    "name": "Bulgan"
+  },
+  "DARKH": {
+    "name": "Darkhan-Uul"
+  },
+  "DORN": {
+    "name": "Dornod"
+  },
+  "DORNO": {
+    "name": "Dornogovi"
+  },
+  "DUND": {
+    "name": "Dundgovi"
+  },
+  "ZAVK": {
+    "name": "Zavkhan"
+  },
+  "OVORK": {
+    "name": "Ovorkhangai"
+  },
+  "SELE": {
+    "name": "Selenge"
+  },
+  "TUV": {
+    "name": "Töv"
+  },
+  "UVS": {
+    "name": "Uvs"
+  },
+  "KHOV": {
+    "name": "Khovd"
+  },
+  "KHENT": {
+    "name": "Khentii"
+  },
+  "UMNU": {
+    "name": "Umnugovi"
+  },
+  "GOVI": {
+    "name": "Govi-Altai"
+  },
+  "KHOVG": {
+    "name": "Khövsgöl"
+  },
+  "ORKHON": {
+    "name": "Orkhon"
+  },
+  "GOVIS": {
+    "name": "Govi-Sumber"
+  }
+}

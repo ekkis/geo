@@ -1,0 +1,44 @@
+{
+  "GREPO": {
+    "name": "Greater Poland"
+  },
+  "KUY": {
+    "name": "Kuyavian-Pomeranian"
+  },
+  "LESPO": {
+    "name": "Lesser Poland"
+  },
+  "ODZ": {
+    "name": "Łódź"
+  },
+  "LOWSI": {
+    "name": "Lower Silesian"
+  },
+  "LUB": {
+    "name": "Lublin"
+  },
+  "LUB1": {
+    "name": "Lubusz"
+  },
+  "MAS": {
+    "name": "Masovian"
+  },
+  "OPO": {
+    "name": "Opole"
+  },
+  "POD": {
+    "name": "Podlaskie"
+  },
+  "POM": {
+    "name": "Pomeranian"
+  },
+  "SWI": {
+    "name": "Świętokrzyskie"
+  },
+  "WAR": {
+    "name": "Warmian-Masurian"
+  },
+  "WESPO": {
+    "name": "West Pomeranian"
+  }
+}

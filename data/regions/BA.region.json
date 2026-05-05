@@ -1,0 +1,29 @@
+{
+  "UNA": {
+    "name": "Una-Sana"
+  },
+  "POS": {
+    "name": "Posavina"
+  },
+  "TUZ": {
+    "name": "Tuzla"
+  },
+  "ZEN": {
+    "name": "Zenica-Doboj"
+  },
+  "BOSPO": {
+    "name": "Bosnian Podrinje"
+  },
+  "CENBO": {
+    "name": "Central Bosnia"
+  },
+  "HER": {
+    "name": "Herzegovina-Neretva"
+  },
+  "WESHE": {
+    "name": "West Herzegovina"
+  },
+  "REPSR": {
+    "name": "Republika Srpska"
+  }
+}

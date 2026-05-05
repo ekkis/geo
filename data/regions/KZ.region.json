@@ -1,0 +1,50 @@
+{
+  "ALM": {
+    "name": "Almaty"
+  },
+  "AST": {
+    "name": "Nur-Sultan"
+  },
+  "SHYM": {
+    "name": "Shymkent"
+  },
+  "AKMO": {
+    "name": "Akmola"
+  },
+  "AKTO": {
+    "name": "Aktobe"
+  },
+  "ATYR": {
+    "name": "Atyrau"
+  },
+  "KARAG": {
+    "name": "Karaganda"
+  },
+  "KOST": {
+    "name": "Kostanay"
+  },
+  "KYZY": {
+    "name": "Kyzylorda"
+  },
+  "MANGS": {
+    "name": "Mangystau"
+  },
+  "PAV": {
+    "name": "Pavlodar"
+  },
+  "TURK": {
+    "name": "Turkestan"
+  },
+  "VOST": {
+    "name": "East Kazakhstan"
+  },
+  "SEVZ": {
+    "name": "North Kazakhstan"
+  },
+  "ZAPAD": {
+    "name": "West Kazakhstan"
+  },
+  "YUZH": {
+    "name": "South Kazakhstan"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "BLA": {
+    "name": "Blagoevgrad"
+  },
+  "BUR": {
+    "name": "Burgas"
+  },
+  "DOB": {
+    "name": "Dobrich"
+  },
+  "GAB": {
+    "name": "Gabrovo"
+  },
+  "HAS": {
+    "name": "Haskovo"
+  },
+  "KAR": {
+    "name": "Kardzhali"
+  },
+  "KYU": {
+    "name": "Kyustendil"
+  },
+  "LOV": {
+    "name": "Lovech"
+  },
+  "MON": {
+    "name": "Montana"
+  },
+  "PAZ": {
+    "name": "Pazardzhik"
+  },
+  "PER": {
+    "name": "Pernik"
+  },
+  "PLE": {
+    "name": "Pleven"
+  },
+  "PLO": {
+    "name": "Plovdiv"
+  },
+  "RAZ": {
+    "name": "Razgrad"
+  },
+  "RUS": {
+    "name": "Ruse"
+  },
+  "SHU": {
+    "name": "Shumen"
+  },
+  "SIL": {
+    "name": "Silistra"
+  },
+  "SLI": {
+    "name": "Sliven"
+  },
+  "SMO": {
+    "name": "Smolyan"
+  },
+  "SOF": {
+    "name": "Sofia"
+  },
+  "SOFPR": {
+    "name": "Sofia Province"
+  },
+  "STAZA": {
+    "name": "Stara Zagora"
+  },
+  "TAR": {
+    "name": "Targovishte"
+  },
+  "VAR": {
+    "name": "Varna"
+  },
+  "VELTA": {
+    "name": "Veliko Tarnovo"
+  },
+  "VID": {
+    "name": "Vidin"
+  },
+  "VRA": {
+    "name": "Vratsa"
+  },
+  "YAM": {
+    "name": "Yambol"
+  }
+}

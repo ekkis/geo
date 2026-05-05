@@ -1,0 +1,104 @@
+{
+  "AP": {
+    "name": "Arunachal Pradesh"
+  },
+  "ASS": {
+    "name": "Assam"
+  },
+  "BIH": {
+    "name": "Bihar"
+  },
+  "CHH": {
+    "name": "Chhattisgarh"
+  },
+  "GOA": {
+    "name": "Goa"
+  },
+  "GUJ": {
+    "name": "Gujarat"
+  },
+  "HAR": {
+    "name": "Haryana"
+  },
+  "HP": {
+    "name": "Himachal Pradesh"
+  },
+  "JA": {
+    "name": "Jammu and Kashmir"
+  },
+  "JHA": {
+    "name": "Jharkhand"
+  },
+  "KAR": {
+    "name": "Karnataka"
+  },
+  "KER": {
+    "name": "Kerala"
+  },
+  "MP": {
+    "name": "Madhya Pradesh"
+  },
+  "MAH": {
+    "name": "Maharashtra"
+  },
+  "MAN": {
+    "name": "Manipur"
+  },
+  "MEG": {
+    "name": "Meghalaya"
+  },
+  "MIZ": {
+    "name": "Mizoram"
+  },
+  "NAG": {
+    "name": "Nagaland"
+  },
+  "ODI": {
+    "name": "Odisha"
+  },
+  "PUN": {
+    "name": "Punjab"
+  },
+  "RAJ": {
+    "name": "Rajasthan"
+  },
+  "SIK": {
+    "name": "Sikkim"
+  },
+  "TN": {
+    "name": "Tamil Nadu"
+  },
+  "TEL": {
+    "name": "Telangana"
+  },
+  "TRI": {
+    "name": "Tripura"
+  },
+  "UP": {
+    "name": "Uttar Pradesh"
+  },
+  "UTT": {
+    "name": "Uttarakhand"
+  },
+  "WB": {
+    "name": "West Bengal"
+  },
+  "AA": {
+    "name": "Andaman and Nicobar Islands"
+  },
+  "CHA": {
+    "name": "Chandigarh"
+  },
+  "DA": {
+    "name": "Daman and Diu"
+  },
+  "LAK": {
+    "name": "Lakshadweep"
+  },
+  "NC": {
+    "name": "National Capital Territory of Delhi"
+  },
+  "PUD": {
+    "name": "Puducherry"
+  }
+}

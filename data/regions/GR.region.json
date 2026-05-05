@@ -1,0 +1,41 @@
+{
+  "ATT": {
+    "name": "Attica"
+  },
+  "CENGR": {
+    "name": "Central Greece"
+  },
+  "CENMA": {
+    "name": "Central Macedonia"
+  },
+  "CRE": {
+    "name": "Crete"
+  },
+  "EASMA": {
+    "name": "East Macedonia and Thrace"
+  },
+  "EPI": {
+    "name": "Epirus"
+  },
+  "IONIS": {
+    "name": "Ionian Islands"
+  },
+  "NORAE": {
+    "name": "North Aegean"
+  },
+  "PEL": {
+    "name": "Peloponnese"
+  },
+  "SOUAE": {
+    "name": "South Aegean"
+  },
+  "THE": {
+    "name": "Thessaly"
+  },
+  "WESGR": {
+    "name": "West Greece"
+  },
+  "WESMA": {
+    "name": "West Macedonia"
+  }
+}

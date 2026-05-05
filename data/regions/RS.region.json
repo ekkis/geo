@@ -1,0 +1,62 @@
+{
+  "BEL": {
+    "name": "Belgrade"
+  },
+  "VOJ": {
+    "name": "Vojvodina"
+  },
+  "NIS": {
+    "name": "Nišava"
+  },
+  "SUMAN": {
+    "name": "Šumadija and Western Serbia"
+  },
+  "SOUAN": {
+    "name": "Southern and Eastern Serbia"
+  },
+  "ZLA": {
+    "name": "Zlatibor"
+  },
+  "RAS": {
+    "name": "Rasina"
+  },
+  "RAS1": {
+    "name": "Raska"
+  },
+  "MOR": {
+    "name": "Moravica"
+  },
+  "POD": {
+    "name": "Podunavlje"
+  },
+  "BRA": {
+    "name": "Braničevo"
+  },
+  "JAB": {
+    "name": "Jablanica"
+  },
+  "PCI": {
+    "name": "Pčinja"
+  },
+  "POM": {
+    "name": "Pomoravlje"
+  },
+  "ZLA1": {
+    "name": "Zlatibor"
+  },
+  "KOL": {
+    "name": "Kolubara"
+  },
+  "MAC": {
+    "name": "Mačva"
+  },
+  "BOR": {
+    "name": "Bor"
+  },
+  "BRA1": {
+    "name": "Braničevo"
+  },
+  "PCI1": {
+    "name": "Pčinja"
+  }
+}

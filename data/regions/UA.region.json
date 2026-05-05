@@ -1,0 +1,83 @@
+{
+  "CHER": {
+    "name": "Cherkasy Oblast"
+  },
+  "CHERN": {
+    "name": "Chernihiv Oblast"
+  },
+  "CHERV": {
+    "name": "Chernivtsi Oblast"
+  },
+  "DNIPR": {
+    "name": "Dnipropetrovsk Oblast"
+  },
+  "DONET": {
+    "name": "Donetsk Oblast"
+  },
+  "IVANO": {
+    "name": "Ivano-Frankivsk Oblast"
+  },
+  "KHARK": {
+    "name": "Kharkiv Oblast"
+  },
+  "KHERS": {
+    "name": "Kherson Oblast"
+  },
+  "KHMLT": {
+    "name": "Khmelnytskyi Oblast"
+  },
+  "KIEV": {
+    "name": "Kiev Oblast"
+  },
+  "KIRO": {
+    "name": "Kirovohrad Oblast"
+  },
+  "LUHAN": {
+    "name": "Luhansk Oblast"
+  },
+  "LVIV": {
+    "name": "Lviv Oblast"
+  },
+  "MYKO": {
+    "name": "Mykolaiv Oblast"
+  },
+  "ODESS": {
+    "name": "Odessa Oblast"
+  },
+  "POLTA": {
+    "name": "Poltava Oblast"
+  },
+  "RIVN": {
+    "name": "Rivne Oblast"
+  },
+  "SEVAS": {
+    "name": "Sevastopol"
+  },
+  "SUMY": {
+    "name": "Sumy Oblast"
+  },
+  "TERN": {
+    "name": "Ternopil Oblast"
+  },
+  "VINNY": {
+    "name": "Vinnytsia Oblast"
+  },
+  "VOLYN": {
+    "name": "Volyn Oblast"
+  },
+  "ZAKAR": {
+    "name": "Zakarpattia Oblast"
+  },
+  "ZAPOR": {
+    "name": "Zaporizhzhia Oblast"
+  },
+  "ZHYTO": {
+    "name": "Zhytomyr Oblast"
+  },
+  "CRIME": {
+    "name": "Autonomous Republic of Crimea"
+  },
+  "KIEV-CITY": {
+    "name": "Kiev"
+  }
+}
