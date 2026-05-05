@@ -13169,5 +13169,1307 @@
         ]
       }
     }
+  },
+  "SI": {
+    "divisions": {
+      "BLA": {
+        "name": "Blago-Kras",
+        "regions": [
+          "Blago-Kras"
+        ]
+      },
+      "GOR": {
+        "name": "Gorenjska",
+        "regions": [
+          "Gorenjska"
+        ]
+      },
+      "GOR1": {
+        "name": "Goriška",
+        "regions": [
+          "Goriška"
+        ]
+      },
+      "JUGSL": {
+        "name": "Jugovzhodna Slovenija",
+        "regions": [
+          "Jugovzhodna Slovenija"
+        ]
+      },
+      "KOR": {
+        "name": "Koroška",
+        "regions": [
+          "Koroška"
+        ]
+      },
+      "OBA": {
+        "name": "Obalno-Kraška",
+        "regions": [
+          "Obalno-Kraška"
+        ]
+      },
+      "OSR": {
+        "name": "Osrednjeslovenska",
+        "regions": [
+          "Osrednjeslovenska"
+        ]
+      },
+      "POD": {
+        "name": "Podravska",
+        "regions": [
+          "Podravska"
+        ]
+      },
+      "POM": {
+        "name": "Pomurska",
+        "regions": [
+          "Pomurska"
+        ]
+      }
+    }
+  },
+  "HR": {
+    "divisions": {
+      "ZAG": {
+        "name": "Zagreb",
+        "regions": [
+          "Zagreb"
+        ]
+      },
+      "SPL": {
+        "name": "Split-Dalmatia",
+        "regions": [
+          "Split-Dalmatia"
+        ]
+      },
+      "PRIKO": {
+        "name": "Primorje-Gorski Kotar",
+        "regions": [
+          "Primorje-Gorski Kotar"
+        ]
+      },
+      "DUB": {
+        "name": "Dubrovnik-Neretva",
+        "regions": [
+          "Dubrovnik-Neretva"
+        ]
+      },
+      "IST": {
+        "name": "Istria",
+        "regions": [
+          "Istria"
+        ]
+      },
+      "SIB": {
+        "name": "Šibenik-Knin",
+        "regions": [
+          "Šibenik-Knin"
+        ]
+      },
+      "LIK": {
+        "name": "Lika-Senj",
+        "regions": [
+          "Lika-Senj"
+        ]
+      },
+      "MEI": {
+        "name": "Međimurje",
+        "regions": [
+          "Međimurje"
+        ]
+      },
+      "OSI": {
+        "name": "Osijek-Baranja",
+        "regions": [
+          "Osijek-Baranja"
+        ]
+      },
+      "POZ": {
+        "name": "Požega-Slavonia",
+        "regions": [
+          "Požega-Slavonia"
+        ]
+      },
+      "VIR": {
+        "name": "Virovitica-Podravina",
+        "regions": [
+          "Virovitica-Podravina"
+        ]
+      },
+      "VUK": {
+        "name": "Vukovar-Srijem",
+        "regions": [
+          "Vukovar-Srijem"
+        ]
+      },
+      "ZAD": {
+        "name": "Zadar",
+        "regions": [
+          "Zadar"
+        ]
+      },
+      "BJE": {
+        "name": "Bjelovar-Bilogora",
+        "regions": [
+          "Bjelovar-Bilogora"
+        ]
+      },
+      "BRO": {
+        "name": " Brod-Posavina",
+        "regions": [
+          " Brod-Posavina"
+        ]
+      },
+      "DUB1": {
+        "name": "Dubrovnik-Neretva",
+        "regions": [
+          "Dubrovnik-Neretva"
+        ]
+      },
+      "KOP": {
+        "name": "Koprivnica-Križevci",
+        "regions": [
+          "Koprivnica-Križevci"
+        ]
+      },
+      "KRA": {
+        "name": "Krapina-Zagorje",
+        "regions": [
+          "Krapina-Zagorje"
+        ]
+      },
+      "POZ1": {
+        "name": "Požega-Slavonia",
+        "regions": [
+          "Požega-Slavonia"
+        ]
+      },
+      "SIS": {
+        "name": "Sisak-Moslavina",
+        "regions": [
+          "Sisak-Moslavina"
+        ]
+      },
+      "VIR1": {
+        "name": "Virovitica-Podravina",
+        "regions": [
+          "Virovitica-Podravina"
+        ]
+      }
+    }
+  },
+  "BA": {
+    "divisions": {
+      "UNA": {
+        "name": "Una-Sana",
+        "regions": [
+          "Una-Sana"
+        ]
+      },
+      "POS": {
+        "name": "Posavina",
+        "regions": [
+          "Posavina"
+        ]
+      },
+      "TUZ": {
+        "name": "Tuzla",
+        "regions": [
+          "Tuzla"
+        ]
+      },
+      "ZEN": {
+        "name": "Zenica-Doboj",
+        "regions": [
+          "Zenica-Doboj"
+        ]
+      },
+      "BOSPO": {
+        "name": "Bosnian Podrinje",
+        "regions": [
+          "Bosnian Podrinje"
+        ]
+      },
+      "CENBO": {
+        "name": "Central Bosnia",
+        "regions": [
+          "Central Bosnia"
+        ]
+      },
+      "HER": {
+        "name": "Herzegovina-Neretva",
+        "regions": [
+          "Herzegovina-Neretva"
+        ]
+      },
+      "WESHE": {
+        "name": "West Herzegovina",
+        "regions": [
+          "West Herzegovina"
+        ]
+      },
+      "REPSR": {
+        "name": "Republika Srpska",
+        "regions": [
+          "Republika Srpska"
+        ]
+      }
+    }
+  },
+  "ME": {
+    "divisions": {
+      "POD": {
+        "name": "Podgorica",
+        "regions": [
+          "Podgorica"
+        ]
+      },
+      "NIK": {
+        "name": "Nikšić",
+        "regions": [
+          "Nikšić"
+        ]
+      },
+      "PLJ": {
+        "name": "Pljevlja",
+        "regions": [
+          "Pljevlja"
+        ]
+      },
+      "BIJPO": {
+        "name": "Bijelo Polje",
+        "regions": [
+          "Bijelo Polje"
+        ]
+      },
+      "CET": {
+        "name": "Cetinje",
+        "regions": [
+          "Cetinje"
+        ]
+      },
+      "BAR": {
+        "name": "Bar",
+        "regions": [
+          "Bar"
+        ]
+      },
+      "HERNO": {
+        "name": "Herceg Novi",
+        "regions": [
+          "Herceg Novi"
+        ]
+      },
+      "ULC": {
+        "name": "Ulcinj",
+        "regions": [
+          "Ulcinj"
+        ]
+      },
+      "ROZ": {
+        "name": "Rožaje",
+        "regions": [
+          "Rožaje"
+        ]
+      },
+      "DAN": {
+        "name": "Danilovgrad",
+        "regions": [
+          "Danilovgrad"
+        ]
+      },
+      "SAV": {
+        "name": "Šavnik",
+        "regions": [
+          "Šavnik"
+        ]
+      }
+    }
+  },
+  "RS": {
+    "divisions": {
+      "BEL": {
+        "name": "Belgrade",
+        "regions": [
+          "Belgrade"
+        ]
+      },
+      "VOJ": {
+        "name": "Vojvodina",
+        "regions": [
+          "Vojvodina"
+        ]
+      },
+      "NIS": {
+        "name": "Nišava",
+        "regions": [
+          "Nišava"
+        ]
+      },
+      "SUMAN": {
+        "name": "Šumadija and Western Serbia",
+        "regions": [
+          "Šumadija and Western Serbia"
+        ]
+      },
+      "SOUAN": {
+        "name": "Southern and Eastern Serbia",
+        "regions": [
+          "Southern and Eastern Serbia"
+        ]
+      },
+      "ZLA": {
+        "name": "Zlatibor",
+        "regions": [
+          "Zlatibor"
+        ]
+      },
+      "RAS": {
+        "name": "Rasina",
+        "regions": [
+          "Rasina"
+        ]
+      },
+      "RAS1": {
+        "name": "Raska",
+        "regions": [
+          "Raska"
+        ]
+      },
+      "MOR": {
+        "name": "Moravica",
+        "regions": [
+          "Moravica"
+        ]
+      },
+      "POD": {
+        "name": "Podunavlje",
+        "regions": [
+          "Podunavlje"
+        ]
+      },
+      "BRA": {
+        "name": "Braničevo",
+        "regions": [
+          "Braničevo"
+        ]
+      },
+      "JAB": {
+        "name": "Jablanica",
+        "regions": [
+          "Jablanica"
+        ]
+      },
+      "PCI": {
+        "name": "Pčinja",
+        "regions": [
+          "Pčinja"
+        ]
+      },
+      "POM": {
+        "name": "Pomoravlje",
+        "regions": [
+          "Pomoravlje"
+        ]
+      },
+      "ZLA1": {
+        "name": "Zlatibor",
+        "regions": [
+          "Zlatibor"
+        ]
+      },
+      "KOL": {
+        "name": "Kolubara",
+        "regions": [
+          "Kolubara"
+        ]
+      },
+      "MAC": {
+        "name": "Mačva",
+        "regions": [
+          "Mačva"
+        ]
+      },
+      "BOR": {
+        "name": "Bor",
+        "regions": [
+          "Bor"
+        ]
+      },
+      "BRA1": {
+        "name": "Braničevo",
+        "regions": [
+          "Braničevo"
+        ]
+      },
+      "PCI1": {
+        "name": "Pčinja",
+        "regions": [
+          "Pčinja"
+        ]
+      }
+    }
+  },
+  "AL": {
+    "divisions": {
+      "BER": {
+        "name": "Berat",
+        "regions": [
+          "Berat"
+        ]
+      },
+      "DIB": {
+        "name": "Dibër",
+        "regions": [
+          "Dibër"
+        ]
+      },
+      "DUR": {
+        "name": "Durrës",
+        "regions": [
+          "Durrës"
+        ]
+      },
+      "ELB": {
+        "name": "Elbasan",
+        "regions": [
+          "Elbasan"
+        ]
+      },
+      "FIE": {
+        "name": "Fier",
+        "regions": [
+          "Fier"
+        ]
+      },
+      "GJI": {
+        "name": "Gjirokastër",
+        "regions": [
+          "Gjirokastër"
+        ]
+      },
+      "KOR": {
+        "name": "Korçë",
+        "regions": [
+          "Korçë"
+        ]
+      },
+      "KUK": {
+        "name": "Kukës",
+        "regions": [
+          "Kukës"
+        ]
+      },
+      "LEZ": {
+        "name": "Lezhë",
+        "regions": [
+          "Lezhë"
+        ]
+      },
+      "SHK": {
+        "name": "Shkodër",
+        "regions": [
+          "Shkodër"
+        ]
+      },
+      "TIR": {
+        "name": "Tirana",
+        "regions": [
+          "Tirana"
+        ]
+      },
+      "VLO": {
+        "name": "Vlorë",
+        "regions": [
+          "Vlorë"
+        ]
+      }
+    }
+  },
+  "MK": {
+    "divisions": {
+      "AER": {
+        "name": "Aerodrom",
+        "regions": [
+          "Aerodrom"
+        ]
+      },
+      "ARA": {
+        "name": "Aračinovo",
+        "regions": [
+          "Aračinovo"
+        ]
+      },
+      "BER": {
+        "name": "Berovo",
+        "regions": [
+          "Berovo"
+        ]
+      },
+      "BIT": {
+        "name": "Bitola",
+        "regions": [
+          "Bitola"
+        ]
+      },
+      "BOG": {
+        "name": "Bogdanci",
+        "regions": [
+          "Bogdanci"
+        ]
+      },
+      "BOG1": {
+        "name": "Bogovinje",
+        "regions": [
+          "Bogovinje"
+        ]
+      },
+      "BOS": {
+        "name": "Bosilovo",
+        "regions": [
+          "Bosilovo"
+        ]
+      },
+      "BRV": {
+        "name": "Brvenica",
+        "regions": [
+          "Brvenica"
+        ]
+      },
+      "BUT": {
+        "name": "Butel",
+        "regions": [
+          "Butel"
+        ]
+      },
+      "CAI": {
+        "name": "Čair",
+        "regions": [
+          "Čair"
+        ]
+      },
+      "CAS": {
+        "name": "Čaška",
+        "regions": [
+          "Čaška"
+        ]
+      },
+      "CEN": {
+        "name": "Centar",
+        "regions": [
+          "Centar"
+        ]
+      },
+      "CENZU": {
+        "name": "Centar Župa",
+        "regions": [
+          "Centar Župa"
+        ]
+      },
+      "CUC": {
+        "name": "Čučer-Sandevo",
+        "regions": [
+          "Čučer-Sandevo"
+        ]
+      },
+      "DEB": {
+        "name": "Debar",
+        "regions": [
+          "Debar"
+        ]
+      },
+      "DEB1": {
+        "name": "Debarca",
+        "regions": [
+          "Debarca"
+        ]
+      },
+      "DEL": {
+        "name": "Delčevo",
+        "regions": [
+          "Delčevo"
+        ]
+      },
+      "DEMHI": {
+        "name": "Demir Hisar",
+        "regions": [
+          "Demir Hisar"
+        ]
+      },
+      "DEMKA": {
+        "name": "Demir Kapija",
+        "regions": [
+          "Demir Kapija"
+        ]
+      },
+      "DOJ": {
+        "name": "Dojran",
+        "regions": [
+          "Dojran"
+        ]
+      },
+      "DOL": {
+        "name": "Dolneni",
+        "regions": [
+          "Dolneni"
+        ]
+      },
+      "DRU": {
+        "name": "Drugovo",
+        "regions": [
+          "Drugovo"
+        ]
+      },
+      "GAZBA": {
+        "name": "Gazi Baba",
+        "regions": [
+          "Gazi Baba"
+        ]
+      },
+      "GEV": {
+        "name": "Gevgelija",
+        "regions": [
+          "Gevgelija"
+        ]
+      },
+      "GJOPE": {
+        "name": "Gjorče Petrov",
+        "regions": [
+          "Gjorče Petrov"
+        ]
+      },
+      "GOS": {
+        "name": "Gostivar",
+        "regions": [
+          "Gostivar"
+        ]
+      },
+      "GRA": {
+        "name": "Gradsko",
+        "regions": [
+          "Gradsko"
+        ]
+      },
+      "ILI": {
+        "name": "Ilinden",
+        "regions": [
+          "Ilinden"
+        ]
+      },
+      "JEG": {
+        "name": "Jegunovce",
+        "regions": [
+          "Jegunovce"
+        ]
+      },
+      "KAR": {
+        "name": "Karbinci",
+        "regions": [
+          "Karbinci"
+        ]
+      },
+      "KAV": {
+        "name": "Kavadarci",
+        "regions": [
+          "Kavadarci"
+        ]
+      },
+      "KIC": {
+        "name": "Kičevo",
+        "regions": [
+          "Kičevo"
+        ]
+      },
+      "KISVO": {
+        "name": "Kisela Voda",
+        "regions": [
+          "Kisela Voda"
+        ]
+      },
+      "KOC": {
+        "name": "Kočani",
+        "regions": [
+          "Kočani"
+        ]
+      },
+      "KON": {
+        "name": "Konče",
+        "regions": [
+          "Konče"
+        ]
+      },
+      "KRA": {
+        "name": "Kratovo",
+        "regions": [
+          "Kratovo"
+        ]
+      },
+      "KRIPA": {
+        "name": "Kriva Palanka",
+        "regions": [
+          "Kriva Palanka"
+        ]
+      },
+      "KRU": {
+        "name": "Kruševo",
+        "regions": [
+          "Kruševo"
+        ]
+      },
+      "KUM": {
+        "name": "Kumanovo",
+        "regions": [
+          "Kumanovo"
+        ]
+      },
+      "LIP": {
+        "name": "Lipkovo",
+        "regions": [
+          "Lipkovo"
+        ]
+      },
+      "MAKKA": {
+        "name": "Makedonska Kamenica",
+        "regions": [
+          "Makedonska Kamenica"
+        ]
+      },
+      "MAKBR": {
+        "name": "Makedonski Brod",
+        "regions": [
+          "Makedonski Brod"
+        ]
+      },
+      "MAVAN": {
+        "name": "Mavrovo and Rostuša",
+        "regions": [
+          "Mavrovo and Rostuša"
+        ]
+      },
+      "MOG": {
+        "name": "Mogila",
+        "regions": [
+          "Mogila"
+        ]
+      },
+      "NEG": {
+        "name": "Negotino",
+        "regions": [
+          "Negotino"
+        ]
+      },
+      "NOV": {
+        "name": "Novaci",
+        "regions": [
+          "Novaci"
+        ]
+      },
+      "NOVSE": {
+        "name": "Novo Selo",
+        "regions": [
+          "Novo Selo"
+        ]
+      },
+      "OHR": {
+        "name": "Ohrid",
+        "regions": [
+          "Ohrid"
+        ]
+      },
+      "PEH": {
+        "name": "Pehčevo",
+        "regions": [
+          "Pehčevo"
+        ]
+      },
+      "PET": {
+        "name": "Petrovec",
+        "regions": [
+          "Petrovec"
+        ]
+      },
+      "PLA": {
+        "name": "Plasnica",
+        "regions": [
+          "Plasnica"
+        ]
+      },
+      "PRI": {
+        "name": "Prilep",
+        "regions": [
+          "Prilep"
+        ]
+      },
+      "PRO": {
+        "name": "Probištip",
+        "regions": [
+          "Probištip"
+        ]
+      },
+      "RAD": {
+        "name": "Radoviš",
+        "regions": [
+          "Radoviš"
+        ]
+      },
+      "RAN": {
+        "name": "Rankovce",
+        "regions": [
+          "Rankovce"
+        ]
+      },
+      "RES": {
+        "name": "Resen",
+        "regions": [
+          "Resen"
+        ]
+      },
+      "ROS": {
+        "name": "Rosoman",
+        "regions": [
+          "Rosoman"
+        ]
+      },
+      "SAR": {
+        "name": "Saraj",
+        "regions": [
+          "Saraj"
+        ]
+      },
+      "SOP": {
+        "name": "Sopište",
+        "regions": [
+          "Sopište"
+        ]
+      },
+      "STANA": {
+        "name": "Staro Nagoričane",
+        "regions": [
+          "Staro Nagoričane"
+        ]
+      },
+      "STR": {
+        "name": "Struga",
+        "regions": [
+          "Struga"
+        ]
+      },
+      "STR1": {
+        "name": "Strumica",
+        "regions": [
+          "Strumica"
+        ]
+      },
+      "STU": {
+        "name": "Studeničani",
+        "regions": [
+          "Studeničani"
+        ]
+      },
+      "STI": {
+        "name": "Štip",
+        "regions": [
+          "Štip"
+        ]
+      },
+      "TET": {
+        "name": "Tetovo",
+        "regions": [
+          "Tetovo"
+        ]
+      },
+      "VAL": {
+        "name": "Valandovo",
+        "regions": [
+          "Valandovo"
+        ]
+      },
+      "VAS": {
+        "name": "Vasilevo",
+        "regions": [
+          "Vasilevo"
+        ]
+      },
+      "VEL": {
+        "name": "Veles",
+        "regions": [
+          "Veles"
+        ]
+      },
+      "VRA": {
+        "name": "Vrapčište",
+        "regions": [
+          "Vrapčište"
+        ]
+      }
+    }
+  },
+  "CH": {
+    "divisions": {
+      "ZUR": {
+        "name": "Zurich",
+        "regions": [
+          "Zurich"
+        ]
+      },
+      "GEN": {
+        "name": "Geneva",
+        "regions": [
+          "Geneva"
+        ]
+      },
+      "BAS": {
+        "name": "Basel-Stadt",
+        "regions": [
+          "Basel-Stadt"
+        ]
+      },
+      "BER": {
+        "name": "Bern",
+        "regions": [
+          "Bern"
+        ]
+      },
+      "VAU": {
+        "name": "Vaud",
+        "regions": [
+          "Vaud"
+        ]
+      },
+      "TIC": {
+        "name": "Ticino",
+        "regions": [
+          "Ticino"
+        ]
+      },
+      "AAR": {
+        "name": "Aargau",
+        "regions": [
+          "Aargau"
+        ]
+      },
+      "LUZ": {
+        "name": "Luzern",
+        "regions": [
+          "Luzern"
+        ]
+      },
+      "SOL": {
+        "name": "Solothurn",
+        "regions": [
+          "Solothurn"
+        ]
+      },
+      "VAL": {
+        "name": "Valais",
+        "regions": [
+          "Valais"
+        ]
+      },
+      "GLA": {
+        "name": "Glarus",
+        "regions": [
+          "Glarus"
+        ]
+      },
+      "THU": {
+        "name": "Thurgau",
+        "regions": [
+          "Thurgau"
+        ]
+      },
+      "SCH": {
+        "name": "Schaffhausen",
+        "regions": [
+          "Schaffhausen"
+        ]
+      },
+      "FRI": {
+        "name": "Fribourg",
+        "regions": [
+          "Fribourg"
+        ]
+      },
+      "ST.GA": {
+        "name": "St. Gallen",
+        "regions": [
+          "St. Gallen"
+        ]
+      },
+      "APPAU": {
+        "name": "Appenzell Ausserrhoden",
+        "regions": [
+          "Appenzell Ausserrhoden"
+        ]
+      },
+      "APPIN": {
+        "name": "Appenzell Innerrhoden",
+        "regions": [
+          "Appenzell Innerrhoden"
+        ]
+      },
+      "GRA": {
+        "name": "Graubünden",
+        "regions": [
+          "Graubünden"
+        ]
+      },
+      "NEU": {
+        "name": "Neuchâtel",
+        "regions": [
+          "Neuchâtel"
+        ]
+      },
+      "SANGA": {
+        "name": "Sankt Gallen",
+        "regions": [
+          "Sankt Gallen"
+        ]
+      },
+      "SCH1": {
+        "name": "Schwyz",
+        "regions": [
+          "Schwyz"
+        ]
+      }
+    }
+  },
+  "LI": {
+    "divisions": {
+      "VAD": {
+        "name": "Vaduz",
+        "regions": [
+          "Vaduz"
+        ]
+      },
+      "SCH": {
+        "name": "Schaan",
+        "regions": [
+          "Schaan"
+        ]
+      },
+      "TRI": {
+        "name": "Triesen",
+        "regions": [
+          "Triesen"
+        ]
+      },
+      "BAL": {
+        "name": "Balzers",
+        "regions": [
+          "Balzers"
+        ]
+      },
+      "ESC": {
+        "name": "Eschen",
+        "regions": [
+          "Eschen"
+        ]
+      },
+      "MAU": {
+        "name": "Mauren",
+        "regions": [
+          "Mauren"
+        ]
+      },
+      "TRI1": {
+        "name": "Triesenberg",
+        "regions": [
+          "Triesenberg"
+        ]
+      },
+      "RUG": {
+        "name": "Ruggell",
+        "regions": [
+          "Ruggell"
+        ]
+      },
+      "GAM": {
+        "name": "Gamprin",
+        "regions": [
+          "Gamprin"
+        ]
+      },
+      "SCH1": {
+        "name": "Schellenberg",
+        "regions": [
+          "Schellenberg"
+        ]
+      },
+      "PLA": {
+        "name": "Planken",
+        "regions": [
+          "Planken"
+        ]
+      }
+    }
+  },
+  "MC": {
+    "divisions": {
+      "MON": {
+        "name": "Monaco-Ville",
+        "regions": [
+          "Monaco-Ville"
+        ]
+      },
+      "LACON": {
+        "name": "La Condamine",
+        "regions": [
+          "La Condamine"
+        ]
+      },
+      "MONCA": {
+        "name": "Monte Carlo",
+        "regions": [
+          "Monte Carlo"
+        ]
+      },
+      "FON": {
+        "name": "Fontvieille",
+        "regions": [
+          "Fontvieille"
+        ]
+      }
+    }
+  },
+  "SM": {
+    "divisions": {
+      "SANMA": {
+        "name": "San Marino",
+        "regions": [
+          "San Marino"
+        ]
+      },
+      "BORMA": {
+        "name": "Borgo Maggiore",
+        "regions": [
+          "Borgo Maggiore"
+        ]
+      },
+      "DOM": {
+        "name": "Domagnano",
+        "regions": [
+          "Domagnano"
+        ]
+      },
+      "FAE": {
+        "name": "Faetano",
+        "regions": [
+          "Faetano"
+        ]
+      },
+      "FIO": {
+        "name": "Fiorentino",
+        "regions": [
+          "Fiorentino"
+        ]
+      },
+      "MON": {
+        "name": "Montegiardino",
+        "regions": [
+          "Montegiardino"
+        ]
+      },
+      "SER": {
+        "name": "Serravalle",
+        "regions": [
+          "Serravalle"
+        ]
+      }
+    }
+  },
+  "VA": {
+    "divisions": {
+      "VATCI": {
+        "name": "Vatican City",
+        "regions": [
+          "Vatican City"
+        ]
+      }
+    }
+  },
+  "IE": {
+    "divisions": {
+      "LEI": {
+        "name": "Leinster",
+        "regions": [
+          "Leinster"
+        ]
+      },
+      "MUN": {
+        "name": "Munster",
+        "regions": [
+          "Munster"
+        ]
+      },
+      "CON": {
+        "name": "Connacht",
+        "regions": [
+          "Connacht"
+        ]
+      },
+      "ULS": {
+        "name": "Ulster",
+        "regions": [
+          "Ulster"
+        ]
+      }
+    }
+  },
+  "MT": {
+    "divisions": {
+      "MAL": {
+        "name": "Malta",
+        "regions": [
+          "Malta"
+        ]
+      },
+      "GOZ": {
+        "name": "Gozo",
+        "regions": [
+          "Gozo"
+        ]
+      }
+    }
+  },
+  "CY": {
+    "divisions": {
+      "FAM": {
+        "name": "Famagusta",
+        "regions": [
+          "Famagusta"
+        ]
+      },
+      "KYR": {
+        "name": "Kyrenia",
+        "regions": [
+          "Kyrenia"
+        ]
+      },
+      "LAR": {
+        "name": "Larnaca",
+        "regions": [
+          "Larnaca"
+        ]
+      },
+      "LIM": {
+        "name": "Limassol",
+        "regions": [
+          "Limassol"
+        ]
+      },
+      "NIC": {
+        "name": "Nicosia",
+        "regions": [
+          "Nicosia"
+        ]
+      },
+      "PAP": {
+        "name": "Paphos",
+        "regions": [
+          "Paphos"
+        ]
+      }
+    }
   }
 }
