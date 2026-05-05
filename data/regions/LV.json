@@ -610,5 +610,12 @@
     "regions": [
       "Zilupe"
     ]
-  }
+  },
+  "capital": "Riga",
+  "currency_code": "EUR",
+  "iso3": "LVA",
+  "language_code": [
+    "lva"
+  ],
+  "continent_code": "EU"
 }

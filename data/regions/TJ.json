@@ -22,5 +22,12 @@
     "regions": [
       "Sughd"
     ]
-  }
+  },
+  "capital": "Dushanbe",
+  "currency_code": "TJS",
+  "iso3": "TJK",
+  "language_code": [
+    "tjk"
+  ],
+  "continent_code": "AS"
 }

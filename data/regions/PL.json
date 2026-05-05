@@ -82,5 +82,12 @@
     "regions": [
       "West Pomeranian"
     ]
-  }
+  },
+  "capital": "Warsaw",
+  "currency_code": "PLN",
+  "iso3": "POL",
+  "language_code": [
+    "pl"
+  ],
+  "continent_code": "EU"
 }

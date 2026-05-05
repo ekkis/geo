@@ -34,5 +34,12 @@
     "regions": [
       "Paphos"
     ]
-  }
+  },
+  "capital": "Nicosia",
+  "currency_code": "EUR",
+  "iso3": "CYP",
+  "language_code": [
+    "cyp"
+  ],
+  "continent_code": "EU"
 }

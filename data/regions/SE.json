@@ -100,5 +100,12 @@
     "regions": [
       "Västra Götaland"
     ]
-  }
+  },
+  "capital": "Stockholm",
+  "currency_code": "SEK",
+  "iso3": "SWE",
+  "language_code": [
+    "sv"
+  ],
+  "continent_code": "EU"
 }

@@ -274,5 +274,12 @@
     "regions": [
       "Castile and León"
     ]
-  }
+  },
+  "capital": "Madrid",
+  "currency_code": "EUR",
+  "iso3": "ESP",
+  "language_code": [
+    "esp"
+  ],
+  "continent_code": "EU"
 }

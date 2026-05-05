@@ -58,5 +58,12 @@
   },
   "WA": {
     "name": "Western Australia"
-  }
+  },
+  "capital": "Canberra",
+  "currency_code": "AUD",
+  "iso3": "AUS",
+  "language_code": [
+    "aus"
+  ],
+  "continent_code": "OC"
 }

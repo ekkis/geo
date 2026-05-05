@@ -88,5 +88,12 @@
     "regions": [
       "Võru"
     ]
-  }
+  },
+  "capital": "Tallinn",
+  "currency_code": "EUR",
+  "iso3": "EST",
+  "language_code": [
+    "et"
+  ],
+  "continent_code": "EU"
 }

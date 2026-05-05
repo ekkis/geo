@@ -88,5 +88,12 @@
   },
   "TOL": {
     "name": "Tolima"
-  }
+  },
+  "capital": "Bogota",
+  "currency_code": "COP",
+  "iso3": "COL",
+  "language_code": [
+    "col"
+  ],
+  "continent_code": "SA"
 }

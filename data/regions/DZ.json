@@ -52,5 +52,12 @@
   },
   "TH": {
     "name": "Tamanrasset"
-  }
+  },
+  "capital": "Algiers",
+  "currency_code": "DZD",
+  "iso3": "DZA",
+  "language_code": [
+    "dza"
+  ],
+  "continent_code": "AF"
 }

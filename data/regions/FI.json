@@ -94,5 +94,12 @@
     "regions": [
       "Uusimaa"
     ]
-  }
+  },
+  "capital": "Helsinki",
+  "currency_code": "EUR",
+  "iso3": "FIN",
+  "language_code": [
+    "fi"
+  ],
+  "continent_code": "EU"
 }

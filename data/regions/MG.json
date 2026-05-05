@@ -13,5 +13,12 @@
   },
   "TM": {
     "name": "Tamatave"
-  }
+  },
+  "capital": "Antananarivo",
+  "currency_code": "MGA",
+  "iso3": "MDG",
+  "language_code": [
+    "mdg"
+  ],
+  "continent_code": "AF"
 }

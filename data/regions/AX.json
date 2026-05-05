@@ -4,5 +4,12 @@
     "regions": [
       "Åland Islands"
     ]
-  }
+  },
+  "capital": "Mariehamn",
+  "currency_code": "EUR",
+  "iso3": "ALA",
+  "language_code": [
+    "ala"
+  ],
+  "continent_code": "EU"
 }

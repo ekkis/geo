@@ -40,5 +40,12 @@
     "regions": [
       "Serravalle"
     ]
-  }
+  },
+  "capital": "San Marino",
+  "currency_code": "EUR",
+  "iso3": "SMR",
+  "language_code": [
+    "smr"
+  ],
+  "continent_code": "EU"
 }

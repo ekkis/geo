@@ -124,5 +124,12 @@
     "regions": [
       "Zagreb"
     ]
-  }
+  },
+  "capital": "Zagreb",
+  "currency_code": "HRK",
+  "iso3": "HRV",
+  "language_code": [
+    "hr"
+  ],
+  "continent_code": "EU"
 }

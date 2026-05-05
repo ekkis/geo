@@ -37,5 +37,12 @@
   },
   "SI": {
     "name": "Sinoe"
-  }
+  },
+  "capital": "Monrovia",
+  "currency_code": "LRD",
+  "iso3": "LBR",
+  "language_code": [
+    "lbr"
+  ],
+  "continent_code": "AF"
 }

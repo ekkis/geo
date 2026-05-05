@@ -49,5 +49,12 @@
   },
   "SJ": {
     "name": "San José"
-  }
+  },
+  "capital": "Managua",
+  "currency_code": "NIO",
+  "iso3": "NIC",
+  "language_code": [
+    "nic"
+  ],
+  "continent_code": "NA"
 }

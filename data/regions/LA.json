@@ -106,5 +106,12 @@
     "regions": [
       "Xieng Khouang"
     ]
-  }
+  },
+  "capital": "Vientiane",
+  "currency_code": "LAK",
+  "iso3": "LAO",
+  "language_code": [
+    "lo"
+  ],
+  "continent_code": "AS"
 }

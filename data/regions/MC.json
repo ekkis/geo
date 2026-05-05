@@ -22,5 +22,12 @@
     "regions": [
       "Monte Carlo"
     ]
-  }
+  },
+  "capital": "Monaco",
+  "currency_code": "EUR",
+  "iso3": "MCO",
+  "language_code": [
+    "mco"
+  ],
+  "continent_code": "EU"
 }

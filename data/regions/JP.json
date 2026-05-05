@@ -271,5 +271,12 @@
   },
   "鹿児島": {
     "name": "鹿児島県"
-  }
+  },
+  "capital": "Tokyo",
+  "currency_code": "JPY",
+  "iso3": "JPN",
+  "language_code": [
+    "ja"
+  ],
+  "continent_code": "AS"
 }

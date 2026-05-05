@@ -238,5 +238,13 @@
     "regions": [
       "Urals"
     ]
-  }
+  },
+  "capital": "Moscow",
+  "currency_code": "RUB",
+  "iso3": "RUS",
+  "language_code": [
+    "ru",
+    "su"
+  ],
+  "continent_code": "EU"
 }

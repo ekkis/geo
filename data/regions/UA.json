@@ -160,5 +160,12 @@
     "regions": [
       "Zhytomyr Oblast"
     ]
-  }
+  },
+  "capital": "Kiev",
+  "currency_code": "UAH",
+  "iso3": "UKR",
+  "language_code": [
+    "uk"
+  ],
+  "continent_code": "EU"
 }

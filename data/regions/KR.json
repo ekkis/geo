@@ -94,5 +94,12 @@
     "regions": [
       "Ulsan"
     ]
-  }
+  },
+  "capital": "Seoul",
+  "currency_code": "KRW",
+  "iso3": "KOR",
+  "language_code": [
+    "ko"
+  ],
+  "continent_code": "AS"
 }

@@ -43,5 +43,12 @@
   },
   "WAR": {
     "name": "Wardak"
-  }
+  },
+  "capital": "Kabul",
+  "currency_code": "AFN",
+  "iso3": "AFG",
+  "language_code": [
+    "afg"
+  ],
+  "continent_code": "AS"
 }

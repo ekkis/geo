@@ -4,5 +4,12 @@
     "regions": [
       "Singapore"
     ]
-  }
+  },
+  "capital": "Singapur",
+  "currency_code": "SGD",
+  "iso3": "SGP",
+  "language_code": [
+    "sgp"
+  ],
+  "continent_code": "AS"
 }

@@ -451,5 +451,13 @@
     "regions": [
       "England"
     ]
-  }
+  },
+  "capital": "London",
+  "currency_code": "GBP",
+  "iso3": "GBR",
+  "language_code": [
+    "gbr",
+    "uk"
+  ],
+  "continent_code": "EU"
 }

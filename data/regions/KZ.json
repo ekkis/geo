@@ -94,5 +94,12 @@
     "regions": [
       "West Kazakhstan"
     ]
-  }
+  },
+  "capital": "Astana",
+  "currency_code": "KZT",
+  "iso3": "KAZ",
+  "language_code": [
+    "kk"
+  ],
+  "continent_code": "AS"
 }

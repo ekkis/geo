@@ -28,5 +28,12 @@
   },
   "WD": {
     "name": "Wadi al Hayaa"
-  }
+  },
+  "capital": "Tripolis",
+  "currency_code": "LYD",
+  "iso3": "LBY",
+  "language_code": [
+    "lby"
+  ],
+  "continent_code": "AF"
 }

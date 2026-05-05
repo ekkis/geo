@@ -298,5 +298,12 @@
     "regions": [
       "CL"
     ]
-  }
+  },
+  "capital": "Santiago",
+  "currency_code": "CLP",
+  "iso3": "CHL",
+  "language_code": [
+    "chl"
+  ],
+  "continent_code": "SA"
 }

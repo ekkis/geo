@@ -70,5 +70,12 @@
     "regions": [
       "Wiltz"
     ]
-  }
+  },
+  "capital": "Luxembourg",
+  "currency_code": "EUR",
+  "iso3": "LUX",
+  "language_code": [
+    "lux"
+  ],
+  "continent_code": "EU"
 }

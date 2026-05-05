@@ -124,5 +124,12 @@
     "regions": [
       "Zurich"
     ]
-  }
+  },
+  "capital": "Berne",
+  "currency_code": "CHF",
+  "iso3": "CHE",
+  "language_code": [
+    "ce"
+  ],
+  "continent_code": "EU"
 }

@@ -52,5 +52,12 @@
     "regions": [
       "Ostösterreich"
     ]
-  }
+  },
+  "capital": "Vienna",
+  "currency_code": "EUR",
+  "iso3": "AUT",
+  "language_code": [
+    "aut"
+  ],
+  "continent_code": "EU"
 }

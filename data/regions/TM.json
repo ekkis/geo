@@ -34,5 +34,12 @@
     "regions": [
       "Mary"
     ]
-  }
+  },
+  "capital": "Ashgabat",
+  "currency_code": "TMT",
+  "iso3": "TKM",
+  "language_code": [
+    "tkm"
+  ],
+  "continent_code": "AS"
 }

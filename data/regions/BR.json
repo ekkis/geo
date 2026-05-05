@@ -124,5 +124,12 @@
     "regions": [
       "North"
     ]
-  }
+  },
+  "capital": "Brasilia",
+  "currency_code": "BRL",
+  "iso3": "BRA",
+  "language_code": [
+    "bra"
+  ],
+  "continent_code": "SA"
 }

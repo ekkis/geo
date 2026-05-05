@@ -88,5 +88,14 @@
     "regions": [
       "Yangon"
     ]
-  }
+  },
+  "capital": "Nay Pyi Taw",
+  "currency_code": "MMK",
+  "iso3": "MMR",
+  "language_code": [
+    "bu",
+    "bur",
+    "mmr"
+  ],
+  "continent_code": "AS"
 }

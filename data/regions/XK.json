@@ -40,5 +40,12 @@
     "regions": [
       "Prizren"
     ]
-  }
+  },
+  "capital": "Pristina",
+  "currency_code": "EUR",
+  "iso3": "XKX",
+  "language_code": [
+    "xkk"
+  ],
+  "continent_code": "EU"
 }

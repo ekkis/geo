@@ -19,5 +19,12 @@
   },
   "TB": {
     "name": "Tombouctou"
-  }
+  },
+  "capital": "Bamako",
+  "currency_code": "XOF",
+  "iso3": "MLI",
+  "language_code": [
+    "mli"
+  ],
+  "continent_code": "AF"
 }

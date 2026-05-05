@@ -88,5 +88,14 @@
     "regions": [
       "Ostdeutschland"
     ]
-  }
+  },
+  "capital": "Berlin",
+  "currency_code": "EUR",
+  "iso3": "DEU",
+  "language_code": [
+    "dd",
+    "ddr",
+    "de"
+  ],
+  "continent_code": "EU"
 }

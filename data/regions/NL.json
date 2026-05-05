@@ -82,5 +82,12 @@
     "regions": [
       "Zuid-Holland"
     ]
-  }
+  },
+  "capital": "Amsterdam",
+  "currency_code": "EUR",
+  "iso3": "NLD",
+  "language_code": [
+    "nl"
+  ],
+  "continent_code": "EU"
 }

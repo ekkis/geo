@@ -22,5 +22,12 @@
     "regions": [
       "Ulster"
     ]
-  }
+  },
+  "capital": "Dublin",
+  "currency_code": "EUR",
+  "iso3": "IRL",
+  "language_code": [
+    "irl"
+  ],
+  "continent_code": "EU"
 }

@@ -43,5 +43,12 @@
   },
   "TA": {
     "name": "Tandjilé"
-  }
+  },
+  "capital": "N'Djamena",
+  "currency_code": "XAF",
+  "iso3": "TCD",
+  "language_code": [
+    "tcd"
+  ],
+  "continent_code": "AF"
 }

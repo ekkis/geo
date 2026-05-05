@@ -64,5 +64,12 @@
     "regions": [
       "Ulcinj"
     ]
-  }
+  },
+  "capital": "Podgorica",
+  "currency_code": "EUR",
+  "iso3": "MNE",
+  "language_code": [
+    "mne"
+  ],
+  "continent_code": "EU"
 }

@@ -64,5 +64,12 @@
     "regions": [
       "Vaduz"
     ]
-  }
+  },
+  "capital": "Vaduz",
+  "currency_code": "CHF",
+  "iso3": "LIE",
+  "language_code": [
+    "lie"
+  ],
+  "continent_code": "EU"
 }

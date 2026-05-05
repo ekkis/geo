@@ -52,5 +52,10 @@
     "regions": [
       "Zenica-Doboj"
     ]
-  }
+  },
+  "capital": "Sarajevo",
+  "currency_code": "BAM",
+  "iso3": "BIH",
+  "language_code": [],
+  "continent_code": "EU"
 }
