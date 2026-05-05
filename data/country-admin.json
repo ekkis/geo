@@ -284,6 +284,24 @@
       },
       "WA": {
         "name": "Western Australia"
+      },
+      "NF": {
+        "name": "Norfolk Island",
+        "regions": [
+          "Norfolk Island"
+        ]
+      },
+      "CX": {
+        "name": "Christmas Island",
+        "regions": [
+          "Christmas Island"
+        ]
+      },
+      "JBT": {
+        "name": "Jervis Bay Territory",
+        "regions": [
+          "Jervis Bay Territory"
+        ]
       }
     },
     "regions": [
@@ -2421,7 +2439,8 @@
     },
     "regions": [
       "Scandinavia",
-      "Nordic Countries"
+      "Nordic Countries",
+      "Western Europe"
     ]
   },
   "ES": {
@@ -10990,6 +11009,7366 @@
           "North Caucasian"
         ]
       }
-    }
+    },
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "SE": {
+    "divisions": {
+      "STO": {
+        "name": "Stockholm",
+        "regions": [
+          "Stockholm"
+        ]
+      },
+      "VASGO": {
+        "name": "Västra Götaland",
+        "regions": [
+          "Västra Götaland"
+        ]
+      },
+      "SKA": {
+        "name": "Skåne",
+        "regions": [
+          "Skåne"
+        ]
+      },
+      "VAS": {
+        "name": "Västernorrland",
+        "regions": [
+          "Västernorrland"
+        ]
+      },
+      "OST": {
+        "name": "Östergötland",
+        "regions": [
+          "Östergötland"
+        ]
+      },
+      "UPP": {
+        "name": "Uppsala",
+        "regions": [
+          "Uppsala"
+        ]
+      },
+      "SOD": {
+        "name": "Södermanland",
+        "regions": [
+          "Södermanland"
+        ]
+      },
+      "ORE": {
+        "name": "Örebro",
+        "regions": [
+          "Örebro"
+        ]
+      },
+      "GAV": {
+        "name": "Gävleborg",
+        "regions": [
+          "Gävleborg"
+        ]
+      },
+      "HAL": {
+        "name": "Halland",
+        "regions": [
+          "Halland"
+        ]
+      },
+      "JON": {
+        "name": "Jönköping",
+        "regions": [
+          "Jönköping"
+        ]
+      },
+      "KRO": {
+        "name": "Kronoberg",
+        "regions": [
+          "Kronoberg"
+        ]
+      },
+      "NOR": {
+        "name": "Norrbotten",
+        "regions": [
+          "Norrbotten"
+        ]
+      },
+      "KAL": {
+        "name": "Kalmar",
+        "regions": [
+          "Kalmar"
+        ]
+      },
+      "VAR": {
+        "name": "Värmland",
+        "regions": [
+          "Värmland"
+        ]
+      },
+      "DAL": {
+        "name": "Dalarna",
+        "regions": [
+          "Dalarna"
+        ]
+      },
+      "GOT": {
+        "name": "Gotland",
+        "regions": [
+          "Gotland"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe",
+      "Scandinavia",
+      "Nordic Countries"
+    ]
+  },
+  "FR": {
+    "divisions": {
+      "AUV": {
+        "name": "Auvergne-Rhône-Alpes",
+        "regions": [
+          "Auvergne-Rhône-Alpes"
+        ]
+      },
+      "BOU": {
+        "name": "Bourgogne-Franche-Comté",
+        "regions": [
+          "Bourgogne-Franche-Comté"
+        ]
+      },
+      "BRI": {
+        "name": "Brittany",
+        "regions": [
+          "Brittany"
+        ]
+      },
+      "CENDE": {
+        "name": "Centre-Val de Loire",
+        "regions": [
+          "Centre-Val de Loire"
+        ]
+      },
+      "COR": {
+        "name": "Corsica",
+        "regions": [
+          "Corsica"
+        ]
+      },
+      "GRAES": {
+        "name": "Grand Est",
+        "regions": [
+          "Grand Est"
+        ]
+      },
+      "HAU": {
+        "name": "Hauts-de-France",
+        "regions": [
+          "Hauts-de-France"
+        ]
+      },
+      "ILE": {
+        "name": "Île-de-France",
+        "regions": [
+          "Île-de-France"
+        ]
+      },
+      "NOR": {
+        "name": "Normandy",
+        "regions": [
+          "Normandy"
+        ]
+      },
+      "NOU": {
+        "name": "Nouvelle-Aquitaine",
+        "regions": [
+          "Nouvelle-Aquitaine"
+        ]
+      },
+      "OCC": {
+        "name": "Occitanie",
+        "regions": [
+          "Occitanie"
+        ]
+      },
+      "PAYDE": {
+        "name": "Pays de la Loire",
+        "regions": [
+          "Pays de la Loire"
+        ]
+      },
+      "PROD'": {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "regions": [
+          "Provence-Alpes-Côte d'Azur"
+        ]
+      },
+      "GUA": {
+        "name": "Guadeloupe",
+        "regions": [
+          "Guadeloupe"
+        ]
+      },
+      "MAR": {
+        "name": "Martinique",
+        "regions": [
+          "Martinique"
+        ]
+      },
+      "FREGU": {
+        "name": "French Guiana",
+        "regions": [
+          "French Guiana"
+        ]
+      },
+      "REU": {
+        "name": "Réunion",
+        "regions": [
+          "Réunion"
+        ]
+      },
+      "MAY": {
+        "name": "Mayotte",
+        "regions": [
+          "Mayotte"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "NO": {
+    "divisions": {
+      "STF": {
+        "name": "Østfold",
+        "regions": [
+          "Østfold"
+        ]
+      },
+      "AKE": {
+        "name": "Akershus",
+        "regions": [
+          "Akershus"
+        ]
+      },
+      "OSL": {
+        "name": "Oslo",
+        "regions": [
+          "Oslo"
+        ]
+      },
+      "HED": {
+        "name": "Hedmark",
+        "regions": [
+          "Hedmark"
+        ]
+      },
+      "OPP": {
+        "name": "Oppland",
+        "regions": [
+          "Oppland"
+        ]
+      },
+      "BUS": {
+        "name": "Buskerud",
+        "regions": [
+          "Buskerud"
+        ]
+      },
+      "VES": {
+        "name": "Vestfold",
+        "regions": [
+          "Vestfold"
+        ]
+      },
+      "TEL": {
+        "name": "Telemark",
+        "regions": [
+          "Telemark"
+        ]
+      },
+      "AUS": {
+        "name": "Aust-Agder",
+        "regions": [
+          "Aust-Agder"
+        ]
+      },
+      "VES1": {
+        "name": "Vest-Agder",
+        "regions": [
+          "Vest-Agder"
+        ]
+      },
+      "ROG": {
+        "name": "Rogaland",
+        "regions": [
+          "Rogaland"
+        ]
+      },
+      "HOR": {
+        "name": "Hordaland",
+        "regions": [
+          "Hordaland"
+        ]
+      },
+      "SOGOG": {
+        "name": "Sogn og Fjordane",
+        "regions": [
+          "Sogn og Fjordane"
+        ]
+      },
+      "MREOG": {
+        "name": "Møre og Romsdal",
+        "regions": [
+          "Møre og Romsdal"
+        ]
+      },
+      "SR-": {
+        "name": "Sør-Trøndelag",
+        "regions": [
+          "Sør-Trøndelag"
+        ]
+      },
+      "NOR": {
+        "name": "Nord-Trøndelag",
+        "regions": [
+          "Nord-Trøndelag"
+        ]
+      },
+      "NOR1": {
+        "name": "Nordland",
+        "regions": [
+          "Nordland"
+        ]
+      },
+      "TRO": {
+        "name": "Troms",
+        "regions": [
+          "Troms"
+        ]
+      },
+      "FIN": {
+        "name": "Finnmark",
+        "regions": [
+          "Finnmark"
+        ]
+      },
+      "SVA": {
+        "name": "Svalbard",
+        "regions": [
+          "Svalbard"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe",
+      "Scandinavia",
+      "Nordic Countries"
+    ]
+  },
+  "FI": {
+    "divisions": {
+      "ALA": {
+        "name": "Åland",
+        "regions": [
+          "Åland"
+        ]
+      },
+      "LAP": {
+        "name": "Lapland",
+        "regions": [
+          "Lapland"
+        ]
+      },
+      "NORKA": {
+        "name": "North Karelia",
+        "regions": [
+          "North Karelia"
+        ]
+      },
+      "NOROS": {
+        "name": "Northern Ostrobothnia",
+        "regions": [
+          "Northern Ostrobothnia"
+        ]
+      },
+      "CENOS": {
+        "name": "Central Ostrobothnia",
+        "regions": [
+          "Central Ostrobothnia"
+        ]
+      },
+      "CENFI": {
+        "name": "Central Finland",
+        "regions": [
+          "Central Finland"
+        ]
+      },
+      "SOUKA": {
+        "name": "South Karelia",
+        "regions": [
+          "South Karelia"
+        ]
+      },
+      "PAI": {
+        "name": "Päijät-Häme",
+        "regions": [
+          "Päijät-Häme"
+        ]
+      },
+      "KYM": {
+        "name": "Kymenlaakso",
+        "regions": [
+          "Kymenlaakso"
+        ]
+      },
+      "SOUSA": {
+        "name": "South Savo",
+        "regions": [
+          "South Savo"
+        ]
+      },
+      "CENSA": {
+        "name": "Central Savo",
+        "regions": [
+          "Central Savo"
+        ]
+      },
+      "OST": {
+        "name": "Ostrobothnia",
+        "regions": [
+          "Ostrobothnia"
+        ]
+      },
+      "SAT": {
+        "name": "Satakunta",
+        "regions": [
+          "Satakunta"
+        ]
+      },
+      "PIR": {
+        "name": "Pirkanmaa",
+        "regions": [
+          "Pirkanmaa"
+        ]
+      },
+      "SOUFI": {
+        "name": "Southwest Finland",
+        "regions": [
+          "Southwest Finland"
+        ]
+      },
+      "UUS": {
+        "name": "Uusimaa",
+        "regions": [
+          "Uusimaa"
+        ]
+      }
+    },
+    "regions": [
+      "Nordic Countries"
+    ]
+  },
+  "EE": {
+    "divisions": {
+      "HAR": {
+        "name": "Harju",
+        "regions": [
+          "Harju"
+        ]
+      },
+      "HII": {
+        "name": "Hiiu",
+        "regions": [
+          "Hiiu"
+        ]
+      },
+      "IDA": {
+        "name": "Ida-Viru",
+        "regions": [
+          "Ida-Viru"
+        ]
+      },
+      "JOG": {
+        "name": "Jõgeva",
+        "regions": [
+          "Jõgeva"
+        ]
+      },
+      "JAR": {
+        "name": "Järva",
+        "regions": [
+          "Järva"
+        ]
+      },
+      "LAA": {
+        "name": "Lääne",
+        "regions": [
+          "Lääne"
+        ]
+      },
+      "LAA1": {
+        "name": "Lääne-Viru",
+        "regions": [
+          "Lääne-Viru"
+        ]
+      },
+      "POL": {
+        "name": "Põlva",
+        "regions": [
+          "Põlva"
+        ]
+      },
+      "PAR": {
+        "name": "Pärnu",
+        "regions": [
+          "Pärnu"
+        ]
+      },
+      "RAP": {
+        "name": "Rapla",
+        "regions": [
+          "Rapla"
+        ]
+      },
+      "SAA": {
+        "name": "Saare",
+        "regions": [
+          "Saare"
+        ]
+      },
+      "TAR": {
+        "name": "Tartu",
+        "regions": [
+          "Tartu"
+        ]
+      },
+      "VAL": {
+        "name": "Valga",
+        "regions": [
+          "Valga"
+        ]
+      },
+      "VIL": {
+        "name": "Viljandi",
+        "regions": [
+          "Viljandi"
+        ]
+      },
+      "VOR": {
+        "name": "Võru",
+        "regions": [
+          "Võru"
+        ]
+      }
+    },
+    "regions": [
+      "Baltic Countries"
+    ]
+  },
+  "LV": {
+    "divisions": {
+      "AGL": {
+        "name": "Aglona",
+        "regions": [
+          "Aglona"
+        ]
+      },
+      "AIZ": {
+        "name": "Aizkraukle",
+        "regions": [
+          "Aizkraukle"
+        ]
+      },
+      "AIZ1": {
+        "name": "Aizpute",
+        "regions": [
+          "Aizpute"
+        ]
+      },
+      "AUC": {
+        "name": "Auces",
+        "regions": [
+          "Auces"
+        ]
+      },
+      "BAL": {
+        "name": "Baldone",
+        "regions": [
+          "Baldone"
+        ]
+      },
+      "BAL1": {
+        "name": "Baltinava",
+        "regions": [
+          "Baltinava"
+        ]
+      },
+      "BAL2": {
+        "name": "Balvi",
+        "regions": [
+          "Balvi"
+        ]
+      },
+      "BAU": {
+        "name": "Bauska",
+        "regions": [
+          "Bauska"
+        ]
+      },
+      "BEV": {
+        "name": "Beverīna",
+        "regions": [
+          "Beverīna"
+        ]
+      },
+      "BRO": {
+        "name": "Brocēni",
+        "regions": [
+          "Brocēni"
+        ]
+      },
+      "BUR": {
+        "name": "Burtnieki",
+        "regions": [
+          "Burtnieki"
+        ]
+      },
+      "CAR": {
+        "name": "Carnikava",
+        "regions": [
+          "Carnikava"
+        ]
+      },
+      "CES": {
+        "name": "Cesvaine",
+        "regions": [
+          "Cesvaine"
+        ]
+      },
+      "CES1": {
+        "name": "Cēsis",
+        "regions": [
+          "Cēsis"
+        ]
+      },
+      "CIB": {
+        "name": "Cibla",
+        "regions": [
+          "Cibla"
+        ]
+      },
+      "DAG": {
+        "name": "Dagda",
+        "regions": [
+          "Dagda"
+        ]
+      },
+      "DAU": {
+        "name": "Daugavpils",
+        "regions": [
+          "Daugavpils"
+        ]
+      },
+      "DAUMU": {
+        "name": "Daugavpils Municipality",
+        "regions": [
+          "Daugavpils Municipality"
+        ]
+      },
+      "DOB": {
+        "name": "Dobele",
+        "regions": [
+          "Dobele"
+        ]
+      },
+      "DUN": {
+        "name": "Dundaga",
+        "regions": [
+          "Dundaga"
+        ]
+      },
+      "DUR": {
+        "name": "Durbe",
+        "regions": [
+          "Durbe"
+        ]
+      },
+      "ENG": {
+        "name": "Engure",
+        "regions": [
+          "Engure"
+        ]
+      },
+      "ERG": {
+        "name": "Ērgļi",
+        "regions": [
+          "Ērgļi"
+        ]
+      },
+      "GAR": {
+        "name": "Garkalne",
+        "regions": [
+          "Garkalne"
+        ]
+      },
+      "GRO": {
+        "name": "Grobiņa",
+        "regions": [
+          "Grobiņa"
+        ]
+      },
+      "GUL": {
+        "name": "Gulbene",
+        "regions": [
+          "Gulbene"
+        ]
+      },
+      "IEC": {
+        "name": "Iecava",
+        "regions": [
+          "Iecava"
+        ]
+      },
+      "IKS": {
+        "name": "Ikšķile",
+        "regions": [
+          "Ikšķile"
+        ]
+      },
+      "ILU": {
+        "name": "Ilūkste",
+        "regions": [
+          "Ilūkste"
+        ]
+      },
+      "INC": {
+        "name": "Inčukalns",
+        "regions": [
+          "Inčukalns"
+        ]
+      },
+      "JAU": {
+        "name": "Jaunjelgava",
+        "regions": [
+          "Jaunjelgava"
+        ]
+      },
+      "JAU1": {
+        "name": "Jaunpiebalga",
+        "regions": [
+          "Jaunpiebalga"
+        ]
+      },
+      "JAU2": {
+        "name": "Jaunpils",
+        "regions": [
+          "Jaunpils"
+        ]
+      },
+      "JEL": {
+        "name": "Jelgava",
+        "regions": [
+          "Jelgava"
+        ]
+      },
+      "JELMU": {
+        "name": "Jelgava Municipality",
+        "regions": [
+          "Jelgava Municipality"
+        ]
+      },
+      "JEKMU": {
+        "name": "Jēkabpils Municipality",
+        "regions": [
+          "Jēkabpils Municipality"
+        ]
+      },
+      "JELMU1": {
+        "name": "Jelgava Municipality",
+        "regions": [
+          "Jelgava Municipality"
+        ]
+      },
+      "JUR": {
+        "name": "Jūrmala",
+        "regions": [
+          "Jūrmala"
+        ]
+      },
+      "KAN": {
+        "name": "Kandava",
+        "regions": [
+          "Kandava"
+        ]
+      },
+      "KAR": {
+        "name": "Kārsava",
+        "regions": [
+          "Kārsava"
+        ]
+      },
+      "KOC": {
+        "name": "Kocēni",
+        "regions": [
+          "Kocēni"
+        ]
+      },
+      "KOK": {
+        "name": "Koknese",
+        "regions": [
+          "Koknese"
+        ]
+      },
+      "KRA": {
+        "name": "Krāslava",
+        "regions": [
+          "Krāslava"
+        ]
+      },
+      "KRI": {
+        "name": "Krimulda",
+        "regions": [
+          "Krimulda"
+        ]
+      },
+      "KRU": {
+        "name": "Krustpils",
+        "regions": [
+          "Krustpils"
+        ]
+      },
+      "KUL": {
+        "name": "Kuldīga",
+        "regions": [
+          "Kuldīga"
+        ]
+      },
+      "LIE": {
+        "name": "Lielvārde",
+        "regions": [
+          "Lielvārde"
+        ]
+      },
+      "LIM": {
+        "name": "Limbaži",
+        "regions": [
+          "Limbaži"
+        ]
+      },
+      "LIG": {
+        "name": "Līgatne",
+        "regions": [
+          "Līgatne"
+        ]
+      },
+      "LIV": {
+        "name": "Līvāni",
+        "regions": [
+          "Līvāni"
+        ]
+      },
+      "LUB": {
+        "name": "Lubāna",
+        "regions": [
+          "Lubāna"
+        ]
+      },
+      "LUD": {
+        "name": "Ludza",
+        "regions": [
+          "Ludza"
+        ]
+      },
+      "MAD": {
+        "name": "Madona",
+        "regions": [
+          "Madona"
+        ]
+      },
+      "MAZ": {
+        "name": "Mazsalaca",
+        "regions": [
+          "Mazsalaca"
+        ]
+      },
+      "MAL": {
+        "name": "Mālpils",
+        "regions": [
+          "Mālpils"
+        ]
+      },
+      "MAR": {
+        "name": "Mārupe",
+        "regions": [
+          "Mārupe"
+        ]
+      },
+      "MER": {
+        "name": "Mērsrags",
+        "regions": [
+          "Mērsrags"
+        ]
+      },
+      "NAU": {
+        "name": "Naukšēni",
+        "regions": [
+          "Naukšēni"
+        ]
+      },
+      "NER": {
+        "name": "Nereta",
+        "regions": [
+          "Nereta"
+        ]
+      },
+      "NIC": {
+        "name": "Nīca",
+        "regions": [
+          "Nīca"
+        ]
+      },
+      "OGR": {
+        "name": "Ogre",
+        "regions": [
+          "Ogre"
+        ]
+      },
+      "OLA": {
+        "name": "Olaine",
+        "regions": [
+          "Olaine"
+        ]
+      },
+      "OZO": {
+        "name": "Ozolnieki",
+        "regions": [
+          "Ozolnieki"
+        ]
+      },
+      "PAR": {
+        "name": "Pārgauja",
+        "regions": [
+          "Pārgauja"
+        ]
+      },
+      "PAV": {
+        "name": "Pāvilosta",
+        "regions": [
+          "Pāvilosta"
+        ]
+      },
+      "PLA": {
+        "name": "Pļaviņas",
+        "regions": [
+          "Pļaviņas"
+        ]
+      },
+      "PRE": {
+        "name": "Preiļi",
+        "regions": [
+          "Preiļi"
+        ]
+      },
+      "PRI": {
+        "name": "Priekule",
+        "regions": [
+          "Priekule"
+        ]
+      },
+      "PRI1": {
+        "name": "Priekuļi",
+        "regions": [
+          "Priekuļi"
+        ]
+      },
+      "RAU": {
+        "name": "Rauna",
+        "regions": [
+          "Rauna"
+        ]
+      },
+      "REZ": {
+        "name": "Rēzekne",
+        "regions": [
+          "Rēzekne"
+        ]
+      },
+      "REZMU": {
+        "name": "Rēzekne Municipality",
+        "regions": [
+          "Rēzekne Municipality"
+        ]
+      },
+      "RIG": {
+        "name": "Riga",
+        "regions": [
+          "Riga"
+        ]
+      },
+      "ROJ": {
+        "name": "Roja",
+        "regions": [
+          "Roja"
+        ]
+      },
+      "ROP": {
+        "name": "Ropaži",
+        "regions": [
+          "Ropaži"
+        ]
+      },
+      "RUC": {
+        "name": "Rucava",
+        "regions": [
+          "Rucava"
+        ]
+      },
+      "RUG": {
+        "name": "Rugāji",
+        "regions": [
+          "Rugāji"
+        ]
+      },
+      "RUJ": {
+        "name": "Rūjiena",
+        "regions": [
+          "Rūjiena"
+        ]
+      },
+      "SAL": {
+        "name": "Sala",
+        "regions": [
+          "Sala"
+        ]
+      },
+      "SAL1": {
+        "name": "Salacgrīva",
+        "regions": [
+          "Salacgrīva"
+        ]
+      },
+      "SAL2": {
+        "name": "Salaspils",
+        "regions": [
+          "Salaspils"
+        ]
+      },
+      "SAL3": {
+        "name": "Saldus",
+        "regions": [
+          "Saldus"
+        ]
+      },
+      "SAU": {
+        "name": "Saulkrasti",
+        "regions": [
+          "Saulkrasti"
+        ]
+      },
+      "SEJ": {
+        "name": "Sēja",
+        "regions": [
+          "Sēja"
+        ]
+      },
+      "SIG": {
+        "name": "Sigulda",
+        "regions": [
+          "Sigulda"
+        ]
+      },
+      "SKR": {
+        "name": "Skrunda",
+        "regions": [
+          "Skrunda"
+        ]
+      },
+      "STO": {
+        "name": "Stopiņi",
+        "regions": [
+          "Stopiņi"
+        ]
+      },
+      "STR": {
+        "name": "Strenči",
+        "regions": [
+          "Strenči"
+        ]
+      },
+      "TAL": {
+        "name": "Talsi",
+        "regions": [
+          "Talsi"
+        ]
+      },
+      "TER": {
+        "name": "Tērvete",
+        "regions": [
+          "Tērvete"
+        ]
+      },
+      "VAI": {
+        "name": "Vaiņode",
+        "regions": [
+          "Vaiņode"
+        ]
+      },
+      "VAL": {
+        "name": "Valka",
+        "regions": [
+          "Valka"
+        ]
+      },
+      "VAL1": {
+        "name": "Valmiera",
+        "regions": [
+          "Valmiera"
+        ]
+      },
+      "VAR": {
+        "name": "Varakļāni",
+        "regions": [
+          "Varakļāni"
+        ]
+      },
+      "VEC": {
+        "name": "Vecpiebalga",
+        "regions": [
+          "Vecpiebalga"
+        ]
+      },
+      "VEC1": {
+        "name": "Vecumnieki",
+        "regions": [
+          "Vecumnieki"
+        ]
+      },
+      "VEN": {
+        "name": "Ventspils",
+        "regions": [
+          "Ventspils"
+        ]
+      },
+      "VENMU": {
+        "name": "Ventspils Municipality",
+        "regions": [
+          "Ventspils Municipality"
+        ]
+      },
+      "VIE": {
+        "name": "Viesīte",
+        "regions": [
+          "Viesīte"
+        ]
+      },
+      "VIL": {
+        "name": "Viļaka",
+        "regions": [
+          "Viļaka"
+        ]
+      },
+      "VIL1": {
+        "name": "Viļāni",
+        "regions": [
+          "Viļāni"
+        ]
+      },
+      "ZIL": {
+        "name": "Zilupe",
+        "regions": [
+          "Zilupe"
+        ]
+      }
+    },
+    "regions": [
+      "Baltic Countries"
+    ]
+  },
+  "LT": {
+    "divisions": {
+      "ALY": {
+        "name": "Alytus",
+        "regions": [
+          "Alytus"
+        ]
+      },
+      "KAU": {
+        "name": "Kaunas",
+        "regions": [
+          "Kaunas"
+        ]
+      },
+      "KLA": {
+        "name": "Klaipėda",
+        "regions": [
+          "Klaipėda"
+        ]
+      },
+      "MAR": {
+        "name": "Marijampolė",
+        "regions": [
+          "Marijampolė"
+        ]
+      },
+      "PAN": {
+        "name": "Panevėžys",
+        "regions": [
+          "Panevėžys"
+        ]
+      },
+      "SIA": {
+        "name": "Šiauliai",
+        "regions": [
+          "Šiauliai"
+        ]
+      },
+      "TAU": {
+        "name": "Tauragė",
+        "regions": [
+          "Tauragė"
+        ]
+      },
+      "TEL": {
+        "name": "Telšiai",
+        "regions": [
+          "Telšiai"
+        ]
+      },
+      "UTE": {
+        "name": "Utena",
+        "regions": [
+          "Utena"
+        ]
+      },
+      "VIL": {
+        "name": "Vilnius",
+        "regions": [
+          "Vilnius"
+        ]
+      }
+    },
+    "regions": [
+      "Baltic Countries"
+    ]
+  },
+  "PL": {
+    "divisions": {
+      "GREPO": {
+        "name": "Greater Poland",
+        "regions": [
+          "Greater Poland"
+        ]
+      },
+      "KUY": {
+        "name": "Kuyavian-Pomeranian",
+        "regions": [
+          "Kuyavian-Pomeranian"
+        ]
+      },
+      "LESPO": {
+        "name": "Lesser Poland",
+        "regions": [
+          "Lesser Poland"
+        ]
+      },
+      "ODZ": {
+        "name": "Łódź",
+        "regions": [
+          "Łódź"
+        ]
+      },
+      "LOWSI": {
+        "name": "Lower Silesian",
+        "regions": [
+          "Lower Silesian"
+        ]
+      },
+      "LUB": {
+        "name": "Lublin",
+        "regions": [
+          "Lublin"
+        ]
+      },
+      "LUB1": {
+        "name": "Lubusz",
+        "regions": [
+          "Lubusz"
+        ]
+      },
+      "MAS": {
+        "name": "Masovian",
+        "regions": [
+          "Masovian"
+        ]
+      },
+      "OPO": {
+        "name": "Opole",
+        "regions": [
+          "Opole"
+        ]
+      },
+      "POD": {
+        "name": "Podlaskie",
+        "regions": [
+          "Podlaskie"
+        ]
+      },
+      "POM": {
+        "name": "Pomeranian",
+        "regions": [
+          "Pomeranian"
+        ]
+      },
+      "SWI": {
+        "name": "Świętokrzyskie",
+        "regions": [
+          "Świętokrzyskie"
+        ]
+      },
+      "WAR": {
+        "name": "Warmian-Masurian",
+        "regions": [
+          "Warmian-Masurian"
+        ]
+      },
+      "WESPO": {
+        "name": "West Pomeranian",
+        "regions": [
+          "West Pomeranian"
+        ]
+      }
+    },
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "CZ": {
+    "divisions": {
+      "CENBO": {
+        "name": "Central Bohemian",
+        "regions": [
+          "Central Bohemian"
+        ]
+      },
+      "SOUBO": {
+        "name": "South Bohemian",
+        "regions": [
+          "South Bohemian"
+        ]
+      },
+      "PLZ": {
+        "name": "Plzeň",
+        "regions": [
+          "Plzeň"
+        ]
+      },
+      "KARVA": {
+        "name": "Karlovy Vary",
+        "regions": [
+          "Karlovy Vary"
+        ]
+      },
+      "USTNA": {
+        "name": "Ústí nad Labem",
+        "regions": [
+          "Ústí nad Labem"
+        ]
+      },
+      "LIB": {
+        "name": "Liberec",
+        "regions": [
+          "Liberec"
+        ]
+      },
+      "HRAKR": {
+        "name": "Hradec Králové",
+        "regions": [
+          "Hradec Králové"
+        ]
+      },
+      "PAR": {
+        "name": "Pardubice",
+        "regions": [
+          "Pardubice"
+        ]
+      },
+      "VYS": {
+        "name": "Vysočina",
+        "regions": [
+          "Vysočina"
+        ]
+      },
+      "SOUMO": {
+        "name": "South Moravian",
+        "regions": [
+          "South Moravian"
+        ]
+      },
+      "OLO": {
+        "name": "Olomouc",
+        "regions": [
+          "Olomouc"
+        ]
+      },
+      "ZLI": {
+        "name": "Zlín",
+        "regions": [
+          "Zlín"
+        ]
+      },
+      "MOR": {
+        "name": "Moravian-Silesian",
+        "regions": [
+          "Moravian-Silesian"
+        ]
+      },
+      "PRA": {
+        "name": "Prague",
+        "regions": [
+          "Prague"
+        ]
+      }
+    },
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "SK": {
+    "divisions": {
+      "BANBY": {
+        "name": "Banská Bystrica",
+        "regions": [
+          "Banská Bystrica"
+        ]
+      },
+      "BRA": {
+        "name": "Bratislava",
+        "regions": [
+          "Bratislava"
+        ]
+      },
+      "KOS": {
+        "name": "Košice",
+        "regions": [
+          "Košice"
+        ]
+      },
+      "NIT": {
+        "name": "Nitra",
+        "regions": [
+          "Nitra"
+        ]
+      },
+      "PRE": {
+        "name": "Prešov",
+        "regions": [
+          "Prešov"
+        ]
+      },
+      "TRE": {
+        "name": "Trenčín",
+        "regions": [
+          "Trenčín"
+        ]
+      },
+      "TRN": {
+        "name": "Trnava",
+        "regions": [
+          "Trnava"
+        ]
+      },
+      "ZIL": {
+        "name": "Žilina",
+        "regions": [
+          "Žilina"
+        ]
+      }
+    },
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "HU": {
+    "divisions": {
+      "BAC": {
+        "name": "Bács-Kiskun",
+        "regions": [
+          "Bács-Kiskun"
+        ]
+      },
+      "BAR": {
+        "name": "Baranya",
+        "regions": [
+          "Baranya"
+        ]
+      },
+      "BEK": {
+        "name": "Békés",
+        "regions": [
+          "Békés"
+        ]
+      },
+      "BOR": {
+        "name": "Borsod-Abaúj-Zemplén",
+        "regions": [
+          "Borsod-Abaúj-Zemplén"
+        ]
+      },
+      "BUD": {
+        "name": "Budapest",
+        "regions": [
+          "Budapest"
+        ]
+      },
+      "FEJ": {
+        "name": "Fejér",
+        "regions": [
+          "Fejér"
+        ]
+      },
+      "GYO": {
+        "name": "Győr-Moson-Sopron",
+        "regions": [
+          "Győr-Moson-Sopron"
+        ]
+      },
+      "HAJ": {
+        "name": "Hajdú-Bihar",
+        "regions": [
+          "Hajdú-Bihar"
+        ]
+      },
+      "HEV": {
+        "name": "Heves",
+        "regions": [
+          "Heves"
+        ]
+      },
+      "JAS": {
+        "name": "Jász-Nagykun-Szolnok",
+        "regions": [
+          "Jász-Nagykun-Szolnok"
+        ]
+      },
+      "KOM": {
+        "name": "Komárom-Esztergom",
+        "regions": [
+          "Komárom-Esztergom"
+        ]
+      },
+      "NOG": {
+        "name": "Nógrád",
+        "regions": [
+          "Nógrád"
+        ]
+      },
+      "PES": {
+        "name": "Pest",
+        "regions": [
+          "Pest"
+        ]
+      },
+      "SOM": {
+        "name": "Somogy",
+        "regions": [
+          "Somogy"
+        ]
+      },
+      "SZA": {
+        "name": "Szabolcs-Szatmár-Bereg",
+        "regions": [
+          "Szabolcs-Szatmár-Bereg"
+        ]
+      },
+      "TOL": {
+        "name": "Tolna",
+        "regions": [
+          "Tolna"
+        ]
+      },
+      "VAS": {
+        "name": "Vas",
+        "regions": [
+          "Vas"
+        ]
+      },
+      "VES": {
+        "name": "Veszprém",
+        "regions": [
+          "Veszprém"
+        ]
+      },
+      "ZAL": {
+        "name": "Zala",
+        "regions": [
+          "Zala"
+        ]
+      }
+    },
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "RO": {
+    "divisions": {
+      "ALB": {
+        "name": "Alba",
+        "regions": [
+          "Alba"
+        ]
+      },
+      "ARA": {
+        "name": "Arad",
+        "regions": [
+          "Arad"
+        ]
+      },
+      "ARG": {
+        "name": "Argeș",
+        "regions": [
+          "Argeș"
+        ]
+      },
+      "BAC": {
+        "name": "Bacău",
+        "regions": [
+          "Bacău"
+        ]
+      },
+      "BIH": {
+        "name": "Bihor",
+        "regions": [
+          "Bihor"
+        ]
+      },
+      "BIS": {
+        "name": "Bistrița-Năsăud",
+        "regions": [
+          "Bistrița-Năsăud"
+        ]
+      },
+      "BOT": {
+        "name": "Botoșani",
+        "regions": [
+          "Botoșani"
+        ]
+      },
+      "BRA": {
+        "name": "Brașov",
+        "regions": [
+          "Brașov"
+        ]
+      },
+      "BRA1": {
+        "name": "Brăila",
+        "regions": [
+          "Brăila"
+        ]
+      },
+      "BUZ": {
+        "name": "Buzău",
+        "regions": [
+          "Buzău"
+        ]
+      },
+      "CAL": {
+        "name": "Călărași",
+        "regions": [
+          "Călărași"
+        ]
+      },
+      "CAR": {
+        "name": "Caraș-Severin",
+        "regions": [
+          "Caraș-Severin"
+        ]
+      },
+      "CLU": {
+        "name": "Cluj",
+        "regions": [
+          "Cluj"
+        ]
+      },
+      "CON": {
+        "name": "Constanța",
+        "regions": [
+          "Constanța"
+        ]
+      },
+      "COV": {
+        "name": "Covasna",
+        "regions": [
+          "Covasna"
+        ]
+      },
+      "DAM": {
+        "name": "Dâmbovița",
+        "regions": [
+          "Dâmbovița"
+        ]
+      },
+      "DOL": {
+        "name": "Dolj",
+        "regions": [
+          "Dolj"
+        ]
+      },
+      "GAL": {
+        "name": "Galați",
+        "regions": [
+          "Galați"
+        ]
+      },
+      "GIU": {
+        "name": "Giurgiu",
+        "regions": [
+          "Giurgiu"
+        ]
+      },
+      "GOR": {
+        "name": "Gorj",
+        "regions": [
+          "Gorj"
+        ]
+      },
+      "HAR": {
+        "name": "Harghita",
+        "regions": [
+          "Harghita"
+        ]
+      },
+      "HUN": {
+        "name": "Hunedoara",
+        "regions": [
+          "Hunedoara"
+        ]
+      },
+      "IAL": {
+        "name": "Ialomița",
+        "regions": [
+          "Ialomița"
+        ]
+      },
+      "IAS": {
+        "name": "Iași",
+        "regions": [
+          "Iași"
+        ]
+      },
+      "ILF": {
+        "name": "Ilfov",
+        "regions": [
+          "Ilfov"
+        ]
+      },
+      "MAR": {
+        "name": "Maramureș",
+        "regions": [
+          "Maramureș"
+        ]
+      },
+      "MEH": {
+        "name": "Mehedinți",
+        "regions": [
+          "Mehedinți"
+        ]
+      },
+      "MUR": {
+        "name": "Mureș",
+        "regions": [
+          "Mureș"
+        ]
+      },
+      "NEA": {
+        "name": "Neamț",
+        "regions": [
+          "Neamț"
+        ]
+      },
+      "OLT": {
+        "name": "Olt",
+        "regions": [
+          "Olt"
+        ]
+      },
+      "PRA": {
+        "name": "Prahova",
+        "regions": [
+          "Prahova"
+        ]
+      },
+      "SATMA": {
+        "name": "Satu Mare",
+        "regions": [
+          "Satu Mare"
+        ]
+      },
+      "SAL": {
+        "name": "Sălaj",
+        "regions": [
+          "Sălaj"
+        ]
+      },
+      "SIB": {
+        "name": "Sibiu",
+        "regions": [
+          "Sibiu"
+        ]
+      },
+      "SUC": {
+        "name": "Suceava",
+        "regions": [
+          "Suceava"
+        ]
+      },
+      "TEL": {
+        "name": "Teleorman",
+        "regions": [
+          "Teleorman"
+        ]
+      },
+      "TIM": {
+        "name": "Timiș",
+        "regions": [
+          "Timiș"
+        ]
+      },
+      "TUL": {
+        "name": "Tulcea",
+        "regions": [
+          "Tulcea"
+        ]
+      },
+      "VAS": {
+        "name": "Vaslui",
+        "regions": [
+          "Vaslui"
+        ]
+      },
+      "VAL": {
+        "name": "Vâlcea",
+        "regions": [
+          "Vâlcea"
+        ]
+      },
+      "VRA": {
+        "name": "Vrancea",
+        "regions": [
+          "Vrancea"
+        ]
+      }
+    },
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "BG": {
+    "divisions": {
+      "BLA": {
+        "name": "Blagoevgrad",
+        "regions": [
+          "Blagoevgrad"
+        ]
+      },
+      "BUR": {
+        "name": "Burgas",
+        "regions": [
+          "Burgas"
+        ]
+      },
+      "DOB": {
+        "name": "Dobrich",
+        "regions": [
+          "Dobrich"
+        ]
+      },
+      "GAB": {
+        "name": "Gabrovo",
+        "regions": [
+          "Gabrovo"
+        ]
+      },
+      "HAS": {
+        "name": "Haskovo",
+        "regions": [
+          "Haskovo"
+        ]
+      },
+      "KAR": {
+        "name": "Kardzhali",
+        "regions": [
+          "Kardzhali"
+        ]
+      },
+      "KYU": {
+        "name": "Kyustendil",
+        "regions": [
+          "Kyustendil"
+        ]
+      },
+      "LOV": {
+        "name": "Lovech",
+        "regions": [
+          "Lovech"
+        ]
+      },
+      "MON": {
+        "name": "Montana",
+        "regions": [
+          "Montana"
+        ]
+      },
+      "PAZ": {
+        "name": "Pazardzhik",
+        "regions": [
+          "Pazardzhik"
+        ]
+      },
+      "PER": {
+        "name": "Pernik",
+        "regions": [
+          "Pernik"
+        ]
+      },
+      "PLE": {
+        "name": "Pleven",
+        "regions": [
+          "Pleven"
+        ]
+      },
+      "PLO": {
+        "name": "Plovdiv",
+        "regions": [
+          "Plovdiv"
+        ]
+      },
+      "RAZ": {
+        "name": "Razgrad",
+        "regions": [
+          "Razgrad"
+        ]
+      },
+      "RUS": {
+        "name": "Ruse",
+        "regions": [
+          "Ruse"
+        ]
+      },
+      "SHU": {
+        "name": "Shumen",
+        "regions": [
+          "Shumen"
+        ]
+      },
+      "SIL": {
+        "name": "Silistra",
+        "regions": [
+          "Silistra"
+        ]
+      },
+      "SLI": {
+        "name": "Sliven",
+        "regions": [
+          "Sliven"
+        ]
+      },
+      "SMO": {
+        "name": "Smolyan",
+        "regions": [
+          "Smolyan"
+        ]
+      },
+      "SOF": {
+        "name": "Sofia",
+        "regions": [
+          "Sofia"
+        ]
+      },
+      "SOFPR": {
+        "name": "Sofia Province",
+        "regions": [
+          "Sofia Province"
+        ]
+      },
+      "STAZA": {
+        "name": "Stara Zagora",
+        "regions": [
+          "Stara Zagora"
+        ]
+      },
+      "TAR": {
+        "name": "Targovishte",
+        "regions": [
+          "Targovishte"
+        ]
+      },
+      "VAR": {
+        "name": "Varna",
+        "regions": [
+          "Varna"
+        ]
+      },
+      "VELTA": {
+        "name": "Veliko Tarnovo",
+        "regions": [
+          "Veliko Tarnovo"
+        ]
+      },
+      "VID": {
+        "name": "Vidin",
+        "regions": [
+          "Vidin"
+        ]
+      },
+      "VRA": {
+        "name": "Vratsa",
+        "regions": [
+          "Vratsa"
+        ]
+      },
+      "YAM": {
+        "name": "Yambol",
+        "regions": [
+          "Yambol"
+        ]
+      }
+    },
+    "regions": [
+      "Central Europe"
+    ]
+  },
+  "GR": {
+    "divisions": {
+      "ATT": {
+        "name": "Attica",
+        "regions": [
+          "Attica"
+        ]
+      },
+      "CENGR": {
+        "name": "Central Greece",
+        "regions": [
+          "Central Greece"
+        ]
+      },
+      "CENMA": {
+        "name": "Central Macedonia",
+        "regions": [
+          "Central Macedonia"
+        ]
+      },
+      "CRE": {
+        "name": "Crete",
+        "regions": [
+          "Crete"
+        ]
+      },
+      "EASMA": {
+        "name": "East Macedonia and Thrace",
+        "regions": [
+          "East Macedonia and Thrace"
+        ]
+      },
+      "EPI": {
+        "name": "Epirus",
+        "regions": [
+          "Epirus"
+        ]
+      },
+      "IONIS": {
+        "name": "Ionian Islands",
+        "regions": [
+          "Ionian Islands"
+        ]
+      },
+      "NORAE": {
+        "name": "North Aegean",
+        "regions": [
+          "North Aegean"
+        ]
+      },
+      "PEL": {
+        "name": "Peloponnese",
+        "regions": [
+          "Peloponnese"
+        ]
+      },
+      "SOUAE": {
+        "name": "South Aegean",
+        "regions": [
+          "South Aegean"
+        ]
+      },
+      "THE": {
+        "name": "Thessaly",
+        "regions": [
+          "Thessaly"
+        ]
+      },
+      "WESGR": {
+        "name": "West Greece",
+        "regions": [
+          "West Greece"
+        ]
+      },
+      "WESMA": {
+        "name": "West Macedonia",
+        "regions": [
+          "West Macedonia"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "PT": {
+    "divisions": {
+      "AVE": {
+        "name": "Aveiro",
+        "regions": [
+          "Aveiro"
+        ]
+      },
+      "BEJ": {
+        "name": "Beja",
+        "regions": [
+          "Beja"
+        ]
+      },
+      "BRA": {
+        "name": "Braga",
+        "regions": [
+          "Braga"
+        ]
+      },
+      "BRA1": {
+        "name": "Bragança",
+        "regions": [
+          "Bragança"
+        ]
+      },
+      "CASBR": {
+        "name": "Castelo Branco",
+        "regions": [
+          "Castelo Branco"
+        ]
+      },
+      "COI": {
+        "name": "Coimbra",
+        "regions": [
+          "Coimbra"
+        ]
+      },
+      "EVO": {
+        "name": "Évora",
+        "regions": [
+          "Évora"
+        ]
+      },
+      "FAR": {
+        "name": "Faro",
+        "regions": [
+          "Faro"
+        ]
+      },
+      "GUA": {
+        "name": "Guarda",
+        "regions": [
+          "Guarda"
+        ]
+      },
+      "LEI": {
+        "name": "Leiria",
+        "regions": [
+          "Leiria"
+        ]
+      },
+      "LIS": {
+        "name": "Lisboa",
+        "regions": [
+          "Lisboa"
+        ]
+      },
+      "POR": {
+        "name": "Portalegre",
+        "regions": [
+          "Portalegre"
+        ]
+      },
+      "POR1": {
+        "name": "Porto",
+        "regions": [
+          "Porto"
+        ]
+      },
+      "SAN": {
+        "name": "Santarém",
+        "regions": [
+          "Santarém"
+        ]
+      },
+      "SET": {
+        "name": "Setúbal",
+        "regions": [
+          "Setúbal"
+        ]
+      },
+      "VIADO": {
+        "name": "Viana do Castelo",
+        "regions": [
+          "Viana do Castelo"
+        ]
+      },
+      "VILRE": {
+        "name": "Vila Real",
+        "regions": [
+          "Vila Real"
+        ]
+      },
+      "VIS": {
+        "name": "Viseu",
+        "regions": [
+          "Viseu"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "SI": {
+    "divisions": {
+      "BLA": {
+        "name": "Blago-Kras",
+        "regions": [
+          "Blago-Kras"
+        ]
+      },
+      "GOR": {
+        "name": "Gorenjska",
+        "regions": [
+          "Gorenjska"
+        ]
+      },
+      "GOR1": {
+        "name": "Goriška",
+        "regions": [
+          "Goriška"
+        ]
+      },
+      "JUGSL": {
+        "name": "Jugovzhodna Slovenija",
+        "regions": [
+          "Jugovzhodna Slovenija"
+        ]
+      },
+      "KOR": {
+        "name": "Koroška",
+        "regions": [
+          "Koroška"
+        ]
+      },
+      "OBA": {
+        "name": "Obalno-Kraška",
+        "regions": [
+          "Obalno-Kraška"
+        ]
+      },
+      "OSR": {
+        "name": "Osrednjeslovenska",
+        "regions": [
+          "Osrednjeslovenska"
+        ]
+      },
+      "POD": {
+        "name": "Podravska",
+        "regions": [
+          "Podravska"
+        ]
+      },
+      "POM": {
+        "name": "Pomurska",
+        "regions": [
+          "Pomurska"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "HR": {
+    "divisions": {
+      "ZAG": {
+        "name": "Zagreb",
+        "regions": [
+          "Zagreb"
+        ]
+      },
+      "SPL": {
+        "name": "Split-Dalmatia",
+        "regions": [
+          "Split-Dalmatia"
+        ]
+      },
+      "PRIKO": {
+        "name": "Primorje-Gorski Kotar",
+        "regions": [
+          "Primorje-Gorski Kotar"
+        ]
+      },
+      "DUB": {
+        "name": "Dubrovnik-Neretva",
+        "regions": [
+          "Dubrovnik-Neretva"
+        ]
+      },
+      "IST": {
+        "name": "Istria",
+        "regions": [
+          "Istria"
+        ]
+      },
+      "SIB": {
+        "name": "Šibenik-Knin",
+        "regions": [
+          "Šibenik-Knin"
+        ]
+      },
+      "LIK": {
+        "name": "Lika-Senj",
+        "regions": [
+          "Lika-Senj"
+        ]
+      },
+      "MEI": {
+        "name": "Međimurje",
+        "regions": [
+          "Međimurje"
+        ]
+      },
+      "OSI": {
+        "name": "Osijek-Baranja",
+        "regions": [
+          "Osijek-Baranja"
+        ]
+      },
+      "POZ": {
+        "name": "Požega-Slavonia",
+        "regions": [
+          "Požega-Slavonia"
+        ]
+      },
+      "VIR": {
+        "name": "Virovitica-Podravina",
+        "regions": [
+          "Virovitica-Podravina"
+        ]
+      },
+      "VUK": {
+        "name": "Vukovar-Srijem",
+        "regions": [
+          "Vukovar-Srijem"
+        ]
+      },
+      "ZAD": {
+        "name": "Zadar",
+        "regions": [
+          "Zadar"
+        ]
+      },
+      "BJE": {
+        "name": "Bjelovar-Bilogora",
+        "regions": [
+          "Bjelovar-Bilogora"
+        ]
+      },
+      "BRO": {
+        "name": " Brod-Posavina",
+        "regions": [
+          " Brod-Posavina"
+        ]
+      },
+      "DUB1": {
+        "name": "Dubrovnik-Neretva",
+        "regions": [
+          "Dubrovnik-Neretva"
+        ]
+      },
+      "KOP": {
+        "name": "Koprivnica-Križevci",
+        "regions": [
+          "Koprivnica-Križevci"
+        ]
+      },
+      "KRA": {
+        "name": "Krapina-Zagorje",
+        "regions": [
+          "Krapina-Zagorje"
+        ]
+      },
+      "POZ1": {
+        "name": "Požega-Slavonia",
+        "regions": [
+          "Požega-Slavonia"
+        ]
+      },
+      "SIS": {
+        "name": "Sisak-Moslavina",
+        "regions": [
+          "Sisak-Moslavina"
+        ]
+      },
+      "VIR1": {
+        "name": "Virovitica-Podravina",
+        "regions": [
+          "Virovitica-Podravina"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "BA": {
+    "divisions": {
+      "UNA": {
+        "name": "Una-Sana",
+        "regions": [
+          "Una-Sana"
+        ]
+      },
+      "POS": {
+        "name": "Posavina",
+        "regions": [
+          "Posavina"
+        ]
+      },
+      "TUZ": {
+        "name": "Tuzla",
+        "regions": [
+          "Tuzla"
+        ]
+      },
+      "ZEN": {
+        "name": "Zenica-Doboj",
+        "regions": [
+          "Zenica-Doboj"
+        ]
+      },
+      "BOSPO": {
+        "name": "Bosnian Podrinje",
+        "regions": [
+          "Bosnian Podrinje"
+        ]
+      },
+      "CENBO": {
+        "name": "Central Bosnia",
+        "regions": [
+          "Central Bosnia"
+        ]
+      },
+      "HER": {
+        "name": "Herzegovina-Neretva",
+        "regions": [
+          "Herzegovina-Neretva"
+        ]
+      },
+      "WESHE": {
+        "name": "West Herzegovina",
+        "regions": [
+          "West Herzegovina"
+        ]
+      },
+      "REPSR": {
+        "name": "Republika Srpska",
+        "regions": [
+          "Republika Srpska"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "ME": {
+    "divisions": {
+      "POD": {
+        "name": "Podgorica",
+        "regions": [
+          "Podgorica"
+        ]
+      },
+      "NIK": {
+        "name": "Nikšić",
+        "regions": [
+          "Nikšić"
+        ]
+      },
+      "PLJ": {
+        "name": "Pljevlja",
+        "regions": [
+          "Pljevlja"
+        ]
+      },
+      "BIJPO": {
+        "name": "Bijelo Polje",
+        "regions": [
+          "Bijelo Polje"
+        ]
+      },
+      "CET": {
+        "name": "Cetinje",
+        "regions": [
+          "Cetinje"
+        ]
+      },
+      "BAR": {
+        "name": "Bar",
+        "regions": [
+          "Bar"
+        ]
+      },
+      "HERNO": {
+        "name": "Herceg Novi",
+        "regions": [
+          "Herceg Novi"
+        ]
+      },
+      "ULC": {
+        "name": "Ulcinj",
+        "regions": [
+          "Ulcinj"
+        ]
+      },
+      "ROZ": {
+        "name": "Rožaje",
+        "regions": [
+          "Rožaje"
+        ]
+      },
+      "DAN": {
+        "name": "Danilovgrad",
+        "regions": [
+          "Danilovgrad"
+        ]
+      },
+      "SAV": {
+        "name": "Šavnik",
+        "regions": [
+          "Šavnik"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "RS": {
+    "divisions": {
+      "BEL": {
+        "name": "Belgrade",
+        "regions": [
+          "Belgrade"
+        ]
+      },
+      "VOJ": {
+        "name": "Vojvodina",
+        "regions": [
+          "Vojvodina"
+        ]
+      },
+      "NIS": {
+        "name": "Nišava",
+        "regions": [
+          "Nišava"
+        ]
+      },
+      "SUMAN": {
+        "name": "Šumadija and Western Serbia",
+        "regions": [
+          "Šumadija and Western Serbia"
+        ]
+      },
+      "SOUAN": {
+        "name": "Southern and Eastern Serbia",
+        "regions": [
+          "Southern and Eastern Serbia"
+        ]
+      },
+      "ZLA": {
+        "name": "Zlatibor",
+        "regions": [
+          "Zlatibor"
+        ]
+      },
+      "RAS": {
+        "name": "Rasina",
+        "regions": [
+          "Rasina"
+        ]
+      },
+      "RAS1": {
+        "name": "Raska",
+        "regions": [
+          "Raska"
+        ]
+      },
+      "MOR": {
+        "name": "Moravica",
+        "regions": [
+          "Moravica"
+        ]
+      },
+      "POD": {
+        "name": "Podunavlje",
+        "regions": [
+          "Podunavlje"
+        ]
+      },
+      "BRA": {
+        "name": "Braničevo",
+        "regions": [
+          "Braničevo"
+        ]
+      },
+      "JAB": {
+        "name": "Jablanica",
+        "regions": [
+          "Jablanica"
+        ]
+      },
+      "PCI": {
+        "name": "Pčinja",
+        "regions": [
+          "Pčinja"
+        ]
+      },
+      "POM": {
+        "name": "Pomoravlje",
+        "regions": [
+          "Pomoravlje"
+        ]
+      },
+      "ZLA1": {
+        "name": "Zlatibor",
+        "regions": [
+          "Zlatibor"
+        ]
+      },
+      "KOL": {
+        "name": "Kolubara",
+        "regions": [
+          "Kolubara"
+        ]
+      },
+      "MAC": {
+        "name": "Mačva",
+        "regions": [
+          "Mačva"
+        ]
+      },
+      "BOR": {
+        "name": "Bor",
+        "regions": [
+          "Bor"
+        ]
+      },
+      "BRA1": {
+        "name": "Braničevo",
+        "regions": [
+          "Braničevo"
+        ]
+      },
+      "PCI1": {
+        "name": "Pčinja",
+        "regions": [
+          "Pčinja"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "AL": {
+    "divisions": {
+      "BER": {
+        "name": "Berat",
+        "regions": [
+          "Berat"
+        ]
+      },
+      "DIB": {
+        "name": "Dibër",
+        "regions": [
+          "Dibër"
+        ]
+      },
+      "DUR": {
+        "name": "Durrës",
+        "regions": [
+          "Durrës"
+        ]
+      },
+      "ELB": {
+        "name": "Elbasan",
+        "regions": [
+          "Elbasan"
+        ]
+      },
+      "FIE": {
+        "name": "Fier",
+        "regions": [
+          "Fier"
+        ]
+      },
+      "GJI": {
+        "name": "Gjirokastër",
+        "regions": [
+          "Gjirokastër"
+        ]
+      },
+      "KOR": {
+        "name": "Korçë",
+        "regions": [
+          "Korçë"
+        ]
+      },
+      "KUK": {
+        "name": "Kukës",
+        "regions": [
+          "Kukës"
+        ]
+      },
+      "LEZ": {
+        "name": "Lezhë",
+        "regions": [
+          "Lezhë"
+        ]
+      },
+      "SHK": {
+        "name": "Shkodër",
+        "regions": [
+          "Shkodër"
+        ]
+      },
+      "TIR": {
+        "name": "Tirana",
+        "regions": [
+          "Tirana"
+        ]
+      },
+      "VLO": {
+        "name": "Vlorë",
+        "regions": [
+          "Vlorë"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "MK": {
+    "divisions": {
+      "AER": {
+        "name": "Aerodrom",
+        "regions": [
+          "Aerodrom"
+        ]
+      },
+      "ARA": {
+        "name": "Aračinovo",
+        "regions": [
+          "Aračinovo"
+        ]
+      },
+      "BER": {
+        "name": "Berovo",
+        "regions": [
+          "Berovo"
+        ]
+      },
+      "BIT": {
+        "name": "Bitola",
+        "regions": [
+          "Bitola"
+        ]
+      },
+      "BOG": {
+        "name": "Bogdanci",
+        "regions": [
+          "Bogdanci"
+        ]
+      },
+      "BOG1": {
+        "name": "Bogovinje",
+        "regions": [
+          "Bogovinje"
+        ]
+      },
+      "BOS": {
+        "name": "Bosilovo",
+        "regions": [
+          "Bosilovo"
+        ]
+      },
+      "BRV": {
+        "name": "Brvenica",
+        "regions": [
+          "Brvenica"
+        ]
+      },
+      "BUT": {
+        "name": "Butel",
+        "regions": [
+          "Butel"
+        ]
+      },
+      "CAI": {
+        "name": "Čair",
+        "regions": [
+          "Čair"
+        ]
+      },
+      "CAS": {
+        "name": "Čaška",
+        "regions": [
+          "Čaška"
+        ]
+      },
+      "CEN": {
+        "name": "Centar",
+        "regions": [
+          "Centar"
+        ]
+      },
+      "CENZU": {
+        "name": "Centar Župa",
+        "regions": [
+          "Centar Župa"
+        ]
+      },
+      "CUC": {
+        "name": "Čučer-Sandevo",
+        "regions": [
+          "Čučer-Sandevo"
+        ]
+      },
+      "DEB": {
+        "name": "Debar",
+        "regions": [
+          "Debar"
+        ]
+      },
+      "DEB1": {
+        "name": "Debarca",
+        "regions": [
+          "Debarca"
+        ]
+      },
+      "DEL": {
+        "name": "Delčevo",
+        "regions": [
+          "Delčevo"
+        ]
+      },
+      "DEMHI": {
+        "name": "Demir Hisar",
+        "regions": [
+          "Demir Hisar"
+        ]
+      },
+      "DEMKA": {
+        "name": "Demir Kapija",
+        "regions": [
+          "Demir Kapija"
+        ]
+      },
+      "DOJ": {
+        "name": "Dojran",
+        "regions": [
+          "Dojran"
+        ]
+      },
+      "DOL": {
+        "name": "Dolneni",
+        "regions": [
+          "Dolneni"
+        ]
+      },
+      "DRU": {
+        "name": "Drugovo",
+        "regions": [
+          "Drugovo"
+        ]
+      },
+      "GAZBA": {
+        "name": "Gazi Baba",
+        "regions": [
+          "Gazi Baba"
+        ]
+      },
+      "GEV": {
+        "name": "Gevgelija",
+        "regions": [
+          "Gevgelija"
+        ]
+      },
+      "GJOPE": {
+        "name": "Gjorče Petrov",
+        "regions": [
+          "Gjorče Petrov"
+        ]
+      },
+      "GOS": {
+        "name": "Gostivar",
+        "regions": [
+          "Gostivar"
+        ]
+      },
+      "GRA": {
+        "name": "Gradsko",
+        "regions": [
+          "Gradsko"
+        ]
+      },
+      "ILI": {
+        "name": "Ilinden",
+        "regions": [
+          "Ilinden"
+        ]
+      },
+      "JEG": {
+        "name": "Jegunovce",
+        "regions": [
+          "Jegunovce"
+        ]
+      },
+      "KAR": {
+        "name": "Karbinci",
+        "regions": [
+          "Karbinci"
+        ]
+      },
+      "KAV": {
+        "name": "Kavadarci",
+        "regions": [
+          "Kavadarci"
+        ]
+      },
+      "KIC": {
+        "name": "Kičevo",
+        "regions": [
+          "Kičevo"
+        ]
+      },
+      "KISVO": {
+        "name": "Kisela Voda",
+        "regions": [
+          "Kisela Voda"
+        ]
+      },
+      "KOC": {
+        "name": "Kočani",
+        "regions": [
+          "Kočani"
+        ]
+      },
+      "KON": {
+        "name": "Konče",
+        "regions": [
+          "Konče"
+        ]
+      },
+      "KRA": {
+        "name": "Kratovo",
+        "regions": [
+          "Kratovo"
+        ]
+      },
+      "KRIPA": {
+        "name": "Kriva Palanka",
+        "regions": [
+          "Kriva Palanka"
+        ]
+      },
+      "KRU": {
+        "name": "Kruševo",
+        "regions": [
+          "Kruševo"
+        ]
+      },
+      "KUM": {
+        "name": "Kumanovo",
+        "regions": [
+          "Kumanovo"
+        ]
+      },
+      "LIP": {
+        "name": "Lipkovo",
+        "regions": [
+          "Lipkovo"
+        ]
+      },
+      "MAKKA": {
+        "name": "Makedonska Kamenica",
+        "regions": [
+          "Makedonska Kamenica"
+        ]
+      },
+      "MAKBR": {
+        "name": "Makedonski Brod",
+        "regions": [
+          "Makedonski Brod"
+        ]
+      },
+      "MAVAN": {
+        "name": "Mavrovo and Rostuša",
+        "regions": [
+          "Mavrovo and Rostuša"
+        ]
+      },
+      "MOG": {
+        "name": "Mogila",
+        "regions": [
+          "Mogila"
+        ]
+      },
+      "NEG": {
+        "name": "Negotino",
+        "regions": [
+          "Negotino"
+        ]
+      },
+      "NOV": {
+        "name": "Novaci",
+        "regions": [
+          "Novaci"
+        ]
+      },
+      "NOVSE": {
+        "name": "Novo Selo",
+        "regions": [
+          "Novo Selo"
+        ]
+      },
+      "OHR": {
+        "name": "Ohrid",
+        "regions": [
+          "Ohrid"
+        ]
+      },
+      "PEH": {
+        "name": "Pehčevo",
+        "regions": [
+          "Pehčevo"
+        ]
+      },
+      "PET": {
+        "name": "Petrovec",
+        "regions": [
+          "Petrovec"
+        ]
+      },
+      "PLA": {
+        "name": "Plasnica",
+        "regions": [
+          "Plasnica"
+        ]
+      },
+      "PRI": {
+        "name": "Prilep",
+        "regions": [
+          "Prilep"
+        ]
+      },
+      "PRO": {
+        "name": "Probištip",
+        "regions": [
+          "Probištip"
+        ]
+      },
+      "RAD": {
+        "name": "Radoviš",
+        "regions": [
+          "Radoviš"
+        ]
+      },
+      "RAN": {
+        "name": "Rankovce",
+        "regions": [
+          "Rankovce"
+        ]
+      },
+      "RES": {
+        "name": "Resen",
+        "regions": [
+          "Resen"
+        ]
+      },
+      "ROS": {
+        "name": "Rosoman",
+        "regions": [
+          "Rosoman"
+        ]
+      },
+      "SAR": {
+        "name": "Saraj",
+        "regions": [
+          "Saraj"
+        ]
+      },
+      "SOP": {
+        "name": "Sopište",
+        "regions": [
+          "Sopište"
+        ]
+      },
+      "STANA": {
+        "name": "Staro Nagoričane",
+        "regions": [
+          "Staro Nagoričane"
+        ]
+      },
+      "STR": {
+        "name": "Struga",
+        "regions": [
+          "Struga"
+        ]
+      },
+      "STR1": {
+        "name": "Strumica",
+        "regions": [
+          "Strumica"
+        ]
+      },
+      "STU": {
+        "name": "Studeničani",
+        "regions": [
+          "Studeničani"
+        ]
+      },
+      "STI": {
+        "name": "Štip",
+        "regions": [
+          "Štip"
+        ]
+      },
+      "TET": {
+        "name": "Tetovo",
+        "regions": [
+          "Tetovo"
+        ]
+      },
+      "VAL": {
+        "name": "Valandovo",
+        "regions": [
+          "Valandovo"
+        ]
+      },
+      "VAS": {
+        "name": "Vasilevo",
+        "regions": [
+          "Vasilevo"
+        ]
+      },
+      "VEL": {
+        "name": "Veles",
+        "regions": [
+          "Veles"
+        ]
+      },
+      "VRA": {
+        "name": "Vrapčište",
+        "regions": [
+          "Vrapčište"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "CH": {
+    "divisions": {
+      "ZUR": {
+        "name": "Zurich",
+        "regions": [
+          "Zurich"
+        ]
+      },
+      "GEN": {
+        "name": "Geneva",
+        "regions": [
+          "Geneva"
+        ]
+      },
+      "BAS": {
+        "name": "Basel-Stadt",
+        "regions": [
+          "Basel-Stadt"
+        ]
+      },
+      "BER": {
+        "name": "Bern",
+        "regions": [
+          "Bern"
+        ]
+      },
+      "VAU": {
+        "name": "Vaud",
+        "regions": [
+          "Vaud"
+        ]
+      },
+      "TIC": {
+        "name": "Ticino",
+        "regions": [
+          "Ticino"
+        ]
+      },
+      "AAR": {
+        "name": "Aargau",
+        "regions": [
+          "Aargau"
+        ]
+      },
+      "LUZ": {
+        "name": "Luzern",
+        "regions": [
+          "Luzern"
+        ]
+      },
+      "SOL": {
+        "name": "Solothurn",
+        "regions": [
+          "Solothurn"
+        ]
+      },
+      "VAL": {
+        "name": "Valais",
+        "regions": [
+          "Valais"
+        ]
+      },
+      "GLA": {
+        "name": "Glarus",
+        "regions": [
+          "Glarus"
+        ]
+      },
+      "THU": {
+        "name": "Thurgau",
+        "regions": [
+          "Thurgau"
+        ]
+      },
+      "SCH": {
+        "name": "Schaffhausen",
+        "regions": [
+          "Schaffhausen"
+        ]
+      },
+      "FRI": {
+        "name": "Fribourg",
+        "regions": [
+          "Fribourg"
+        ]
+      },
+      "ST.GA": {
+        "name": "St. Gallen",
+        "regions": [
+          "St. Gallen"
+        ]
+      },
+      "APPAU": {
+        "name": "Appenzell Ausserrhoden",
+        "regions": [
+          "Appenzell Ausserrhoden"
+        ]
+      },
+      "APPIN": {
+        "name": "Appenzell Innerrhoden",
+        "regions": [
+          "Appenzell Innerrhoden"
+        ]
+      },
+      "GRA": {
+        "name": "Graubünden",
+        "regions": [
+          "Graubünden"
+        ]
+      },
+      "NEU": {
+        "name": "Neuchâtel",
+        "regions": [
+          "Neuchâtel"
+        ]
+      },
+      "SANGA": {
+        "name": "Sankt Gallen",
+        "regions": [
+          "Sankt Gallen"
+        ]
+      },
+      "SCH1": {
+        "name": "Schwyz",
+        "regions": [
+          "Schwyz"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "LI": {
+    "divisions": {
+      "VAD": {
+        "name": "Vaduz",
+        "regions": [
+          "Vaduz"
+        ]
+      },
+      "SCH": {
+        "name": "Schaan",
+        "regions": [
+          "Schaan"
+        ]
+      },
+      "TRI": {
+        "name": "Triesen",
+        "regions": [
+          "Triesen"
+        ]
+      },
+      "BAL": {
+        "name": "Balzers",
+        "regions": [
+          "Balzers"
+        ]
+      },
+      "ESC": {
+        "name": "Eschen",
+        "regions": [
+          "Eschen"
+        ]
+      },
+      "MAU": {
+        "name": "Mauren",
+        "regions": [
+          "Mauren"
+        ]
+      },
+      "TRI1": {
+        "name": "Triesenberg",
+        "regions": [
+          "Triesenberg"
+        ]
+      },
+      "RUG": {
+        "name": "Ruggell",
+        "regions": [
+          "Ruggell"
+        ]
+      },
+      "GAM": {
+        "name": "Gamprin",
+        "regions": [
+          "Gamprin"
+        ]
+      },
+      "SCH1": {
+        "name": "Schellenberg",
+        "regions": [
+          "Schellenberg"
+        ]
+      },
+      "PLA": {
+        "name": "Planken",
+        "regions": [
+          "Planken"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "MC": {
+    "divisions": {
+      "MON": {
+        "name": "Monaco-Ville",
+        "regions": [
+          "Monaco-Ville"
+        ]
+      },
+      "LACON": {
+        "name": "La Condamine",
+        "regions": [
+          "La Condamine"
+        ]
+      },
+      "MONCA": {
+        "name": "Monte Carlo",
+        "regions": [
+          "Monte Carlo"
+        ]
+      },
+      "FON": {
+        "name": "Fontvieille",
+        "regions": [
+          "Fontvieille"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "SM": {
+    "divisions": {
+      "SANMA": {
+        "name": "San Marino",
+        "regions": [
+          "San Marino"
+        ]
+      },
+      "BORMA": {
+        "name": "Borgo Maggiore",
+        "regions": [
+          "Borgo Maggiore"
+        ]
+      },
+      "DOM": {
+        "name": "Domagnano",
+        "regions": [
+          "Domagnano"
+        ]
+      },
+      "FAE": {
+        "name": "Faetano",
+        "regions": [
+          "Faetano"
+        ]
+      },
+      "FIO": {
+        "name": "Fiorentino",
+        "regions": [
+          "Fiorentino"
+        ]
+      },
+      "MON": {
+        "name": "Montegiardino",
+        "regions": [
+          "Montegiardino"
+        ]
+      },
+      "SER": {
+        "name": "Serravalle",
+        "regions": [
+          "Serravalle"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "VA": {
+    "divisions": {
+      "VATCI": {
+        "name": "Vatican City",
+        "regions": [
+          "Vatican City"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "IE": {
+    "divisions": {
+      "LEI": {
+        "name": "Leinster",
+        "regions": [
+          "Leinster"
+        ]
+      },
+      "MUN": {
+        "name": "Munster",
+        "regions": [
+          "Munster"
+        ]
+      },
+      "CON": {
+        "name": "Connacht",
+        "regions": [
+          "Connacht"
+        ]
+      },
+      "ULS": {
+        "name": "Ulster",
+        "regions": [
+          "Ulster"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "MT": {
+    "divisions": {
+      "MAL": {
+        "name": "Malta",
+        "regions": [
+          "Malta"
+        ]
+      },
+      "GOZ": {
+        "name": "Gozo",
+        "regions": [
+          "Gozo"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "CY": {
+    "divisions": {
+      "FAM": {
+        "name": "Famagusta",
+        "regions": [
+          "Famagusta"
+        ]
+      },
+      "KYR": {
+        "name": "Kyrenia",
+        "regions": [
+          "Kyrenia"
+        ]
+      },
+      "LAR": {
+        "name": "Larnaca",
+        "regions": [
+          "Larnaca"
+        ]
+      },
+      "LIM": {
+        "name": "Limassol",
+        "regions": [
+          "Limassol"
+        ]
+      },
+      "NIC": {
+        "name": "Nicosia",
+        "regions": [
+          "Nicosia"
+        ]
+      },
+      "PAP": {
+        "name": "Paphos",
+        "regions": [
+          "Paphos"
+        ]
+      }
+    },
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "LU": {
+    "divisions": {
+      "Diekirch": {
+        "name": "Diekirch",
+        "regions": [
+          "Diekirch"
+        ]
+      },
+      "Clervaux": {
+        "name": "Clervaux",
+        "regions": [
+          "Clervaux"
+        ]
+      },
+      "Redange": {
+        "name": "Redange",
+        "regions": [
+          "Redange"
+        ]
+      },
+      "Vianden": {
+        "name": "Vianden",
+        "regions": [
+          "Vianden"
+        ]
+      },
+      "Wiltz": {
+        "name": "Wiltz",
+        "regions": [
+          "Wiltz"
+        ]
+      },
+      "Echternach": {
+        "name": "Echternach",
+        "regions": [
+          "Echternach"
+        ]
+      },
+      "Grevenmacher": {
+        "name": "Grevenmacher",
+        "regions": [
+          "Grevenmacher"
+        ]
+      },
+      "Remich": {
+        "name": "Remich",
+        "regions": [
+          "Remich"
+        ]
+      },
+      "Luxembourg": {
+        "name": "Luxembourg",
+        "regions": [
+          "Luxembourg"
+        ]
+      },
+      "Mersch": {
+        "name": "Mersch",
+        "regions": [
+          "Mersch"
+        ]
+      },
+      "Capellen": {
+        "name": "Capellen",
+        "regions": [
+          "Capellen"
+        ]
+      },
+      "Esch-sur-Alzette": {
+        "name": "Esch-sur-Alzette",
+        "regions": [
+          "Esch-sur-Alzette"
+        ]
+      }
+    },
+    "regions": [
+      "Western Europe"
+    ]
+  },
+  "BY": {
+    "divisions": {
+      "BREST": {
+        "name": "Brest Region",
+        "regions": [
+          "Brest Region"
+        ]
+      },
+      "VITEB": {
+        "name": "Vitebsk Region",
+        "regions": [
+          "Vitebsk Region"
+        ]
+      },
+      "GOMEL": {
+        "name": "Gomel Region",
+        "regions": [
+          "Gomel Region"
+        ]
+      },
+      "GRODN": {
+        "name": "Grodno Region",
+        "regions": [
+          "Grodno Region"
+        ]
+      },
+      "MOGIL": {
+        "name": "Mogilev Region",
+        "regions": [
+          "Mogilev Region"
+        ]
+      },
+      "MINSKREG": {
+        "name": "Minsk Region",
+        "regions": [
+          "Minsk Region"
+        ]
+      },
+      "MINSK": {
+        "name": "Minsk City",
+        "regions": [
+          "Minsk City"
+        ]
+      }
+    },
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "UA": {
+    "divisions": {
+      "CHER": {
+        "name": "Cherkasy Oblast",
+        "regions": [
+          "Cherkasy Oblast"
+        ]
+      },
+      "CHERN": {
+        "name": "Chernihiv Oblast",
+        "regions": [
+          "Chernihiv Oblast"
+        ]
+      },
+      "CHERV": {
+        "name": "Chernivtsi Oblast",
+        "regions": [
+          "Chernivtsi Oblast"
+        ]
+      },
+      "DNIPR": {
+        "name": "Dnipropetrovsk Oblast",
+        "regions": [
+          "Dnipropetrovsk Oblast"
+        ]
+      },
+      "DONET": {
+        "name": "Donetsk Oblast",
+        "regions": [
+          "Donetsk Oblast"
+        ]
+      },
+      "IVANO": {
+        "name": "Ivano-Frankivsk Oblast",
+        "regions": [
+          "Ivano-Frankivsk Oblast"
+        ]
+      },
+      "KHARK": {
+        "name": "Kharkiv Oblast",
+        "regions": [
+          "Kharkiv Oblast"
+        ]
+      },
+      "KHERS": {
+        "name": "Kherson Oblast",
+        "regions": [
+          "Kherson Oblast"
+        ]
+      },
+      "KHMLT": {
+        "name": "Khmelnytskyi Oblast",
+        "regions": [
+          "Khmelnytskyi Oblast"
+        ]
+      },
+      "KIEV": {
+        "name": "Kiev Oblast",
+        "regions": [
+          "Kiev Oblast"
+        ]
+      },
+      "KIRO": {
+        "name": "Kirovohrad Oblast",
+        "regions": [
+          "Kirovohrad Oblast"
+        ]
+      },
+      "LUHAN": {
+        "name": "Luhansk Oblast",
+        "regions": [
+          "Luhansk Oblast"
+        ]
+      },
+      "LVIV": {
+        "name": "Lviv Oblast",
+        "regions": [
+          "Lviv Oblast"
+        ]
+      },
+      "MYKO": {
+        "name": "Mykolaiv Oblast",
+        "regions": [
+          "Mykolaiv Oblast"
+        ]
+      },
+      "ODESS": {
+        "name": "Odessa Oblast",
+        "regions": [
+          "Odessa Oblast"
+        ]
+      },
+      "POLTA": {
+        "name": "Poltava Oblast",
+        "regions": [
+          "Poltava Oblast"
+        ]
+      },
+      "RIVN": {
+        "name": "Rivne Oblast",
+        "regions": [
+          "Rivne Oblast"
+        ]
+      },
+      "SEVAS": {
+        "name": "Sevastopol",
+        "regions": [
+          "Sevastopol"
+        ]
+      },
+      "SUMY": {
+        "name": "Sumy Oblast",
+        "regions": [
+          "Sumy Oblast"
+        ]
+      },
+      "TERN": {
+        "name": "Ternopil Oblast",
+        "regions": [
+          "Ternopil Oblast"
+        ]
+      },
+      "VINNY": {
+        "name": "Vinnytsia Oblast",
+        "regions": [
+          "Vinnytsia Oblast"
+        ]
+      },
+      "VOLYN": {
+        "name": "Volyn Oblast",
+        "regions": [
+          "Volyn Oblast"
+        ]
+      },
+      "ZAKAR": {
+        "name": "Zakarpattia Oblast",
+        "regions": [
+          "Zakarpattia Oblast"
+        ]
+      },
+      "ZAPOR": {
+        "name": "Zaporizhzhia Oblast",
+        "regions": [
+          "Zaporizhzhia Oblast"
+        ]
+      },
+      "ZHYTO": {
+        "name": "Zhytomyr Oblast",
+        "regions": [
+          "Zhytomyr Oblast"
+        ]
+      },
+      "CRIME": {
+        "name": "Autonomous Republic of Crimea",
+        "regions": [
+          "Autonomous Republic of Crimea"
+        ]
+      },
+      "KIEV-CITY": {
+        "name": "Kiev",
+        "regions": [
+          "Kiev"
+        ]
+      }
+    },
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "MD": {
+    "divisions": {
+      "ANENI": {
+        "name": "Anenii Noi",
+        "regions": [
+          "Anenii Noi"
+        ]
+      },
+      "BASAR": {
+        "name": "Basarabeasca",
+        "regions": [
+          "Basarabeasca"
+        ]
+      },
+      "BRICE": {
+        "name": "Briceni",
+        "regions": [
+          "Briceni"
+        ]
+      },
+      "CAHUL": {
+        "name": "Cahul",
+        "regions": [
+          "Cahul"
+        ]
+      },
+      "CANTEM": {
+        "name": "Cantemir",
+        "regions": [
+          "Cantemir"
+        ]
+      },
+      "CALAR": {
+        "name": "Călărași",
+        "regions": [
+          "Călărași"
+        ]
+      },
+      "CAUSEN": {
+        "name": "Căușeni",
+        "regions": [
+          "Căușeni"
+        ]
+      },
+      "CIMIS": {
+        "name": "Cimișlia",
+        "regions": [
+          "Cimișlia"
+        ]
+      },
+      "CRIUL": {
+        "name": "Criuleni",
+        "regions": [
+          "Criuleni"
+        ]
+      },
+      "DONDU": {
+        "name": "Dondușeni",
+        "regions": [
+          "Dondușeni"
+        ]
+      },
+      "DROCH": {
+        "name": "Drochia",
+        "regions": [
+          "Drochia"
+        ]
+      },
+      "DUBAS": {
+        "name": "Dubăsari",
+        "regions": [
+          "Dubăsari"
+        ]
+      },
+      "EDINE": {
+        "name": "Edineț",
+        "regions": [
+          "Edineț"
+        ]
+      },
+      "FALEST": {
+        "name": "Fălești",
+        "regions": [
+          "Fălești"
+        ]
+      },
+      "FLORE": {
+        "name": "Florești",
+        "regions": [
+          "Florești"
+        ]
+      },
+      "GAGAU": {
+        "name": "Gagauzia",
+        "regions": [
+          "Gagauzia"
+        ]
+      },
+      "GLoden": {
+        "name": "Glodeni",
+        "regions": [
+          "Glodeni"
+        ]
+      },
+      "HINC": {
+        "name": "Hîncești",
+        "regions": [
+          "Hîncești"
+        ]
+      },
+      "IALOV": {
+        "name": "Ialoveni",
+        "regions": [
+          "Ialoveni"
+        ]
+      },
+      "LEOVA": {
+        "name": "Leova",
+        "regions": [
+          "Leova"
+        ]
+      },
+      "NISPO": {
+        "name": "Nisporeni",
+        "regions": [
+          "Nisporeni"
+        ]
+      },
+      "OCNIT": {
+        "name": "Ocnița",
+        "regions": [
+          "Ocnița"
+        ]
+      },
+      "ORHEI": {
+        "name": "Orhei",
+        "regions": [
+          "Orhei"
+        ]
+      },
+      "REZIN": {
+        "name": "Rezina",
+        "regions": [
+          "Rezina"
+        ]
+      },
+      "RISC": {
+        "name": "Rîșcani",
+        "regions": [
+          "Rîșcani"
+        ]
+      },
+      "SING": {
+        "name": "Sîngerei",
+        "regions": [
+          "Sîngerei"
+        ]
+      },
+      "SOROC": {
+        "name": "Soroca",
+        "regions": [
+          "Soroca"
+        ]
+      },
+      "STIR": {
+        "name": "Stîrcea",
+        "regions": [
+          "Stîrcea"
+        ]
+      },
+      "STRAS": {
+        "name": "Strășeni",
+        "regions": [
+          "Strășeni"
+        ]
+      },
+      "TRANS": {
+        "name": "Transnistria",
+        "regions": [
+          "Transnistria"
+        ]
+      },
+      "TELEN": {
+        "name": "Telenești",
+        "regions": [
+          "Telenești"
+        ]
+      },
+      "UNGHE": {
+        "name": "Ungheni",
+        "regions": [
+          "Ungheni"
+        ]
+      },
+      "CHISIN": {
+        "name": "Chișinău",
+        "regions": [
+          "Chișinău"
+        ]
+      },
+      "BALT": {
+        "name": "Bălți",
+        "regions": [
+          "Bălți"
+        ]
+      },
+      "BENDER": {
+        "name": "Bender",
+        "regions": [
+          "Bender"
+        ]
+      }
+    },
+    "regions": [
+      "Eastern Europe"
+    ]
+  },
+  "AD": {
+    "divisions": {
+      "ANDORRA": {
+        "name": "Andorra la Vella",
+        "regions": [
+          "Andorra la Vella"
+        ]
+      },
+      "CANILLO": {
+        "name": "Canillo",
+        "regions": [
+          "Canillo"
+        ]
+      },
+      "ENCAMP": {
+        "name": "Encamp",
+        "regions": [
+          "Encamp"
+        ]
+      },
+      "ESCALD": {
+        "name": "Escaldes-Engordany",
+        "regions": [
+          "Escaldes-Engordany"
+        ]
+      },
+      "MASSANA": {
+        "name": "La Massana",
+        "regions": [
+          "La Massana"
+        ]
+      },
+      "ORDINO": {
+        "name": "Ordino",
+        "regions": [
+          "Ordino"
+        ]
+      },
+      "SANTJULIA": {
+        "name": "Sant Julià de Lòria",
+        "regions": [
+          "Sant Julià de Lòria"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "AX": {
+    "divisions": {
+      "ALAND": {
+        "name": "Åland Islands",
+        "regions": [
+          "Åland Islands"
+        ]
+      }
+    },
+    "regions": [
+      "Scandinavia"
+    ]
+  },
+  "GE": {
+    "divisions": {
+      "ABKHAZ": {
+        "name": "Abkhazia",
+        "regions": [
+          "Abkhazia"
+        ]
+      },
+      "ADJARA": {
+        "name": "Adjara",
+        "regions": [
+          "Adjara"
+        ]
+      },
+      "GURIA": {
+        "name": "Guria",
+        "regions": [
+          "Guria"
+        ]
+      },
+      "IMERE": {
+        "name": "Imereti",
+        "regions": [
+          "Imereti"
+        ]
+      },
+      "KAKHET": {
+        "name": "Kakheti",
+        "regions": [
+          "Kakheti"
+        ]
+      },
+      "KVEVKAR": {
+        "name": "Kvemo Kartli",
+        "regions": [
+          "Kvemo Kartli"
+        ]
+      },
+      "MTSKEH": {
+        "name": "Mtskheta-Mtianeti",
+        "regions": [
+          "Mtskheta-Mtianeti"
+        ]
+      },
+      "RACHAL": {
+        "name": "Racha-Lechkhumi and Kvemo Svaneti",
+        "regions": [
+          "Racha-Lechkhumi and Kvemo Svaneti"
+        ]
+      },
+      "SAMEGRE": {
+        "name": "Samegrelo-Zemo Svaneti",
+        "regions": [
+          "Samegrelo-Zemo Svaneti"
+        ]
+      },
+      "SAMTSKH": {
+        "name": "Samtskhe-Javakheti",
+        "regions": [
+          "Samtskhe-Javakheti"
+        ]
+      },
+      "SHIDKAR": {
+        "name": "Shida Kartli",
+        "regions": [
+          "Shida Kartli"
+        ]
+      },
+      "TBILISI": {
+        "name": "Tbilisi",
+        "regions": [
+          "Tbilisi"
+        ]
+      }
+    },
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "GI": {
+    "divisions": {
+      "GIBRALT": {
+        "name": "Gibraltar",
+        "regions": [
+          "Gibraltar"
+        ]
+      }
+    },
+    "regions": [
+      "Southern Europe"
+    ]
+  },
+  "IS": {
+    "divisions": {
+      "CAPITAL": {
+        "name": "Capital Region",
+        "regions": [
+          "Capital Region"
+        ]
+      },
+      "SOUTHERNPEN": {
+        "name": "Southern Peninsula",
+        "regions": [
+          "Southern Peninsula"
+        ]
+      },
+      "WEST": {
+        "name": "West",
+        "regions": [
+          "West"
+        ]
+      },
+      "WESTFJORD": {
+        "name": "Westfjords",
+        "regions": [
+          "Westfjords"
+        ]
+      },
+      "NW": {
+        "name": "Northwest",
+        "regions": [
+          "Northwest"
+        ]
+      },
+      "NE": {
+        "name": "Northeast",
+        "regions": [
+          "Northeast"
+        ]
+      },
+      "EAST": {
+        "name": "East",
+        "regions": [
+          "East"
+        ]
+      },
+      "SOUTH": {
+        "name": "South",
+        "regions": [
+          "South"
+        ]
+      }
+    },
+    "regions": [
+      "Scandinavia",
+      "Nordic Countries"
+    ]
+  },
+  "XK": {
+    "divisions": {
+      "PRISTINA": {
+        "name": "Pristina",
+        "regions": [
+          "Pristina"
+        ]
+      },
+      "PRIZREN": {
+        "name": "Prizren",
+        "regions": [
+          "Prizren"
+        ]
+      },
+      "GJAKOVA": {
+        "name": "Gjakova",
+        "regions": [
+          "Gjakova"
+        ]
+      },
+      "PEJA": {
+        "name": "Peja",
+        "regions": [
+          "Peja"
+        ]
+      },
+      "MITROVICA": {
+        "name": "Mitrovica",
+        "regions": [
+          "Mitrovica"
+        ]
+      },
+      "GJILAN": {
+        "name": "Gjilan",
+        "regions": [
+          "Gjilan"
+        ]
+      },
+      "FERIZAJ": {
+        "name": "Ferizaj",
+        "regions": [
+          "Ferizaj"
+        ]
+      }
+    },
+    "regions": [
+      "Balkans"
+    ]
+  },
+  "KP": {
+    "divisions": {
+      "CHAGANG": {
+        "name": "Chagang",
+        "regions": [
+          "Chagang"
+        ]
+      },
+      "HAMPNORTH": {
+        "name": "North Hamgyong",
+        "regions": [
+          "North Hamgyong"
+        ]
+      },
+      "HAMSOUTH": {
+        "name": "South Hamgyong",
+        "regions": [
+          "South Hamgyong"
+        ]
+      },
+      "KANGWON": {
+        "name": "Kangwon",
+        "regions": [
+          "Kangwon"
+        ]
+      },
+      "PYONGBONORTH": {
+        "name": "North Pyongan",
+        "regions": [
+          "North Pyongan"
+        ]
+      },
+      "PYONGBOSOUTH": {
+        "name": "South Pyongan",
+        "regions": [
+          "South Pyongan"
+        ]
+      },
+      "HWABONORTH": {
+        "name": "North Hwanghae",
+        "regions": [
+          "North Hwanghae"
+        ]
+      },
+      "HWABOSOUTH": {
+        "name": "South Hwanghae",
+        "regions": [
+          "South Hwanghae"
+        ]
+      },
+      "RYANGANG": {
+        "name": "Ryanggang",
+        "regions": [
+          "Ryanggang"
+        ]
+      },
+      "PYONGYANG": {
+        "name": "Pyongyang",
+        "regions": [
+          "Pyongyang"
+        ]
+      },
+      "RASON": {
+        "name": "Rason",
+        "regions": [
+          "Rason"
+        ]
+      },
+      "NAMPO": {
+        "name": "Nampo",
+        "regions": [
+          "Nampo"
+        ]
+      }
+    },
+    "regions": [
+      "Eastern Asia"
+    ]
+  },
+  "KR": {
+    "divisions": {
+      "SEOUL": {
+        "name": "Seoul",
+        "regions": [
+          "Seoul"
+        ]
+      },
+      "BUSAN": {
+        "name": "Busan",
+        "regions": [
+          "Busan"
+        ]
+      },
+      "DAEGU": {
+        "name": "Daegu",
+        "regions": [
+          "Daegu"
+        ]
+      },
+      "INCHEON": {
+        "name": "Incheon",
+        "regions": [
+          "Incheon"
+        ]
+      },
+      "GWANGJU": {
+        "name": "Gwangju",
+        "regions": [
+          "Gwangju"
+        ]
+      },
+      "DAEJEON": {
+        "name": "Daejeon",
+        "regions": [
+          "Daejeon"
+        ]
+      },
+      "ULSAN": {
+        "name": "Ulsan",
+        "regions": [
+          "Ulsan"
+        ]
+      },
+      "SEJONG": {
+        "name": "Sejong",
+        "regions": [
+          "Sejong"
+        ]
+      },
+      "GYEONGGI": {
+        "name": "Gyeonggi",
+        "regions": [
+          "Gyeonggi"
+        ]
+      },
+      "GANGWON": {
+        "name": "Gangwon",
+        "regions": [
+          "Gangwon"
+        ]
+      },
+      "CHUNGNORTH": {
+        "name": "North Chungcheong",
+        "regions": [
+          "North Chungcheong"
+        ]
+      },
+      "CHUNGSOUTH": {
+        "name": "South Chungcheong",
+        "regions": [
+          "South Chungcheong"
+        ]
+      },
+      "JEONLAKNORTH": {
+        "name": "North Jeolla",
+        "regions": [
+          "North Jeolla"
+        ]
+      },
+      "JEONLAKSOUTH": {
+        "name": "South Jeolla",
+        "regions": [
+          "South Jeolla"
+        ]
+      },
+      "GYEONGSBNORTH": {
+        "name": "North Gyeongsang",
+        "regions": [
+          "North Gyeongsang"
+        ]
+      },
+      "GYEONGBSOUTH": {
+        "name": "South Gyeongsang",
+        "regions": [
+          "South Gyeongsang"
+        ]
+      }
+    },
+    "regions": [
+      "Eastern Asia"
+    ]
+  },
+  "MY": {
+    "divisions": {
+      "JOHOR": {
+        "name": "Johor",
+        "regions": [
+          "Johor"
+        ]
+      },
+      "KEDAH": {
+        "name": "Kedah",
+        "regions": [
+          "Kedah"
+        ]
+      },
+      "KELANTAN": {
+        "name": "Kelantan",
+        "regions": [
+          "Kelantan"
+        ]
+      },
+      "MELAKA": {
+        "name": "Malacca",
+        "regions": [
+          "Malacca"
+        ]
+      },
+      "NSEM": {
+        "name": "Negeri Sembilan",
+        "regions": [
+          "Negeri Sembilan"
+        ]
+      },
+      "PAHANG": {
+        "name": "Pahang",
+        "regions": [
+          "Pahang"
+        ]
+      },
+      "PENANG": {
+        "name": "Penang",
+        "regions": [
+          "Penang"
+        ]
+      },
+      "PERAK": {
+        "name": "Perak",
+        "regions": [
+          "Perak"
+        ]
+      },
+      "PERLIS": {
+        "name": "Perlis",
+        "regions": [
+          "Perlis"
+        ]
+      },
+      "SABAH": {
+        "name": "Sabah",
+        "regions": [
+          "Sabah"
+        ]
+      },
+      "SARAWAK": {
+        "name": "Sarawak",
+        "regions": [
+          "Sarawak"
+        ]
+      },
+      "SELANGOR": {
+        "name": "Selangor",
+        "regions": [
+          "Selangor"
+        ]
+      },
+      "TERENGGANU": {
+        "name": "Terengganu",
+        "regions": [
+          "Terengganu"
+        ]
+      },
+      "KL": {
+        "name": "Kuala Lumpur",
+        "regions": [
+          "Kuala Lumpur"
+        ]
+      },
+      "LABUAN": {
+        "name": "Labuan",
+        "regions": [
+          "Labuan"
+        ]
+      },
+      "PUTRAJAYA": {
+        "name": "Putrajaya",
+        "regions": [
+          "Putrajaya"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "SG": {
+    "divisions": {
+      "SINGAPOR": {
+        "name": "Singapore",
+        "regions": [
+          "Singapore"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "TH": {
+    "divisions": {
+      "AMNATCHA": {
+        "name": "Amnat Charoen",
+        "regions": [
+          "Amnat Charoen"
+        ]
+      },
+      "ANGTHONG": {
+        "name": "Ang Thong",
+        "regions": [
+          "Ang Thong"
+        ]
+      },
+      "BUENGKAN": {
+        "name": "Bueng Kan",
+        "regions": [
+          "Bueng Kan"
+        ]
+      },
+      "BANGKOK": {
+        "name": "Bangkok",
+        "regions": [
+          "Bangkok"
+        ]
+      },
+      "CHAINAT": {
+        "name": "Chai Nat",
+        "regions": [
+          "Chai Nat"
+        ]
+      },
+      "CHAIYAPH": {
+        "name": "Chaiyaphum",
+        "regions": [
+          "Chaiyaphum"
+        ]
+      },
+      "CHANTHAB": {
+        "name": "Chanthaburi",
+        "regions": [
+          "Chanthaburi"
+        ]
+      },
+      "CHIANGMA": {
+        "name": "Chiang Mai",
+        "regions": [
+          "Chiang Mai"
+        ]
+      },
+      "CHIANGRA": {
+        "name": "Chiang Rai",
+        "regions": [
+          "Chiang Rai"
+        ]
+      },
+      "CHONBURI": {
+        "name": "Chonburi",
+        "regions": [
+          "Chonburi"
+        ]
+      },
+      "CHUMPHON": {
+        "name": "Chumphon",
+        "regions": [
+          "Chumphon"
+        ]
+      },
+      "KALASIN": {
+        "name": "Kalasin",
+        "regions": [
+          "Kalasin"
+        ]
+      },
+      "KAMPHAEN": {
+        "name": "Kamphaeng Phet",
+        "regions": [
+          "Kamphaeng Phet"
+        ]
+      },
+      "KANCHANA": {
+        "name": "Kanchanaburi",
+        "regions": [
+          "Kanchanaburi"
+        ]
+      },
+      "KHONKAEN": {
+        "name": "Khon Kaen",
+        "regions": [
+          "Khon Kaen"
+        ]
+      },
+      "KRABI": {
+        "name": "Krabi",
+        "regions": [
+          "Krabi"
+        ]
+      },
+      "LAMPANG": {
+        "name": "Lampang",
+        "regions": [
+          "Lampang"
+        ]
+      },
+      "LAMPHUN": {
+        "name": "Lamphun",
+        "regions": [
+          "Lamphun"
+        ]
+      },
+      "LOEI": {
+        "name": "Loei",
+        "regions": [
+          "Loei"
+        ]
+      },
+      "LOPBURI": {
+        "name": "Lopburi",
+        "regions": [
+          "Lopburi"
+        ]
+      },
+      "MAEHONGS": {
+        "name": "Mae Hong Son",
+        "regions": [
+          "Mae Hong Son"
+        ]
+      },
+      "MAHASARA": {
+        "name": "Maha Sarakham",
+        "regions": [
+          "Maha Sarakham"
+        ]
+      },
+      "MUKDAHAN": {
+        "name": "Mukdahan",
+        "regions": [
+          "Mukdahan"
+        ]
+      },
+      "NAKHONNA": {
+        "name": "Nakhon Nayok",
+        "regions": [
+          "Nakhon Nayok"
+        ]
+      },
+      "NAKHONPA": {
+        "name": "Nakhon Pathom",
+        "regions": [
+          "Nakhon Pathom"
+        ]
+      },
+      "NAKHONPH": {
+        "name": "Nakhon Phanom",
+        "regions": [
+          "Nakhon Phanom"
+        ]
+      },
+      "NAKHONRA": {
+        "name": "Nakhon Ratchasima",
+        "regions": [
+          "Nakhon Ratchasima"
+        ]
+      },
+      "NAKHONSA": {
+        "name": "Nakhon Sawan",
+        "regions": [
+          "Nakhon Sawan"
+        ]
+      },
+      "NAKHONSI": {
+        "name": "Nakhon Si Thammarat",
+        "regions": [
+          "Nakhon Si Thammarat"
+        ]
+      },
+      "NAN": {
+        "name": "Nan",
+        "regions": [
+          "Nan"
+        ]
+      },
+      "NARATHIW": {
+        "name": "Narathiwat",
+        "regions": [
+          "Narathiwat"
+        ]
+      },
+      "NONGBUAL": {
+        "name": "Nong Bua Lam Phu",
+        "regions": [
+          "Nong Bua Lam Phu"
+        ]
+      },
+      "NONGKHAI": {
+        "name": "Nong Khai",
+        "regions": [
+          "Nong Khai"
+        ]
+      },
+      "NONTHABU": {
+        "name": "Nonthaburi",
+        "regions": [
+          "Nonthaburi"
+        ]
+      },
+      "PATHUMTH": {
+        "name": "Pathum Thani",
+        "regions": [
+          "Pathum Thani"
+        ]
+      },
+      "PATTANI": {
+        "name": "Pattani",
+        "regions": [
+          "Pattani"
+        ]
+      },
+      "PHANGNGA": {
+        "name": "Phang Nga",
+        "regions": [
+          "Phang Nga"
+        ]
+      },
+      "PHATTHAL": {
+        "name": "Phatthalung",
+        "regions": [
+          "Phatthalung"
+        ]
+      },
+      "PHAYAO": {
+        "name": "Phayao",
+        "regions": [
+          "Phayao"
+        ]
+      },
+      "PHETCHAB": {
+        "name": "Phetchaburi",
+        "regions": [
+          "Phetchaburi"
+        ]
+      },
+      "PHICHIT": {
+        "name": "Phichit",
+        "regions": [
+          "Phichit"
+        ]
+      },
+      "PHITSANU": {
+        "name": "Phitsanulok",
+        "regions": [
+          "Phitsanulok"
+        ]
+      },
+      "PHRANAKH": {
+        "name": "Phra Nakhon Si Ayutthaya",
+        "regions": [
+          "Phra Nakhon Si Ayutthaya"
+        ]
+      },
+      "PHRAE": {
+        "name": "Phrae",
+        "regions": [
+          "Phrae"
+        ]
+      },
+      "PHUKET": {
+        "name": "Phuket",
+        "regions": [
+          "Phuket"
+        ]
+      },
+      "PRACHINB": {
+        "name": "Prachin Buri",
+        "regions": [
+          "Prachin Buri"
+        ]
+      },
+      "PRACHUAP": {
+        "name": "Prachuap Khiri Khan",
+        "regions": [
+          "Prachuap Khiri Khan"
+        ]
+      },
+      "RANONG": {
+        "name": "Ranong",
+        "regions": [
+          "Ranong"
+        ]
+      },
+      "RATCHABU": {
+        "name": "Ratchaburi",
+        "regions": [
+          "Ratchaburi"
+        ]
+      },
+      "RAYONG": {
+        "name": "Rayong",
+        "regions": [
+          "Rayong"
+        ]
+      },
+      "ROIET": {
+        "name": "Roi Et",
+        "regions": [
+          "Roi Et"
+        ]
+      },
+      "SAKAEO": {
+        "name": "Sa Kaeo",
+        "regions": [
+          "Sa Kaeo"
+        ]
+      },
+      "SAKONNAK": {
+        "name": "Sakon Nakhon",
+        "regions": [
+          "Sakon Nakhon"
+        ]
+      },
+      "SAMUTPRA": {
+        "name": "Samut Prakan",
+        "regions": [
+          "Samut Prakan"
+        ]
+      },
+      "SAMUTSAK": {
+        "name": "Samut Sakhon",
+        "regions": [
+          "Samut Sakhon"
+        ]
+      },
+      "SAMUTSON": {
+        "name": "Samut Songkhram",
+        "regions": [
+          "Samut Songkhram"
+        ]
+      },
+      "SARABURI": {
+        "name": "Saraburi",
+        "regions": [
+          "Saraburi"
+        ]
+      },
+      "SATUN": {
+        "name": "Satun",
+        "regions": [
+          "Satun"
+        ]
+      },
+      "SINGBURI": {
+        "name": "Sing Buri",
+        "regions": [
+          "Sing Buri"
+        ]
+      },
+      "SISAKET": {
+        "name": "Sisaket",
+        "regions": [
+          "Sisaket"
+        ]
+      },
+      "SONGKHLA": {
+        "name": "Songkhla",
+        "regions": [
+          "Songkhla"
+        ]
+      },
+      "SUKHOTHA": {
+        "name": "Sukhothai",
+        "regions": [
+          "Sukhothai"
+        ]
+      },
+      "SUPHANBU": {
+        "name": "Suphan Buri",
+        "regions": [
+          "Suphan Buri"
+        ]
+      },
+      "SURATTHA": {
+        "name": "Surat Thani",
+        "regions": [
+          "Surat Thani"
+        ]
+      },
+      "SURIN": {
+        "name": "Surin",
+        "regions": [
+          "Surin"
+        ]
+      },
+      "TAK": {
+        "name": "Tak",
+        "regions": [
+          "Tak"
+        ]
+      },
+      "TRANG": {
+        "name": "Trang",
+        "regions": [
+          "Trang"
+        ]
+      },
+      "TRAT": {
+        "name": "Trat",
+        "regions": [
+          "Trat"
+        ]
+      },
+      "UBONRATC": {
+        "name": "Ubon Ratchathani",
+        "regions": [
+          "Ubon Ratchathani"
+        ]
+      },
+      "UDONTHAN": {
+        "name": "Udon Thani",
+        "regions": [
+          "Udon Thani"
+        ]
+      },
+      "UTHAITHA": {
+        "name": "Uthai Thani",
+        "regions": [
+          "Uthai Thani"
+        ]
+      },
+      "UTTARADI": {
+        "name": "Uttaradit",
+        "regions": [
+          "Uttaradit"
+        ]
+      },
+      "YALA": {
+        "name": "Yala",
+        "regions": [
+          "Yala"
+        ]
+      },
+      "YASOTHON": {
+        "name": "Yasothon",
+        "regions": [
+          "Yasothon"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "MM": {
+    "divisions": {
+      "KACHIN": {
+        "name": "Kachin",
+        "regions": [
+          "Kachin"
+        ]
+      },
+      "KAYAH": {
+        "name": "Kayah",
+        "regions": [
+          "Kayah"
+        ]
+      },
+      "KAYIN": {
+        "name": "Kayin",
+        "regions": [
+          "Kayin"
+        ]
+      },
+      "CHIN": {
+        "name": "Chin",
+        "regions": [
+          "Chin"
+        ]
+      },
+      "MON": {
+        "name": "Mon",
+        "regions": [
+          "Mon"
+        ]
+      },
+      "RAKHINE": {
+        "name": "Rakhine",
+        "regions": [
+          "Rakhine"
+        ]
+      },
+      "SHAN": {
+        "name": "Shan",
+        "regions": [
+          "Shan"
+        ]
+      },
+      "AYEYAR": {
+        "name": "Ayeyarwady",
+        "regions": [
+          "Ayeyarwady"
+        ]
+      },
+      "BAGO": {
+        "name": "Bago",
+        "regions": [
+          "Bago"
+        ]
+      },
+      "MAGWAY": {
+        "name": "Magway",
+        "regions": [
+          "Magway"
+        ]
+      },
+      "MANDALAY": {
+        "name": "Mandalay",
+        "regions": [
+          "Mandalay"
+        ]
+      },
+      "SAGAING": {
+        "name": "Sagaing",
+        "regions": [
+          "Sagaing"
+        ]
+      },
+      "TANINTH": {
+        "name": "Tanintharyi",
+        "regions": [
+          "Tanintharyi"
+        ]
+      },
+      "YANGON": {
+        "name": "Yangon",
+        "regions": [
+          "Yangon"
+        ]
+      },
+      "NAYPYID": {
+        "name": "Naypyidaw",
+        "regions": [
+          "Naypyidaw"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "LA": {
+    "divisions": {
+      "ATTA": {
+        "name": "Attapeu",
+        "regions": [
+          "Attapeu"
+        ]
+      },
+      "BOKEO": {
+        "name": "Bokeo",
+        "regions": [
+          "Bokeo"
+        ]
+      },
+      "BOLIKH": {
+        "name": "Bolikhamsai",
+        "regions": [
+          "Bolikhamsai"
+        ]
+      },
+      "CHAMPAS": {
+        "name": "Champasak",
+        "regions": [
+          "Champasak"
+        ]
+      },
+      "HOUAPH": {
+        "name": "Houaphanh",
+        "regions": [
+          "Houaphanh"
+        ]
+      },
+      "KHAMMOU": {
+        "name": "Khammouane",
+        "regions": [
+          "Khammouane"
+        ]
+      },
+      "LUANGNAM": {
+        "name": "Luang Namtha",
+        "regions": [
+          "Luang Namtha"
+        ]
+      },
+      "LUANGBP": {
+        "name": "Luang Prabang",
+        "regions": [
+          "Luang Prabang"
+        ]
+      },
+      "OUDOMX": {
+        "name": "Oudomxay",
+        "regions": [
+          "Oudomxay"
+        ]
+      },
+      "PHONGS": {
+        "name": "Phongsaly",
+        "regions": [
+          "Phongsaly"
+        ]
+      },
+      "SALAVAN": {
+        "name": "Salavan",
+        "regions": [
+          "Salavan"
+        ]
+      },
+      "SAVANNA": {
+        "name": "Savannakhet",
+        "regions": [
+          "Savannakhet"
+        ]
+      },
+      "SEKONG": {
+        "name": "Sekong",
+        "regions": [
+          "Sekong"
+        ]
+      },
+      "VIENTP": {
+        "name": "Vientiane Province",
+        "regions": [
+          "Vientiane Province"
+        ]
+      },
+      "XAI": {
+        "name": "Xaisomboun",
+        "regions": [
+          "Xaisomboun"
+        ]
+      },
+      "XAYABUR": {
+        "name": "Xayaburi",
+        "regions": [
+          "Xayaburi"
+        ]
+      },
+      "XIENGK": {
+        "name": "Xieng Khouang",
+        "regions": [
+          "Xieng Khouang"
+        ]
+      },
+      "VIENTJ": {
+        "name": "Vientiane Prefecture",
+        "regions": [
+          "Vientiane"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "BN": {
+    "divisions": {
+      "BRUNEM": {
+        "name": "Brunei-Muara",
+        "regions": [
+          "Brunei-Muara"
+        ]
+      },
+      "BELAIT": {
+        "name": "Belait",
+        "regions": [
+          "Belait"
+        ]
+      },
+      "TEMBUR": {
+        "name": "Temburong",
+        "regions": [
+          "Temburong"
+        ]
+      },
+      "TUTONG": {
+        "name": "Tutong",
+        "regions": [
+          "Tutong"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "TL": {
+    "divisions": {
+      "AILEU": {
+        "name": "Aileu",
+        "regions": [
+          "Aileu"
+        ]
+      },
+      "AINARO": {
+        "name": "Ainaro",
+        "regions": [
+          "Ainaro"
+        ]
+      },
+      "BAUCAU": {
+        "name": "Baucau",
+        "regions": [
+          "Baucau"
+        ]
+      },
+      "BOBONAR": {
+        "name": "Bobonaro",
+        "regions": [
+          "Bobonaro"
+        ]
+      },
+      "COVAI": {
+        "name": "Cova Lima",
+        "regions": [
+          "Cova Lima"
+        ]
+      },
+      "DILI": {
+        "name": "Dili",
+        "regions": [
+          "Dili"
+        ]
+      },
+      "ERME": {
+        "name": "Ermera",
+        "regions": [
+          "Ermera"
+        ]
+      },
+      "LAUTEM": {
+        "name": "Lautém",
+        "regions": [
+          "Lautém"
+        ]
+      },
+      "LIQUI": {
+        "name": "Liquiçá",
+        "regions": [
+          "Liquiçá"
+        ]
+      },
+      "MANUFA": {
+        "name": "Manufahi",
+        "regions": [
+          "Manufahi"
+        ]
+      },
+      "MANATU": {
+        "name": "Manatuto",
+        "regions": [
+          "Manatuto"
+        ]
+      },
+      "VIQUE": {
+        "name": "Viqueque",
+        "regions": [
+          "Viqueque"
+        ]
+      },
+      "OECUSSE": {
+        "name": "Oecusse",
+        "regions": [
+          "Oecusse"
+        ]
+      }
+    },
+    "regions": [
+      "South-Eastern Asia"
+    ]
+  },
+  "KZ": {
+    "divisions": {
+      "ALM": {
+        "name": "Almaty",
+        "regions": [
+          "Almaty"
+        ]
+      },
+      "AST": {
+        "name": "Nur-Sultan",
+        "regions": [
+          "Nur-Sultan"
+        ]
+      },
+      "SHYM": {
+        "name": "Shymkent",
+        "regions": [
+          "Shymkent"
+        ]
+      },
+      "AKMO": {
+        "name": "Akmola",
+        "regions": [
+          "Akmola"
+        ]
+      },
+      "AKTO": {
+        "name": "Aktobe",
+        "regions": [
+          "Aktobe"
+        ]
+      },
+      "ATYR": {
+        "name": "Atyrau",
+        "regions": [
+          "Atyrau"
+        ]
+      },
+      "KARAG": {
+        "name": "Karaganda",
+        "regions": [
+          "Karaganda"
+        ]
+      },
+      "KOST": {
+        "name": "Kostanay",
+        "regions": [
+          "Kostanay"
+        ]
+      },
+      "KYZY": {
+        "name": "Kyzylorda",
+        "regions": [
+          "Kyzylorda"
+        ]
+      },
+      "MANGS": {
+        "name": "Mangystau",
+        "regions": [
+          "Mangystau"
+        ]
+      },
+      "PAV": {
+        "name": "Pavlodar",
+        "regions": [
+          "Pavlodar"
+        ]
+      },
+      "TURK": {
+        "name": "Turkestan",
+        "regions": [
+          "Turkestan"
+        ]
+      },
+      "VOST": {
+        "name": "East Kazakhstan",
+        "regions": [
+          "East Kazakhstan"
+        ]
+      },
+      "SEVZ": {
+        "name": "North Kazakhstan",
+        "regions": [
+          "North Kazakhstan"
+        ]
+      },
+      "ZAPAD": {
+        "name": "West Kazakhstan",
+        "regions": [
+          "West Kazakhstan"
+        ]
+      },
+      "YUZH": {
+        "name": "South Kazakhstan",
+        "regions": [
+          "South Kazakhstan"
+        ]
+      }
+    },
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "KG": {
+    "divisions": {
+      "BISH": {
+        "name": "Bishkek",
+        "regions": [
+          "Bishkek"
+        ]
+      },
+      "OSH": {
+        "name": "Osh",
+        "regions": [
+          "Osh"
+        ]
+      },
+      "BATK": {
+        "name": "Batken",
+        "regions": [
+          "Batken"
+        ]
+      },
+      "CHUY": {
+        "name": "Chuy",
+        "regions": [
+          "Chuy"
+        ]
+      },
+      "JALA": {
+        "name": "Jalal-Abad",
+        "regions": [
+          "Jalal-Abad"
+        ]
+      },
+      "NARY": {
+        "name": "Naryn",
+        "regions": [
+          "Naryn"
+        ]
+      },
+      "OSHREG": {
+        "name": "Osh Region",
+        "regions": [
+          "Osh Region"
+        ]
+      },
+      "TALAS": {
+        "name": "Talas",
+        "regions": [
+          "Talas"
+        ]
+      },
+      "ISSYK": {
+        "name": "Issyk-Kul",
+        "regions": [
+          "Issyk-Kul"
+        ]
+      }
+    },
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "TJ": {
+    "divisions": {
+      "DUSH": {
+        "name": "Dushanbe",
+        "regions": [
+          "Dushanbe"
+        ]
+      },
+      "SUGH": {
+        "name": "Sughd",
+        "regions": [
+          "Sughd"
+        ]
+      },
+      "KHAT": {
+        "name": "Khatlon",
+        "regions": [
+          "Khatlon"
+        ]
+      },
+      "GBAO": {
+        "name": "Gorno-Badakhshan",
+        "regions": [
+          "Gorno-Badakhshan"
+        ]
+      }
+    },
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "TM": {
+    "divisions": {
+      "ASH": {
+        "name": "Ashgabat",
+        "regions": [
+          "Ashgabat"
+        ]
+      },
+      "AHAL": {
+        "name": "Ahal",
+        "regions": [
+          "Ahal"
+        ]
+      },
+      "BALK": {
+        "name": "Balkan",
+        "regions": [
+          "Balkan"
+        ]
+      },
+      "DASH": {
+        "name": "Dashoguz",
+        "regions": [
+          "Dashoguz"
+        ]
+      },
+      "LEBA": {
+        "name": "Lebap",
+        "regions": [
+          "Lebap"
+        ]
+      },
+      "MARY": {
+        "name": "Mary",
+        "regions": [
+          "Mary"
+        ]
+      }
+    },
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "UZ": {
+    "divisions": {
+      "TASH": {
+        "name": "Tashkent",
+        "regions": [
+          "Tashkent"
+        ]
+      },
+      "ANDI": {
+        "name": "Andijan",
+        "regions": [
+          "Andijan"
+        ]
+      },
+      "BUKH": {
+        "name": "Bukhara",
+        "regions": [
+          "Bukhara"
+        ]
+      },
+      "FERG": {
+        "name": "Fergana",
+        "regions": [
+          "Fergana"
+        ]
+      },
+      "JIZZ": {
+        "name": "Jizzakh",
+        "regions": [
+          "Jizzakh"
+        ]
+      },
+      "NAMA": {
+        "name": "Namangan",
+        "regions": [
+          "Namangan"
+        ]
+      },
+      "NAV": {
+        "name": "Navoiy",
+        "regions": [
+          "Navoiy"
+        ]
+      },
+      "QASH": {
+        "name": "Qashqadaryo",
+        "regions": [
+          "Qashqadaryo"
+        ]
+      },
+      "SAM": {
+        "name": "Samarkand",
+        "regions": [
+          "Samarkand"
+        ]
+      },
+      "SURX": {
+        "name": "Surxondaryo",
+        "regions": [
+          "Surxondaryo"
+        ]
+      },
+      "SYR": {
+        "name": "Syrdarya",
+        "regions": [
+          "Syrdarya"
+        ]
+      },
+      "KHOR": {
+        "name": "Khorezm",
+        "regions": [
+          "Khorezm"
+        ]
+      },
+      "KARA": {
+        "name": "Karakalpakstan",
+        "regions": [
+          "Karakalpakstan"
+        ]
+      }
+    },
+    "regions": [
+      "Central Asia"
+    ]
+  },
+  "MN": {
+    "divisions": {
+      "ULAANB": {
+        "name": "Ulaanbaatar",
+        "regions": [
+          "Ulaanbaatar"
+        ]
+      },
+      "ARKH": {
+        "name": "Arkhangai",
+        "regions": [
+          "Arkhangai"
+        ]
+      },
+      "BAYAO": {
+        "name": "Bayan-Olgii",
+        "regions": [
+          "Bayan-Olgii"
+        ]
+      },
+      "BAYANH": {
+        "name": "Bayankhongor",
+        "regions": [
+          "Bayankhongor"
+        ]
+      },
+      "BULG": {
+        "name": "Bulgan",
+        "regions": [
+          "Bulgan"
+        ]
+      },
+      "DARKH": {
+        "name": "Darkhan-Uul",
+        "regions": [
+          "Darkhan-Uul"
+        ]
+      },
+      "DORN": {
+        "name": "Dornod",
+        "regions": [
+          "Dornod"
+        ]
+      },
+      "DORNO": {
+        "name": "Dornogovi",
+        "regions": [
+          "Dornogovi"
+        ]
+      },
+      "DUND": {
+        "name": "Dundgovi",
+        "regions": [
+          "Dundgovi"
+        ]
+      },
+      "ZAVK": {
+        "name": "Zavkhan",
+        "regions": [
+          "Zavkhan"
+        ]
+      },
+      "OVORK": {
+        "name": "Ovorkhangai",
+        "regions": [
+          "Ovorkhangai"
+        ]
+      },
+      "SELE": {
+        "name": "Selenge",
+        "regions": [
+          "Selenge"
+        ]
+      },
+      "TUV": {
+        "name": "Töv",
+        "regions": [
+          "Töv"
+        ]
+      },
+      "UVS": {
+        "name": "Uvs",
+        "regions": [
+          "Uvs"
+        ]
+      },
+      "KHOV": {
+        "name": "Khovd",
+        "regions": [
+          "Khovd"
+        ]
+      },
+      "KHENT": {
+        "name": "Khentii",
+        "regions": [
+          "Khentii"
+        ]
+      },
+      "UMNU": {
+        "name": "Umnugovi",
+        "regions": [
+          "Umnugovi"
+        ]
+      },
+      "GOVI": {
+        "name": "Govi-Altai",
+        "regions": [
+          "Govi-Altai"
+        ]
+      },
+      "KHOVG": {
+        "name": "Khövsgöl",
+        "regions": [
+          "Khövsgöl"
+        ]
+      },
+      "ORKHON": {
+        "name": "Orkhon",
+        "regions": [
+          "Orkhon"
+        ]
+      },
+      "GOVIS": {
+        "name": "Govi-Sumber",
+        "regions": [
+          "Govi-Sumber"
+        ]
+      }
+    },
+    "regions": [
+      "East Asia"
+    ]
+  },
+  "AF": {
+    "divisions": {
+      "KAB": {
+        "name": "Kabul"
+      },
+      "KAN": {
+        "name": "Kandahar"
+      },
+      "HEL": {
+        "name": "Helmand"
+      },
+      "URA": {
+        "name": "Uruzgan"
+      },
+      "HER": {
+        "name": "Herat"
+      },
+      "BAL": {
+        "name": "Balkh"
+      },
+      "NAN": {
+        "name": "Nangarhar"
+      },
+      "KND": {
+        "name": "Kunduz"
+      },
+      "FAO": {
+        "name": "Farah"
+      },
+      "GHA": {
+        "name": "Ghazni"
+      },
+      "LOG": {
+        "name": "Logar"
+      },
+      "PAN": {
+        "name": "Panjshir"
+      },
+      "PAR": {
+        "name": "Parwan"
+      },
+      "SAM": {
+        "name": "Samangan"
+      },
+      "WAR": {
+        "name": "Wardak"
+      }
+    },
+    "regions": [
+      "Southern Asia"
+    ]
+  },
+  "DZ": {
+    "divisions": {
+      "ADR": {
+        "name": "Adrar"
+      },
+      "CHE": {
+        "name": "Cherchell"
+      },
+      "EO": {
+        "name": "El Bayadh"
+      },
+      "IO": {
+        "name": "Illizi"
+      },
+      "OA": {
+        "name": "Ouargla"
+      },
+      "OB": {
+        "name": "Ouled Djellal"
+      },
+      "SK": {
+        "name": "Sidi Bel Abbès"
+      },
+      "TH": {
+        "name": "Tamanrasset"
+      },
+      "OR": {
+        "name": "Oran"
+      },
+      "CON": {
+        "name": "Constantine"
+      },
+      "ANN": {
+        "name": "Annaba"
+      },
+      "BSK": {
+        "name": "Biskra"
+      },
+      "BT": {
+        "name": "Batna"
+      },
+      "MIL": {
+        "name": "Mila"
+      },
+      "MSL": {
+        "name": "Msila"
+      },
+      "SET": {
+        "name": "Sétif"
+      },
+      "SAI": {
+        "name": "Saïda"
+      },
+      "TEB": {
+        "name": "Tébessa"
+      }
+    },
+    "regions": [
+      "Northern Africa"
+    ]
+  },
+  "AO": {
+    "divisions": {
+      "LUA": {
+        "name": "Luanda"
+      },
+      "NO": {
+        "name": "Namibe"
+      },
+      "HS": {
+        "name": "Huíla"
+      },
+      "CC": {
+        "name": "Cuando Cubango"
+      },
+      "MX": {
+        "name": "Moxico"
+      },
+      "CN": {
+        "name": "Cunene"
+      },
+      "LN": {
+        "name": "Lunda Norte"
+      },
+      "LS": {
+        "name": "Lunda Sul"
+      },
+      "BN": {
+        "name": "Benguela"
+      },
+      "HO": {
+        "name": "Huambo"
+      },
+      "BI": {
+        "name": "Bié"
+      },
+      "CU": {
+        "name": "Cuanza Sul"
+      },
+      "CNB": {
+        "name": "Cuanza Norte"
+      }
+    },
+    "regions": [
+      "Central Africa"
+    ]
+  },
+  "AM": {
+    "divisions": {
+      "AG": {
+        "name": "Aragatsotn"
+      },
+      "AR": {
+        "name": "Ararat"
+      },
+      "AV": {
+        "name": "Avan"
+      },
+      "ER": {
+        "name": "Erevan"
+      },
+      "GR": {
+        "name": "Gegharkunik"
+      },
+      "KT": {
+        "name": "Kotayk"
+      },
+      "LO": {
+        "name": "Lori"
+      },
+      "SH": {
+        "name": "Shushi"
+      },
+      "SY": {
+        "name": "Syunik"
+      },
+      "TV": {
+        "name": "Tavush"
+      },
+      "VD": {
+        "name": "Vayots Dzor"
+      }
+    },
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "AZ": {
+    "divisions": {
+      "BA": {
+        "name": "Baku"
+      },
+      "NX": {
+        "name": "Nakhchivan"
+      },
+      "LEN": {
+        "name": "Lankaran"
+      },
+      "MQ": {
+        "name": "Mingachevir"
+      },
+      "SM": {
+        "name": "Sumgait"
+      },
+      "ABS": {
+        "name": "Absheron"
+      },
+      "KAL": {
+        "name": "Kalbajar-Lachin"
+      },
+      "LAC": {
+        "name": "Lachin"
+      },
+      "QOB": {
+        "name": "Qobustan"
+      },
+      "SAT": {
+        "name": "Shamakhi"
+      },
+      "SMI": {
+        "name": "Samukh"
+      },
+      "SAR": {
+        "name": "Saratov"
+      }
+    },
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "BH": {
+    "divisions": {
+      "CAP": {
+        "name": "Capital"
+      },
+      "CEN": {
+        "name": "Central"
+      },
+      "NOR": {
+        "name": "Northern"
+      },
+      "SOU": {
+        "name": "Southern"
+      },
+      "HAW": {
+        "name": "Hawar"
+      }
+    },
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "BJ": {
+    "divisions": {
+      "AL": {
+        "name": "Alibori"
+      },
+      "AK": {
+        "name": "Atakora"
+      },
+      "AQ": {
+        "name": "Atlantique"
+      },
+      "BO": {
+        "name": "Borgou"
+      },
+      "CO": {
+        "name": "Collines"
+      },
+      "DO": {
+        "name": "Donga"
+      },
+      "KO": {
+        "name": "Kouffo"
+      },
+      "LI": {
+        "name": "Littoral"
+      },
+      "MO": {
+        "name": "Mono"
+      },
+      "OU": {
+        "name": "Ouémé"
+      },
+      "PL": {
+        "name": "Plateau"
+      },
+      "ZO": {
+        "name": "Zou"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "BW": {
+    "divisions": {
+      "NW": {
+        "name": "North-West"
+      },
+      "CE": {
+        "name": "Central"
+      },
+      "GH": {
+        "name": "Ghanzi"
+      },
+      "KD": {
+        "name": "Kgalagadi"
+      },
+      "KE": {
+        "name": "Kweneng"
+      },
+      "HH": {
+        "name": "Southern"
+      },
+      "KL": {
+        "name": "Kgatleng"
+      }
+    },
+    "regions": [
+      "Southern Africa"
+    ]
+  },
+  "BF": {
+    "divisions": {
+      "BAL": {
+        "name": "Balé"
+      },
+      "BAM": {
+        "name": "Bam"
+      },
+      "BAN": {
+        "name": "Banwa"
+      },
+      "BAZ": {
+        "name": "Bazèga"
+      },
+      "BGR": {
+        "name": "Bougouriba"
+      },
+      "BLG": {
+        "name": "Boulgou"
+      },
+      "BLK": {
+        "name": "Boulkiemdé"
+      },
+      "COM": {
+        "name": "Comoé"
+      },
+      "GAN": {
+        "name": "Ganzourgou"
+      },
+      "GOU": {
+        "name": "Gourma"
+      },
+      "HOU": {
+        "name": "Houet"
+      },
+      "IOB": {
+        "name": "Ioba"
+      },
+      "KAD": {
+        "name": "Kadiogo"
+      },
+      "KEN": {
+        "name": "Kénédougou"
+      },
+      "KMD": {
+        "name": "Komondjari"
+      },
+      "KMP": {
+        "name": "Kompienga"
+      },
+      "KOP": {
+        "name": "Koulpélogo"
+      },
+      "KOS": {
+        "name": "Kossi"
+      },
+      "KOT": {
+        "name": "Kouritenga"
+      },
+      "KOW": {
+        "name": "Kourwéogo"
+      },
+      "LER": {
+        "name": "Léraba"
+      },
+      "LOR": {
+        "name": "Loroum"
+      },
+      "MOU": {
+        "name": "Mouhoun"
+      },
+      "NAM": {
+        "name": "Namentenga"
+      },
+      "NAO": {
+        "name": "Naouri"
+      },
+      "NAY": {
+        "name": "Nayala"
+      },
+      "OUB": {
+        "name": "Oubritenga"
+      },
+      "OUD": {
+        "name": "Oudalan"
+      },
+      "PAS": {
+        "name": "Passoré"
+      },
+      "PON": {
+        "name": "Poni"
+      },
+      "SEN": {
+        "name": "Séno"
+      },
+      "SIS": {
+        "name": "Sissili"
+      },
+      "SOM": {
+        "name": "Soum"
+      },
+      "SNG": {
+        "name": "Sourou"
+      },
+      "TAP": {
+        "name": "Tapoa"
+      },
+      "TUI": {
+        "name": "Tui"
+      },
+      "YAG": {
+        "name": "Yagha"
+      },
+      "YAT": {
+        "name": "Yatenga"
+      },
+      "ZIR": {
+        "name": "Ziro"
+      },
+      "ZON": {
+        "name": "Zondoma"
+      },
+      "ZOU": {
+        "name": "Zoundwéogo"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "CM": {
+    "divisions": {
+      "AD": {
+        "name": "Adamaoua"
+      },
+      "CE": {
+        "name": "Centre"
+      },
+      "ES": {
+        "name": "East"
+      },
+      "EN": {
+        "name": "Far North"
+      },
+      "LT": {
+        "name": "Littoral"
+      },
+      "NO": {
+        "name": "North"
+      },
+      "NW": {
+        "name": "North-West"
+      },
+      "SU": {
+        "name": "South"
+      },
+      "SW": {
+        "name": "South-West"
+      },
+      "OU": {
+        "name": "West"
+      }
+    },
+    "regions": [
+      "Central Africa"
+    ]
+  },
+  "CF": {
+    "divisions": {
+      "BGF": {
+        "name": "Bangui"
+      },
+      "BB": {
+        "name": "Bamingui-Bangoran"
+      },
+      "BK": {
+        "name": "Basse-Kotto"
+      },
+      "HK": {
+        "name": "Haute-Kotto"
+      },
+      "HM": {
+        "name": "Haut-Mbomou"
+      },
+      "KG": {
+        "name": "Kémo"
+      },
+      "LO": {
+        "name": "Lobaye"
+      },
+      "MB": {
+        "name": "Mbomou"
+      },
+      "MP": {
+        "name": "Ombella-M'Poko"
+      },
+      "NM": {
+        "name": "Nana-Mambéré"
+      },
+      "UK": {
+        "name": "Ouaka"
+      },
+      "AC": {
+        "name": "Ouham"
+      },
+      "OP": {
+        "name": "Ouham Péndé"
+      },
+      "SE": {
+        "name": "Sangha-Mbaéré"
+      },
+      "VK": {
+        "name": "Vakaga"
+      }
+    },
+    "regions": [
+      "Central Africa"
+    ]
+  },
+  "TD": {
+    "divisions": {
+      "BA": {
+        "name": "Batha"
+      },
+      "BI": {
+        "name": "Biltine"
+      },
+      "BE": {
+        "name": "Borkou-Ennedi-Tibesti"
+      },
+      "CH": {
+        "name": "Chari-Baguirmi"
+      },
+      "GC": {
+        "name": "Guéra"
+      },
+      "KA": {
+        "name": "Kanem"
+      },
+      "LA": {
+        "name": "Lac"
+      },
+      "LC": {
+        "name": "Logone Occidental"
+      },
+      "LE": {
+        "name": "Logone Oriental"
+      },
+      "MA": {
+        "name": "Mandoul"
+      },
+      "ME": {
+        "name": "Mayo-Kébbi Est"
+      },
+      "MO": {
+        "name": "Moyen-Chari"
+      },
+      "OA": {
+        "name": "Ouaddaï"
+      },
+      "SA": {
+        "name": "Salamat"
+      },
+      "TA": {
+        "name": "Tandjilé"
+      }
+    },
+    "regions": [
+      "Central Africa"
+    ]
+  },
+  "CO": {
+    "divisions": {
+      "AMA": {
+        "name": "Amazonas"
+      },
+      "ANT": {
+        "name": "Antioquia"
+      },
+      "ARA": {
+        "name": "Arauca"
+      },
+      "ATL": {
+        "name": "Atlántico"
+      },
+      "BOL": {
+        "name": "Bolívar"
+      },
+      "BOY": {
+        "name": "Boyacá"
+      },
+      "CAL": {
+        "name": "Caldas"
+      },
+      "CAQ": {
+        "name": "Caquetá"
+      },
+      "CAS": {
+        "name": "Casanare"
+      },
+      "CAU": {
+        "name": "Cauca"
+      },
+      "CES": {
+        "name": "Cesar"
+      },
+      "CHO": {
+        "name": "Chocó"
+      },
+      "COR": {
+        "name": "Córdoba"
+      },
+      "CUN": {
+        "name": "Cundinamarca"
+      },
+      "DC": {
+        "name": "Distrito Capital"
+      },
+      "GUA": {
+        "name": "Guainía"
+      },
+      "GUV": {
+        "name": "Guaviare"
+      },
+      "HUI": {
+        "name": "Huila"
+      },
+      "LAG": {
+        "name": "La Guajira"
+      },
+      "MAG": {
+        "name": "Magdalena"
+      },
+      "MET": {
+        "name": "Meta"
+      },
+      "NAR": {
+        "name": "Nariño"
+      },
+      "NSA": {
+        "name": "Norte de Santander"
+      },
+      "PUT": {
+        "name": "Putumayo"
+      },
+      "QUI": {
+        "name": "Quindío"
+      },
+      "RIS": {
+        "name": "Risaralda"
+      },
+      "SAN": {
+        "name": "Santander"
+      },
+      "SAP": {
+        "name": "San Andrés y Providencia"
+      },
+      "SUC": {
+        "name": "Sucre"
+      },
+      "TOL": {
+        "name": "Tolima"
+      }
+    },
+    "regions": [
+      "South America"
+    ]
+  },
+  "CV": {
+    "divisions": {
+      "BR": {
+        "name": "Brava"
+      },
+      "BS": {
+        "name": "Boa Vista"
+      },
+      "CA": {
+        "name": "Santa Catarina"
+      },
+      "CF": {
+        "name": "Santa Cruz"
+      },
+      "CR": {
+        "name": "Praia"
+      },
+      "MA": {
+        "name": "Maio"
+      },
+      "MO": {
+        "name": "Mosteiros"
+      },
+      "PA": {
+        "name": "Paul"
+      },
+      "PN": {
+        "name": "Porto Novo"
+      },
+      "PR": {
+        "name": "Praia"
+      },
+      "RB": {
+        "name": "Ribeira Brava"
+      },
+      "RG": {
+        "name": "Ribeira Grande"
+      },
+      "SL": {
+        "name": "Sal"
+      },
+      "SM": {
+        "name": "São Miguel"
+      },
+      "SO": {
+        "name": "São Lourenço dos Órgãos"
+      },
+      "SS": {
+        "name": "São Salvador do Mundo"
+      },
+      "SV": {
+        "name": "São Vicente"
+      },
+      "TA": {
+        "name": "Tarrafal"
+      },
+      "TS": {
+        "name": "Tarrafal de São Nicolau"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "KY": {
+    "divisions": {
+      "CR": {
+        "name": "Cayman Brac"
+      },
+      "EI": {
+        "name": "East End"
+      },
+      "SC": {
+        "name": "South Town"
+      },
+      "SP": {
+        "name": "Spot Bay"
+      },
+      "WD": {
+        "name": "West Bay"
+      },
+      "WI": {
+        "name": "Western"
+      }
+    },
+    "regions": [
+      "Caribbean"
+    ]
+  },
+  "KM": {
+    "divisions": {
+      "AN": {
+        "name": "Anjouan"
+      },
+      "GR": {
+        "name": "Grande Comore"
+      },
+      "MO": {
+        "name": "Mohéli"
+      }
+    },
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "KI": {
+    "divisions": {
+      "GIL": {
+        "name": "Gilbert Islands"
+      },
+      "LIN": {
+        "name": "Line Islands"
+      },
+      "PHO": {
+        "name": "Phoenix Islands"
+      }
+    },
+    "regions": [
+      "Micronesia"
+    ]
+  },
+  "KN": {
+    "divisions": {
+      "SAINTANNE": {
+        "name": "Saint Anne Sandy Point"
+      },
+      "SAINTGEORGE": {
+        "name": "Saint George Basseterre"
+      },
+      "SAINTMARY": {
+        "name": "Saint Mary Cayon"
+      },
+      "SAINTPAUL": {
+        "name": "Saint Paul Capisterre"
+      },
+      "SAINTPETER": {
+        "name": "Saint Peter Basseterre"
+      },
+      "SAINTTRINITY": {
+        "name": "Saint Trinity Palmetto Point"
+      }
+    },
+    "regions": [
+      "Caribbean"
+    ]
+  },
+  "LB": {
+    "divisions": {
+      "AH": {
+        "name": "Akkar"
+      },
+      "BH": {
+        "name": "Baalbek-Hermel"
+      },
+      "BT": {
+        "name": "Beirut"
+      },
+      "JL": {
+        "name": "Jabal Amel"
+      },
+      "JK": {
+        "name": "Jabal Amil"
+      },
+      "NL": {
+        "name": "North Lebanon"
+      },
+      "BA": {
+        "name": "Beqaa"
+      },
+      "SA": {
+        "name": "South Lebanon"
+      }
+    },
+    "regions": [
+      "Western Asia"
+    ]
+  },
+  "LS": {
+    "divisions": {
+      "B": {
+        "name": "Berea"
+      },
+      "C": {
+        "name": "Butha-Buthe"
+      },
+      "G": {
+        "name": "Leribe"
+      },
+      "H": {
+        "name": "Mafeteng"
+      },
+      "M": {
+        "name": "Maseru"
+      },
+      "N": {
+        "name": "Mohale's Hoek"
+      },
+      "P": {
+        "name": "Mokhotlong"
+      },
+      "S": {
+        "name": "Qacha's Nek"
+      },
+      "T": {
+        "name": "Quthing"
+      },
+      "K": {
+        "name": "Thaba-Tseka"
+      }
+    },
+    "regions": [
+      "Southern Africa"
+    ]
+  },
+  "LR": {
+    "divisions": {
+      "BI": {
+        "name": "Bomi"
+      },
+      "BG": {
+        "name": "Bong"
+      },
+      "GB": {
+        "name": "Grand Bassa"
+      },
+      "CM": {
+        "name": "Grand Cape Mount"
+      },
+      "GG": {
+        "name": "Grand Gedeh"
+      },
+      "GK": {
+        "name": "Grand Kru"
+      },
+      "LO": {
+        "name": "Lofa"
+      },
+      "MG": {
+        "name": "Margibi"
+      },
+      "ML": {
+        "name": "Maryland"
+      },
+      "MS": {
+        "name": "Montserrado"
+      },
+      "NI": {
+        "name": "Nimba"
+      },
+      "RI": {
+        "name": "River Gee"
+      },
+      "SI": {
+        "name": "Sinoe"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "LY": {
+    "divisions": {
+      "AZ": {
+        "name": "Az Zawiyah"
+      },
+      "BA": {
+        "name": "Benghazi"
+      },
+      "BJ": {
+        "name": "Benghazi"
+      },
+      "BZ": {
+        "name": "Bazma"
+      },
+      "HA": {
+        "name": "Al Wahat"
+      },
+      "MI": {
+        "name": "Misrata"
+      },
+      "TB": {
+        "name": "Tobruk"
+      },
+      "TR": {
+        "name": "Tripoli"
+      },
+      "NQ": {
+        "name": "Nuqat al Khams"
+      },
+      "WD": {
+        "name": "Wadi al Hayaa"
+      }
+    },
+    "regions": [
+      "Northern Africa"
+    ]
+  },
+  "MG": {
+    "divisions": {
+      "FF": {
+        "name": "Antananarivo"
+      },
+      "MA": {
+        "name": "Antsirabe"
+      },
+      "ME": {
+        "name": "Toliara"
+      },
+      "TB": {
+        "name": "Taolagnaro"
+      },
+      "TM": {
+        "name": "Tamatave"
+      }
+    },
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "MW": {
+    "divisions": {
+      "BA": {
+        "name": "Balaka"
+      },
+      "BL": {
+        "name": "Blantyre"
+      },
+      "CK": {
+        "name": "Chikwawa"
+      },
+      "CR": {
+        "name": "Chiradzulu"
+      },
+      "CT": {
+        "name": "Chitipa"
+      },
+      "DE": {
+        "name": "Dedza"
+      },
+      "DO": {
+        "name": "Dowa"
+      },
+      "KR": {
+        "name": "Karonga"
+      },
+      "KS": {
+        "name": "Kasungu"
+      },
+      "LI": {
+        "name": "Lilongwe"
+      },
+      "LK": {
+        "name": "Likoma"
+      },
+      "MC": {
+        "name": "Mchinji"
+      },
+      "MG": {
+        "name": "Mangochi"
+      },
+      "MH": {
+        "name": "Machinga"
+      },
+      "MU": {
+        "name": "Mulanje"
+      },
+      "MW": {
+        "name": "Mwanza"
+      },
+      "MZ": {
+        "name": "Mzimba"
+      },
+      "NK": {
+        "name": "Nkhata Bay"
+      },
+      "NL": {
+        "name": "Neno"
+      },
+      "NS": {
+        "name": "Nsanje"
+      },
+      "NU": {
+        "name": "Ntchisi"
+      },
+      "PH": {
+        "name": "Phalombe"
+      },
+      "RU": {
+        "name": "Rumphi"
+      },
+      "SA": {
+        "name": "Salima"
+      },
+      "TH": {
+        "name": "Thyolo"
+      },
+      "ZO": {
+        "name": "Zomba"
+      }
+    },
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "MV": {
+    "divisions": {
+      "TH": {
+        "name": "Thiladhunmathi"
+      },
+      "MUA": {
+        "name": "Muizzu"
+      },
+      "AAD": {
+        "name": "Addu"
+      },
+      "FUA": {
+        "name": "Fua Mulah"
+      },
+      "HA": {
+        "name": "Haa Dhaalu"
+      },
+      "K": {
+        "name": "Kolhumadulu"
+      },
+      "S": {
+        "name": "South Province"
+      },
+      "N": {
+        "name": "North Province"
+      }
+    },
+    "regions": [
+      "Southern Asia"
+    ]
+  },
+  "ML": {
+    "divisions": {
+      "GA": {
+        "name": "Gao"
+      },
+      "KY": {
+        "name": "Kidal"
+      },
+      "MO": {
+        "name": "Mopti"
+      },
+      "SH": {
+        "name": "Ségou"
+      },
+      "SL": {
+        "name": "Sikasso"
+      },
+      "TB": {
+        "name": "Tombouctou"
+      },
+      "CM": {
+        "name": "Bamako Capital District"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "MR": {
+    "divisions": {
+      "AD": {
+        "name": "Adrar"
+      },
+      "AS": {
+        "name": "Assaba"
+      },
+      "BR": {
+        "name": "Brakna"
+      },
+      "DN": {
+        "name": "Dakhlet Nouadhibou"
+      },
+      "GO": {
+        "name": "Gorgol"
+      },
+      "GM": {
+        "name": "Guidimaka"
+      },
+      "HC": {
+        "name": "Hodh Ech Chargui"
+      },
+      "HD": {
+        "name": "Hodh El Gharbi"
+      },
+      "IN": {
+        "name": "Inchiri"
+      },
+      "NO": {
+        "name": "Nouakchott"
+      },
+      "TA": {
+        "name": "Tagant"
+      },
+      "HI": {
+        "name": "Hodh El Gharbi"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "MU": {
+    "divisions": {
+      "AG": {
+        "name": "Agalega"
+      },
+      "CC": {
+        "name": "Cargados Carajos"
+      },
+      "FL": {
+        "name": "Flacq"
+      },
+      "PA": {
+        "name": "Pamplemousses"
+      },
+      "PL": {
+        "name": "Plaines Wilhems"
+      },
+      "PU": {
+        "name": "Port Louis"
+      },
+      "RR": {
+        "name": "Rivière du Rempart"
+      },
+      "SA": {
+        "name": "Savanne"
+      },
+      "WO": {
+        "name": "Rodrigues"
+      }
+    },
+    "regions": [
+      "Eastern Africa"
+    ]
+  },
+  "NE": {
+    "divisions": {
+      "AG": {
+        "name": "Agadez"
+      },
+      "DF": {
+        "name": "Diffa"
+      },
+      "DS": {
+        "name": "Dosso"
+      },
+      "MA": {
+        "name": "Maradi"
+      },
+      "NI": {
+        "name": "Niamey"
+      },
+      "TH": {
+        "name": "Tahoua"
+      },
+      "TL": {
+        "name": "Tillabéri"
+      },
+      "ZD": {
+        "name": "Zinder"
+      }
+    },
+    "regions": [
+      "Western Africa"
+    ]
+  },
+  "NI": {
+    "divisions": {
+      "AN": {
+        "name": "Atlántico Norte"
+      },
+      "AS": {
+        "name": "Atlántico Sur"
+      },
+      "BO": {
+        "name": "Boaco"
+      },
+      "CA": {
+        "name": "Carazo"
+      },
+      "CI": {
+        "name": "Chinandega"
+      },
+      "CO": {
+        "name": "Chontales"
+      },
+      "ES": {
+        "name": "Estelí"
+      },
+      "GR": {
+        "name": "Granada"
+      },
+      "JI": {
+        "name": "Jinotega"
+      },
+      "LE": {
+        "name": "León"
+      },
+      "MD": {
+        "name": "Madriz"
+      },
+      "MN": {
+        "name": "Managua"
+      },
+      "MS": {
+        "name": "Masaya"
+      },
+      "MT": {
+        "name": "Matagalpa"
+      },
+      "NS": {
+        "name": "Nueva Segovia"
+      },
+      "RS": {
+        "name": "Rivas"
+      },
+      "SJ": {
+        "name": "San José"
+      }
+    },
+    "regions": [
+      "Central America"
+    ]
+  },
+  "NP": {
+    "divisions": {
+      "BA": {
+        "name": "Bagmati"
+      },
+      "BH": {
+        "name": "Bheri"
+      },
+      "DH": {
+        "name": "Dhawalagiri"
+      },
+      "GA": {
+        "name": "Gandaki"
+      },
+      "JA": {
+        "name": "Janakpur"
+      },
+      "KA": {
+        "name": "Karnali"
+      },
+      "KO": {
+        "name": "Kosi"
+      },
+      "LU": {
+        "name": "Lumbini"
+      },
+      "MA": {
+        "name": "Mahakali"
+      },
+      "ME": {
+        "name": "Mechi"
+      },
+      "NA": {
+        "name": "Narayani"
+      },
+      "RA": {
+        "name": "Rapti"
+      },
+      "SA": {
+        "name": "Sagarmatha"
+      },
+      "SE": {
+        "name": "Seti"
+      }
+    },
+    "regions": [
+      "Southern Asia"
+    ]
+  },
+  "NR": {
+    "divisions": {
+      "AN": {
+        "name": "Anabar"
+      },
+      "BA": {
+        "name": "Baiti"
+      },
+      "BO": {
+        "name": "Boe"
+      },
+      "CI": {
+        "name": "Buada"
+      },
+      "DE": {
+        "name": "Denigomodu"
+      },
+      "MA": {
+        "name": "Meneng"
+      },
+      "NB": {
+        "name": "Nibok"
+      },
+      "UA": {
+        "name": "Uaboe"
+      },
+      "YAR": {
+        "name": "Yaren"
+      }
+    },
+    "regions": [
+      "Micronesia"
+    ]
+  },
+  "NU": {
+    "divisions": {
+      "AL": {
+        "name": "Alofi"
+      },
+      "TU": {
+        "name": "Tuapa"
+      }
+    },
+    "regions": [
+      "Polynesia"
+    ]
+  },
+  "NZ": {
+    "divisions": {
+      "AUK": {
+        "name": "Auckland"
+      },
+      "BOP": {
+        "name": "Bay of Plenty"
+      },
+      "CAN": {
+        "name": "Canterbury"
+      },
+      "GIS": {
+        "name": "Gisborne"
+      },
+      "HKB": {
+        "name": "Hawke's Bay"
+      },
+      "MBH": {
+        "name": "Marlborough"
+      },
+      "MWT": {
+        "name": "Manawatu-Wanganui"
+      },
+      "NTL": {
+        "name": "Northland"
+      },
+      "OTA": {
+        "name": "Otago"
+      },
+      "STL": {
+        "name": "Southland"
+      },
+      "TAS": {
+        "name": "Tasman"
+      },
+      "WKO": {
+        "name": "Waikato"
+      },
+      "WGN": {
+        "name": "Wellington"
+      },
+      "WTC": {
+        "name": "West Coast"
+      }
+    },
+    "regions": [
+      "Oceania"
+    ]
   }
 }
