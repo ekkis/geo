@@ -4065,542 +4065,80 @@
   },
   "PE": {
     "divisions": {
-      "CHA": {
-        "name": "Chanchamayo"
+      "AMA": {
+        "name": "Amazonas"
       },
-      "BAG": {
-        "name": "Bagua"
+      "ANC": {
+        "name": "Ancash"
       },
-      "BON": {
-        "name": "Bongará",
-        "alias": [
-          "Bongara"
-        ]
-      },
-      "CON": {
-        "name": "Concepción",
-        "alias": [
-          "Concepcion"
-        ]
-      },
-      "LUY": {
-        "name": "Luya"
-      },
-      "RD": {
-        "name": "Rodríguez de Mendoza",
-        "alias": [
-          "Rodriguez de Mendoza"
-        ]
-      },
-      "UTC": {
-        "name": "Utcubamba"
-      },
-      "HUA": {
-        "name": "Huallaga"
-      },
-      "AIJ": {
-        "name": "Aija"
-      },
-      "AR": {
-        "name": "Antonio Raymondi"
-      },
-      "ASU": {
-        "name": "Asunción",
-        "alias": [
-          "Asuncion"
-        ]
-      },
-      "BOL": {
-        "name": "Bolívar",
-        "alias": [
-          "Bolivar"
-        ]
-      },
-      "CAR": {
-        "name": "Carabaya"
-      },
-      "CF": {
-        "name": "Carlos Fermín Fitzcarrald",
-        "alias": [
-          "Carlos Fermin Fitzcarrald"
-        ]
-      },
-      "CAS": {
-        "name": "Castrovirreyna"
-      },
-      "COR": {
-        "name": "Corongo"
-      },
-      "ML": {
-        "name": "Mariscal Luzuriaga"
-      },
-      "OCR": {
-        "name": "Ocros"
-      },
-      "PAL": {
-        "name": "Palpa"
-      },
-      "POM": {
-        "name": "Pomabamba"
-      },
-      "REC": {
-        "name": "Recuay"
-      },
-      "SAN": {
-        "name": "Sandia"
-      },
-      "SIH": {
-        "name": "Sihuas"
-      },
-      "YUN": {
-        "name": "Yunguyo"
-      },
-      "ABA": {
-        "name": "Abancay"
-      },
-      "AND": {
-        "name": "Andahuaylas"
-      },
-      "ANT": {
-        "name": "Anta"
-      },
-      "AYM": {
-        "name": "Aymaraes"
-      },
-      "COT": {
-        "name": "Cotabambas"
-      },
-      "CHI": {
-        "name": "Chiclayo"
-      },
-      "GRA": {
-        "name": "Grau"
+      "APU": {
+        "name": "Apurímac"
       },
       "ARE": {
         "name": "Arequipa"
       },
-      "CAM": {
-        "name": "Camaná",
-        "alias": [
-          "Camana"
-        ]
-      },
-      "CAY": {
-        "name": "Caylloma"
-      },
-      "ISL": {
-        "name": "Islay"
-      },
-      "LU": {
-        "name": "La Unión",
-        "alias": [
-          "La Union"
-        ]
-      },
-      "CAN": {
-        "name": "Candarave"
-      },
-      "HS": {
-        "name": "Huanca Sancos"
-      },
-      "LM": {
-        "name": "La Mar"
-      },
-      "LUC": {
-        "name": "Lucanas"
-      },
-      "PAR": {
-        "name": "Paruro"
-      },
-      "PD": {
-        "name": "Páucar del Sara Sara",
-        "alias": [
-          "Paucar del Sara Sara"
-        ]
-      },
-      "SUC": {
-        "name": "Sucre"
-      },
-      "VF": {
-        "name": "Víctor Fajardo",
-        "alias": [
-          "Victor Fajardo"
-        ]
-      },
-      "VH": {
-        "name": "Vilcas Huamán",
-        "alias": [
-          "Vilcas Huaman"
-        ]
+      "AYA": {
+        "name": "Ayacucho"
       },
       "CAJ": {
-        "name": "Cajatambo"
-      },
-      "CEL": {
-        "name": "Celendín",
-        "alias": [
-          "Celendin"
-        ]
-      },
-      "CHO": {
-        "name": "Chota"
-      },
-      "CUT": {
-        "name": "Cutervo"
-      },
-      "JAÉ": {
-        "name": "Jaén",
-        "alias": [
-          "Jaen"
-        ]
-      },
-      "SI": {
-        "name": "San Ignacio"
-      },
-      "SM": {
-        "name": "San Martín",
-        "alias": [
-          "San Martin"
-        ]
-      },
-      "SP": {
-        "name": "San Pablo"
-      },
-      "SC": {
-        "name": "Sánchez Carrión",
-        "alias": [
-          "Sanchez Carrion"
-        ]
-      },
-      "CAL": {
-        "name": "Calca"
+        "name": "Cajamarca"
       },
       "CUS": {
         "name": "Cusco"
       },
-      "ACO": {
-        "name": "Acobamba"
+      "HUV": {
+        "name": "Huancavelica"
       },
-      "CHU": {
-        "name": "Chucuito"
-      },
-      "ESP": {
-        "name": "Espinar"
-      },
-      "LC": {
-        "name": "La Convención",
-        "alias": [
-          "La Convencion"
-        ]
-      },
-      "PAU": {
-        "name": "Paucartambo"
-      },
-      "QUI": {
-        "name": "Quispicanchi"
-      },
-      "URU": {
-        "name": "Urubamba"
-      },
-      "ANG": {
-        "name": "Angaraes"
-      },
-      "TAY": {
-        "name": "Tayacaja"
-      },
-      "HUÁ": {
-        "name": "Huánuco",
-        "alias": [
-          "Huanuco"
-        ]
-      },
-      "AMB": {
-        "name": "Ambo"
-      },
-      "DD": {
-        "name": "Datem del Marañón",
-        "alias": [
-          "Datem del Maranon"
-        ]
-      },
-      "LP": {
-        "name": "Leoncio Prado"
-      },
-      "MAR": {
-        "name": "Marañón",
-        "alias": [
-          "Maranon"
-        ]
-      },
-      "PAC": {
-        "name": "Pacasmayo"
-      },
-      "PI": {
-        "name": "Puerto Inca"
-      },
-      "LAU": {
-        "name": "Lauricocha"
-      },
-      "YAR": {
-        "name": "Yarowilca"
+      "HUC": {
+        "name": "Huánuco"
       },
       "ICA": {
         "name": "Ica"
       },
-      "NAZ": {
-        "name": "Nazca"
-      },
-      "PIS": {
-        "name": "Pisco"
-      },
-      "JAU": {
-        "name": "Jauja"
-      },
       "JUN": {
-        "name": "Junín",
-        "alias": [
-          "Junin"
-        ]
+        "name": "Junín"
       },
-      "SAT": {
-        "name": "Satipo"
-      },
-      "TAR": {
-        "name": "Tarata"
-      },
-      "YAU": {
-        "name": "Yauyos"
-      },
-      "TRU": {
-        "name": "Trujillo"
-      },
-      "ASC": {
-        "name": "Ascope"
-      },
-      "CHE": {
-        "name": "Chepén",
-        "alias": [
-          "Chepen"
-        ]
-      },
-      "JUL": {
-        "name": "Julcán",
-        "alias": [
-          "Julcan"
-        ]
-      },
-      "OTU": {
-        "name": "Otuzco"
-      },
-      "PAT": {
-        "name": "Pataz"
-      },
-      "SD": {
-        "name": "Santiago de Chuco"
-      },
-      "GC": {
-        "name": "Gran Chimú",
-        "alias": [
-          "Gran Chimu"
-        ]
-      },
-      "VIR": {
-        "name": "Virú",
-        "alias": [
-          "Viru"
-        ]
-      },
-      "FER": {
-        "name": "Ferreñafe",
-        "alias": [
-          "Ferrenafe"
-        ]
+      "LAL": {
+        "name": "La Libertad"
       },
       "LAM": {
-        "name": "Lamas"
+        "name": "Lambayeque"
       },
       "LIM": {
         "name": "Lima"
       },
-      "BAR": {
-        "name": "Barranca"
-      },
-      "CAÑ": {
-        "name": "Cañete",
-        "alias": [
-          "Canete"
-        ]
-      },
-      "OYÓ": {
-        "name": "Oyón",
-        "alias": [
-          "Oyon"
-        ]
-      },
-      "MAY": {
-        "name": "Maynas"
-      },
-      "AA": {
-        "name": "Aliaso Amazonas"
-      },
       "LOR": {
         "name": "Loreto"
       },
-      "MR": {
-        "name": "Mariscal Ramón Castilla",
-        "alias": [
-          "Mariscal Ramon Castilla"
-        ]
+      "MDD": {
+        "name": "Madre de Dios"
       },
-      "PUT": {
-        "name": "Putumayo"
-      },
-      "REQ": {
-        "name": "Requena"
-      },
-      "UCA": {
-        "name": "Ucayali"
-      },
-      "TAM": {
-        "name": "Tambopata"
-      },
-      "MAN": {
-        "name": "Manú",
-        "alias": [
-          "Manu"
-        ]
-      },
-      "TAH": {
-        "name": "Tahuamanu"
-      },
-      "MN": {
-        "name": "Mariscal Nieto"
-      },
-      "GS": {
-        "name": "General Sánchez Cerro",
-        "alias": [
-          "General Sanchez Cerro"
-        ]
-      },
-      "ILO": {
-        "name": "Ilo"
+      "MOQ": {
+        "name": "Moquegua"
       },
       "PAS": {
         "name": "Pasco"
       },
-      "DA": {
-        "name": "Daniel Alcídes Carrión",
-        "alias": [
-          "Daniel Alcides Carrion"
-        ]
-      },
-      "OXA": {
-        "name": "Oxapampa"
-      },
       "PIU": {
         "name": "Piura"
-      },
-      "AYA": {
-        "name": "Ayabaca"
-      },
-      "MOR": {
-        "name": "Morropón",
-        "alias": [
-          "Morropon"
-        ]
-      },
-      "PAI": {
-        "name": "Paita"
-      },
-      "SUL": {
-        "name": "Sullana"
-      },
-      "TAL": {
-        "name": "Talara"
-      },
-      "SEC": {
-        "name": "Sechura"
       },
       "PUN": {
         "name": "Puno"
       },
-      "AZÁ": {
-        "name": "Azángaro",
-        "alias": [
-          "Azangaro"
-        ]
-      },
-      "EC": {
-        "name": "El Collao"
-      },
-      "MEL": {
-        "name": "Melgar"
-      },
-      "MOH": {
-        "name": "Moho"
-      },
-      "SA": {
-        "name": "San Antonio de Putina"
-      },
-      "SR": {
-        "name": "San Román",
-        "alias": [
-          "San Roman"
-        ]
-      },
-      "MOY": {
-        "name": "Moyobamba"
-      },
-      "BEL": {
-        "name": "Bellavista"
-      },
-      "ED": {
-        "name": "El Dorado"
-      },
-      "MC": {
-        "name": "Mariscal Cáceres",
-        "alias": [
-          "Mariscal Caceres"
-        ]
-      },
-      "PIC": {
-        "name": "Picota"
-      },
-      "RIO": {
-        "name": "Rioja"
-      },
-      "TOC": {
-        "name": "Tocache"
+      "SAM": {
+        "name": "San Martín"
       },
       "TAC": {
         "name": "Tacna"
       },
-      "JB": {
-        "name": "Jorge Basadre"
-      },
       "TUM": {
         "name": "Tumbes"
       },
-      "CV": {
-        "name": "Contralmirante Villar"
+      "UCA": {
+        "name": "Ucayali"
       },
-      "ZAR": {
-        "name": "Zarumilla"
-      },
-      "CP": {
-        "name": "Coronel Portillo"
-      },
-      "ATA": {
-        "name": "Atalaya"
-      },
-      "PA": {
-        "name": "Padre Abad"
-      },
-      "PUR": {
-        "name": "Purús",
-        "alias": [
-          "Purus"
-        ]
+      "CAL": {
+        "name": "Callao"
       }
     },
     "regions": [
