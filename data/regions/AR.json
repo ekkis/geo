@@ -1,0 +1,150 @@
+{
+  "BA": {
+    "name": "Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ]
+  },
+  "CA": {
+    "name": "Ciudad Autónoma de Buenos Aires",
+    "regions": [
+      "Buenos Aires"
+    ]
+  },
+  "CAT": {
+    "name": "Catamarca",
+    "regions": [
+      "Northwest"
+    ]
+  },
+  "CHA": {
+    "name": "Chaco",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "CHU": {
+    "name": "Chubut",
+    "regions": [
+      "Patagonia"
+    ]
+  },
+  "COR": {
+    "name": "Corrientes",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "CÓR": {
+    "name": "Córdoba",
+    "regions": [
+      "Pampas"
+    ]
+  },
+  "ER": {
+    "name": "Entre Ríos",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "FOR": {
+    "name": "Formosa",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "JUJ": {
+    "name": "Jujuy",
+    "regions": [
+      "Northwest"
+    ]
+  },
+  "LP": {
+    "name": "La Pampa",
+    "regions": [
+      "Patagonia"
+    ]
+  },
+  "LR": {
+    "name": "La Rioja",
+    "regions": [
+      "Cuyo"
+    ]
+  },
+  "MEN": {
+    "name": "Mendoza",
+    "regions": [
+      "Cuyo"
+    ]
+  },
+  "MIS": {
+    "name": "Misiones",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "NEU": {
+    "name": "Neuquén",
+    "regions": [
+      "Patagonia"
+    ]
+  },
+  "RN": {
+    "name": "Río Negro",
+    "regions": [
+      "Patagonia"
+    ]
+  },
+  "SAL": {
+    "name": "Salta",
+    "regions": [
+      "Northwest"
+    ]
+  },
+  "SC": {
+    "name": "Santa Cruz",
+    "regions": [
+      "Patagonia"
+    ]
+  },
+  "SD": {
+    "name": "Santiago del Estero",
+    "regions": [
+      "Northwest"
+    ]
+  },
+  "SF": {
+    "name": "Santa Fe",
+    "regions": [
+      "Pampas"
+    ]
+  },
+  "SJ": {
+    "name": "San Juan",
+    "regions": [
+      "Cuyo"
+    ]
+  },
+  "SL": {
+    "name": "San Luis",
+    "regions": [
+      "Cuyo"
+    ]
+  },
+  "TD": {
+    "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+  },
+  "TUC": {
+    "name": "Tucumán",
+    "regions": [
+      "Northwest"
+    ]
+  },
+  "capital": "Buenos Aires",
+  "currency_code": "ARS",
+  "iso3": "ARG",
+  "language_code": [
+    "an"
+  ],
+  "continent_code": "SA"
+}

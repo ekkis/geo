@@ -1,0 +1,309 @@
+{
+  "AC": {
+    "name": "Antártica Chilena",
+    "regions": [
+      "CL"
+    ]
+  },
+  "AIS": {
+    "name": "Aisén",
+    "regions": [
+      "CL"
+    ]
+  },
+  "ANT": {
+    "name": "Antofagasta",
+    "regions": [
+      "CL"
+    ]
+  },
+  "ARA": {
+    "name": "Arauco",
+    "regions": [
+      "CL"
+    ]
+  },
+  "ARI": {
+    "name": "Arica",
+    "regions": [
+      "CL"
+    ]
+  },
+  "BIO": {
+    "name": "Biobío",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CAC": {
+    "name": "Cachapoal",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CAU": {
+    "name": "Cautin",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CC": {
+    "name": "Cardenal Caro",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CHA": {
+    "name": "Chacabuco",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CHI": {
+    "name": "Chiloe",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CHO": {
+    "name": "Choapa",
+    "regions": [
+      "CL"
+    ]
+  },
+  "COI": {
+    "name": "Coihaique",
+    "regions": [
+      "CL"
+    ]
+  },
+  "COL": {
+    "name": "Colchagua",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CON": {
+    "name": "Concepción",
+    "regions": [
+      "CL"
+    ]
+  },
+  "COP": {
+    "name": "Copiapó",
+    "regions": [
+      "CL"
+    ]
+  },
+  "COR": {
+    "name": "Cordillera",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CP": {
+    "name": "Capitan Prat",
+    "regions": [
+      "CL"
+    ]
+  },
+  "CUR": {
+    "name": "Curicó",
+    "regions": [
+      "CL"
+    ]
+  },
+  "EL": {
+    "name": "El Loa",
+    "regions": [
+      "CL"
+    ]
+  },
+  "ELQ": {
+    "name": "Elqui",
+    "regions": [
+      "CL"
+    ]
+  },
+  "GC": {
+    "name": "General Carrera",
+    "regions": [
+      "CL"
+    ]
+  },
+  "HUA": {
+    "name": "Huasco",
+    "regions": [
+      "CL"
+    ]
+  },
+  "ID": {
+    "name": "Isla de Pascua",
+    "regions": [
+      "CL"
+    ]
+  },
+  "IQU": {
+    "name": "Iquique",
+    "regions": [
+      "CL"
+    ]
+  },
+  "LA": {
+    "name": "Los Andes",
+    "regions": [
+      "CL"
+    ]
+  },
+  "LIM": {
+    "name": "Limarí",
+    "regions": [
+      "CL"
+    ]
+  },
+  "LIN": {
+    "name": "Linares",
+    "regions": [
+      "CL"
+    ]
+  },
+  "LLA": {
+    "name": "Llanquihue",
+    "regions": [
+      "CL"
+    ]
+  },
+  "MAG": {
+    "name": "Magallanes",
+    "regions": [
+      "CL"
+    ]
+  },
+  "MAI": {
+    "name": "Maipo",
+    "regions": [
+      "CL"
+    ]
+  },
+  "MAL": {
+    "name": "Malleco",
+    "regions": [
+      "CL"
+    ]
+  },
+  "MEL": {
+    "name": "Melipilla",
+    "regions": [
+      "CL"
+    ]
+  },
+  "MM": {
+    "name": "Marga Marga",
+    "regions": [
+      "CL"
+    ]
+  },
+  "OSO": {
+    "name": "Osorno",
+    "regions": [
+      "CL"
+    ]
+  },
+  "PAL": {
+    "name": "Palena",
+    "regions": [
+      "CL"
+    ]
+  },
+  "PAR": {
+    "name": "Parinacota",
+    "regions": [
+      "CL"
+    ]
+  },
+  "PET": {
+    "name": "Petorca",
+    "regions": [
+      "CL"
+    ]
+  },
+  "QUI": {
+    "name": "Quillota",
+    "regions": [
+      "CL"
+    ]
+  },
+  "RAN": {
+    "name": "Ranco",
+    "regions": [
+      "CL"
+    ]
+  },
+  "SA": {
+    "name": "San Antonio",
+    "regions": [
+      "CL"
+    ]
+  },
+  "SAN": {
+    "name": "Santiago",
+    "regions": [
+      "CL"
+    ]
+  },
+  "SF": {
+    "name": "San Felipe de Aconcagua",
+    "regions": [
+      "CL"
+    ]
+  },
+  "TAL": {
+    "name": "Talagante",
+    "regions": [
+      "CL"
+    ]
+  },
+  "TAM": {
+    "name": "Tamarugal",
+    "regions": [
+      "CL"
+    ]
+  },
+  "TD": {
+    "name": "Tierra del Fuego",
+    "regions": [
+      "CL"
+    ]
+  },
+  "TOC": {
+    "name": "Tocopilla",
+    "regions": [
+      "CL"
+    ]
+  },
+  "UE": {
+    "name": "Ultima Esperanza",
+    "regions": [
+      "CL"
+    ]
+  },
+  "VAL": {
+    "name": "Valdivia",
+    "regions": [
+      "CL"
+    ]
+  },
+  "ÑUB": {
+    "name": "Ñuble",
+    "regions": [
+      "CL"
+    ]
+  },
+  "capital": "Santiago",
+  "currency_code": "CLP",
+  "iso3": "CHL",
+  "language_code": [
+    "chl"
+  ],
+  "continent_code": "SA"
+}

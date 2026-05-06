@@ -1,0 +1,123 @@
+{
+  "BAC": {
+    "name": "Bács-Kiskun",
+    "regions": [
+      "Bács-Kiskun"
+    ]
+  },
+  "BAR": {
+    "name": "Baranya",
+    "regions": [
+      "Baranya"
+    ]
+  },
+  "BEK": {
+    "name": "Békés",
+    "regions": [
+      "Békés"
+    ]
+  },
+  "BOR": {
+    "name": "Borsod-Abaúj-Zemplén",
+    "regions": [
+      "Borsod-Abaúj-Zemplén"
+    ]
+  },
+  "BUD": {
+    "name": "Budapest",
+    "regions": [
+      "Budapest"
+    ]
+  },
+  "FEJ": {
+    "name": "Fejér",
+    "regions": [
+      "Fejér"
+    ]
+  },
+  "GYO": {
+    "name": "Győr-Moson-Sopron",
+    "regions": [
+      "Győr-Moson-Sopron"
+    ]
+  },
+  "HAJ": {
+    "name": "Hajdú-Bihar",
+    "regions": [
+      "Hajdú-Bihar"
+    ]
+  },
+  "HEV": {
+    "name": "Heves",
+    "regions": [
+      "Heves"
+    ]
+  },
+  "JAS": {
+    "name": "Jász-Nagykun-Szolnok",
+    "regions": [
+      "Jász-Nagykun-Szolnok"
+    ]
+  },
+  "KOM": {
+    "name": "Komárom-Esztergom",
+    "regions": [
+      "Komárom-Esztergom"
+    ]
+  },
+  "NOG": {
+    "name": "Nógrád",
+    "regions": [
+      "Nógrád"
+    ]
+  },
+  "PES": {
+    "name": "Pest",
+    "regions": [
+      "Pest"
+    ]
+  },
+  "SOM": {
+    "name": "Somogy",
+    "regions": [
+      "Somogy"
+    ]
+  },
+  "SZA": {
+    "name": "Szabolcs-Szatmár-Bereg",
+    "regions": [
+      "Szabolcs-Szatmár-Bereg"
+    ]
+  },
+  "TOL": {
+    "name": "Tolna",
+    "regions": [
+      "Tolna"
+    ]
+  },
+  "VAS": {
+    "name": "Vas",
+    "regions": [
+      "Vas"
+    ]
+  },
+  "VES": {
+    "name": "Veszprém",
+    "regions": [
+      "Veszprém"
+    ]
+  },
+  "ZAL": {
+    "name": "Zala",
+    "regions": [
+      "Zala"
+    ]
+  },
+  "capital": "Budapest",
+  "currency_code": "HUF",
+  "iso3": "HUN",
+  "language_code": [
+    "hu"
+  ],
+  "continent_code": "EU"
+}

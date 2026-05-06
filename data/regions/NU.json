@@ -1,0 +1,15 @@
+{
+  "AL": {
+    "name": "Alofi"
+  },
+  "TU": {
+    "name": "Tuapa"
+  },
+  "capital": "Alofi",
+  "currency_code": "NZD",
+  "iso3": "NIU",
+  "language_code": [
+    "niu"
+  ],
+  "continent_code": "OC"
+}

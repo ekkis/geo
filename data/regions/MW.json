@@ -1,0 +1,87 @@
+{
+  "BA": {
+    "name": "Balaka"
+  },
+  "BL": {
+    "name": "Blantyre"
+  },
+  "CK": {
+    "name": "Chikwawa"
+  },
+  "CR": {
+    "name": "Chiradzulu"
+  },
+  "CT": {
+    "name": "Chitipa"
+  },
+  "DE": {
+    "name": "Dedza"
+  },
+  "DO": {
+    "name": "Dowa"
+  },
+  "KR": {
+    "name": "Karonga"
+  },
+  "KS": {
+    "name": "Kasungu"
+  },
+  "LI": {
+    "name": "Lilongwe"
+  },
+  "LK": {
+    "name": "Likoma"
+  },
+  "MC": {
+    "name": "Mchinji"
+  },
+  "MG": {
+    "name": "Mangochi"
+  },
+  "MH": {
+    "name": "Machinga"
+  },
+  "MU": {
+    "name": "Mulanje"
+  },
+  "MW": {
+    "name": "Mwanza"
+  },
+  "MZ": {
+    "name": "Mzimba"
+  },
+  "NK": {
+    "name": "Nkhata Bay"
+  },
+  "NL": {
+    "name": "Neno"
+  },
+  "NS": {
+    "name": "Nsanje"
+  },
+  "NU": {
+    "name": "Ntchisi"
+  },
+  "PH": {
+    "name": "Phalombe"
+  },
+  "RU": {
+    "name": "Rumphi"
+  },
+  "SA": {
+    "name": "Salima"
+  },
+  "TH": {
+    "name": "Thyolo"
+  },
+  "ZO": {
+    "name": "Zomba"
+  },
+  "capital": "Lilongwe",
+  "currency_code": "MWK",
+  "iso3": "MWI",
+  "language_code": [
+    "mwi"
+  ],
+  "continent_code": "AF"
+}

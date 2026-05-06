@@ -1,0 +1,33 @@
+{
+  "AAD": {
+    "name": "Addu"
+  },
+  "FUA": {
+    "name": "Fua Mulah"
+  },
+  "HA": {
+    "name": "Haa Dhaalu"
+  },
+  "K": {
+    "name": "Kolhumadulu"
+  },
+  "MUA": {
+    "name": "Muizzu"
+  },
+  "N": {
+    "name": "North Province"
+  },
+  "S": {
+    "name": "South Province"
+  },
+  "TH": {
+    "name": "Thiladhunmathi"
+  },
+  "capital": "Male",
+  "currency_code": "MVR",
+  "iso3": "MDV",
+  "language_code": [
+    "mdv"
+  ],
+  "continent_code": "AS"
+}

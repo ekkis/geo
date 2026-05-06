@@ -1,0 +1,39 @@
+{
+  "AA": {
+    "name": "Addis Ababa"
+  },
+  "AR": {
+    "name": "Amhara Region"
+  },
+  "BEN": {
+    "name": "Benishangul-Gumuz"
+  },
+  "DD": {
+    "name": "Dire Dawa"
+  },
+  "GAM": {
+    "name": "Gambela"
+  },
+  "HAR": {
+    "name": "Harari"
+  },
+  "ORO": {
+    "name": "Oromia"
+  },
+  "SN": {
+    "name": "Southern Nations, Nationalities, and Peoples' Region"
+  },
+  "SOM": {
+    "name": "Somali"
+  },
+  "TR": {
+    "name": "Tigray Region"
+  },
+  "capital": "Addis Ababa",
+  "currency_code": "ETB",
+  "iso3": "ETH",
+  "language_code": [
+    "eth"
+  ],
+  "continent_code": "AF"
+}

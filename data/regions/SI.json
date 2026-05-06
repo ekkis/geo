@@ -1,0 +1,63 @@
+{
+  "BLA": {
+    "name": "Blago-Kras",
+    "regions": [
+      "Blago-Kras"
+    ]
+  },
+  "GOR": {
+    "name": "Gorenjska",
+    "regions": [
+      "Gorenjska"
+    ]
+  },
+  "GOR1": {
+    "name": "Goriška",
+    "regions": [
+      "Goriška"
+    ]
+  },
+  "JUGSL": {
+    "name": "Jugovzhodna Slovenija",
+    "regions": [
+      "Jugovzhodna Slovenija"
+    ]
+  },
+  "KOR": {
+    "name": "Koroška",
+    "regions": [
+      "Koroška"
+    ]
+  },
+  "OBA": {
+    "name": "Obalno-Kraška",
+    "regions": [
+      "Obalno-Kraška"
+    ]
+  },
+  "OSR": {
+    "name": "Osrednjeslovenska",
+    "regions": [
+      "Osrednjeslovenska"
+    ]
+  },
+  "POD": {
+    "name": "Podravska",
+    "regions": [
+      "Podravska"
+    ]
+  },
+  "POM": {
+    "name": "Pomurska",
+    "regions": [
+      "Pomurska"
+    ]
+  },
+  "capital": "Ljubljana",
+  "currency_code": "EUR",
+  "iso3": "SVN",
+  "language_code": [
+    "svn"
+  ],
+  "continent_code": "EU"
+}

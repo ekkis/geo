@@ -1,0 +1,89 @@
+{
+  "AILEU": {
+    "name": "Aileu",
+    "regions": [
+      "Aileu"
+    ]
+  },
+  "AINARO": {
+    "name": "Ainaro",
+    "regions": [
+      "Ainaro"
+    ]
+  },
+  "BAUCAU": {
+    "name": "Baucau",
+    "regions": [
+      "Baucau"
+    ]
+  },
+  "BOBONAR": {
+    "name": "Bobonaro",
+    "regions": [
+      "Bobonaro"
+    ]
+  },
+  "COVAI": {
+    "name": "Cova Lima",
+    "regions": [
+      "Cova Lima"
+    ]
+  },
+  "DILI": {
+    "name": "Dili",
+    "regions": [
+      "Dili"
+    ]
+  },
+  "ERME": {
+    "name": "Ermera",
+    "regions": [
+      "Ermera"
+    ]
+  },
+  "LAUTEM": {
+    "name": "Lautém",
+    "regions": [
+      "Lautém"
+    ]
+  },
+  "LIQUI": {
+    "name": "Liquiçá",
+    "regions": [
+      "Liquiçá"
+    ]
+  },
+  "MANATU": {
+    "name": "Manatuto",
+    "regions": [
+      "Manatuto"
+    ]
+  },
+  "MANUFA": {
+    "name": "Manufahi",
+    "regions": [
+      "Manufahi"
+    ]
+  },
+  "OECUSSE": {
+    "name": "Oecusse",
+    "regions": [
+      "Oecusse"
+    ]
+  },
+  "VIQUE": {
+    "name": "Viqueque",
+    "regions": [
+      "Viqueque"
+    ]
+  },
+  "capital": "Dili",
+  "currency_code": "USD",
+  "iso3": "TLS",
+  "language_code": [
+    "tls",
+    "tmp",
+    "tp"
+  ],
+  "continent_code": "OC"
+}

@@ -1,0 +1,51 @@
+{
+  "AUK": {
+    "name": "Auckland"
+  },
+  "BOP": {
+    "name": "Bay of Plenty"
+  },
+  "CAN": {
+    "name": "Canterbury"
+  },
+  "GIS": {
+    "name": "Gisborne"
+  },
+  "HKB": {
+    "name": "Hawke's Bay"
+  },
+  "MBH": {
+    "name": "Marlborough"
+  },
+  "MWT": {
+    "name": "Manawatu-Wanganui"
+  },
+  "NTL": {
+    "name": "Northland"
+  },
+  "OTA": {
+    "name": "Otago"
+  },
+  "STL": {
+    "name": "Southland"
+  },
+  "TAS": {
+    "name": "Tasman"
+  },
+  "WGN": {
+    "name": "Wellington"
+  },
+  "WKO": {
+    "name": "Waikato"
+  },
+  "WTC": {
+    "name": "West Coast"
+  },
+  "capital": "Wellington",
+  "currency_code": "NZD",
+  "iso3": "NZL",
+  "language_code": [
+    "nzl"
+  ],
+  "continent_code": "OC"
+}

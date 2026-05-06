@@ -1,0 +1,45 @@
+{
+  "ABS": {
+    "name": "Absheron"
+  },
+  "BA": {
+    "name": "Baku"
+  },
+  "KAL": {
+    "name": "Kalbajar-Lachin"
+  },
+  "LAC": {
+    "name": "Lachin"
+  },
+  "LEN": {
+    "name": "Lankaran"
+  },
+  "MQ": {
+    "name": "Mingachevir"
+  },
+  "NX": {
+    "name": "Nakhchivan"
+  },
+  "QOB": {
+    "name": "Qobustan"
+  },
+  "SAR": {
+    "name": "Saratov"
+  },
+  "SAT": {
+    "name": "Shamakhi"
+  },
+  "SM": {
+    "name": "Sumgait"
+  },
+  "SMI": {
+    "name": "Samukh"
+  },
+  "capital": "Baku",
+  "currency_code": "AZN",
+  "iso3": "AZE",
+  "language_code": [
+    "az"
+  ],
+  "continent_code": "AS"
+}

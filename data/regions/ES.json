@@ -1,0 +1,285 @@
+{
+  "ALB": {
+    "name": "Albacete",
+    "regions": [
+      "Castile-La Mancha"
+    ]
+  },
+  "ALI": {
+    "name": "Alicante",
+    "regions": [
+      "Valencian Community"
+    ]
+  },
+  "ALM": {
+    "name": "Almeria",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "AST": {
+    "name": "Asturias",
+    "regions": [
+      "Asturias"
+    ]
+  },
+  "BAD": {
+    "name": "Badajoz",
+    "regions": [
+      "Extremadura"
+    ]
+  },
+  "BAL": {
+    "name": "Baleares",
+    "regions": [
+      "Balearic Islands"
+    ]
+  },
+  "BAR": {
+    "name": "Barcelona",
+    "regions": [
+      "Catalonia"
+    ]
+  },
+  "BUR": {
+    "name": "Burgos",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "CAS": {
+    "name": "Castellón",
+    "regions": [
+      "Valencian Community"
+    ]
+  },
+  "CR": {
+    "name": "Ciudad Real",
+    "regions": [
+      "Castile-La Mancha"
+    ]
+  },
+  "CUE": {
+    "name": "Cuenca",
+    "regions": [
+      "Castile-La Mancha"
+    ]
+  },
+  "CÁC": {
+    "name": "Cáceres",
+    "regions": [
+      "Extremadura"
+    ]
+  },
+  "CÁD": {
+    "name": "Cádiz",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "CÓR": {
+    "name": "Córdoba",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "GER": {
+    "name": "Gerona",
+    "regions": [
+      "Catalonia"
+    ]
+  },
+  "GRA": {
+    "name": "Granada",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "GUA": {
+    "name": "Guadalajara",
+    "regions": [
+      "Castile-La Mancha"
+    ]
+  },
+  "GUI": {
+    "name": "Guipúzcoa",
+    "regions": [
+      "Basque Country"
+    ]
+  },
+  "HUE": {
+    "name": "Huelva",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "JAÉ": {
+    "name": "Jaén",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "LC": {
+    "name": "La Coruña",
+    "regions": [
+      "Galicia"
+    ]
+  },
+  "LEÓ": {
+    "name": "León",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "LP": {
+    "name": "Las Palmas",
+    "regions": [
+      "Canary Islands"
+    ]
+  },
+  "LR": {
+    "name": "La Rioja",
+    "regions": [
+      "La Rioja"
+    ]
+  },
+  "LUG": {
+    "name": "Lugo",
+    "regions": [
+      "Galicia"
+    ]
+  },
+  "LÉR": {
+    "name": "Lérida",
+    "regions": [
+      "Catalonia"
+    ]
+  },
+  "MAD": {
+    "name": "Madrid",
+    "regions": [
+      "Madrid"
+    ]
+  },
+  "MUR": {
+    "name": "Murcia",
+    "regions": [
+      "Murcia"
+    ]
+  },
+  "MÁL": {
+    "name": "Málaga",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "ORE": {
+    "name": "Orense",
+    "regions": [
+      "Galicia"
+    ]
+  },
+  "PAL": {
+    "name": "Palencia",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "PON": {
+    "name": "Pontevedra",
+    "regions": [
+      "Galicia"
+    ]
+  },
+  "SAL": {
+    "name": "Salamanca",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "SEG": {
+    "name": "Segovia",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "SEV": {
+    "name": "Sevilla",
+    "regions": [
+      "Andalusia"
+    ]
+  },
+  "SOR": {
+    "name": "Soria",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "TAR": {
+    "name": "Tarragona",
+    "regions": [
+      "Catalonia"
+    ]
+  },
+  "TEN": {
+    "name": "Tenerife",
+    "regions": [
+      "Canary Islands"
+    ]
+  },
+  "TER": {
+    "name": "Teruel",
+    "regions": [
+      "Aragon"
+    ]
+  },
+  "TOL": {
+    "name": "Toledo",
+    "regions": [
+      "Castile-La Mancha"
+    ]
+  },
+  "VAL": {
+    "name": "Valladolid",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "VIZ": {
+    "name": "Vizcaya",
+    "regions": [
+      "Basque Country"
+    ]
+  },
+  "ZAM": {
+    "name": "Zamora",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "ZAR": {
+    "name": "Zaragoza",
+    "regions": [
+      "Aragon"
+    ]
+  },
+  "ÁLA": {
+    "name": "Álava",
+    "regions": [
+      "Basque Country"
+    ]
+  },
+  "ÁVI": {
+    "name": "Ávila",
+    "regions": [
+      "Castile and León"
+    ]
+  },
+  "capital": "Madrid",
+  "currency_code": "EUR",
+  "iso3": "ESP",
+  "language_code": [
+    "esp"
+  ],
+  "continent_code": "EU"
+}

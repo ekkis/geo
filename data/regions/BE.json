@@ -1,0 +1,69 @@
+{
+  "ANT": {
+    "name": "Antwerpen",
+    "regions": [
+      "Flanders"
+    ]
+  },
+  "HEN": {
+    "name": "Henegouwen",
+    "regions": [
+      "Wallonia"
+    ]
+  },
+  "LIM": {
+    "name": "Limburg",
+    "regions": [
+      "Flanders"
+    ]
+  },
+  "LUI": {
+    "name": "Luik",
+    "regions": [
+      "Wallonia"
+    ]
+  },
+  "LUX": {
+    "name": "Luxemburg",
+    "regions": [
+      "Wallonia"
+    ]
+  },
+  "NAM": {
+    "name": "Namen",
+    "regions": [
+      "Wallonia"
+    ]
+  },
+  "OOS": {
+    "name": "Oost-Vlaanderen",
+    "regions": [
+      "Flanders"
+    ]
+  },
+  "VLA": {
+    "name": "Vlaams-Brabant",
+    "regions": [
+      "Flanders"
+    ]
+  },
+  "WAA": {
+    "name": "Waals-Brabant",
+    "regions": [
+      "Wallonia"
+    ]
+  },
+  "WES": {
+    "name": "West-Vlaanderen",
+    "regions": [
+      "Flanders"
+    ]
+  },
+  "capital": "Brussels",
+  "currency_code": "EUR",
+  "iso3": "BEL",
+  "language_code": [
+    "be"
+  ],
+  "continent_code": "EU"
+}

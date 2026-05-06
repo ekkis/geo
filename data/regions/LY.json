@@ -1,0 +1,39 @@
+{
+  "AZ": {
+    "name": "Az Zawiyah"
+  },
+  "BA": {
+    "name": "Benghazi"
+  },
+  "BJ": {
+    "name": "Benghazi"
+  },
+  "BZ": {
+    "name": "Bazma"
+  },
+  "HA": {
+    "name": "Al Wahat"
+  },
+  "MI": {
+    "name": "Misrata"
+  },
+  "NQ": {
+    "name": "Nuqat al Khams"
+  },
+  "TB": {
+    "name": "Tobruk"
+  },
+  "TR": {
+    "name": "Tripoli"
+  },
+  "WD": {
+    "name": "Wadi al Hayaa"
+  },
+  "capital": "Tripolis",
+  "currency_code": "LYD",
+  "iso3": "LBY",
+  "language_code": [
+    "lby"
+  ],
+  "continent_code": "AF"
+}

@@ -1,0 +1,63 @@
+{
+  "BATK": {
+    "name": "Batken",
+    "regions": [
+      "Batken"
+    ]
+  },
+  "BISH": {
+    "name": "Bishkek",
+    "regions": [
+      "Bishkek"
+    ]
+  },
+  "CHUY": {
+    "name": "Chuy",
+    "regions": [
+      "Chuy"
+    ]
+  },
+  "ISSYK": {
+    "name": "Issyk-Kul",
+    "regions": [
+      "Issyk-Kul"
+    ]
+  },
+  "JALA": {
+    "name": "Jalal-Abad",
+    "regions": [
+      "Jalal-Abad"
+    ]
+  },
+  "NARY": {
+    "name": "Naryn",
+    "regions": [
+      "Naryn"
+    ]
+  },
+  "OSH": {
+    "name": "Osh",
+    "regions": [
+      "Osh"
+    ]
+  },
+  "OSHREG": {
+    "name": "Osh Region",
+    "regions": [
+      "Osh Region"
+    ]
+  },
+  "TALAS": {
+    "name": "Talas",
+    "regions": [
+      "Talas"
+    ]
+  },
+  "capital": "Bishkek",
+  "currency_code": "KGS",
+  "iso3": "KGZ",
+  "language_code": [
+    "kgz"
+  ],
+  "continent_code": "AS"
+}

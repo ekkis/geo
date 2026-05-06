@@ -1,0 +1,135 @@
+{
+  "AAR": {
+    "name": "Aargau",
+    "regions": [
+      "Aargau"
+    ]
+  },
+  "APPAU": {
+    "name": "Appenzell Ausserrhoden",
+    "regions": [
+      "Appenzell Ausserrhoden"
+    ]
+  },
+  "APPIN": {
+    "name": "Appenzell Innerrhoden",
+    "regions": [
+      "Appenzell Innerrhoden"
+    ]
+  },
+  "BAS": {
+    "name": "Basel-Stadt",
+    "regions": [
+      "Basel-Stadt"
+    ]
+  },
+  "BER": {
+    "name": "Bern",
+    "regions": [
+      "Bern"
+    ]
+  },
+  "FRI": {
+    "name": "Fribourg",
+    "regions": [
+      "Fribourg"
+    ]
+  },
+  "GEN": {
+    "name": "Geneva",
+    "regions": [
+      "Geneva"
+    ]
+  },
+  "GLA": {
+    "name": "Glarus",
+    "regions": [
+      "Glarus"
+    ]
+  },
+  "GRA": {
+    "name": "Graubünden",
+    "regions": [
+      "Graubünden"
+    ]
+  },
+  "LUZ": {
+    "name": "Luzern",
+    "regions": [
+      "Luzern"
+    ]
+  },
+  "NEU": {
+    "name": "Neuchâtel",
+    "regions": [
+      "Neuchâtel"
+    ]
+  },
+  "SANGA": {
+    "name": "Sankt Gallen",
+    "regions": [
+      "Sankt Gallen"
+    ]
+  },
+  "SCH": {
+    "name": "Schaffhausen",
+    "regions": [
+      "Schaffhausen"
+    ]
+  },
+  "SCH1": {
+    "name": "Schwyz",
+    "regions": [
+      "Schwyz"
+    ]
+  },
+  "SOL": {
+    "name": "Solothurn",
+    "regions": [
+      "Solothurn"
+    ]
+  },
+  "ST.GA": {
+    "name": "St. Gallen",
+    "regions": [
+      "St. Gallen"
+    ]
+  },
+  "THU": {
+    "name": "Thurgau",
+    "regions": [
+      "Thurgau"
+    ]
+  },
+  "TIC": {
+    "name": "Ticino",
+    "regions": [
+      "Ticino"
+    ]
+  },
+  "VAL": {
+    "name": "Valais",
+    "regions": [
+      "Valais"
+    ]
+  },
+  "VAU": {
+    "name": "Vaud",
+    "regions": [
+      "Vaud"
+    ]
+  },
+  "ZUR": {
+    "name": "Zurich",
+    "regions": [
+      "Zurich"
+    ]
+  },
+  "capital": "Berne",
+  "currency_code": "CHF",
+  "iso3": "CHE",
+  "language_code": [
+    "ce"
+  ],
+  "continent_code": "EU"
+}

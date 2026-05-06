@@ -1,0 +1,119 @@
+{
+  "AUV": {
+    "name": "Auvergne-Rhône-Alpes",
+    "regions": [
+      "Auvergne-Rhône-Alpes"
+    ]
+  },
+  "BOU": {
+    "name": "Bourgogne-Franche-Comté",
+    "regions": [
+      "Bourgogne-Franche-Comté"
+    ]
+  },
+  "BRI": {
+    "name": "Brittany",
+    "regions": [
+      "Brittany"
+    ]
+  },
+  "CENDE": {
+    "name": "Centre-Val de Loire",
+    "regions": [
+      "Centre-Val de Loire"
+    ]
+  },
+  "COR": {
+    "name": "Corsica",
+    "regions": [
+      "Corsica"
+    ]
+  },
+  "FREGU": {
+    "name": "French Guiana",
+    "regions": [
+      "French Guiana"
+    ]
+  },
+  "GRAES": {
+    "name": "Grand Est",
+    "regions": [
+      "Grand Est"
+    ]
+  },
+  "GUA": {
+    "name": "Guadeloupe",
+    "regions": [
+      "Guadeloupe"
+    ]
+  },
+  "HAU": {
+    "name": "Hauts-de-France",
+    "regions": [
+      "Hauts-de-France"
+    ]
+  },
+  "ILE": {
+    "name": "Île-de-France",
+    "regions": [
+      "Île-de-France"
+    ]
+  },
+  "MAR": {
+    "name": "Martinique",
+    "regions": [
+      "Martinique"
+    ]
+  },
+  "MAY": {
+    "name": "Mayotte",
+    "regions": [
+      "Mayotte"
+    ]
+  },
+  "NOR": {
+    "name": "Normandy",
+    "regions": [
+      "Normandy"
+    ]
+  },
+  "NOU": {
+    "name": "Nouvelle-Aquitaine",
+    "regions": [
+      "Nouvelle-Aquitaine"
+    ]
+  },
+  "OCC": {
+    "name": "Occitanie",
+    "regions": [
+      "Occitanie"
+    ]
+  },
+  "PAYDE": {
+    "name": "Pays de la Loire",
+    "regions": [
+      "Pays de la Loire"
+    ]
+  },
+  "PROD'": {
+    "name": "Provence-Alpes-Côte d'Azur",
+    "regions": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "REU": {
+    "name": "Réunion",
+    "regions": [
+      "Réunion"
+    ]
+  },
+  "capital": "Paris",
+  "currency_code": "EUR",
+  "iso3": "FRA",
+  "language_code": [
+    "fr",
+    "fx",
+    "fxx"
+  ],
+  "continent_code": "EU"
+}

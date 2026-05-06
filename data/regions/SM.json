@@ -1,0 +1,51 @@
+{
+  "BORMA": {
+    "name": "Borgo Maggiore",
+    "regions": [
+      "Borgo Maggiore"
+    ]
+  },
+  "DOM": {
+    "name": "Domagnano",
+    "regions": [
+      "Domagnano"
+    ]
+  },
+  "FAE": {
+    "name": "Faetano",
+    "regions": [
+      "Faetano"
+    ]
+  },
+  "FIO": {
+    "name": "Fiorentino",
+    "regions": [
+      "Fiorentino"
+    ]
+  },
+  "MON": {
+    "name": "Montegiardino",
+    "regions": [
+      "Montegiardino"
+    ]
+  },
+  "SANMA": {
+    "name": "San Marino",
+    "regions": [
+      "San Marino"
+    ]
+  },
+  "SER": {
+    "name": "Serravalle",
+    "regions": [
+      "Serravalle"
+    ]
+  },
+  "capital": "San Marino",
+  "currency_code": "EUR",
+  "iso3": "SMR",
+  "language_code": [
+    "smr"
+  ],
+  "continent_code": "EU"
+}

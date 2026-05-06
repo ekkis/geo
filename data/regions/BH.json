@@ -1,0 +1,24 @@
+{
+  "CAP": {
+    "name": "Capital"
+  },
+  "CEN": {
+    "name": "Central"
+  },
+  "HAW": {
+    "name": "Hawar"
+  },
+  "NOR": {
+    "name": "Northern"
+  },
+  "SOU": {
+    "name": "Southern"
+  },
+  "capital": "Manama",
+  "currency_code": "BHD",
+  "iso3": "BHR",
+  "language_code": [
+    "bhr"
+  ],
+  "continent_code": "AS"
+}

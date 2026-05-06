@@ -1,0 +1,61 @@
+{
+  "BOSPO": {
+    "name": "Bosnian Podrinje",
+    "regions": [
+      "Bosnian Podrinje"
+    ]
+  },
+  "CENBO": {
+    "name": "Central Bosnia",
+    "regions": [
+      "Central Bosnia"
+    ]
+  },
+  "HER": {
+    "name": "Herzegovina-Neretva",
+    "regions": [
+      "Herzegovina-Neretva"
+    ]
+  },
+  "POS": {
+    "name": "Posavina",
+    "regions": [
+      "Posavina"
+    ]
+  },
+  "REPSR": {
+    "name": "Republika Srpska",
+    "regions": [
+      "Republika Srpska"
+    ]
+  },
+  "TUZ": {
+    "name": "Tuzla",
+    "regions": [
+      "Tuzla"
+    ]
+  },
+  "UNA": {
+    "name": "Una-Sana",
+    "regions": [
+      "Una-Sana"
+    ]
+  },
+  "WESHE": {
+    "name": "West Herzegovina",
+    "regions": [
+      "West Herzegovina"
+    ]
+  },
+  "ZEN": {
+    "name": "Zenica-Doboj",
+    "regions": [
+      "Zenica-Doboj"
+    ]
+  },
+  "capital": "Sarajevo",
+  "currency_code": "BAM",
+  "iso3": "BIH",
+  "language_code": [],
+  "continent_code": "EU"
+}

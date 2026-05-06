@@ -1,0 +1,57 @@
+{
+  "BANBY": {
+    "name": "Banská Bystrica",
+    "regions": [
+      "Banská Bystrica"
+    ]
+  },
+  "BRA": {
+    "name": "Bratislava",
+    "regions": [
+      "Bratislava"
+    ]
+  },
+  "KOS": {
+    "name": "Košice",
+    "regions": [
+      "Košice"
+    ]
+  },
+  "NIT": {
+    "name": "Nitra",
+    "regions": [
+      "Nitra"
+    ]
+  },
+  "PRE": {
+    "name": "Prešov",
+    "regions": [
+      "Prešov"
+    ]
+  },
+  "TRE": {
+    "name": "Trenčín",
+    "regions": [
+      "Trenčín"
+    ]
+  },
+  "TRN": {
+    "name": "Trnava",
+    "regions": [
+      "Trnava"
+    ]
+  },
+  "ZIL": {
+    "name": "Žilina",
+    "regions": [
+      "Žilina"
+    ]
+  },
+  "capital": "Bratislava",
+  "currency_code": "EUR",
+  "iso3": "SVK",
+  "language_code": [
+    "svk"
+  ],
+  "continent_code": "EU"
+}

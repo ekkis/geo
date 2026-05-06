@@ -1,0 +1,75 @@
+{
+  "BAR": {
+    "name": "Bar",
+    "regions": [
+      "Bar"
+    ]
+  },
+  "BIJPO": {
+    "name": "Bijelo Polje",
+    "regions": [
+      "Bijelo Polje"
+    ]
+  },
+  "CET": {
+    "name": "Cetinje",
+    "regions": [
+      "Cetinje"
+    ]
+  },
+  "DAN": {
+    "name": "Danilovgrad",
+    "regions": [
+      "Danilovgrad"
+    ]
+  },
+  "HERNO": {
+    "name": "Herceg Novi",
+    "regions": [
+      "Herceg Novi"
+    ]
+  },
+  "NIK": {
+    "name": "Nikšić",
+    "regions": [
+      "Nikšić"
+    ]
+  },
+  "PLJ": {
+    "name": "Pljevlja",
+    "regions": [
+      "Pljevlja"
+    ]
+  },
+  "POD": {
+    "name": "Podgorica",
+    "regions": [
+      "Podgorica"
+    ]
+  },
+  "ROZ": {
+    "name": "Rožaje",
+    "regions": [
+      "Rožaje"
+    ]
+  },
+  "SAV": {
+    "name": "Šavnik",
+    "regions": [
+      "Šavnik"
+    ]
+  },
+  "ULC": {
+    "name": "Ulcinj",
+    "regions": [
+      "Ulcinj"
+    ]
+  },
+  "capital": "Podgorica",
+  "currency_code": "EUR",
+  "iso3": "MNE",
+  "language_code": [
+    "mne"
+  ],
+  "continent_code": "EU"
+}

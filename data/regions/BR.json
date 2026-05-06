@@ -1,0 +1,135 @@
+{
+  "ACR": {
+    "name": "Acre",
+    "regions": [
+      "North"
+    ]
+  },
+  "ALA": {
+    "name": "Alagoas",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "AMA": {
+    "name": "Amazonas",
+    "regions": [
+      "North"
+    ]
+  },
+  "BAH": {
+    "name": "Bahia",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "CEA": {
+    "name": "Ceará",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "DF": {
+    "name": "Distrito Federal",
+    "regions": [
+      "Central-West"
+    ]
+  },
+  "ES": {
+    "name": "Espírito Santo",
+    "regions": [
+      "Southeast"
+    ]
+  },
+  "GOI": {
+    "name": "Goiás",
+    "regions": [
+      "Central-West"
+    ]
+  },
+  "MAR": {
+    "name": "Maranhão",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "MG": {
+    "name": "Minas Gerais",
+    "regions": [
+      "Southeast"
+    ]
+  },
+  "PAR": {
+    "name": "Paraná",
+    "regions": [
+      "South"
+    ]
+  },
+  "PER": {
+    "name": "Pernambuco",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "PIA": {
+    "name": "Piauí",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "RD": {
+    "name": "Rio de Janeiro",
+    "regions": [
+      "Southeast"
+    ]
+  },
+  "RG": {
+    "name": "Rio Grande do Sul",
+    "regions": [
+      "South"
+    ]
+  },
+  "RON": {
+    "name": "Rondônia",
+    "regions": [
+      "North"
+    ]
+  },
+  "ROR": {
+    "name": "Roraima",
+    "regions": [
+      "North"
+    ]
+  },
+  "SC": {
+    "name": "Santa Catarina",
+    "regions": [
+      "South"
+    ]
+  },
+  "SER": {
+    "name": "Sergipe",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "SP": {
+    "name": "São Paulo",
+    "regions": [
+      "Southeast"
+    ]
+  },
+  "TOC": {
+    "name": "Tocantins",
+    "regions": [
+      "North"
+    ]
+  },
+  "capital": "Brasilia",
+  "currency_code": "BRL",
+  "iso3": "BRA",
+  "language_code": [
+    "bra"
+  ],
+  "continent_code": "SA"
+}

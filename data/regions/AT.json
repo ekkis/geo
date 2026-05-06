@@ -1,0 +1,63 @@
+{
+  "BUR": {
+    "name": "Burgenland",
+    "regions": [
+      "Ostösterreich"
+    ]
+  },
+  "KÄR": {
+    "name": "Kärnten",
+    "regions": [
+      "Südösterreich"
+    ]
+  },
+  "NIE": {
+    "name": "Niederösterreich",
+    "regions": [
+      "Ostösterreich"
+    ]
+  },
+  "OBE": {
+    "name": "Oberösterreich",
+    "regions": [
+      "Westösterreich"
+    ]
+  },
+  "SAL": {
+    "name": "Salzburg",
+    "regions": [
+      "Westösterreich"
+    ]
+  },
+  "STE": {
+    "name": "Steiermark",
+    "regions": [
+      "Südösterreich"
+    ]
+  },
+  "TIR": {
+    "name": "Tirol",
+    "regions": [
+      "Westösterreich"
+    ]
+  },
+  "VOR": {
+    "name": "Vorarlberg",
+    "regions": [
+      "Westösterreich"
+    ]
+  },
+  "WIE": {
+    "name": "Wien",
+    "regions": [
+      "Ostösterreich"
+    ]
+  },
+  "capital": "Vienna",
+  "currency_code": "EUR",
+  "iso3": "AUT",
+  "language_code": [
+    "aut"
+  ],
+  "continent_code": "EU"
+}

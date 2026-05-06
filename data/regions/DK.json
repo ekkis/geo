@@ -1,0 +1,39 @@
+{
+  "HOV": {
+    "name": "Hovedstaden",
+    "regions": [
+      "Denmark"
+    ]
+  },
+  "MID": {
+    "name": "Midtjylland",
+    "regions": [
+      "Denmark"
+    ]
+  },
+  "NOR": {
+    "name": "Nordjylland",
+    "regions": [
+      "Denmark"
+    ]
+  },
+  "SJÆ": {
+    "name": "Sjælland",
+    "regions": [
+      "Denmark"
+    ]
+  },
+  "SYD": {
+    "name": "Syddanmark",
+    "regions": [
+      "Denmark"
+    ]
+  },
+  "capital": "Copenhagen",
+  "currency_code": "DKK",
+  "iso3": "DNK",
+  "language_code": [
+    "dnk"
+  ],
+  "continent_code": "EU"
+}

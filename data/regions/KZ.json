@@ -1,0 +1,105 @@
+{
+  "AKMO": {
+    "name": "Akmola",
+    "regions": [
+      "Akmola"
+    ]
+  },
+  "AKTO": {
+    "name": "Aktobe",
+    "regions": [
+      "Aktobe"
+    ]
+  },
+  "ALM": {
+    "name": "Almaty",
+    "regions": [
+      "Almaty"
+    ]
+  },
+  "AST": {
+    "name": "Nur-Sultan",
+    "regions": [
+      "Nur-Sultan"
+    ]
+  },
+  "ATYR": {
+    "name": "Atyrau",
+    "regions": [
+      "Atyrau"
+    ]
+  },
+  "KARAG": {
+    "name": "Karaganda",
+    "regions": [
+      "Karaganda"
+    ]
+  },
+  "KOST": {
+    "name": "Kostanay",
+    "regions": [
+      "Kostanay"
+    ]
+  },
+  "KYZY": {
+    "name": "Kyzylorda",
+    "regions": [
+      "Kyzylorda"
+    ]
+  },
+  "MANGS": {
+    "name": "Mangystau",
+    "regions": [
+      "Mangystau"
+    ]
+  },
+  "PAV": {
+    "name": "Pavlodar",
+    "regions": [
+      "Pavlodar"
+    ]
+  },
+  "SEVZ": {
+    "name": "North Kazakhstan",
+    "regions": [
+      "North Kazakhstan"
+    ]
+  },
+  "SHYM": {
+    "name": "Shymkent",
+    "regions": [
+      "Shymkent"
+    ]
+  },
+  "TURK": {
+    "name": "Turkestan",
+    "regions": [
+      "Turkestan"
+    ]
+  },
+  "VOST": {
+    "name": "East Kazakhstan",
+    "regions": [
+      "East Kazakhstan"
+    ]
+  },
+  "YUZH": {
+    "name": "South Kazakhstan",
+    "regions": [
+      "South Kazakhstan"
+    ]
+  },
+  "ZAPAD": {
+    "name": "West Kazakhstan",
+    "regions": [
+      "West Kazakhstan"
+    ]
+  },
+  "capital": "Astana",
+  "currency_code": "KZT",
+  "iso3": "KAZ",
+  "language_code": [
+    "kk"
+  ],
+  "continent_code": "AS"
+}

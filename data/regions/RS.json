@@ -1,0 +1,133 @@
+{
+  "BEL": {
+    "name": "Belgrade",
+    "regions": [
+      "Belgrade"
+    ]
+  },
+  "BOR": {
+    "name": "Bor",
+    "regions": [
+      "Bor"
+    ]
+  },
+  "BRA": {
+    "name": "Braničevo",
+    "regions": [
+      "Braničevo"
+    ]
+  },
+  "BRA1": {
+    "name": "Braničevo",
+    "regions": [
+      "Braničevo"
+    ]
+  },
+  "JAB": {
+    "name": "Jablanica",
+    "regions": [
+      "Jablanica"
+    ]
+  },
+  "KOL": {
+    "name": "Kolubara",
+    "regions": [
+      "Kolubara"
+    ]
+  },
+  "MAC": {
+    "name": "Mačva",
+    "regions": [
+      "Mačva"
+    ]
+  },
+  "MOR": {
+    "name": "Moravica",
+    "regions": [
+      "Moravica"
+    ]
+  },
+  "NIS": {
+    "name": "Nišava",
+    "regions": [
+      "Nišava"
+    ]
+  },
+  "PCI": {
+    "name": "Pčinja",
+    "regions": [
+      "Pčinja"
+    ]
+  },
+  "PCI1": {
+    "name": "Pčinja",
+    "regions": [
+      "Pčinja"
+    ]
+  },
+  "POD": {
+    "name": "Podunavlje",
+    "regions": [
+      "Podunavlje"
+    ]
+  },
+  "POM": {
+    "name": "Pomoravlje",
+    "regions": [
+      "Pomoravlje"
+    ]
+  },
+  "RAS": {
+    "name": "Rasina",
+    "regions": [
+      "Rasina"
+    ]
+  },
+  "RAS1": {
+    "name": "Raska",
+    "regions": [
+      "Raska"
+    ]
+  },
+  "SOUAN": {
+    "name": "Southern and Eastern Serbia",
+    "regions": [
+      "Southern and Eastern Serbia"
+    ]
+  },
+  "SUMAN": {
+    "name": "Šumadija and Western Serbia",
+    "regions": [
+      "Šumadija and Western Serbia"
+    ]
+  },
+  "VOJ": {
+    "name": "Vojvodina",
+    "regions": [
+      "Vojvodina"
+    ]
+  },
+  "ZLA": {
+    "name": "Zlatibor",
+    "regions": [
+      "Zlatibor"
+    ]
+  },
+  "ZLA1": {
+    "name": "Zlatibor",
+    "regions": [
+      "Zlatibor"
+    ]
+  },
+  "capital": "Belgrade",
+  "currency_code": "RSD",
+  "iso3": "SRB",
+  "language_code": [
+    "cs",
+    "scg",
+    "srb",
+    "yu",
+    "yug"
+  ],
+  "continent_code": "EU"
+}

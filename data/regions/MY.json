@@ -1,0 +1,105 @@
+{
+  "JOHOR": {
+    "name": "Johor",
+    "regions": [
+      "Johor"
+    ]
+  },
+  "KEDAH": {
+    "name": "Kedah",
+    "regions": [
+      "Kedah"
+    ]
+  },
+  "KELANTAN": {
+    "name": "Kelantan",
+    "regions": [
+      "Kelantan"
+    ]
+  },
+  "KL": {
+    "name": "Kuala Lumpur",
+    "regions": [
+      "Kuala Lumpur"
+    ]
+  },
+  "LABUAN": {
+    "name": "Labuan",
+    "regions": [
+      "Labuan"
+    ]
+  },
+  "MELAKA": {
+    "name": "Malacca",
+    "regions": [
+      "Malacca"
+    ]
+  },
+  "NSEM": {
+    "name": "Negeri Sembilan",
+    "regions": [
+      "Negeri Sembilan"
+    ]
+  },
+  "PAHANG": {
+    "name": "Pahang",
+    "regions": [
+      "Pahang"
+    ]
+  },
+  "PENANG": {
+    "name": "Penang",
+    "regions": [
+      "Penang"
+    ]
+  },
+  "PERAK": {
+    "name": "Perak",
+    "regions": [
+      "Perak"
+    ]
+  },
+  "PERLIS": {
+    "name": "Perlis",
+    "regions": [
+      "Perlis"
+    ]
+  },
+  "PUTRAJAYA": {
+    "name": "Putrajaya",
+    "regions": [
+      "Putrajaya"
+    ]
+  },
+  "SABAH": {
+    "name": "Sabah",
+    "regions": [
+      "Sabah"
+    ]
+  },
+  "SARAWAK": {
+    "name": "Sarawak",
+    "regions": [
+      "Sarawak"
+    ]
+  },
+  "SELANGOR": {
+    "name": "Selangor",
+    "regions": [
+      "Selangor"
+    ]
+  },
+  "TERENGGANU": {
+    "name": "Terengganu",
+    "regions": [
+      "Terengganu"
+    ]
+  },
+  "capital": "Kuala Lumpur",
+  "currency_code": "MYR",
+  "iso3": "MYS",
+  "language_code": [
+    "mys"
+  ],
+  "continent_code": "AS"
+}

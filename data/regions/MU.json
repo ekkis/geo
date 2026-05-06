@@ -1,0 +1,36 @@
+{
+  "AG": {
+    "name": "Agalega"
+  },
+  "CC": {
+    "name": "Cargados Carajos"
+  },
+  "FL": {
+    "name": "Flacq"
+  },
+  "PA": {
+    "name": "Pamplemousses"
+  },
+  "PL": {
+    "name": "Plaines Wilhems"
+  },
+  "PU": {
+    "name": "Port Louis"
+  },
+  "RR": {
+    "name": "Rivière du Rempart"
+  },
+  "SA": {
+    "name": "Savanne"
+  },
+  "WO": {
+    "name": "Rodrigues"
+  },
+  "capital": "Port Louis",
+  "currency_code": "MUR",
+  "iso3": "MUS",
+  "language_code": [
+    "mus"
+  ],
+  "continent_code": "AF"
+}

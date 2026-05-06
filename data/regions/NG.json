@@ -1,0 +1,117 @@
+{
+  "ABI": {
+    "name": "Abia"
+  },
+  "ADA": {
+    "name": "Adamawa"
+  },
+  "AI": {
+    "name": "Akwa Ibom"
+  },
+  "ANA": {
+    "name": "Anambra"
+  },
+  "BAU": {
+    "name": "Bauchi"
+  },
+  "BAY": {
+    "name": "Bayelsa"
+  },
+  "BEN": {
+    "name": "Benue"
+  },
+  "BOR": {
+    "name": "Borno"
+  },
+  "CR": {
+    "name": "Cross River"
+  },
+  "DEL": {
+    "name": "Delta"
+  },
+  "EBO": {
+    "name": "Ebonyi"
+  },
+  "EDO": {
+    "name": "Edo"
+  },
+  "EKI": {
+    "name": "Ekiti"
+  },
+  "ENU": {
+    "name": "Enugu"
+  },
+  "GOM": {
+    "name": "Gombe"
+  },
+  "IMO": {
+    "name": "Imo"
+  },
+  "JIG": {
+    "name": "Jigawa"
+  },
+  "KAD": {
+    "name": "Kaduna"
+  },
+  "KAN": {
+    "name": "Kano"
+  },
+  "KAT": {
+    "name": "Katsina"
+  },
+  "KEB": {
+    "name": "Kebbi"
+  },
+  "KOG": {
+    "name": "Kogi"
+  },
+  "KWA": {
+    "name": "Kwara"
+  },
+  "LAG": {
+    "name": "Lagos"
+  },
+  "NAS": {
+    "name": "Nasarawa"
+  },
+  "NIG": {
+    "name": "Niger"
+  },
+  "OGU": {
+    "name": "Ogun"
+  },
+  "OND": {
+    "name": "Ondo"
+  },
+  "OSU": {
+    "name": "Osun"
+  },
+  "OYO": {
+    "name": "Oyo"
+  },
+  "PLA": {
+    "name": "Plateau"
+  },
+  "RIV": {
+    "name": "Rivers"
+  },
+  "SOK": {
+    "name": "Sokoto"
+  },
+  "TAR": {
+    "name": "Taraba"
+  },
+  "YOB": {
+    "name": "Yobe"
+  },
+  "ZAM": {
+    "name": "Zamfara"
+  },
+  "capital": "Abuja",
+  "currency_code": "NGN",
+  "iso3": "NGA",
+  "language_code": [
+    "nga"
+  ],
+  "continent_code": "AF"
+}
