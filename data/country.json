@@ -18,9 +18,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 468.0,
+    "area": 468,
     "population": 88406,
-    "flag": "\ud83c\udde6\ud83c\udde9",
+    "flag": "🇦🇩",
     "region_common": "Europe",
     "demonym": "Andorran",
     "gdp": 3727673593.0192156,
@@ -31,7 +31,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "376"
   },
   "AE": {
     "name": {
@@ -50,9 +51,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 83600.0,
+    "area": 83600,
     "population": 11294243,
-    "flag": "\ud83c\udde6\ud83c\uddea",
+    "flag": "🇦🇪",
     "region_common": "Asia",
     "demonym": "Emirati",
     "gdp": 504173451327.43365,
@@ -61,7 +62,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "971"
   },
   "AF": {
     "name": {
@@ -82,9 +84,9 @@
     "timezones": [
       "UTC+04:30"
     ],
-    "area": 652230.0,
+    "area": 652230,
     "population": 43844000,
-    "flag": "\ud83c\udde6\ud83c\uddeb",
+    "flag": "🇦🇫",
     "region_common": "Asia",
     "demonym": "Afghan",
     "gdp": 14502158192.090395,
@@ -92,7 +94,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "93"
   },
   "AG": {
     "name": {
@@ -111,9 +114,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 442.0,
+    "area": 442,
     "population": 103603,
-    "flag": "\ud83c\udde6\ud83c\uddec",
+    "flag": "🇦🇬",
     "region_common": "Americas",
     "demonym": "Antiguan, Barbudan",
     "gdp": 2033085185.185185,
@@ -122,7 +125,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-268"
   },
   "AI": {
     "name": {
@@ -141,11 +145,12 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 91.0,
+    "area": 91,
     "population": 16010,
-    "flag": "\ud83c\udde6\ud83c\uddee",
+    "flag": "🇦🇮",
     "region_common": "Americas",
-    "demonym": "Anguillian"
+    "demonym": "Anguillian",
+    "phone_code": "+1-264"
   },
   "AL": {
     "name": {
@@ -166,9 +171,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 28748.0,
+    "area": 28748,
     "population": 2363314,
-    "flag": "\ud83c\udde6\ud83c\uddf1",
+    "flag": "🇦🇱",
     "region_common": "Europe",
     "demonym": "Albanian",
     "gdp": 22977677860.797855,
@@ -177,7 +182,8 @@
       "NATO",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "355"
   },
   "AM": {
     "name": {
@@ -199,9 +205,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 29743.0,
+    "area": 29743,
     "population": 3076200,
-    "flag": "\ud83c\udde6\ud83c\uddf2",
+    "flag": "🇦🇲",
     "region_common": "Asia",
     "demonym": "Armenian",
     "gdp": 24212134631.064003,
@@ -213,7 +219,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "374"
   },
   "AO": {
     "name": {
@@ -235,9 +242,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 1246700.0,
+    "area": 1246700,
     "population": 36170961,
-    "flag": "\ud83c\udde6\ud83c\uddf4",
+    "flag": "🇦🇴",
     "region_common": "Africa",
     "demonym": "Angolan",
     "gdp": 84722957642.37566,
@@ -246,7 +253,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "244"
   },
   "AQ": {
     "name": {
@@ -274,11 +282,12 @@
       "UTC+10:00",
       "UTC+12:00"
     ],
-    "area": 14000000.0,
+    "area": 14000000,
     "population": 1300,
-    "flag": "\ud83c\udde6\ud83c\uddf6",
+    "flag": "🇦🇶",
     "region_common": "Antarctic",
-    "demonym": "Antarctican"
+    "demonym": "Antarctican",
+    "phone_code": null
   },
   "AR": {
     "name": {
@@ -300,9 +309,9 @@
     "timezones": [
       "UTC-03:00"
     ],
-    "area": 2780400.0,
+    "area": 2780400,
     "population": 46735004,
-    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "flag": "🇦🇷",
     "region_common": "Americas",
     "demonym": "Argentine",
     "gdp": 640591410663.8834,
@@ -317,7 +326,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "54"
   },
   "AS": {
     "name": {
@@ -336,13 +346,14 @@
     "timezones": [
       "UTC-11:00"
     ],
-    "area": 199.0,
+    "area": 199,
     "population": 49710,
-    "flag": "\ud83c\udde6\ud83c\uddf8",
+    "flag": "🇦🇸",
     "region_common": "Oceania",
     "demonym": "American Samoan",
-    "gdp": 871000000.0,
-    "gdp_year": 2022
+    "gdp": 871000000,
+    "gdp_year": 2022,
+    "phone_code": "+1-684"
   },
   "AT": {
     "name": {
@@ -363,9 +374,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 83871.0,
+    "area": 83871,
     "population": 9200931,
-    "flag": "\ud83c\udde6\ud83c\uddf9",
+    "flag": "🇦🇹",
     "region_common": "Europe",
     "demonym": "Austrian",
     "gdp": 516034144115.9503,
@@ -380,7 +391,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "43"
   },
   "AU": {
     "name": {
@@ -408,9 +420,9 @@
       "UTC+10:30",
       "UTC+11:30"
     ],
-    "area": 7692024.0,
+    "area": 7692024,
     "population": 27536874,
-    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "flag": "🇦🇺",
     "region_common": "Oceania",
     "demonym": "Australian",
     "gdp": 1723827215334.7063,
@@ -425,7 +437,8 @@
       "G20",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "61"
   },
   "AW": {
     "name": {
@@ -444,18 +457,19 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 180.0,
+    "area": 180,
     "population": 107566,
-    "flag": "\ud83c\udde6\ud83c\uddfc",
+    "flag": "🇦🇼",
     "region_common": "Americas",
     "demonym": "Aruban",
     "gdp": 3544707788.0566425,
-    "gdp_year": 2022
+    "gdp_year": 2022,
+    "phone_code": "297"
   },
   "AX": {
     "name": {
-      "common": "\u00c5land Islands",
-      "official": "\u00c5land Islands"
+      "common": "Åland Islands",
+      "official": "Åland Islands"
     },
     "regions": [
       "SCAN",
@@ -472,11 +486,12 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 1580.0,
+    "area": 1580,
     "population": 30654,
-    "flag": "\ud83c\udde6\ud83c\uddfd",
+    "flag": "🇦🇽",
     "region_common": "Europe",
-    "demonym": "\u00c5landish"
+    "demonym": "Ålandish",
+    "phone_code": "+358-18"
   },
   "AZ": {
     "name": {
@@ -498,9 +513,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 86600.0,
+    "area": 86600,
     "population": 10241722,
-    "flag": "\ud83c\udde6\ud83c\uddff",
+    "flag": "🇦🇿",
     "region_common": "Asia",
     "demonym": "Azerbaijani",
     "gdp": 72356176470.58824,
@@ -511,7 +526,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "994"
   },
   "BA": {
     "name": {
@@ -530,9 +546,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 51209.0,
+    "area": 51209,
     "population": 3422000,
-    "flag": "\ud83c\udde7\ud83c\udde6",
+    "flag": "🇧🇦",
     "region_common": "Europe",
     "demonym": "Bosnian, Herzegovinian",
     "gdp": 27054889362.885204,
@@ -544,7 +560,8 @@
     "organisations": [
       "BIS",
       "UN"
-    ]
+    ],
+    "phone_code": "387"
   },
   "BB": {
     "name": {
@@ -563,9 +580,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 430.0,
+    "area": 430,
     "population": 267800,
-    "flag": "\ud83c\udde7\ud83c\udde7",
+    "flag": "🇧🇧",
     "region_common": "Americas",
     "demonym": "Barbadian",
     "gdp": 6393564189.61345,
@@ -578,7 +595,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-246"
   },
   "BD": {
     "name": {
@@ -599,9 +617,9 @@
     "timezones": [
       "UTC+06:00"
     ],
-    "area": 147570.0,
+    "area": 147570,
     "population": 169828911,
-    "flag": "\ud83c\udde7\ud83c\udde9",
+    "flag": "🇧🇩",
     "region_common": "Asia",
     "demonym": "Bangladeshi",
     "gdp": 437415331040.9943,
@@ -613,7 +631,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "880"
   },
   "BE": {
     "name": {
@@ -634,9 +653,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 30528.0,
+    "area": 30528,
     "population": 11825551,
-    "flag": "\ud83c\udde7\ud83c\uddea",
+    "flag": "🇧🇪",
     "region_common": "Europe",
     "demonym": "Belgian",
     "gdp": 632216577075.1093,
@@ -652,7 +671,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "32"
   },
   "BF": {
     "name": {
@@ -675,9 +695,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 272967.0,
+    "area": 272967,
     "population": 24070553,
-    "flag": "\ud83c\udde7\ud83c\uddeb",
+    "flag": "🇧🇫",
     "region_common": "Africa",
     "demonym": "Burkinabe",
     "gdp": 20324617838.967648,
@@ -686,7 +706,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "226"
   },
   "BG": {
     "name": {
@@ -707,9 +728,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 110879.0,
+    "area": 110879,
     "population": 6437360,
-    "flag": "\ud83c\udde7\ud83c\uddec",
+    "flag": "🇧🇬",
     "region_common": "Europe",
     "demonym": "Bulgarian",
     "gdp": 101584384672.78587,
@@ -724,7 +745,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "359"
   },
   "BH": {
     "name": {
@@ -745,12 +767,12 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 765.0,
+    "area": 765,
     "population": 1594654,
-    "flag": "\ud83c\udde7\ud83c\udded",
+    "flag": "🇧🇭",
     "region_common": "Asia",
     "demonym": "Bahraini",
-    "gdp": 43205000000.0,
+    "gdp": 43205000000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "####|###",
@@ -759,7 +781,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "973"
   },
   "BI": {
     "name": {
@@ -780,9 +803,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 27834.0,
+    "area": 27834,
     "population": 12332788,
-    "flag": "\ud83c\udde7\ud83c\uddee",
+    "flag": "🇧🇮",
     "region_common": "Africa",
     "demonym": "Burundian",
     "gdp": 2642161668.9275384,
@@ -791,7 +814,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "257"
   },
   "BJ": {
     "name": {
@@ -814,9 +838,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 112622.0,
+    "area": 112622,
     "population": 13224860,
-    "flag": "\ud83c\udde7\ud83c\uddef",
+    "flag": "🇧🇯",
     "region_common": "Africa",
     "demonym": "Beninese",
     "gdp": 19673284686.00226,
@@ -825,12 +849,13 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "229"
   },
   "BL": {
     "name": {
-      "common": "Saint Barth\u00e9lemy",
-      "official": "Collectivity of Saint Barth\u00e9lemy"
+      "common": "Saint Barthélemy",
+      "official": "Collectivity of Saint Barthélemy"
     },
     "regions": [],
     "capital": "Gustavia",
@@ -844,14 +869,15 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 21.0,
+    "area": 21,
     "population": 10562,
-    "flag": "\ud83c\udde7\ud83c\uddf1",
+    "flag": "🇧🇱",
     "region_common": "Americas",
-    "demonym": "Saint Barth\u00e9lemy Islander",
+    "demonym": "Saint Barthélemy Islander",
     "postal_code": {
       "format": "### ###"
-    }
+    },
+    "phone_code": "590"
   },
   "BM": {
     "name": {
@@ -870,17 +896,18 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 54.0,
+    "area": 54,
     "population": 64055,
-    "flag": "\ud83c\udde7\ud83c\uddf2",
+    "flag": "🇧🇲",
     "region_common": "Americas",
     "demonym": "Bermudian",
-    "gdp": 7827980000.0,
+    "gdp": 7827980000,
     "gdp_year": 2022,
     "postal_code": {
       "format": "@@ ##",
       "regex": "^([A-Z]{2}\\d{2})$"
-    }
+    },
+    "phone_code": "+1-441"
   },
   "BN": {
     "name": {
@@ -901,9 +928,9 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 5765.0,
+    "area": 5765,
     "population": 455500,
-    "flag": "\ud83c\udde7\ud83c\uddf3",
+    "flag": "🇧🇳",
     "region_common": "Asia",
     "demonym": "Bruneian",
     "gdp": 15128292953.509842,
@@ -915,7 +942,8 @@
     "organisations": [
       "ASEAN",
       "WTO"
-    ]
+    ],
+    "phone_code": "673"
   },
   "BO": {
     "name": {
@@ -937,9 +965,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 1098581.0,
+    "area": 1098581,
     "population": 11365333,
-    "flag": "\ud83c\udde7\ud83c\uddf4",
+    "flag": "🇧🇴",
     "region_common": "Americas",
     "demonym": "Bolivian",
     "gdp": 45849832906.413895,
@@ -947,7 +975,8 @@
     "organisations": [
       "WTO",
       "OAS"
-    ]
+    ],
+    "phone_code": "591"
   },
   "BQ": {
     "name": {
@@ -966,11 +995,12 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 328.0,
+    "area": 328,
     "population": 31980,
-    "flag": "\ud83c\udde7\ud83c\uddf6",
+    "flag": "🇧🇶",
     "region_common": "Americas",
-    "demonym": "Dutch"
+    "demonym": "Dutch",
+    "phone_code": "599"
   },
   "BR": {
     "name": {
@@ -995,9 +1025,9 @@
       "UTC-03:00",
       "UTC-02:00"
     ],
-    "area": 8515767.0,
+    "area": 8515767,
     "population": 213421037,
-    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "flag": "🇧🇷",
     "region_common": "Americas",
     "demonym": "Brazilian",
     "gdp": 2173665655937.2737,
@@ -1012,7 +1042,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "55"
   },
   "BS": {
     "name": {
@@ -1031,17 +1062,18 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 13943.0,
+    "area": 13943,
     "population": 398165,
-    "flag": "\ud83c\udde7\ud83c\uddf8",
+    "flag": "🇧🇸",
     "region_common": "Americas",
     "demonym": "Bahamian",
-    "gdp": 14338500000.0,
+    "gdp": 14338500000,
     "gdp_year": 2023,
     "organisations": [
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-242"
   },
   "BT": {
     "name": {
@@ -1060,16 +1092,17 @@
     "timezones": [
       "UTC+06:00"
     ],
-    "area": 38394.0,
+    "area": 38394,
     "population": 784043,
-    "flag": "\ud83c\udde7\ud83c\uddf9",
+    "flag": "🇧🇹",
     "region_common": "Asia",
     "demonym": "Bhutanese",
     "gdp": 2898227713.223154,
     "gdp_year": 2022,
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "975"
   },
   "BV": {
     "name": {
@@ -1088,11 +1121,12 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 49.0,
+    "area": 49,
     "population": 0,
-    "flag": "\ud83c\udde7\ud83c\uddfb",
+    "flag": "🇧🇻",
     "region_common": "Antarctic",
-    "demonym": "Bouvet Islandese"
+    "demonym": "Bouvet Islandese",
+    "phone_code": null
   },
   "BW": {
     "name": {
@@ -1114,9 +1148,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 582000.0,
+    "area": 582000,
     "population": 2359609,
-    "flag": "\ud83c\udde7\ud83c\uddfc",
+    "flag": "🇧🇼",
     "region_common": "Africa",
     "demonym": "Motswana",
     "gdp": 19395765126.312748,
@@ -1125,7 +1159,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "267"
   },
   "BY": {
     "name": {
@@ -1146,9 +1181,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 207600.0,
+    "area": 207600,
     "population": 9109280,
-    "flag": "\ud83c\udde7\ud83c\uddfe",
+    "flag": "🇧🇾",
     "region_common": "Europe",
     "demonym": "Belarusian",
     "gdp": 71857382745.6066,
@@ -1159,7 +1194,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "375"
   },
   "BZ": {
     "name": {
@@ -1180,18 +1216,19 @@
     "timezones": [
       "UTC-06:00"
     ],
-    "area": 22966.0,
+    "area": 22966,
     "population": 417634,
-    "flag": "\ud83c\udde7\ud83c\uddff",
+    "flag": "🇧🇿",
     "region_common": "Americas",
     "demonym": "Belizean",
-    "gdp": 3281500000.0,
+    "gdp": 3281500000,
     "gdp_year": 2023,
     "organisations": [
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "501"
   },
   "CA": {
     "name": {
@@ -1217,9 +1254,9 @@
       "UTC-04:00",
       "UTC-03:30"
     ],
-    "area": 9984670.0,
+    "area": 9984670,
     "population": 41651653,
-    "flag": "\ud83c\udde8\ud83c\udde6",
+    "flag": "🇨🇦",
     "region_common": "Americas",
     "demonym": "Canadian",
     "gdp": 2140085567791.4514,
@@ -1236,7 +1273,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "1"
   },
   "CC": {
     "name": {
@@ -1255,11 +1293,12 @@
     "timezones": [
       "UTC+06:30"
     ],
-    "area": 14.0,
+    "area": 14,
     "population": 593,
-    "flag": "\ud83c\udde8\ud83c\udde8",
+    "flag": "🇨🇨",
     "region_common": "Oceania",
-    "demonym": "Cocos Islander"
+    "demonym": "Cocos Islander",
+    "phone_code": "61"
   },
   "CD": {
     "name": {
@@ -1282,13 +1321,14 @@
       "UTC+01:00",
       "UTC+02:00"
     ],
-    "area": 2344858.0,
+    "area": 2344858,
     "population": 112832000,
-    "flag": "\ud83c\udde8\ud83c\udde9",
+    "flag": "🇨🇩",
     "region_common": "Africa",
     "demonym": "Congolese",
     "gdp": 66383287002.996895,
-    "gdp_year": 2023
+    "gdp_year": 2023,
+    "phone_code": "243"
   },
   "CF": {
     "name": {
@@ -1310,9 +1350,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 622984.0,
+    "area": 622984,
     "population": 6470307,
-    "flag": "\ud83c\udde8\ud83c\uddeb",
+    "flag": "🇨🇫",
     "region_common": "Africa",
     "demonym": "Central African",
     "gdp": 2555492085.2483063,
@@ -1321,7 +1361,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "236"
   },
   "CG": {
     "name": {
@@ -1342,9 +1383,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 342000.0,
+    "area": 342000,
     "population": 6142180,
-    "flag": "\ud83c\udde8\ud83c\uddec",
+    "flag": "🇨🇬",
     "region_common": "Africa",
     "demonym": "Congolese",
     "gdp": 15321055818.326313,
@@ -1352,7 +1393,8 @@
     "organisations": [
       "WTO",
       "AU"
-    ]
+    ],
+    "phone_code": "242"
   },
   "CH": {
     "name": {
@@ -1373,9 +1415,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 41284.0,
+    "area": 41284,
     "population": 9082848,
-    "flag": "\ud83c\udde8\ud83c\udded",
+    "flag": "🇨🇭",
     "region_common": "Europe",
     "demonym": "Swiss",
     "gdp": 884940402230.4088,
@@ -1389,12 +1431,13 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "41"
   },
   "CI": {
     "name": {
       "common": "Ivory Coast",
-      "official": "Republic of C\u00f4te d'Ivoire"
+      "official": "Republic of Côte d'Ivoire"
     },
     "regions": [
       "SSA"
@@ -1410,16 +1453,17 @@
     "timezones": [
       "UTC"
     ],
-    "area": 322463.0,
+    "area": 322463,
     "population": 31719275,
-    "flag": "\ud83c\udde8\ud83c\uddee",
+    "flag": "🇨🇮",
     "region_common": "Africa",
     "demonym": "Ivorian",
     "gdp": 78788828906.86345,
     "gdp_year": 2023,
     "organisations": [
       "AU"
-    ]
+    ],
+    "phone_code": "225"
   },
   "CK": {
     "name": {
@@ -1438,11 +1482,12 @@
     "timezones": [
       "UTC-10:00"
     ],
-    "area": 236.0,
+    "area": 236,
     "population": 15040,
-    "flag": "\ud83c\udde8\ud83c\uddf0",
+    "flag": "🇨🇰",
     "region_common": "Oceania",
-    "demonym": "Cook Islander"
+    "demonym": "Cook Islander",
+    "phone_code": "682"
   },
   "CL": {
     "name": {
@@ -1465,9 +1510,9 @@
       "UTC-06:00",
       "UTC-04:00"
     ],
-    "area": 756102.0,
+    "area": 756102,
     "population": 20206953,
-    "flag": "\ud83c\udde8\ud83c\uddf1",
+    "flag": "🇨🇱",
     "region_common": "Americas",
     "demonym": "Chilean",
     "gdp": 335533331669.2191,
@@ -1482,7 +1527,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "56"
   },
   "CM": {
     "name": {
@@ -1504,9 +1550,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 475442.0,
+    "area": 475442,
     "population": 29442327,
-    "flag": "\ud83c\udde8\ud83c\uddf2",
+    "flag": "🇨🇲",
     "region_common": "Africa",
     "demonym": "Cameroonian",
     "gdp": 47945510090.05286,
@@ -1515,7 +1561,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "237"
   },
   "CN": {
     "name": {
@@ -1536,9 +1583,9 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 9706961.0,
+    "area": 9706961,
     "population": 1408280000,
-    "flag": "\ud83c\udde8\ud83c\uddf3",
+    "flag": "🇨🇳",
     "region_common": "Asia",
     "demonym": "Chinese",
     "gdp": 17794781986104.457,
@@ -1552,7 +1599,8 @@
       "G20",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "86"
   },
   "CO": {
     "name": {
@@ -1574,9 +1622,9 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 1141748.0,
+    "area": 1141748,
     "population": 53057212,
-    "flag": "\ud83c\udde8\ud83c\uddf4",
+    "flag": "🇨🇴",
     "region_common": "Americas",
     "demonym": "Colombian",
     "gdp": 363540156234.86835,
@@ -1587,7 +1635,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "57"
   },
   "CR": {
     "name": {
@@ -1608,9 +1657,9 @@
     "timezones": [
       "UTC-06:00"
     ],
-    "area": 51100.0,
+    "area": 51100,
     "population": 5309625,
-    "flag": "\ud83c\udde8\ud83c\uddf7",
+    "flag": "🇨🇷",
     "region_common": "Americas",
     "demonym": "Costa Rican",
     "gdp": 86497941439.01744,
@@ -1624,7 +1673,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "506"
   },
   "CU": {
     "name": {
@@ -1646,12 +1696,12 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 109884.0,
+    "area": 109884,
     "population": 9748007,
-    "flag": "\ud83c\udde8\ud83c\uddfa",
+    "flag": "🇨🇺",
     "region_common": "Americas",
     "demonym": "Cuban",
-    "gdp": 107351800000.0,
+    "gdp": 107351800000,
     "gdp_year": 2020,
     "postal_code": {
       "format": "CP #####",
@@ -1661,7 +1711,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "53"
   },
   "CV": {
     "name": {
@@ -1682,9 +1733,9 @@
     "timezones": [
       "UTC-01:00"
     ],
-    "area": 4033.0,
+    "area": 4033,
     "population": 491233,
-    "flag": "\ud83c\udde8\ud83c\uddfb",
+    "flag": "🇨🇻",
     "region_common": "Africa",
     "demonym": "Cape Verdian",
     "gdp": 2587252076.305599,
@@ -1696,12 +1747,13 @@
     "organisations": [
       "WTO",
       "AU"
-    ]
+    ],
+    "phone_code": "238"
   },
   "CW": {
     "name": {
-      "common": "Cura\u00e7ao",
-      "official": "Country of Cura\u00e7ao"
+      "common": "Curaçao",
+      "official": "Country of Curaçao"
     },
     "regions": [],
     "capital": " Willemstad",
@@ -1717,13 +1769,14 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 444.0,
+    "area": 444,
     "population": 156115,
-    "flag": "\ud83c\udde8\ud83c\uddfc",
+    "flag": "🇨🇼",
     "region_common": "Americas",
-    "demonym": "Cura\u00e7aoan",
+    "demonym": "Curaçaoan",
     "gdp": 3073840325.4328494,
-    "gdp_year": 2022
+    "gdp_year": 2022,
+    "phone_code": "599"
   },
   "CX": {
     "name": {
@@ -1742,15 +1795,16 @@
     "timezones": [
       "UTC+07:00"
     ],
-    "area": 135.0,
+    "area": 135,
     "population": 1692,
-    "flag": "\ud83c\udde8\ud83c\uddfd",
+    "flag": "🇨🇽",
     "region_common": "Oceania",
     "demonym": "Christmas Islander",
     "postal_code": {
       "format": "####",
       "regex": "^(\\d{4})$"
-    }
+    },
+    "phone_code": "61"
   },
   "CY": {
     "name": {
@@ -1772,9 +1826,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 9251.0,
+    "area": 9251,
     "population": 1442614,
-    "flag": "\ud83c\udde8\ud83c\uddfe",
+    "flag": "🇨🇾",
     "region_common": "Europe",
     "demonym": "Cypriot",
     "gdp": 32229622669.195114,
@@ -1787,7 +1841,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "357"
   },
   "CZ": {
     "name": {
@@ -1808,9 +1863,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 78865.0,
+    "area": 78865,
     "population": 10882341,
-    "flag": "\ud83c\udde8\ud83c\uddff",
+    "flag": "🇨🇿",
     "region_common": "Europe",
     "demonym": "Czech",
     "gdp": 330858339871.6861,
@@ -1822,7 +1877,8 @@
     "organisations": [
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "420"
   },
   "DE": {
     "name": {
@@ -1844,9 +1900,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 357114.0,
+    "area": 357114,
     "population": 83491249,
-    "flag": "\ud83c\udde9\ud83c\uddea",
+    "flag": "🇩🇪",
     "region_common": "Europe",
     "demonym": "German",
     "gdp": 4456081016705.961,
@@ -1863,7 +1919,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "49"
   },
   "DJ": {
     "name": {
@@ -1884,9 +1941,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 23200.0,
+    "area": 23200,
     "population": 1066809,
-    "flag": "\ud83c\udde9\ud83c\uddef",
+    "flag": "🇩🇯",
     "region_common": "Africa",
     "demonym": "Djibouti",
     "gdp": 4098530513.5577674,
@@ -1895,7 +1952,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "253"
   },
   "DK": {
     "name": {
@@ -1923,9 +1981,9 @@
       "UTC",
       "UTC+01:00"
     ],
-    "area": 43094.0,
+    "area": 43094,
     "population": 6011488,
-    "flag": "\ud83c\udde9\ud83c\uddf0",
+    "flag": "🇩🇰",
     "region_common": "Europe",
     "demonym": "Danish",
     "gdp": 404198757537.9742,
@@ -1941,7 +1999,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "45"
   },
   "DM": {
     "name": {
@@ -1960,9 +2019,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 751.0,
+    "area": 751,
     "population": 67408,
-    "flag": "\ud83c\udde9\ud83c\uddf2",
+    "flag": "🇩🇲",
     "region_common": "Americas",
     "demonym": "Dominican",
     "gdp": 653992592.5925926,
@@ -1971,7 +2030,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-767"
   },
   "DO": {
     "name": {
@@ -1992,9 +2052,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 48671.0,
+    "area": 48671,
     "population": 10771504,
-    "flag": "\ud83c\udde9\ud83c\uddf4",
+    "flag": "🇩🇴",
     "region_common": "Americas",
     "demonym": "Dominican",
     "gdp": 121444279313.93079,
@@ -2007,7 +2067,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-809 and 1-829"
   },
   "DZ": {
     "name": {
@@ -2029,9 +2090,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 2381741.0,
+    "area": 2381741,
     "population": 47400000,
-    "flag": "\ud83c\udde9\ud83c\uddff",
+    "flag": "🇩🇿",
     "region_common": "Africa",
     "demonym": "Algerian",
     "gdp": 239899491127.74237,
@@ -2044,7 +2105,8 @@
       "BIS",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "213"
   },
   "EC": {
     "name": {
@@ -2066,12 +2128,12 @@
       "UTC-06:00",
       "UTC-05:00"
     ],
-    "area": 276841.0,
+    "area": 276841,
     "population": 18103660,
-    "flag": "\ud83c\uddea\ud83c\udde8",
+    "flag": "🇪🇨",
     "region_common": "Americas",
     "demonym": "Ecuadorean",
-    "gdp": 118844826000.0,
+    "gdp": 118844826000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "@####@",
@@ -2081,7 +2143,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "593"
   },
   "EE": {
     "name": {
@@ -2102,9 +2165,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 45227.0,
+    "area": 45227,
     "population": 1369995,
-    "flag": "\ud83c\uddea\ud83c\uddea",
+    "flag": "🇪🇪",
     "region_common": "Europe",
     "demonym": "Estonian",
     "gdp": 40744848827.95366,
@@ -2120,7 +2183,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "372"
   },
   "EG": {
     "name": {
@@ -2139,9 +2203,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 1002450.0,
+    "area": 1002450,
     "population": 107271260,
-    "flag": "\ud83c\uddea\ud83c\uddec",
+    "flag": "🇪🇬",
     "region_common": "Africa",
     "demonym": "Egyptian",
     "gdp": 395926075163.0058,
@@ -2154,7 +2218,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "20"
   },
   "EH": {
     "name": {
@@ -2175,11 +2240,12 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "area": 266000.0,
+    "area": 266000,
     "population": 600904,
-    "flag": "\ud83c\uddea\ud83c\udded",
+    "flag": "🇪🇭",
     "region_common": "Africa",
-    "demonym": "Sahrawi"
+    "demonym": "Sahrawi",
+    "phone_code": "212"
   },
   "ER": {
     "name": {
@@ -2200,9 +2266,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 117600.0,
+    "area": 117600,
     "population": 3607000,
-    "flag": "\ud83c\uddea\ud83c\uddf7",
+    "flag": "🇪🇷",
     "region_common": "Africa",
     "demonym": "Eritrean",
     "gdp": 2065001626.0162601,
@@ -2210,7 +2276,8 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "291"
   },
   "ES": {
     "name": {
@@ -2232,9 +2299,9 @@
       "UTC",
       "UTC+01:00"
     ],
-    "area": 505992.0,
+    "area": 505992,
     "population": 49315949,
-    "flag": "\ud83c\uddea\ud83c\uddf8",
+    "flag": "🇪🇸",
     "region_common": "Europe",
     "demonym": "Spanish",
     "gdp": 1580694712515.714,
@@ -2250,7 +2317,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "34"
   },
   "ET": {
     "name": {
@@ -2272,9 +2340,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 1104300.0,
+    "area": 1104300,
     "population": 111652998,
-    "flag": "\ud83c\uddea\ud83c\uddf9",
+    "flag": "🇪🇹",
     "region_common": "Africa",
     "demonym": "Ethiopian",
     "gdp": 163697927593.98236,
@@ -2286,7 +2354,8 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "251"
   },
   "FI": {
     "name": {
@@ -2308,9 +2377,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 338455.0,
+    "area": 338455,
     "population": 5650325,
-    "flag": "\ud83c\uddeb\ud83c\uddee",
+    "flag": "🇫🇮",
     "region_common": "Europe",
     "demonym": "Finnish",
     "gdp": 300187202696.08374,
@@ -2326,7 +2395,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "358"
   },
   "FJ": {
     "name": {
@@ -2347,9 +2417,9 @@
     "timezones": [
       "UTC+12:00"
     ],
-    "area": 18272.0,
+    "area": 18272,
     "population": 900869,
-    "flag": "\ud83c\uddeb\ud83c\uddef",
+    "flag": "🇫🇯",
     "region_common": "Oceania",
     "demonym": "Fijian",
     "gdp": 5494797540.733647,
@@ -2357,7 +2427,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "679"
   },
   "FK": {
     "name": {
@@ -2376,11 +2447,12 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 12173.0,
+    "area": 12173,
     "population": 3662,
-    "flag": "\ud83c\uddeb\ud83c\uddf0",
+    "flag": "🇫🇰",
     "region_common": "Americas",
-    "demonym": "Falkland Islander"
+    "demonym": "Falkland Islander",
+    "phone_code": "500"
   },
   "FM": {
     "name": {
@@ -2401,17 +2473,18 @@
       "UTC+10:00",
       "UTC+11:00"
     ],
-    "area": 702.0,
+    "area": 702,
     "population": 105564,
-    "flag": "\ud83c\uddeb\ud83c\uddf2",
+    "flag": "🇫🇲",
     "region_common": "Oceania",
     "demonym": "Micronesian",
-    "gdp": 460000000.0,
+    "gdp": 460000000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
+    },
+    "phone_code": "691"
   },
   "FO": {
     "name": {
@@ -2432,9 +2505,9 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "area": 1393.0,
+    "area": 1393,
     "population": 54885,
-    "flag": "\ud83c\uddeb\ud83c\uddf4",
+    "flag": "🇫🇴",
     "region_common": "Europe",
     "demonym": "Faroese",
     "gdp": 3555929833.050505,
@@ -2442,7 +2515,8 @@
     "postal_code": {
       "format": "FO-###",
       "regex": "^(?:FO)*(\\d{3})$"
-    }
+    },
+    "phone_code": "298"
   },
   "FR": {
     "name": {
@@ -2477,9 +2551,9 @@
       "UTC+11:00",
       "UTC+12:00"
     ],
-    "area": 543908.0,
+    "area": 543908,
     "population": 66351959,
-    "flag": "\ud83c\uddeb\ud83c\uddf7",
+    "flag": "🇫🇷",
     "region_common": "Europe",
     "demonym": "French",
     "gdp": 3030904089607.8965,
@@ -2496,7 +2570,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "33"
   },
   "GA": {
     "name": {
@@ -2517,9 +2592,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 267668.0,
+    "area": 267668,
     "population": 2469296,
-    "flag": "\ud83c\uddec\ud83c\udde6",
+    "flag": "🇬🇦",
     "region_common": "Africa",
     "demonym": "Gabonese",
     "gdp": 20516134388.66078,
@@ -2528,7 +2603,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "241"
   },
   "GB": {
     "name": {
@@ -2558,9 +2634,9 @@
       "UTC+02:00",
       "UTC+06:00"
     ],
-    "area": 244376.0,
+    "area": 244376,
     "population": 69281437,
-    "flag": "\ud83c\uddec\ud83c\udde7",
+    "flag": "🇬🇧",
     "region_common": "Europe",
     "demonym": "British",
     "gdp": 3340032380668.0356,
@@ -2575,7 +2651,8 @@
       "BIS",
       "G20",
       "WTO"
-    ]
+    ],
+    "phone_code": "44"
   },
   "GD": {
     "name": {
@@ -2594,9 +2671,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 344.0,
+    "area": 344,
     "population": 109021,
-    "flag": "\ud83c\uddec\ud83c\udde9",
+    "flag": "🇬🇩",
     "region_common": "Americas",
     "demonym": "Grenadian",
     "gdp": 1320334235.588974,
@@ -2605,7 +2682,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-473"
   },
   "GE": {
     "name": {
@@ -2627,9 +2705,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 69700.0,
+    "area": 69700,
     "population": 4000921,
-    "flag": "\ud83c\uddec\ud83c\uddea",
+    "flag": "🇬🇪",
     "region_common": "Asia",
     "demonym": "Georgian",
     "gdp": 30535530479.022663,
@@ -2641,7 +2719,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "995"
   },
   "GF": {
     "name": {
@@ -2662,15 +2741,16 @@
     "timezones": [
       "UTC-03:00"
     ],
-    "area": 83534.0,
+    "area": 83534,
     "population": 292354,
-    "flag": "\ud83c\uddec\ud83c\uddeb",
+    "flag": "🇬🇫",
     "region_common": "Americas",
     "demonym": "Guianan",
     "postal_code": {
       "format": "#####",
       "regex": "^((97|98)3\\d{2})$"
-    }
+    },
+    "phone_code": "594"
   },
   "GG": {
     "name": {
@@ -2689,15 +2769,16 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "area": 78.0,
+    "area": 78,
     "population": 64781,
-    "flag": "\ud83c\uddec\ud83c\uddec",
+    "flag": "🇬🇬",
     "region_common": "Europe",
     "demonym": "Channel Islander",
     "postal_code": {
       "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
       "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
-    }
+    },
+    "phone_code": "+44-1481"
   },
   "GH": {
     "name": {
@@ -2718,9 +2799,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 238533.0,
+    "area": 238533,
     "population": 33742380,
-    "flag": "\ud83c\uddec\ud83c\udded",
+    "flag": "🇬🇭",
     "region_common": "Africa",
     "demonym": "Ghanaian",
     "gdp": 76370394412.41626,
@@ -2729,7 +2810,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "233"
   },
   "GI": {
     "name": {
@@ -2750,11 +2832,12 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 6.0,
+    "area": 6,
     "population": 38000,
-    "flag": "\ud83c\uddec\ud83c\uddee",
+    "flag": "🇬🇮",
     "region_common": "Europe",
-    "demonym": "Gibraltar"
+    "demonym": "Gibraltar",
+    "phone_code": "350"
   },
   "GL": {
     "name": {
@@ -2778,9 +2861,9 @@
       "UTC-01:00",
       "UTC+00:00"
     ],
-    "area": 2166086.0,
+    "area": 2166086,
     "population": 56542,
-    "flag": "\ud83c\uddec\ud83c\uddf1",
+    "flag": "🇬🇱",
     "region_common": "Americas",
     "demonym": "Greenlandic",
     "gdp": 3235809504.298714,
@@ -2788,7 +2871,8 @@
     "postal_code": {
       "format": "####",
       "regex": "^(\\d{4})$"
-    }
+    },
+    "phone_code": "299"
   },
   "GM": {
     "name": {
@@ -2809,9 +2893,9 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "area": 10689.0,
+    "area": 10689,
     "population": 2422712,
-    "flag": "\ud83c\uddec\ud83c\uddf2",
+    "flag": "🇬🇲",
     "region_common": "Africa",
     "demonym": "Gambian",
     "gdp": 2339904156.792144,
@@ -2820,7 +2904,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "220"
   },
   "GN": {
     "name": {
@@ -2841,9 +2926,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 245857.0,
+    "area": 245857,
     "population": 14363931,
-    "flag": "\ud83c\uddec\ud83c\uddf3",
+    "flag": "🇬🇳",
     "region_common": "Africa",
     "demonym": "Guinean",
     "gdp": 23612295818.096096,
@@ -2852,7 +2937,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "224"
   },
   "GP": {
     "name": {
@@ -2873,15 +2959,16 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 1628.0,
+    "area": 1628,
     "population": 378561,
-    "flag": "\ud83c\uddec\ud83c\uddf5",
+    "flag": "🇬🇵",
     "region_common": "Americas",
     "demonym": "Guadeloupian",
     "postal_code": {
       "format": "#####",
       "regex": "^((97|98)\\d{3})$"
-    }
+    },
+    "phone_code": "590"
   },
   "GQ": {
     "name": {
@@ -2902,9 +2989,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 28051.0,
+    "area": 28051,
     "population": 1668768,
-    "flag": "\ud83c\uddec\ud83c\uddf6",
+    "flag": "🇬🇶",
     "region_common": "Africa",
     "demonym": "Equatorial Guinean",
     "gdp": 12116922539.411173,
@@ -2912,7 +2999,8 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "240"
   },
   "GR": {
     "name": {
@@ -2933,9 +3021,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 131990.0,
+    "area": 131990,
     "population": 10400720,
-    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "flag": "🇬🇷",
     "region_common": "Europe",
     "demonym": "Greek",
     "gdp": 238206312632.52774,
@@ -2951,7 +3039,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "30"
   },
   "GS": {
     "name": {
@@ -2970,11 +3059,12 @@
     "timezones": [
       "UTC-02:00"
     ],
-    "area": 3903.0,
+    "area": 3903,
     "population": 0,
-    "flag": "\ud83c\uddec\ud83c\uddf8",
+    "flag": "🇬🇸",
     "region_common": "Antarctic",
-    "demonym": "South Georgian South Sandwich Islander"
+    "demonym": "South Georgian South Sandwich Islander",
+    "phone_code": null
   },
   "GT": {
     "name": {
@@ -2995,9 +3085,9 @@
     "timezones": [
       "UTC-06:00"
     ],
-    "area": 108889.0,
+    "area": 108889,
     "population": 18079810,
-    "flag": "\ud83c\uddec\ud83c\uddf9",
+    "flag": "🇬🇹",
     "region_common": "Americas",
     "demonym": "Guatemalan",
     "gdp": 102050473863.63637,
@@ -3010,7 +3100,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "502"
   },
   "GU": {
     "name": {
@@ -3029,17 +3120,18 @@
     "timezones": [
       "UTC+10:00"
     ],
-    "area": 549.0,
+    "area": 549,
     "population": 153836,
-    "flag": "\ud83c\uddec\ud83c\uddfa",
+    "flag": "🇬🇺",
     "region_common": "Oceania",
     "demonym": "Guamanian",
-    "gdp": 6910000000.0,
+    "gdp": 6910000000,
     "gdp_year": 2022,
     "postal_code": {
       "format": "969##",
       "regex": "^(969\\d{2})$"
-    }
+    },
+    "phone_code": "+1-671"
   },
   "GW": {
     "name": {
@@ -3060,9 +3152,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 36125.0,
+    "area": 36125,
     "population": 1781308,
-    "flag": "\ud83c\uddec\ud83c\uddfc",
+    "flag": "🇬🇼",
     "region_common": "Africa",
     "demonym": "Guinea-Bissauan",
     "gdp": 1966461400.3583264,
@@ -3075,7 +3167,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "245"
   },
   "GY": {
     "name": {
@@ -3096,9 +3189,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 214969.0,
+    "area": 214969,
     "population": 772975,
-    "flag": "\ud83c\uddec\ud83c\uddfe",
+    "flag": "🇬🇾",
     "region_common": "Americas",
     "demonym": "Guyanese",
     "gdp": 16786302158.273382,
@@ -3107,7 +3200,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "592"
   },
   "HK": {
     "name": {
@@ -3126,16 +3220,17 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 1104.0,
+    "area": 1104,
     "population": 7527500,
-    "flag": "\ud83c\udded\ud83c\uddf0",
+    "flag": "🇭🇰",
     "region_common": "Asia",
     "demonym": "Hong Konger",
     "gdp": 382054574298.52905,
     "gdp_year": 2023,
     "organisations": [
       "BIS"
-    ]
+    ],
+    "phone_code": "852"
   },
   "HM": {
     "name": {
@@ -3154,11 +3249,12 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 412.0,
+    "area": 412,
     "population": 0,
-    "flag": "\ud83c\udded\ud83c\uddf2",
+    "flag": "🇭🇲",
     "region_common": "Antarctic",
-    "demonym": "Heard and McDonald Islander"
+    "demonym": "Heard and McDonald Islander",
+    "phone_code": " "
   },
   "HN": {
     "name": {
@@ -3179,9 +3275,9 @@
     "timezones": [
       "UTC-06:00"
     ],
-    "area": 112492.0,
+    "area": 112492,
     "population": 9892632,
-    "flag": "\ud83c\udded\ud83c\uddf3",
+    "flag": "🇭🇳",
     "region_common": "Americas",
     "demonym": "Honduran",
     "gdp": 34400509852.04365,
@@ -3194,7 +3290,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "504"
   },
   "HR": {
     "name": {
@@ -3215,9 +3312,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 56594.0,
+    "area": 56594,
     "population": 3866233,
-    "flag": "\ud83c\udded\ud83c\uddf7",
+    "flag": "🇭🇷",
     "region_common": "Europe",
     "demonym": "Croatian",
     "gdp": 82688842717.3926,
@@ -3232,7 +3329,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "385"
   },
   "HT": {
     "name": {
@@ -3253,9 +3351,9 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 27750.0,
+    "area": 27750,
     "population": 11867032,
-    "flag": "\ud83c\udded\ud83c\uddf9",
+    "flag": "🇭🇹",
     "region_common": "Americas",
     "demonym": "Haitian",
     "gdp": 19850829757.747147,
@@ -3268,7 +3366,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "509"
   },
   "HU": {
     "name": {
@@ -3289,9 +3388,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 93028.0,
+    "area": 93028,
     "population": 9539502,
-    "flag": "\ud83c\udded\ud83c\uddfa",
+    "flag": "🇭🇺",
     "region_common": "Europe",
     "demonym": "Hungarian",
     "gdp": 212388906458.72394,
@@ -3307,7 +3406,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "36"
   },
   "ID": {
     "name": {
@@ -3331,9 +3431,9 @@
       "UTC+08:00",
       "UTC+09:00"
     ],
-    "area": 1904569.0,
+    "area": 1904569,
     "population": 284438782,
-    "flag": "\ud83c\uddee\ud83c\udde9",
+    "flag": "🇮🇩",
     "region_common": "Asia",
     "demonym": "Indonesian",
     "gdp": 1371171152331.155,
@@ -3348,7 +3448,8 @@
       "G20",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "62"
   },
   "IE": {
     "name": {
@@ -3369,9 +3470,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 70273.0,
+    "area": 70273,
     "population": 5458600,
-    "flag": "\ud83c\uddee\ud83c\uddea",
+    "flag": "🇮🇪",
     "region_common": "Europe",
     "demonym": "Irish",
     "gdp": 545629450403.7351,
@@ -3382,7 +3483,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "353"
   },
   "IL": {
     "name": {
@@ -3403,9 +3505,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 21937.0,
+    "area": 21937,
     "population": 10134800,
-    "flag": "\ud83c\uddee\ud83c\uddf1",
+    "flag": "🇮🇱",
     "region_common": "Asia",
     "demonym": "Israeli",
     "gdp": 509901495702.1033,
@@ -3419,7 +3521,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "972"
   },
   "IM": {
     "name": {
@@ -3438,9 +3541,9 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "area": 572.0,
+    "area": 572,
     "population": 84530,
-    "flag": "\ud83c\uddee\ud83c\uddf2",
+    "flag": "🇮🇲",
     "region_common": "Europe",
     "demonym": "Manx",
     "gdp": 7931193222.064053,
@@ -3448,7 +3551,8 @@
     "postal_code": {
       "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
       "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
-    }
+    },
+    "phone_code": "+44-1624"
   },
   "IN": {
     "name": {
@@ -3469,9 +3573,9 @@
     "timezones": [
       "UTC+05:30"
     ],
-    "area": 3287263.0,
+    "area": 3287263,
     "population": 1417492000,
-    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "flag": "🇮🇳",
     "region_common": "Asia",
     "demonym": "Indian",
     "gdp": 3549918918777.5317,
@@ -3485,7 +3589,8 @@
       "G20",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "91"
   },
   "IO": {
     "name": {
@@ -3504,11 +3609,12 @@
     "timezones": [
       "UTC+06:00"
     ],
-    "area": 60.0,
+    "area": 60,
     "population": 0,
-    "flag": "\ud83c\uddee\ud83c\uddf4",
+    "flag": "🇮🇴",
     "region_common": "Africa",
-    "demonym": "Indian"
+    "demonym": "Indian",
+    "phone_code": "246"
   },
   "IQ": {
     "name": {
@@ -3527,9 +3633,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 438317.0,
+    "area": 438317,
     "population": 46118793,
-    "flag": "\ud83c\uddee\ud83c\uddf6",
+    "flag": "🇮🇶",
     "region_common": "Asia",
     "demonym": "Iraqi",
     "gdp": 250842782139.46417,
@@ -3540,7 +3646,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "964"
   },
   "IR": {
     "name": {
@@ -3559,9 +3666,9 @@
     "timezones": [
       "UTC+03:30"
     ],
-    "area": 1648195.0,
+    "area": 1648195,
     "population": 85961000,
-    "flag": "\ud83c\uddee\ud83c\uddf7",
+    "flag": "🇮🇷",
     "region_common": "Asia",
     "demonym": "Iranian",
     "gdp": 401504514718.7182,
@@ -3569,7 +3676,8 @@
     "postal_code": {
       "format": "##########",
       "regex": "^(\\d{10})$"
-    }
+    },
+    "phone_code": "98"
   },
   "IS": {
     "name": {
@@ -3592,9 +3700,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 103000.0,
+    "area": 103000,
     "population": 391810,
-    "flag": "\ud83c\uddee\ud83c\uddf8",
+    "flag": "🇮🇸",
     "region_common": "Europe",
     "demonym": "Icelander",
     "gdp": 31020032583.197216,
@@ -3609,7 +3717,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "354"
   },
   "IT": {
     "name": {
@@ -3630,9 +3739,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 301336.0,
+    "area": 301336,
     "population": 58927633,
-    "flag": "\ud83c\uddee\ud83c\uddf9",
+    "flag": "🇮🇹",
     "region_common": "Europe",
     "demonym": "Italian",
     "gdp": 2254851212731.8047,
@@ -3649,7 +3758,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "39"
   },
   "JE": {
     "name": {
@@ -3668,15 +3778,16 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 116.0,
+    "area": 116,
     "population": 103267,
-    "flag": "\ud83c\uddef\ud83c\uddea",
+    "flag": "🇯🇪",
     "region_common": "Europe",
     "demonym": "Channel Islander",
     "postal_code": {
       "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
       "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
-    }
+    },
+    "phone_code": "+44-1534"
   },
   "JM": {
     "name": {
@@ -3695,9 +3806,9 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 10991.0,
+    "area": 10991,
     "population": 2825544,
-    "flag": "\ud83c\uddef\ud83c\uddf2",
+    "flag": "🇯🇲",
     "region_common": "Americas",
     "demonym": "Jamaican",
     "gdp": 19423355367.23718,
@@ -3706,7 +3817,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-876"
   },
   "JO": {
     "name": {
@@ -3729,9 +3841,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 89342.0,
+    "area": 89342,
     "population": 11734000,
-    "flag": "\ud83c\uddef\ud83c\uddf4",
+    "flag": "🇯🇴",
     "region_common": "Asia",
     "demonym": "Jordanian",
     "gdp": 50813642348.674644,
@@ -3743,7 +3855,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "962"
   },
   "JP": {
     "name": {
@@ -3764,9 +3877,9 @@
     "timezones": [
       "UTC+09:00"
     ],
-    "area": 377930.0,
+    "area": 377930,
     "population": 123210000,
-    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "flag": "🇯🇵",
     "region_common": "Asia",
     "demonym": "Japanese",
     "gdp": 4212945159781.403,
@@ -3781,7 +3894,8 @@
       "G20",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "81"
   },
   "KE": {
     "name": {
@@ -3802,9 +3916,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 580367.0,
+    "area": 580367,
     "population": 53330978,
-    "flag": "\ud83c\uddf0\ud83c\uddea",
+    "flag": "🇰🇪",
     "region_common": "Africa",
     "demonym": "Kenyan",
     "gdp": 107440575838.04752,
@@ -3817,7 +3931,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "254"
   },
   "KG": {
     "name": {
@@ -3838,9 +3953,9 @@
     "timezones": [
       "UTC+06:00"
     ],
-    "area": 199951.0,
+    "area": 199951,
     "population": 7281800,
-    "flag": "\ud83c\uddf0\ud83c\uddec",
+    "flag": "🇰🇬",
     "region_common": "Asia",
     "demonym": "Kirghiz",
     "gdp": 13987627908.838139,
@@ -3852,7 +3967,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "996"
   },
   "KH": {
     "name": {
@@ -3874,9 +3990,9 @@
     "timezones": [
       "UTC+07:00"
     ],
-    "area": 181035.0,
+    "area": 181035,
     "population": 17577760,
-    "flag": "\ud83c\uddf0\ud83c\udded",
+    "flag": "🇰🇭",
     "region_common": "Asia",
     "demonym": "Cambodian",
     "gdp": 31772759998.85713,
@@ -3889,7 +4005,8 @@
       "ASEAN",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "855"
   },
   "KI": {
     "name": {
@@ -3913,16 +4030,17 @@
       "UTC+13:00",
       "UTC+14:00"
     ],
-    "area": 811.0,
+    "area": 811,
     "population": 120740,
-    "flag": "\ud83c\uddf0\ud83c\uddee",
+    "flag": "🇰🇮",
     "region_common": "Oceania",
     "demonym": "I-Kiribati",
     "gdp": 279034355.10842144,
     "gdp_year": 2023,
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "686"
   },
   "KM": {
     "name": {
@@ -3943,9 +4061,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 1862.0,
+    "area": 1862,
     "population": 919901,
-    "flag": "\ud83c\uddf0\ud83c\uddf2",
+    "flag": "🇰🇲",
     "region_common": "Africa",
     "demonym": "Comoran",
     "gdp": 1352380972.1566217,
@@ -3954,7 +4072,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "269"
   },
   "KN": {
     "name": {
@@ -3975,9 +4094,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 261.0,
+    "area": 261,
     "population": 51320,
-    "flag": "\ud83c\uddf0\ud83c\uddf3",
+    "flag": "🇰🇳",
     "region_common": "Americas",
     "demonym": "Kittitian or Nevisian",
     "gdp": 1077033111.111111,
@@ -3986,7 +4105,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-869"
   },
   "KP": {
     "name": {
@@ -4007,15 +4127,16 @@
     "timezones": [
       "UTC+09:00"
     ],
-    "area": 120538.0,
+    "area": 120538,
     "population": 25950000,
-    "flag": "\ud83c\uddf0\ud83c\uddf5",
+    "flag": "🇰🇵",
     "region_common": "Asia",
     "demonym": "North Korean",
     "postal_code": {
       "format": "###-###",
       "regex": "^(\\d{6})$"
-    }
+    },
+    "phone_code": "850"
   },
   "KR": {
     "name": {
@@ -4036,9 +4157,9 @@
     "timezones": [
       "UTC+09:00"
     ],
-    "area": 100210.0,
+    "area": 100210,
     "population": 51159889,
-    "flag": "\ud83c\uddf0\ud83c\uddf7",
+    "flag": "🇰🇷",
     "region_common": "Asia",
     "demonym": "South Korean",
     "gdp": 1712792854202.3687,
@@ -4051,7 +4172,8 @@
       "OECD",
       "BIS",
       "G20"
-    ]
+    ],
+    "phone_code": "82"
   },
   "KW": {
     "name": {
@@ -4070,9 +4192,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 17818.0,
+    "area": 17818,
     "population": 4881254,
-    "flag": "\ud83c\uddf0\ud83c\uddfc",
+    "flag": "🇰🇼",
     "region_common": "Asia",
     "demonym": "Kuwaiti",
     "gdp": 161772221950.94162,
@@ -4085,7 +4207,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "965"
   },
   "KY": {
     "name": {
@@ -4106,13 +4229,14 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 264.0,
+    "area": 264,
     "population": 84738,
-    "flag": "\ud83c\uddf0\ud83c\uddfe",
+    "flag": "🇰🇾",
     "region_common": "Americas",
     "demonym": "Caymanian",
     "gdp": 6600844001.537206,
-    "gdp_year": 2022
+    "gdp_year": 2022,
+    "phone_code": "+1-345"
   },
   "KZ": {
     "name": {
@@ -4135,9 +4259,9 @@
       "UTC+05:00",
       "UTC+06:00"
     ],
-    "area": 2724900.0,
+    "area": 2724900,
     "population": 20426568,
-    "flag": "\ud83c\uddf0\ud83c\uddff",
+    "flag": "🇰🇿",
     "region_common": "Asia",
     "demonym": "Kazakhstani",
     "gdp": 261421121085.57208,
@@ -4149,7 +4273,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "7"
   },
   "LA": {
     "name": {
@@ -4171,9 +4296,9 @@
     "timezones": [
       "UTC+07:00"
     ],
-    "area": 236800.0,
+    "area": 236800,
     "population": 7647000,
-    "flag": "\ud83c\uddf1\ud83c\udde6",
+    "flag": "🇱🇦",
     "region_common": "Asia",
     "demonym": "Laotian",
     "gdp": 15843155731.25518,
@@ -4185,7 +4310,8 @@
     "organisations": [
       "ASEAN",
       "WTO"
-    ]
+    ],
+    "phone_code": "856"
   },
   "LB": {
     "name": {
@@ -4207,9 +4333,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 10452.0,
+    "area": 10452,
     "population": 5490000,
-    "flag": "\ud83c\uddf1\ud83c\udde7",
+    "flag": "🇱🇧",
     "region_common": "Asia",
     "demonym": "Lebanese",
     "gdp": 20992421948.808086,
@@ -4220,7 +4346,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "961"
   },
   "LC": {
     "name": {
@@ -4239,9 +4366,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 616.0,
+    "area": 616,
     "population": 184100,
-    "flag": "\ud83c\uddf1\ud83c\udde8",
+    "flag": "🇱🇨",
     "region_common": "Americas",
     "demonym": "Saint Lucian",
     "gdp": 2519925938.5244665,
@@ -4250,7 +4377,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-758"
   },
   "LI": {
     "name": {
@@ -4271,9 +4399,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 160.0,
+    "area": 160,
     "population": 40900,
-    "flag": "\ud83c\uddf1\ud83c\uddee",
+    "flag": "🇱🇮",
     "region_common": "Europe",
     "demonym": "Liechtensteiner",
     "gdp": 7364654515.139836,
@@ -4285,7 +4413,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "423"
   },
   "LK": {
     "name": {
@@ -4304,9 +4433,9 @@
     "timezones": [
       "UTC+05:30"
     ],
-    "area": 65610.0,
+    "area": 65610,
     "population": 21763170,
-    "flag": "\ud83c\uddf1\ud83c\uddf0",
+    "flag": "🇱🇰",
     "region_common": "Asia",
     "demonym": "Sri Lankan",
     "gdp": 84356860421.12996,
@@ -4318,7 +4447,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "94"
   },
   "LR": {
     "name": {
@@ -4340,12 +4470,12 @@
     "timezones": [
       "UTC"
     ],
-    "area": 111369.0,
+    "area": 111369,
     "population": 5248621,
-    "flag": "\ud83c\uddf1\ud83c\uddf7",
+    "flag": "🇱🇷",
     "region_common": "Africa",
     "demonym": "Liberian",
-    "gdp": 4332000000.0,
+    "gdp": 4332000000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "####",
@@ -4355,7 +4485,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "231"
   },
   "LS": {
     "name": {
@@ -4377,9 +4508,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 30355.0,
+    "area": 30355,
     "population": 2116427,
-    "flag": "\ud83c\uddf1\ud83c\uddf8",
+    "flag": "🇱🇸",
     "region_common": "Africa",
     "demonym": "Mosotho",
     "gdp": 2046039024.4585402,
@@ -4392,7 +4523,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "266"
   },
   "LT": {
     "name": {
@@ -4413,9 +4545,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 65300.0,
+    "area": 65300,
     "population": 2894886,
-    "flag": "\ud83c\uddf1\ud83c\uddf9",
+    "flag": "🇱🇹",
     "region_common": "Europe",
     "demonym": "Lithuanian",
     "gdp": 77836396962.77196,
@@ -4431,7 +4563,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "370"
   },
   "LU": {
     "name": {
@@ -4452,9 +4585,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 2586.0,
+    "area": 2586,
     "population": 681973,
-    "flag": "\ud83c\uddf1\ud83c\uddfa",
+    "flag": "🇱🇺",
     "region_common": "Europe",
     "demonym": "Luxembourger",
     "gdp": 85755006123.5976,
@@ -4470,7 +4603,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "352"
   },
   "LV": {
     "name": {
@@ -4491,9 +4625,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 64559.0,
+    "area": 64559,
     "population": 1829000,
-    "flag": "\ud83c\uddf1\ud83c\uddfb",
+    "flag": "🇱🇻",
     "region_common": "Europe",
     "demonym": "Latvian",
     "gdp": 43627078481.28705,
@@ -4509,7 +4643,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "371"
   },
   "LY": {
     "name": {
@@ -4531,9 +4666,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 1759540.0,
+    "area": 1759540,
     "population": 7459000,
-    "flag": "\ud83c\uddf1\ud83c\uddfe",
+    "flag": "🇱🇾",
     "region_common": "Africa",
     "demonym": "Libyan",
     "gdp": 50491722445.7773,
@@ -4541,7 +4676,8 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "218"
   },
   "MA": {
     "name": {
@@ -4562,9 +4698,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 446550.0,
+    "area": 446550,
     "population": 36828330,
-    "flag": "\ud83c\uddf2\ud83c\udde6",
+    "flag": "🇲🇦",
     "region_common": "Africa",
     "demonym": "Moroccan",
     "gdp": 141109373209.41437,
@@ -4578,7 +4714,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "212"
   },
   "MC": {
     "name": {
@@ -4601,7 +4738,7 @@
     ],
     "area": 2.02,
     "population": 38423,
-    "flag": "\ud83c\uddf2\ud83c\udde8",
+    "flag": "🇲🇨",
     "region_common": "Europe",
     "demonym": "Monegasque",
     "gdp": 8784002931.686646,
@@ -4612,7 +4749,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "377"
   },
   "MD": {
     "name": {
@@ -4633,9 +4771,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 33847.0,
+    "area": 33847,
     "population": 2749076,
-    "flag": "\ud83c\uddf2\ud83c\udde9",
+    "flag": "🇲🇩",
     "region_common": "Europe",
     "demonym": "Moldovan",
     "gdp": 16539436547.294973,
@@ -4646,7 +4784,8 @@
     },
     "organisations": [
       "WTO"
-    ]
+    ],
+    "phone_code": "373"
   },
   "ME": {
     "name": {
@@ -4667,9 +4806,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 13812.0,
+    "area": 13812,
     "population": 623327,
-    "flag": "\ud83c\uddf2\ud83c\uddea",
+    "flag": "🇲🇪",
     "region_common": "Europe",
     "demonym": "Montenegrin",
     "gdp": 7404541964.5077915,
@@ -4682,7 +4821,8 @@
       "NATO",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "382"
   },
   "MF": {
     "name": {
@@ -4703,16 +4843,17 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 53.0,
+    "area": 53,
     "population": 31496,
-    "flag": "\ud83c\uddf2\ud83c\uddeb",
+    "flag": "🇲🇫",
     "region_common": "Americas",
     "demonym": "Saint Martin Islander",
     "gdp": 649206262.8475188,
     "gdp_year": 2021,
     "postal_code": {
       "format": "### ###"
-    }
+    },
+    "phone_code": "590"
   },
   "MG": {
     "name": {
@@ -4734,9 +4875,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 587041.0,
+    "area": 587041,
     "population": 31727042,
-    "flag": "\ud83c\uddf2\ud83c\uddec",
+    "flag": "🇲🇬",
     "region_common": "Africa",
     "demonym": "Malagasy",
     "gdp": 16031702914.91953,
@@ -4749,7 +4890,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "261"
   },
   "MH": {
     "name": {
@@ -4768,16 +4910,17 @@
     "timezones": [
       "UTC+12:00"
     ],
-    "area": 181.0,
+    "area": 181,
     "population": 42418,
-    "flag": "\ud83c\uddf2\ud83c\udded",
+    "flag": "🇲🇭",
     "region_common": "Oceania",
     "demonym": "Marshallese",
-    "gdp": 284000000.0,
+    "gdp": 284000000,
     "gdp_year": 2023,
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "692"
   },
   "MK": {
     "name": {
@@ -4798,9 +4941,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 25713.0,
+    "area": 25713,
     "population": 1822612,
-    "flag": "\ud83c\uddf2\ud83c\uddf0",
+    "flag": "🇲🇰",
     "region_common": "Europe",
     "demonym": "Macedonian",
     "gdp": 14761237042.205698,
@@ -4814,7 +4957,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "389"
   },
   "ML": {
     "name": {
@@ -4836,9 +4980,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 1240192.0,
+    "area": 1240192,
     "population": 22395489,
-    "flag": "\ud83c\uddf2\ud83c\uddf1",
+    "flag": "🇲🇱",
     "region_common": "Africa",
     "demonym": "Malian",
     "gdp": 20904898296.250145,
@@ -4847,7 +4991,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "223"
   },
   "MM": {
     "name": {
@@ -4870,9 +5015,9 @@
     "timezones": [
       "UTC+06:30"
     ],
-    "area": 676578.0,
+    "area": 676578,
     "population": 51316756,
-    "flag": "\ud83c\uddf2\ud83c\uddf2",
+    "flag": "🇲🇲",
     "region_common": "Asia",
     "demonym": "Burmese",
     "gdp": 64815031669.095245,
@@ -4885,7 +5030,8 @@
       "ASEAN",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "95"
   },
   "MN": {
     "name": {
@@ -4907,9 +5053,9 @@
       "UTC+07:00",
       "UTC+08:00"
     ],
-    "area": 1564110.0,
+    "area": 1564110,
     "population": 3544835,
-    "flag": "\ud83c\uddf2\ud83c\uddf3",
+    "flag": "🇲🇳",
     "region_common": "Asia",
     "demonym": "Mongolian",
     "gdp": 19872180369.6275,
@@ -4921,7 +5067,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "976"
   },
   "MO": {
     "name": {
@@ -4940,13 +5087,14 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 30.0,
+    "area": 30,
     "population": 685900,
-    "flag": "\ud83c\uddf2\ud83c\uddf4",
+    "flag": "🇲🇴",
     "region_common": "Asia",
     "demonym": "Macanese",
     "gdp": 47061843715.85648,
-    "gdp_year": 2023
+    "gdp_year": 2023,
+    "phone_code": "853"
   },
   "MP": {
     "name": {
@@ -4965,13 +5113,14 @@
     "timezones": [
       "UTC+10:00"
     ],
-    "area": 464.0,
+    "area": 464,
     "population": 47329,
-    "flag": "\ud83c\uddf2\ud83c\uddf5",
+    "flag": "🇲🇵",
     "region_common": "Oceania",
     "demonym": "American",
-    "gdp": 858000000.0,
-    "gdp_year": 2020
+    "gdp": 858000000,
+    "gdp_year": 2020,
+    "phone_code": "+1-670"
   },
   "MQ": {
     "name": {
@@ -4992,15 +5141,16 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 1128.0,
+    "area": 1128,
     "population": 349925,
-    "flag": "\ud83c\uddf2\ud83c\uddf6",
+    "flag": "🇲🇶",
     "region_common": "Americas",
     "demonym": "Martinican",
     "postal_code": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
+    },
+    "phone_code": "596"
   },
   "MR": {
     "name": {
@@ -5022,9 +5172,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 1030700.0,
+    "area": 1030700,
     "population": 4927532,
-    "flag": "\ud83c\uddf2\ud83c\uddf7",
+    "flag": "🇲🇷",
     "region_common": "Africa",
     "demonym": "Mauritanian",
     "gdp": 10452577062.75806,
@@ -5033,7 +5183,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "222"
   },
   "MS": {
     "name": {
@@ -5052,11 +5203,12 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 102.0,
+    "area": 102,
     "population": 4386,
-    "flag": "\ud83c\uddf2\ud83c\uddf8",
+    "flag": "🇲🇸",
     "region_common": "Americas",
-    "demonym": "Montserratian"
+    "demonym": "Montserratian",
+    "phone_code": "+1-664"
   },
   "MT": {
     "name": {
@@ -5077,9 +5229,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 316.0,
+    "area": 316,
     "population": 574250,
-    "flag": "\ud83c\uddf2\ud83c\uddf9",
+    "flag": "🇲🇹",
     "region_common": "Europe",
     "demonym": "Maltese",
     "gdp": 20956999452.431664,
@@ -5092,7 +5244,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "356"
   },
   "MU": {
     "name": {
@@ -5113,9 +5266,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 2040.0,
+    "area": 2040,
     "population": 1243741,
-    "flag": "\ud83c\uddf2\ud83c\uddfa",
+    "flag": "🇲🇺",
     "region_common": "Africa",
     "demonym": "Mauritian",
     "gdp": 14397127281.382942,
@@ -5124,7 +5277,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "230"
   },
   "MV": {
     "name": {
@@ -5145,12 +5299,12 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 300.0,
+    "area": 300,
     "population": 515132,
-    "flag": "\ud83c\uddf2\ud83c\uddfb",
+    "flag": "🇲🇻",
     "region_common": "Asia",
     "demonym": "Maldivan",
-    "gdp": 6600000000.0,
+    "gdp": 6600000000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "#####",
@@ -5159,7 +5313,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "960"
   },
   "MW": {
     "name": {
@@ -5181,9 +5336,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 118484.0,
+    "area": 118484,
     "population": 20734262,
-    "flag": "\ud83c\uddf2\ud83c\uddfc",
+    "flag": "🇲🇼",
     "region_common": "Africa",
     "demonym": "Malawian",
     "gdp": 14084341062.367504,
@@ -5192,7 +5347,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "265"
   },
   "MX": {
     "name": {
@@ -5216,9 +5372,9 @@
       "UTC-07:00",
       "UTC-06:00"
     ],
-    "area": 1964375.0,
+    "area": 1964375,
     "population": 130575786,
-    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "flag": "🇲🇽",
     "region_common": "Americas",
     "demonym": "Mexican",
     "gdp": 1788886821046.8132,
@@ -5234,7 +5390,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "52"
   },
   "MY": {
     "name": {
@@ -5255,9 +5412,9 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 330803.0,
+    "area": 330803,
     "population": 34231700,
-    "flag": "\ud83c\uddf2\ud83c\uddfe",
+    "flag": "🇲🇾",
     "region_common": "Asia",
     "demonym": "Malaysian",
     "gdp": 399648828546.5043,
@@ -5271,7 +5428,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "60"
   },
   "MZ": {
     "name": {
@@ -5292,9 +5450,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 801590.0,
+    "area": 801590,
     "population": 34090466,
-    "flag": "\ud83c\uddf2\ud83c\uddff",
+    "flag": "🇲🇿",
     "region_common": "Africa",
     "demonym": "Mozambican",
     "gdp": 20624597846.549507,
@@ -5307,7 +5465,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "258"
   },
   "NA": {
     "name": {
@@ -5328,9 +5487,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 825615.0,
+    "area": 825615,
     "population": 3022401,
-    "flag": "\ud83c\uddf3\ud83c\udde6",
+    "flag": "🇳🇦",
     "region_common": "Africa",
     "demonym": "Namibian",
     "gdp": 12351024843.746696,
@@ -5339,7 +5498,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "264"
   },
   "NC": {
     "name": {
@@ -5360,9 +5520,9 @@
     "timezones": [
       "UTC+11:00"
     ],
-    "area": 18575.0,
+    "area": 18575,
     "population": 264596,
-    "flag": "\ud83c\uddf3\ud83c\udde8",
+    "flag": "🇳🇨",
     "region_common": "Oceania",
     "demonym": "New Caledonian",
     "gdp": 9623318718.314594,
@@ -5370,7 +5530,8 @@
     "postal_code": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
+    },
+    "phone_code": "687"
   },
   "NE": {
     "name": {
@@ -5392,9 +5553,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 1267000.0,
+    "area": 1267000,
     "population": 26312034,
-    "flag": "\ud83c\uddf3\ud83c\uddea",
+    "flag": "🇳🇪",
     "region_common": "Africa",
     "demonym": "Nigerien",
     "gdp": 16819170420.565317,
@@ -5407,7 +5568,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "227"
   },
   "NF": {
     "name": {
@@ -5426,11 +5588,12 @@
     "timezones": [
       "UTC+11:30"
     ],
-    "area": 36.0,
+    "area": 36,
     "population": 2188,
-    "flag": "\ud83c\uddf3\ud83c\uddeb",
+    "flag": "🇳🇫",
     "region_common": "Oceania",
-    "demonym": "Norfolk Islander"
+    "demonym": "Norfolk Islander",
+    "phone_code": "672"
   },
   "NG": {
     "name": {
@@ -5452,9 +5615,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 923768.0,
+    "area": 923768,
     "population": 223800000,
-    "flag": "\ud83c\uddf3\ud83c\uddec",
+    "flag": "🇳🇬",
     "region_common": "Africa",
     "demonym": "Nigerian",
     "gdp": 362814951696.07275,
@@ -5467,7 +5630,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "234"
   },
   "NI": {
     "name": {
@@ -5489,9 +5653,9 @@
     "timezones": [
       "UTC-06:00"
     ],
-    "area": 130373.0,
+    "area": 130373,
     "population": 6803886,
-    "flag": "\ud83c\uddf3\ud83c\uddee",
+    "flag": "🇳🇮",
     "region_common": "Americas",
     "demonym": "Nicaraguan",
     "gdp": 17829215283.799656,
@@ -5504,7 +5668,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "505"
   },
   "NL": {
     "name": {
@@ -5526,9 +5691,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 41865.0,
+    "area": 41865,
     "population": 18100436,
-    "flag": "\ud83c\uddf3\ud83c\uddf1",
+    "flag": "🇳🇱",
     "region_common": "Europe",
     "demonym": "Dutch",
     "gdp": 1118124749886.2942,
@@ -5544,7 +5709,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "31"
   },
   "NO": {
     "name": {
@@ -5566,9 +5732,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 386224.0,
+    "area": 386224,
     "population": 5606944,
-    "flag": "\ud83c\uddf3\ud83c\uddf4",
+    "flag": "🇳🇴",
     "region_common": "Europe",
     "demonym": "Norwegian",
     "gdp": 485513316503.63043,
@@ -5583,7 +5749,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "47"
   },
   "NP": {
     "name": {
@@ -5604,9 +5771,9 @@
     "timezones": [
       "UTC+05:45"
     ],
-    "area": 147181.0,
+    "area": 147181,
     "population": 29911840,
-    "flag": "\ud83c\uddf3\ud83c\uddf5",
+    "flag": "🇳🇵",
     "region_common": "Asia",
     "demonym": "Nepalese",
     "gdp": 40908073366.84552,
@@ -5618,7 +5785,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "977"
   },
   "NR": {
     "name": {
@@ -5639,16 +5807,17 @@
     "timezones": [
       "UTC+12:00"
     ],
-    "area": 21.0,
+    "area": 21,
     "population": 11680,
-    "flag": "\ud83c\uddf3\ud83c\uddf7",
+    "flag": "🇳🇷",
     "region_common": "Oceania",
     "demonym": "Nauruan",
     "gdp": 154127798.19354144,
     "gdp_year": 2023,
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "674"
   },
   "NU": {
     "name": {
@@ -5669,11 +5838,12 @@
     "timezones": [
       "UTC-11:00"
     ],
-    "area": 260.0,
+    "area": 260,
     "population": 1681,
-    "flag": "\ud83c\uddf3\ud83c\uddfa",
+    "flag": "🇳🇺",
     "region_common": "Oceania",
-    "demonym": "Niuean"
+    "demonym": "Niuean",
+    "phone_code": "683"
   },
   "NZ": {
     "name": {
@@ -5698,9 +5868,9 @@
       "UTC+12:45",
       "UTC+13:00"
     ],
-    "area": 268838.0,
+    "area": 268838,
     "population": 5324700,
-    "flag": "\ud83c\uddf3\ud83c\uddff",
+    "flag": "🇳🇿",
     "region_common": "Oceania",
     "demonym": "New Zealander",
     "gdp": 253465703232.14594,
@@ -5714,7 +5884,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "64"
   },
   "OM": {
     "name": {
@@ -5733,9 +5904,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 309500.0,
+    "area": 309500,
     "population": 5343630,
-    "flag": "\ud83c\uddf4\ud83c\uddf2",
+    "flag": "🇴🇲",
     "region_common": "Asia",
     "demonym": "Omani",
     "gdp": 108192457737.3212,
@@ -5747,7 +5918,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "968"
   },
   "PA": {
     "name": {
@@ -5769,18 +5941,19 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 75417.0,
+    "area": 75417,
     "population": 4064780,
-    "flag": "\ud83c\uddf5\ud83c\udde6",
+    "flag": "🇵🇦",
     "region_common": "Americas",
     "demonym": "Panamanian",
-    "gdp": 83382400000.0,
+    "gdp": 83382400000,
     "gdp_year": 2023,
     "organisations": [
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "507"
   },
   "PE": {
     "name": {
@@ -5802,9 +5975,9 @@
     "timezones": [
       "UTC-05:00"
     ],
-    "area": 1285216.0,
+    "area": 1285216,
     "population": 34350244,
-    "flag": "\ud83c\uddf5\ud83c\uddea",
+    "flag": "🇵🇪",
     "region_common": "Americas",
     "demonym": "Peruvian",
     "gdp": 267603248655.2527,
@@ -5818,7 +5991,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "51"
   },
   "PF": {
     "name": {
@@ -5839,9 +6013,9 @@
       "UTC-09:30",
       "UTC-09:00"
     ],
-    "area": 4167.0,
+    "area": 4167,
     "population": 279500,
-    "flag": "\ud83c\uddf5\ud83c\uddeb",
+    "flag": "🇵🇫",
     "region_common": "Oceania",
     "demonym": "French Polynesian",
     "gdp": 5814661208.905444,
@@ -5849,7 +6023,8 @@
     "postal_code": {
       "format": "#####",
       "regex": "^((97|98)7\\d{2})$"
-    }
+    },
+    "phone_code": "689"
   },
   "PG": {
     "name": {
@@ -5870,9 +6045,9 @@
     "timezones": [
       "UTC+10:00"
     ],
-    "area": 462840.0,
+    "area": 462840,
     "population": 11781559,
-    "flag": "\ud83c\uddf5\ud83c\uddec",
+    "flag": "🇵🇬",
     "region_common": "Oceania",
     "demonym": "Papua New Guinean",
     "gdp": 30932496249.791653,
@@ -5884,7 +6059,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "675"
   },
   "PH": {
     "name": {
@@ -5905,9 +6081,9 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 342353.0,
+    "area": 342353,
     "population": 114123600,
-    "flag": "\ud83c\uddf5\ud83c\udded",
+    "flag": "🇵🇭",
     "region_common": "Asia",
     "demonym": "Filipino",
     "gdp": 437146372729.94244,
@@ -5921,7 +6097,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "63"
   },
   "PK": {
     "name": {
@@ -5942,9 +6119,9 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 796095.0,
+    "area": 796095,
     "population": 241499431,
-    "flag": "\ud83c\uddf5\ud83c\uddf0",
+    "flag": "🇵🇰",
     "region_common": "Asia",
     "demonym": "Pakistani",
     "gdp": 338368455317.8758,
@@ -5956,7 +6133,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "92"
   },
   "PL": {
     "name": {
@@ -5977,9 +6155,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 312679.0,
+    "area": 312679,
     "population": 37392000,
-    "flag": "\ud83c\uddf5\ud83c\uddf1",
+    "flag": "🇵🇱",
     "region_common": "Europe",
     "demonym": "Polish",
     "gdp": 811229100687.5663,
@@ -5995,7 +6173,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "48"
   },
   "PM": {
     "name": {
@@ -6016,15 +6195,16 @@
     "timezones": [
       "UTC-03:00"
     ],
-    "area": 242.0,
+    "area": 242,
     "population": 5819,
-    "flag": "\ud83c\uddf5\ud83c\uddf2",
+    "flag": "🇵🇲",
     "region_common": "Americas",
     "demonym": "Saint-Pierrais, Miquelonnais",
     "postal_code": {
       "format": "#####",
       "regex": "^(97500)$"
-    }
+    },
+    "phone_code": "508"
   },
   "PN": {
     "name": {
@@ -6043,11 +6223,12 @@
     "timezones": [
       "UTC-08:00"
     ],
-    "area": 47.0,
+    "area": 47,
     "population": 35,
-    "flag": "\ud83c\uddf5\ud83c\uddf3",
+    "flag": "🇵🇳",
     "region_common": "Oceania",
-    "demonym": "Pitcairn Islander"
+    "demonym": "Pitcairn Islander",
+    "phone_code": "870"
   },
   "PR": {
     "name": {
@@ -6066,17 +6247,18 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 8870.0,
+    "area": 8870,
     "population": 3203295,
-    "flag": "\ud83c\uddf5\ud83c\uddf7",
+    "flag": "🇵🇷",
     "region_common": "Americas",
     "demonym": "Puerto Rican",
-    "gdp": 117902300000.0,
+    "gdp": 117902300000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "#####-####",
       "regex": "^(\\d{9})$"
-    }
+    },
+    "phone_code": "+1-787 and 1-939"
   },
   "PS": {
     "name": {
@@ -6097,13 +6279,14 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 6220.0,
+    "area": 6220,
     "population": 5483450,
-    "flag": "\ud83c\uddf5\ud83c\uddf8",
+    "flag": "🇵🇸",
     "region_common": "Asia",
     "demonym": "Palestinian",
-    "gdp": 17396300000.0,
-    "gdp_year": 2023
+    "gdp": 17396300000,
+    "gdp_year": 2023,
+    "phone_code": "970"
   },
   "PT": {
     "name": {
@@ -6125,9 +6308,9 @@
       "UTC-01:00",
       "UTC"
     ],
-    "area": 92090.0,
+    "area": 92090,
     "population": 10749635,
-    "flag": "\ud83c\uddf5\ud83c\uddf9",
+    "flag": "🇵🇹",
     "region_common": "Europe",
     "demonym": "Portuguese",
     "gdp": 287080013574.4972,
@@ -6143,7 +6326,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "351"
   },
   "PW": {
     "name": {
@@ -6162,9 +6346,9 @@
     "timezones": [
       "UTC+09:00"
     ],
-    "area": 459.0,
+    "area": 459,
     "population": 16733,
-    "flag": "\ud83c\uddf5\ud83c\uddfc",
+    "flag": "🇵🇼",
     "region_common": "Oceania",
     "demonym": "Palauan",
     "gdp": 263020733.717011,
@@ -6175,7 +6359,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "680"
   },
   "PY": {
     "name": {
@@ -6196,9 +6381,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 406752.0,
+    "area": 406752,
     "population": 6109644,
-    "flag": "\ud83c\uddf5\ud83c\uddfe",
+    "flag": "🇵🇾",
     "region_common": "Americas",
     "demonym": "Paraguayan",
     "gdp": 42956263543.948166,
@@ -6211,7 +6396,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "595"
   },
   "QA": {
     "name": {
@@ -6230,9 +6416,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 11586.0,
+    "area": 11586,
     "population": 3173024,
-    "flag": "\ud83c\uddf6\ud83c\udde6",
+    "flag": "🇶🇦",
     "region_common": "Asia",
     "demonym": "Qatari",
     "gdp": 235770403734.9,
@@ -6240,12 +6426,13 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "974"
   },
   "RE": {
     "name": {
-      "common": "R\u00e9union",
-      "official": "R\u00e9union Island"
+      "common": "Réunion",
+      "official": "Réunion Island"
     },
     "regions": [],
     "capital": "Saint-Denis",
@@ -6259,15 +6446,16 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 2511.0,
+    "area": 2511,
     "population": 896175,
-    "flag": "\ud83c\uddf7\ud83c\uddea",
+    "flag": "🇷🇪",
     "region_common": "Africa",
-    "demonym": "R\u00e9unionese",
+    "demonym": "Réunionese",
     "postal_code": {
       "format": "#####",
       "regex": "^((97|98)(4|7|8)\\d{2})$"
-    }
+    },
+    "phone_code": "262"
   },
   "RO": {
     "name": {
@@ -6288,9 +6476,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 238391.0,
+    "area": 238391,
     "population": 19036031,
-    "flag": "\ud83c\uddf7\ud83c\uddf4",
+    "flag": "🇷🇴",
     "region_common": "Europe",
     "demonym": "Romanian",
     "gdp": 351002579629.6701,
@@ -6305,7 +6493,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "40"
   },
   "RS": {
     "name": {
@@ -6330,9 +6519,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 77589.0,
+    "area": 77589,
     "population": 6567783,
-    "flag": "\ud83c\uddf7\ud83c\uddf8",
+    "flag": "🇷🇸",
     "region_common": "Europe",
     "demonym": "Serbian",
     "gdp": 75187125426.73755,
@@ -6344,7 +6533,8 @@
     "organisations": [
       "BIS",
       "UN"
-    ]
+    ],
+    "phone_code": "381"
   },
   "RU": {
     "name": {
@@ -6375,9 +6565,9 @@
       "UTC+11:00",
       "UTC+12:00"
     ],
-    "area": 17098246.0,
+    "area": 17098246,
     "population": 146028325,
-    "flag": "\ud83c\uddf7\ud83c\uddfa",
+    "flag": "🇷🇺",
     "region_common": "Europe",
     "demonym": "Russian",
     "gdp": 2021421476035.417,
@@ -6390,7 +6580,8 @@
       "BIS",
       "G20",
       "WTO"
-    ]
+    ],
+    "phone_code": "7"
   },
   "RW": {
     "name": {
@@ -6411,9 +6602,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 26338.0,
+    "area": 26338,
     "population": 14104969,
-    "flag": "\ud83c\uddf7\ud83c\uddfc",
+    "flag": "🇷🇼",
     "region_common": "Africa",
     "demonym": "Rwandan",
     "gdp": 14097768647.66952,
@@ -6422,7 +6613,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "250"
   },
   "SA": {
     "name": {
@@ -6442,9 +6634,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 2149690.0,
+    "area": 2149690,
     "population": 35300280,
-    "flag": "\ud83c\uddf8\ud83c\udde6",
+    "flag": "🇸🇦",
     "region_common": "Asia",
     "demonym": "Saudi Arabian",
     "gdp": 1067582933333.3334,
@@ -6458,7 +6650,8 @@
       "G20",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "966"
   },
   "SB": {
     "name": {
@@ -6479,9 +6672,9 @@
     "timezones": [
       "UTC+11:00"
     ],
-    "area": 28896.0,
+    "area": 28896,
     "population": 750325,
-    "flag": "\ud83c\uddf8\ud83c\udde7",
+    "flag": "🇸🇧",
     "region_common": "Oceania",
     "demonym": "Solomon Islander",
     "gdp": 1631286701.1151562,
@@ -6489,7 +6682,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "677"
   },
   "SC": {
     "name": {
@@ -6508,9 +6702,9 @@
     "timezones": [
       "UTC+04:00"
     ],
-    "area": 452.0,
+    "area": 452,
     "population": 122729,
-    "flag": "\ud83c\uddf8\ud83c\udde8",
+    "flag": "🇸🇨",
     "region_common": "Africa",
     "demonym": "Seychellois",
     "gdp": 2141450171.1393213,
@@ -6519,7 +6713,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "248"
   },
   "SD": {
     "name": {
@@ -6538,9 +6733,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 1886068.0,
+    "area": 1886068,
     "population": 51662000,
-    "flag": "\ud83c\uddf8\ud83c\udde9",
+    "flag": "🇸🇩",
     "region_common": "Africa",
     "demonym": "Sudanese",
     "gdp": 109327023588.73239,
@@ -6552,7 +6747,8 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "249"
   },
   "SE": {
     "name": {
@@ -6576,9 +6772,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 450295.0,
+    "area": 450295,
     "population": 10605098,
-    "flag": "\ud83c\uddf8\ud83c\uddea",
+    "flag": "🇸🇪",
     "region_common": "Europe",
     "demonym": "Swedish",
     "gdp": 593267701033.4082,
@@ -6594,7 +6790,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "46"
   },
   "SG": {
     "name": {
@@ -6615,9 +6812,9 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 710.0,
+    "area": 710,
     "population": 6110200,
-    "flag": "\ud83c\uddf8\ud83c\uddec",
+    "flag": "🇸🇬",
     "region_common": "Asia",
     "demonym": "Singaporean",
     "gdp": 501427500080.05853,
@@ -6631,7 +6828,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "65"
   },
   "SH": {
     "name": {
@@ -6650,15 +6848,16 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "area": 394.0,
+    "area": 394,
     "population": 5651,
-    "flag": "\ud83c\uddf8\ud83c\udded",
+    "flag": "🇸🇭",
     "region_common": "Africa",
     "demonym": "Saint Helenian",
     "postal_code": {
       "format": "STHL 1ZZ",
       "regex": "^(STHL1ZZ)$"
-    }
+    },
+    "phone_code": "290"
   },
   "SI": {
     "name": {
@@ -6679,9 +6878,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 20273.0,
+    "area": 20273,
     "population": 2130638,
-    "flag": "\ud83c\uddf8\ud83c\uddee",
+    "flag": "🇸🇮",
     "region_common": "Europe",
     "demonym": "Slovene",
     "gdp": 68216781410.52277,
@@ -6697,7 +6896,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "386"
   },
   "SJ": {
     "name": {
@@ -6716,11 +6916,12 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 61399.0,
+    "area": 61399,
     "population": 2530,
-    "flag": "\ud83c\uddf8\ud83c\uddef",
+    "flag": "🇸🇯",
     "region_common": "Europe",
-    "demonym": "Norwegian"
+    "demonym": "Norwegian",
+    "phone_code": "47"
   },
   "SK": {
     "name": {
@@ -6741,9 +6942,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 49037.0,
+    "area": 49037,
     "population": 5413813,
-    "flag": "\ud83c\uddf8\ud83c\uddf0",
+    "flag": "🇸🇰",
     "region_common": "Europe",
     "demonym": "Slovak",
     "gdp": 132793622283.07097,
@@ -6759,7 +6960,8 @@
       "WTO",
       "EU",
       "UN"
-    ]
+    ],
+    "phone_code": "421"
   },
   "SL": {
     "name": {
@@ -6780,9 +6982,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 71740.0,
+    "area": 71740,
     "population": 9077691,
-    "flag": "\ud83c\uddf8\ud83c\uddf1",
+    "flag": "🇸🇱",
     "region_common": "Africa",
     "demonym": "Sierra Leonean",
     "gdp": 3809832236.9595933,
@@ -6791,7 +6993,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "232"
   },
   "SM": {
     "name": {
@@ -6812,9 +7015,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 61.0,
+    "area": 61,
     "population": 34132,
-    "flag": "\ud83c\uddf8\ud83c\uddf2",
+    "flag": "🇸🇲",
     "region_common": "Europe",
     "demonym": "Sammarinese",
     "gdp": 1855382833.1164992,
@@ -6825,7 +7028,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "378"
   },
   "SN": {
     "name": {
@@ -6846,9 +7050,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 196722.0,
+    "area": 196722,
     "population": 18593258,
-    "flag": "\ud83c\uddf8\ud83c\uddf3",
+    "flag": "🇸🇳",
     "region_common": "Africa",
     "demonym": "Senegalese",
     "gdp": 31013986429.186058,
@@ -6861,7 +7065,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "221"
   },
   "SO": {
     "name": {
@@ -6882,9 +7087,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 637657.0,
+    "area": 637657,
     "population": 19655000,
-    "flag": "\ud83c\uddf8\ud83c\uddf4",
+    "flag": "🇸🇴",
     "region_common": "Africa",
     "demonym": "Somali",
     "gdp": 11679800110.152267,
@@ -6896,7 +7101,8 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "252"
   },
   "SR": {
     "name": {
@@ -6917,9 +7123,9 @@
     "timezones": [
       "UTC-03:00"
     ],
-    "area": 163820.0,
+    "area": 163820,
     "population": 616500,
-    "flag": "\ud83c\uddf8\ud83c\uddf7",
+    "flag": "🇸🇷",
     "region_common": "Americas",
     "demonym": "Surinamer",
     "gdp": 3782437296.0432286,
@@ -6928,7 +7134,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "597"
   },
   "SS": {
     "name": {
@@ -6949,9 +7156,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 619745.0,
+    "area": 619745,
     "population": 15786898,
-    "flag": "\ud83c\uddf8\ud83c\uddf8",
+    "flag": "🇸🇸",
     "region_common": "Africa",
     "demonym": "South Sudanese",
     "gdp": 11997800760.224182,
@@ -6959,12 +7166,13 @@
     "organisations": [
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "211"
   },
   "ST": {
     "name": {
-      "common": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "official": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+      "common": "São Tomé and Príncipe",
+      "official": "Democratic Republic of São Tomé and Príncipe"
     },
     "regions": [
       "SSA"
@@ -6980,16 +7188,17 @@
     "timezones": [
       "UTC"
     ],
-    "area": 964.0,
+    "area": 964,
     "population": 209607,
-    "flag": "\ud83c\uddf8\ud83c\uddf9",
+    "flag": "🇸🇹",
     "region_common": "Africa",
     "demonym": "Sao Tomean",
     "gdp": 603240748.9542067,
     "gdp_year": 2023,
     "organisations": [
       "AU"
-    ]
+    ],
+    "phone_code": "239"
   },
   "SV": {
     "name": {
@@ -7010,9 +7219,9 @@
     "timezones": [
       "UTC-06:00"
     ],
-    "area": 21041.0,
+    "area": 21041,
     "population": 6029976,
-    "flag": "\ud83c\uddf8\ud83c\uddfb",
+    "flag": "🇸🇻",
     "region_common": "Americas",
     "demonym": "Salvadoran",
     "gdp": 34015620000.000004,
@@ -7025,7 +7234,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "503"
   },
   "SX": {
     "name": {
@@ -7044,13 +7254,14 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 34.0,
+    "area": 34,
     "population": 41349,
-    "flag": "\ud83c\uddf8\ud83c\uddfd",
+    "flag": "🇸🇽",
     "region_common": "Americas",
     "demonym": "St. Maartener",
     "gdp": 1623165683.1284916,
-    "gdp_year": 2023
+    "gdp_year": 2023,
+    "phone_code": "599"
   },
   "SY": {
     "name": {
@@ -7071,13 +7282,14 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 185180.0,
+    "area": 185180,
     "population": 25620000,
-    "flag": "\ud83c\uddf8\ud83c\uddfe",
+    "flag": "🇸🇾",
     "region_common": "Asia",
     "demonym": "Syrian",
     "gdp": 8980060818.721447,
-    "gdp_year": 2021
+    "gdp_year": 2021,
+    "phone_code": "963"
   },
   "SZ": {
     "name": {
@@ -7098,9 +7310,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 17364.0,
+    "area": 17364,
     "population": 1235549,
-    "flag": "\ud83c\uddf8\ud83c\uddff",
+    "flag": "🇸🇿",
     "region_common": "Africa",
     "demonym": "Swazi",
     "gdp": 4597855845.042758,
@@ -7113,7 +7325,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "268"
   },
   "TC": {
     "name": {
@@ -7132,9 +7345,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 948.0,
+    "area": 948,
     "population": 50828,
-    "flag": "\ud83c\uddf9\ud83c\udde8",
+    "flag": "🇹🇨",
     "region_common": "Americas",
     "demonym": "Turks and Caicos Islander",
     "gdp": 1402054390.94734,
@@ -7142,7 +7355,8 @@
     "postal_code": {
       "format": "TKCA 1ZZ",
       "regex": "^(TKCA 1ZZ)$"
-    }
+    },
+    "phone_code": "+1-649"
   },
   "TD": {
     "name": {
@@ -7164,9 +7378,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 1284000.0,
+    "area": 1284000,
     "population": 19340757,
-    "flag": "\ud83c\uddf9\ud83c\udde9",
+    "flag": "🇹🇩",
     "region_common": "Africa",
     "demonym": "Chadian",
     "gdp": 13149325358.73826,
@@ -7175,7 +7389,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "235"
   },
   "TF": {
     "name": {
@@ -7194,11 +7409,12 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 7747.0,
+    "area": 7747,
     "population": 400,
-    "flag": "\ud83c\uddf9\ud83c\uddeb",
+    "flag": "🇹🇫",
     "region_common": "Antarctic",
-    "demonym": "French"
+    "demonym": "French",
+    "phone_code": null
   },
   "TG": {
     "name": {
@@ -7217,9 +7433,9 @@
     "timezones": [
       "UTC"
     ],
-    "area": 56785.0,
+    "area": 56785,
     "population": 8095498,
-    "flag": "\ud83c\uddf9\ud83c\uddec",
+    "flag": "🇹🇬",
     "region_common": "Africa",
     "demonym": "Togolese",
     "gdp": 9171261835.062641,
@@ -7228,7 +7444,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "228"
   },
   "TH": {
     "name": {
@@ -7250,9 +7467,9 @@
     "timezones": [
       "UTC+07:00"
     ],
-    "area": 513120.0,
+    "area": 513120,
     "population": 65859640,
-    "flag": "\ud83c\uddf9\ud83c\udded",
+    "flag": "🇹🇭",
     "region_common": "Asia",
     "demonym": "Thai",
     "gdp": 514944993833.5776,
@@ -7266,7 +7483,8 @@
       "BIS",
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "66"
   },
   "TJ": {
     "name": {
@@ -7287,9 +7505,9 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 143100.0,
+    "area": 143100,
     "population": 10499000,
-    "flag": "\ud83c\uddf9\ud83c\uddef",
+    "flag": "🇹🇯",
     "region_common": "Asia",
     "demonym": "Tadzhik",
     "gdp": 12060602008.847782,
@@ -7301,7 +7519,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "992"
   },
   "TK": {
     "name": {
@@ -7320,11 +7539,12 @@
     "timezones": [
       "UTC+13:00"
     ],
-    "area": 12.0,
+    "area": 12,
     "population": 2608,
-    "flag": "\ud83c\uddf9\ud83c\uddf0",
+    "flag": "🇹🇰",
     "region_common": "Oceania",
-    "demonym": "Tokelauan"
+    "demonym": "Tokelauan",
+    "phone_code": "690"
   },
   "TL": {
     "name": {
@@ -7346,9 +7566,9 @@
     "timezones": [
       "UTC+09:00"
     ],
-    "area": 14874.0,
+    "area": 14874,
     "population": 1391221,
-    "flag": "\ud83c\uddf9\ud83c\uddf1",
+    "flag": "🇹🇱",
     "region_common": "Asia",
     "demonym": "East Timorese",
     "gdp": 2243142908.4616103,
@@ -7356,7 +7576,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "670"
   },
   "TM": {
     "name": {
@@ -7377,9 +7598,9 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 488100.0,
+    "area": 488100,
     "population": 7057841,
-    "flag": "\ud83c\uddf9\ud83c\uddf2",
+    "flag": "🇹🇲",
     "region_common": "Asia",
     "demonym": "Turkmen",
     "gdp": 59887334844.06514,
@@ -7390,7 +7611,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "993"
   },
   "TN": {
     "name": {
@@ -7411,9 +7633,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "area": 163610.0,
+    "area": 163610,
     "population": 11972169,
-    "flag": "\ud83c\uddf9\ud83c\uddf3",
+    "flag": "🇹🇳",
     "region_common": "Africa",
     "demonym": "Tunisian",
     "gdp": 48529595416.65326,
@@ -7426,7 +7648,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "216"
   },
   "TO": {
     "name": {
@@ -7445,9 +7668,9 @@
     "timezones": [
       "UTC+13:00"
     ],
-    "area": 747.0,
+    "area": 747,
     "population": 100179,
-    "flag": "\ud83c\uddf9\ud83c\uddf4",
+    "flag": "🇹🇴",
     "region_common": "Oceania",
     "demonym": "Tongan",
     "gdp": 500274898.08522147,
@@ -7455,7 +7678,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "676"
   },
   "TR": {
     "name": {
@@ -7478,9 +7702,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 783562.0,
+    "area": 783562,
     "population": 85664944,
-    "flag": "\ud83c\uddf9\ud83c\uddf7",
+    "flag": "🇹🇷",
     "region_common": "Asia",
     "demonym": "Turkish",
     "gdp": 1108022373259.511,
@@ -7495,7 +7719,8 @@
       "BIS",
       "G20",
       "WTO"
-    ]
+    ],
+    "phone_code": "90"
   },
   "TT": {
     "name": {
@@ -7516,9 +7741,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 5130.0,
+    "area": 5130,
     "population": 1367764,
-    "flag": "\ud83c\uddf9\ud83c\uddf9",
+    "flag": "🇹🇹",
     "region_common": "Americas",
     "demonym": "Trinidadian",
     "gdp": 28139944790.291103,
@@ -7527,7 +7752,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-868"
   },
   "TV": {
     "name": {
@@ -7546,16 +7772,17 @@
     "timezones": [
       "UTC+12:00"
     ],
-    "area": 26.0,
+    "area": 26,
     "population": 10643,
-    "flag": "\ud83c\uddf9\ud83c\uddfb",
+    "flag": "🇹🇻",
     "region_common": "Oceania",
     "demonym": "Tuvaluan",
     "gdp": 62280311.585217156,
     "gdp_year": 2023,
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "688"
   },
   "TW": {
     "name": {
@@ -7574,9 +7801,9 @@
     "timezones": [
       "UTC+08:00"
     ],
-    "area": 36197.0,
+    "area": 36197,
     "population": 23317031,
-    "flag": "\ud83c\uddf9\ud83c\uddfc",
+    "flag": "🇹🇼",
     "region_common": "Asia",
     "demonym": "Taiwanese",
     "postal_code": {
@@ -7585,7 +7812,8 @@
     },
     "organisations": [
       "WTO"
-    ]
+    ],
+    "phone_code": "886"
   },
   "TZ": {
     "name": {
@@ -7606,9 +7834,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 947303.0,
+    "area": 947303,
     "population": 68153004,
-    "flag": "\ud83c\uddf9\ud83c\uddff",
+    "flag": "🇹🇿",
     "region_common": "Africa",
     "demonym": "Tanzanian",
     "gdp": 79158286333.52399,
@@ -7616,7 +7844,8 @@
     "organisations": [
       "WTO",
       "AU"
-    ]
+    ],
+    "phone_code": "255"
   },
   "UA": {
     "name": {
@@ -7637,9 +7866,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 603550.0,
+    "area": 603550,
     "population": 32862000,
-    "flag": "\ud83c\uddfa\ud83c\udde6",
+    "flag": "🇺🇦",
     "region_common": "Europe",
     "demonym": "Ukrainian",
     "gdp": 178757021386.80896,
@@ -7651,7 +7880,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "380"
   },
   "UG": {
     "name": {
@@ -7672,9 +7902,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 241550.0,
+    "area": 241550,
     "population": 45905417,
-    "flag": "\ud83c\uddfa\ud83c\uddec",
+    "flag": "🇺🇬",
     "region_common": "Africa",
     "demonym": "Ugandan",
     "gdp": 49272882213.623,
@@ -7683,7 +7913,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "256"
   },
   "UM": {
     "name": {
@@ -7710,9 +7941,10 @@
     ],
     "area": 34.2,
     "population": 0,
-    "flag": "\ud83c\uddfa\ud83c\uddf2",
+    "flag": "🇺🇲",
     "region_common": "Americas",
-    "demonym": "American Islander"
+    "demonym": "American Islander",
+    "phone_code": "1"
   },
   "US": {
     "name": {
@@ -7743,12 +7975,12 @@
       "UTC+10:00",
       "UTC+12:00"
     ],
-    "area": 9525067.0,
+    "area": 9525067,
     "population": 340110988,
-    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "flag": "🇺🇸",
     "region_common": "Americas",
     "demonym": "American",
-    "gdp": 27360935000000.0,
+    "gdp": 27360935000000,
     "gdp_year": 2023,
     "postal_code": {
       "format": "#####-####",
@@ -7761,7 +7993,8 @@
       "G20",
       "WTO",
       "OAS"
-    ]
+    ],
+    "phone_code": "1"
   },
   "UY": {
     "name": {
@@ -7782,9 +8015,9 @@
     "timezones": [
       "UTC-03:00"
     ],
-    "area": 181034.0,
+    "area": 181034,
     "population": 3499451,
-    "flag": "\ud83c\uddfa\ud83c\uddfe",
+    "flag": "🇺🇾",
     "region_common": "Americas",
     "demonym": "Uruguayan",
     "gdp": 77240831587.16696,
@@ -7797,7 +8030,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "598"
   },
   "UZ": {
     "name": {
@@ -7818,9 +8052,9 @@
     "timezones": [
       "UTC+05:00"
     ],
-    "area": 447400.0,
+    "area": 447400,
     "population": 37859698,
-    "flag": "\ud83c\uddfa\ud83c\uddff",
+    "flag": "🇺🇿",
     "region_common": "Asia",
     "demonym": "Uzbekistani",
     "gdp": 90889149306.73126,
@@ -7831,7 +8065,8 @@
     },
     "organisations": [
       "UN"
-    ]
+    ],
+    "phone_code": "998"
   },
   "VA": {
     "name": {
@@ -7854,9 +8089,10 @@
     ],
     "area": 0.49,
     "population": 882,
-    "flag": "\ud83c\uddfb\ud83c\udde6",
+    "flag": "🇻🇦",
     "region_common": "Europe",
-    "demonym": "Vatican"
+    "demonym": "Vatican",
+    "phone_code": "379"
   },
   "VC": {
     "name": {
@@ -7875,9 +8111,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 389.0,
+    "area": 389,
     "population": 110872,
-    "flag": "\ud83c\uddfb\ud83c\udde8",
+    "flag": "🇻🇨",
     "region_common": "Americas",
     "demonym": "Saint Vincentian",
     "gdp": 1065962962.9629629,
@@ -7886,7 +8122,8 @@
       "WTO",
       "OAS",
       "UN"
-    ]
+    ],
+    "phone_code": "+1-784"
   },
   "VE": {
     "name": {
@@ -7907,9 +8144,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 916445.0,
+    "area": 916445,
     "population": 28517000,
-    "flag": "\ud83c\uddfb\ud83c\uddea",
+    "flag": "🇻🇪",
     "region_common": "Americas",
     "demonym": "Venezuelan",
     "gdp": 482359318767.7031,
@@ -7921,7 +8158,8 @@
     "organisations": [
       "WTO",
       "OAS"
-    ]
+    ],
+    "phone_code": "58"
   },
   "VG": {
     "name": {
@@ -7940,11 +8178,12 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 151.0,
+    "area": 151,
     "population": 39471,
-    "flag": "\ud83c\uddfb\ud83c\uddec",
+    "flag": "🇻🇬",
     "region_common": "Americas",
-    "demonym": "Virgin Islander"
+    "demonym": "Virgin Islander",
+    "phone_code": "+1-284"
   },
   "VI": {
     "name": {
@@ -7963,13 +8202,14 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "area": 347.0,
+    "area": 347,
     "population": 87146,
-    "flag": "\ud83c\uddfb\ud83c\uddee",
+    "flag": "🇻🇮",
     "region_common": "Americas",
     "demonym": "Virgin Islander",
-    "gdp": 4444000000.0,
-    "gdp_year": 2021
+    "gdp": 4444000000,
+    "gdp_year": 2021,
+    "phone_code": "+1-340"
   },
   "VN": {
     "name": {
@@ -7992,9 +8232,9 @@
     "timezones": [
       "UTC+07:00"
     ],
-    "area": 331212.0,
+    "area": 331212,
     "population": 101343800,
-    "flag": "\ud83c\uddfb\ud83c\uddf3",
+    "flag": "🇻🇳",
     "region_common": "Asia",
     "demonym": "Vietnamese",
     "gdp": 429716969049.5928,
@@ -8007,7 +8247,8 @@
       "ASEAN",
       "BIS",
       "WTO"
-    ]
+    ],
+    "phone_code": "84"
   },
   "VU": {
     "name": {
@@ -8029,9 +8270,9 @@
     "timezones": [
       "UTC+11:00"
     ],
-    "area": 12189.0,
+    "area": 12189,
     "population": 321409,
-    "flag": "\ud83c\uddfb\ud83c\uddfa",
+    "flag": "🇻🇺",
     "region_common": "Oceania",
     "demonym": "Ni-Vanuatu",
     "gdp": 1126313359.2192256,
@@ -8039,7 +8280,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "678"
   },
   "WF": {
     "name": {
@@ -8058,15 +8300,16 @@
     "timezones": [
       "UTC+12:00"
     ],
-    "area": 142.0,
+    "area": 142,
     "population": 11620,
-    "flag": "\ud83c\uddfc\ud83c\uddeb",
+    "flag": "🇼🇫",
     "region_common": "Oceania",
     "demonym": "Wallis and Futuna Islander",
     "postal_code": {
       "format": "#####",
       "regex": "^(986\\d{2})$"
-    }
+    },
+    "phone_code": "681"
   },
   "WS": {
     "name": {
@@ -8085,9 +8328,9 @@
     "timezones": [
       "UTC+13:00"
     ],
-    "area": 2842.0,
+    "area": 2842,
     "population": 205557,
-    "flag": "\ud83c\uddfc\ud83c\uddf8",
+    "flag": "🇼🇸",
     "region_common": "Oceania",
     "demonym": "Samoan",
     "gdp": 934100336.2756538,
@@ -8095,7 +8338,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "685"
   },
   "XK": {
     "name": {
@@ -8112,7 +8356,8 @@
       "xkk"
     ],
     "continent_code": "EU",
-    "demonym": "Kosovar"
+    "demonym": "Kosovar",
+    "phone_code": null
   },
   "YE": {
     "name": {
@@ -8132,9 +8377,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 527968.0,
+    "area": 527968,
     "population": 32684503,
-    "flag": "\ud83c\uddfe\ud83c\uddea",
+    "flag": "🇾🇪",
     "region_common": "Asia",
     "demonym": "Yemeni",
     "gdp": 21606160663.03177,
@@ -8142,7 +8387,8 @@
     "organisations": [
       "WTO",
       "UN"
-    ]
+    ],
+    "phone_code": "967"
   },
   "YT": {
     "name": {
@@ -8161,15 +8407,16 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "area": 374.0,
+    "area": 374,
     "population": 320901,
-    "flag": "\ud83c\uddfe\ud83c\uddf9",
+    "flag": "🇾🇹",
     "region_common": "Africa",
     "demonym": "Mahoran",
     "postal_code": {
       "format": "#####",
       "regex": "^(\\d{5})$"
-    }
+    },
+    "phone_code": "262"
   },
   "ZA": {
     "name": {
@@ -8188,9 +8435,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 1221037.0,
+    "area": 1221037,
     "population": 63100945,
-    "flag": "\ud83c\uddff\ud83c\udde6",
+    "flag": "🇿🇦",
     "region_common": "Africa",
     "demonym": "South African",
     "gdp": 377781600985.8731,
@@ -8205,7 +8452,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "27"
   },
   "ZM": {
     "name": {
@@ -8226,9 +8474,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 752612.0,
+    "area": 752612,
     "population": 19693423,
-    "flag": "\ud83c\uddff\ud83c\uddf2",
+    "flag": "🇿🇲",
     "region_common": "Africa",
     "demonym": "Zambian",
     "gdp": 28162630953.9285,
@@ -8241,7 +8489,8 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "260"
   },
   "ZW": {
     "name": {
@@ -8263,9 +8512,9 @@
     "timezones": [
       "UTC+02:00"
     ],
-    "area": 390757.0,
+    "area": 390757,
     "population": 17073087,
-    "flag": "\ud83c\uddff\ud83c\uddfc",
+    "flag": "🇿🇼",
     "region_common": "Africa",
     "demonym": "Zimbabwean",
     "gdp": 26538273498.84614,
@@ -8274,6 +8523,7 @@
       "WTO",
       "AU",
       "UN"
-    ]
+    ],
+    "phone_code": "263"
   }
 }
