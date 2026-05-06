@@ -227,10 +227,6 @@
       "common": "Angola",
       "official": "Republic of Angola"
     },
-    "regions": [
-      "CF",
-      "SSA"
-    ],
     "capital": "Luanda",
     "currency_code": "AOA",
     "iso3": "AGO",
@@ -294,10 +290,6 @@
       "common": "Argentina",
       "official": "Argentine Republic"
     },
-    "regions": [
-      "SA",
-      "LATAM"
-    ],
     "capital": "Buenos Aires",
     "currency_code": "ARS",
     "iso3": "ARG",
@@ -334,7 +326,6 @@
       "common": "American Samoa",
       "official": "American Samoa"
     },
-    "regions": [],
     "capital": "Pago Pago",
     "currency_code": "USD",
     "iso3": "ASM",
@@ -399,9 +390,6 @@
       "common": "Australia",
       "official": "Commonwealth of Australia"
     },
-    "regions": [
-      "OC"
-    ],
     "capital": "Canberra",
     "currency_code": "AUD",
     "iso3": "AUS",
@@ -679,10 +667,6 @@
       "common": "Burkina Faso",
       "official": "Burkina Faso"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Ouagadougou",
     "currency_code": "XOF",
     "iso3": "BFA",
@@ -789,9 +773,6 @@
       "common": "Burundi",
       "official": "Republic of Burundi"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Bujumbura",
     "currency_code": "BIF",
     "iso3": "BDI",
@@ -822,10 +803,6 @@
       "common": "Benin",
       "official": "Republic of Benin"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Porto-Novo",
     "currency_code": "XOF",
     "iso3": "BEN",
@@ -950,10 +927,6 @@
       "common": "Bolivia",
       "official": "Plurinational State of Bolivia"
     },
-    "regions": [
-      "SA",
-      "LATAM"
-    ],
     "capital": "Sucre",
     "currency_code": "BOB",
     "iso3": "BOL",
@@ -1007,10 +980,6 @@
       "common": "Brazil",
       "official": "Federative Republic of Brazil"
     },
-    "regions": [
-      "SA",
-      "LATAM"
-    ],
     "capital": "Brasilia",
     "currency_code": "BRL",
     "iso3": "BRA",
@@ -1133,10 +1102,6 @@
       "common": "Botswana",
       "official": "Republic of Botswana"
     },
-    "regions": [
-      "SAF",
-      "SSA"
-    ],
     "capital": "Gaborone",
     "currency_code": "BWP",
     "iso3": "BWA",
@@ -1305,9 +1270,6 @@
       "common": "DR Congo",
       "official": "Democratic Republic of the Congo"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Kinshasa",
     "currency_code": "CDF",
     "iso3": "COD",
@@ -1335,10 +1297,6 @@
       "common": "Central African Republic",
       "official": "Central African Republic"
     },
-    "regions": [
-      "CF",
-      "SSA"
-    ],
     "capital": "Bangui",
     "currency_code": "XAF",
     "iso3": "CAF",
@@ -1369,9 +1327,6 @@
       "common": "Republic of the Congo",
       "official": "Republic of the Congo"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Brazzaville",
     "currency_code": "XAF",
     "iso3": "COG",
@@ -1439,9 +1394,6 @@
       "common": "Ivory Coast",
       "official": "Republic of Côte d'Ivoire"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Yamoussoukro",
     "currency_code": "XOF",
     "iso3": "CIV",
@@ -1470,7 +1422,6 @@
       "common": "Cook Islands",
       "official": "Cook Islands"
     },
-    "regions": [],
     "capital": "Avarua",
     "currency_code": "NZD",
     "iso3": "COK",
@@ -1494,10 +1445,6 @@
       "common": "Chile",
       "official": "Republic of Chile"
     },
-    "regions": [
-      "SA",
-      "LATAM"
-    ],
     "capital": "Santiago",
     "currency_code": "CLP",
     "iso3": "CHL",
@@ -1535,10 +1482,6 @@
       "common": "Cameroon",
       "official": "Republic of Cameroon"
     },
-    "regions": [
-      "CF",
-      "SSA"
-    ],
     "capital": "Yaounde",
     "currency_code": "XAF",
     "iso3": "CMR",
@@ -1607,10 +1550,6 @@
       "common": "Colombia",
       "official": "Republic of Colombia"
     },
-    "regions": [
-      "SA",
-      "LATAM"
-    ],
     "capital": "Bogota",
     "currency_code": "COP",
     "iso3": "COL",
@@ -1719,9 +1658,6 @@
       "common": "Cape Verde",
       "official": "Republic of Cabo Verde"
     },
-    "regions": [
-      "WAF"
-    ],
     "capital": "Praia",
     "currency_code": "CVE",
     "iso3": "CPV",
@@ -1927,9 +1863,6 @@
       "common": "Djibouti",
       "official": "Republic of Djibouti"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Djibouti",
     "currency_code": "DJF",
     "iso3": "DJI",
@@ -2075,10 +2008,6 @@
       "common": "Algeria",
       "official": "People's Democratic Republic of Algeria"
     },
-    "regions": [
-      "NAFR",
-      "MAGH"
-    ],
     "capital": "Algiers",
     "currency_code": "DZD",
     "iso3": "DZA",
@@ -2113,9 +2042,6 @@
       "common": "Ecuador",
       "official": "Republic of Ecuador"
     },
-    "regions": [
-      "LATAM"
-    ],
     "capital": "Quito",
     "currency_code": "USD",
     "iso3": "ECU",
@@ -2191,7 +2117,6 @@
       "common": "Egypt",
       "official": "Arab Republic of Egypt"
     },
-    "regions": [],
     "capital": "Cairo",
     "currency_code": "EGP",
     "iso3": "EGY",
@@ -2226,9 +2151,6 @@
       "common": "Western Sahara",
       "official": "Sahrawi Arab Democratic Republic"
     },
-    "regions": [
-      "MAGH"
-    ],
     "capital": "El-Aaiun",
     "currency_code": "MAD",
     "iso3": "ESH",
@@ -2252,9 +2174,6 @@
       "common": "Eritrea",
       "official": "State of Eritrea"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Asmara",
     "currency_code": "ERN",
     "iso3": "ERI",
@@ -2325,10 +2244,6 @@
       "common": "Ethiopia",
       "official": "Federal Democratic Republic of Ethiopia"
     },
-    "regions": [
-      "EAF",
-      "SSA"
-    ],
     "capital": "Addis Ababa",
     "currency_code": "ETB",
     "iso3": "ETH",
@@ -2403,9 +2318,6 @@
       "common": "Fiji",
       "official": "Republic of Fiji"
     },
-    "regions": [
-      "MEL"
-    ],
     "capital": "Suva",
     "currency_code": "FJD",
     "iso3": "FJI",
@@ -2435,7 +2347,6 @@
       "common": "Falkland Islands",
       "official": "Falkland Islands"
     },
-    "regions": [],
     "capital": "Stanley",
     "currency_code": "FKP",
     "iso3": "FLK",
@@ -2459,7 +2370,6 @@
       "common": "Micronesia",
       "official": "Federated States of Micronesia"
     },
-    "regions": [],
     "capital": "Palikir",
     "currency_code": "USD",
     "iso3": "FSM",
@@ -2578,9 +2488,6 @@
       "common": "Gabon",
       "official": "Gabonese Republic"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Libreville",
     "currency_code": "XAF",
     "iso3": "GAB",
@@ -2727,9 +2634,6 @@
       "common": "French Guiana",
       "official": "Guiana"
     },
-    "regions": [
-      "GUI"
-    ],
     "capital": "Cayenne",
     "currency_code": "EUR",
     "iso3": "GUF",
@@ -2785,9 +2689,6 @@
       "common": "Ghana",
       "official": "Republic of Ghana"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Accra",
     "currency_code": "GHS",
     "iso3": "GHA",
@@ -2879,9 +2780,6 @@
       "common": "Gambia",
       "official": "Republic of the Gambia"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Banjul",
     "currency_code": "GMD",
     "iso3": "GMB",
@@ -2912,9 +2810,6 @@
       "common": "Guinea",
       "official": "Republic of Guinea"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Conakry",
     "currency_code": "GNF",
     "iso3": "GIN",
@@ -2975,9 +2870,6 @@
       "common": "Equatorial Guinea",
       "official": "Republic of Equatorial Guinea"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Malabo",
     "currency_code": "XAF",
     "iso3": "GNQ",
@@ -3108,7 +3000,6 @@
       "common": "Guam",
       "official": "Guam"
     },
-    "regions": [],
     "capital": "Hagatna",
     "currency_code": "USD",
     "iso3": "GUM",
@@ -3138,9 +3029,6 @@
       "common": "Guinea-Bissau",
       "official": "Republic of Guinea-Bissau"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Bissau",
     "currency_code": "XOF",
     "iso3": "GNB",
@@ -3175,9 +3063,6 @@
       "common": "Guyana",
       "official": "Co-operative Republic of Guyana"
     },
-    "regions": [
-      "GUI"
-    ],
     "capital": "Georgetown",
     "currency_code": "GYD",
     "iso3": "GUY",
@@ -3902,9 +3787,6 @@
       "common": "Kenya",
       "official": "Republic of Kenya"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Nairobi",
     "currency_code": "KES",
     "iso3": "KEN",
@@ -4013,9 +3895,6 @@
       "common": "Kiribati",
       "official": "Independent and Sovereign Republic of Kiribati"
     },
-    "regions": [
-      "MIC"
-    ],
     "capital": "Tarawa",
     "currency_code": "AUD",
     "iso3": "KIR",
@@ -4047,9 +3926,6 @@
       "common": "Comoros",
       "official": "Union of the Comoros"
     },
-    "regions": [
-      "EAFR"
-    ],
     "capital": "Moroni",
     "currency_code": "KMF",
     "iso3": "COM",
@@ -4455,10 +4331,6 @@
       "common": "Liberia",
       "official": "Republic of Liberia"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Monrovia",
     "currency_code": "LRD",
     "iso3": "LBR",
@@ -4493,10 +4365,6 @@
       "common": "Lesotho",
       "official": "Kingdom of Lesotho"
     },
-    "regions": [
-      "SAF",
-      "SSA"
-    ],
     "capital": "Maseru",
     "currency_code": "LSL",
     "iso3": "LSO",
@@ -4651,10 +4519,6 @@
       "common": "Libya",
       "official": "State of Libya"
     },
-    "regions": [
-      "NAFR",
-      "MAGH"
-    ],
     "capital": "Tripolis",
     "currency_code": "LYD",
     "iso3": "LBY",
@@ -4684,9 +4548,6 @@
       "common": "Morocco",
       "official": "Kingdom of Morocco"
     },
-    "regions": [
-      "MAGH"
-    ],
     "capital": "Rabat",
     "currency_code": "MAD",
     "iso3": "MAR",
@@ -4860,10 +4721,6 @@
       "common": "Madagascar",
       "official": "Republic of Madagascar"
     },
-    "regions": [
-      "EAFR",
-      "SSA"
-    ],
     "capital": "Antananarivo",
     "currency_code": "MGA",
     "iso3": "MDG",
@@ -4898,7 +4755,6 @@
       "common": "Marshall Islands",
       "official": "Republic of the Marshall Islands"
     },
-    "regions": [],
     "capital": "Majuro",
     "currency_code": "USD",
     "iso3": "MHL",
@@ -4965,10 +4821,6 @@
       "common": "Mali",
       "official": "Republic of Mali"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Bamako",
     "currency_code": "XOF",
     "iso3": "MLI",
@@ -5101,7 +4953,6 @@
       "common": "Northern Mariana Islands",
       "official": "Commonwealth of the Northern Mariana Islands"
     },
-    "regions": [],
     "capital": "Saipan",
     "currency_code": "USD",
     "iso3": "MNP",
@@ -5157,10 +5008,6 @@
       "common": "Mauritania",
       "official": "Islamic Republic of Mauritania"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Nouakchott",
     "currency_code": "MRO",
     "iso3": "MRT",
@@ -5252,9 +5099,6 @@
       "common": "Mauritius",
       "official": "Republic of Mauritius"
     },
-    "regions": [
-      "EAFR"
-    ],
     "capital": "Port Louis",
     "currency_code": "MUR",
     "iso3": "MUS",
@@ -5321,10 +5165,6 @@
       "common": "Malawi",
       "official": "Republic of Malawi"
     },
-    "regions": [
-      "EAFR",
-      "SSA"
-    ],
     "capital": "Lilongwe",
     "currency_code": "MWK",
     "iso3": "MWI",
@@ -5436,9 +5276,6 @@
       "common": "Mozambique",
       "official": "Republic of Mozambique"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Maputo",
     "currency_code": "MZN",
     "iso3": "MOZ",
@@ -5473,9 +5310,6 @@
       "common": "Namibia",
       "official": "Republic of Namibia"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Windhoek",
     "currency_code": "NAD",
     "iso3": "NAM",
@@ -5506,9 +5340,6 @@
       "common": "New Caledonia",
       "official": "New Caledonia"
     },
-    "regions": [
-      "MEL"
-    ],
     "capital": "Noumea",
     "currency_code": "XPF",
     "iso3": "NCL",
@@ -5538,10 +5369,6 @@
       "common": "Niger",
       "official": "Republic of Niger"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Niamey",
     "currency_code": "XOF",
     "iso3": "NER",
@@ -5576,7 +5403,6 @@
       "common": "Norfolk Island",
       "official": "Territory of Norfolk Island"
     },
-    "regions": [],
     "capital": "Kingston",
     "currency_code": "AUD",
     "iso3": "NFK",
@@ -5600,10 +5426,6 @@
       "common": "Nigeria",
       "official": "Federal Republic of Nigeria"
     },
-    "regions": [
-      "WAF",
-      "SSA"
-    ],
     "capital": "Abuja",
     "currency_code": "NGN",
     "iso3": "NGA",
@@ -5793,9 +5615,6 @@
       "common": "Nauru",
       "official": "Republic of Nauru"
     },
-    "regions": [
-      "MIC"
-    ],
     "capital": "Yaren",
     "currency_code": "AUD",
     "iso3": "NRU",
@@ -5824,9 +5643,6 @@
       "common": "Niue",
       "official": "Niue"
     },
-    "regions": [
-      "POL"
-    ],
     "capital": "Alofi",
     "currency_code": "NZD",
     "iso3": "NIU",
@@ -5850,9 +5666,6 @@
       "common": "New Zealand",
       "official": "New Zealand"
     },
-    "regions": [
-      "OC"
-    ],
     "capital": "Wellington",
     "currency_code": "NZD",
     "iso3": "NZL",
@@ -5960,10 +5773,6 @@
       "common": "Peru",
       "official": "Republic of Peru"
     },
-    "regions": [
-      "SA",
-      "LATAM"
-    ],
     "capital": "Lima",
     "currency_code": "PEN",
     "iso3": "PER",
@@ -5999,7 +5808,6 @@
       "common": "French Polynesia",
       "official": "French Polynesia"
     },
-    "regions": [],
     "capital": "Papeete",
     "currency_code": "XPF",
     "iso3": "PYF",
@@ -6031,9 +5839,6 @@
       "common": "Papua New Guinea",
       "official": "Independent State of Papua New Guinea"
     },
-    "regions": [
-      "MEL"
-    ],
     "capital": "Port Moresby",
     "currency_code": "PGK",
     "iso3": "PNG",
@@ -6211,7 +6016,6 @@
       "common": "Pitcairn Islands",
       "official": "Pitcairn Group of Islands"
     },
-    "regions": [],
     "capital": "Adamstown",
     "currency_code": "NZD",
     "iso3": "PCN",
@@ -6334,7 +6138,6 @@
       "common": "Palau",
       "official": "Republic of Palau"
     },
-    "regions": [],
     "capital": "Melekeok",
     "currency_code": "USD",
     "iso3": "PLW",
@@ -6367,9 +6170,6 @@
       "common": "Paraguay",
       "official": "Republic of Paraguay"
     },
-    "regions": [
-      "LATAM"
-    ],
     "capital": "Asuncion",
     "currency_code": "PYG",
     "iso3": "PRY",
@@ -6434,7 +6234,6 @@
       "common": "Réunion",
       "official": "Réunion Island"
     },
-    "regions": [],
     "capital": "Saint-Denis",
     "currency_code": "EUR",
     "iso3": "REU",
@@ -6588,9 +6387,6 @@
       "common": "Rwanda",
       "official": "Republic of Rwanda"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Kigali",
     "currency_code": "RWF",
     "iso3": "RWA",
@@ -6658,9 +6454,6 @@
       "common": "Solomon Islands",
       "official": "Solomon Islands"
     },
-    "regions": [
-      "MEL"
-    ],
     "capital": "Honiara",
     "currency_code": "SBD",
     "iso3": "SLB",
@@ -6690,7 +6483,6 @@
       "common": "Seychelles",
       "official": "Republic of Seychelles"
     },
-    "regions": [],
     "capital": "Victoria",
     "currency_code": "SCR",
     "iso3": "SYC",
@@ -6721,7 +6513,6 @@
       "common": "Sudan",
       "official": "Republic of the Sudan"
     },
-    "regions": [],
     "capital": "Khartoum",
     "currency_code": "SDG",
     "iso3": "SDN",
@@ -6836,7 +6627,6 @@
       "common": "Saint Helena, Ascension and Tristan da Cunha",
       "official": "Saint Helena, Ascension and Tristan da Cunha"
     },
-    "regions": [],
     "capital": "Jamestown",
     "currency_code": "SHP",
     "iso3": "SHN",
@@ -6968,9 +6758,6 @@
       "common": "Sierra Leone",
       "official": "Republic of Sierra Leone"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Freetown",
     "currency_code": "SLL",
     "iso3": "SLE",
@@ -7036,9 +6823,6 @@
       "common": "Senegal",
       "official": "Republic of Senegal"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Dakar",
     "currency_code": "XOF",
     "iso3": "SEN",
@@ -7073,9 +6857,6 @@
       "common": "Somalia",
       "official": "Federal Republic of Somalia"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Mogadishu",
     "currency_code": "SOS",
     "iso3": "SOM",
@@ -7109,9 +6890,6 @@
       "common": "Suriname",
       "official": "Republic of Suriname"
     },
-    "regions": [
-      "GUI"
-    ],
     "capital": "Paramaribo",
     "currency_code": "SRD",
     "iso3": "SUR",
@@ -7142,9 +6920,6 @@
       "common": "South Sudan",
       "official": "Republic of South Sudan"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Juba",
     "currency_code": "SSP",
     "iso3": "SSD",
@@ -7174,9 +6949,6 @@
       "common": "São Tomé and Príncipe",
       "official": "Democratic Republic of São Tomé and Príncipe"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Sao Tome",
     "currency_code": "STD",
     "iso3": "STP",
@@ -7296,9 +7068,6 @@
       "common": "Eswatini",
       "official": "Kingdom of Eswatini"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Mbabane",
     "currency_code": "SZL",
     "iso3": "SWZ",
@@ -7363,10 +7132,6 @@
       "common": "Chad",
       "official": "Republic of Chad"
     },
-    "regions": [
-      "CF",
-      "SSA"
-    ],
     "capital": "N'Djamena",
     "currency_code": "XAF",
     "iso3": "TCD",
@@ -7421,7 +7186,6 @@
       "common": "Togo",
       "official": "Togolese Republic"
     },
-    "regions": [],
     "capital": "Lome",
     "currency_code": "XOF",
     "iso3": "TGO",
@@ -7527,7 +7291,6 @@
       "common": "Tokelau",
       "official": "Tokelau"
     },
-    "regions": [],
     "capital": "",
     "currency_code": "NZD",
     "iso3": "TKL",
@@ -7551,9 +7314,6 @@
       "common": "Timor-Leste",
       "official": "Democratic Republic of Timor-Leste"
     },
-    "regions": [
-      "SEA"
-    ],
     "capital": "Dili",
     "currency_code": "USD",
     "iso3": "TLS",
@@ -7619,9 +7379,6 @@
       "common": "Tunisia",
       "official": "Tunisian Republic"
     },
-    "regions": [
-      "MAGH"
-    ],
     "capital": "Tunis",
     "currency_code": "TND",
     "iso3": "TUN",
@@ -7656,7 +7413,6 @@
       "common": "Tonga",
       "official": "Kingdom of Tonga"
     },
-    "regions": [],
     "capital": "Nuku'alofa",
     "currency_code": "TOP",
     "iso3": "TON",
@@ -7760,7 +7516,6 @@
       "common": "Tuvalu",
       "official": "Tuvalu"
     },
-    "regions": [],
     "capital": "Funafuti",
     "currency_code": "AUD",
     "iso3": "TUV",
@@ -7820,9 +7575,6 @@
       "common": "Tanzania",
       "official": "United Republic of Tanzania"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Dodoma",
     "currency_code": "TZS",
     "iso3": "TZA",
@@ -7888,9 +7640,6 @@
       "common": "Uganda",
       "official": "Republic of Uganda"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Kampala",
     "currency_code": "UGX",
     "iso3": "UGA",
@@ -7921,7 +7670,6 @@
       "common": "United States Minor Outlying Islands",
       "official": "United States Minor Outlying Islands"
     },
-    "regions": [],
     "capital": "",
     "currency_code": "USD",
     "iso3": "UMI",
@@ -8001,9 +7749,6 @@
       "common": "Uruguay",
       "official": "Oriental Republic of Uruguay"
     },
-    "regions": [
-      "LATAM"
-    ],
     "capital": "Montevideo",
     "currency_code": "UYU",
     "iso3": "URY",
@@ -8130,9 +7875,6 @@
       "common": "Venezuela",
       "official": "Bolivarian Republic of Venezuela"
     },
-    "regions": [
-      "LATAM"
-    ],
     "capital": "Caracas",
     "currency_code": "VEF",
     "iso3": "VEN",
@@ -8255,9 +7997,6 @@
       "common": "Vanuatu",
       "official": "Republic of Vanuatu"
     },
-    "regions": [
-      "MEL"
-    ],
     "capital": "Port Vila",
     "currency_code": "VUV",
     "iso3": "VUT",
@@ -8288,7 +8027,6 @@
       "common": "Wallis and Futuna",
       "official": "Territory of the Wallis and Futuna Islands"
     },
-    "regions": [],
     "capital": "Mata Utu",
     "currency_code": "XPF",
     "iso3": "WLF",
@@ -8316,7 +8054,6 @@
       "common": "Samoa",
       "official": "Independent State of Samoa"
     },
-    "regions": [],
     "capital": "Apia",
     "currency_code": "WST",
     "iso3": "WSM",
@@ -8395,7 +8132,6 @@
       "common": "Mayotte",
       "official": "Department of Mayotte"
     },
-    "regions": [],
     "capital": "Mamoudzou",
     "currency_code": "EUR",
     "iso3": "MYT",
@@ -8423,7 +8159,6 @@
       "common": "South Africa",
       "official": "Republic of South Africa"
     },
-    "regions": [],
     "capital": "Pretoria",
     "currency_code": "ZAR",
     "iso3": "ZAF",
@@ -8460,9 +8195,6 @@
       "common": "Zambia",
       "official": "Republic of Zambia"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Lusaka",
     "currency_code": "ZMK",
     "iso3": "ZMB",
@@ -8497,9 +8229,6 @@
       "common": "Zimbabwe",
       "official": "Republic of Zimbabwe"
     },
-    "regions": [
-      "SSA"
-    ],
     "capital": "Harare",
     "currency_code": "ZWL",
     "iso3": "ZWE",
