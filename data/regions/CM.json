@@ -1,39 +1,342 @@
-{
-  "AD": {
-    "name": "Adamaoua"
+[
+  {
+    "name": "Adamawa",
+    "type": "electoral unit"
   },
-  "CE": {
-    "name": "Centre"
+  {
+    "name": "Adamawa",
+    "type": "region of Cameroon"
   },
-  "EN": {
-    "name": "Far North"
+  {
+    "name": "Bamboutos",
+    "type": "department of Cameroon"
   },
-  "ES": {
-    "name": "East"
+  {
+    "name": "Boumba-et-Ngoko",
+    "type": "department of Cameroon"
   },
-  "LT": {
-    "name": "Littoral"
+  {
+    "name": "Boyo",
+    "type": "department of Cameroon"
   },
-  "NO": {
-    "name": "North"
+  {
+    "name": "Bui",
+    "type": "department of Cameroon"
   },
-  "NW": {
-    "name": "North-West"
+  {
+    "name": "B\u00e9nou\u00e9",
+    "type": "department of Cameroon"
   },
-  "OU": {
-    "name": "West"
+  {
+    "name": "Centre",
+    "type": "electoral unit"
   },
-  "SU": {
-    "name": "South"
+  {
+    "name": "Centre",
+    "type": "region of Cameroon"
   },
-  "SW": {
-    "name": "South-West"
+  {
+    "name": "Diamar\u00e9",
+    "type": "department of Cameroon"
   },
-  "capital": "Yaounde",
-  "currency_code": "XAF",
-  "iso3": "CMR",
-  "language_code": [
-    "cmr"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Dja-et-Lobo",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Dj\u00e9rem",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Donga-Mantung",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "East",
+    "type": "electoral unit"
+  },
+  {
+    "name": "East",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Fako",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Far North",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Far North",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Faro",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Faro-et-D\u00e9o",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Haut-Nkam",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Haut-Nkam",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Haut-Nyong",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Haute-Sanaga",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Hauts-Plateaux",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Kadey",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Koung-Khi",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Koup\u00e9-Manengouba",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Lebialem",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Leki\u00e9",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Littoral",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Littoral",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Littoral",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Logone-et-Chari",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Lom-et-Djerem",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Lom-et-Djerem",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Manyu",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo Danay",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo Tsanaga",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo-Banyo",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo-Kani",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo-Louti",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo-Rey",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mayo-Sava",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Mayo-Sava",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mbam-et-Inoubou",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mbam-et-Kim",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mb\u00e9r\u00e9",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Meme",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Menchum",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Menoua",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Menoua",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mezam",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mfoundi - Yaounde",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mifi",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Momo",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Moungo",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Mvila",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "M\u00e9fou-et-Afamba",
+    "type": "electoral unit"
+  },
+  {
+    "name": "M\u00e9fou-et-Afamba",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "M\u00e9fou-et-Akono",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Ndian",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Nd\u00e9",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Ngo-Ketunjia",
+    "type": "administrative region"
+  },
+  {
+    "name": "Ngo-Ketunjia",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Nkam",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "North",
+    "type": "electoral unit"
+  },
+  {
+    "name": "North",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Northwest",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Northwest",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Noun",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Nyong-et-K\u00e9ll\u00e9",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Nyong-et-Mfoumou",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Nyong-et-So'o",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Oc\u00e9an",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Sanaga-Maritime",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "South",
+    "type": "electoral unit"
+  },
+  {
+    "name": "South",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Southwest",
+    "type": "electoral unit"
+  },
+  {
+    "name": "Southwest",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Vall\u00e9e-du-Ntem",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "Vina",
+    "type": "department of Cameroon"
+  },
+  {
+    "name": "West",
+    "type": "electoral unit"
+  },
+  {
+    "name": "West",
+    "type": "region of Cameroon"
+  },
+  {
+    "name": "Wouri",
+    "type": "department of Cameroon"
+  }
+]

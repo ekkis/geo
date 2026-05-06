@@ -1,36 +1,38 @@
-{
-  "AG": {
-    "name": "Agalega"
+[
+  {
+    "name": "Flacq District",
+    "type": "district of Mauritius"
   },
-  "CC": {
-    "name": "Cargados Carajos"
+  {
+    "name": "Grand Port District",
+    "type": "district of Mauritius"
   },
-  "FL": {
-    "name": "Flacq"
+  {
+    "name": "Moka District",
+    "type": "district of Mauritius"
   },
-  "PA": {
-    "name": "Pamplemousses"
+  {
+    "name": "Pamplemousses District",
+    "type": "district of Mauritius"
   },
-  "PL": {
-    "name": "Plaines Wilhems"
+  {
+    "name": "Plaines Wilhems District",
+    "type": "district of Mauritius"
   },
-  "PU": {
-    "name": "Port Louis"
+  {
+    "name": "Port Louis District",
+    "type": "district of Mauritius"
   },
-  "RR": {
-    "name": "Rivière du Rempart"
+  {
+    "name": "Rivi\u00e8re Noire District",
+    "type": "district of Mauritius"
   },
-  "SA": {
-    "name": "Savanne"
+  {
+    "name": "Rivi\u00e8re du Rempart District",
+    "type": "district of Mauritius"
   },
-  "WO": {
-    "name": "Rodrigues"
-  },
-  "capital": "Port Louis",
-  "currency_code": "MUR",
-  "iso3": "MUS",
-  "language_code": [
-    "mus"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Savanne District",
+    "type": "district of Mauritius"
+  }
+]

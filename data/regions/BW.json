@@ -1,30 +1,38 @@
-{
-  "CE": {
-    "name": "Central"
+[
+  {
+    "name": "Central District",
+    "type": "district of Botswana"
   },
-  "GH": {
-    "name": "Ghanzi"
+  {
+    "name": "Ghanzi District",
+    "type": "district of Botswana"
   },
-  "HH": {
-    "name": "Southern"
+  {
+    "name": "Kgalagadi District",
+    "type": "district of Botswana"
   },
-  "KD": {
-    "name": "Kgalagadi"
+  {
+    "name": "Kgatleng District",
+    "type": "district of Botswana"
   },
-  "KE": {
-    "name": "Kweneng"
+  {
+    "name": "Kweneng District",
+    "type": "district of Botswana"
   },
-  "KL": {
-    "name": "Kgatleng"
+  {
+    "name": "North-East District",
+    "type": "district of Botswana"
   },
-  "NW": {
-    "name": "North-West"
+  {
+    "name": "North-West District",
+    "type": "district of Botswana"
   },
-  "capital": "Gaborone",
-  "currency_code": "BWP",
-  "iso3": "BWA",
-  "language_code": [
-    "bwa"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "South-East District",
+    "type": "district of Botswana"
+  },
+  {
+    "name": "Southern District",
+    "type": "district of Botswana"
+  }
+]

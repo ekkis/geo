@@ -1,48 +1,62 @@
-{
-  "BG": {
-    "name": "Bong"
+[
+  {
+    "name": "Bomi County",
+    "type": "county of Liberia"
   },
-  "BI": {
-    "name": "Bomi"
+  {
+    "name": "Bong County",
+    "type": "county of Liberia"
   },
-  "CM": {
-    "name": "Grand Cape Mount"
+  {
+    "name": "Gbarpolu County",
+    "type": "county of Liberia"
   },
-  "GB": {
-    "name": "Grand Bassa"
+  {
+    "name": "Grand Bassa County",
+    "type": "county of Liberia"
   },
-  "GG": {
-    "name": "Grand Gedeh"
+  {
+    "name": "Grand Cape Mount County",
+    "type": "county of Liberia"
   },
-  "GK": {
-    "name": "Grand Kru"
+  {
+    "name": "Grand Gedeh County",
+    "type": "county of Liberia"
   },
-  "LO": {
-    "name": "Lofa"
+  {
+    "name": "Grand Kru County",
+    "type": "county of Liberia"
   },
-  "MG": {
-    "name": "Margibi"
+  {
+    "name": "Lofa County",
+    "type": "county of Liberia"
   },
-  "ML": {
-    "name": "Maryland"
+  {
+    "name": "Margibi County",
+    "type": "county of Liberia"
   },
-  "MS": {
-    "name": "Montserrado"
+  {
+    "name": "Maryland County",
+    "type": "county of Liberia"
   },
-  "NI": {
-    "name": "Nimba"
+  {
+    "name": "Montserrado County",
+    "type": "county of Liberia"
   },
-  "RI": {
-    "name": "River Gee"
+  {
+    "name": "Nimba",
+    "type": "county of Liberia"
   },
-  "SI": {
-    "name": "Sinoe"
+  {
+    "name": "River Cess County",
+    "type": "county of Liberia"
   },
-  "capital": "Monrovia",
-  "currency_code": "LRD",
-  "iso3": "LBR",
-  "language_code": [
-    "lbr"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "River Gee County",
+    "type": "county of Liberia"
+  },
+  {
+    "name": "Sinoe County",
+    "type": "county of Liberia"
+  }
+]

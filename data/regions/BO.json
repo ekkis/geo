@@ -1,561 +1,522 @@
-{
-  "AA": {
-    "name": "Aniceto Arce",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ABU": {
-    "name": "Abuná",
-    "regions": [
-      "BO"
-    ]
-  },
-  "AD": {
-    "name": "Alonso de Ibáñez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "AI": {
-    "name": "Andrés Ibáñez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "AQ": {
-    "name": "Antonio Quijarro",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ARA": {
-    "name": "Arani",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ARO": {
-    "name": "Aroma",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ARQ": {
-    "name": "Arque",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ATA": {
-    "name": "Atahuallpa",
-    "regions": [
-      "BO"
-    ]
-  },
-  "AYO": {
-    "name": "Ayopaya",
-    "regions": [
-      "BO"
-    ]
-  },
-  "AZU": {
-    "name": "Azurduy",
-    "regions": [
-      "BO"
-    ]
-  },
-  "BB": {
-    "name": "Bernardino Bilbao",
-    "regions": [
-      "BO"
-    ]
-  },
-  "BO": {
-    "name": "Burnet O'Connor",
-    "regions": [
-      "BO"
-    ]
-  },
-  "BOL": {
-    "name": "Bolívar",
-    "regions": [
-      "BO"
-    ]
-  },
-  "BS": {
-    "name": "Bautista Saavedra",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CAM": {
-    "name": "Campero",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CAP": {
-    "name": "Capinota",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CAR": {
-    "name": "Carangas",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CER": {
-    "name": "Cercado",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CHA": {
-    "name": "Chayanta",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CHI": {
-    "name": "Chiquitos",
-    "regions": [
-      "BO"
-    ]
-  },
-  "COR": {
-    "name": "Cordillera",
-    "regions": [
-      "BO"
-    ]
-  },
-  "CS": {
-    "name": "Cornelio Saavedra",
-    "regions": [
-      "BO"
-    ]
-  },
-  "DC": {
-    "name": "Daniel Campos",
-    "regions": [
-      "BO"
-    ]
-  },
-  "EA": {
-    "name": "Eduardo Avaroa",
-    "regions": [
-      "BO"
-    ]
-  },
-  "EB": {
-    "name": "Enrique Baldivieso",
-    "regions": [
-      "BO"
-    ]
-  },
-  "EC": {
-    "name": "Eliodoro Camacho",
-    "regions": [
-      "BO"
-    ]
-  },
-  "EM": {
-    "name": "Eustaquio Méndez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "FLO": {
-    "name": "Florida",
-    "regions": [
-      "BO"
-    ]
-  },
-  "FR": {
-    "name": "Federico Román",
-    "regions": [
-      "BO"
-    ]
-  },
-  "FT": {
-    "name": "Franz Tamayo",
-    "regions": [
-      "BO"
-    ]
-  },
-  "GB": {
-    "name": "Germán Busch",
-    "regions": [
-      "BO"
-    ]
-  },
-  "GC": {
-    "name": "Gran Chaco",
-    "regions": [
-      "BO"
-    ]
-  },
-  "GJ": {
-    "name": "Germán Jordán",
-    "regions": [
-      "BO"
-    ]
-  },
-  "GUA": {
-    "name": "Guarayos",
-    "regions": [
-      "BO"
-    ]
-  },
-  "GV": {
-    "name": "Gualberto Villarroel",
-    "regions": [
-      "BO"
-    ]
-  },
-  "HS": {
-    "name": "Hernando Siles",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ICH": {
-    "name": "Ichilo",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ING": {
-    "name": "Ingavi",
-    "regions": [
-      "BO"
-    ]
-  },
-  "INQ": {
-    "name": "Inquisivi",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ITÉ": {
-    "name": "Iténez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "IW": {
-    "name": "Ignacio Warnes",
-    "regions": [
-      "BO"
-    ]
-  },
-  "JB": {
-    "name": "José Ballivián",
-    "regions": [
-      "BO"
-    ]
-  },
-  "JM": {
-    "name": "José María Avilés",
-    "regions": [
-      "BO"
-    ]
-  },
-  "JZ": {
-    "name": "Jaime Zudáñez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "LA": {
-    "name": "Los Andes",
-    "regions": [
-      "BO"
-    ]
-  },
-  "LAR": {
-    "name": "Larecaja",
-    "regions": [
-      "BO"
-    ]
-  },
-  "LC": {
-    "name": "Ladislao Cabrera",
-    "regions": [
-      "BO"
-    ]
-  },
-  "LIT": {
-    "name": "Litoral",
-    "regions": [
-      "BO"
-    ]
-  },
-  "LOA": {
-    "name": "Loayza",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MAM": {
-    "name": "Mamoré",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MAN": {
-    "name": "Manuripi",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MAR": {
-    "name": "Marbán",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MD": {
-    "name": "Madre de Dios",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MIZ": {
-    "name": "Mizque",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MK": {
-    "name": "Manco Kapac",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MM": {
-    "name": "Manuel María Caballero",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MO": {
-    "name": "Modesto Omiste",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MOX": {
-    "name": "Moxos",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MUR": {
-    "name": "Murillo",
-    "regions": [
-      "BO"
-    ]
-  },
-  "MUÑ": {
-    "name": "Muñecas",
-    "regions": [
-      "BO"
-    ]
-  },
-  "NC": {
-    "name": "Nor Chichas",
-    "regions": [
-      "BO"
-    ]
-  },
-  "NL": {
-    "name": "Nor Lípez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "NS": {
-    "name": "Nicolás Suárez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "NY": {
-    "name": "Nor Yungas",
-    "regions": [
-      "BO"
-    ]
-  },
-  "OMA": {
-    "name": "Omasuyos",
-    "regions": [
-      "BO"
-    ]
-  },
-  "ORO": {
-    "name": "Oropeza",
-    "regions": [
-      "BO"
-    ]
-  },
-  "OS": {
-    "name": "Obispo Santistevan",
-    "regions": [
-      "BO"
-    ]
-  },
-  "PAC": {
-    "name": "Pacajes",
-    "regions": [
-      "BO"
-    ]
-  },
-  "PD": {
-    "name": "Puerto de Mejillones",
-    "regions": [
-      "BO"
-    ]
-  },
-  "POO": {
-    "name": "Poopó",
-    "regions": [
-      "BO"
-    ]
-  },
-  "PUN": {
-    "name": "Punata",
-    "regions": [
-      "BO"
-    ]
-  },
-  "QUI": {
-    "name": "Quillacollo",
-    "regions": [
-      "BO"
-    ]
-  },
-  "RB": {
-    "name": "Rafael Bustillo",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SAJ": {
-    "name": "Sajama",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SAR": {
-    "name": "Sara",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SAU": {
-    "name": "Saucarí",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SC": {
-    "name": "Sur Chichas",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SL": {
-    "name": "Sur Lípez",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SP": {
-    "name": "Sebastián Pagador",
-    "regions": [
-      "BO"
-    ]
-  },
-  "SY": {
-    "name": "Sud Yungas",
-    "regions": [
-      "BO"
-    ]
-  },
-  "TAP": {
-    "name": "Tapacarí",
-    "regions": [
-      "BO"
-    ]
-  },
-  "TB": {
-    "name": "Tomas Barrón",
-    "regions": [
-      "BO"
-    ]
-  },
-  "TF": {
-    "name": "Tomás Frías",
-    "regions": [
-      "BO"
-    ]
-  },
-  "TIR": {
-    "name": "Tiraque",
-    "regions": [
-      "BO"
-    ]
-  },
-  "TOM": {
-    "name": "Tomina",
-    "regions": [
-      "BO"
-    ]
-  },
-  "VAL": {
+[
+  {
+    "name": "Abel Iturralde Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Abun\u00e1 Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Alonso de Ib\u00e1\u00f1ez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Andr\u00e9s Ib\u00e1\u00f1ez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Aniceto Arce Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Antonio Quijarro Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Arani Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Aroma Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Arque Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Ayopaya Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Bautista Saavedra Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Belisario Boeto Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Beni Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Bernardino Bilbao Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Bol\u00edvar Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Burdett O'Connor Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Capinota Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Caranavi Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Carangas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Carrasco Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Cercado Province (Beni)",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Cercado Province (Cochabamba)",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Cercado Province (Oruro)",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Cercado Province (Tarija)",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Chapare Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Charcas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Chayanta Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Chiquitos Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Chuquisaca Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Cochabamba Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Combaya Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Cordillera Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Cornelio Saavedra Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Daniel Campos Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Eduardo Abaroa Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Eliodoro Camacho Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Enrique Baldivieso Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Esteban Arce Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Eustaquio M\u00e9ndez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Federico Rom\u00e1n Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Florida Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Franz Tamayo Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Germ\u00e1n Busch Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Germ\u00e1n Jord\u00e1n Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Gran Chaco Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Gualberto Villarroel Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Guanay Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Guarayos Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Hernando Siles Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Ichilo Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Ingavi Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Inquisivi Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "It\u00e9nez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Jaime Zud\u00e1\u00f1ez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Jos\u00e9 Ballivi\u00e1n Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Jos\u00e9 Manuel Pando Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Jos\u00e9 Mar\u00eda Avil\u00e9s Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Jos\u00e9 Mar\u00eda Linares Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Jos\u00e9 Miguel de Velasco Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Juana Azurduy de Padilla Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "La Paz Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Ladislao Cabrera Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Larecaja Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Litoral de Atacama Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Loayza Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Los Andes Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Luis Calvo Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Madre de Dios Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Mamor\u00e9 Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Manco Kapac Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Manco Kapac Province",
+    "type": "pene-enclave"
+  },
+  {
+    "name": "Manuel Mar\u00eda Caballero Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Manuripi Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Mapiri Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Marb\u00e1n Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Mizque Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Modesto Omiste Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Moxos Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Murillo Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Mu\u00f1ecas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Narciso Campero Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Nor Carangas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Nor Chichas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Nor Cinti Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Nor L\u00edpez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Nor Yungas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Obispo Santistevan Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Omasuyos Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Oropeza Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Oruro Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Pacajes Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Pando Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Pantale\u00f3n Dalence Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Poop\u00f3 Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Potos\u00ed Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Puerto de Mejillones Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Punata Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Quiabaya",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Quillacollo Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Rafael Bustillo Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sabaya Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sajama Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "San Pedro de Totora Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Santa Cruz Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Sara Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Saucar\u00ed Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sebasti\u00e1n Pagador Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sorata Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Sud Carangas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sud Chichas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sud Cinti Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sud Yungas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Sur L\u00edpez Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Tacacoma Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Tapacar\u00ed Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Tarija Department",
+    "type": "department of Bolivia"
+  },
+  {
+    "name": "Teoponte Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Tipuani Municipality",
+    "type": "municipality of Bolivia"
+  },
+  {
+    "name": "Tiraque Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Tomas Barr\u00f3n Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Tomina Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Tom\u00e1s Fr\u00edas Province",
+    "type": "province of Bolivia"
+  },
+  {
+    "name": "Vaca D\u00edez Province",
+    "type": "province of Bolivia"
+  },
+  {
     "name": "Vallegrande",
-    "regions": [
-      "BO"
-    ]
+    "type": "municipality of Bolivia"
   },
-  "VD": {
-    "name": "Vaca Díez",
-    "regions": [
-      "BO"
-    ]
+  {
+    "name": "Vallegrande Province (Santa Cruz)",
+    "type": "province of Bolivia"
   },
-  "YAC": {
-    "name": "Yacuma",
-    "regions": [
-      "BO"
-    ]
+  {
+    "name": "Warnes Province",
+    "type": "province of Bolivia"
   },
-  "YAM": {
-    "name": "Yamparáez",
-    "regions": [
-      "BO"
-    ]
+  {
+    "name": "Yacuma Province",
+    "type": "province of Bolivia"
   },
-  "ÁS": {
-    "name": "Ángel Sandoval",
-    "regions": [
-      "BO"
-    ]
+  {
+    "name": "Yampar\u00e1ez Province",
+    "type": "province of Bolivia"
   },
-  "ÑD": {
-    "name": "Ñuflo de Chávez",
-    "regions": [
-      "BO"
-    ]
+  {
+    "name": "\u00c1ngel Sandoval Province",
+    "type": "province of Bolivia"
   },
-  "capital": "Sucre",
-  "currency_code": "BOB",
-  "iso3": "BOL",
-  "language_code": [
-    "bol"
-  ],
-  "continent_code": "SA"
-}
+  {
+    "name": "\u00d1uflo de Chaves Province",
+    "type": "province of Bolivia"
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Q10934111",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q16302549",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q16302580",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q19398124",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q19845669",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q19931463",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q19931467",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q19931469",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Q20083688",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Artigas Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Canelones Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Cerro Largo Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Chapicuy",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Colonia Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Durazno Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Flores Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Florida Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Lavalleja Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Maldonado Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Minas de Corrales",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Montevideo Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Municiaplity of Garzon",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality de General Enrique Mart\u00ednez",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of 18 de Mayo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Acegu\u00e1",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Aguas Corrientes",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Aigu\u00e1",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Arbolito",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Ar\u00e9valo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Atlantida",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Baltasar Brum",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Barros Blancos",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Belen",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Bella Union",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Canelones",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Cardona",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Carmelo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Castillos",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Centuri\u00f3n",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Cerro Chato",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Cerro de las Cuentas",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Chuy",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Ciudad de la Costa",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Colonia Lavalleja",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Colonia Miguelete",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Colonia Valdense",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Dolores",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Ecilda Paullier",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Empalme Olmos",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Florencio Sanchez",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Fraile Muerto",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Guich\u00f3n",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Isidoro Noblia",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Ismael Cortinas",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Jose Batlle y Ordo\u00f1ez",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Jose Enrique Rodo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Jose Pedro Varela",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Juan L. Lacaze",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of La Floresta",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of La Paloma",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of La Paz",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of La Paz",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Las Ca\u00f1as",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Las Piedras",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Lascano",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Libertad",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Los Cerrillos",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Maldonado",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Mariscala",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Mataojo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Migues",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Montes",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Nicolich",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Nueva Helvecia",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Nueva Palmira",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Nuevo Berlin",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Ombues de Lavalle",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Palmitas",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Pan de Az\u00facar",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Pando",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Parque del Plata",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Paso Carrasco",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Paso de los Toros",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Piriapolis",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Pl\u00e1cido Rosas",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Progreso",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Punta del Este",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Quebracho",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Quebracho",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Ram\u00f3n Trigo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Rincon",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Rincon de Valentin",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Rodriguez",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Rosario",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of R\u00edo Branco",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Salinas",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Antonio",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Antonio",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Bautista",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Carlos",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Gregorio de Polanco",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Jacinto",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of San Ramon",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Santa Clara de Olimar",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Santa Lucia",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Santa Rosa",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Sarand\u00ed del Y\u00ed",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Sauce",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Soca",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Solis Grande",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Solis de Mataojo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Suarez",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Tala",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Tarariras",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Toledo",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Tomas Gomensoro",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Tres Islas",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Tupamba\u00e9",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Vergara",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Villa Constitucion",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Villa Sara",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipality of Young",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Municipio de Ciudad del Plata",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Paysand\u00fa Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Rivera Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Rocha Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "R\u00edo Negro Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Salto Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "San Javier Municipality",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "San Jos\u00e9 Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Soriano Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Tacuaremb\u00f3 Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Tranqueras",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "Treinta y Tres Department",
+    "type": "department of Uruguay"
+  },
+  {
+    "name": "Vichadero",
+    "type": "municipality of Uruguay"
+  },
+  {
+    "name": "municipality of Ba\u00f1ado de Medina",
+    "type": "municipality of Uruguay"
+  }
+]

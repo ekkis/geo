@@ -1,46 +1,398 @@
-{
-  "AK": {
-    "name": "Atakora"
+[
+  {
+    "name": "Abomey-Calavi",
+    "type": "commune of Benin"
   },
-  "AL": {
-    "name": "Alibori"
+  {
+    "name": "Adja-Ou\u00e8r\u00e8",
+    "type": "commune of Benin"
   },
-  "AQ": {
-    "name": "Atlantique"
+  {
+    "name": "Adjarra",
+    "type": "commune of Benin"
   },
-  "BO": {
-    "name": "Borgou"
+  {
+    "name": "Adjohoun",
+    "type": "commune of Benin"
   },
-  "CO": {
-    "name": "Collines"
+  {
+    "name": "Agbangnizoun",
+    "type": "commune of Benin"
   },
-  "DO": {
-    "name": "Donga"
+  {
+    "name": "Agu\u00e9gu\u00e9s",
+    "type": "commune of Benin"
   },
-  "KO": {
-    "name": "Kouffo"
+  {
+    "name": "Akpro-Miss\u00e9r\u00e9t\u00e9",
+    "type": "commune of Benin"
   },
-  "LI": {
-    "name": "Littoral"
+  {
+    "name": "Alibori Department",
+    "type": "department of Benin"
   },
-  "MO": {
-    "name": "Mono"
+  {
+    "name": "Allada",
+    "type": "city"
   },
-  "OU": {
-    "name": "Ouémé"
+  {
+    "name": "Allada",
+    "type": "commune of Benin"
   },
-  "PL": {
-    "name": "Plateau"
+  {
+    "name": "Aplahou\u00e9",
+    "type": "commune of Benin"
   },
-  "ZO": {
-    "name": "Zou"
+  {
+    "name": "Atakora Department",
+    "type": "department of Benin"
   },
-  "capital": "Porto-Novo",
-  "currency_code": "XOF",
-  "iso3": "BEN",
-  "language_code": [
-    "bn",
-    "dy"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Athi\u00e9m\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Atlantique Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Avrankou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Banikoara",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Bant\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Bassila",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Bemb\u00e8r\u00e8k\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Bohicon",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Bonou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Bopa",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Borgou Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Boukoumb\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Boukoumb\u00e9",
+    "type": "border city"
+  },
+  {
+    "name": "Cobly",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Collines department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Commune of Abomey",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Com\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Copargo",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Cotonou",
+    "type": "city"
+  },
+  {
+    "name": "Cotonou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Cotonou",
+    "type": "metropolis"
+  },
+  {
+    "name": "Cotonou",
+    "type": "big city"
+  },
+  {
+    "name": "Cov\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Dangbo",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Dassa-Zoum\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Djakotomey",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Djidja",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Djougou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Dogbo-Tota",
+    "type": "city"
+  },
+  {
+    "name": "Dogbo-Tota",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Donga Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Glazou\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Gogounou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Grand-Popo",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Hou\u00e9yogb\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Ifangni",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Kalal\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Kandi",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Karimama",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Klou\u00e9kanm\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Kouand\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Kouffo Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Kpomass\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "K\u00e9rou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "K\u00e9tou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Lalo",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Littoral",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Lokossa",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Malanville",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Malanville",
+    "type": "border city"
+  },
+  {
+    "name": "Mat\u00e9ri",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Mono Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Natitingou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Nikki",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "N\u2019Dali",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Ouak\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Ouidah",
+    "type": "city"
+  },
+  {
+    "name": "Ouidah",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Ouinhi",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Ou\u00e8ss\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Ou\u00e9m\u00e9 Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Parakou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Plateau Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Pob\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Porto-Novo",
+    "type": "city"
+  },
+  {
+    "name": "P\u00e8r\u00e8r\u00e8",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "P\u00e9hunco",
+    "type": "human settlement"
+  },
+  {
+    "name": "P\u00e9hunco",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Rural Djougou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Sak\u00e9t\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Savalou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Sav\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Sinend\u00e9",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "S\u00e8m\u00e8-Kpodji",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "S\u00e9gbana",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "S\u00f4-Ava",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Tangui\u00e9ta",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Tchaourou",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Toffo",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Tori-Bossito",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Toucountouna",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Toviklin",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Za-Kpota",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Zagnanado",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Zogbodomey",
+    "type": "commune of Benin"
+  },
+  {
+    "name": "Zou Department",
+    "type": "department of Benin"
+  },
+  {
+    "name": "Z\u00e8",
+    "type": "commune of Benin"
+  }
+]

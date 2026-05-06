@@ -1,51 +1,274 @@
-{
-  "AUK": {
-    "name": "Auckland"
+[
+  {
+    "name": "Ashburton District",
+    "type": "district of New Zealand"
   },
-  "BOP": {
-    "name": "Bay of Plenty"
+  {
+    "name": "Auckland Region",
+    "type": "region of New Zealand"
   },
-  "CAN": {
-    "name": "Canterbury"
+  {
+    "name": "Bay of Plenty Region",
+    "type": "region of New Zealand"
   },
-  "GIS": {
-    "name": "Gisborne"
+  {
+    "name": "Canterbury Region",
+    "type": "region of New Zealand"
   },
-  "HKB": {
-    "name": "Hawke's Bay"
+  {
+    "name": "Carterton District",
+    "type": "district of New Zealand"
   },
-  "MBH": {
-    "name": "Marlborough"
+  {
+    "name": "Central Otago District",
+    "type": "district of New Zealand"
   },
-  "MWT": {
-    "name": "Manawatu-Wanganui"
+  {
+    "name": "Chatham Islands Council",
+    "type": "unitary authority of New Zealand"
   },
-  "NTL": {
-    "name": "Northland"
+  {
+    "name": "Christchurch City",
+    "type": "district of New Zealand"
   },
-  "OTA": {
-    "name": "Otago"
+  {
+    "name": "Clutha District",
+    "type": "district of New Zealand"
   },
-  "STL": {
-    "name": "Southland"
+  {
+    "name": "Dunedin City",
+    "type": "district of New Zealand"
   },
-  "TAS": {
-    "name": "Tasman"
+  {
+    "name": "Far North District",
+    "type": "district of New Zealand"
   },
-  "WGN": {
-    "name": "Wellington"
+  {
+    "name": "Gisborne District",
+    "type": "region of New Zealand"
   },
-  "WKO": {
-    "name": "Waikato"
+  {
+    "name": "Gisborne District",
+    "type": "district of New Zealand"
   },
-  "WTC": {
-    "name": "West Coast"
+  {
+    "name": "Gore District",
+    "type": "district of New Zealand"
   },
-  "capital": "Wellington",
-  "currency_code": "NZD",
-  "iso3": "NZL",
-  "language_code": [
-    "nzl"
-  ],
-  "continent_code": "OC"
-}
+  {
+    "name": "Hamilton City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Hauraki District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Hawke's Bay Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Horowhenua District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Hurunui District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Invercargill City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Kaik\u014dura District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Kaipara District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "K\u0101piti Coast District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Lower Hutt City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Mackenzie District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Manawat\u016b District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Manawat\u016b-Whanganui Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Marlborough District",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Marlborough District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Masterton District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Matamata-Piako District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Nelson Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Northland Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Otago Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Palmerston North City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Porirua City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Queenstown-Lakes District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Rangitikei District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Rotorua Lakes District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Ruapehu District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Selwyn District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "South Waikato District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "South Wairarapa District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Southland District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Southland Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Taranaki Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Tararua District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Tasman District",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Tasman District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Taup\u014d District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Thames-Coromandel District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Timaru District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Upper Hutt City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Waikato District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Waikato Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Waimakariri District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Waimate District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Waipa District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Waitaki District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Waitomo District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Wellington City",
+    "type": "political territorial entity"
+  },
+  {
+    "name": "Wellington City",
+    "type": "administrative territorial entity of New Zealand"
+  },
+  {
+    "name": "Wellington City",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Wellington Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "West Coast Region",
+    "type": "region of New Zealand"
+  },
+  {
+    "name": "Whanganui District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "Whangarei District",
+    "type": "district of New Zealand"
+  },
+  {
+    "name": "\u014ctorohanga District",
+    "type": "district of New Zealand"
+  }
+]

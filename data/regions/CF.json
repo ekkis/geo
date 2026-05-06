@@ -1,54 +1,78 @@
-{
-  "AC": {
-    "name": "Ouham"
+[
+  {
+    "name": "Bamingui-Bangoran Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "BB": {
-    "name": "Bamingui-Bangoran"
+  {
+    "name": "Bangui",
+    "type": "city"
   },
-  "BGF": {
-    "name": "Bangui"
+  {
+    "name": "Bangui",
+    "type": "prefecture of the Central African Republic"
   },
-  "BK": {
-    "name": "Basse-Kotto"
+  {
+    "name": "Bangui",
+    "type": "border city"
   },
-  "HK": {
-    "name": "Haute-Kotto"
+  {
+    "name": "Bangui",
+    "type": "big city"
   },
-  "HM": {
-    "name": "Haut-Mbomou"
+  {
+    "name": "Basse-Kotto Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "KG": {
-    "name": "Kémo"
+  {
+    "name": "Haut-Mbomou Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "LO": {
-    "name": "Lobaye"
+  {
+    "name": "Haute-Kotto Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "MB": {
-    "name": "Mbomou"
+  {
+    "name": "K\u00e9mo Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "MP": {
-    "name": "Ombella-M'Poko"
+  {
+    "name": "Lobaye Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "NM": {
-    "name": "Nana-Mambéré"
+  {
+    "name": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
+    "type": "prefecture of the Central African Republic"
   },
-  "OP": {
-    "name": "Ouham Péndé"
+  {
+    "name": "Mbomou River",
+    "type": "river"
   },
-  "SE": {
-    "name": "Sangha-Mbaéré"
+  {
+    "name": "Nana-Gr\u00e9bizi Economic Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "UK": {
-    "name": "Ouaka"
+  {
+    "name": "Nana-Mamb\u00e9r\u00e9 Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "VK": {
-    "name": "Vakaga"
+  {
+    "name": "Ombella-M'Poko Prefecture",
+    "type": "prefecture of the Central African Republic"
   },
-  "capital": "Bangui",
-  "currency_code": "XAF",
-  "iso3": "CAF",
-  "language_code": [
-    "caf"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Ouaka Prefecture",
+    "type": "prefecture of the Central African Republic"
+  },
+  {
+    "name": "Ouham-Pend\u00e9 Prefecture",
+    "type": "prefecture of the Central African Republic"
+  },
+  {
+    "name": "Sangha-Mba\u00e9r\u00e9",
+    "type": "prefecture of the Central African Republic"
+  },
+  {
+    "name": "Vakaga Prefecture",
+    "type": "prefecture of the Central African Republic"
+  }
+]

@@ -1,39 +1,134 @@
-{
-  "AA": {
-    "name": "Addis Ababa"
+[
+  {
+    "name": "Addis Ababa",
+    "type": "human settlement"
   },
-  "AR": {
-    "name": "Amhara Region"
+  {
+    "name": "Addis Ababa",
+    "type": "city"
   },
-  "BEN": {
-    "name": "Benishangul-Gumuz"
+  {
+    "name": "Addis Ababa",
+    "type": "region of Ethiopia"
   },
-  "DD": {
-    "name": "Dire Dawa"
+  {
+    "name": "Addis Ababa",
+    "type": "federal capital"
   },
-  "GAM": {
-    "name": "Gambela"
+  {
+    "name": "Addis Ababa",
+    "type": "million city"
   },
-  "HAR": {
-    "name": "Harari"
+  {
+    "name": "Addis Ketema",
+    "type": "district"
   },
-  "ORO": {
-    "name": "Oromia"
+  {
+    "name": "Addis Ketema",
+    "type": "zone of Ethiopia"
   },
-  "SN": {
-    "name": "Southern Nations, Nationalities, and Peoples' Region"
+  {
+    "name": "Afar Region",
+    "type": "region of Ethiopia"
   },
-  "SOM": {
-    "name": "Somali"
+  {
+    "name": "Akaky Kaliti",
+    "type": "district"
   },
-  "TR": {
-    "name": "Tigray Region"
+  {
+    "name": "Akaky Kaliti",
+    "type": "zone of Ethiopia"
   },
-  "capital": "Addis Ababa",
-  "currency_code": "ETB",
-  "iso3": "ETH",
-  "language_code": [
-    "eth"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Amhara Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Arada",
+    "type": "district"
+  },
+  {
+    "name": "Benishangul-Gumuz Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Bole",
+    "type": "district"
+  },
+  {
+    "name": "Central Ethiopia Regional State",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Dire Dawa",
+    "type": "city"
+  },
+  {
+    "name": "Dire Dawa",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Dire Dawa",
+    "type": "big city"
+  },
+  {
+    "name": "Gambela Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Gullele",
+    "type": "district"
+  },
+  {
+    "name": "Harari Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Kirkos",
+    "type": "district"
+  },
+  {
+    "name": "Kolfe Keranio",
+    "type": "district"
+  },
+  {
+    "name": "Lemi Kura",
+    "type": "zone of Ethiopia"
+  },
+  {
+    "name": "Lideta",
+    "type": "district"
+  },
+  {
+    "name": "Nifas Silk-Lafto",
+    "type": "district"
+  },
+  {
+    "name": "Oromia Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Sidama Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Somali Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "South Ethiopia Regional State",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Southwest Ethiopia Regional State",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Tigray Region",
+    "type": "region of Ethiopia"
+  },
+  {
+    "name": "Yeka",
+    "type": "district"
+  }
+]

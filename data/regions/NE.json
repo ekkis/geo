@@ -1,33 +1,242 @@
-{
-  "AG": {
-    "name": "Agadez"
+[
+  {
+    "name": "Abalak Department",
+    "type": "department of Niger"
   },
-  "DF": {
-    "name": "Diffa"
+  {
+    "name": "Agadez Region",
+    "type": "region of Niger"
   },
-  "DS": {
-    "name": "Dosso"
+  {
+    "name": "Agui\u00e9 Department",
+    "type": "department of Niger"
   },
-  "MA": {
-    "name": "Maradi"
+  {
+    "name": "Arlit Department",
+    "type": "department of Niger"
   },
-  "NI": {
-    "name": "Niamey"
+  {
+    "name": "Bagaroua Department",
+    "type": "department of Niger"
   },
-  "TH": {
-    "name": "Tahoua"
+  {
+    "name": "Belb\u00e9dji Department",
+    "type": "department of Niger"
   },
-  "TL": {
-    "name": "Tillabéri"
+  {
+    "name": "Bilma Department",
+    "type": "department of Niger"
   },
-  "ZD": {
-    "name": "Zinder"
+  {
+    "name": "Birni-N'Konni Department",
+    "type": "department of Niger"
   },
-  "capital": "Niamey",
-  "currency_code": "XOF",
-  "iso3": "NER",
-  "language_code": [
-    "ner"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Boboye Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Bouza Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Dakoro Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Damagaram Takaya Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Diffa Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Diffa Region",
+    "type": "region of Niger"
+  },
+  {
+    "name": "Dogondoutchi Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Dosso Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Dosso Region",
+    "type": "region of Niger"
+  },
+  {
+    "name": "Dungass",
+    "type": "municipality of Niger"
+  },
+  {
+    "name": "Dungass Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Filingu\u00e9 Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Gaya Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Gour\u00e9 Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Guidan Roumdji Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Ill\u00e9la Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Keita Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Kollo Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Loga Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Madaoua Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Madarounfa Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Magaria Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Malbaza Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Maradi Region",
+    "type": "region of Niger"
+  },
+  {
+    "name": "Matameye Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Mayahi Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Ma\u00efn\u00e9-Soroa Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Mirriah Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "N'Guigmi Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Niamey",
+    "type": "city"
+  },
+  {
+    "name": "Niamey",
+    "type": "first-level administrative division"
+  },
+  {
+    "name": "Niamey",
+    "type": "administrative territorial entity of Niger"
+  },
+  {
+    "name": "Niamey",
+    "type": "big city"
+  },
+  {
+    "name": "Niamey I",
+    "type": "arrondissement"
+  },
+  {
+    "name": "Niamey II",
+    "type": "arrondissement"
+  },
+  {
+    "name": "Niamey III",
+    "type": "arrondissement"
+  },
+  {
+    "name": "Niamey IV",
+    "type": "arrondissement"
+  },
+  {
+    "name": "Niamey V",
+    "type": "arrondissement"
+  },
+  {
+    "name": "Ouallam Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Say Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tahoua Department",
+    "type": "human settlement"
+  },
+  {
+    "name": "Tahoua Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tahoua Region",
+    "type": "region of Niger"
+  },
+  {
+    "name": "Tanout Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tchintabaraden Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tchiroz\u00e9rine Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tesker Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tessaoua Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tillab\u00e9ri Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Tillab\u00e9ri Region",
+    "type": "region of Niger"
+  },
+  {
+    "name": "T\u00e9ra Department",
+    "type": "department of Niger"
+  },
+  {
+    "name": "Zinder Region",
+    "type": "region of Niger"
+  }
+]

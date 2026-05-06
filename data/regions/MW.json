@@ -1,87 +1,126 @@
-{
-  "BA": {
-    "name": "Balaka"
+[
+  {
+    "name": "Balaka District",
+    "type": "district of Malawi"
   },
-  "BL": {
-    "name": "Blantyre"
+  {
+    "name": "Blantyre District",
+    "type": "district of Malawi"
   },
-  "CK": {
-    "name": "Chikwawa"
+  {
+    "name": "Central Region",
+    "type": "region of Malawi"
   },
-  "CR": {
-    "name": "Chiradzulu"
+  {
+    "name": "Chikwawa District",
+    "type": "district of Malawi"
   },
-  "CT": {
-    "name": "Chitipa"
+  {
+    "name": "Chiradzulu District",
+    "type": "district of Malawi"
   },
-  "DE": {
-    "name": "Dedza"
+  {
+    "name": "Chitipa district",
+    "type": "district of Malawi"
   },
-  "DO": {
-    "name": "Dowa"
+  {
+    "name": "Dedza District",
+    "type": "district of Malawi"
   },
-  "KR": {
-    "name": "Karonga"
+  {
+    "name": "Dowa District",
+    "type": "district of Malawi"
   },
-  "KS": {
-    "name": "Kasungu"
+  {
+    "name": "Karonga District",
+    "type": "district of Malawi"
   },
-  "LI": {
-    "name": "Lilongwe"
+  {
+    "name": "Kasungu District",
+    "type": "district of Malawi"
   },
-  "LK": {
-    "name": "Likoma"
+  {
+    "name": "Likoma District",
+    "type": "district of Malawi"
   },
-  "MC": {
-    "name": "Mchinji"
+  {
+    "name": "Lilongwe District",
+    "type": "district of Malawi"
   },
-  "MG": {
-    "name": "Mangochi"
+  {
+    "name": "Machinga District",
+    "type": "district of Malawi"
   },
-  "MH": {
-    "name": "Machinga"
+  {
+    "name": "Mangochi District",
+    "type": "district of Malawi"
   },
-  "MU": {
-    "name": "Mulanje"
+  {
+    "name": "Mchinji District",
+    "type": "district of Malawi"
   },
-  "MW": {
-    "name": "Mwanza"
+  {
+    "name": "Mulanje District",
+    "type": "district of Malawi"
   },
-  "MZ": {
-    "name": "Mzimba"
+  {
+    "name": "Mwanza District",
+    "type": "district of Malawi"
   },
-  "NK": {
-    "name": "Nkhata Bay"
+  {
+    "name": "Mzimba District",
+    "type": "district of Malawi"
   },
-  "NL": {
-    "name": "Neno"
+  {
+    "name": "Neno District",
+    "type": "district of Malawi"
   },
-  "NS": {
-    "name": "Nsanje"
+  {
+    "name": "Nkhata Bay District",
+    "type": "district of Malawi"
   },
-  "NU": {
-    "name": "Ntchisi"
+  {
+    "name": "Nkhotakota District",
+    "type": "district of Malawi"
   },
-  "PH": {
-    "name": "Phalombe"
+  {
+    "name": "Northern Region",
+    "type": "region of Malawi"
   },
-  "RU": {
-    "name": "Rumphi"
+  {
+    "name": "Nsanje District",
+    "type": "district of Malawi"
   },
-  "SA": {
-    "name": "Salima"
+  {
+    "name": "Ntcheu District",
+    "type": "district of Malawi"
   },
-  "TH": {
-    "name": "Thyolo"
+  {
+    "name": "Ntchisi District",
+    "type": "district of Malawi"
   },
-  "ZO": {
-    "name": "Zomba"
+  {
+    "name": "Phalombe District",
+    "type": "district of Malawi"
   },
-  "capital": "Lilongwe",
-  "currency_code": "MWK",
-  "iso3": "MWI",
-  "language_code": [
-    "mwi"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Rumphi District",
+    "type": "district of Malawi"
+  },
+  {
+    "name": "Salima District",
+    "type": "district of Malawi"
+  },
+  {
+    "name": "Southern Region",
+    "type": "region of Malawi"
+  },
+  {
+    "name": "Thyolo District",
+    "type": "district of Malawi"
+  },
+  {
+    "name": "Zomba District",
+    "type": "district of Malawi"
+  }
+]

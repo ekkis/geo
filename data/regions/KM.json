@@ -1,18 +1,26 @@
-{
-  "AN": {
-    "name": "Anjouan"
+[
+  {
+    "name": "Anjouan",
+    "type": "autonomous island of the Comoros"
   },
-  "GR": {
-    "name": "Grande Comore"
+  {
+    "name": "Anjouan",
+    "type": "volcanic island"
   },
-  "MO": {
-    "name": "Mohéli"
+  {
+    "name": "Grande Comore",
+    "type": "autonomous island of the Comoros"
   },
-  "capital": "Moroni",
-  "currency_code": "KMF",
-  "iso3": "COM",
-  "language_code": [
-    "com"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Grande Comore",
+    "type": "volcanic island"
+  },
+  {
+    "name": "Moh\u00e9li",
+    "type": "autonomous island of the Comoros"
+  },
+  {
+    "name": "Moh\u00e9li",
+    "type": "volcanic island"
+  }
+]

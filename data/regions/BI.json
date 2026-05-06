@@ -1,0 +1,814 @@
+[
+  {
+    "name": "Bubanza",
+    "type": "city"
+  },
+  {
+    "name": "Bubanza Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Bugenyuzi Commune",
+    "type": "town"
+  },
+  {
+    "name": "Bugenyuzi Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Buhinyuza Commune",
+    "type": "town"
+  },
+  {
+    "name": "Buhinyuza Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Bujumbura",
+    "type": "city"
+  },
+  {
+    "name": "Bujumbura",
+    "type": "big city"
+  },
+  {
+    "name": "Bujumbura Mairie",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Bujumbura Rural Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Bururi",
+    "type": "town"
+  },
+  {
+    "name": "Bururi Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Butihinda Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Buyenzi zone",
+    "type": "district"
+  },
+  {
+    "name": "Buyenzi zone",
+    "type": "town"
+  },
+  {
+    "name": "Bwiza Zone",
+    "type": "town"
+  },
+  {
+    "name": "Cankuzo",
+    "type": "town"
+  },
+  {
+    "name": "Cankuzo Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Cibitoke Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Commune Kanyosha",
+    "type": "town"
+  },
+  {
+    "name": "Commune Kanyosha",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune Mukike",
+    "type": "town"
+  },
+  {
+    "name": "Commune Mukike",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune Mutambu",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune Mutimbuzi",
+    "type": "town"
+  },
+  {
+    "name": "Commune Mutimbuzi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune Mwakiro",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune Nyabiraba",
+    "type": "town"
+  },
+  {
+    "name": "Commune Nyabiraba",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bisoro",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bugabira",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Bugabira",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Buganda",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Buganda",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bugarama",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Bugarama",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bugendana",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Buhiga",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Buhiga",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bukemba",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Bukemba",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bukeye",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Bukeye",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bukinanyana",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Burambi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Busiga",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Busiga",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Busoni",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Butaganzwa",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Butaganzwa",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Butaganzwa",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Butezi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Buyengero",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Buyengero",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bwambarangwe",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Bwambarangwe",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Bweru",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Bweru",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Cendajuru",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Cendajuru",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Cibitoke",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gahombo",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gahombo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gashoho",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gashoho",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gatara",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gatara",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gihanga",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gihanga",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Giharo",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Giharo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gihogazi",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gihogazi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gisagara",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gishubi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gisozi",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gisozi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gisuru",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gitanga",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gitanga",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gitaramuka",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gitaramuka",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Gitobe",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Gitobe",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Isale",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kabarore",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Kabarore",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kabezi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kayogoro",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Kayogoro",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kayokwe",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kibago",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Kibago",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kigamba",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Kigamba",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kiganda",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Commune of Kiganda",
+    "type": "human settlement"
+  },
+  {
+    "name": "Commune of Kiganda",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kinyinya",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Kinyinya",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Kiremba",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mabanda",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mabayi",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Mabayi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Marangara",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Marangara",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Matongo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mbuye",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Mbuye",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mishiha",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Mishiha",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mpanda",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mpinga-Kavoye",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Mpinga-Kavoye",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mugina",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Muhanga",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Muramvya",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Muruta",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Muruta",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Murwi",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Murwi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Musigati",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Musigati",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Musongati",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mutumba",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Mutumba",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Mwumba",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Mwumba",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Ndava",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Ndava",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Ntega",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Ntega",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Nyabihanga",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Nyabikere",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Nyabikere",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Nyabitsinda",
+    "type": "city"
+  },
+  {
+    "name": "Commune of Nyabitsinda",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Nyamurenza",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Nyamurenza",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Nyanza-Lac",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Rango",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Rango",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Rugazi",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Rugazi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Rugombo",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Rugombo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Ruhororo",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Ruhororo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Rumonge",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Rusaka",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Rutegama",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Tangara",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Vugizo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Commune of Vumbi",
+    "type": "town"
+  },
+  {
+    "name": "Commune of Vumbi",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Gashikanwa Commune",
+    "type": "town"
+  },
+  {
+    "name": "Gashikanwa Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Gasorwe Commune",
+    "type": "town"
+  },
+  {
+    "name": "Gasorwe Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Gitega",
+    "type": "city"
+  },
+  {
+    "name": "Gitega Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Giteranyi Commune",
+    "type": "town"
+  },
+  {
+    "name": "Giteranyi Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Kamenge zone",
+    "type": "town"
+  },
+  {
+    "name": "Karuzi Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Kayanza",
+    "type": "city"
+  },
+  {
+    "name": "Kayanza Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Kinama zone",
+    "type": "town"
+  },
+  {
+    "name": "Kirundo",
+    "type": "town"
+  },
+  {
+    "name": "Kirundo Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Makamba",
+    "type": "town"
+  },
+  {
+    "name": "Makamba Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Matana Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Mubimbi Commune",
+    "type": "town"
+  },
+  {
+    "name": "Mubimbi Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Mugamba Commune",
+    "type": "town"
+  },
+  {
+    "name": "Mugamba Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Mugongomanga Commune",
+    "type": "town"
+  },
+  {
+    "name": "Mugongomanga Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Muhuta",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Muramvya",
+    "type": "city"
+  },
+  {
+    "name": "Muramvya Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Muyinga",
+    "type": "city"
+  },
+  {
+    "name": "Muyinga Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Mwaro",
+    "type": "town"
+  },
+  {
+    "name": "Mwaro Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Ngagara zone",
+    "type": "town"
+  },
+  {
+    "name": "Ngozi",
+    "type": "city"
+  },
+  {
+    "name": "Ngozi Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Nyakabiga zone",
+    "type": "town"
+  },
+  {
+    "name": "Rohero zone",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Rutana",
+    "type": "city"
+  },
+  {
+    "name": "Rutana Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Rutovu Commune",
+    "type": "town"
+  },
+  {
+    "name": "Rutovu Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Ruyigi",
+    "type": "city"
+  },
+  {
+    "name": "Ruyigi Province",
+    "type": "province of Burundi"
+  },
+  {
+    "name": "Shombo",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Songa Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Vyanda Commune",
+    "type": "town"
+  },
+  {
+    "name": "Vyanda Commune",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Zone of Kanyosha",
+    "type": "commune of Burundi"
+  },
+  {
+    "name": "Zone of Musaga",
+    "type": "town"
+  }
+]

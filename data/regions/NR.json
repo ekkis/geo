@@ -1,36 +1,66 @@
-{
-  "AN": {
-    "name": "Anabar"
+[
+  {
+    "name": "Aiwo District",
+    "type": "district of Nauru"
   },
-  "BA": {
-    "name": "Baiti"
+  {
+    "name": "Anabar District",
+    "type": "district of Nauru"
   },
-  "BO": {
-    "name": "Boe"
+  {
+    "name": "Anetan District",
+    "type": "district of Nauru"
   },
-  "CI": {
-    "name": "Buada"
+  {
+    "name": "Anibare District",
+    "type": "district of Nauru"
   },
-  "DE": {
-    "name": "Denigomodu"
+  {
+    "name": "Baiti District",
+    "type": "district of Nauru"
   },
-  "MA": {
-    "name": "Meneng"
+  {
+    "name": "Boe District",
+    "type": "district of Nauru"
   },
-  "NB": {
-    "name": "Nibok"
+  {
+    "name": "Buada District",
+    "type": "district of Nauru"
   },
-  "UA": {
-    "name": "Uaboe"
+  {
+    "name": "Denigomodu District",
+    "type": "district of Nauru"
   },
-  "YAR": {
-    "name": "Yaren"
+  {
+    "name": "Ewa District",
+    "type": "district of Nauru"
   },
-  "capital": "Yaren",
-  "currency_code": "AUD",
-  "iso3": "NRU",
-  "language_code": [
-    "nru"
-  ],
-  "continent_code": "OC"
-}
+  {
+    "name": "Ijuw District",
+    "type": "district of Nauru"
+  },
+  {
+    "name": "Meneng District",
+    "type": "district of Nauru"
+  },
+  {
+    "name": "Nibok District",
+    "type": "district of Nauru"
+  },
+  {
+    "name": "Uaboe District",
+    "type": "district of Nauru"
+  },
+  {
+    "name": "Yaren District",
+    "type": "district of Nauru"
+  },
+  {
+    "name": "Yaren District",
+    "type": "town"
+  },
+  {
+    "name": "Yaren District",
+    "type": "de facto national capital"
+  }
+]

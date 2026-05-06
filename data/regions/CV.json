@@ -1,66 +1,102 @@
-{
-  "BR": {
-    "name": "Brava"
+[
+  {
+    "name": "Boa Vista",
+    "type": "concelho of Cape Verde"
   },
-  "BS": {
-    "name": "Boa Vista"
+  {
+    "name": "Brava",
+    "type": "concelho of Cape Verde"
   },
-  "CA": {
-    "name": "Santa Catarina"
+  {
+    "name": "Maio",
+    "type": "concelho of Cape Verde"
   },
-  "CF": {
-    "name": "Santa Cruz"
+  {
+    "name": "Mosteiros",
+    "type": "concelho of Cape Verde"
   },
-  "CR": {
-    "name": "Praia"
+  {
+    "name": "Paul",
+    "type": "concelho of Cape Verde"
   },
-  "MA": {
-    "name": "Maio"
+  {
+    "name": "Porto Novo",
+    "type": "concelho of Cape Verde"
   },
-  "MO": {
-    "name": "Mosteiros"
+  {
+    "name": "Praia",
+    "type": "concelho of Cape Verde"
   },
-  "PA": {
-    "name": "Paul"
+  {
+    "name": "Ribeira Brava Municipality",
+    "type": "concelho of Cape Verde"
   },
-  "PN": {
-    "name": "Porto Novo"
+  {
+    "name": "Ribeira Grande",
+    "type": "concelho of Cape Verde"
   },
-  "PR": {
-    "name": "Praia"
+  {
+    "name": "Ribeira Grande de Santiago",
+    "type": "concelho of Cape Verde"
   },
-  "RB": {
-    "name": "Ribeira Brava"
+  {
+    "name": "Sal",
+    "type": "concelho of Cape Verde"
   },
-  "RG": {
-    "name": "Ribeira Grande"
+  {
+    "name": "Santa Catarina",
+    "type": "concelho of Cape Verde"
   },
-  "SL": {
-    "name": "Sal"
+  {
+    "name": "Santa Catarina do Fogo",
+    "type": "concelho of Cape Verde"
   },
-  "SM": {
-    "name": "São Miguel"
+  {
+    "name": "Santa Cruz",
+    "type": "concelho of Cape Verde"
   },
-  "SO": {
-    "name": "São Lourenço dos Órgãos"
+  {
+    "name": "S\u00e3o Domingos",
+    "type": "concelho of Cape Verde"
   },
-  "SS": {
-    "name": "São Salvador do Mundo"
+  {
+    "name": "S\u00e3o Filipe",
+    "type": "concelho of Cape Verde"
   },
-  "SV": {
-    "name": "São Vicente"
+  {
+    "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+    "type": "human settlement"
   },
-  "TA": {
-    "name": "Tarrafal"
+  {
+    "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+    "type": "concelho of Cape Verde"
   },
-  "TS": {
-    "name": "Tarrafal de São Nicolau"
+  {
+    "name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+    "type": "freguesia of Cape Verde"
   },
-  "capital": "Praia",
-  "currency_code": "CVE",
-  "iso3": "CPV",
-  "language_code": [
-    "cpv"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "S\u00e3o Miguel",
+    "type": "concelho of Cape Verde"
+  },
+  {
+    "name": "S\u00e3o Miguel Arcanjo",
+    "type": "freguesia of Cape Verde"
+  },
+  {
+    "name": "S\u00e3o Salvador do Mundo",
+    "type": "concelho of Cape Verde"
+  },
+  {
+    "name": "S\u00e3o Vicente",
+    "type": "concelho of Cape Verde"
+  },
+  {
+    "name": "Tarrafal",
+    "type": "concelho of Cape Verde"
+  },
+  {
+    "name": "Tarrafal de S\u00e3o Nicolau",
+    "type": "concelho of Cape Verde"
+  }
+]

@@ -1,54 +1,534 @@
-{
-  "BA": {
-    "name": "Batha"
+[
+  {
+    "name": "Abdi",
+    "type": "department of Chad"
   },
-  "BE": {
-    "name": "Borkou-Ennedi-Tibesti"
+  {
+    "name": "Aboude\u00efa Department",
+    "type": "department of Chad"
   },
-  "BI": {
-    "name": "Biltine"
+  {
+    "name": "Abtouyour",
+    "type": "department of Chad"
   },
-  "CH": {
-    "name": "Chari-Baguirmi"
+  {
+    "name": "Am Zoer",
+    "type": "subprefecture of Chad"
   },
-  "GC": {
-    "name": "Guéra"
+  {
+    "name": "Arada",
+    "type": "human settlement"
   },
-  "KA": {
-    "name": "Kanem"
+  {
+    "name": "Assoungha Department",
+    "type": "department of Chad"
   },
-  "LA": {
-    "name": "Lac"
+  {
+    "name": "Ati",
+    "type": "city"
   },
-  "LC": {
-    "name": "Logone Occidental"
+  {
+    "name": "Ati",
+    "type": "subprefecture of Chad"
   },
-  "LE": {
-    "name": "Logone Oriental"
+  {
+    "name": "Ati",
+    "type": "municipality of Chad"
   },
-  "MA": {
-    "name": "Mandoul"
+  {
+    "name": "Baguirmi Department",
+    "type": "department of Chad"
   },
-  "ME": {
-    "name": "Mayo-Kébbi Est"
+  {
+    "name": "Bahr el Gazel",
+    "type": "province of Chad"
   },
-  "MO": {
-    "name": "Moyen-Chari"
+  {
+    "name": "Bahr el Gazel Nord",
+    "type": "department of Chad"
   },
-  "OA": {
-    "name": "Ouaddaï"
+  {
+    "name": "Barh Azoum",
+    "type": "department of Chad"
   },
-  "SA": {
-    "name": "Salamat"
+  {
+    "name": "Barh El Gazel Sud",
+    "type": "department of Chad"
   },
-  "TA": {
-    "name": "Tandjilé"
+  {
+    "name": "Barh K\u00f6h",
+    "type": "department of Chad"
   },
-  "capital": "N'Djamena",
-  "currency_code": "XAF",
-  "iso3": "TCD",
-  "language_code": [
-    "tcd"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Barh Sara",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Barh Signaka",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Batha Est",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Batha Ouest",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Batha Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Biltine",
+    "type": "city"
+  },
+  {
+    "name": "Biltine Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Bogomoro",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Bogomoro",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "Bokoro",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Bokoro",
+    "type": "human settlement"
+  },
+  {
+    "name": "Borkou",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Borkou Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Borkou Yala",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Bousso",
+    "type": "city"
+  },
+  {
+    "name": "Bousso",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "B\u00e4 Illi",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Chari Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Chari-Baguirmi Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Dababa",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Dagana Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Dar Tama Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Djedaa",
+    "type": "human settlement"
+  },
+  {
+    "name": "Djedaa",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Djedaa",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "Djourf Al Ahmar Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Dodj\u00e9",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Ennedi",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Ennedi Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Fitri Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Gama",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Grande Sido",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Gu\u00e9ni",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Gu\u00e9ra Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Gu\u00e9ra Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Hadjer-Lamis",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Haraze Al Biar",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Haraze Mangueigne Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Hidjilidje",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Kabbia",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Kanem Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Kanem Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Karal",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Kimiti",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Kob\u00e9 Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Kouh-Est",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Kouh-Ouest",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Koundjourou",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Koundjourou",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "Koundoul",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Koundoul",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "Kouno",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "La Loumia",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "La Loumia",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "La Nya Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "La Nya Pend\u00e9",
+    "type": "department of Chad"
+  },
+  {
+    "name": "La Pend\u00e9",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Lac Iro Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Lac L\u00e9r\u00e9 Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Lac Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Lac Wey Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Logone Occidental Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Logone Oriental Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Loug Chari",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Lougoun",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Lougoun",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "Mamdi Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mandoul Occidental",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mandoul Oriental",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mandoul Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Mand\u00e9lia",
+    "type": "human settlement"
+  },
+  {
+    "name": "Mand\u00e9lia",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Mand\u00e9lia",
+    "type": "municipality of Chad"
+  },
+  {
+    "name": "Mangalm\u00e9",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mani",
+    "type": "human settlement"
+  },
+  {
+    "name": "Mani",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Mani",
+    "type": "border city"
+  },
+  {
+    "name": "Massaguet",
+    "type": "city"
+  },
+  {
+    "name": "Massaguet",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Massakory",
+    "type": "city"
+  },
+  {
+    "name": "Massakory",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Mata",
+    "type": "human-geographic territorial entity"
+  },
+  {
+    "name": "Mata",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Mayo Lemie",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mayo-Boneye",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mayo-Dallah",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Mayo-Kebbi Est Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Mayo-Kebbi Ouest Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Mogo",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Mont Illi",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Monts de Lam Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Moyen-Chari Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Mo\u00efto",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "N'Djamena",
+    "type": "province of Chad"
+  },
+  {
+    "name": "N'Djamena",
+    "type": "city"
+  },
+  {
+    "name": "N'Djamena",
+    "type": "special statute region of Chad"
+  },
+  {
+    "name": "N'Djamena",
+    "type": "border city"
+  },
+  {
+    "name": "N'Djamena",
+    "type": "big city"
+  },
+  {
+    "name": "N'Djamena Fara",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Ngourkosso",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Nord Kanem",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Ouadda\u00ef Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Ouara Department",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Salamat Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Sila Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Tandjil\u00e9 Est",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Tandjil\u00e9 Ouest",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Tandjil\u00e9 Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Tibesti Est",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Tibesti Ouest",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Tibesti Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Tourba",
+    "type": "human-geographic territorial entity"
+  },
+  {
+    "name": "Tourba",
+    "type": "subprefecture of Chad"
+  },
+  {
+    "name": "Wadi Bissam",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Wadi Fira Region",
+    "type": "province of Chad"
+  },
+  {
+    "name": "Wadi Hawar",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Wayi",
+    "type": "department of Chad"
+  },
+  {
+    "name": "Yao",
+    "type": "municipality of Chad"
+  }
+]

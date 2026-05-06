@@ -1,99 +1,550 @@
-{
-  "AMA": {
-    "name": "Amazonas"
+[
+  {
+    "name": "Amazonas Department",
+    "type": "department of Colombia"
   },
-  "ANT": {
-    "name": "Antioquia"
+  {
+    "name": "Antioquia",
+    "type": "department of Colombia"
   },
-  "ARA": {
-    "name": "Arauca"
+  {
+    "name": "Antonio Nari\u00f1o",
+    "type": "administrative territorial entity"
   },
-  "ATL": {
-    "name": "Atlántico"
+  {
+    "name": "Antonio Nari\u00f1o",
+    "type": "locality"
   },
-  "BOL": {
-    "name": "Bolívar"
+  {
+    "name": "Arauca Department",
+    "type": "department of Colombia"
   },
-  "BOY": {
-    "name": "Boyacá"
+  {
+    "name": "Archipelago of San Andr\u00e9s, Providencia and Santa Catalina",
+    "type": "department of Colombia"
   },
-  "CAL": {
-    "name": "Caldas"
+  {
+    "name": "Atl\u00e1ntico Department",
+    "type": "department of Colombia"
   },
-  "CAQ": {
-    "name": "Caquetá"
+  {
+    "name": "Baranoa",
+    "type": "municipality of Colombia"
   },
-  "CAS": {
-    "name": "Casanare"
+  {
+    "name": "Barranquilla",
+    "type": "big city"
   },
-  "CAU": {
-    "name": "Cauca"
+  {
+    "name": "Barranquilla",
+    "type": "municipality of Colombia"
   },
-  "CES": {
-    "name": "Cesar"
+  {
+    "name": "Barranquilla",
+    "type": "district of Colombia"
   },
-  "CHO": {
-    "name": "Chocó"
+  {
+    "name": "Barrios Unidos",
+    "type": "administrative territorial entity"
   },
-  "COR": {
-    "name": "Córdoba"
+  {
+    "name": "Barrios Unidos",
+    "type": "locality"
   },
-  "CUN": {
-    "name": "Cundinamarca"
+  {
+    "name": "Bogot\u00e1",
+    "type": "capital district or territory"
   },
-  "DC": {
-    "name": "Distrito Capital"
+  {
+    "name": "Bogot\u00e1",
+    "type": "direct-controlled municipality"
   },
-  "GUA": {
-    "name": "Guainía"
+  {
+    "name": "Bogot\u00e1",
+    "type": "human settlement"
   },
-  "GUV": {
-    "name": "Guaviare"
+  {
+    "name": "Bogot\u00e1",
+    "type": "first-level administrative division"
   },
-  "HUI": {
-    "name": "Huila"
+  {
+    "name": "Bogot\u00e1",
+    "type": "big city"
   },
-  "LAG": {
-    "name": "La Guajira"
+  {
+    "name": "Bogot\u00e1",
+    "type": "municipality of Colombia"
   },
-  "MAG": {
-    "name": "Magdalena"
+  {
+    "name": "Bogot\u00e1",
+    "type": "largest city"
   },
-  "MET": {
-    "name": "Meta"
+  {
+    "name": "Bol\u00edvar Department",
+    "type": "department of Colombia"
   },
-  "NAR": {
-    "name": "Nariño"
+  {
+    "name": "Bosa",
+    "type": "administrative territorial entity"
   },
-  "NSA": {
-    "name": "Norte de Santander"
+  {
+    "name": "Bosa",
+    "type": "locality"
   },
-  "PUT": {
-    "name": "Putumayo"
+  {
+    "name": "Boyac\u00e1 Department",
+    "type": "department of Colombia"
   },
-  "QUI": {
-    "name": "Quindío"
+  {
+    "name": "Buenavista",
+    "type": "municipality of Colombia"
   },
-  "RIS": {
-    "name": "Risaralda"
+  {
+    "name": "Caimito",
+    "type": "municipality of Colombia"
   },
-  "SAN": {
-    "name": "Santander"
+  {
+    "name": "Caldas Department",
+    "type": "department of Colombia"
   },
-  "SAP": {
-    "name": "San Andrés y Providencia"
+  {
+    "name": "Campo de la Cruz",
+    "type": "municipality of Colombia"
   },
-  "SUC": {
-    "name": "Sucre"
+  {
+    "name": "Candelaria",
+    "type": "municipality of Colombia"
   },
-  "TOL": {
-    "name": "Tolima"
+  {
+    "name": "Caquet\u00e1 Department",
+    "type": "department of Colombia"
   },
-  "capital": "Bogota",
-  "currency_code": "COP",
-  "iso3": "COL",
-  "language_code": [
-    "col"
-  ],
-  "continent_code": "SA"
-}
+  {
+    "name": "Casanare Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Cauca Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Cesar Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Chal\u00e1n",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Chapinero",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Chapinero",
+    "type": "locality"
+  },
+  {
+    "name": "Choch\u00f3",
+    "type": "center of population"
+  },
+  {
+    "name": "Choch\u00f3",
+    "type": "corregimiento of Colombia"
+  },
+  {
+    "name": "Choc\u00f3 Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Ciudad Bol\u00edvar",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Ciudad Bol\u00edvar",
+    "type": "locality"
+  },
+  {
+    "name": "Colos\u00f3",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Corozal",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Cove\u00f1as",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Cundinamarca Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "C\u00f3rdoba Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "El Roble",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Engativ\u00e1",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Engativ\u00e1",
+    "type": "locality"
+  },
+  {
+    "name": "Fontib\u00f3n",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Fontib\u00f3n",
+    "type": "locality"
+  },
+  {
+    "name": "Galapa",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Galeras",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Guain\u00eda Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Guaranda",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Guaviare Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Huila Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Juan de Acosta",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Kennedy",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Kennedy",
+    "type": "locality"
+  },
+  {
+    "name": "La Candelaria",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "La Candelaria",
+    "type": "neighborhood"
+  },
+  {
+    "name": "La Candelaria",
+    "type": "human settlement"
+  },
+  {
+    "name": "La Guajira Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "La Uni\u00f3n",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Los M\u00e1rtires",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Los M\u00e1rtires",
+    "type": "locality"
+  },
+  {
+    "name": "Los Palmitos",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Luruaco",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Magdalena Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Majagual",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Malambo",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Manat\u00ed",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Meta Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Morroa",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Nari\u00f1o Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Norte de Santander Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Ovejas",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Palmar de Varela",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Pioj\u00f3",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Polonuevo",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Ponedera",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Puente Aranda",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Puente Aranda",
+    "type": "locality"
+  },
+  {
+    "name": "Puerto Colombia",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Putumayo Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Quind\u00edo Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Rafael Uribe Uribe",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Rafael Uribe Uribe",
+    "type": "locality"
+  },
+  {
+    "name": "Repel\u00f3n",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Risaralda Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Sabanagrande",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Sabanalarga",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Sampu\u00e9s",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "San Antonio de Palmito",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "San Benito Abad",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "San Crist\u00f3bal",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "San Crist\u00f3bal",
+    "type": "locality"
+  },
+  {
+    "name": "San Juan Betulia",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "San Onofre",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Santa Fe",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Santa Fe",
+    "type": "locality"
+  },
+  {
+    "name": "Santa Luc\u00eda",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Santander Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Santo Tom\u00e1s",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Sincelejo",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Sincelejo",
+    "type": "city in Colombia"
+  },
+  {
+    "name": "Sinc\u00e9",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Soledad",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Suan, \u00c1tlantico",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Suba",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Suba",
+    "type": "locality"
+  },
+  {
+    "name": "Sucre",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Sucre Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Sumapaz",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Sumapaz",
+    "type": "locality"
+  },
+  {
+    "name": "Teusaquillo",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Teusaquillo",
+    "type": "locality"
+  },
+  {
+    "name": "Tolima Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Toluviejo",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Tol\u00fa",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Tubar\u00e1",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Tunjuelito",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Tunjuelito",
+    "type": "locality"
+  },
+  {
+    "name": "Usaqu\u00e9n",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Usaqu\u00e9n",
+    "type": "neighborhood"
+  },
+  {
+    "name": "Usaqu\u00e9n",
+    "type": "locality"
+  },
+  {
+    "name": "Usiacur\u00ed",
+    "type": "municipality of Colombia"
+  },
+  {
+    "name": "Usme",
+    "type": "administrative territorial entity"
+  },
+  {
+    "name": "Usme",
+    "type": "locality"
+  },
+  {
+    "name": "Valle del Cauca Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Vaup\u00e9s Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Vichada Department",
+    "type": "department of Colombia"
+  },
+  {
+    "name": "Vichada Department",
+    "type": "human settlement"
+  },
+  {
+    "name": "Vichada Department",
+    "type": "region"
+  },
+  {
+    "name": "Vichada Department",
+    "type": "territory"
+  },
+  {
+    "name": "Vichada Department",
+    "type": "wilderness area"
+  }
+]

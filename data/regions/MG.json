@@ -1,24 +1,42 @@
-{
-  "FF": {
-    "name": "Antananarivo"
+[
+  {
+    "name": "Antananarivo Province",
+    "type": "province of Madagascar"
   },
-  "MA": {
-    "name": "Antsirabe"
+  {
+    "name": "Antsiranana Province",
+    "type": "province of Madagascar"
   },
-  "ME": {
-    "name": "Toliara"
+  {
+    "name": "Atsinanana",
+    "type": "region of Madagascar"
   },
-  "TB": {
-    "name": "Taolagnaro"
+  {
+    "name": "Fianarantsoa Province",
+    "type": "province of Madagascar"
   },
-  "TM": {
-    "name": "Tamatave"
+  {
+    "name": "Mahajanga Province",
+    "type": "province of Madagascar"
   },
-  "capital": "Antananarivo",
-  "currency_code": "MGA",
-  "iso3": "MDG",
-  "language_code": [
-    "mdg"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Toamasina I",
+    "type": "district of Madagascar"
+  },
+  {
+    "name": "Toamasina II",
+    "type": "district of Madagascar"
+  },
+  {
+    "name": "Toamasina Province",
+    "type": "province of Madagascar"
+  },
+  {
+    "name": "Toliara Province",
+    "type": "province of Madagascar"
+  },
+  {
+    "name": "Vohibinany",
+    "type": "district of Madagascar"
+  }
+]

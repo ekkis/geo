@@ -1,30 +1,86 @@
-{
-  "CM": {
-    "name": "Bamako Capital District"
+[
+  {
+    "name": "Bamako",
+    "type": "city"
   },
-  "GA": {
-    "name": "Gao"
+  {
+    "name": "Bamako",
+    "type": "first-level administrative division"
   },
-  "KY": {
-    "name": "Kidal"
+  {
+    "name": "Commune 2",
+    "type": "human settlement"
   },
-  "MO": {
-    "name": "Mopti"
+  {
+    "name": "Commune 2",
+    "type": "commune"
   },
-  "SH": {
-    "name": "Ségou"
+  {
+    "name": "Commune 2",
+    "type": "commune of Mali"
   },
-  "SL": {
-    "name": "Sikasso"
+  {
+    "name": "Commune 5",
+    "type": "human settlement"
   },
-  "TB": {
-    "name": "Tombouctou"
+  {
+    "name": "Commune 5",
+    "type": "commune"
   },
-  "capital": "Bamako",
-  "currency_code": "XOF",
-  "iso3": "MLI",
-  "language_code": [
-    "mli"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Commune 5",
+    "type": "commune of Mali"
+  },
+  {
+    "name": "Commune 6",
+    "type": "human settlement"
+  },
+  {
+    "name": "Commune 6",
+    "type": "commune"
+  },
+  {
+    "name": "Commune 6",
+    "type": "commune of Mali"
+  },
+  {
+    "name": "Commune IV",
+    "type": "human settlement"
+  },
+  {
+    "name": "Commune IV",
+    "type": "commune"
+  },
+  {
+    "name": "Gao Region",
+    "type": "region of Mali"
+  },
+  {
+    "name": "Kayes Region",
+    "type": "region of Mali"
+  },
+  {
+    "name": "Kidal Region",
+    "type": "region of Mali"
+  },
+  {
+    "name": "Koulikoro Region",
+    "type": "region of Mali"
+  },
+  {
+    "name": "Mopti Region",
+    "type": "region of Mali"
+  },
+  {
+    "name": "Sikasso",
+    "type": "region of Mali"
+  },
+  {
+    "name": "S\u00e9gou Region",
+    "type": "region of Mali"
+  },
+  {
+    "name": "Timbuktu Region",
+    "type": "region of Mali"
+  }
+]

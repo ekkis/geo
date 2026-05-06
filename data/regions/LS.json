@@ -1,39 +1,42 @@
-{
-  "B": {
-    "name": "Berea"
+[
+  {
+    "name": "Berea District",
+    "type": "district of Lesotho"
   },
-  "C": {
-    "name": "Butha-Buthe"
+  {
+    "name": "Butha-Buthe District",
+    "type": "district of Lesotho"
   },
-  "G": {
-    "name": "Leribe"
+  {
+    "name": "Leribe District",
+    "type": "district of Lesotho"
   },
-  "H": {
-    "name": "Mafeteng"
+  {
+    "name": "Mafeteng District",
+    "type": "district of Lesotho"
   },
-  "K": {
-    "name": "Thaba-Tseka"
+  {
+    "name": "Maseru District",
+    "type": "district of Lesotho"
   },
-  "M": {
-    "name": "Maseru"
+  {
+    "name": "Mohale's Hoek District",
+    "type": "district of Lesotho"
   },
-  "N": {
-    "name": "Mohale's Hoek"
+  {
+    "name": "Mokhotlong District",
+    "type": "district of Lesotho"
   },
-  "P": {
-    "name": "Mokhotlong"
+  {
+    "name": "Qacha's Nek District",
+    "type": "district of Lesotho"
   },
-  "S": {
-    "name": "Qacha's Nek"
+  {
+    "name": "Quthing District",
+    "type": "district of Lesotho"
   },
-  "T": {
-    "name": "Quthing"
-  },
-  "capital": "Maseru",
-  "currency_code": "LSL",
-  "iso3": "LSO",
-  "language_code": [
-    "lso"
-  ],
-  "continent_code": "AF"
-}
+  {
+    "name": "Thaba-Tseka District",
+    "type": "district of Lesotho"
+  }
+]
