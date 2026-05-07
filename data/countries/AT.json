@@ -1,0 +1,39 @@
+{
+  "name": {
+    "common": "Austria",
+    "official": "Republic of Austria"
+  },
+  "regions": [
+    "WEU"
+  ],
+  "capital": "Vienna",
+  "currency_code": "EUR",
+  "iso3": "AUT",
+  "language_code": [
+    "de"
+  ],
+  "continent_code": "EU",
+  "tld": ".at",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 83871,
+  "population": 9200931,
+  "flag": "🇦🇹",
+  "region_common": "Europe",
+  "demonym": "Austrian",
+  "gdp": 516034144115.9503,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "43"
+}

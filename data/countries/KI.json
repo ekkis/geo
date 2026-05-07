@@ -1,0 +1,31 @@
+{
+  "name": {
+    "common": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati"
+  },
+  "capital": "Tarawa",
+  "currency_code": "AUD",
+  "iso3": "KIR",
+  "language_code": [
+    "ct",
+    "ky"
+  ],
+  "continent_code": "OC",
+  "tld": ".ki",
+  "timezones": [
+    "UTC+12:00",
+    "UTC+13:00",
+    "UTC+14:00"
+  ],
+  "area": 811,
+  "population": 120740,
+  "flag": "🇰🇮",
+  "region_common": "Oceania",
+  "demonym": "I-Kiribati",
+  "gdp": 279034355.10842144,
+  "gdp_year": 2023,
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "686"
+}

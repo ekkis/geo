@@ -1,0 +1,23 @@
+{
+  "name": {
+    "common": "Cook Islands",
+    "official": "Cook Islands"
+  },
+  "capital": "Avarua",
+  "currency_code": "NZD",
+  "iso3": "COK",
+  "language_code": [
+    "cok"
+  ],
+  "continent_code": "OC",
+  "tld": ".ck",
+  "timezones": [
+    "UTC-10:00"
+  ],
+  "area": 236,
+  "population": 15040,
+  "flag": "🇨🇰",
+  "region_common": "Oceania",
+  "demonym": "Cook Islander",
+  "phone_code": "682"
+}

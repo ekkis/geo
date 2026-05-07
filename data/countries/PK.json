@@ -1,0 +1,36 @@
+{
+  "name": {
+    "common": "Pakistan",
+    "official": "Islamic Republic of Pakistan"
+  },
+  "regions": [
+    "SAS"
+  ],
+  "capital": "Islamabad",
+  "currency_code": "PKR",
+  "iso3": "PAK",
+  "language_code": [
+    "ur"
+  ],
+  "continent_code": "AS",
+  "tld": ".pk",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "area": 796095,
+  "population": 241499431,
+  "flag": "🇵🇰",
+  "region_common": "Asia",
+  "demonym": "Pakistani",
+  "gdp": 338368455317.8758,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "92"
+}

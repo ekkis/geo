@@ -1,0 +1,33 @@
+{
+  "name": {
+    "common": "Trinidad and Tobago",
+    "official": "Republic of Trinidad and Tobago"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "Port of Spain",
+  "currency_code": "TTD",
+  "iso3": "TTO",
+  "language_code": [
+    "tto"
+  ],
+  "continent_code": "NA",
+  "tld": ".tt",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 5130,
+  "population": 1367764,
+  "flag": "🇹🇹",
+  "region_common": "Americas",
+  "demonym": "Trinidadian",
+  "gdp": 28139944790.291103,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "+1-868"
+}

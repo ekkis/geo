@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Gambia",
+    "official": "Republic of the Gambia"
+  },
+  "capital": "Banjul",
+  "currency_code": "GMD",
+  "iso3": "GMB",
+  "language_code": [
+    "gmb"
+  ],
+  "continent_code": "AF",
+  "tld": ".gm",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "area": 10689,
+  "population": 2422712,
+  "flag": "🇬🇲",
+  "region_common": "Africa",
+  "demonym": "Gambian",
+  "gdp": 2339904156.792144,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "220"
+}

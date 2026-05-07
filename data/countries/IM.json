@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Isle of Man",
+    "official": "Isle of Man"
+  },
+  "regions": [],
+  "capital": "Douglas, Isle of Man",
+  "currency_code": "GBP",
+  "iso3": "IMN",
+  "language_code": [
+    "imn"
+  ],
+  "continent_code": "EU",
+  "tld": ".im",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "area": 572,
+  "population": 84530,
+  "flag": "🇮🇲",
+  "region_common": "Europe",
+  "demonym": "Manx",
+  "gdp": 7931193222.064053,
+  "gdp_year": 2021,
+  "postal_code": {
+    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+  },
+  "phone_code": "+44-1624"
+}

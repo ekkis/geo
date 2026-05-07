@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Guadeloupe",
+    "official": "Guadeloupe"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "Basse-Terre",
+  "currency_code": "EUR",
+  "iso3": "GLP",
+  "language_code": [
+    "glp"
+  ],
+  "continent_code": "NA",
+  "tld": ".gp",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 1628,
+  "population": 378561,
+  "flag": "🇬🇵",
+  "region_common": "Americas",
+  "demonym": "Guadeloupian",
+  "postal_code": {
+    "format": "#####",
+    "regex": "^((97|98)\\d{3})$"
+  },
+  "phone_code": "590"
+}

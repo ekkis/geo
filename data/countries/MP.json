@@ -1,0 +1,25 @@
+{
+  "name": {
+    "common": "Northern Mariana Islands",
+    "official": "Commonwealth of the Northern Mariana Islands"
+  },
+  "capital": "Saipan",
+  "currency_code": "USD",
+  "iso3": "MNP",
+  "language_code": [
+    "mnp"
+  ],
+  "continent_code": "OC",
+  "tld": ".mp",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "area": 464,
+  "population": 47329,
+  "flag": "🇲🇵",
+  "region_common": "Oceania",
+  "demonym": "American",
+  "gdp": 858000000,
+  "gdp_year": 2020,
+  "phone_code": "+1-670"
+}

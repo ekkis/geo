@@ -1,0 +1,35 @@
+{
+  "name": {
+    "common": "Greenland",
+    "official": "Greenland"
+  },
+  "regions": [
+    "NOR"
+  ],
+  "capital": "Nuuk",
+  "currency_code": "DKK",
+  "iso3": "GRL",
+  "language_code": [
+    "grl"
+  ],
+  "continent_code": "NA",
+  "tld": ".gl",
+  "timezones": [
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-01:00",
+    "UTC+00:00"
+  ],
+  "area": 2166086,
+  "population": 56542,
+  "flag": "🇬🇱",
+  "region_common": "Americas",
+  "demonym": "Greenlandic",
+  "gdp": 3235809504.298714,
+  "gdp_year": 2021,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "phone_code": "299"
+}

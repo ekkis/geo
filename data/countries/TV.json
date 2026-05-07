@@ -1,0 +1,28 @@
+{
+  "name": {
+    "common": "Tuvalu",
+    "official": "Tuvalu"
+  },
+  "capital": "Funafuti",
+  "currency_code": "AUD",
+  "iso3": "TUV",
+  "language_code": [
+    "tuv"
+  ],
+  "continent_code": "OC",
+  "tld": ".tv",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "area": 26,
+  "population": 10643,
+  "flag": "🇹🇻",
+  "region_common": "Oceania",
+  "demonym": "Tuvaluan",
+  "gdp": 62280311.585217156,
+  "gdp_year": 2023,
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "688"
+}

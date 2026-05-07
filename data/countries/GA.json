@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Gabon",
+    "official": "Gabonese Republic"
+  },
+  "capital": "Libreville",
+  "currency_code": "XAF",
+  "iso3": "GAB",
+  "language_code": [
+    "fr"
+  ],
+  "continent_code": "AF",
+  "tld": ".ga",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 267668,
+  "population": 2469296,
+  "flag": "🇬🇦",
+  "region_common": "Africa",
+  "demonym": "Gabonese",
+  "gdp": 20516134388.66078,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "241"
+}

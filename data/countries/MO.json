@@ -1,0 +1,26 @@
+{
+  "name": {
+    "common": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China"
+  },
+  "regions": [],
+  "capital": "Macao",
+  "currency_code": "MOP",
+  "iso3": "MAC",
+  "language_code": [
+    "zh"
+  ],
+  "continent_code": "AS",
+  "tld": ".mo",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "area": 30,
+  "population": 685900,
+  "flag": "🇲🇴",
+  "region_common": "Asia",
+  "demonym": "Macanese",
+  "gdp": 47061843715.85648,
+  "gdp_year": 2023,
+  "phone_code": "853"
+}

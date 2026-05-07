@@ -1,0 +1,36 @@
+{
+  "name": {
+    "common": "Bangladesh",
+    "official": "People's Republic of Bangladesh"
+  },
+  "regions": [
+    "SAS"
+  ],
+  "capital": "Dhaka",
+  "currency_code": "BDT",
+  "iso3": "BGD",
+  "language_code": [
+    "bn"
+  ],
+  "continent_code": "AS",
+  "tld": ".bd",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "area": 147570,
+  "population": 169828911,
+  "flag": "🇧🇩",
+  "region_common": "Asia",
+  "demonym": "Bangladeshi",
+  "gdp": 437415331040.9943,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "880"
+}

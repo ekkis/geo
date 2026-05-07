@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Zambia",
+    "official": "Republic of Zambia"
+  },
+  "capital": "Lusaka",
+  "currency_code": "ZMK",
+  "iso3": "ZMB",
+  "language_code": [
+    "zmb"
+  ],
+  "continent_code": "AF",
+  "tld": ".zm",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 752612,
+  "population": 19693423,
+  "flag": "🇿🇲",
+  "region_common": "Africa",
+  "demonym": "Zambian",
+  "gdp": 28162630953.9285,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "260"
+}

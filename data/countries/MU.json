@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Mauritius",
+    "official": "Republic of Mauritius"
+  },
+  "capital": "Port Louis",
+  "currency_code": "MUR",
+  "iso3": "MUS",
+  "language_code": [
+    "mus"
+  ],
+  "continent_code": "AF",
+  "tld": ".mu",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "area": 2040,
+  "population": 1243741,
+  "flag": "🇲🇺",
+  "region_common": "Africa",
+  "demonym": "Mauritian",
+  "gdp": 14397127281.382942,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "230"
+}

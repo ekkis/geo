@@ -1,0 +1,41 @@
+{
+  "name": {
+    "common": "Italy",
+    "official": "Italian Republic"
+  },
+  "regions": [
+    "SE"
+  ],
+  "capital": "Rome",
+  "currency_code": "EUR",
+  "iso3": "ITA",
+  "language_code": [
+    "it"
+  ],
+  "continent_code": "EU",
+  "tld": ".it",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 301336,
+  "population": 58927633,
+  "flag": "🇮🇹",
+  "region_common": "Europe",
+  "demonym": "Italian",
+  "gdp": 2254851212731.8047,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "G20",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "39"
+}

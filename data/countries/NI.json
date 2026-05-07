@@ -1,0 +1,38 @@
+{
+  "name": {
+    "common": "Nicaragua",
+    "official": "Republic of Nicaragua"
+  },
+  "regions": [
+    "CAM",
+    "LATAM"
+  ],
+  "capital": "Managua",
+  "currency_code": "NIO",
+  "iso3": "NIC",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".ni",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "area": 130373,
+  "population": 6803886,
+  "flag": "🇳🇮",
+  "region_common": "Americas",
+  "demonym": "Nicaraguan",
+  "gdp": 17829215283.799656,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "###-###-#",
+    "regex": "^(\\d{7})$"
+  },
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "505"
+}

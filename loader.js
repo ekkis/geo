@@ -3,7 +3,24 @@ const path = require('path');
 
 // Load country data
 function loadCountries() {
-    const file = path.join(__dirname, 'data', 'country.json');
+    const dir = path.join(__dirname, 'data', 'countries');
+    const files = fs.readdirSync(dir);
+    const countries = {};
+    for (const file of files) {
+        if (file.endsWith('.json')) {
+            const countryCode = file.split('.')[0];
+            const filePath = path.join(dir, file);
+            try {
+                const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+                countries[countryCode] = data;
+            } catch (e) {
+                console.error(`Error loading ${file}:`, e);
+            }
+        }
+    }
+    return countries;
+}
+    return countries;
     const data = JSON.parse(fs.readFileSync(file, 'utf-8'));
     return data;
 }

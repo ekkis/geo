@@ -1,0 +1,31 @@
+{
+  "name": {
+    "common": "Burkina Faso",
+    "official": "Burkina Faso"
+  },
+  "capital": "Ouagadougou",
+  "currency_code": "XOF",
+  "iso3": "BFA",
+  "language_code": [
+    "fr",
+    "hv"
+  ],
+  "continent_code": "AF",
+  "tld": ".bf",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 272967,
+  "population": 24070553,
+  "flag": "🇧🇫",
+  "region_common": "Africa",
+  "demonym": "Burkinabe",
+  "gdp": 20324617838.967648,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "226"
+}

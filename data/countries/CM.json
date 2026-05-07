@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Cameroon",
+    "official": "Republic of Cameroon"
+  },
+  "capital": "Yaounde",
+  "currency_code": "XAF",
+  "iso3": "CMR",
+  "language_code": [
+    "fr"
+  ],
+  "continent_code": "AF",
+  "tld": ".cm",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 475442,
+  "population": 29442327,
+  "flag": "🇨🇲",
+  "region_common": "Africa",
+  "demonym": "Cameroonian",
+  "gdp": 47945510090.05286,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "237"
+}
