@@ -1,81 +1,68 @@
 {
-  "ATT": {
-    "name": "Attica",
-    "regions": [
-      "Attica"
-    ]
+  "Attica": {
+    "ATT": {
+      "name": "Attica"
+    }
   },
-  "CENGR": {
-    "name": "Central Greece",
-    "regions": [
-      "Central Greece"
-    ]
+  "Central Greece": {
+    "CENGR": {
+      "name": "Central Greece"
+    }
   },
-  "CENMA": {
-    "name": "Central Macedonia",
-    "regions": [
-      "Central Macedonia"
-    ]
+  "Central Macedonia": {
+    "CENMA": {
+      "name": "Central Macedonia"
+    }
   },
-  "CRE": {
-    "name": "Crete",
-    "regions": [
-      "Crete"
-    ]
+  "Crete": {
+    "CRE": {
+      "name": "Crete"
+    }
   },
-  "EASMA": {
-    "name": "East Macedonia and Thrace",
-    "regions": [
-      "East Macedonia and Thrace"
-    ]
+  "East Macedonia and Thrace": {
+    "EASMA": {
+      "name": "East Macedonia and Thrace"
+    }
   },
-  "EPI": {
-    "name": "Epirus",
-    "regions": [
-      "Epirus"
-    ]
+  "Epirus": {
+    "EPI": {
+      "name": "Epirus"
+    }
   },
-  "IONIS": {
-    "name": "Ionian Islands",
-    "regions": [
-      "Ionian Islands"
-    ]
+  "Ionian Islands": {
+    "IONIS": {
+      "name": "Ionian Islands"
+    }
   },
-  "NORAE": {
-    "name": "North Aegean",
-    "regions": [
-      "North Aegean"
-    ]
+  "North Aegean": {
+    "NORAE": {
+      "name": "North Aegean"
+    }
   },
-  "PEL": {
-    "name": "Peloponnese",
-    "regions": [
-      "Peloponnese"
-    ]
+  "Peloponnese": {
+    "PEL": {
+      "name": "Peloponnese"
+    }
   },
-  "SOUAE": {
-    "name": "South Aegean",
-    "regions": [
-      "South Aegean"
-    ]
+  "South Aegean": {
+    "SOUAE": {
+      "name": "South Aegean"
+    }
   },
-  "THE": {
-    "name": "Thessaly",
-    "regions": [
-      "Thessaly"
-    ]
+  "Thessaly": {
+    "THE": {
+      "name": "Thessaly"
+    }
   },
-  "WESGR": {
-    "name": "West Greece",
-    "regions": [
-      "West Greece"
-    ]
+  "West Greece": {
+    "WESGR": {
+      "name": "West Greece"
+    }
   },
-  "WESMA": {
-    "name": "West Macedonia",
-    "regions": [
-      "West Macedonia"
-    ]
+  "West Macedonia": {
+    "WESMA": {
+      "name": "West Macedonia"
+    }
   },
   "capital": "Athens",
   "currency_code": "EUR",

@@ -1,123 +1,103 @@
 {
-  "AKE": {
-    "name": "Akershus",
-    "regions": [
-      "Akershus"
-    ]
+  "Akershus": {
+    "AKE": {
+      "name": "Akershus"
+    }
   },
-  "AUS": {
-    "name": "Aust-Agder",
-    "regions": [
-      "Aust-Agder"
-    ]
+  "Aust-Agder": {
+    "AUS": {
+      "name": "Aust-Agder"
+    }
   },
-  "BUS": {
-    "name": "Buskerud",
-    "regions": [
-      "Buskerud"
-    ]
+  "Buskerud": {
+    "BUS": {
+      "name": "Buskerud"
+    }
   },
-  "FIN": {
-    "name": "Finnmark",
-    "regions": [
-      "Finnmark"
-    ]
+  "Finnmark": {
+    "FIN": {
+      "name": "Finnmark"
+    }
   },
-  "HED": {
-    "name": "Hedmark",
-    "regions": [
-      "Hedmark"
-    ]
+  "Hedmark": {
+    "HED": {
+      "name": "Hedmark"
+    }
   },
-  "HOR": {
-    "name": "Hordaland",
-    "regions": [
-      "Hordaland"
-    ]
+  "Hordaland": {
+    "HOR": {
+      "name": "Hordaland"
+    }
   },
-  "MREOG": {
-    "name": "Møre og Romsdal",
-    "regions": [
-      "Møre og Romsdal"
-    ]
+  "Møre og Romsdal": {
+    "MREOG": {
+      "name": "Møre og Romsdal"
+    }
   },
-  "NOR": {
-    "name": "Nord-Trøndelag",
-    "regions": [
-      "Nord-Trøndelag"
-    ]
+  "Nord-Trøndelag": {
+    "NOR": {
+      "name": "Nord-Trøndelag"
+    }
   },
-  "NOR1": {
-    "name": "Nordland",
-    "regions": [
-      "Nordland"
-    ]
+  "Nordland": {
+    "NOR1": {
+      "name": "Nordland"
+    }
   },
-  "OPP": {
-    "name": "Oppland",
-    "regions": [
-      "Oppland"
-    ]
+  "Oppland": {
+    "OPP": {
+      "name": "Oppland"
+    }
   },
-  "OSL": {
-    "name": "Oslo",
-    "regions": [
-      "Oslo"
-    ]
+  "Oslo": {
+    "OSL": {
+      "name": "Oslo"
+    }
   },
-  "ROG": {
-    "name": "Rogaland",
-    "regions": [
-      "Rogaland"
-    ]
+  "Rogaland": {
+    "ROG": {
+      "name": "Rogaland"
+    }
   },
-  "SOGOG": {
-    "name": "Sogn og Fjordane",
-    "regions": [
-      "Sogn og Fjordane"
-    ]
+  "Sogn og Fjordane": {
+    "SOGOG": {
+      "name": "Sogn og Fjordane"
+    }
   },
-  "SR-": {
-    "name": "Sør-Trøndelag",
-    "regions": [
-      "Sør-Trøndelag"
-    ]
+  "Sør-Trøndelag": {
+    "SR-": {
+      "name": "Sør-Trøndelag"
+    }
   },
-  "STF": {
-    "name": "Østfold",
-    "regions": [
-      "Østfold"
-    ]
+  "Østfold": {
+    "STF": {
+      "name": "Østfold"
+    }
   },
-  "SVA": {
-    "name": "Svalbard",
-    "regions": [
-      "Svalbard"
-    ]
+  "Svalbard": {
+    "SVA": {
+      "name": "Svalbard"
+    }
   },
-  "TEL": {
-    "name": "Telemark",
-    "regions": [
-      "Telemark"
-    ]
+  "Telemark": {
+    "TEL": {
+      "name": "Telemark"
+    }
   },
-  "TRO": {
-    "name": "Troms",
-    "regions": [
-      "Troms"
-    ]
+  "Troms": {
+    "TRO": {
+      "name": "Troms"
+    }
   },
-  "VES": {
-    "name": "Vestfold",
-    "regions": [
-      "Vestfold"
-    ]
+  "Vestfold": {
+    "VES": {
+      "name": "Vestfold"
+    }
   },
-  "VES1": {
-    "name": "Vest-Agder",
-    "regions": [
-      "Vest-Agder"
-    ]
+  "Vest-Agder": {
+    "VES1": {
+      "name": "Vest-Agder"
+    }
   },
   "capital": "Oslo",
   "currency_code": "NOK",

@@ -1,33 +1,20 @@
 {
-  "HOV": {
-    "name": "Hovedstaden",
-    "regions": [
-      "Denmark"
-    ]
-  },
-  "MID": {
-    "name": "Midtjylland",
-    "regions": [
-      "Denmark"
-    ]
-  },
-  "NOR": {
-    "name": "Nordjylland",
-    "regions": [
-      "Denmark"
-    ]
-  },
-  "SJÆ": {
-    "name": "Sjælland",
-    "regions": [
-      "Denmark"
-    ]
-  },
-  "SYD": {
-    "name": "Syddanmark",
-    "regions": [
-      "Denmark"
-    ]
+  "Denmark": {
+    "HOV": {
+      "name": "Hovedstaden"
+    },
+    "MID": {
+      "name": "Midtjylland"
+    },
+    "NOR": {
+      "name": "Nordjylland"
+    },
+    "SJÆ": {
+      "name": "Sjælland"
+    },
+    "SYD": {
+      "name": "Syddanmark"
+    }
   },
   "capital": "Copenhagen",
   "currency_code": "DKK",

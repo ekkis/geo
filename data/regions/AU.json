@@ -1,63 +1,18 @@
 {
-  "AA": {
-    "name": "Australian Antarctic Territory"
+  "Christmas Island": {
+    "CX": {
+      "name": "Christmas Island"
+    }
   },
-  "ACT": {
-    "name": "Australian Capital Territory"
+  "Jervis Bay Territory": {
+    "JBT": {
+      "name": "Jervis Bay Territory"
+    }
   },
-  "CI": {
-    "name": "Cocos Islands"
-  },
-  "CS": {
-    "name": "Coral Sea Islands"
-  },
-  "CX": {
-    "name": "Christmas Island",
-    "regions": [
-      "Christmas Island"
-    ]
-  },
-  "HI": {
-    "name": "Heard Island and McDonald Islands"
-  },
-  "JB": {
-    "name": "Jervis Bay Territory"
-  },
-  "JBT": {
-    "name": "Jervis Bay Territory",
-    "regions": [
-      "Jervis Bay Territory"
-    ]
-  },
-  "NF": {
-    "name": "Norfolk Island",
-    "regions": [
-      "Norfolk Island"
-    ]
-  },
-  "NI": {
-    "name": "Norfolk Island"
-  },
-  "NSW": {
-    "name": "New South Wales"
-  },
-  "NT": {
-    "name": "Northern Territory"
-  },
-  "QLD": {
-    "name": "Queensland"
-  },
-  "SA": {
-    "name": "South Australia"
-  },
-  "TAS": {
-    "name": "Tasmania"
-  },
-  "VIC": {
-    "name": "Victoria"
-  },
-  "WA": {
-    "name": "Western Australia"
+  "Norfolk Island": {
+    "NF": {
+      "name": "Norfolk Island"
+    }
   },
   "capital": "Canberra",
   "currency_code": "AUD",

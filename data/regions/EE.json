@@ -1,93 +1,78 @@
 {
-  "HAR": {
-    "name": "Harju",
-    "regions": [
-      "Harju"
-    ]
+  "Harju": {
+    "HAR": {
+      "name": "Harju"
+    }
   },
-  "HII": {
-    "name": "Hiiu",
-    "regions": [
-      "Hiiu"
-    ]
+  "Hiiu": {
+    "HII": {
+      "name": "Hiiu"
+    }
   },
-  "IDA": {
-    "name": "Ida-Viru",
-    "regions": [
-      "Ida-Viru"
-    ]
+  "Ida-Viru": {
+    "IDA": {
+      "name": "Ida-Viru"
+    }
   },
-  "JAR": {
-    "name": "Järva",
-    "regions": [
-      "Järva"
-    ]
+  "Järva": {
+    "JAR": {
+      "name": "Järva"
+    }
   },
-  "JOG": {
-    "name": "Jõgeva",
-    "regions": [
-      "Jõgeva"
-    ]
+  "Jõgeva": {
+    "JOG": {
+      "name": "Jõgeva"
+    }
   },
-  "LAA": {
-    "name": "Lääne",
-    "regions": [
-      "Lääne"
-    ]
+  "Lääne": {
+    "LAA": {
+      "name": "Lääne"
+    }
   },
-  "LAA1": {
-    "name": "Lääne-Viru",
-    "regions": [
-      "Lääne-Viru"
-    ]
+  "Lääne-Viru": {
+    "LAA1": {
+      "name": "Lääne-Viru"
+    }
   },
-  "PAR": {
-    "name": "Pärnu",
-    "regions": [
-      "Pärnu"
-    ]
+  "Pärnu": {
+    "PAR": {
+      "name": "Pärnu"
+    }
   },
-  "POL": {
-    "name": "Põlva",
-    "regions": [
-      "Põlva"
-    ]
+  "Põlva": {
+    "POL": {
+      "name": "Põlva"
+    }
   },
-  "RAP": {
-    "name": "Rapla",
-    "regions": [
-      "Rapla"
-    ]
+  "Rapla": {
+    "RAP": {
+      "name": "Rapla"
+    }
   },
-  "SAA": {
-    "name": "Saare",
-    "regions": [
-      "Saare"
-    ]
+  "Saare": {
+    "SAA": {
+      "name": "Saare"
+    }
   },
-  "TAR": {
-    "name": "Tartu",
-    "regions": [
-      "Tartu"
-    ]
+  "Tartu": {
+    "TAR": {
+      "name": "Tartu"
+    }
   },
-  "VAL": {
-    "name": "Valga",
-    "regions": [
-      "Valga"
-    ]
+  "Valga": {
+    "VAL": {
+      "name": "Valga"
+    }
   },
-  "VIL": {
-    "name": "Viljandi",
-    "regions": [
-      "Viljandi"
-    ]
+  "Viljandi": {
+    "VIL": {
+      "name": "Viljandi"
+    }
   },
-  "VOR": {
-    "name": "Võru",
-    "regions": [
-      "Võru"
-    ]
+  "Võru": {
+    "VOR": {
+      "name": "Võru"
+    }
   },
   "capital": "Tallinn",
   "currency_code": "EUR",

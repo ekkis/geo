@@ -1,105 +1,88 @@
 {
-  "DAL": {
-    "name": "Dalarna",
-    "regions": [
-      "Dalarna"
-    ]
+  "Dalarna": {
+    "DAL": {
+      "name": "Dalarna"
+    }
   },
-  "GAV": {
-    "name": "Gävleborg",
-    "regions": [
-      "Gävleborg"
-    ]
+  "Gävleborg": {
+    "GAV": {
+      "name": "Gävleborg"
+    }
   },
-  "GOT": {
-    "name": "Gotland",
-    "regions": [
-      "Gotland"
-    ]
+  "Gotland": {
+    "GOT": {
+      "name": "Gotland"
+    }
   },
-  "HAL": {
-    "name": "Halland",
-    "regions": [
-      "Halland"
-    ]
+  "Halland": {
+    "HAL": {
+      "name": "Halland"
+    }
   },
-  "JON": {
-    "name": "Jönköping",
-    "regions": [
-      "Jönköping"
-    ]
+  "Jönköping": {
+    "JON": {
+      "name": "Jönköping"
+    }
   },
-  "KAL": {
-    "name": "Kalmar",
-    "regions": [
-      "Kalmar"
-    ]
+  "Kalmar": {
+    "KAL": {
+      "name": "Kalmar"
+    }
   },
-  "KRO": {
-    "name": "Kronoberg",
-    "regions": [
-      "Kronoberg"
-    ]
+  "Kronoberg": {
+    "KRO": {
+      "name": "Kronoberg"
+    }
   },
-  "NOR": {
-    "name": "Norrbotten",
-    "regions": [
-      "Norrbotten"
-    ]
+  "Norrbotten": {
+    "NOR": {
+      "name": "Norrbotten"
+    }
   },
-  "ORE": {
-    "name": "Örebro",
-    "regions": [
-      "Örebro"
-    ]
+  "Örebro": {
+    "ORE": {
+      "name": "Örebro"
+    }
   },
-  "OST": {
-    "name": "Östergötland",
-    "regions": [
-      "Östergötland"
-    ]
+  "Östergötland": {
+    "OST": {
+      "name": "Östergötland"
+    }
   },
-  "SKA": {
-    "name": "Skåne",
-    "regions": [
-      "Skåne"
-    ]
+  "Skåne": {
+    "SKA": {
+      "name": "Skåne"
+    }
   },
-  "SOD": {
-    "name": "Södermanland",
-    "regions": [
-      "Södermanland"
-    ]
+  "Södermanland": {
+    "SOD": {
+      "name": "Södermanland"
+    }
   },
-  "STO": {
-    "name": "Stockholm",
-    "regions": [
-      "Stockholm"
-    ]
+  "Stockholm": {
+    "STO": {
+      "name": "Stockholm"
+    }
   },
-  "UPP": {
-    "name": "Uppsala",
-    "regions": [
-      "Uppsala"
-    ]
+  "Uppsala": {
+    "UPP": {
+      "name": "Uppsala"
+    }
   },
-  "VAR": {
-    "name": "Värmland",
-    "regions": [
-      "Värmland"
-    ]
+  "Värmland": {
+    "VAR": {
+      "name": "Värmland"
+    }
   },
-  "VAS": {
-    "name": "Västernorrland",
-    "regions": [
-      "Västernorrland"
-    ]
+  "Västernorrland": {
+    "VAS": {
+      "name": "Västernorrland"
+    }
   },
-  "VASGO": {
-    "name": "Västra Götaland",
-    "regions": [
-      "Västra Götaland"
-    ]
+  "Västra Götaland": {
+    "VASGO": {
+      "name": "Västra Götaland"
+    }
   },
   "capital": "Stockholm",
   "currency_code": "SEK",

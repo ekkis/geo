@@ -1,171 +1,143 @@
 {
-  "BLA": {
-    "name": "Blagoevgrad",
-    "regions": [
-      "Blagoevgrad"
-    ]
+  "Blagoevgrad": {
+    "BLA": {
+      "name": "Blagoevgrad"
+    }
   },
-  "BUR": {
-    "name": "Burgas",
-    "regions": [
-      "Burgas"
-    ]
+  "Burgas": {
+    "BUR": {
+      "name": "Burgas"
+    }
   },
-  "DOB": {
-    "name": "Dobrich",
-    "regions": [
-      "Dobrich"
-    ]
+  "Dobrich": {
+    "DOB": {
+      "name": "Dobrich"
+    }
   },
-  "GAB": {
-    "name": "Gabrovo",
-    "regions": [
-      "Gabrovo"
-    ]
+  "Gabrovo": {
+    "GAB": {
+      "name": "Gabrovo"
+    }
   },
-  "HAS": {
-    "name": "Haskovo",
-    "regions": [
-      "Haskovo"
-    ]
+  "Haskovo": {
+    "HAS": {
+      "name": "Haskovo"
+    }
   },
-  "KAR": {
-    "name": "Kardzhali",
-    "regions": [
-      "Kardzhali"
-    ]
+  "Kardzhali": {
+    "KAR": {
+      "name": "Kardzhali"
+    }
   },
-  "KYU": {
-    "name": "Kyustendil",
-    "regions": [
-      "Kyustendil"
-    ]
+  "Kyustendil": {
+    "KYU": {
+      "name": "Kyustendil"
+    }
   },
-  "LOV": {
-    "name": "Lovech",
-    "regions": [
-      "Lovech"
-    ]
+  "Lovech": {
+    "LOV": {
+      "name": "Lovech"
+    }
   },
-  "MON": {
-    "name": "Montana",
-    "regions": [
-      "Montana"
-    ]
+  "Montana": {
+    "MON": {
+      "name": "Montana"
+    }
   },
-  "PAZ": {
-    "name": "Pazardzhik",
-    "regions": [
-      "Pazardzhik"
-    ]
+  "Pazardzhik": {
+    "PAZ": {
+      "name": "Pazardzhik"
+    }
   },
-  "PER": {
-    "name": "Pernik",
-    "regions": [
-      "Pernik"
-    ]
+  "Pernik": {
+    "PER": {
+      "name": "Pernik"
+    }
   },
-  "PLE": {
-    "name": "Pleven",
-    "regions": [
-      "Pleven"
-    ]
+  "Pleven": {
+    "PLE": {
+      "name": "Pleven"
+    }
   },
-  "PLO": {
-    "name": "Plovdiv",
-    "regions": [
-      "Plovdiv"
-    ]
+  "Plovdiv": {
+    "PLO": {
+      "name": "Plovdiv"
+    }
   },
-  "RAZ": {
-    "name": "Razgrad",
-    "regions": [
-      "Razgrad"
-    ]
+  "Razgrad": {
+    "RAZ": {
+      "name": "Razgrad"
+    }
   },
-  "RUS": {
-    "name": "Ruse",
-    "regions": [
-      "Ruse"
-    ]
+  "Ruse": {
+    "RUS": {
+      "name": "Ruse"
+    }
   },
-  "SHU": {
-    "name": "Shumen",
-    "regions": [
-      "Shumen"
-    ]
+  "Shumen": {
+    "SHU": {
+      "name": "Shumen"
+    }
   },
-  "SIL": {
-    "name": "Silistra",
-    "regions": [
-      "Silistra"
-    ]
+  "Silistra": {
+    "SIL": {
+      "name": "Silistra"
+    }
   },
-  "SLI": {
-    "name": "Sliven",
-    "regions": [
-      "Sliven"
-    ]
+  "Sliven": {
+    "SLI": {
+      "name": "Sliven"
+    }
   },
-  "SMO": {
-    "name": "Smolyan",
-    "regions": [
-      "Smolyan"
-    ]
+  "Smolyan": {
+    "SMO": {
+      "name": "Smolyan"
+    }
   },
-  "SOF": {
-    "name": "Sofia",
-    "regions": [
-      "Sofia"
-    ]
+  "Sofia": {
+    "SOF": {
+      "name": "Sofia"
+    }
   },
-  "SOFPR": {
-    "name": "Sofia Province",
-    "regions": [
-      "Sofia Province"
-    ]
+  "Sofia Province": {
+    "SOFPR": {
+      "name": "Sofia Province"
+    }
   },
-  "STAZA": {
-    "name": "Stara Zagora",
-    "regions": [
-      "Stara Zagora"
-    ]
+  "Stara Zagora": {
+    "STAZA": {
+      "name": "Stara Zagora"
+    }
   },
-  "TAR": {
-    "name": "Targovishte",
-    "regions": [
-      "Targovishte"
-    ]
+  "Targovishte": {
+    "TAR": {
+      "name": "Targovishte"
+    }
   },
-  "VAR": {
-    "name": "Varna",
-    "regions": [
-      "Varna"
-    ]
+  "Varna": {
+    "VAR": {
+      "name": "Varna"
+    }
   },
-  "VELTA": {
-    "name": "Veliko Tarnovo",
-    "regions": [
-      "Veliko Tarnovo"
-    ]
+  "Veliko Tarnovo": {
+    "VELTA": {
+      "name": "Veliko Tarnovo"
+    }
   },
-  "VID": {
-    "name": "Vidin",
-    "regions": [
-      "Vidin"
-    ]
+  "Vidin": {
+    "VID": {
+      "name": "Vidin"
+    }
   },
-  "VRA": {
-    "name": "Vratsa",
-    "regions": [
-      "Vratsa"
-    ]
+  "Vratsa": {
+    "VRA": {
+      "name": "Vratsa"
+    }
   },
-  "YAM": {
-    "name": "Yambol",
-    "regions": [
-      "Yambol"
-    ]
+  "Yambol": {
+    "YAM": {
+      "name": "Yambol"
+    }
   },
   "capital": "Sofia",
   "currency_code": "BGN",

@@ -1,28 +1,4 @@
 {
-  "AH": {
-    "name": "Akkar"
-  },
-  "BA": {
-    "name": "Beqaa"
-  },
-  "BH": {
-    "name": "Baalbek-Hermel"
-  },
-  "BT": {
-    "name": "Beirut"
-  },
-  "JK": {
-    "name": "Jabal Amil"
-  },
-  "JL": {
-    "name": "Jabal Amel"
-  },
-  "NL": {
-    "name": "North Lebanon"
-  },
-  "SA": {
-    "name": "South Lebanon"
-  },
   "capital": "Beirut",
   "currency_code": "LBP",
   "iso3": "LBN",

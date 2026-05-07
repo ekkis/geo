@@ -1,249 +1,208 @@
 {
-  "ALB": {
-    "name": "Alba",
-    "regions": [
-      "Alba"
-    ]
+  "Alba": {
+    "ALB": {
+      "name": "Alba"
+    }
   },
-  "ARA": {
-    "name": "Arad",
-    "regions": [
-      "Arad"
-    ]
+  "Arad": {
+    "ARA": {
+      "name": "Arad"
+    }
   },
-  "ARG": {
-    "name": "Argeș",
-    "regions": [
-      "Argeș"
-    ]
+  "Argeș": {
+    "ARG": {
+      "name": "Argeș"
+    }
   },
-  "BAC": {
-    "name": "Bacău",
-    "regions": [
-      "Bacău"
-    ]
+  "Bacău": {
+    "BAC": {
+      "name": "Bacău"
+    }
   },
-  "BIH": {
-    "name": "Bihor",
-    "regions": [
-      "Bihor"
-    ]
+  "Bihor": {
+    "BIH": {
+      "name": "Bihor"
+    }
   },
-  "BIS": {
-    "name": "Bistrița-Năsăud",
-    "regions": [
-      "Bistrița-Năsăud"
-    ]
+  "Bistrița-Năsăud": {
+    "BIS": {
+      "name": "Bistrița-Năsăud"
+    }
   },
-  "BOT": {
-    "name": "Botoșani",
-    "regions": [
-      "Botoșani"
-    ]
+  "Botoșani": {
+    "BOT": {
+      "name": "Botoșani"
+    }
   },
-  "BRA": {
-    "name": "Brașov",
-    "regions": [
-      "Brașov"
-    ]
+  "Brașov": {
+    "BRA": {
+      "name": "Brașov"
+    }
   },
-  "BRA1": {
-    "name": "Brăila",
-    "regions": [
-      "Brăila"
-    ]
+  "Brăila": {
+    "BRA1": {
+      "name": "Brăila"
+    }
   },
-  "BUZ": {
-    "name": "Buzău",
-    "regions": [
-      "Buzău"
-    ]
+  "Buzău": {
+    "BUZ": {
+      "name": "Buzău"
+    }
   },
-  "CAL": {
-    "name": "Călărași",
-    "regions": [
-      "Călărași"
-    ]
+  "Călărași": {
+    "CAL": {
+      "name": "Călărași"
+    }
   },
-  "CAR": {
-    "name": "Caraș-Severin",
-    "regions": [
-      "Caraș-Severin"
-    ]
+  "Caraș-Severin": {
+    "CAR": {
+      "name": "Caraș-Severin"
+    }
   },
-  "CLU": {
-    "name": "Cluj",
-    "regions": [
-      "Cluj"
-    ]
+  "Cluj": {
+    "CLU": {
+      "name": "Cluj"
+    }
   },
-  "CON": {
-    "name": "Constanța",
-    "regions": [
-      "Constanța"
-    ]
+  "Constanța": {
+    "CON": {
+      "name": "Constanța"
+    }
   },
-  "COV": {
-    "name": "Covasna",
-    "regions": [
-      "Covasna"
-    ]
+  "Covasna": {
+    "COV": {
+      "name": "Covasna"
+    }
   },
-  "DAM": {
-    "name": "Dâmbovița",
-    "regions": [
-      "Dâmbovița"
-    ]
+  "Dâmbovița": {
+    "DAM": {
+      "name": "Dâmbovița"
+    }
   },
-  "DOL": {
-    "name": "Dolj",
-    "regions": [
-      "Dolj"
-    ]
+  "Dolj": {
+    "DOL": {
+      "name": "Dolj"
+    }
   },
-  "GAL": {
-    "name": "Galați",
-    "regions": [
-      "Galați"
-    ]
+  "Galați": {
+    "GAL": {
+      "name": "Galați"
+    }
   },
-  "GIU": {
-    "name": "Giurgiu",
-    "regions": [
-      "Giurgiu"
-    ]
+  "Giurgiu": {
+    "GIU": {
+      "name": "Giurgiu"
+    }
   },
-  "GOR": {
-    "name": "Gorj",
-    "regions": [
-      "Gorj"
-    ]
+  "Gorj": {
+    "GOR": {
+      "name": "Gorj"
+    }
   },
-  "HAR": {
-    "name": "Harghita",
-    "regions": [
-      "Harghita"
-    ]
+  "Harghita": {
+    "HAR": {
+      "name": "Harghita"
+    }
   },
-  "HUN": {
-    "name": "Hunedoara",
-    "regions": [
-      "Hunedoara"
-    ]
+  "Hunedoara": {
+    "HUN": {
+      "name": "Hunedoara"
+    }
   },
-  "IAL": {
-    "name": "Ialomița",
-    "regions": [
-      "Ialomița"
-    ]
+  "Ialomița": {
+    "IAL": {
+      "name": "Ialomița"
+    }
   },
-  "IAS": {
-    "name": "Iași",
-    "regions": [
-      "Iași"
-    ]
+  "Iași": {
+    "IAS": {
+      "name": "Iași"
+    }
   },
-  "ILF": {
-    "name": "Ilfov",
-    "regions": [
-      "Ilfov"
-    ]
+  "Ilfov": {
+    "ILF": {
+      "name": "Ilfov"
+    }
   },
-  "MAR": {
-    "name": "Maramureș",
-    "regions": [
-      "Maramureș"
-    ]
+  "Maramureș": {
+    "MAR": {
+      "name": "Maramureș"
+    }
   },
-  "MEH": {
-    "name": "Mehedinți",
-    "regions": [
-      "Mehedinți"
-    ]
+  "Mehedinți": {
+    "MEH": {
+      "name": "Mehedinți"
+    }
   },
-  "MUR": {
-    "name": "Mureș",
-    "regions": [
-      "Mureș"
-    ]
+  "Mureș": {
+    "MUR": {
+      "name": "Mureș"
+    }
   },
-  "NEA": {
-    "name": "Neamț",
-    "regions": [
-      "Neamț"
-    ]
+  "Neamț": {
+    "NEA": {
+      "name": "Neamț"
+    }
   },
-  "OLT": {
-    "name": "Olt",
-    "regions": [
-      "Olt"
-    ]
+  "Olt": {
+    "OLT": {
+      "name": "Olt"
+    }
   },
-  "PRA": {
-    "name": "Prahova",
-    "regions": [
-      "Prahova"
-    ]
+  "Prahova": {
+    "PRA": {
+      "name": "Prahova"
+    }
   },
-  "SAL": {
-    "name": "Sălaj",
-    "regions": [
-      "Sălaj"
-    ]
+  "Sălaj": {
+    "SAL": {
+      "name": "Sălaj"
+    }
   },
-  "SATMA": {
-    "name": "Satu Mare",
-    "regions": [
-      "Satu Mare"
-    ]
+  "Satu Mare": {
+    "SATMA": {
+      "name": "Satu Mare"
+    }
   },
-  "SIB": {
-    "name": "Sibiu",
-    "regions": [
-      "Sibiu"
-    ]
+  "Sibiu": {
+    "SIB": {
+      "name": "Sibiu"
+    }
   },
-  "SUC": {
-    "name": "Suceava",
-    "regions": [
-      "Suceava"
-    ]
+  "Suceava": {
+    "SUC": {
+      "name": "Suceava"
+    }
   },
-  "TEL": {
-    "name": "Teleorman",
-    "regions": [
-      "Teleorman"
-    ]
+  "Teleorman": {
+    "TEL": {
+      "name": "Teleorman"
+    }
   },
-  "TIM": {
-    "name": "Timiș",
-    "regions": [
-      "Timiș"
-    ]
+  "Timiș": {
+    "TIM": {
+      "name": "Timiș"
+    }
   },
-  "TUL": {
-    "name": "Tulcea",
-    "regions": [
-      "Tulcea"
-    ]
+  "Tulcea": {
+    "TUL": {
+      "name": "Tulcea"
+    }
   },
-  "VAL": {
-    "name": "Vâlcea",
-    "regions": [
-      "Vâlcea"
-    ]
+  "Vâlcea": {
+    "VAL": {
+      "name": "Vâlcea"
+    }
   },
-  "VAS": {
-    "name": "Vaslui",
-    "regions": [
-      "Vaslui"
-    ]
+  "Vaslui": {
+    "VAS": {
+      "name": "Vaslui"
+    }
   },
-  "VRA": {
-    "name": "Vrancea",
-    "regions": [
-      "Vrancea"
-    ]
+  "Vrancea": {
+    "VRA": {
+      "name": "Vrancea"
+    }
   },
   "capital": "Bucharest",
   "currency_code": "RON",

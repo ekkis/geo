@@ -1,69 +1,58 @@
 {
-  "BAR": {
-    "name": "Bar",
-    "regions": [
-      "Bar"
-    ]
+  "Bar": {
+    "BAR": {
+      "name": "Bar"
+    }
   },
-  "BIJPO": {
-    "name": "Bijelo Polje",
-    "regions": [
-      "Bijelo Polje"
-    ]
+  "Bijelo Polje": {
+    "BIJPO": {
+      "name": "Bijelo Polje"
+    }
   },
-  "CET": {
-    "name": "Cetinje",
-    "regions": [
-      "Cetinje"
-    ]
+  "Cetinje": {
+    "CET": {
+      "name": "Cetinje"
+    }
   },
-  "DAN": {
-    "name": "Danilovgrad",
-    "regions": [
-      "Danilovgrad"
-    ]
+  "Danilovgrad": {
+    "DAN": {
+      "name": "Danilovgrad"
+    }
   },
-  "HERNO": {
-    "name": "Herceg Novi",
-    "regions": [
-      "Herceg Novi"
-    ]
+  "Herceg Novi": {
+    "HERNO": {
+      "name": "Herceg Novi"
+    }
   },
-  "NIK": {
-    "name": "Nikšić",
-    "regions": [
-      "Nikšić"
-    ]
+  "Nikšić": {
+    "NIK": {
+      "name": "Nikšić"
+    }
   },
-  "PLJ": {
-    "name": "Pljevlja",
-    "regions": [
-      "Pljevlja"
-    ]
+  "Pljevlja": {
+    "PLJ": {
+      "name": "Pljevlja"
+    }
   },
-  "POD": {
-    "name": "Podgorica",
-    "regions": [
-      "Podgorica"
-    ]
+  "Podgorica": {
+    "POD": {
+      "name": "Podgorica"
+    }
   },
-  "ROZ": {
-    "name": "Rožaje",
-    "regions": [
-      "Rožaje"
-    ]
+  "Rožaje": {
+    "ROZ": {
+      "name": "Rožaje"
+    }
   },
-  "SAV": {
-    "name": "Šavnik",
-    "regions": [
-      "Šavnik"
-    ]
+  "Šavnik": {
+    "SAV": {
+      "name": "Šavnik"
+    }
   },
-  "ULC": {
-    "name": "Ulcinj",
-    "regions": [
-      "Ulcinj"
-    ]
+  "Ulcinj": {
+    "ULC": {
+      "name": "Ulcinj"
+    }
   },
   "capital": "Podgorica",
   "currency_code": "EUR",

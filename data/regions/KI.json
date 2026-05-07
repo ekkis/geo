@@ -1,13 +1,4 @@
 {
-  "GIL": {
-    "name": "Gilbert Islands"
-  },
-  "LIN": {
-    "name": "Line Islands"
-  },
-  "PHO": {
-    "name": "Phoenix Islands"
-  },
   "capital": "Tarawa",
   "currency_code": "AUD",
   "iso3": "KIR",

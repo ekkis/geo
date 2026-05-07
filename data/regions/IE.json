@@ -1,27 +1,23 @@
 {
-  "CON": {
-    "name": "Connacht",
-    "regions": [
-      "Connacht"
-    ]
+  "Connacht": {
+    "CON": {
+      "name": "Connacht"
+    }
   },
-  "LEI": {
-    "name": "Leinster",
-    "regions": [
-      "Leinster"
-    ]
+  "Leinster": {
+    "LEI": {
+      "name": "Leinster"
+    }
   },
-  "MUN": {
-    "name": "Munster",
-    "regions": [
-      "Munster"
-    ]
+  "Munster": {
+    "MUN": {
+      "name": "Munster"
+    }
   },
-  "ULS": {
-    "name": "Ulster",
-    "regions": [
-      "Ulster"
-    ]
+  "Ulster": {
+    "ULS": {
+      "name": "Ulster"
+    }
   },
   "capital": "Dublin",
   "currency_code": "EUR",

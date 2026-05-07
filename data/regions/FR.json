@@ -1,111 +1,93 @@
 {
-  "AUV": {
-    "name": "Auvergne-Rhône-Alpes",
-    "regions": [
-      "Auvergne-Rhône-Alpes"
-    ]
+  "Auvergne-Rhône-Alpes": {
+    "AUV": {
+      "name": "Auvergne-Rhône-Alpes"
+    }
   },
-  "BOU": {
-    "name": "Bourgogne-Franche-Comté",
-    "regions": [
-      "Bourgogne-Franche-Comté"
-    ]
+  "Bourgogne-Franche-Comté": {
+    "BOU": {
+      "name": "Bourgogne-Franche-Comté"
+    }
   },
-  "BRI": {
-    "name": "Brittany",
-    "regions": [
-      "Brittany"
-    ]
+  "Brittany": {
+    "BRI": {
+      "name": "Brittany"
+    }
   },
-  "CENDE": {
-    "name": "Centre-Val de Loire",
-    "regions": [
-      "Centre-Val de Loire"
-    ]
+  "Centre-Val de Loire": {
+    "CENDE": {
+      "name": "Centre-Val de Loire"
+    }
   },
-  "COR": {
-    "name": "Corsica",
-    "regions": [
-      "Corsica"
-    ]
+  "Corsica": {
+    "COR": {
+      "name": "Corsica"
+    }
   },
-  "FREGU": {
-    "name": "French Guiana",
-    "regions": [
-      "French Guiana"
-    ]
+  "French Guiana": {
+    "FREGU": {
+      "name": "French Guiana"
+    }
   },
-  "GRAES": {
-    "name": "Grand Est",
-    "regions": [
-      "Grand Est"
-    ]
+  "Grand Est": {
+    "GRAES": {
+      "name": "Grand Est"
+    }
   },
-  "GUA": {
-    "name": "Guadeloupe",
-    "regions": [
-      "Guadeloupe"
-    ]
+  "Guadeloupe": {
+    "GUA": {
+      "name": "Guadeloupe"
+    }
   },
-  "HAU": {
-    "name": "Hauts-de-France",
-    "regions": [
-      "Hauts-de-France"
-    ]
+  "Hauts-de-France": {
+    "HAU": {
+      "name": "Hauts-de-France"
+    }
   },
-  "ILE": {
-    "name": "Île-de-France",
-    "regions": [
-      "Île-de-France"
-    ]
+  "Île-de-France": {
+    "ILE": {
+      "name": "Île-de-France"
+    }
   },
-  "MAR": {
-    "name": "Martinique",
-    "regions": [
-      "Martinique"
-    ]
+  "Martinique": {
+    "MAR": {
+      "name": "Martinique"
+    }
   },
-  "MAY": {
-    "name": "Mayotte",
-    "regions": [
-      "Mayotte"
-    ]
+  "Mayotte": {
+    "MAY": {
+      "name": "Mayotte"
+    }
   },
-  "NOR": {
-    "name": "Normandy",
-    "regions": [
-      "Normandy"
-    ]
+  "Normandy": {
+    "NOR": {
+      "name": "Normandy"
+    }
   },
-  "NOU": {
-    "name": "Nouvelle-Aquitaine",
-    "regions": [
-      "Nouvelle-Aquitaine"
-    ]
+  "Nouvelle-Aquitaine": {
+    "NOU": {
+      "name": "Nouvelle-Aquitaine"
+    }
   },
-  "OCC": {
-    "name": "Occitanie",
-    "regions": [
-      "Occitanie"
-    ]
+  "Occitanie": {
+    "OCC": {
+      "name": "Occitanie"
+    }
   },
-  "PAYDE": {
-    "name": "Pays de la Loire",
-    "regions": [
-      "Pays de la Loire"
-    ]
+  "Pays de la Loire": {
+    "PAYDE": {
+      "name": "Pays de la Loire"
+    }
   },
-  "PROD'": {
-    "name": "Provence-Alpes-Côte d'Azur",
-    "regions": [
-      "Provence-Alpes-Côte d'Azur"
-    ]
+  "Provence-Alpes-Côte d'Azur": {
+    "PROD'": {
+      "name": "Provence-Alpes-Côte d'Azur"
+    }
   },
-  "REU": {
-    "name": "Réunion",
-    "regions": [
-      "Réunion"
-    ]
+  "Réunion": {
+    "REU": {
+      "name": "Réunion"
+    }
   },
   "capital": "Paris",
   "currency_code": "EUR",

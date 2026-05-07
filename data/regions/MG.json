@@ -1,19 +1,4 @@
 {
-  "FF": {
-    "name": "Antananarivo"
-  },
-  "MA": {
-    "name": "Antsirabe"
-  },
-  "ME": {
-    "name": "Toliara"
-  },
-  "TB": {
-    "name": "Taolagnaro"
-  },
-  "TM": {
-    "name": "Tamatave"
-  },
   "capital": "Antananarivo",
   "currency_code": "MGA",
   "iso3": "MDG",

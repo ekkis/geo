@@ -1,46 +1,4 @@
 {
-  "BA": {
-    "name": "Bagmati"
-  },
-  "BH": {
-    "name": "Bheri"
-  },
-  "DH": {
-    "name": "Dhawalagiri"
-  },
-  "GA": {
-    "name": "Gandaki"
-  },
-  "JA": {
-    "name": "Janakpur"
-  },
-  "KA": {
-    "name": "Karnali"
-  },
-  "KO": {
-    "name": "Kosi"
-  },
-  "LU": {
-    "name": "Lumbini"
-  },
-  "MA": {
-    "name": "Mahakali"
-  },
-  "ME": {
-    "name": "Mechi"
-  },
-  "NA": {
-    "name": "Narayani"
-  },
-  "RA": {
-    "name": "Rapti"
-  },
-  "SA": {
-    "name": "Sagarmatha"
-  },
-  "SE": {
-    "name": "Seti"
-  },
   "capital": "Kathmandu",
   "currency_code": "NPR",
   "iso3": "NPL",

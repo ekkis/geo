@@ -1,40 +1,4 @@
 {
-  "AK": {
-    "name": "Atakora"
-  },
-  "AL": {
-    "name": "Alibori"
-  },
-  "AQ": {
-    "name": "Atlantique"
-  },
-  "BO": {
-    "name": "Borgou"
-  },
-  "CO": {
-    "name": "Collines"
-  },
-  "DO": {
-    "name": "Donga"
-  },
-  "KO": {
-    "name": "Kouffo"
-  },
-  "LI": {
-    "name": "Littoral"
-  },
-  "MO": {
-    "name": "Mono"
-  },
-  "OU": {
-    "name": "Ouémé"
-  },
-  "PL": {
-    "name": "Plateau"
-  },
-  "ZO": {
-    "name": "Zou"
-  },
   "capital": "Porto-Novo",
   "currency_code": "XOF",
   "iso3": "BEN",

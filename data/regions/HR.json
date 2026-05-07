@@ -1,129 +1,102 @@
 {
-  "BJE": {
-    "name": "Bjelovar-Bilogora",
-    "regions": [
-      "Bjelovar-Bilogora"
-    ]
+  "Bjelovar-Bilogora": {
+    "BJE": {
+      "name": "Bjelovar-Bilogora"
+    }
   },
-  "BRO": {
-    "name": " Brod-Posavina",
-    "regions": [
-      " Brod-Posavina"
-    ]
+  " Brod-Posavina": {
+    "BRO": {
+      "name": " Brod-Posavina"
+    }
   },
-  "DUB": {
-    "name": "Dubrovnik-Neretva",
-    "regions": [
-      "Dubrovnik-Neretva"
-    ]
+  "Dubrovnik-Neretva": {
+    "DUB": {
+      "name": "Dubrovnik-Neretva"
+    },
+    "DUB1": {
+      "name": "Dubrovnik-Neretva"
+    }
   },
-  "DUB1": {
-    "name": "Dubrovnik-Neretva",
-    "regions": [
-      "Dubrovnik-Neretva"
-    ]
+  "Istria": {
+    "IST": {
+      "name": "Istria"
+    }
   },
-  "IST": {
-    "name": "Istria",
-    "regions": [
-      "Istria"
-    ]
+  "Koprivnica-Križevci": {
+    "KOP": {
+      "name": "Koprivnica-Križevci"
+    }
   },
-  "KOP": {
-    "name": "Koprivnica-Križevci",
-    "regions": [
-      "Koprivnica-Križevci"
-    ]
+  "Krapina-Zagorje": {
+    "KRA": {
+      "name": "Krapina-Zagorje"
+    }
   },
-  "KRA": {
-    "name": "Krapina-Zagorje",
-    "regions": [
-      "Krapina-Zagorje"
-    ]
+  "Lika-Senj": {
+    "LIK": {
+      "name": "Lika-Senj"
+    }
   },
-  "LIK": {
-    "name": "Lika-Senj",
-    "regions": [
-      "Lika-Senj"
-    ]
+  "Međimurje": {
+    "MEI": {
+      "name": "Međimurje"
+    }
   },
-  "MEI": {
-    "name": "Međimurje",
-    "regions": [
-      "Međimurje"
-    ]
+  "Osijek-Baranja": {
+    "OSI": {
+      "name": "Osijek-Baranja"
+    }
   },
-  "OSI": {
-    "name": "Osijek-Baranja",
-    "regions": [
-      "Osijek-Baranja"
-    ]
+  "Požega-Slavonia": {
+    "POZ": {
+      "name": "Požega-Slavonia"
+    },
+    "POZ1": {
+      "name": "Požega-Slavonia"
+    }
   },
-  "POZ": {
-    "name": "Požega-Slavonia",
-    "regions": [
-      "Požega-Slavonia"
-    ]
+  "Primorje-Gorski Kotar": {
+    "PRIKO": {
+      "name": "Primorje-Gorski Kotar"
+    }
   },
-  "POZ1": {
-    "name": "Požega-Slavonia",
-    "regions": [
-      "Požega-Slavonia"
-    ]
+  "Šibenik-Knin": {
+    "SIB": {
+      "name": "Šibenik-Knin"
+    }
   },
-  "PRIKO": {
-    "name": "Primorje-Gorski Kotar",
-    "regions": [
-      "Primorje-Gorski Kotar"
-    ]
+  "Sisak-Moslavina": {
+    "SIS": {
+      "name": "Sisak-Moslavina"
+    }
   },
-  "SIB": {
-    "name": "Šibenik-Knin",
-    "regions": [
-      "Šibenik-Knin"
-    ]
+  "Split-Dalmatia": {
+    "SPL": {
+      "name": "Split-Dalmatia"
+    }
   },
-  "SIS": {
-    "name": "Sisak-Moslavina",
-    "regions": [
-      "Sisak-Moslavina"
-    ]
+  "Virovitica-Podravina": {
+    "VIR": {
+      "name": "Virovitica-Podravina"
+    },
+    "VIR1": {
+      "name": "Virovitica-Podravina"
+    }
   },
-  "SPL": {
-    "name": "Split-Dalmatia",
-    "regions": [
-      "Split-Dalmatia"
-    ]
+  "Vukovar-Srijem": {
+    "VUK": {
+      "name": "Vukovar-Srijem"
+    }
   },
-  "VIR": {
-    "name": "Virovitica-Podravina",
-    "regions": [
-      "Virovitica-Podravina"
-    ]
+  "Zadar": {
+    "ZAD": {
+      "name": "Zadar"
+    }
   },
-  "VIR1": {
-    "name": "Virovitica-Podravina",
-    "regions": [
-      "Virovitica-Podravina"
-    ]
-  },
-  "VUK": {
-    "name": "Vukovar-Srijem",
-    "regions": [
-      "Vukovar-Srijem"
-    ]
-  },
-  "ZAD": {
-    "name": "Zadar",
-    "regions": [
-      "Zadar"
-    ]
-  },
-  "ZAG": {
-    "name": "Zagreb",
-    "regions": [
-      "Zagreb"
-    ]
+  "Zagreb": {
+    "ZAG": {
+      "name": "Zagreb"
+    }
   },
   "capital": "Zagreb",
   "currency_code": "HRK",

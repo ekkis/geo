@@ -1,279 +1,171 @@
 {
-  "ALB": {
-    "name": "Albacete",
-    "regions": [
-      "Castile-La Mancha"
-    ]
+  "Castile-La Mancha": {
+    "ALB": {
+      "name": "Albacete"
+    },
+    "CR": {
+      "name": "Ciudad Real"
+    },
+    "CUE": {
+      "name": "Cuenca"
+    },
+    "GUA": {
+      "name": "Guadalajara"
+    },
+    "TOL": {
+      "name": "Toledo"
+    }
   },
-  "ALI": {
-    "name": "Alicante",
-    "regions": [
-      "Valencian Community"
-    ]
+  "Valencian Community": {
+    "ALI": {
+      "name": "Alicante"
+    },
+    "CAS": {
+      "name": "Castellón"
+    }
   },
-  "ALM": {
-    "name": "Almeria",
-    "regions": [
-      "Andalusia"
-    ]
+  "Andalusia": {
+    "ALM": {
+      "name": "Almeria"
+    },
+    "CÁD": {
+      "name": "Cádiz"
+    },
+    "CÓR": {
+      "name": "Córdoba"
+    },
+    "GRA": {
+      "name": "Granada"
+    },
+    "HUE": {
+      "name": "Huelva"
+    },
+    "JAÉ": {
+      "name": "Jaén"
+    },
+    "MÁL": {
+      "name": "Málaga"
+    },
+    "SEV": {
+      "name": "Sevilla"
+    }
   },
-  "AST": {
-    "name": "Asturias",
-    "regions": [
-      "Asturias"
-    ]
+  "Asturias": {
+    "AST": {
+      "name": "Asturias"
+    }
   },
-  "BAD": {
-    "name": "Badajoz",
-    "regions": [
-      "Extremadura"
-    ]
+  "Extremadura": {
+    "BAD": {
+      "name": "Badajoz"
+    },
+    "CÁC": {
+      "name": "Cáceres"
+    }
   },
-  "BAL": {
-    "name": "Baleares",
-    "regions": [
-      "Balearic Islands"
-    ]
+  "Balearic Islands": {
+    "BAL": {
+      "name": "Baleares"
+    }
   },
-  "BAR": {
-    "name": "Barcelona",
-    "regions": [
-      "Catalonia"
-    ]
+  "Catalonia": {
+    "BAR": {
+      "name": "Barcelona"
+    },
+    "GER": {
+      "name": "Gerona"
+    },
+    "LÉR": {
+      "name": "Lérida"
+    },
+    "TAR": {
+      "name": "Tarragona"
+    }
   },
-  "BUR": {
-    "name": "Burgos",
-    "regions": [
-      "Castile and León"
-    ]
+  "Castile and León": {
+    "BUR": {
+      "name": "Burgos"
+    },
+    "LEÓ": {
+      "name": "León"
+    },
+    "PAL": {
+      "name": "Palencia"
+    },
+    "SAL": {
+      "name": "Salamanca"
+    },
+    "SEG": {
+      "name": "Segovia"
+    },
+    "SOR": {
+      "name": "Soria"
+    },
+    "VAL": {
+      "name": "Valladolid"
+    },
+    "ZAM": {
+      "name": "Zamora"
+    },
+    "ÁVI": {
+      "name": "Ávila"
+    }
   },
-  "CAS": {
-    "name": "Castellón",
-    "regions": [
-      "Valencian Community"
-    ]
+  "Basque Country": {
+    "GUI": {
+      "name": "Guipúzcoa"
+    },
+    "VIZ": {
+      "name": "Vizcaya"
+    },
+    "ÁLA": {
+      "name": "Álava"
+    }
   },
-  "CR": {
-    "name": "Ciudad Real",
-    "regions": [
-      "Castile-La Mancha"
-    ]
+  "Galicia": {
+    "LC": {
+      "name": "La Coruña"
+    },
+    "LUG": {
+      "name": "Lugo"
+    },
+    "ORE": {
+      "name": "Orense"
+    },
+    "PON": {
+      "name": "Pontevedra"
+    }
   },
-  "CUE": {
-    "name": "Cuenca",
-    "regions": [
-      "Castile-La Mancha"
-    ]
+  "Canary Islands": {
+    "LP": {
+      "name": "Las Palmas"
+    },
+    "TEN": {
+      "name": "Tenerife"
+    }
   },
-  "CÁC": {
-    "name": "Cáceres",
-    "regions": [
-      "Extremadura"
-    ]
+  "La Rioja": {
+    "LR": {
+      "name": "La Rioja"
+    }
   },
-  "CÁD": {
-    "name": "Cádiz",
-    "regions": [
-      "Andalusia"
-    ]
+  "Madrid": {
+    "MAD": {
+      "name": "Madrid"
+    }
   },
-  "CÓR": {
-    "name": "Córdoba",
-    "regions": [
-      "Andalusia"
-    ]
+  "Murcia": {
+    "MUR": {
+      "name": "Murcia"
+    }
   },
-  "GER": {
-    "name": "Gerona",
-    "regions": [
-      "Catalonia"
-    ]
-  },
-  "GRA": {
-    "name": "Granada",
-    "regions": [
-      "Andalusia"
-    ]
-  },
-  "GUA": {
-    "name": "Guadalajara",
-    "regions": [
-      "Castile-La Mancha"
-    ]
-  },
-  "GUI": {
-    "name": "Guipúzcoa",
-    "regions": [
-      "Basque Country"
-    ]
-  },
-  "HUE": {
-    "name": "Huelva",
-    "regions": [
-      "Andalusia"
-    ]
-  },
-  "JAÉ": {
-    "name": "Jaén",
-    "regions": [
-      "Andalusia"
-    ]
-  },
-  "LC": {
-    "name": "La Coruña",
-    "regions": [
-      "Galicia"
-    ]
-  },
-  "LEÓ": {
-    "name": "León",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "LP": {
-    "name": "Las Palmas",
-    "regions": [
-      "Canary Islands"
-    ]
-  },
-  "LR": {
-    "name": "La Rioja",
-    "regions": [
-      "La Rioja"
-    ]
-  },
-  "LUG": {
-    "name": "Lugo",
-    "regions": [
-      "Galicia"
-    ]
-  },
-  "LÉR": {
-    "name": "Lérida",
-    "regions": [
-      "Catalonia"
-    ]
-  },
-  "MAD": {
-    "name": "Madrid",
-    "regions": [
-      "Madrid"
-    ]
-  },
-  "MUR": {
-    "name": "Murcia",
-    "regions": [
-      "Murcia"
-    ]
-  },
-  "MÁL": {
-    "name": "Málaga",
-    "regions": [
-      "Andalusia"
-    ]
-  },
-  "ORE": {
-    "name": "Orense",
-    "regions": [
-      "Galicia"
-    ]
-  },
-  "PAL": {
-    "name": "Palencia",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "PON": {
-    "name": "Pontevedra",
-    "regions": [
-      "Galicia"
-    ]
-  },
-  "SAL": {
-    "name": "Salamanca",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "SEG": {
-    "name": "Segovia",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "SEV": {
-    "name": "Sevilla",
-    "regions": [
-      "Andalusia"
-    ]
-  },
-  "SOR": {
-    "name": "Soria",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "TAR": {
-    "name": "Tarragona",
-    "regions": [
-      "Catalonia"
-    ]
-  },
-  "TEN": {
-    "name": "Tenerife",
-    "regions": [
-      "Canary Islands"
-    ]
-  },
-  "TER": {
-    "name": "Teruel",
-    "regions": [
-      "Aragon"
-    ]
-  },
-  "TOL": {
-    "name": "Toledo",
-    "regions": [
-      "Castile-La Mancha"
-    ]
-  },
-  "VAL": {
-    "name": "Valladolid",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "VIZ": {
-    "name": "Vizcaya",
-    "regions": [
-      "Basque Country"
-    ]
-  },
-  "ZAM": {
-    "name": "Zamora",
-    "regions": [
-      "Castile and León"
-    ]
-  },
-  "ZAR": {
-    "name": "Zaragoza",
-    "regions": [
-      "Aragon"
-    ]
-  },
-  "ÁLA": {
-    "name": "Álava",
-    "regions": [
-      "Basque Country"
-    ]
-  },
-  "ÁVI": {
-    "name": "Ávila",
-    "regions": [
-      "Castile and León"
-    ]
+  "Aragon": {
+    "TER": {
+      "name": "Teruel"
+    },
+    "ZAR": {
+      "name": "Zaragoza"
+    }
   },
   "capital": "Madrid",
   "currency_code": "EUR",

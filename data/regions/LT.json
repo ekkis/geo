@@ -1,63 +1,53 @@
 {
-  "ALY": {
-    "name": "Alytus",
-    "regions": [
-      "Alytus"
-    ]
+  "Alytus": {
+    "ALY": {
+      "name": "Alytus"
+    }
   },
-  "KAU": {
-    "name": "Kaunas",
-    "regions": [
-      "Kaunas"
-    ]
+  "Kaunas": {
+    "KAU": {
+      "name": "Kaunas"
+    }
   },
-  "KLA": {
-    "name": "Klaipėda",
-    "regions": [
-      "Klaipėda"
-    ]
+  "Klaipėda": {
+    "KLA": {
+      "name": "Klaipėda"
+    }
   },
-  "MAR": {
-    "name": "Marijampolė",
-    "regions": [
-      "Marijampolė"
-    ]
+  "Marijampolė": {
+    "MAR": {
+      "name": "Marijampolė"
+    }
   },
-  "PAN": {
-    "name": "Panevėžys",
-    "regions": [
-      "Panevėžys"
-    ]
+  "Panevėžys": {
+    "PAN": {
+      "name": "Panevėžys"
+    }
   },
-  "SIA": {
-    "name": "Šiauliai",
-    "regions": [
-      "Šiauliai"
-    ]
+  "Šiauliai": {
+    "SIA": {
+      "name": "Šiauliai"
+    }
   },
-  "TAU": {
-    "name": "Tauragė",
-    "regions": [
-      "Tauragė"
-    ]
+  "Tauragė": {
+    "TAU": {
+      "name": "Tauragė"
+    }
   },
-  "TEL": {
-    "name": "Telšiai",
-    "regions": [
-      "Telšiai"
-    ]
+  "Telšiai": {
+    "TEL": {
+      "name": "Telšiai"
+    }
   },
-  "UTE": {
-    "name": "Utena",
-    "regions": [
-      "Utena"
-    ]
+  "Utena": {
+    "UTE": {
+      "name": "Utena"
+    }
   },
-  "VIL": {
-    "name": "Vilnius",
-    "regions": [
-      "Vilnius"
-    ]
+  "Vilnius": {
+    "VIL": {
+      "name": "Vilnius"
+    }
   },
   "capital": "Vilnius",
   "currency_code": "LTL",

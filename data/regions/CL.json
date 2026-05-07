@@ -1,303 +1,155 @@
 {
-  "AC": {
-    "name": "Antártica Chilena",
-    "regions": [
-      "CL"
-    ]
-  },
-  "AIS": {
-    "name": "Aisén",
-    "regions": [
-      "CL"
-    ]
-  },
-  "ANT": {
-    "name": "Antofagasta",
-    "regions": [
-      "CL"
-    ]
-  },
-  "ARA": {
-    "name": "Arauco",
-    "regions": [
-      "CL"
-    ]
-  },
-  "ARI": {
-    "name": "Arica",
-    "regions": [
-      "CL"
-    ]
-  },
-  "BIO": {
-    "name": "Biobío",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CAC": {
-    "name": "Cachapoal",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CAU": {
-    "name": "Cautin",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CC": {
-    "name": "Cardenal Caro",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CHA": {
-    "name": "Chacabuco",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CHI": {
-    "name": "Chiloe",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CHO": {
-    "name": "Choapa",
-    "regions": [
-      "CL"
-    ]
-  },
-  "COI": {
-    "name": "Coihaique",
-    "regions": [
-      "CL"
-    ]
-  },
-  "COL": {
-    "name": "Colchagua",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CON": {
-    "name": "Concepción",
-    "regions": [
-      "CL"
-    ]
-  },
-  "COP": {
-    "name": "Copiapó",
-    "regions": [
-      "CL"
-    ]
-  },
-  "COR": {
-    "name": "Cordillera",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CP": {
-    "name": "Capitan Prat",
-    "regions": [
-      "CL"
-    ]
-  },
-  "CUR": {
-    "name": "Curicó",
-    "regions": [
-      "CL"
-    ]
-  },
-  "EL": {
-    "name": "El Loa",
-    "regions": [
-      "CL"
-    ]
-  },
-  "ELQ": {
-    "name": "Elqui",
-    "regions": [
-      "CL"
-    ]
-  },
-  "GC": {
-    "name": "General Carrera",
-    "regions": [
-      "CL"
-    ]
-  },
-  "HUA": {
-    "name": "Huasco",
-    "regions": [
-      "CL"
-    ]
-  },
-  "ID": {
-    "name": "Isla de Pascua",
-    "regions": [
-      "CL"
-    ]
-  },
-  "IQU": {
-    "name": "Iquique",
-    "regions": [
-      "CL"
-    ]
-  },
-  "LA": {
-    "name": "Los Andes",
-    "regions": [
-      "CL"
-    ]
-  },
-  "LIM": {
-    "name": "Limarí",
-    "regions": [
-      "CL"
-    ]
-  },
-  "LIN": {
-    "name": "Linares",
-    "regions": [
-      "CL"
-    ]
-  },
-  "LLA": {
-    "name": "Llanquihue",
-    "regions": [
-      "CL"
-    ]
-  },
-  "MAG": {
-    "name": "Magallanes",
-    "regions": [
-      "CL"
-    ]
-  },
-  "MAI": {
-    "name": "Maipo",
-    "regions": [
-      "CL"
-    ]
-  },
-  "MAL": {
-    "name": "Malleco",
-    "regions": [
-      "CL"
-    ]
-  },
-  "MEL": {
-    "name": "Melipilla",
-    "regions": [
-      "CL"
-    ]
-  },
-  "MM": {
-    "name": "Marga Marga",
-    "regions": [
-      "CL"
-    ]
-  },
-  "OSO": {
-    "name": "Osorno",
-    "regions": [
-      "CL"
-    ]
-  },
-  "PAL": {
-    "name": "Palena",
-    "regions": [
-      "CL"
-    ]
-  },
-  "PAR": {
-    "name": "Parinacota",
-    "regions": [
-      "CL"
-    ]
-  },
-  "PET": {
-    "name": "Petorca",
-    "regions": [
-      "CL"
-    ]
-  },
-  "QUI": {
-    "name": "Quillota",
-    "regions": [
-      "CL"
-    ]
-  },
-  "RAN": {
-    "name": "Ranco",
-    "regions": [
-      "CL"
-    ]
-  },
-  "SA": {
-    "name": "San Antonio",
-    "regions": [
-      "CL"
-    ]
-  },
-  "SAN": {
-    "name": "Santiago",
-    "regions": [
-      "CL"
-    ]
-  },
-  "SF": {
-    "name": "San Felipe de Aconcagua",
-    "regions": [
-      "CL"
-    ]
-  },
-  "TAL": {
-    "name": "Talagante",
-    "regions": [
-      "CL"
-    ]
-  },
-  "TAM": {
-    "name": "Tamarugal",
-    "regions": [
-      "CL"
-    ]
-  },
-  "TD": {
-    "name": "Tierra del Fuego",
-    "regions": [
-      "CL"
-    ]
-  },
-  "TOC": {
-    "name": "Tocopilla",
-    "regions": [
-      "CL"
-    ]
-  },
-  "UE": {
-    "name": "Ultima Esperanza",
-    "regions": [
-      "CL"
-    ]
-  },
-  "VAL": {
-    "name": "Valdivia",
-    "regions": [
-      "CL"
-    ]
-  },
-  "ÑUB": {
-    "name": "Ñuble",
-    "regions": [
-      "CL"
-    ]
+  "CL": {
+    "AC": {
+      "name": "Antártica Chilena"
+    },
+    "AIS": {
+      "name": "Aisén"
+    },
+    "ANT": {
+      "name": "Antofagasta"
+    },
+    "ARA": {
+      "name": "Arauco"
+    },
+    "ARI": {
+      "name": "Arica"
+    },
+    "BIO": {
+      "name": "Biobío"
+    },
+    "CAC": {
+      "name": "Cachapoal"
+    },
+    "CAU": {
+      "name": "Cautin"
+    },
+    "CC": {
+      "name": "Cardenal Caro"
+    },
+    "CHA": {
+      "name": "Chacabuco"
+    },
+    "CHI": {
+      "name": "Chiloe"
+    },
+    "CHO": {
+      "name": "Choapa"
+    },
+    "COI": {
+      "name": "Coihaique"
+    },
+    "COL": {
+      "name": "Colchagua"
+    },
+    "CON": {
+      "name": "Concepción"
+    },
+    "COP": {
+      "name": "Copiapó"
+    },
+    "COR": {
+      "name": "Cordillera"
+    },
+    "CP": {
+      "name": "Capitan Prat"
+    },
+    "CUR": {
+      "name": "Curicó"
+    },
+    "EL": {
+      "name": "El Loa"
+    },
+    "ELQ": {
+      "name": "Elqui"
+    },
+    "GC": {
+      "name": "General Carrera"
+    },
+    "HUA": {
+      "name": "Huasco"
+    },
+    "ID": {
+      "name": "Isla de Pascua"
+    },
+    "IQU": {
+      "name": "Iquique"
+    },
+    "LA": {
+      "name": "Los Andes"
+    },
+    "LIM": {
+      "name": "Limarí"
+    },
+    "LIN": {
+      "name": "Linares"
+    },
+    "LLA": {
+      "name": "Llanquihue"
+    },
+    "MAG": {
+      "name": "Magallanes"
+    },
+    "MAI": {
+      "name": "Maipo"
+    },
+    "MAL": {
+      "name": "Malleco"
+    },
+    "MEL": {
+      "name": "Melipilla"
+    },
+    "MM": {
+      "name": "Marga Marga"
+    },
+    "OSO": {
+      "name": "Osorno"
+    },
+    "PAL": {
+      "name": "Palena"
+    },
+    "PAR": {
+      "name": "Parinacota"
+    },
+    "PET": {
+      "name": "Petorca"
+    },
+    "QUI": {
+      "name": "Quillota"
+    },
+    "RAN": {
+      "name": "Ranco"
+    },
+    "SA": {
+      "name": "San Antonio"
+    },
+    "SAN": {
+      "name": "Santiago"
+    },
+    "SF": {
+      "name": "San Felipe de Aconcagua"
+    },
+    "TAL": {
+      "name": "Talagante"
+    },
+    "TAM": {
+      "name": "Tamarugal"
+    },
+    "TD": {
+      "name": "Tierra del Fuego"
+    },
+    "TOC": {
+      "name": "Tocopilla"
+    },
+    "UE": {
+      "name": "Ultima Esperanza"
+    },
+    "VAL": {
+      "name": "Valdivia"
+    },
+    "ÑUB": {
+      "name": "Ñuble"
+    }
   },
   "capital": "Santiago",
   "currency_code": "CLP",

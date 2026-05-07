@@ -1,87 +1,58 @@
 {
-  "ARU": {
-    "name": "Aruba"
+  "Drenthe": {
+    "DRE": {
+      "name": "Drenthe"
+    }
   },
-  "BON": {
-    "name": "Bonaire"
+  "Flevoland": {
+    "FLE": {
+      "name": "Flevoland"
+    }
   },
-  "CUR": {
-    "name": "Curaçao"
+  "Friesland": {
+    "FRI": {
+      "name": "Friesland"
+    }
   },
-  "DRE": {
-    "name": "Drenthe",
-    "regions": [
-      "Drenthe"
-    ]
+  "Gelderland": {
+    "GEL": {
+      "name": "Gelderland"
+    }
   },
-  "FLE": {
-    "name": "Flevoland",
-    "regions": [
-      "Flevoland"
-    ]
+  "Groningen": {
+    "GRO": {
+      "name": "Groningen"
+    }
   },
-  "FRI": {
-    "name": "Friesland",
-    "regions": [
-      "Friesland"
-    ]
+  "Limburg": {
+    "LIM": {
+      "name": "Limburg"
+    }
   },
-  "GEL": {
-    "name": "Gelderland",
-    "regions": [
-      "Gelderland"
-    ]
+  "Noord-Holland": {
+    "NOO": {
+      "name": "Noord-Holland"
+    }
   },
-  "GRO": {
-    "name": "Groningen",
-    "regions": [
-      "Groningen"
-    ]
+  "Overijssel": {
+    "OVE": {
+      "name": "Overijssel"
+    }
   },
-  "LIM": {
-    "name": "Limburg",
-    "regions": [
-      "Limburg"
-    ]
+  "Utrecht": {
+    "UTR": {
+      "name": "Utrecht"
+    }
   },
-  "NOO": {
-    "name": "Noord-Holland",
-    "regions": [
-      "Noord-Holland"
-    ]
+  "Zeeland": {
+    "ZEE": {
+      "name": "Zeeland"
+    }
   },
-  "OVE": {
-    "name": "Overijssel",
-    "regions": [
-      "Overijssel"
-    ]
-  },
-  "SAB": {
-    "name": "Saba"
-  },
-  "SE": {
-    "name": "Sint Eustatius"
-  },
-  "SM": {
-    "name": "Sint Maarten"
-  },
-  "UTR": {
-    "name": "Utrecht",
-    "regions": [
-      "Utrecht"
-    ]
-  },
-  "ZEE": {
-    "name": "Zeeland",
-    "regions": [
-      "Zeeland"
-    ]
-  },
-  "ZUI": {
-    "name": "Zuid-Holland",
-    "regions": [
-      "Zuid-Holland"
-    ]
+  "Zuid-Holland": {
+    "ZUI": {
+      "name": "Zuid-Holland"
+    }
   },
   "capital": "Amsterdam",
   "currency_code": "EUR",
