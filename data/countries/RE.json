@@ -1,7 +1,7 @@
 {
   "name": {
-    "common": "R\u00e9union",
-    "official": "R\u00e9union Island"
+    "common": "Réunion",
+    "official": "Réunion Island"
   },
   "capital": "Saint-Denis",
   "currency_code": "EUR",
@@ -18,7 +18,7 @@
   "population": 896175,
   "flag": "🇷🇪",
   "region_common": "Africa",
-  "demonym": "R\u00e9unionese",
+  "demonym": "Réunionese",
   "postal_code": {
     "format": "#####",
     "regex": "^((97|98)(4|7|8)\\d{2})$"

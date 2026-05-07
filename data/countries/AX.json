@@ -1,7 +1,7 @@
 {
   "name": {
-    "common": "\u00c5land Islands",
-    "official": "\u00c5land Islands"
+    "common": "Åland Islands",
+    "official": "Åland Islands"
   },
   "regions": [
     "SCAN",
@@ -22,7 +22,7 @@
   "population": 30654,
   "flag": "🇦🇽",
   "region_common": "Europe",
-  "demonym": "\u00c5landish",
+  "demonym": "Ålandish",
   "phone_code": "+358-18",
   "neighbours": {}
 }
