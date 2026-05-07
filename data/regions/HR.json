@@ -1,0 +1,135 @@
+{
+  "BJE": {
+    "name": "Bjelovar-Bilogora",
+    "regions": [
+      "Bjelovar-Bilogora"
+    ]
+  },
+  "BRO": {
+    "name": " Brod-Posavina",
+    "regions": [
+      " Brod-Posavina"
+    ]
+  },
+  "DUB": {
+    "name": "Dubrovnik-Neretva",
+    "regions": [
+      "Dubrovnik-Neretva"
+    ]
+  },
+  "DUB1": {
+    "name": "Dubrovnik-Neretva",
+    "regions": [
+      "Dubrovnik-Neretva"
+    ]
+  },
+  "IST": {
+    "name": "Istria",
+    "regions": [
+      "Istria"
+    ]
+  },
+  "KOP": {
+    "name": "Koprivnica-Križevci",
+    "regions": [
+      "Koprivnica-Križevci"
+    ]
+  },
+  "KRA": {
+    "name": "Krapina-Zagorje",
+    "regions": [
+      "Krapina-Zagorje"
+    ]
+  },
+  "LIK": {
+    "name": "Lika-Senj",
+    "regions": [
+      "Lika-Senj"
+    ]
+  },
+  "MEI": {
+    "name": "Međimurje",
+    "regions": [
+      "Međimurje"
+    ]
+  },
+  "OSI": {
+    "name": "Osijek-Baranja",
+    "regions": [
+      "Osijek-Baranja"
+    ]
+  },
+  "POZ": {
+    "name": "Požega-Slavonia",
+    "regions": [
+      "Požega-Slavonia"
+    ]
+  },
+  "POZ1": {
+    "name": "Požega-Slavonia",
+    "regions": [
+      "Požega-Slavonia"
+    ]
+  },
+  "PRIKO": {
+    "name": "Primorje-Gorski Kotar",
+    "regions": [
+      "Primorje-Gorski Kotar"
+    ]
+  },
+  "SIB": {
+    "name": "Šibenik-Knin",
+    "regions": [
+      "Šibenik-Knin"
+    ]
+  },
+  "SIS": {
+    "name": "Sisak-Moslavina",
+    "regions": [
+      "Sisak-Moslavina"
+    ]
+  },
+  "SPL": {
+    "name": "Split-Dalmatia",
+    "regions": [
+      "Split-Dalmatia"
+    ]
+  },
+  "VIR": {
+    "name": "Virovitica-Podravina",
+    "regions": [
+      "Virovitica-Podravina"
+    ]
+  },
+  "VIR1": {
+    "name": "Virovitica-Podravina",
+    "regions": [
+      "Virovitica-Podravina"
+    ]
+  },
+  "VUK": {
+    "name": "Vukovar-Srijem",
+    "regions": [
+      "Vukovar-Srijem"
+    ]
+  },
+  "ZAD": {
+    "name": "Zadar",
+    "regions": [
+      "Zadar"
+    ]
+  },
+  "ZAG": {
+    "name": "Zagreb",
+    "regions": [
+      "Zagreb"
+    ]
+  },
+  "capital": "Zagreb",
+  "currency_code": "HRK",
+  "iso3": "HRV",
+  "language_code": [
+    "hr"
+  ],
+  "continent_code": "EU"
+}

@@ -1,0 +1,87 @@
+{
+  "ANDI": {
+    "name": "Andijan",
+    "regions": [
+      "Andijan"
+    ]
+  },
+  "BUKH": {
+    "name": "Bukhara",
+    "regions": [
+      "Bukhara"
+    ]
+  },
+  "FERG": {
+    "name": "Fergana",
+    "regions": [
+      "Fergana"
+    ]
+  },
+  "JIZZ": {
+    "name": "Jizzakh",
+    "regions": [
+      "Jizzakh"
+    ]
+  },
+  "KARA": {
+    "name": "Karakalpakstan",
+    "regions": [
+      "Karakalpakstan"
+    ]
+  },
+  "KHOR": {
+    "name": "Khorezm",
+    "regions": [
+      "Khorezm"
+    ]
+  },
+  "NAMA": {
+    "name": "Namangan",
+    "regions": [
+      "Namangan"
+    ]
+  },
+  "NAV": {
+    "name": "Navoiy",
+    "regions": [
+      "Navoiy"
+    ]
+  },
+  "QASH": {
+    "name": "Qashqadaryo",
+    "regions": [
+      "Qashqadaryo"
+    ]
+  },
+  "SAM": {
+    "name": "Samarkand",
+    "regions": [
+      "Samarkand"
+    ]
+  },
+  "SURX": {
+    "name": "Surxondaryo",
+    "regions": [
+      "Surxondaryo"
+    ]
+  },
+  "SYR": {
+    "name": "Syrdarya",
+    "regions": [
+      "Syrdarya"
+    ]
+  },
+  "TASH": {
+    "name": "Tashkent",
+    "regions": [
+      "Tashkent"
+    ]
+  },
+  "capital": "Tashkent",
+  "currency_code": "UZS",
+  "iso3": "UZB",
+  "language_code": [
+    "uz"
+  ],
+  "continent_code": "AS"
+}

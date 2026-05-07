@@ -1,0 +1,37 @@
+{
+  "name": {
+    "common": "Montenegro",
+    "official": "Montenegro"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Podgorica",
+  "currency_code": "EUR",
+  "iso3": "MNE",
+  "language_code": [
+    "mne"
+  ],
+  "continent_code": "EU",
+  "tld": ".me",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 13812,
+  "population": 623327,
+  "flag": "🇲🇪",
+  "region_common": "Europe",
+  "demonym": "Montenegrin",
+  "gdp": 7404541964.5077915,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "NATO",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "382"
+}

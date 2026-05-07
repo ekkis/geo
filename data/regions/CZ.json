@@ -1,0 +1,93 @@
+{
+  "CENBO": {
+    "name": "Central Bohemian",
+    "regions": [
+      "Central Bohemian"
+    ]
+  },
+  "HRAKR": {
+    "name": "Hradec Králové",
+    "regions": [
+      "Hradec Králové"
+    ]
+  },
+  "KARVA": {
+    "name": "Karlovy Vary",
+    "regions": [
+      "Karlovy Vary"
+    ]
+  },
+  "LIB": {
+    "name": "Liberec",
+    "regions": [
+      "Liberec"
+    ]
+  },
+  "MOR": {
+    "name": "Moravian-Silesian",
+    "regions": [
+      "Moravian-Silesian"
+    ]
+  },
+  "OLO": {
+    "name": "Olomouc",
+    "regions": [
+      "Olomouc"
+    ]
+  },
+  "PAR": {
+    "name": "Pardubice",
+    "regions": [
+      "Pardubice"
+    ]
+  },
+  "PLZ": {
+    "name": "Plzeň",
+    "regions": [
+      "Plzeň"
+    ]
+  },
+  "PRA": {
+    "name": "Prague",
+    "regions": [
+      "Prague"
+    ]
+  },
+  "SOUBO": {
+    "name": "South Bohemian",
+    "regions": [
+      "South Bohemian"
+    ]
+  },
+  "SOUMO": {
+    "name": "South Moravian",
+    "regions": [
+      "South Moravian"
+    ]
+  },
+  "USTNA": {
+    "name": "Ústí nad Labem",
+    "regions": [
+      "Ústí nad Labem"
+    ]
+  },
+  "VYS": {
+    "name": "Vysočina",
+    "regions": [
+      "Vysočina"
+    ]
+  },
+  "ZLI": {
+    "name": "Zlín",
+    "regions": [
+      "Zlín"
+    ]
+  },
+  "capital": "Prague",
+  "currency_code": "CZK",
+  "iso3": "CZE",
+  "language_code": [
+    "cze"
+  ],
+  "continent_code": "EU"
+}

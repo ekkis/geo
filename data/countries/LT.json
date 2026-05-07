@@ -1,0 +1,40 @@
+{
+  "name": {
+    "common": "Lithuania",
+    "official": "Republic of Lithuania"
+  },
+  "regions": [
+    "BALT"
+  ],
+  "capital": "Vilnius",
+  "currency_code": "LTL",
+  "iso3": "LTU",
+  "language_code": [
+    "ltu"
+  ],
+  "continent_code": "EU",
+  "tld": ".lt",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 65300,
+  "population": 2894886,
+  "flag": "🇱🇹",
+  "region_common": "Europe",
+  "demonym": "Lithuanian",
+  "gdp": 77836396962.77196,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "LT-#####",
+    "regex": "^(?:LT)*(\\d{5})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "370"
+}

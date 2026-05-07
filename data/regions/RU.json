@@ -1,0 +1,250 @@
+{
+  "ALTKR": {
+    "name": "Altai Krai",
+    "regions": [
+      "Siberia"
+    ]
+  },
+  "AMUOB": {
+    "name": "Amur Oblast",
+    "regions": [
+      "Far Eastern"
+    ]
+  },
+  "ARKOB": {
+    "name": "Arkhangelsk Oblast",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "ASTOB": {
+    "name": "Astrakhan Oblast",
+    "regions": [
+      "Southern"
+    ]
+  },
+  "BAS": {
+    "name": "Bashkortostan",
+    "regions": [
+      "Volga"
+    ]
+  },
+  "CHEOB": {
+    "name": "Chelyabinsk Oblast",
+    "regions": [
+      "Urals"
+    ]
+  },
+  "CHERE": {
+    "name": "Chechen Republic",
+    "regions": [
+      "North Caucasian"
+    ]
+  },
+  "DAG": {
+    "name": "Dagestan",
+    "regions": [
+      "North Caucasian"
+    ]
+  },
+  "ING": {
+    "name": "Ingushetia",
+    "regions": [
+      "North Caucasian"
+    ]
+  },
+  "KABRE": {
+    "name": "Kabardino-Balkar Republic",
+    "regions": [
+      "North Caucasian"
+    ]
+  },
+  "KAMKR": {
+    "name": "Kamchatka Krai",
+    "regions": [
+      "Far Eastern"
+    ]
+  },
+  "KARRE": {
+    "name": "Karachay-Cherkess Republic",
+    "regions": [
+      "North Caucasian"
+    ]
+  },
+  "KEMOB": {
+    "name": "Kemerovo Oblast",
+    "regions": [
+      "Siberia"
+    ]
+  },
+  "KHAAU": {
+    "name": "Khanty-Mansi Autonomous Okrug",
+    "regions": [
+      "Urals"
+    ]
+  },
+  "KHAKR": {
+    "name": "Khabarovsk Krai",
+    "regions": [
+      "Far Eastern"
+    ]
+  },
+  "KRAKR": {
+    "name": "Krasnodar Krai",
+    "regions": [
+      "Southern"
+    ]
+  },
+  "LENOB": {
+    "name": "Leningrad Oblast",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "MAGOB": {
+    "name": "Magadan Oblast",
+    "regions": [
+      "Far Eastern"
+    ]
+  },
+  "MOS": {
+    "name": "Moscow",
+    "regions": [
+      "Central"
+    ]
+  },
+  "MOSOB": {
+    "name": "Moscow Oblast",
+    "regions": [
+      "Central"
+    ]
+  },
+  "MUROB": {
+    "name": "Murmansk Oblast",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "NENAU": {
+    "name": "Nenets Autonomous Okrug",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "NIZNO": {
+    "name": "Nizhny Novgorod Oblast",
+    "regions": [
+      "Volga"
+    ]
+  },
+  "NOROS": {
+    "name": "North Ossetia–Alania",
+    "regions": [
+      "North Caucasian"
+    ]
+  },
+  "NOVOB": {
+    "name": "Novosibirsk Oblast",
+    "regions": [
+      "Siberia"
+    ]
+  },
+  "OMSOB": {
+    "name": "Omsk Oblast",
+    "regions": [
+      "Siberia"
+    ]
+  },
+  "PERKR": {
+    "name": "Perm Krai",
+    "regions": [
+      "Volga"
+    ]
+  },
+  "PRIKR": {
+    "name": "Primorsky Krai",
+    "regions": [
+      "Far Eastern"
+    ]
+  },
+  "PSKOB": {
+    "name": "Pskov Oblast",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "REPOF": {
+    "name": "Republic of Karelia",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "ROSOB": {
+    "name": "Rostov Oblast",
+    "regions": [
+      "Southern"
+    ]
+  },
+  "SAKOB": {
+    "name": "Sakhalin Oblast",
+    "regions": [
+      "Far Eastern"
+    ]
+  },
+  "ST.PE": {
+    "name": "St. Petersburg",
+    "regions": [
+      "Northwestern"
+    ]
+  },
+  "SVEOB": {
+    "name": "Sverdlovsk Oblast",
+    "regions": [
+      "Urals"
+    ]
+  },
+  "TAT": {
+    "name": "Tatarstan",
+    "regions": [
+      "Volga"
+    ]
+  },
+  "TOMOB": {
+    "name": "Tomsk Oblast",
+    "regions": [
+      "Siberia"
+    ]
+  },
+  "TYUOB": {
+    "name": "Tyumen Oblast",
+    "regions": [
+      "Urals"
+    ]
+  },
+  "UDMRE": {
+    "name": "Udmurt Republic",
+    "regions": [
+      "Volga"
+    ]
+  },
+  "VOLOB": {
+    "name": "Volgograd Oblast",
+    "regions": [
+      "Southern"
+    ]
+  },
+  "YAMAU": {
+    "name": "Yamalo-Nenets Autonomous Okrug",
+    "regions": [
+      "Urals"
+    ]
+  },
+  "capital": "Moscow",
+  "currency_code": "RUB",
+  "iso3": "RUS",
+  "language_code": [
+    "ru",
+    "su"
+  ],
+  "continent_code": "EU"
+}

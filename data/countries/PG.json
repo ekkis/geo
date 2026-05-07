@@ -1,0 +1,33 @@
+{
+  "name": {
+    "common": "Papua New Guinea",
+    "official": "Independent State of Papua New Guinea"
+  },
+  "capital": "Port Moresby",
+  "currency_code": "PGK",
+  "iso3": "PNG",
+  "language_code": [
+    "png"
+  ],
+  "continent_code": "OC",
+  "tld": ".pg",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "area": 462840,
+  "population": 11781559,
+  "flag": "🇵🇬",
+  "region_common": "Oceania",
+  "demonym": "Papua New Guinean",
+  "gdp": 30932496249.791653,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "###",
+    "regex": "^(\\d{3})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "675"
+}

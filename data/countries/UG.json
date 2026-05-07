@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Uganda",
+    "official": "Republic of Uganda"
+  },
+  "capital": "Kampala",
+  "currency_code": "UGX",
+  "iso3": "UGA",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "AF",
+  "tld": ".ug",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 241550,
+  "population": 45905417,
+  "flag": "🇺🇬",
+  "region_common": "Africa",
+  "demonym": "Ugandan",
+  "gdp": 49272882213.623,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "256"
+}

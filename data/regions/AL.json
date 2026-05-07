@@ -1,0 +1,81 @@
+{
+  "BER": {
+    "name": "Berat",
+    "regions": [
+      "Berat"
+    ]
+  },
+  "DIB": {
+    "name": "Dibër",
+    "regions": [
+      "Dibër"
+    ]
+  },
+  "DUR": {
+    "name": "Durrës",
+    "regions": [
+      "Durrës"
+    ]
+  },
+  "ELB": {
+    "name": "Elbasan",
+    "regions": [
+      "Elbasan"
+    ]
+  },
+  "FIE": {
+    "name": "Fier",
+    "regions": [
+      "Fier"
+    ]
+  },
+  "GJI": {
+    "name": "Gjirokastër",
+    "regions": [
+      "Gjirokastër"
+    ]
+  },
+  "KOR": {
+    "name": "Korçë",
+    "regions": [
+      "Korçë"
+    ]
+  },
+  "KUK": {
+    "name": "Kukës",
+    "regions": [
+      "Kukës"
+    ]
+  },
+  "LEZ": {
+    "name": "Lezhë",
+    "regions": [
+      "Lezhë"
+    ]
+  },
+  "SHK": {
+    "name": "Shkodër",
+    "regions": [
+      "Shkodër"
+    ]
+  },
+  "TIR": {
+    "name": "Tirana",
+    "regions": [
+      "Tirana"
+    ]
+  },
+  "VLO": {
+    "name": "Vlorë",
+    "regions": [
+      "Vlorë"
+    ]
+  },
+  "capital": "Tirana",
+  "currency_code": "ALL",
+  "iso3": "ALB",
+  "language_code": [
+    "alb"
+  ],
+  "continent_code": "EU"
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "common": "Israel",
+    "official": "State of Israel"
+  },
+  "regions": [
+    "LEV"
+  ],
+  "capital": "Jerusalem",
+  "currency_code": "ILS",
+  "iso3": "ISR",
+  "language_code": [
+    "he"
+  ],
+  "continent_code": "AS",
+  "tld": ".il",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 21937,
+  "population": 10134800,
+  "flag": "🇮🇱",
+  "region_common": "Asia",
+  "demonym": "Israeli",
+  "gdp": 509901495702.1033,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "972"
+}

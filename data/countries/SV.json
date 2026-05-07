@@ -1,0 +1,37 @@
+{
+  "name": {
+    "common": "El Salvador",
+    "official": "Republic of El Salvador"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "San Salvador",
+  "currency_code": "USD",
+  "iso3": "SLV",
+  "language_code": [
+    "sl"
+  ],
+  "continent_code": "NA",
+  "tld": ".sv",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "area": 21041,
+  "population": 6029976,
+  "flag": "🇸🇻",
+  "region_common": "Americas",
+  "demonym": "Salvadoran",
+  "gdp": 34015620000.000004,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "CP ####",
+    "regex": "^(?:CP)*(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "503"
+}

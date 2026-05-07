@@ -1,0 +1,39 @@
+{
+  "name": {
+    "common": "Japan",
+    "official": "Japan"
+  },
+  "regions": [
+    "EAS"
+  ],
+  "capital": "Tokyo",
+  "currency_code": "JPY",
+  "iso3": "JPN",
+  "language_code": [
+    "ja"
+  ],
+  "continent_code": "AS",
+  "tld": ".jp",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "area": 377930,
+  "population": 123210000,
+  "flag": "🇯🇵",
+  "region_common": "Asia",
+  "demonym": "Japanese",
+  "gdp": 4212945159781.403,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "###-####",
+    "regex": "^(\\d{7})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "G20",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "81"
+}

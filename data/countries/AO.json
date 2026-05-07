@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Angola",
+    "official": "Republic of Angola"
+  },
+  "capital": "Luanda",
+  "currency_code": "AOA",
+  "iso3": "AGO",
+  "language_code": [
+    "pt"
+  ],
+  "continent_code": "AF",
+  "tld": ".ao",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 1246700,
+  "population": 36170961,
+  "flag": "🇦🇴",
+  "region_common": "Africa",
+  "demonym": "Angolan",
+  "gdp": 84722957642.37566,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "244"
+}

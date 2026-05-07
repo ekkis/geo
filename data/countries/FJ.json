@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Fiji",
+    "official": "Republic of Fiji"
+  },
+  "capital": "Suva",
+  "currency_code": "FJD",
+  "iso3": "FJI",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "OC",
+  "tld": ".fj",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "area": 18272,
+  "population": 900869,
+  "flag": "🇫🇯",
+  "region_common": "Oceania",
+  "demonym": "Fijian",
+  "gdp": 5494797540.733647,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "679"
+}

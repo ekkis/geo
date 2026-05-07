@@ -1,0 +1,117 @@
+{
+  "AVE": {
+    "name": "Aveiro",
+    "regions": [
+      "Aveiro"
+    ]
+  },
+  "BEJ": {
+    "name": "Beja",
+    "regions": [
+      "Beja"
+    ]
+  },
+  "BRA": {
+    "name": "Braga",
+    "regions": [
+      "Braga"
+    ]
+  },
+  "BRA1": {
+    "name": "Bragança",
+    "regions": [
+      "Bragança"
+    ]
+  },
+  "CASBR": {
+    "name": "Castelo Branco",
+    "regions": [
+      "Castelo Branco"
+    ]
+  },
+  "COI": {
+    "name": "Coimbra",
+    "regions": [
+      "Coimbra"
+    ]
+  },
+  "EVO": {
+    "name": "Évora",
+    "regions": [
+      "Évora"
+    ]
+  },
+  "FAR": {
+    "name": "Faro",
+    "regions": [
+      "Faro"
+    ]
+  },
+  "GUA": {
+    "name": "Guarda",
+    "regions": [
+      "Guarda"
+    ]
+  },
+  "LEI": {
+    "name": "Leiria",
+    "regions": [
+      "Leiria"
+    ]
+  },
+  "LIS": {
+    "name": "Lisboa",
+    "regions": [
+      "Lisboa"
+    ]
+  },
+  "POR": {
+    "name": "Portalegre",
+    "regions": [
+      "Portalegre"
+    ]
+  },
+  "POR1": {
+    "name": "Porto",
+    "regions": [
+      "Porto"
+    ]
+  },
+  "SAN": {
+    "name": "Santarém",
+    "regions": [
+      "Santarém"
+    ]
+  },
+  "SET": {
+    "name": "Setúbal",
+    "regions": [
+      "Setúbal"
+    ]
+  },
+  "VIADO": {
+    "name": "Viana do Castelo",
+    "regions": [
+      "Viana do Castelo"
+    ]
+  },
+  "VILRE": {
+    "name": "Vila Real",
+    "regions": [
+      "Vila Real"
+    ]
+  },
+  "VIS": {
+    "name": "Viseu",
+    "regions": [
+      "Viseu"
+    ]
+  },
+  "capital": "Lisbon",
+  "currency_code": "EUR",
+  "iso3": "PRT",
+  "language_code": [
+    "prt"
+  ],
+  "continent_code": "EU"
+}

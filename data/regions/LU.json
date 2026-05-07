@@ -1,0 +1,81 @@
+{
+  "Capellen": {
+    "name": "Capellen",
+    "regions": [
+      "Capellen"
+    ]
+  },
+  "Clervaux": {
+    "name": "Clervaux",
+    "regions": [
+      "Clervaux"
+    ]
+  },
+  "Diekirch": {
+    "name": "Diekirch",
+    "regions": [
+      "Diekirch"
+    ]
+  },
+  "Echternach": {
+    "name": "Echternach",
+    "regions": [
+      "Echternach"
+    ]
+  },
+  "Esch-sur-Alzette": {
+    "name": "Esch-sur-Alzette",
+    "regions": [
+      "Esch-sur-Alzette"
+    ]
+  },
+  "Grevenmacher": {
+    "name": "Grevenmacher",
+    "regions": [
+      "Grevenmacher"
+    ]
+  },
+  "Luxembourg": {
+    "name": "Luxembourg",
+    "regions": [
+      "Luxembourg"
+    ]
+  },
+  "Mersch": {
+    "name": "Mersch",
+    "regions": [
+      "Mersch"
+    ]
+  },
+  "Redange": {
+    "name": "Redange",
+    "regions": [
+      "Redange"
+    ]
+  },
+  "Remich": {
+    "name": "Remich",
+    "regions": [
+      "Remich"
+    ]
+  },
+  "Vianden": {
+    "name": "Vianden",
+    "regions": [
+      "Vianden"
+    ]
+  },
+  "Wiltz": {
+    "name": "Wiltz",
+    "regions": [
+      "Wiltz"
+    ]
+  },
+  "capital": "Luxembourg",
+  "currency_code": "EUR",
+  "iso3": "LUX",
+  "language_code": [
+    "lux"
+  ],
+  "continent_code": "EU"
+}

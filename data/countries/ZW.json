@@ -1,0 +1,31 @@
+{
+  "name": {
+    "common": "Zimbabwe",
+    "official": "Republic of Zimbabwe"
+  },
+  "capital": "Harare",
+  "currency_code": "ZWL",
+  "iso3": "ZWE",
+  "language_code": [
+    "rh",
+    "zwe"
+  ],
+  "continent_code": "AF",
+  "tld": ".zw",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 390757,
+  "population": 17073087,
+  "flag": "🇿🇼",
+  "region_common": "Africa",
+  "demonym": "Zimbabwean",
+  "gdp": 26538273498.84614,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "263"
+}

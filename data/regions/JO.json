@@ -1,0 +1,81 @@
+{
+  "AJL": {
+    "name": "Ajloun",
+    "regions": [
+      "North"
+    ]
+  },
+  "AMM": {
+    "name": "Amman",
+    "regions": [
+      "Central"
+    ]
+  },
+  "AQA": {
+    "name": "Aqaba",
+    "regions": [
+      "South"
+    ]
+  },
+  "BAL": {
+    "name": "Balqa",
+    "regions": [
+      "Central"
+    ]
+  },
+  "IRB": {
+    "name": "Irbid",
+    "regions": [
+      "North"
+    ]
+  },
+  "JER": {
+    "name": "Jerash",
+    "regions": [
+      "North"
+    ]
+  },
+  "KAR": {
+    "name": "Karak",
+    "regions": [
+      "South"
+    ]
+  },
+  "MA'": {
+    "name": "Ma'an",
+    "regions": [
+      "South"
+    ]
+  },
+  "MAD": {
+    "name": "Madaba",
+    "regions": [
+      "Central"
+    ]
+  },
+  "MAF": {
+    "name": "Mafraq",
+    "regions": [
+      "North"
+    ]
+  },
+  "TAF": {
+    "name": "Tafilah",
+    "regions": [
+      "South"
+    ]
+  },
+  "ZAR": {
+    "name": "Zarqa",
+    "regions": [
+      "Central"
+    ]
+  },
+  "capital": "Amman",
+  "currency_code": "JOD",
+  "iso3": "JOR",
+  "language_code": [
+    "jor"
+  ],
+  "continent_code": "AS"
+}

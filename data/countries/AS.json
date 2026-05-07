@@ -1,0 +1,25 @@
+{
+  "name": {
+    "common": "American Samoa",
+    "official": "American Samoa"
+  },
+  "capital": "Pago Pago",
+  "currency_code": "USD",
+  "iso3": "ASM",
+  "language_code": [
+    "as"
+  ],
+  "continent_code": "OC",
+  "tld": ".as",
+  "timezones": [
+    "UTC-11:00"
+  ],
+  "area": 199,
+  "population": 49710,
+  "flag": "🇦🇸",
+  "region_common": "Oceania",
+  "demonym": "American Samoan",
+  "gdp": 871000000,
+  "gdp_year": 2022,
+  "phone_code": "+1-684"
+}

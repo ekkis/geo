@@ -1,0 +1,87 @@
+{
+  "ATT": {
+    "name": "Attica",
+    "regions": [
+      "Attica"
+    ]
+  },
+  "CENGR": {
+    "name": "Central Greece",
+    "regions": [
+      "Central Greece"
+    ]
+  },
+  "CENMA": {
+    "name": "Central Macedonia",
+    "regions": [
+      "Central Macedonia"
+    ]
+  },
+  "CRE": {
+    "name": "Crete",
+    "regions": [
+      "Crete"
+    ]
+  },
+  "EASMA": {
+    "name": "East Macedonia and Thrace",
+    "regions": [
+      "East Macedonia and Thrace"
+    ]
+  },
+  "EPI": {
+    "name": "Epirus",
+    "regions": [
+      "Epirus"
+    ]
+  },
+  "IONIS": {
+    "name": "Ionian Islands",
+    "regions": [
+      "Ionian Islands"
+    ]
+  },
+  "NORAE": {
+    "name": "North Aegean",
+    "regions": [
+      "North Aegean"
+    ]
+  },
+  "PEL": {
+    "name": "Peloponnese",
+    "regions": [
+      "Peloponnese"
+    ]
+  },
+  "SOUAE": {
+    "name": "South Aegean",
+    "regions": [
+      "South Aegean"
+    ]
+  },
+  "THE": {
+    "name": "Thessaly",
+    "regions": [
+      "Thessaly"
+    ]
+  },
+  "WESGR": {
+    "name": "West Greece",
+    "regions": [
+      "West Greece"
+    ]
+  },
+  "WESMA": {
+    "name": "West Macedonia",
+    "regions": [
+      "West Macedonia"
+    ]
+  },
+  "capital": "Athens",
+  "currency_code": "EUR",
+  "iso3": "GRC",
+  "language_code": [
+    "grc"
+  ],
+  "continent_code": "EU"
+}

@@ -1,0 +1,111 @@
+{
+  "DAL": {
+    "name": "Dalarna",
+    "regions": [
+      "Dalarna"
+    ]
+  },
+  "GAV": {
+    "name": "Gävleborg",
+    "regions": [
+      "Gävleborg"
+    ]
+  },
+  "GOT": {
+    "name": "Gotland",
+    "regions": [
+      "Gotland"
+    ]
+  },
+  "HAL": {
+    "name": "Halland",
+    "regions": [
+      "Halland"
+    ]
+  },
+  "JON": {
+    "name": "Jönköping",
+    "regions": [
+      "Jönköping"
+    ]
+  },
+  "KAL": {
+    "name": "Kalmar",
+    "regions": [
+      "Kalmar"
+    ]
+  },
+  "KRO": {
+    "name": "Kronoberg",
+    "regions": [
+      "Kronoberg"
+    ]
+  },
+  "NOR": {
+    "name": "Norrbotten",
+    "regions": [
+      "Norrbotten"
+    ]
+  },
+  "ORE": {
+    "name": "Örebro",
+    "regions": [
+      "Örebro"
+    ]
+  },
+  "OST": {
+    "name": "Östergötland",
+    "regions": [
+      "Östergötland"
+    ]
+  },
+  "SKA": {
+    "name": "Skåne",
+    "regions": [
+      "Skåne"
+    ]
+  },
+  "SOD": {
+    "name": "Södermanland",
+    "regions": [
+      "Södermanland"
+    ]
+  },
+  "STO": {
+    "name": "Stockholm",
+    "regions": [
+      "Stockholm"
+    ]
+  },
+  "UPP": {
+    "name": "Uppsala",
+    "regions": [
+      "Uppsala"
+    ]
+  },
+  "VAR": {
+    "name": "Värmland",
+    "regions": [
+      "Värmland"
+    ]
+  },
+  "VAS": {
+    "name": "Västernorrland",
+    "regions": [
+      "Västernorrland"
+    ]
+  },
+  "VASGO": {
+    "name": "Västra Götaland",
+    "regions": [
+      "Västra Götaland"
+    ]
+  },
+  "capital": "Stockholm",
+  "currency_code": "SEK",
+  "iso3": "SWE",
+  "language_code": [
+    "sv"
+  ],
+  "continent_code": "EU"
+}

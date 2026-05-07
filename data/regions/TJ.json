@@ -1,0 +1,33 @@
+{
+  "DUSH": {
+    "name": "Dushanbe",
+    "regions": [
+      "Dushanbe"
+    ]
+  },
+  "GBAO": {
+    "name": "Gorno-Badakhshan",
+    "regions": [
+      "Gorno-Badakhshan"
+    ]
+  },
+  "KHAT": {
+    "name": "Khatlon",
+    "regions": [
+      "Khatlon"
+    ]
+  },
+  "SUGH": {
+    "name": "Sughd",
+    "regions": [
+      "Sughd"
+    ]
+  },
+  "capital": "Dushanbe",
+  "currency_code": "TJS",
+  "iso3": "TJK",
+  "language_code": [
+    "tjk"
+  ],
+  "continent_code": "AS"
+}

@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Bhutan",
+    "official": "Kingdom of Bhutan"
+  },
+  "regions": [],
+  "capital": "Thimphu",
+  "currency_code": "BTN",
+  "iso3": "BTN",
+  "language_code": [
+    "btn"
+  ],
+  "continent_code": "AS",
+  "tld": ".bt",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "area": 38394,
+  "population": 784043,
+  "flag": "🇧🇹",
+  "region_common": "Asia",
+  "demonym": "Bhutanese",
+  "gdp": 2898227713.223154,
+  "gdp_year": 2022,
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "975"
+}

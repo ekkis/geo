@@ -1,0 +1,38 @@
+{
+  "name": {
+    "common": "Cuba",
+    "official": "Republic of Cuba"
+  },
+  "regions": [
+    "CAR",
+    "LATAM"
+  ],
+  "capital": "Havana",
+  "currency_code": "CUP",
+  "iso3": "CUB",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".cu",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "area": 109884,
+  "population": 9748007,
+  "flag": "🇨🇺",
+  "region_common": "Americas",
+  "demonym": "Cuban",
+  "gdp": 107351800000,
+  "gdp_year": 2020,
+  "postal_code": {
+    "format": "CP #####",
+    "regex": "^(?:CP)*(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "53"
+}

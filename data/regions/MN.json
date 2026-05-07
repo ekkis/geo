@@ -1,0 +1,135 @@
+{
+  "ARKH": {
+    "name": "Arkhangai",
+    "regions": [
+      "Arkhangai"
+    ]
+  },
+  "BAYANH": {
+    "name": "Bayankhongor",
+    "regions": [
+      "Bayankhongor"
+    ]
+  },
+  "BAYAO": {
+    "name": "Bayan-Olgii",
+    "regions": [
+      "Bayan-Olgii"
+    ]
+  },
+  "BULG": {
+    "name": "Bulgan",
+    "regions": [
+      "Bulgan"
+    ]
+  },
+  "DARKH": {
+    "name": "Darkhan-Uul",
+    "regions": [
+      "Darkhan-Uul"
+    ]
+  },
+  "DORN": {
+    "name": "Dornod",
+    "regions": [
+      "Dornod"
+    ]
+  },
+  "DORNO": {
+    "name": "Dornogovi",
+    "regions": [
+      "Dornogovi"
+    ]
+  },
+  "DUND": {
+    "name": "Dundgovi",
+    "regions": [
+      "Dundgovi"
+    ]
+  },
+  "GOVI": {
+    "name": "Govi-Altai",
+    "regions": [
+      "Govi-Altai"
+    ]
+  },
+  "GOVIS": {
+    "name": "Govi-Sumber",
+    "regions": [
+      "Govi-Sumber"
+    ]
+  },
+  "KHENT": {
+    "name": "Khentii",
+    "regions": [
+      "Khentii"
+    ]
+  },
+  "KHOV": {
+    "name": "Khovd",
+    "regions": [
+      "Khovd"
+    ]
+  },
+  "KHOVG": {
+    "name": "Khövsgöl",
+    "regions": [
+      "Khövsgöl"
+    ]
+  },
+  "ORKHON": {
+    "name": "Orkhon",
+    "regions": [
+      "Orkhon"
+    ]
+  },
+  "OVORK": {
+    "name": "Ovorkhangai",
+    "regions": [
+      "Ovorkhangai"
+    ]
+  },
+  "SELE": {
+    "name": "Selenge",
+    "regions": [
+      "Selenge"
+    ]
+  },
+  "TUV": {
+    "name": "Töv",
+    "regions": [
+      "Töv"
+    ]
+  },
+  "ULAANB": {
+    "name": "Ulaanbaatar",
+    "regions": [
+      "Ulaanbaatar"
+    ]
+  },
+  "UMNU": {
+    "name": "Umnugovi",
+    "regions": [
+      "Umnugovi"
+    ]
+  },
+  "UVS": {
+    "name": "Uvs",
+    "regions": [
+      "Uvs"
+    ]
+  },
+  "ZAVK": {
+    "name": "Zavkhan",
+    "regions": [
+      "Zavkhan"
+    ]
+  },
+  "capital": "Ulan Bator",
+  "currency_code": "MNT",
+  "iso3": "MNG",
+  "language_code": [
+    "mng"
+  ],
+  "continent_code": "AS"
+}

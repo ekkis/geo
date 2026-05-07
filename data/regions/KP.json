@@ -1,0 +1,81 @@
+{
+  "CHAGANG": {
+    "name": "Chagang",
+    "regions": [
+      "Chagang"
+    ]
+  },
+  "HAMPNORTH": {
+    "name": "North Hamgyong",
+    "regions": [
+      "North Hamgyong"
+    ]
+  },
+  "HAMSOUTH": {
+    "name": "South Hamgyong",
+    "regions": [
+      "South Hamgyong"
+    ]
+  },
+  "HWABONORTH": {
+    "name": "North Hwanghae",
+    "regions": [
+      "North Hwanghae"
+    ]
+  },
+  "HWABOSOUTH": {
+    "name": "South Hwanghae",
+    "regions": [
+      "South Hwanghae"
+    ]
+  },
+  "KANGWON": {
+    "name": "Kangwon",
+    "regions": [
+      "Kangwon"
+    ]
+  },
+  "NAMPO": {
+    "name": "Nampo",
+    "regions": [
+      "Nampo"
+    ]
+  },
+  "PYONGBONORTH": {
+    "name": "North Pyongan",
+    "regions": [
+      "North Pyongan"
+    ]
+  },
+  "PYONGBOSOUTH": {
+    "name": "South Pyongan",
+    "regions": [
+      "South Pyongan"
+    ]
+  },
+  "PYONGYANG": {
+    "name": "Pyongyang",
+    "regions": [
+      "Pyongyang"
+    ]
+  },
+  "RASON": {
+    "name": "Rason",
+    "regions": [
+      "Rason"
+    ]
+  },
+  "RYANGANG": {
+    "name": "Ryanggang",
+    "regions": [
+      "Ryanggang"
+    ]
+  },
+  "capital": "Pyongyang",
+  "currency_code": "KPW",
+  "iso3": "PRK",
+  "language_code": [
+    "prk"
+  ],
+  "continent_code": "AS"
+}

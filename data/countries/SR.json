@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Suriname",
+    "official": "Republic of Suriname"
+  },
+  "capital": "Paramaribo",
+  "currency_code": "SRD",
+  "iso3": "SUR",
+  "language_code": [
+    "sur"
+  ],
+  "continent_code": "SA",
+  "tld": ".sr",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "area": 163820,
+  "population": 616500,
+  "flag": "🇸🇷",
+  "region_common": "Americas",
+  "demonym": "Surinamer",
+  "gdp": 3782437296.0432286,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "597"
+}

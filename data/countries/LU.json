@@ -1,0 +1,40 @@
+{
+  "name": {
+    "common": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg"
+  },
+  "regions": [
+    "WEU"
+  ],
+  "capital": "Luxembourg",
+  "currency_code": "EUR",
+  "iso3": "LUX",
+  "language_code": [
+    "lb"
+  ],
+  "continent_code": "EU",
+  "tld": ".lu",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 2586,
+  "population": 681973,
+  "flag": "🇱🇺",
+  "region_common": "Europe",
+  "demonym": "Luxembourger",
+  "gdp": 85755006123.5976,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "352"
+}

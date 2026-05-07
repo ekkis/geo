@@ -1,0 +1,33 @@
+{
+  "CON": {
+    "name": "Connacht",
+    "regions": [
+      "Connacht"
+    ]
+  },
+  "LEI": {
+    "name": "Leinster",
+    "regions": [
+      "Leinster"
+    ]
+  },
+  "MUN": {
+    "name": "Munster",
+    "regions": [
+      "Munster"
+    ]
+  },
+  "ULS": {
+    "name": "Ulster",
+    "regions": [
+      "Ulster"
+    ]
+  },
+  "capital": "Dublin",
+  "currency_code": "EUR",
+  "iso3": "IRL",
+  "language_code": [
+    "irl"
+  ],
+  "continent_code": "EU"
+}

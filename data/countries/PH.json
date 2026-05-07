@@ -1,0 +1,38 @@
+{
+  "name": {
+    "common": "Philippines",
+    "official": "Republic of the Philippines"
+  },
+  "regions": [
+    "SEA"
+  ],
+  "capital": "Manila",
+  "currency_code": "PHP",
+  "iso3": "PHL",
+  "language_code": [
+    "tl"
+  ],
+  "continent_code": "AS",
+  "tld": ".ph",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "area": 342353,
+  "population": 114123600,
+  "flag": "🇵🇭",
+  "region_common": "Asia",
+  "demonym": "Filipino",
+  "gdp": 437146372729.94244,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "ASEAN",
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "63"
+}

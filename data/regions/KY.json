@@ -1,0 +1,27 @@
+{
+  "CR": {
+    "name": "Cayman Brac"
+  },
+  "EI": {
+    "name": "East End"
+  },
+  "SC": {
+    "name": "South Town"
+  },
+  "SP": {
+    "name": "Spot Bay"
+  },
+  "WD": {
+    "name": "West Bay"
+  },
+  "WI": {
+    "name": "Western"
+  },
+  "capital": "George Town",
+  "currency_code": "KYD",
+  "iso3": "CYM",
+  "language_code": [
+    "cy"
+  ],
+  "continent_code": "NA"
+}

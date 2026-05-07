@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Guinea-Bissau",
+    "official": "Republic of Guinea-Bissau"
+  },
+  "capital": "Bissau",
+  "currency_code": "XOF",
+  "iso3": "GNB",
+  "language_code": [
+    "pt"
+  ],
+  "continent_code": "AF",
+  "tld": ".gw",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 36125,
+  "population": 1781308,
+  "flag": "🇬🇼",
+  "region_common": "Africa",
+  "demonym": "Guinea-Bissauan",
+  "gdp": 1966461400.3583264,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "245"
+}

@@ -1,0 +1,219 @@
+{
+  "ANENI": {
+    "name": "Anenii Noi",
+    "regions": [
+      "Anenii Noi"
+    ]
+  },
+  "BALT": {
+    "name": "Bălți",
+    "regions": [
+      "Bălți"
+    ]
+  },
+  "BASAR": {
+    "name": "Basarabeasca",
+    "regions": [
+      "Basarabeasca"
+    ]
+  },
+  "BENDER": {
+    "name": "Bender",
+    "regions": [
+      "Bender"
+    ]
+  },
+  "BRICE": {
+    "name": "Briceni",
+    "regions": [
+      "Briceni"
+    ]
+  },
+  "CAHUL": {
+    "name": "Cahul",
+    "regions": [
+      "Cahul"
+    ]
+  },
+  "CALAR": {
+    "name": "Călărași",
+    "regions": [
+      "Călărași"
+    ]
+  },
+  "CANTEM": {
+    "name": "Cantemir",
+    "regions": [
+      "Cantemir"
+    ]
+  },
+  "CAUSEN": {
+    "name": "Căușeni",
+    "regions": [
+      "Căușeni"
+    ]
+  },
+  "CHISIN": {
+    "name": "Chișinău",
+    "regions": [
+      "Chișinău"
+    ]
+  },
+  "CIMIS": {
+    "name": "Cimișlia",
+    "regions": [
+      "Cimișlia"
+    ]
+  },
+  "CRIUL": {
+    "name": "Criuleni",
+    "regions": [
+      "Criuleni"
+    ]
+  },
+  "DONDU": {
+    "name": "Dondușeni",
+    "regions": [
+      "Dondușeni"
+    ]
+  },
+  "DROCH": {
+    "name": "Drochia",
+    "regions": [
+      "Drochia"
+    ]
+  },
+  "DUBAS": {
+    "name": "Dubăsari",
+    "regions": [
+      "Dubăsari"
+    ]
+  },
+  "EDINE": {
+    "name": "Edineț",
+    "regions": [
+      "Edineț"
+    ]
+  },
+  "FALEST": {
+    "name": "Fălești",
+    "regions": [
+      "Fălești"
+    ]
+  },
+  "FLORE": {
+    "name": "Florești",
+    "regions": [
+      "Florești"
+    ]
+  },
+  "GAGAU": {
+    "name": "Gagauzia",
+    "regions": [
+      "Gagauzia"
+    ]
+  },
+  "GLoden": {
+    "name": "Glodeni",
+    "regions": [
+      "Glodeni"
+    ]
+  },
+  "HINC": {
+    "name": "Hîncești",
+    "regions": [
+      "Hîncești"
+    ]
+  },
+  "IALOV": {
+    "name": "Ialoveni",
+    "regions": [
+      "Ialoveni"
+    ]
+  },
+  "LEOVA": {
+    "name": "Leova",
+    "regions": [
+      "Leova"
+    ]
+  },
+  "NISPO": {
+    "name": "Nisporeni",
+    "regions": [
+      "Nisporeni"
+    ]
+  },
+  "OCNIT": {
+    "name": "Ocnița",
+    "regions": [
+      "Ocnița"
+    ]
+  },
+  "ORHEI": {
+    "name": "Orhei",
+    "regions": [
+      "Orhei"
+    ]
+  },
+  "REZIN": {
+    "name": "Rezina",
+    "regions": [
+      "Rezina"
+    ]
+  },
+  "RISC": {
+    "name": "Rîșcani",
+    "regions": [
+      "Rîșcani"
+    ]
+  },
+  "SING": {
+    "name": "Sîngerei",
+    "regions": [
+      "Sîngerei"
+    ]
+  },
+  "SOROC": {
+    "name": "Soroca",
+    "regions": [
+      "Soroca"
+    ]
+  },
+  "STIR": {
+    "name": "Stîrcea",
+    "regions": [
+      "Stîrcea"
+    ]
+  },
+  "STRAS": {
+    "name": "Strășeni",
+    "regions": [
+      "Strășeni"
+    ]
+  },
+  "TELEN": {
+    "name": "Telenești",
+    "regions": [
+      "Telenești"
+    ]
+  },
+  "TRANS": {
+    "name": "Transnistria",
+    "regions": [
+      "Transnistria"
+    ]
+  },
+  "UNGHE": {
+    "name": "Ungheni",
+    "regions": [
+      "Ungheni"
+    ]
+  },
+  "capital": "Chisinau",
+  "currency_code": "MDL",
+  "iso3": "MDA",
+  "language_code": [
+    "mda"
+  ],
+  "continent_code": "EU"
+}

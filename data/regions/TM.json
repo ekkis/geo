@@ -1,0 +1,45 @@
+{
+  "AHAL": {
+    "name": "Ahal",
+    "regions": [
+      "Ahal"
+    ]
+  },
+  "ASH": {
+    "name": "Ashgabat",
+    "regions": [
+      "Ashgabat"
+    ]
+  },
+  "BALK": {
+    "name": "Balkan",
+    "regions": [
+      "Balkan"
+    ]
+  },
+  "DASH": {
+    "name": "Dashoguz",
+    "regions": [
+      "Dashoguz"
+    ]
+  },
+  "LEBA": {
+    "name": "Lebap",
+    "regions": [
+      "Lebap"
+    ]
+  },
+  "MARY": {
+    "name": "Mary",
+    "regions": [
+      "Mary"
+    ]
+  },
+  "capital": "Ashgabat",
+  "currency_code": "TMT",
+  "iso3": "TKM",
+  "language_code": [
+    "tkm"
+  ],
+  "continent_code": "AS"
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "common": "Costa Rica",
+    "official": "Republic of Costa Rica"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "San Jose",
+  "currency_code": "CRC",
+  "iso3": "CRI",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".cr",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "area": 51100,
+  "population": 5309625,
+  "flag": "🇨🇷",
+  "region_common": "Americas",
+  "demonym": "Costa Rican",
+  "gdp": 86497941439.01744,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "OECD",
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "506"
+}

@@ -1,0 +1,26 @@
+{
+  "name": {
+    "common": "Sint Maarten",
+    "official": "Sint Maarten"
+  },
+  "regions": [],
+  "capital": "Philipsburg",
+  "currency_code": "ANG",
+  "iso3": "SXM",
+  "language_code": [
+    "sxm"
+  ],
+  "continent_code": "NA",
+  "tld": ".sx",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 34,
+  "population": 41349,
+  "flag": "🇸🇽",
+  "region_common": "Americas",
+  "demonym": "St. Maartener",
+  "gdp": 1623165683.1284916,
+  "gdp_year": 2023,
+  "phone_code": "599"
+}

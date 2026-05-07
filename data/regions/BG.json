@@ -1,0 +1,177 @@
+{
+  "BLA": {
+    "name": "Blagoevgrad",
+    "regions": [
+      "Blagoevgrad"
+    ]
+  },
+  "BUR": {
+    "name": "Burgas",
+    "regions": [
+      "Burgas"
+    ]
+  },
+  "DOB": {
+    "name": "Dobrich",
+    "regions": [
+      "Dobrich"
+    ]
+  },
+  "GAB": {
+    "name": "Gabrovo",
+    "regions": [
+      "Gabrovo"
+    ]
+  },
+  "HAS": {
+    "name": "Haskovo",
+    "regions": [
+      "Haskovo"
+    ]
+  },
+  "KAR": {
+    "name": "Kardzhali",
+    "regions": [
+      "Kardzhali"
+    ]
+  },
+  "KYU": {
+    "name": "Kyustendil",
+    "regions": [
+      "Kyustendil"
+    ]
+  },
+  "LOV": {
+    "name": "Lovech",
+    "regions": [
+      "Lovech"
+    ]
+  },
+  "MON": {
+    "name": "Montana",
+    "regions": [
+      "Montana"
+    ]
+  },
+  "PAZ": {
+    "name": "Pazardzhik",
+    "regions": [
+      "Pazardzhik"
+    ]
+  },
+  "PER": {
+    "name": "Pernik",
+    "regions": [
+      "Pernik"
+    ]
+  },
+  "PLE": {
+    "name": "Pleven",
+    "regions": [
+      "Pleven"
+    ]
+  },
+  "PLO": {
+    "name": "Plovdiv",
+    "regions": [
+      "Plovdiv"
+    ]
+  },
+  "RAZ": {
+    "name": "Razgrad",
+    "regions": [
+      "Razgrad"
+    ]
+  },
+  "RUS": {
+    "name": "Ruse",
+    "regions": [
+      "Ruse"
+    ]
+  },
+  "SHU": {
+    "name": "Shumen",
+    "regions": [
+      "Shumen"
+    ]
+  },
+  "SIL": {
+    "name": "Silistra",
+    "regions": [
+      "Silistra"
+    ]
+  },
+  "SLI": {
+    "name": "Sliven",
+    "regions": [
+      "Sliven"
+    ]
+  },
+  "SMO": {
+    "name": "Smolyan",
+    "regions": [
+      "Smolyan"
+    ]
+  },
+  "SOF": {
+    "name": "Sofia",
+    "regions": [
+      "Sofia"
+    ]
+  },
+  "SOFPR": {
+    "name": "Sofia Province",
+    "regions": [
+      "Sofia Province"
+    ]
+  },
+  "STAZA": {
+    "name": "Stara Zagora",
+    "regions": [
+      "Stara Zagora"
+    ]
+  },
+  "TAR": {
+    "name": "Targovishte",
+    "regions": [
+      "Targovishte"
+    ]
+  },
+  "VAR": {
+    "name": "Varna",
+    "regions": [
+      "Varna"
+    ]
+  },
+  "VELTA": {
+    "name": "Veliko Tarnovo",
+    "regions": [
+      "Veliko Tarnovo"
+    ]
+  },
+  "VID": {
+    "name": "Vidin",
+    "regions": [
+      "Vidin"
+    ]
+  },
+  "VRA": {
+    "name": "Vratsa",
+    "regions": [
+      "Vratsa"
+    ]
+  },
+  "YAM": {
+    "name": "Yambol",
+    "regions": [
+      "Yambol"
+    ]
+  },
+  "capital": "Sofia",
+  "currency_code": "BGN",
+  "iso3": "BGR",
+  "language_code": [
+    "bgr"
+  ],
+  "continent_code": "EU"
+}

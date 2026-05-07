@@ -1,0 +1,51 @@
+{
+  "ANDORRA": {
+    "name": "Andorra la Vella",
+    "regions": [
+      "Andorra la Vella"
+    ]
+  },
+  "CANILLO": {
+    "name": "Canillo",
+    "regions": [
+      "Canillo"
+    ]
+  },
+  "ENCAMP": {
+    "name": "Encamp",
+    "regions": [
+      "Encamp"
+    ]
+  },
+  "ESCALD": {
+    "name": "Escaldes-Engordany",
+    "regions": [
+      "Escaldes-Engordany"
+    ]
+  },
+  "MASSANA": {
+    "name": "La Massana",
+    "regions": [
+      "La Massana"
+    ]
+  },
+  "ORDINO": {
+    "name": "Ordino",
+    "regions": [
+      "Ordino"
+    ]
+  },
+  "SANTJULIA": {
+    "name": "Sant Julià de Lòria",
+    "regions": [
+      "Sant Julià de Lòria"
+    ]
+  },
+  "capital": "Andorra la Vella",
+  "currency_code": "EUR",
+  "iso3": "AND",
+  "language_code": [
+    "and"
+  ],
+  "continent_code": "EU"
+}

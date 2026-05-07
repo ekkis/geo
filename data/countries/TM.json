@@ -1,0 +1,35 @@
+{
+  "name": {
+    "common": "Turkmenistan",
+    "official": "Turkmenistan"
+  },
+  "regions": [
+    "CAS"
+  ],
+  "capital": "Ashgabat",
+  "currency_code": "TMT",
+  "iso3": "TKM",
+  "language_code": [
+    "tk"
+  ],
+  "continent_code": "AS",
+  "tld": ".tm",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "area": 488100,
+  "population": 7057841,
+  "flag": "🇹🇲",
+  "region_common": "Asia",
+  "demonym": "Turkmen",
+  "gdp": 59887334844.06514,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "993"
+}

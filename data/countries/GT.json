@@ -1,0 +1,37 @@
+{
+  "name": {
+    "common": "Guatemala",
+    "official": "Republic of Guatemala"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "Guatemala City",
+  "currency_code": "GTQ",
+  "iso3": "GTM",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".gt",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "area": 108889,
+  "population": 18079810,
+  "flag": "🇬🇹",
+  "region_common": "Americas",
+  "demonym": "Guatemalan",
+  "gdp": 102050473863.63637,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "502"
+}

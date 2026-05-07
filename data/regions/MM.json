@@ -1,0 +1,101 @@
+{
+  "AYEYAR": {
+    "name": "Ayeyarwady",
+    "regions": [
+      "Ayeyarwady"
+    ]
+  },
+  "BAGO": {
+    "name": "Bago",
+    "regions": [
+      "Bago"
+    ]
+  },
+  "CHIN": {
+    "name": "Chin",
+    "regions": [
+      "Chin"
+    ]
+  },
+  "KACHIN": {
+    "name": "Kachin",
+    "regions": [
+      "Kachin"
+    ]
+  },
+  "KAYAH": {
+    "name": "Kayah",
+    "regions": [
+      "Kayah"
+    ]
+  },
+  "KAYIN": {
+    "name": "Kayin",
+    "regions": [
+      "Kayin"
+    ]
+  },
+  "MAGWAY": {
+    "name": "Magway",
+    "regions": [
+      "Magway"
+    ]
+  },
+  "MANDALAY": {
+    "name": "Mandalay",
+    "regions": [
+      "Mandalay"
+    ]
+  },
+  "MON": {
+    "name": "Mon",
+    "regions": [
+      "Mon"
+    ]
+  },
+  "NAYPYID": {
+    "name": "Naypyidaw",
+    "regions": [
+      "Naypyidaw"
+    ]
+  },
+  "RAKHINE": {
+    "name": "Rakhine",
+    "regions": [
+      "Rakhine"
+    ]
+  },
+  "SAGAING": {
+    "name": "Sagaing",
+    "regions": [
+      "Sagaing"
+    ]
+  },
+  "SHAN": {
+    "name": "Shan",
+    "regions": [
+      "Shan"
+    ]
+  },
+  "TANINTH": {
+    "name": "Tanintharyi",
+    "regions": [
+      "Tanintharyi"
+    ]
+  },
+  "YANGON": {
+    "name": "Yangon",
+    "regions": [
+      "Yangon"
+    ]
+  },
+  "capital": "Nay Pyi Taw",
+  "currency_code": "MMK",
+  "iso3": "MMR",
+  "language_code": [
+    "bu",
+    "bur",
+    "mmr"
+  ],
+  "continent_code": "AS"
+}

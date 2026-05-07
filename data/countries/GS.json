@@ -1,0 +1,24 @@
+{
+  "name": {
+    "common": "South Georgia",
+    "official": "South Georgia and the South Sandwich Islands"
+  },
+  "regions": [],
+  "capital": "Grytviken",
+  "currency_code": "GBP",
+  "iso3": "SGS",
+  "language_code": [
+    "sgs"
+  ],
+  "continent_code": "AN",
+  "tld": ".gs",
+  "timezones": [
+    "UTC-02:00"
+  ],
+  "area": 3903,
+  "population": 0,
+  "flag": "🇬🇸",
+  "region_common": "Antarctic",
+  "demonym": "South Georgian South Sandwich Islander",
+  "phone_code": null
+}

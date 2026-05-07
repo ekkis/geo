@@ -1,0 +1,99 @@
+{
+  "HAR": {
+    "name": "Harju",
+    "regions": [
+      "Harju"
+    ]
+  },
+  "HII": {
+    "name": "Hiiu",
+    "regions": [
+      "Hiiu"
+    ]
+  },
+  "IDA": {
+    "name": "Ida-Viru",
+    "regions": [
+      "Ida-Viru"
+    ]
+  },
+  "JAR": {
+    "name": "Järva",
+    "regions": [
+      "Järva"
+    ]
+  },
+  "JOG": {
+    "name": "Jõgeva",
+    "regions": [
+      "Jõgeva"
+    ]
+  },
+  "LAA": {
+    "name": "Lääne",
+    "regions": [
+      "Lääne"
+    ]
+  },
+  "LAA1": {
+    "name": "Lääne-Viru",
+    "regions": [
+      "Lääne-Viru"
+    ]
+  },
+  "PAR": {
+    "name": "Pärnu",
+    "regions": [
+      "Pärnu"
+    ]
+  },
+  "POL": {
+    "name": "Põlva",
+    "regions": [
+      "Põlva"
+    ]
+  },
+  "RAP": {
+    "name": "Rapla",
+    "regions": [
+      "Rapla"
+    ]
+  },
+  "SAA": {
+    "name": "Saare",
+    "regions": [
+      "Saare"
+    ]
+  },
+  "TAR": {
+    "name": "Tartu",
+    "regions": [
+      "Tartu"
+    ]
+  },
+  "VAL": {
+    "name": "Valga",
+    "regions": [
+      "Valga"
+    ]
+  },
+  "VIL": {
+    "name": "Viljandi",
+    "regions": [
+      "Viljandi"
+    ]
+  },
+  "VOR": {
+    "name": "Võru",
+    "regions": [
+      "Võru"
+    ]
+  },
+  "capital": "Tallinn",
+  "currency_code": "EUR",
+  "iso3": "EST",
+  "language_code": [
+    "et"
+  ],
+  "continent_code": "EU"
+}

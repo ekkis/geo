@@ -1,0 +1,57 @@
+{
+  "CAPITAL": {
+    "name": "Capital Region",
+    "regions": [
+      "Capital Region"
+    ]
+  },
+  "EAST": {
+    "name": "East",
+    "regions": [
+      "East"
+    ]
+  },
+  "NE": {
+    "name": "Northeast",
+    "regions": [
+      "Northeast"
+    ]
+  },
+  "NW": {
+    "name": "Northwest",
+    "regions": [
+      "Northwest"
+    ]
+  },
+  "SOUTH": {
+    "name": "South",
+    "regions": [
+      "South"
+    ]
+  },
+  "SOUTHERNPEN": {
+    "name": "Southern Peninsula",
+    "regions": [
+      "Southern Peninsula"
+    ]
+  },
+  "WEST": {
+    "name": "West",
+    "regions": [
+      "West"
+    ]
+  },
+  "WESTFJORD": {
+    "name": "Westfjords",
+    "regions": [
+      "Westfjords"
+    ]
+  },
+  "capital": "Reykjavik",
+  "currency_code": "ISK",
+  "iso3": "ISL",
+  "language_code": [
+    "is"
+  ],
+  "continent_code": "EU"
+}

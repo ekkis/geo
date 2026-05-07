@@ -1,0 +1,463 @@
+{
+  "AA": {
+    "name": "Argyll and Bute"
+  },
+  "ABE": {
+    "name": "Aberdeenshire"
+  },
+  "AC": {
+    "name": "Aberdeen City"
+  },
+  "ANG": {
+    "name": "Angus"
+  },
+  "ANT": {
+    "name": "Antrim"
+  },
+  "ARM": {
+    "name": "Armagh"
+  },
+  "AVO": {
+    "name": "Avon",
+    "regions": [
+      "England"
+    ]
+  },
+  "BED": {
+    "name": "Bedfordshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "BER": {
+    "name": "Berkshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "BG": {
+    "name": "Blaenau Gwent"
+  },
+  "BOR": {
+    "name": "Borders",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "BRI": {
+    "name": "Bridgend",
+    "regions": [
+      "Wales"
+    ]
+  },
+  "BUC": {
+    "name": "Buckinghamshire"
+  },
+  "CAE": {
+    "name": "Caerphilly"
+  },
+  "CAM": {
+    "name": "Cambridgeshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "CAR": {
+    "name": "Cardiff"
+  },
+  "CER": {
+    "name": "Ceredigion"
+  },
+  "CHE": {
+    "name": "Cheshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "CI": {
+    "name": "Channel Islands"
+  },
+  "CLA": {
+    "name": "Clackmannan"
+  },
+  "CLE": {
+    "name": "Cleveland",
+    "regions": [
+      "England"
+    ]
+  },
+  "CON": {
+    "name": "Conwy"
+  },
+  "COR": {
+    "name": "Cornwall",
+    "regions": [
+      "England"
+    ]
+  },
+  "CUM": {
+    "name": "Cumbria",
+    "regions": [
+      "England"
+    ]
+  },
+  "DA": {
+    "name": "Dumfries and Galloway"
+  },
+  "DEN": {
+    "name": "Denbighshire"
+  },
+  "DER": {
+    "name": "Derbyshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "DEV": {
+    "name": "Devon",
+    "regions": [
+      "England"
+    ]
+  },
+  "DOR": {
+    "name": "Dorset",
+    "regions": [
+      "England"
+    ]
+  },
+  "DOW": {
+    "name": "Down"
+  },
+  "DUR": {
+    "name": "Durham",
+    "regions": [
+      "England"
+    ]
+  },
+  "EA": {
+    "name": "East Ayrshire"
+  },
+  "EC": {
+    "name": "Edinburgh City"
+  },
+  "ED": {
+    "name": "East Dunbartonshire"
+  },
+  "EL": {
+    "name": "East Lothian"
+  },
+  "ER": {
+    "name": "East Renfrewshire"
+  },
+  "ES": {
+    "name": "East Sussex",
+    "regions": [
+      "England"
+    ]
+  },
+  "ESS": {
+    "name": "Essex",
+    "regions": [
+      "England"
+    ]
+  },
+  "FAL": {
+    "name": "Falkirk"
+  },
+  "FER": {
+    "name": "Fermanagh"
+  },
+  "FIF": {
+    "name": "Fife",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "FLI": {
+    "name": "Flintshire"
+  },
+  "GLA": {
+    "name": "Glasgow",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "GLO": {
+    "name": "Gloucestershire",
+    "regions": [
+      "England"
+    ]
+  },
+  "GM": {
+    "name": "Greater Manchester",
+    "regions": [
+      "England"
+    ]
+  },
+  "GWY": {
+    "name": "Gwynedd"
+  },
+  "HAM": {
+    "name": "Hampshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "HER": {
+    "name": "Hertfordshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "HIG": {
+    "name": "Highland"
+  },
+  "HUM": {
+    "name": "Humberside"
+  },
+  "INV": {
+    "name": "Inverclyde"
+  },
+  "IO": {
+    "name": "Isle of Anglesey"
+  },
+  "KEN": {
+    "name": "Kent",
+    "regions": [
+      "England"
+    ]
+  },
+  "LAN": {
+    "name": "Lancashire",
+    "regions": [
+      "England"
+    ]
+  },
+  "LEI": {
+    "name": "Leicestershire",
+    "regions": [
+      "England"
+    ]
+  },
+  "LIN": {
+    "name": "Lincolnshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "LON": {
+    "name": "Londonderry"
+  },
+  "MER": {
+    "name": "Merseyside",
+    "regions": [
+      "England"
+    ]
+  },
+  "MID": {
+    "name": "Midlothian",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "MON": {
+    "name": "Monmouthshire"
+  },
+  "MOR": {
+    "name": "Moray",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "MT": {
+    "name": "Merthyr Tydfil"
+  },
+  "NA": {
+    "name": "North Ayrshire"
+  },
+  "NEW": {
+    "name": "Newport"
+  },
+  "NL": {
+    "name": "North Lanarkshire"
+  },
+  "NOR": {
+    "name": "Northumberland",
+    "regions": [
+      "England"
+    ]
+  },
+  "NOT": {
+    "name": "Nottinghamshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "NP": {
+    "name": "Neath Port Talbot"
+  },
+  "NY": {
+    "name": "North Yorkshire"
+  },
+  "ORK": {
+    "name": "Orkney",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "OXF": {
+    "name": "Oxfordshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "PA": {
+    "name": "Perthshire and Kinross"
+  },
+  "PEM": {
+    "name": "Pembrokeshire"
+  },
+  "POW": {
+    "name": "Powys"
+  },
+  "RC": {
+    "name": "Rhondda Cynon Taff"
+  },
+  "REN": {
+    "name": "Renfrewshire"
+  },
+  "ROX": {
+    "name": "Roxburghshire"
+  },
+  "RUT": {
+    "name": "Rutland",
+    "regions": [
+      "England"
+    ]
+  },
+  "SA": {
+    "name": "South Ayrshire"
+  },
+  "SHE": {
+    "name": "Shetland",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "SHR": {
+    "name": "Shropshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "SL": {
+    "name": "South Lanarkshire"
+  },
+  "SOM": {
+    "name": "Somerset",
+    "regions": [
+      "England"
+    ]
+  },
+  "STA": {
+    "name": "Staffordshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "STI": {
+    "name": "Stirling",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "SUF": {
+    "name": "Suffolk",
+    "regions": [
+      "England"
+    ]
+  },
+  "SUR": {
+    "name": "Surrey",
+    "regions": [
+      "England"
+    ]
+  },
+  "SWA": {
+    "name": "Swansea"
+  },
+  "SY": {
+    "name": "South Yorkshire"
+  },
+  "TA": {
+    "name": "Tyne and Wear"
+  },
+  "TOR": {
+    "name": "Torfaen"
+  },
+  "TV": {
+    "name": "The Vale of Glamorgan"
+  },
+  "TYR": {
+    "name": "Tyrone"
+  },
+  "WAR": {
+    "name": "Warwickshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "WD": {
+    "name": "West Dunbartonshire"
+  },
+  "WI": {
+    "name": "Western Isles"
+  },
+  "WIL": {
+    "name": "Wiltshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "WL": {
+    "name": "West Lothian",
+    "regions": [
+      "Scotland"
+    ]
+  },
+  "WM": {
+    "name": "West Midlands",
+    "regions": [
+      "England"
+    ]
+  },
+  "WOR": {
+    "name": "Worcestershire",
+    "regions": [
+      "England"
+    ]
+  },
+  "WRE": {
+    "name": "Wrexham"
+  },
+  "WS": {
+    "name": "West Sussex",
+    "regions": [
+      "England"
+    ]
+  },
+  "WY": {
+    "name": "West Yorkshire",
+    "regions": [
+      "England"
+    ]
+  },
+  "capital": "London",
+  "currency_code": "GBP",
+  "iso3": "GBR",
+  "language_code": [
+    "gbr",
+    "uk"
+  ],
+  "continent_code": "EU"
+}

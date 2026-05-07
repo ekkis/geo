@@ -1,0 +1,51 @@
+{
+  "FERIZAJ": {
+    "name": "Ferizaj",
+    "regions": [
+      "Ferizaj"
+    ]
+  },
+  "GJAKOVA": {
+    "name": "Gjakova",
+    "regions": [
+      "Gjakova"
+    ]
+  },
+  "GJILAN": {
+    "name": "Gjilan",
+    "regions": [
+      "Gjilan"
+    ]
+  },
+  "MITROVICA": {
+    "name": "Mitrovica",
+    "regions": [
+      "Mitrovica"
+    ]
+  },
+  "PEJA": {
+    "name": "Peja",
+    "regions": [
+      "Peja"
+    ]
+  },
+  "PRISTINA": {
+    "name": "Pristina",
+    "regions": [
+      "Pristina"
+    ]
+  },
+  "PRIZREN": {
+    "name": "Prizren",
+    "regions": [
+      "Prizren"
+    ]
+  },
+  "capital": "Pristina",
+  "currency_code": "EUR",
+  "iso3": "XKX",
+  "language_code": [
+    "xkk"
+  ],
+  "continent_code": "EU"
+}

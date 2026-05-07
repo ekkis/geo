@@ -1,0 +1,41 @@
+{
+  "name": {
+    "common": "Portugal",
+    "official": "Portuguese Republic"
+  },
+  "regions": [
+    "SE"
+  ],
+  "capital": "Lisbon",
+  "currency_code": "EUR",
+  "iso3": "PRT",
+  "language_code": [
+    "pt"
+  ],
+  "continent_code": "EU",
+  "tld": ".pt",
+  "timezones": [
+    "UTC-01:00",
+    "UTC"
+  ],
+  "area": 92090,
+  "population": 10749635,
+  "flag": "🇵🇹",
+  "region_common": "Europe",
+  "demonym": "Portuguese",
+  "gdp": 287080013574.4972,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####-###",
+    "regex": "^(\\d{7})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "351"
+}

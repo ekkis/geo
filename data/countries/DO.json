@@ -1,0 +1,37 @@
+{
+  "name": {
+    "common": "Dominican Republic",
+    "official": "Dominican Republic"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "Santo Domingo",
+  "currency_code": "DOP",
+  "iso3": "DOM",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".do",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 48671,
+  "population": 10771504,
+  "flag": "🇩🇴",
+  "region_common": "Americas",
+  "demonym": "Dominican",
+  "gdp": 121444279313.93079,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "+1-809 and 1-829"
+}

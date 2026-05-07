@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Mauritania",
+    "official": "Islamic Republic of Mauritania"
+  },
+  "capital": "Nouakchott",
+  "currency_code": "MRO",
+  "iso3": "MRT",
+  "language_code": [
+    "mrt"
+  ],
+  "continent_code": "AF",
+  "tld": ".mr",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 1030700,
+  "population": 4927532,
+  "flag": "🇲🇷",
+  "region_common": "Africa",
+  "demonym": "Mauritanian",
+  "gdp": 10452577062.75806,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "222"
+}

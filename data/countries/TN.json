@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Tunisia",
+    "official": "Tunisian Republic"
+  },
+  "capital": "Tunis",
+  "currency_code": "TND",
+  "iso3": "TUN",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AF",
+  "tld": ".tn",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 163610,
+  "population": 11972169,
+  "flag": "🇹🇳",
+  "region_common": "Africa",
+  "demonym": "Tunisian",
+  "gdp": 48529595416.65326,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "216"
+}
