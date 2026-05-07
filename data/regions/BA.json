@@ -1,56 +1,47 @@
 {
-  "BOSPO": {
-    "name": "Bosnian Podrinje",
-    "regions": [
-      "Bosnian Podrinje"
-    ]
+  "Bosnian Podrinje": {
+    "BOSPO": {
+      "name": "Bosnian Podrinje"
+    }
   },
-  "CENBO": {
-    "name": "Central Bosnia",
-    "regions": [
-      "Central Bosnia"
-    ]
+  "Central Bosnia": {
+    "CENBO": {
+      "name": "Central Bosnia"
+    }
   },
-  "HER": {
-    "name": "Herzegovina-Neretva",
-    "regions": [
-      "Herzegovina-Neretva"
-    ]
+  "Herzegovina-Neretva": {
+    "HER": {
+      "name": "Herzegovina-Neretva"
+    }
   },
-  "POS": {
-    "name": "Posavina",
-    "regions": [
-      "Posavina"
-    ]
+  "Posavina": {
+    "POS": {
+      "name": "Posavina"
+    }
   },
-  "REPSR": {
-    "name": "Republika Srpska",
-    "regions": [
-      "Republika Srpska"
-    ]
+  "Republika Srpska": {
+    "REPSR": {
+      "name": "Republika Srpska"
+    }
   },
-  "TUZ": {
-    "name": "Tuzla",
-    "regions": [
-      "Tuzla"
-    ]
+  "Tuzla": {
+    "TUZ": {
+      "name": "Tuzla"
+    }
   },
-  "UNA": {
-    "name": "Una-Sana",
-    "regions": [
-      "Una-Sana"
-    ]
+  "Una-Sana": {
+    "UNA": {
+      "name": "Una-Sana"
+    }
   },
-  "WESHE": {
-    "name": "West Herzegovina",
-    "regions": [
-      "West Herzegovina"
-    ]
+  "West Herzegovina": {
+    "WESHE": {
+      "name": "West Herzegovina"
+    }
   },
-  "ZEN": {
-    "name": "Zenica-Doboj",
-    "regions": [
-      "Zenica-Doboj"
-    ]
+  "Zenica-Doboj": {
+    "ZEN": {
+      "name": "Zenica-Doboj"
+    }
   }
 }

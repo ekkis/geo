@@ -1,26 +1,22 @@
 {
-  "BELAIT": {
-    "name": "Belait",
-    "regions": [
-      "Belait"
-    ]
+  "Belait": {
+    "BELAIT": {
+      "name": "Belait"
+    }
   },
-  "BRUNEM": {
-    "name": "Brunei-Muara",
-    "regions": [
-      "Brunei-Muara"
-    ]
+  "Brunei-Muara": {
+    "BRUNEM": {
+      "name": "Brunei-Muara"
+    }
   },
-  "TEMBUR": {
-    "name": "Temburong",
-    "regions": [
-      "Temburong"
-    ]
+  "Temburong": {
+    "TEMBUR": {
+      "name": "Temburong"
+    }
   },
-  "TUTONG": {
-    "name": "Tutong",
-    "regions": [
-      "Tutong"
-    ]
+  "Tutong": {
+    "TUTONG": {
+      "name": "Tutong"
+    }
   }
 }

@@ -1,1 +1,43 @@
-{}
+{
+  "none": {
+    "BG": {
+      "name": "Bong"
+    },
+    "BI": {
+      "name": "Bomi"
+    },
+    "CM": {
+      "name": "Grand Cape Mount"
+    },
+    "GB": {
+      "name": "Grand Bassa"
+    },
+    "GG": {
+      "name": "Grand Gedeh"
+    },
+    "GK": {
+      "name": "Grand Kru"
+    },
+    "LO": {
+      "name": "Lofa"
+    },
+    "MG": {
+      "name": "Margibi"
+    },
+    "ML": {
+      "name": "Maryland"
+    },
+    "MS": {
+      "name": "Montserrado"
+    },
+    "NI": {
+      "name": "Nimba"
+    },
+    "RI": {
+      "name": "River Gee"
+    },
+    "SI": {
+      "name": "Sinoe"
+    }
+  }
+}

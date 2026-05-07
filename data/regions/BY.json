@@ -1,44 +1,37 @@
 {
-  "BREST": {
-    "name": "Brest Region",
-    "regions": [
-      "Brest Region"
-    ]
+  "Brest Region": {
+    "BREST": {
+      "name": "Brest Region"
+    }
   },
-  "GOMEL": {
-    "name": "Gomel Region",
-    "regions": [
-      "Gomel Region"
-    ]
+  "Gomel Region": {
+    "GOMEL": {
+      "name": "Gomel Region"
+    }
   },
-  "GRODN": {
-    "name": "Grodno Region",
-    "regions": [
-      "Grodno Region"
-    ]
+  "Grodno Region": {
+    "GRODN": {
+      "name": "Grodno Region"
+    }
   },
-  "MINSK": {
-    "name": "Minsk City",
-    "regions": [
-      "Minsk City"
-    ]
+  "Minsk City": {
+    "MINSK": {
+      "name": "Minsk City"
+    }
   },
-  "MINSKREG": {
-    "name": "Minsk Region",
-    "regions": [
-      "Minsk Region"
-    ]
+  "Minsk Region": {
+    "MINSKREG": {
+      "name": "Minsk Region"
+    }
   },
-  "MOGIL": {
-    "name": "Mogilev Region",
-    "regions": [
-      "Mogilev Region"
-    ]
+  "Mogilev Region": {
+    "MOGIL": {
+      "name": "Mogilev Region"
+    }
   },
-  "VITEB": {
-    "name": "Vitebsk Region",
-    "regions": [
-      "Vitebsk Region"
-    ]
+  "Vitebsk Region": {
+    "VITEB": {
+      "name": "Vitebsk Region"
+    }
   }
 }

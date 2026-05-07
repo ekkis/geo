@@ -266,5 +266,67 @@
     "TER": {
       "name": "Terni"
     }
+  },
+  "none": {
+    "AP": {
+      "name": "Ascoli Piceno"
+    },
+    "BAR": {
+      "name": "Barletta-Andria-Trani"
+    },
+    "FOR": {
+      "name": "Forlì-Cesena"
+    },
+    "GEN": {
+      "name": "Genova"
+    },
+    "MAN": {
+      "name": "Mantova"
+    },
+    "MAS": {
+      "name": "Massa-Carrara"
+    },
+    "ME": {
+      "name": "Monza e della Brianza"
+    },
+    "MIL": {
+      "name": "Milano"
+    },
+    "NAP": {
+      "name": "Napoli"
+    },
+    "NUO": {
+      "name": "Nuoro"
+    },
+    "PAD": {
+      "name": "Padova"
+    },
+    "PE": {
+      "name": "Pesaro e Urbino"
+    },
+    "PRA": {
+      "name": "Prato"
+    },
+    "RIE": {
+      "name": "Rieti"
+    },
+    "RIM": {
+      "name": "Rimini"
+    },
+    "ROM": {
+      "name": "Roma"
+    },
+    "ROV": {
+      "name": "Rovigo"
+    },
+    "TRI": {
+      "name": "Trieste"
+    },
+    "VEN": {
+      "name": "Venezia"
+    },
+    "VV": {
+      "name": "Vibo Valentia"
+    }
   }
 }

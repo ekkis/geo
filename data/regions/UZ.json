@@ -1,80 +1,67 @@
 {
-  "ANDI": {
-    "name": "Andijan",
-    "regions": [
-      "Andijan"
-    ]
+  "Andijan": {
+    "ANDI": {
+      "name": "Andijan"
+    }
   },
-  "BUKH": {
-    "name": "Bukhara",
-    "regions": [
-      "Bukhara"
-    ]
+  "Bukhara": {
+    "BUKH": {
+      "name": "Bukhara"
+    }
   },
-  "FERG": {
-    "name": "Fergana",
-    "regions": [
-      "Fergana"
-    ]
+  "Fergana": {
+    "FERG": {
+      "name": "Fergana"
+    }
   },
-  "JIZZ": {
-    "name": "Jizzakh",
-    "regions": [
-      "Jizzakh"
-    ]
+  "Jizzakh": {
+    "JIZZ": {
+      "name": "Jizzakh"
+    }
   },
-  "KARA": {
-    "name": "Karakalpakstan",
-    "regions": [
-      "Karakalpakstan"
-    ]
+  "Karakalpakstan": {
+    "KARA": {
+      "name": "Karakalpakstan"
+    }
   },
-  "KHOR": {
-    "name": "Khorezm",
-    "regions": [
-      "Khorezm"
-    ]
+  "Khorezm": {
+    "KHOR": {
+      "name": "Khorezm"
+    }
   },
-  "NAMA": {
-    "name": "Namangan",
-    "regions": [
-      "Namangan"
-    ]
+  "Namangan": {
+    "NAMA": {
+      "name": "Namangan"
+    }
   },
-  "NAV": {
-    "name": "Navoiy",
-    "regions": [
-      "Navoiy"
-    ]
+  "Navoiy": {
+    "NAV": {
+      "name": "Navoiy"
+    }
   },
-  "QASH": {
-    "name": "Qashqadaryo",
-    "regions": [
-      "Qashqadaryo"
-    ]
+  "Qashqadaryo": {
+    "QASH": {
+      "name": "Qashqadaryo"
+    }
   },
-  "SAM": {
-    "name": "Samarkand",
-    "regions": [
-      "Samarkand"
-    ]
+  "Samarkand": {
+    "SAM": {
+      "name": "Samarkand"
+    }
   },
-  "SURX": {
-    "name": "Surxondaryo",
-    "regions": [
-      "Surxondaryo"
-    ]
+  "Surxondaryo": {
+    "SURX": {
+      "name": "Surxondaryo"
+    }
   },
-  "SYR": {
-    "name": "Syrdarya",
-    "regions": [
-      "Syrdarya"
-    ]
+  "Syrdarya": {
+    "SYR": {
+      "name": "Syrdarya"
+    }
   },
-  "TASH": {
-    "name": "Tashkent",
-    "regions": [
-      "Tashkent"
-    ]
+  "Tashkent": {
+    "TASH": {
+      "name": "Tashkent"
+    }
   }
 }

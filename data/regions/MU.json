@@ -1,1 +1,31 @@
-{}
+{
+  "none": {
+    "AG": {
+      "name": "Agalega"
+    },
+    "CC": {
+      "name": "Cargados Carajos"
+    },
+    "FL": {
+      "name": "Flacq"
+    },
+    "PA": {
+      "name": "Pamplemousses"
+    },
+    "PL": {
+      "name": "Plaines Wilhems"
+    },
+    "PU": {
+      "name": "Port Louis"
+    },
+    "RR": {
+      "name": "Rivière du Rempart"
+    },
+    "SA": {
+      "name": "Savanne"
+    },
+    "WO": {
+      "name": "Rodrigues"
+    }
+  }
+}

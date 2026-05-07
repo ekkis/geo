@@ -1,8 +1,7 @@
 {
-  "VATCI": {
-    "name": "Vatican City",
-    "regions": [
-      "Vatican City"
-    ]
+  "Vatican City": {
+    "VATCI": {
+      "name": "Vatican City"
+    }
   }
 }

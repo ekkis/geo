@@ -1,1 +1,49 @@
-{}
+{
+  "none": {
+    "BAL": {
+      "name": "Balkh"
+    },
+    "FAO": {
+      "name": "Farah"
+    },
+    "GHA": {
+      "name": "Ghazni"
+    },
+    "HEL": {
+      "name": "Helmand"
+    },
+    "HER": {
+      "name": "Herat"
+    },
+    "KAB": {
+      "name": "Kabul"
+    },
+    "KAN": {
+      "name": "Kandahar"
+    },
+    "KND": {
+      "name": "Kunduz"
+    },
+    "LOG": {
+      "name": "Logar"
+    },
+    "NAN": {
+      "name": "Nangarhar"
+    },
+    "PAN": {
+      "name": "Panjshir"
+    },
+    "PAR": {
+      "name": "Parwan"
+    },
+    "SAM": {
+      "name": "Samangan"
+    },
+    "URA": {
+      "name": "Uruzgan"
+    },
+    "WAR": {
+      "name": "Wardak"
+    }
+  }
+}

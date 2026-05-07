@@ -1,98 +1,82 @@
 {
-  "JOHOR": {
-    "name": "Johor",
-    "regions": [
-      "Johor"
-    ]
+  "Johor": {
+    "JOHOR": {
+      "name": "Johor"
+    }
   },
-  "KEDAH": {
-    "name": "Kedah",
-    "regions": [
-      "Kedah"
-    ]
+  "Kedah": {
+    "KEDAH": {
+      "name": "Kedah"
+    }
   },
-  "KELANTAN": {
-    "name": "Kelantan",
-    "regions": [
-      "Kelantan"
-    ]
+  "Kelantan": {
+    "KELANTAN": {
+      "name": "Kelantan"
+    }
   },
-  "KL": {
-    "name": "Kuala Lumpur",
-    "regions": [
-      "Kuala Lumpur"
-    ]
+  "Kuala Lumpur": {
+    "KL": {
+      "name": "Kuala Lumpur"
+    }
   },
-  "LABUAN": {
-    "name": "Labuan",
-    "regions": [
-      "Labuan"
-    ]
+  "Labuan": {
+    "LABUAN": {
+      "name": "Labuan"
+    }
   },
-  "MELAKA": {
-    "name": "Malacca",
-    "regions": [
-      "Malacca"
-    ]
+  "Malacca": {
+    "MELAKA": {
+      "name": "Malacca"
+    }
   },
-  "NSEM": {
-    "name": "Negeri Sembilan",
-    "regions": [
-      "Negeri Sembilan"
-    ]
+  "Negeri Sembilan": {
+    "NSEM": {
+      "name": "Negeri Sembilan"
+    }
   },
-  "PAHANG": {
-    "name": "Pahang",
-    "regions": [
-      "Pahang"
-    ]
+  "Pahang": {
+    "PAHANG": {
+      "name": "Pahang"
+    }
   },
-  "PENANG": {
-    "name": "Penang",
-    "regions": [
-      "Penang"
-    ]
+  "Penang": {
+    "PENANG": {
+      "name": "Penang"
+    }
   },
-  "PERAK": {
-    "name": "Perak",
-    "regions": [
-      "Perak"
-    ]
+  "Perak": {
+    "PERAK": {
+      "name": "Perak"
+    }
   },
-  "PERLIS": {
-    "name": "Perlis",
-    "regions": [
-      "Perlis"
-    ]
+  "Perlis": {
+    "PERLIS": {
+      "name": "Perlis"
+    }
   },
-  "PUTRAJAYA": {
-    "name": "Putrajaya",
-    "regions": [
-      "Putrajaya"
-    ]
+  "Putrajaya": {
+    "PUTRAJAYA": {
+      "name": "Putrajaya"
+    }
   },
-  "SABAH": {
-    "name": "Sabah",
-    "regions": [
-      "Sabah"
-    ]
+  "Sabah": {
+    "SABAH": {
+      "name": "Sabah"
+    }
   },
-  "SARAWAK": {
-    "name": "Sarawak",
-    "regions": [
-      "Sarawak"
-    ]
+  "Sarawak": {
+    "SARAWAK": {
+      "name": "Sarawak"
+    }
   },
-  "SELANGOR": {
-    "name": "Selangor",
-    "regions": [
-      "Selangor"
-    ]
+  "Selangor": {
+    "SELANGOR": {
+      "name": "Selangor"
+    }
   },
-  "TERENGGANU": {
-    "name": "Terengganu",
-    "regions": [
-      "Terengganu"
-    ]
+  "Terengganu": {
+    "TERENGGANU": {
+      "name": "Terengganu"
+    }
   }
 }

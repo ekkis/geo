@@ -1,86 +1,72 @@
 {
-  "GREPO": {
-    "name": "Greater Poland",
-    "regions": [
-      "Greater Poland"
-    ]
+  "Greater Poland": {
+    "GREPO": {
+      "name": "Greater Poland"
+    }
   },
-  "KUY": {
-    "name": "Kuyavian-Pomeranian",
-    "regions": [
-      "Kuyavian-Pomeranian"
-    ]
+  "Kuyavian-Pomeranian": {
+    "KUY": {
+      "name": "Kuyavian-Pomeranian"
+    }
   },
-  "LESPO": {
-    "name": "Lesser Poland",
-    "regions": [
-      "Lesser Poland"
-    ]
+  "Lesser Poland": {
+    "LESPO": {
+      "name": "Lesser Poland"
+    }
   },
-  "LOWSI": {
-    "name": "Lower Silesian",
-    "regions": [
-      "Lower Silesian"
-    ]
+  "Lower Silesian": {
+    "LOWSI": {
+      "name": "Lower Silesian"
+    }
   },
-  "LUB": {
-    "name": "Lublin",
-    "regions": [
-      "Lublin"
-    ]
+  "Lublin": {
+    "LUB": {
+      "name": "Lublin"
+    }
   },
-  "LUB1": {
-    "name": "Lubusz",
-    "regions": [
-      "Lubusz"
-    ]
+  "Lubusz": {
+    "LUB1": {
+      "name": "Lubusz"
+    }
   },
-  "MAS": {
-    "name": "Masovian",
-    "regions": [
-      "Masovian"
-    ]
+  "Masovian": {
+    "MAS": {
+      "name": "Masovian"
+    }
   },
-  "ODZ": {
-    "name": "Łódź",
-    "regions": [
-      "Łódź"
-    ]
+  "Łódź": {
+    "ODZ": {
+      "name": "Łódź"
+    }
   },
-  "OPO": {
-    "name": "Opole",
-    "regions": [
-      "Opole"
-    ]
+  "Opole": {
+    "OPO": {
+      "name": "Opole"
+    }
   },
-  "POD": {
-    "name": "Podlaskie",
-    "regions": [
-      "Podlaskie"
-    ]
+  "Podlaskie": {
+    "POD": {
+      "name": "Podlaskie"
+    }
   },
-  "POM": {
-    "name": "Pomeranian",
-    "regions": [
-      "Pomeranian"
-    ]
+  "Pomeranian": {
+    "POM": {
+      "name": "Pomeranian"
+    }
   },
-  "SWI": {
-    "name": "Świętokrzyskie",
-    "regions": [
-      "Świętokrzyskie"
-    ]
+  "Świętokrzyskie": {
+    "SWI": {
+      "name": "Świętokrzyskie"
+    }
   },
-  "WAR": {
-    "name": "Warmian-Masurian",
-    "regions": [
-      "Warmian-Masurian"
-    ]
+  "Warmian-Masurian": {
+    "WAR": {
+      "name": "Warmian-Masurian"
+    }
   },
-  "WESPO": {
-    "name": "West Pomeranian",
-    "regions": [
-      "West Pomeranian"
-    ]
+  "West Pomeranian": {
+    "WESPO": {
+      "name": "West Pomeranian"
+    }
   }
 }

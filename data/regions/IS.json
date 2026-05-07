@@ -1,50 +1,42 @@
 {
-  "CAPITAL": {
-    "name": "Capital Region",
-    "regions": [
-      "Capital Region"
-    ]
+  "Capital Region": {
+    "CAPITAL": {
+      "name": "Capital Region"
+    }
   },
-  "EAST": {
-    "name": "East",
-    "regions": [
-      "East"
-    ]
+  "East": {
+    "EAST": {
+      "name": "East"
+    }
   },
-  "NE": {
-    "name": "Northeast",
-    "regions": [
-      "Northeast"
-    ]
+  "Northeast": {
+    "NE": {
+      "name": "Northeast"
+    }
   },
-  "NW": {
-    "name": "Northwest",
-    "regions": [
-      "Northwest"
-    ]
+  "Northwest": {
+    "NW": {
+      "name": "Northwest"
+    }
   },
-  "SOUTH": {
-    "name": "South",
-    "regions": [
-      "South"
-    ]
+  "South": {
+    "SOUTH": {
+      "name": "South"
+    }
   },
-  "SOUTHERNPEN": {
-    "name": "Southern Peninsula",
-    "regions": [
-      "Southern Peninsula"
-    ]
+  "Southern Peninsula": {
+    "SOUTHERNPEN": {
+      "name": "Southern Peninsula"
+    }
   },
-  "WEST": {
-    "name": "West",
-    "regions": [
-      "West"
-    ]
+  "West": {
+    "WEST": {
+      "name": "West"
+    }
   },
-  "WESTFJORD": {
-    "name": "Westfjords",
-    "regions": [
-      "Westfjords"
-    ]
+  "Westfjords": {
+    "WESTFJORD": {
+      "name": "Westfjords"
+    }
   }
 }

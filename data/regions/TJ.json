@@ -1,26 +1,22 @@
 {
-  "DUSH": {
-    "name": "Dushanbe",
-    "regions": [
-      "Dushanbe"
-    ]
+  "Dushanbe": {
+    "DUSH": {
+      "name": "Dushanbe"
+    }
   },
-  "GBAO": {
-    "name": "Gorno-Badakhshan",
-    "regions": [
-      "Gorno-Badakhshan"
-    ]
+  "Gorno-Badakhshan": {
+    "GBAO": {
+      "name": "Gorno-Badakhshan"
+    }
   },
-  "KHAT": {
-    "name": "Khatlon",
-    "regions": [
-      "Khatlon"
-    ]
+  "Khatlon": {
+    "KHAT": {
+      "name": "Khatlon"
+    }
   },
-  "SUGH": {
-    "name": "Sughd",
-    "regions": [
-      "Sughd"
-    ]
+  "Sughd": {
+    "SUGH": {
+      "name": "Sughd"
+    }
   }
 }

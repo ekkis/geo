@@ -1,86 +1,72 @@
 {
-  "CENBO": {
-    "name": "Central Bohemian",
-    "regions": [
-      "Central Bohemian"
-    ]
+  "Central Bohemian": {
+    "CENBO": {
+      "name": "Central Bohemian"
+    }
   },
-  "HRAKR": {
-    "name": "Hradec Králové",
-    "regions": [
-      "Hradec Králové"
-    ]
+  "Hradec Králové": {
+    "HRAKR": {
+      "name": "Hradec Králové"
+    }
   },
-  "KARVA": {
-    "name": "Karlovy Vary",
-    "regions": [
-      "Karlovy Vary"
-    ]
+  "Karlovy Vary": {
+    "KARVA": {
+      "name": "Karlovy Vary"
+    }
   },
-  "LIB": {
-    "name": "Liberec",
-    "regions": [
-      "Liberec"
-    ]
+  "Liberec": {
+    "LIB": {
+      "name": "Liberec"
+    }
   },
-  "MOR": {
-    "name": "Moravian-Silesian",
-    "regions": [
-      "Moravian-Silesian"
-    ]
+  "Moravian-Silesian": {
+    "MOR": {
+      "name": "Moravian-Silesian"
+    }
   },
-  "OLO": {
-    "name": "Olomouc",
-    "regions": [
-      "Olomouc"
-    ]
+  "Olomouc": {
+    "OLO": {
+      "name": "Olomouc"
+    }
   },
-  "PAR": {
-    "name": "Pardubice",
-    "regions": [
-      "Pardubice"
-    ]
+  "Pardubice": {
+    "PAR": {
+      "name": "Pardubice"
+    }
   },
-  "PLZ": {
-    "name": "Plzeň",
-    "regions": [
-      "Plzeň"
-    ]
+  "Plzeň": {
+    "PLZ": {
+      "name": "Plzeň"
+    }
   },
-  "PRA": {
-    "name": "Prague",
-    "regions": [
-      "Prague"
-    ]
+  "Prague": {
+    "PRA": {
+      "name": "Prague"
+    }
   },
-  "SOUBO": {
-    "name": "South Bohemian",
-    "regions": [
-      "South Bohemian"
-    ]
+  "South Bohemian": {
+    "SOUBO": {
+      "name": "South Bohemian"
+    }
   },
-  "SOUMO": {
-    "name": "South Moravian",
-    "regions": [
-      "South Moravian"
-    ]
+  "South Moravian": {
+    "SOUMO": {
+      "name": "South Moravian"
+    }
   },
-  "USTNA": {
-    "name": "Ústí nad Labem",
-    "regions": [
-      "Ústí nad Labem"
-    ]
+  "Ústí nad Labem": {
+    "USTNA": {
+      "name": "Ústí nad Labem"
+    }
   },
-  "VYS": {
-    "name": "Vysočina",
-    "regions": [
-      "Vysočina"
-    ]
+  "Vysočina": {
+    "VYS": {
+      "name": "Vysočina"
+    }
   },
-  "ZLI": {
-    "name": "Zlín",
-    "regions": [
-      "Zlín"
-    ]
+  "Zlín": {
+    "ZLI": {
+      "name": "Zlín"
+    }
   }
 }

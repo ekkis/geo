@@ -1,38 +1,32 @@
 {
-  "AHAL": {
-    "name": "Ahal",
-    "regions": [
-      "Ahal"
-    ]
+  "Ahal": {
+    "AHAL": {
+      "name": "Ahal"
+    }
   },
-  "ASH": {
-    "name": "Ashgabat",
-    "regions": [
-      "Ashgabat"
-    ]
+  "Ashgabat": {
+    "ASH": {
+      "name": "Ashgabat"
+    }
   },
-  "BALK": {
-    "name": "Balkan",
-    "regions": [
-      "Balkan"
-    ]
+  "Balkan": {
+    "BALK": {
+      "name": "Balkan"
+    }
   },
-  "DASH": {
-    "name": "Dashoguz",
-    "regions": [
-      "Dashoguz"
-    ]
+  "Dashoguz": {
+    "DASH": {
+      "name": "Dashoguz"
+    }
   },
-  "LEBA": {
-    "name": "Lebap",
-    "regions": [
-      "Lebap"
-    ]
+  "Lebap": {
+    "LEBA": {
+      "name": "Lebap"
+    }
   },
-  "MARY": {
-    "name": "Mary",
-    "regions": [
-      "Mary"
-    ]
+  "Mary": {
+    "MARY": {
+      "name": "Mary"
+    }
   }
 }

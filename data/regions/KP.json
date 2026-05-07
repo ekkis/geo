@@ -1,74 +1,62 @@
 {
-  "CHAGANG": {
-    "name": "Chagang",
-    "regions": [
-      "Chagang"
-    ]
+  "Chagang": {
+    "CHAGANG": {
+      "name": "Chagang"
+    }
   },
-  "HAMPNORTH": {
-    "name": "North Hamgyong",
-    "regions": [
-      "North Hamgyong"
-    ]
+  "North Hamgyong": {
+    "HAMPNORTH": {
+      "name": "North Hamgyong"
+    }
   },
-  "HAMSOUTH": {
-    "name": "South Hamgyong",
-    "regions": [
-      "South Hamgyong"
-    ]
+  "South Hamgyong": {
+    "HAMSOUTH": {
+      "name": "South Hamgyong"
+    }
   },
-  "HWABONORTH": {
-    "name": "North Hwanghae",
-    "regions": [
-      "North Hwanghae"
-    ]
+  "North Hwanghae": {
+    "HWABONORTH": {
+      "name": "North Hwanghae"
+    }
   },
-  "HWABOSOUTH": {
-    "name": "South Hwanghae",
-    "regions": [
-      "South Hwanghae"
-    ]
+  "South Hwanghae": {
+    "HWABOSOUTH": {
+      "name": "South Hwanghae"
+    }
   },
-  "KANGWON": {
-    "name": "Kangwon",
-    "regions": [
-      "Kangwon"
-    ]
+  "Kangwon": {
+    "KANGWON": {
+      "name": "Kangwon"
+    }
   },
-  "NAMPO": {
-    "name": "Nampo",
-    "regions": [
-      "Nampo"
-    ]
+  "Nampo": {
+    "NAMPO": {
+      "name": "Nampo"
+    }
   },
-  "PYONGBONORTH": {
-    "name": "North Pyongan",
-    "regions": [
-      "North Pyongan"
-    ]
+  "North Pyongan": {
+    "PYONGBONORTH": {
+      "name": "North Pyongan"
+    }
   },
-  "PYONGBOSOUTH": {
-    "name": "South Pyongan",
-    "regions": [
-      "South Pyongan"
-    ]
+  "South Pyongan": {
+    "PYONGBOSOUTH": {
+      "name": "South Pyongan"
+    }
   },
-  "PYONGYANG": {
-    "name": "Pyongyang",
-    "regions": [
-      "Pyongyang"
-    ]
+  "Pyongyang": {
+    "PYONGYANG": {
+      "name": "Pyongyang"
+    }
   },
-  "RASON": {
-    "name": "Rason",
-    "regions": [
-      "Rason"
-    ]
+  "Rason": {
+    "RASON": {
+      "name": "Rason"
+    }
   },
-  "RYANGANG": {
-    "name": "Ryanggang",
-    "regions": [
-      "Ryanggang"
-    ]
+  "Ryanggang": {
+    "RYANGANG": {
+      "name": "Ryanggang"
+    }
   }
 }

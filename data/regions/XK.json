@@ -1,44 +1,37 @@
 {
-  "FERIZAJ": {
-    "name": "Ferizaj",
-    "regions": [
-      "Ferizaj"
-    ]
+  "Ferizaj": {
+    "FERIZAJ": {
+      "name": "Ferizaj"
+    }
   },
-  "GJAKOVA": {
-    "name": "Gjakova",
-    "regions": [
-      "Gjakova"
-    ]
+  "Gjakova": {
+    "GJAKOVA": {
+      "name": "Gjakova"
+    }
   },
-  "GJILAN": {
-    "name": "Gjilan",
-    "regions": [
-      "Gjilan"
-    ]
+  "Gjilan": {
+    "GJILAN": {
+      "name": "Gjilan"
+    }
   },
-  "MITROVICA": {
-    "name": "Mitrovica",
-    "regions": [
-      "Mitrovica"
-    ]
+  "Mitrovica": {
+    "MITROVICA": {
+      "name": "Mitrovica"
+    }
   },
-  "PEJA": {
-    "name": "Peja",
-    "regions": [
-      "Peja"
-    ]
+  "Peja": {
+    "PEJA": {
+      "name": "Peja"
+    }
   },
-  "PRISTINA": {
-    "name": "Pristina",
-    "regions": [
-      "Pristina"
-    ]
+  "Pristina": {
+    "PRISTINA": {
+      "name": "Pristina"
+    }
   },
-  "PRIZREN": {
-    "name": "Prizren",
-    "regions": [
-      "Prizren"
-    ]
+  "Prizren": {
+    "PRIZREN": {
+      "name": "Prizren"
+    }
   }
 }

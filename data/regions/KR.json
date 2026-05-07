@@ -1,98 +1,82 @@
 {
-  "BUSAN": {
-    "name": "Busan",
-    "regions": [
-      "Busan"
-    ]
+  "Busan": {
+    "BUSAN": {
+      "name": "Busan"
+    }
   },
-  "CHUNGNORTH": {
-    "name": "North Chungcheong",
-    "regions": [
-      "North Chungcheong"
-    ]
+  "North Chungcheong": {
+    "CHUNGNORTH": {
+      "name": "North Chungcheong"
+    }
   },
-  "CHUNGSOUTH": {
-    "name": "South Chungcheong",
-    "regions": [
-      "South Chungcheong"
-    ]
+  "South Chungcheong": {
+    "CHUNGSOUTH": {
+      "name": "South Chungcheong"
+    }
   },
-  "DAEGU": {
-    "name": "Daegu",
-    "regions": [
-      "Daegu"
-    ]
+  "Daegu": {
+    "DAEGU": {
+      "name": "Daegu"
+    }
   },
-  "DAEJEON": {
-    "name": "Daejeon",
-    "regions": [
-      "Daejeon"
-    ]
+  "Daejeon": {
+    "DAEJEON": {
+      "name": "Daejeon"
+    }
   },
-  "GANGWON": {
-    "name": "Gangwon",
-    "regions": [
-      "Gangwon"
-    ]
+  "Gangwon": {
+    "GANGWON": {
+      "name": "Gangwon"
+    }
   },
-  "GWANGJU": {
-    "name": "Gwangju",
-    "regions": [
-      "Gwangju"
-    ]
+  "Gwangju": {
+    "GWANGJU": {
+      "name": "Gwangju"
+    }
   },
-  "GYEONGBSOUTH": {
-    "name": "South Gyeongsang",
-    "regions": [
-      "South Gyeongsang"
-    ]
+  "South Gyeongsang": {
+    "GYEONGBSOUTH": {
+      "name": "South Gyeongsang"
+    }
   },
-  "GYEONGGI": {
-    "name": "Gyeonggi",
-    "regions": [
-      "Gyeonggi"
-    ]
+  "Gyeonggi": {
+    "GYEONGGI": {
+      "name": "Gyeonggi"
+    }
   },
-  "GYEONGSBNORTH": {
-    "name": "North Gyeongsang",
-    "regions": [
-      "North Gyeongsang"
-    ]
+  "North Gyeongsang": {
+    "GYEONGSBNORTH": {
+      "name": "North Gyeongsang"
+    }
   },
-  "INCHEON": {
-    "name": "Incheon",
-    "regions": [
-      "Incheon"
-    ]
+  "Incheon": {
+    "INCHEON": {
+      "name": "Incheon"
+    }
   },
-  "JEONLAKNORTH": {
-    "name": "North Jeolla",
-    "regions": [
-      "North Jeolla"
-    ]
+  "North Jeolla": {
+    "JEONLAKNORTH": {
+      "name": "North Jeolla"
+    }
   },
-  "JEONLAKSOUTH": {
-    "name": "South Jeolla",
-    "regions": [
-      "South Jeolla"
-    ]
+  "South Jeolla": {
+    "JEONLAKSOUTH": {
+      "name": "South Jeolla"
+    }
   },
-  "SEJONG": {
-    "name": "Sejong",
-    "regions": [
-      "Sejong"
-    ]
+  "Sejong": {
+    "SEJONG": {
+      "name": "Sejong"
+    }
   },
-  "SEOUL": {
-    "name": "Seoul",
-    "regions": [
-      "Seoul"
-    ]
+  "Seoul": {
+    "SEOUL": {
+      "name": "Seoul"
+    }
   },
-  "ULSAN": {
-    "name": "Ulsan",
-    "regions": [
-      "Ulsan"
-    ]
+  "Ulsan": {
+    "ULSAN": {
+      "name": "Ulsan"
+    }
   }
 }

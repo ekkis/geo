@@ -1,128 +1,107 @@
 {
-  "ARKH": {
-    "name": "Arkhangai",
-    "regions": [
-      "Arkhangai"
-    ]
+  "Arkhangai": {
+    "ARKH": {
+      "name": "Arkhangai"
+    }
   },
-  "BAYANH": {
-    "name": "Bayankhongor",
-    "regions": [
-      "Bayankhongor"
-    ]
+  "Bayankhongor": {
+    "BAYANH": {
+      "name": "Bayankhongor"
+    }
   },
-  "BAYAO": {
-    "name": "Bayan-Olgii",
-    "regions": [
-      "Bayan-Olgii"
-    ]
+  "Bayan-Olgii": {
+    "BAYAO": {
+      "name": "Bayan-Olgii"
+    }
   },
-  "BULG": {
-    "name": "Bulgan",
-    "regions": [
-      "Bulgan"
-    ]
+  "Bulgan": {
+    "BULG": {
+      "name": "Bulgan"
+    }
   },
-  "DARKH": {
-    "name": "Darkhan-Uul",
-    "regions": [
-      "Darkhan-Uul"
-    ]
+  "Darkhan-Uul": {
+    "DARKH": {
+      "name": "Darkhan-Uul"
+    }
   },
-  "DORN": {
-    "name": "Dornod",
-    "regions": [
-      "Dornod"
-    ]
+  "Dornod": {
+    "DORN": {
+      "name": "Dornod"
+    }
   },
-  "DORNO": {
-    "name": "Dornogovi",
-    "regions": [
-      "Dornogovi"
-    ]
+  "Dornogovi": {
+    "DORNO": {
+      "name": "Dornogovi"
+    }
   },
-  "DUND": {
-    "name": "Dundgovi",
-    "regions": [
-      "Dundgovi"
-    ]
+  "Dundgovi": {
+    "DUND": {
+      "name": "Dundgovi"
+    }
   },
-  "GOVI": {
-    "name": "Govi-Altai",
-    "regions": [
-      "Govi-Altai"
-    ]
+  "Govi-Altai": {
+    "GOVI": {
+      "name": "Govi-Altai"
+    }
   },
-  "GOVIS": {
-    "name": "Govi-Sumber",
-    "regions": [
-      "Govi-Sumber"
-    ]
+  "Govi-Sumber": {
+    "GOVIS": {
+      "name": "Govi-Sumber"
+    }
   },
-  "KHENT": {
-    "name": "Khentii",
-    "regions": [
-      "Khentii"
-    ]
+  "Khentii": {
+    "KHENT": {
+      "name": "Khentii"
+    }
   },
-  "KHOV": {
-    "name": "Khovd",
-    "regions": [
-      "Khovd"
-    ]
+  "Khovd": {
+    "KHOV": {
+      "name": "Khovd"
+    }
   },
-  "KHOVG": {
-    "name": "Khövsgöl",
-    "regions": [
-      "Khövsgöl"
-    ]
+  "Khövsgöl": {
+    "KHOVG": {
+      "name": "Khövsgöl"
+    }
   },
-  "ORKHON": {
-    "name": "Orkhon",
-    "regions": [
-      "Orkhon"
-    ]
+  "Orkhon": {
+    "ORKHON": {
+      "name": "Orkhon"
+    }
   },
-  "OVORK": {
-    "name": "Ovorkhangai",
-    "regions": [
-      "Ovorkhangai"
-    ]
+  "Ovorkhangai": {
+    "OVORK": {
+      "name": "Ovorkhangai"
+    }
   },
-  "SELE": {
-    "name": "Selenge",
-    "regions": [
-      "Selenge"
-    ]
+  "Selenge": {
+    "SELE": {
+      "name": "Selenge"
+    }
   },
-  "TUV": {
-    "name": "Töv",
-    "regions": [
-      "Töv"
-    ]
+  "Töv": {
+    "TUV": {
+      "name": "Töv"
+    }
   },
-  "ULAANB": {
-    "name": "Ulaanbaatar",
-    "regions": [
-      "Ulaanbaatar"
-    ]
+  "Ulaanbaatar": {
+    "ULAANB": {
+      "name": "Ulaanbaatar"
+    }
   },
-  "UMNU": {
-    "name": "Umnugovi",
-    "regions": [
-      "Umnugovi"
-    ]
+  "Umnugovi": {
+    "UMNU": {
+      "name": "Umnugovi"
+    }
   },
-  "UVS": {
-    "name": "Uvs",
-    "regions": [
-      "Uvs"
-    ]
+  "Uvs": {
+    "UVS": {
+      "name": "Uvs"
+    }
   },
-  "ZAVK": {
-    "name": "Zavkhan",
-    "regions": [
-      "Zavkhan"
-    ]
+  "Zavkhan": {
+    "ZAVK": {
+      "name": "Zavkhan"
+    }
   }
 }

@@ -1,8 +1,7 @@
 {
-  "ALAND": {
-    "name": "Åland Islands",
-    "regions": [
-      "Åland Islands"
-    ]
+  "Åland Islands": {
+    "ALAND": {
+      "name": "Åland Islands"
+    }
   }
 }

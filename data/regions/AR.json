@@ -79,5 +79,10 @@
     "SL": {
       "name": "San Luis"
     }
+  },
+  "none": {
+    "TD": {
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+    }
   }
 }

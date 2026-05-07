@@ -1,74 +1,62 @@
 {
   "Capellen": {
-    "name": "Capellen",
-    "regions": [
-      "Capellen"
-    ]
+    "Capellen": {
+      "name": "Capellen"
+    }
   },
   "Clervaux": {
-    "name": "Clervaux",
-    "regions": [
-      "Clervaux"
-    ]
+    "Clervaux": {
+      "name": "Clervaux"
+    }
   },
   "Diekirch": {
-    "name": "Diekirch",
-    "regions": [
-      "Diekirch"
-    ]
+    "Diekirch": {
+      "name": "Diekirch"
+    }
   },
   "Echternach": {
-    "name": "Echternach",
-    "regions": [
-      "Echternach"
-    ]
+    "Echternach": {
+      "name": "Echternach"
+    }
   },
   "Esch-sur-Alzette": {
-    "name": "Esch-sur-Alzette",
-    "regions": [
-      "Esch-sur-Alzette"
-    ]
+    "Esch-sur-Alzette": {
+      "name": "Esch-sur-Alzette"
+    }
   },
   "Grevenmacher": {
-    "name": "Grevenmacher",
-    "regions": [
-      "Grevenmacher"
-    ]
+    "Grevenmacher": {
+      "name": "Grevenmacher"
+    }
   },
   "Luxembourg": {
-    "name": "Luxembourg",
-    "regions": [
-      "Luxembourg"
-    ]
+    "Luxembourg": {
+      "name": "Luxembourg"
+    }
   },
   "Mersch": {
-    "name": "Mersch",
-    "regions": [
-      "Mersch"
-    ]
+    "Mersch": {
+      "name": "Mersch"
+    }
   },
   "Redange": {
-    "name": "Redange",
-    "regions": [
-      "Redange"
-    ]
+    "Redange": {
+      "name": "Redange"
+    }
   },
   "Remich": {
-    "name": "Remich",
-    "regions": [
-      "Remich"
-    ]
+    "Remich": {
+      "name": "Remich"
+    }
   },
   "Vianden": {
-    "name": "Vianden",
-    "regions": [
-      "Vianden"
-    ]
+    "Vianden": {
+      "name": "Vianden"
+    }
   },
   "Wiltz": {
-    "name": "Wiltz",
-    "regions": [
-      "Wiltz"
-    ]
+    "Wiltz": {
+      "name": "Wiltz"
+    }
   }
 }
