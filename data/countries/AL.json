@@ -31,12 +31,12 @@
   ],
   "phone_code": "355",
   "neighbours": {
-    "NW": [
-      "ME"
-    ],
     "NE": [
       "MK",
       "XK"
+    ],
+    "NW": [
+      "ME"
     ],
     "SE": [
       "GR"

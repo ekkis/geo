@@ -28,17 +28,17 @@
   ],
   "phone_code": "244",
   "neighbours": {
-    "SE": [
-      "ZM"
-    ],
-    "NE": [
-      "CD"
-    ],
     "NW": [
       "CG"
     ],
+    "SE": [
+      "ZM"
+    ],
     "SW": [
       "NA"
+    ],
+    "NE": [
+      "CD"
     ]
   }
 }

@@ -37,18 +37,18 @@
   ],
   "phone_code": "40",
   "neighbours": {
-    "S": [
-      "BG"
-    ],
-    "NW": [
-      "HU"
-    ],
     "NE": [
       "MD",
       "UA"
     ],
+    "NW": [
+      "HU"
+    ],
     "SW": [
       "RS"
+    ],
+    "S": [
+      "BG"
     ]
   }
 }

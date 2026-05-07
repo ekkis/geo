@@ -28,17 +28,17 @@
   ],
   "phone_code": "250",
   "neighbours": {
-    "S": [
-      "BI"
-    ],
-    "NW": [
-      "CD"
-    ],
     "NE": [
       "UG"
     ],
     "SE": [
       "TZ"
+    ],
+    "S": [
+      "BI"
+    ],
+    "NW": [
+      "CD"
     ]
   }
 }

@@ -27,14 +27,14 @@
   ],
   "phone_code": "255",
   "neighbours": {
+    "NE": [
+      "KE"
+    ],
     "NW": [
       "BI",
       "CD",
       "RW",
       "UG"
-    ],
-    "NE": [
-      "KE"
     ],
     "SW": [
       "MW",

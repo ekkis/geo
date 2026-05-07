@@ -32,20 +32,20 @@
   ],
   "phone_code": "213",
   "neighbours": {
-    "SW": [
-      "MR",
-      "EH",
-      "ML"
+    "NE": [
+      "TN"
     ],
     "NW": [
       "MA"
     ],
-    "NE": [
-      "TN"
-    ],
     "SE": [
       "NE",
       "LY"
+    ],
+    "SW": [
+      "MR",
+      "EH",
+      "ML"
     ]
   }
 }

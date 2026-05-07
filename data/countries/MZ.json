@@ -32,14 +32,14 @@
   ],
   "phone_code": "258",
   "neighbours": {
+    "NW": [
+      "ZM",
+      "MW"
+    ],
     "SW": [
       "ZW",
       "ZA",
       "SZ"
-    ],
-    "NW": [
-      "ZM",
-      "MW"
     ],
     "N": [
       "TZ"

@@ -27,18 +27,18 @@
   ],
   "phone_code": "211",
   "neighbours": {
-    "W": [
-      "CF"
-    ],
-    "SW": [
-      "CD"
-    ],
     "NE": [
       "ET"
     ],
     "SE": [
       "KE",
       "UG"
+    ],
+    "SW": [
+      "CD"
+    ],
+    "W": [
+      "CF"
     ],
     "N": [
       "SD"

@@ -27,13 +27,13 @@
   ],
   "phone_code": "975",
   "neighbours": {
-    "E": [
+    "NE": [
       "CN"
     ],
     "SW": [
       "IN"
     ],
-    "NE": [
+    "E": [
       "CN"
     ]
   }

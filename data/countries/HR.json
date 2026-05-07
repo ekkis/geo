@@ -37,16 +37,16 @@
   ],
   "phone_code": "385",
   "neighbours": {
-    "SE": [
-      "BA",
-      "ME",
-      "RS"
+    "NE": [
+      "HU"
     ],
     "NW": [
       "SI"
     ],
-    "NE": [
-      "HU"
+    "SE": [
+      "BA",
+      "ME",
+      "RS"
     ]
   }
 }

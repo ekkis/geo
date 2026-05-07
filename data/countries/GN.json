@@ -28,19 +28,19 @@
   ],
   "phone_code": "224",
   "neighbours": {
+    "NE": [
+      "ML"
+    ],
+    "NW": [
+      "SN",
+      "GW"
+    ],
     "SE": [
       "CI",
       "LR"
     ],
     "SW": [
       "SL"
-    ],
-    "NW": [
-      "SN",
-      "GW"
-    ],
-    "NE": [
-      "ML"
     ]
   }
 }

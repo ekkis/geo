@@ -31,14 +31,14 @@
   ],
   "phone_code": "964",
   "neighbours": {
+    "NW": [
+      "SY",
+      "TR"
+    ],
     "SE": [
       "IR",
       "KW",
       "SA"
-    ],
-    "NW": [
-      "SY",
-      "TR"
     ],
     "SW": [
       "JO"

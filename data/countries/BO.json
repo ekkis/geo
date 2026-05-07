@@ -27,18 +27,18 @@
   ],
   "phone_code": "591",
   "neighbours": {
+    "NE": [
+      "BR"
+    ],
+    "NW": [
+      "PE"
+    ],
     "SE": [
       "AR",
       "PY"
     ],
-    "NE": [
-      "BR"
-    ],
     "SW": [
       "CL"
-    ],
-    "NW": [
-      "PE"
     ]
   }
 }

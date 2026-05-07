@@ -33,11 +33,11 @@
   ],
   "phone_code": "373",
   "neighbours": {
-    "SW": [
-      "RO"
-    ],
     "NE": [
       "UA"
+    ],
+    "SW": [
+      "RO"
     ]
   }
 }

@@ -32,11 +32,11 @@
   ],
   "phone_code": "507",
   "neighbours": {
-    "SE": [
-      "CO"
-    ],
     "NW": [
       "CR"
+    ],
+    "SE": [
+      "CO"
     ]
   }
 }

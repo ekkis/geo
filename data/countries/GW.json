@@ -32,11 +32,11 @@
   ],
   "phone_code": "245",
   "neighbours": {
-    "SE": [
-      "GN"
-    ],
     "NE": [
       "SN"
+    ],
+    "SE": [
+      "GN"
     ]
   }
 }

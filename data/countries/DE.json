@@ -40,6 +40,13 @@
   ],
   "phone_code": "49",
   "neighbours": {
+    "NE": [
+      "DK",
+      "PL"
+    ],
+    "NW": [
+      "NL"
+    ],
     "SE": [
       "AT",
       "CZ"
@@ -49,13 +56,6 @@
       "CH",
       "FR",
       "LU"
-    ],
-    "NE": [
-      "DK",
-      "PL"
-    ],
-    "NW": [
-      "NL"
     ]
   }
 }

@@ -32,20 +32,20 @@
   ],
   "phone_code": "260",
   "neighbours": {
-    "NW": [
-      "AO",
-      "CD"
-    ],
-    "SW": [
-      "BW",
-      "NA"
-    ],
     "NE": [
       "MW",
       "TZ"
     ],
+    "NW": [
+      "AO",
+      "CD"
+    ],
     "SE": [
       "MZ"
+    ],
+    "SW": [
+      "BW",
+      "NA"
     ],
     "S": [
       "ZW"

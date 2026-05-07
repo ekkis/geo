@@ -39,12 +39,12 @@
   ],
   "phone_code": "358",
   "neighbours": {
+    "SE": [
+      "RU"
+    ],
     "SW": [
       "SE",
       "NO"
-    ],
-    "SE": [
-      "RU"
     ]
   }
 }

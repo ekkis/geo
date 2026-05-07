@@ -28,12 +28,12 @@
   ],
   "phone_code": "592",
   "neighbours": {
+    "NW": [
+      "VE"
+    ],
     "SE": [
       "BR",
       "SR"
-    ],
-    "NW": [
-      "VE"
     ]
   }
 }

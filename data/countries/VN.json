@@ -37,12 +37,12 @@
   ],
   "phone_code": "84",
   "neighbours": {
-    "SW": [
-      "KH"
-    ],
     "NW": [
       "CN",
       "LA"
+    ],
+    "SW": [
+      "KH"
     ]
   }
 }
