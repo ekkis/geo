@@ -66,17 +66,35 @@ class Entity {
         if (!Entity.cache[this.constructor.name]) {
             Entity.cache[this.constructor.name] = {};
         }
-        if (Entity.cache[this.constructor.name][name]) {
-            return Entity.cache[this.constructor.name][name];
+        
+        // Check cache for this query (normalize to lowercase for caching)
+        const cacheKey = name.toLowerCase();
+        if (Entity.cache[this.constructor.name][cacheKey]) {
+            return Entity.cache[this.constructor.name][cacheKey];
         }
         
         // Search for exact name match (case-insensitive)
-        const key = Object.keys(this.data).find(k => 
-            this.data[k].name && this.data[k].name.toLowerCase() === name.toLowerCase()
-        );
+        const key = Object.keys(this.data).find(k => {
+            const entryName = this.data[k].name;
+            if (!entryName) return false;
+            
+            // If name is a string, compare directly
+            if (typeof entryName === 'string') {
+                return entryName.toLowerCase() === name.toLowerCase();
+            }
+            // If name is an object, check common and official fields
+            if (typeof entryName === 'object') {
+                // Handle both common and official names
+                const common = entryName.common || '';
+                const official = entryName.official || '';
+                return common.toLowerCase() === name.toLowerCase() || 
+                       official.toLowerCase() === name.toLowerCase();
+            }
+            return false;
+        });
         
         if (key) {
-            Entity.cache[this.constructor.name][name] = this.data[key];
+            Entity.cache[this.constructor.name][cacheKey] = this.data[key];
             return this.data[key];
         }
         
@@ -91,13 +109,24 @@ class Entity {
 
 // CountryEntity class with additional methods
 class CountryEntity extends Entity {
-    neighbours(country, direction) {
+neighbours(country, direction) {
         // country can be ISO code or country name
         let key = country;
         if (country.length !== 2) {
-            key = Object.keys(this.data).find(k => 
-                this.data[k].name && this.data[k].name.toLowerCase() === country.toLowerCase()
-            );
+            key = Object.keys(this.data).find(k => {
+                const entryName = this.data[k].name;
+                if (!entryName) return false;
+                if (typeof entryName === 'string') {
+                    return entryName.toLowerCase() === country.toLowerCase();
+                }
+                if (typeof entryName === 'object') {
+                    const common = entryName.common || '';
+                    const official = entryName.official || '';
+                    return common.toLowerCase() === country.toLowerCase() || 
+                           official.toLowerCase() === country.toLowerCase();
+                }
+                return false;
+            });
         }
         if (!key) return [];
         
