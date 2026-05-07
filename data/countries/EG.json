@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Egypt",
+    "official": "Arab Republic of Egypt"
+  },
+  "capital": "Cairo",
+  "currency_code": "EGP",
+  "iso3": "EGY",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AF",
+  "tld": ".eg",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 1002450,
+  "population": 107271260,
+  "flag": "🇪🇬",
+  "region_common": "Africa",
+  "demonym": "Egyptian",
+  "gdp": 395926075163.0058,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "20"
+}

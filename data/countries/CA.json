@@ -1,0 +1,46 @@
+{
+  "name": {
+    "common": "Canada",
+    "official": "Canada"
+  },
+  "regions": [
+    "NA"
+  ],
+  "capital": "Ottawa",
+  "currency_code": "CAD",
+  "iso3": "CAN",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "NA",
+  "tld": ".ca",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:30"
+  ],
+  "area": 9984670,
+  "population": 41651653,
+  "flag": "🇨🇦",
+  "region_common": "Americas",
+  "demonym": "Canadian",
+  "gdp": 2140085567791.4514,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "@#@ #@#",
+    "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "G20",
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "1"
+}

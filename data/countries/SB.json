@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Solomon Islands",
+    "official": "Solomon Islands"
+  },
+  "capital": "Honiara",
+  "currency_code": "SBD",
+  "iso3": "SLB",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "OC",
+  "tld": ".sb",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "area": 28896,
+  "population": 750325,
+  "flag": "🇸🇧",
+  "region_common": "Oceania",
+  "demonym": "Solomon Islander",
+  "gdp": 1631286701.1151562,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "677"
+}

@@ -1,0 +1,39 @@
+{
+  "name": {
+    "common": "Croatia",
+    "official": "Republic of Croatia"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Zagreb",
+  "currency_code": "HRK",
+  "iso3": "HRV",
+  "language_code": [
+    "hr"
+  ],
+  "continent_code": "EU",
+  "tld": ".hr",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 56594,
+  "population": 3866233,
+  "flag": "🇭🇷",
+  "region_common": "Europe",
+  "demonym": "Croatian",
+  "gdp": 82688842717.3926,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "HR-#####",
+    "regex": "^(?:HR)*(\\d{5})$"
+  },
+  "organisations": [
+    "NATO",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "385"
+}

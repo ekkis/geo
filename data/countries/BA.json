@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Bosnia and Herzegovina",
+    "official": "Bosnia and Herzegovina"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Sarajevo",
+  "currency_code": "BAM",
+  "iso3": "BIH",
+  "language_code": [],
+  "continent_code": "EU",
+  "tld": ".ba",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 51209,
+  "population": 3422000,
+  "flag": "🇧🇦",
+  "region_common": "Europe",
+  "demonym": "Bosnian, Herzegovinian",
+  "gdp": 27054889362.885204,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "BIS",
+    "UN"
+  ],
+  "phone_code": "387"
+}

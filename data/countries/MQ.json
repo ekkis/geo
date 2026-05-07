@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Martinique",
+    "official": "Martinique"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "Fort-de-France",
+  "currency_code": "EUR",
+  "iso3": "MTQ",
+  "language_code": [
+    "mtq"
+  ],
+  "continent_code": "NA",
+  "tld": ".mq",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 1128,
+  "population": 349925,
+  "flag": "🇲🇶",
+  "region_common": "Americas",
+  "demonym": "Martinican",
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "phone_code": "596"
+}

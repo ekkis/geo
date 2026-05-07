@@ -1,0 +1,24 @@
+{
+  "name": {
+    "common": "British Indian Ocean Territory",
+    "official": "British Indian Ocean Territory"
+  },
+  "regions": [],
+  "capital": "Diego Garcia",
+  "currency_code": "USD",
+  "iso3": "IOT",
+  "language_code": [
+    "iot"
+  ],
+  "continent_code": "AS",
+  "tld": ".io",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "area": 60,
+  "population": 0,
+  "flag": "🇮🇴",
+  "region_common": "Africa",
+  "demonym": "Indian",
+  "phone_code": "246"
+}

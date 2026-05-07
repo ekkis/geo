@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Algeria",
+    "official": "People's Democratic Republic of Algeria"
+  },
+  "capital": "Algiers",
+  "currency_code": "DZD",
+  "iso3": "DZA",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AF",
+  "tld": ".dz",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 2381741,
+  "population": 47400000,
+  "flag": "🇩🇿",
+  "region_common": "Africa",
+  "demonym": "Algerian",
+  "gdp": 239899491127.74237,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "BIS",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "213"
+}

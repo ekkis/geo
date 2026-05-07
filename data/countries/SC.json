@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Seychelles",
+    "official": "Republic of Seychelles"
+  },
+  "capital": "Victoria",
+  "currency_code": "SCR",
+  "iso3": "SYC",
+  "language_code": [
+    "syc"
+  ],
+  "continent_code": "AF",
+  "tld": ".sc",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "area": 452,
+  "population": 122729,
+  "flag": "🇸🇨",
+  "region_common": "Africa",
+  "demonym": "Seychellois",
+  "gdp": 2141450171.1393213,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "248"
+}

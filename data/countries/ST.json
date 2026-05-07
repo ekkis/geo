@@ -1,0 +1,28 @@
+{
+  "name": {
+    "common": "São Tomé and Príncipe",
+    "official": "Democratic Republic of São Tomé and Príncipe"
+  },
+  "capital": "Sao Tome",
+  "currency_code": "STD",
+  "iso3": "STP",
+  "language_code": [
+    "stp"
+  ],
+  "continent_code": "AF",
+  "tld": ".st",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 964,
+  "population": 209607,
+  "flag": "🇸🇹",
+  "region_common": "Africa",
+  "demonym": "Sao Tomean",
+  "gdp": 603240748.9542067,
+  "gdp_year": 2023,
+  "organisations": [
+    "AU"
+  ],
+  "phone_code": "239"
+}

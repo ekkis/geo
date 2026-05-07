@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "North Korea",
+    "official": "Democratic People's Republic of Korea"
+  },
+  "regions": [
+    "EASS"
+  ],
+  "capital": "Pyongyang",
+  "currency_code": "KPW",
+  "iso3": "PRK",
+  "language_code": [
+    "ko"
+  ],
+  "continent_code": "AS",
+  "tld": ".kp",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "area": 120538,
+  "population": 25950000,
+  "flag": "🇰🇵",
+  "region_common": "Asia",
+  "demonym": "North Korean",
+  "postal_code": {
+    "format": "###-###",
+    "regex": "^(\\d{6})$"
+  },
+  "phone_code": "850"
+}

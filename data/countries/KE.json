@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Kenya",
+    "official": "Republic of Kenya"
+  },
+  "capital": "Nairobi",
+  "currency_code": "KES",
+  "iso3": "KEN",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "AF",
+  "tld": ".ke",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 580367,
+  "population": 53330978,
+  "flag": "🇰🇪",
+  "region_common": "Africa",
+  "demonym": "Kenyan",
+  "gdp": 107440575838.04752,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "254"
+}

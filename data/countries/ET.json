@@ -1,0 +1,33 @@
+{
+  "name": {
+    "common": "Ethiopia",
+    "official": "Federal Democratic Republic of Ethiopia"
+  },
+  "capital": "Addis Ababa",
+  "currency_code": "ETB",
+  "iso3": "ETH",
+  "language_code": [
+    "am"
+  ],
+  "continent_code": "AF",
+  "tld": ".et",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 1104300,
+  "population": 111652998,
+  "flag": "🇪🇹",
+  "region_common": "Africa",
+  "demonym": "Ethiopian",
+  "gdp": 163697927593.98236,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "AU",
+    "UN"
+  ],
+  "phone_code": "251"
+}
