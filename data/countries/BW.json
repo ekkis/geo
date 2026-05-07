@@ -16,7 +16,7 @@
   ],
   "area": 582000,
   "population": 2359609,
-  "flag": "🇧🇼",
+  "flag": "\ud83c\udde7\ud83c\uddfc",
   "region_common": "Africa",
   "demonym": "Motswana",
   "gdp": 19395765126.312748,
@@ -35,6 +35,12 @@
     "SW": [
       "NA",
       "ZA"
+    ],
+    "N": [
+      "ZA"
+    ],
+    "NW": [
+      "NA"
     ]
   }
 }

@@ -16,7 +16,7 @@
   ],
   "area": 83534,
   "population": 292354,
-  "flag": "🇬🇫",
+  "flag": "\ud83c\uddec\ud83c\uddeb",
   "region_common": "Americas",
   "demonym": "Guianan",
   "postal_code": {
@@ -27,6 +27,9 @@
   "neighbours": {
     "SW": [
       "BR",
+      "SR"
+    ],
+    "E": [
       "SR"
     ]
   }

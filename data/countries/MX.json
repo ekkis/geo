@@ -22,7 +22,7 @@
   ],
   "area": 1964375,
   "population": 130575786,
-  "flag": "🇲🇽",
+  "flag": "\ud83c\uddf2\ud83c\uddfd",
   "region_common": "Americas",
   "demonym": "Mexican",
   "gdp": 1788886821046.8132,
@@ -47,6 +47,10 @@
     "S": [
       "BZ",
       "GT"
+    ],
+    "SE": [
+      "GT",
+      "BZ"
     ]
   }
 }

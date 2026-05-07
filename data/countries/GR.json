@@ -19,7 +19,7 @@
   ],
   "area": 131990,
   "population": 10400720,
-  "flag": "🇬🇷",
+  "flag": "\ud83c\uddec\ud83c\uddf7",
   "region_common": "Europe",
   "demonym": "Greek",
   "gdp": 238206312632.52774,
@@ -46,6 +46,12 @@
       "MK"
     ],
     "SE": [
+      "TR"
+    ],
+    "N": [
+      "MK"
+    ],
+    "E": [
       "TR"
     ]
   }

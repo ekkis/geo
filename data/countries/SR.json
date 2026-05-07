@@ -16,7 +16,7 @@
   ],
   "area": 163820,
   "population": 616500,
-  "flag": "🇸🇷",
+  "flag": "\ud83c\uddf8\ud83c\uddf7",
   "region_common": "Americas",
   "demonym": "Surinamer",
   "gdp": 3782437296.0432286,
@@ -33,6 +33,9 @@
     ],
     "SE": [
       "BR",
+      "GF"
+    ],
+    "W": [
       "GF"
     ]
   }

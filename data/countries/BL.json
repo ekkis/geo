@@ -1,7 +1,7 @@
 {
   "name": {
-    "common": "Saint Barthélemy",
-    "official": "Collectivity of Saint Barthélemy"
+    "common": "Saint Barth\u00e9lemy",
+    "official": "Collectivity of Saint Barth\u00e9lemy"
   },
   "regions": [],
   "capital": "Gustavia",
@@ -17,9 +17,9 @@
   ],
   "area": 21,
   "population": 10562,
-  "flag": "🇧🇱",
+  "flag": "\ud83c\udde7\ud83c\uddf1",
   "region_common": "Americas",
-  "demonym": "Saint Barthélemy Islander",
+  "demonym": "Saint Barth\u00e9lemy Islander",
   "postal_code": {
     "format": "### ###"
   },

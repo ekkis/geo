@@ -1,7 +1,7 @@
 {
   "name": {
-    "common": "Curaçao",
-    "official": "Country of Curaçao"
+    "common": "Cura\u00e7ao",
+    "official": "Country of Cura\u00e7ao"
   },
   "regions": [],
   "capital": " Willemstad",
@@ -19,9 +19,9 @@
   ],
   "area": 444,
   "population": 156115,
-  "flag": "🇨🇼",
+  "flag": "\ud83c\udde8\ud83c\uddfc",
   "region_common": "Americas",
-  "demonym": "Curaçaoan",
+  "demonym": "Cura\u00e7aoan",
   "gdp": 3073840325.4328494,
   "gdp_year": 2022,
   "phone_code": "599"

@@ -16,7 +16,7 @@
   ],
   "area": 1221037,
   "population": 63100945,
-  "flag": "🇿🇦",
+  "flag": "\ud83c\uddff\ud83c\udde6",
   "region_common": "Africa",
   "demonym": "South African",
   "gdp": 377781600985.8731,
@@ -45,6 +45,9 @@
     ],
     "SE": [
       "LS"
+    ],
+    "S": [
+      "BW"
     ]
   }
 }

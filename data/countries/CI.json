@@ -1,7 +1,7 @@
 {
   "name": {
     "common": "Ivory Coast",
-    "official": "Republic of Côte d'Ivoire"
+    "official": "Republic of C\u00f4te d'Ivoire"
   },
   "capital": "Yamoussoukro",
   "currency_code": "XOF",
@@ -16,7 +16,7 @@
   ],
   "area": 322463,
   "population": 31719275,
-  "flag": "🇨🇮",
+  "flag": "\ud83c\udde8\ud83c\uddee",
   "region_common": "Africa",
   "demonym": "Ivorian",
   "gdp": 78788828906.86345,

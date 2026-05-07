@@ -20,7 +20,7 @@
   ],
   "area": 236800,
   "population": 7647000,
-  "flag": "🇱🇦",
+  "flag": "\ud83c\uddf1\ud83c\udde6",
   "region_common": "Asia",
   "demonym": "Laotian",
   "gdp": 15843155731.25518,
@@ -40,11 +40,18 @@
       "MM"
     ],
     "SE": [
-      "VN"
+      "VN",
+      "KH"
     ],
     "SW": [
       "KH",
       "TH"
+    ],
+    "N": [
+      "CN"
+    ],
+    "S": [
+      "CN"
     ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": {
-    "common": "São Tomé and Príncipe",
-    "official": "Democratic Republic of São Tomé and Príncipe"
+    "common": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "official": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe"
   },
   "capital": "Sao Tome",
   "currency_code": "STD",
@@ -16,7 +16,7 @@
   ],
   "area": 964,
   "population": 209607,
-  "flag": "🇸🇹",
+  "flag": "\ud83c\uddf8\ud83c\uddf9",
   "region_common": "Africa",
   "demonym": "Sao Tomean",
   "gdp": 603240748.9542067,

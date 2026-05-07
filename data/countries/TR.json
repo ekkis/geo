@@ -21,7 +21,7 @@
   ],
   "area": 783562,
   "population": 85664944,
-  "flag": "🇹🇷",
+  "flag": "\ud83c\uddf9\ud83c\uddf7",
   "region_common": "Asia",
   "demonym": "Turkish",
   "gdp": 1108022373259.511,
@@ -53,6 +53,9 @@
       "SY"
     ],
     "SW": [
+      "GR"
+    ],
+    "W": [
       "GR"
     ]
   }

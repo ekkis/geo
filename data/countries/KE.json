@@ -16,7 +16,7 @@
   ],
   "area": 580367,
   "population": 53330978,
-  "flag": "🇰🇪",
+  "flag": "\ud83c\uddf0\ud83c\uddea",
   "region_common": "Africa",
   "demonym": "Kenyan",
   "gdp": 107440575838.04752,
@@ -42,6 +42,9 @@
     "SW": [
       "TZ",
       "UG"
+    ],
+    "S": [
+      "ET"
     ]
   }
 }

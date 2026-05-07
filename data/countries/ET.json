@@ -16,7 +16,7 @@
   ],
   "area": 1104300,
   "population": 111652998,
-  "flag": "🇪🇹",
+  "flag": "\ud83c\uddea\ud83c\uddf9",
   "region_common": "Africa",
   "demonym": "Ethiopian",
   "gdp": 163697927593.98236,
@@ -42,6 +42,9 @@
     "SW": [
       "KE",
       "SS"
+    ],
+    "N": [
+      "KE"
     ]
   }
 }

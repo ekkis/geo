@@ -17,7 +17,7 @@
   ],
   "area": 390757,
   "population": 17073087,
-  "flag": "🇿🇼",
+  "flag": "\ud83c\uddff\ud83c\uddfc",
   "region_common": "Africa",
   "demonym": "Zimbabwean",
   "gdp": 26538273498.84614,
@@ -38,6 +38,9 @@
     "SW": [
       "BW",
       "ZA"
+    ],
+    "S": [
+      "ZM"
     ]
   }
 }

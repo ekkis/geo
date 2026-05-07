@@ -16,7 +16,7 @@
   ],
   "area": 752612,
   "population": 19693423,
-  "flag": "🇿🇲",
+  "flag": "\ud83c\uddff\ud83c\uddf2",
   "region_common": "Africa",
   "demonym": "Zambian",
   "gdp": 28162630953.9285,
@@ -40,11 +40,15 @@
       "AO"
     ],
     "SE": [
-      "MZ"
+      "MZ",
+      "ZW"
     ],
     "SW": [
       "BW",
       "NA",
+      "ZW"
+    ],
+    "N": [
       "ZW"
     ]
   }
