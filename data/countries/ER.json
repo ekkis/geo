@@ -16,7 +16,7 @@
   ],
   "area": 117600,
   "population": 3607000,
-  "flag": "🇪🇷",
+  "flag": "\ud83c\uddea\ud83c\uddf7",
   "region_common": "Africa",
   "demonym": "Eritrean",
   "gdp": 2065001626.0162601,
@@ -31,7 +31,9 @@
       "DJ"
     ],
     "SW": [
-      "ET",
+      "ET"
+    ],
+    "NW": [
       "SD"
     ]
   }

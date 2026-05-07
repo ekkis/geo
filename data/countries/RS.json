@@ -23,7 +23,7 @@
   ],
   "area": 77589,
   "population": 6567783,
-  "flag": "🇷🇸",
+  "flag": "\ud83c\uddf7\ud83c\uddf8",
   "region_common": "Europe",
   "demonym": "Serbian",
   "gdp": 75187125426.73755,
@@ -51,8 +51,8 @@
     ],
     "SW": [
       "AL",
-      "BA",
-      "ME"
+      "ME",
+      "BA"
     ]
   }
 }

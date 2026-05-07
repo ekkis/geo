@@ -19,7 +19,7 @@
   ],
   "area": 25713,
   "population": 1822612,
-  "flag": "🇲🇰",
+  "flag": "\ud83c\uddf2\ud83c\uddf0",
   "region_common": "Europe",
   "demonym": "Macedonian",
   "gdp": 14761237042.205698,
@@ -43,7 +43,9 @@
       "RS"
     ],
     "SW": [
-      "AL",
+      "AL"
+    ],
+    "SE": [
       "GR"
     ]
   }

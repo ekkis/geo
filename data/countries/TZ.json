@@ -16,7 +16,7 @@
   ],
   "area": 947303,
   "population": 68153004,
-  "flag": "🇹🇿",
+  "flag": "\ud83c\uddf9\ud83c\uddff",
   "region_common": "Africa",
   "demonym": "Tanzanian",
   "gdp": 79158286333.52399,
@@ -37,8 +37,10 @@
     ],
     "SW": [
       "MW",
-      "MZ",
       "ZM"
+    ],
+    "SE": [
+      "MZ"
     ]
   }
 }

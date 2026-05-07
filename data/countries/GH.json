@@ -16,7 +16,7 @@
   ],
   "area": 238533,
   "population": 33742380,
-  "flag": "🇬🇭",
+  "flag": "\ud83c\uddec\ud83c\udded",
   "region_common": "Africa",
   "demonym": "Ghanaian",
   "gdp": 76370394412.41626,
@@ -31,11 +31,12 @@
     "NW": [
       "BF"
     ],
-    "SE": [
-      "TG"
-    ],
+    "SE": [],
     "SW": [
       "CI"
+    ],
+    "NE": [
+      "TG"
     ]
   }
 }

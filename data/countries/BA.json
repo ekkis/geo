@@ -17,7 +17,7 @@
   ],
   "area": 51209,
   "population": 3422000,
-  "flag": "🇧🇦",
+  "flag": "\ud83c\udde7\ud83c\udde6",
   "region_common": "Europe",
   "demonym": "Bosnian, Herzegovinian",
   "gdp": 27054889362.885204,
@@ -36,7 +36,9 @@
       "HR"
     ],
     "SE": [
-      "ME",
+      "ME"
+    ],
+    "NE": [
       "RS"
     ]
   }

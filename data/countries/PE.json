@@ -16,7 +16,7 @@
   ],
   "area": 1285216,
   "population": 34350244,
-  "flag": "🇵🇪",
+  "flag": "\ud83c\uddf5\ud83c\uddea",
   "region_common": "Americas",
   "demonym": "Peruvian",
   "gdp": 267603248655.2527,
@@ -34,14 +34,14 @@
   "phone_code": "51",
   "neighbours": {
     "NE": [
-      "CO"
+      "CO",
+      "BR"
     ],
     "NW": [
       "EC"
     ],
     "SE": [
       "BO",
-      "BR",
       "CL"
     ]
   }

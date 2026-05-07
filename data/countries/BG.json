@@ -19,7 +19,7 @@
   ],
   "area": 110879,
   "population": 6437360,
-  "flag": "🇧🇬",
+  "flag": "\ud83c\udde7\ud83c\uddec",
   "region_common": "Europe",
   "demonym": "Bulgarian",
   "gdp": 101584384672.78587,
@@ -38,7 +38,6 @@
   "phone_code": "359",
   "neighbours": {
     "NW": [
-      "RO",
       "RS"
     ],
     "SE": [
@@ -47,6 +46,9 @@
     "SW": [
       "GR",
       "MK"
+    ],
+    "NE": [
+      "RO"
     ]
   }
 }

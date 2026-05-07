@@ -16,7 +16,7 @@
   ],
   "area": 580367,
   "population": 53330978,
-  "flag": "🇰🇪",
+  "flag": "\ud83c\uddf0\ud83c\uddea",
   "region_common": "Africa",
   "demonym": "Kenyan",
   "gdp": 107440575838.04752,
@@ -33,15 +33,15 @@
   "phone_code": "254",
   "neighbours": {
     "NE": [
-      "SO"
+      "SO",
+      "ET",
+      "UG"
     ],
     "NW": [
-      "ET",
       "SS"
     ],
     "SW": [
-      "TZ",
-      "UG"
+      "TZ"
     ]
   }
 }

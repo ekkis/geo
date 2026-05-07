@@ -19,7 +19,7 @@
   ],
   "area": 131990,
   "population": 10400720,
-  "flag": "🇬🇷",
+  "flag": "\ud83c\uddec\ud83c\uddf7",
   "region_common": "Europe",
   "demonym": "Greek",
   "gdp": 238206312632.52774,
@@ -39,14 +39,13 @@
   "phone_code": "30",
   "neighbours": {
     "NE": [
-      "BG"
+      "BG",
+      "TR"
     ],
     "NW": [
       "AL",
       "MK"
     ],
-    "SE": [
-      "TR"
-    ]
+    "SE": []
   }
 }

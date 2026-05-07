@@ -16,7 +16,7 @@
   ],
   "area": 1267000,
   "population": 26312034,
-  "flag": "🇳🇪",
+  "flag": "\ud83c\uddf3\ud83c\uddea",
   "region_common": "Africa",
   "demonym": "Nigerien",
   "gdp": 16819170420.565317,
@@ -40,12 +40,12 @@
       "ML"
     ],
     "SE": [
-      "TD"
+      "TD",
+      "NG"
     ],
     "SW": [
       "BJ",
-      "BF",
-      "NG"
+      "BF"
     ]
   }
 }

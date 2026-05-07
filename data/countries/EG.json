@@ -16,7 +16,7 @@
   ],
   "area": 1002450,
   "population": 107271260,
-  "flag": "🇪🇬",
+  "flag": "\ud83c\uddea\ud83c\uddec",
   "region_common": "Africa",
   "demonym": "Egyptian",
   "gdp": 395926075163.0058,
@@ -37,7 +37,9 @@
       "PS"
     ],
     "SW": [
-      "LY",
+      "LY"
+    ],
+    "SE": [
       "SD"
     ]
   }

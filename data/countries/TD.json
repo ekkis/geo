@@ -16,7 +16,7 @@
   ],
   "area": 1284000,
   "population": 19340757,
-  "flag": "🇹🇩",
+  "flag": "\ud83c\uddf9\ud83c\udde9",
   "region_common": "Africa",
   "demonym": "Chadian",
   "gdp": 13149325358.73826,
@@ -33,12 +33,14 @@
       "NE"
     ],
     "SE": [
-      "CF",
-      "SD"
+      "CF"
     ],
     "SW": [
       "CM",
       "NG"
+    ],
+    "NE": [
+      "SD"
     ]
   }
 }

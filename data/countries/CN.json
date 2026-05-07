@@ -19,7 +19,7 @@
   ],
   "area": 9706961,
   "population": 1408280000,
-  "flag": "🇨🇳",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
   "region_common": "Asia",
   "demonym": "Chinese",
   "gdp": 17794781986104.457,
@@ -42,9 +42,9 @@
     "NW": [
       "KZ",
       "KG",
-      "MN",
       "RU",
-      "TJ"
+      "TJ",
+      "MN"
     ],
     "SE": [
       "HK",
@@ -55,10 +55,10 @@
       "AF",
       "BT",
       "IN",
-      "LA",
       "MM",
       "NP",
-      "PK"
+      "PK",
+      "LA"
     ]
   }
 }

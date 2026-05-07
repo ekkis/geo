@@ -22,7 +22,7 @@
   ],
   "area": 450295,
   "population": 10605098,
-  "flag": "🇸🇪",
+  "flag": "\ud83c\uddf8\ud83c\uddea",
   "region_common": "Europe",
   "demonym": "Swedish",
   "gdp": 593267701033.4082,
@@ -44,7 +44,8 @@
     "NE": [
       "FI"
     ],
-    "SW": [
+    "SW": [],
+    "NW": [
       "NO"
     ]
   }

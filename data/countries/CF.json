@@ -16,7 +16,7 @@
   ],
   "area": 622984,
   "population": 6470307,
-  "flag": "🇨🇫",
+  "flag": "\ud83c\udde8\ud83c\uddeb",
   "region_common": "Africa",
   "demonym": "Central African",
   "gdp": 2555492085.2483063,
@@ -29,14 +29,13 @@
   "phone_code": "236",
   "neighbours": {
     "NE": [
-      "SD"
+      "SD",
+      "SS"
     ],
     "NW": [
       "TD"
     ],
-    "SE": [
-      "SS"
-    ],
+    "SE": [],
     "SW": [
       "CM",
       "CG"

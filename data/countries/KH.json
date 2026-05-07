@@ -20,7 +20,7 @@
   ],
   "area": 181035,
   "population": 17577760,
-  "flag": "🇰🇭",
+  "flag": "\ud83c\uddf0\ud83c\udded",
   "region_common": "Asia",
   "demonym": "Cambodian",
   "gdp": 31772759998.85713,
@@ -40,8 +40,8 @@
       "VN"
     ],
     "NW": [
-      "LA",
-      "TH"
+      "TH",
+      "LA"
     ]
   }
 }

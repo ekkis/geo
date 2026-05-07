@@ -16,7 +16,7 @@
   ],
   "area": 801590,
   "population": 34090466,
-  "flag": "🇲🇿",
+  "flag": "\ud83c\uddf2\ud83c\uddff",
   "region_common": "Africa",
   "demonym": "Mozambican",
   "gdp": 20624597846.549507,
@@ -34,8 +34,8 @@
   "neighbours": {
     "NW": [
       "MW",
-      "TZ",
-      "ZM"
+      "ZM",
+      "TZ"
     ],
     "SW": [
       "SZ",

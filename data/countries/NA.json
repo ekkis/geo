@@ -16,7 +16,7 @@
   ],
   "area": 825615,
   "population": 3022401,
-  "flag": "🇳🇦",
+  "flag": "\ud83c\uddf3\ud83c\udde6",
   "region_common": "Africa",
   "demonym": "Namibian",
   "gdp": 12351024843.746696,
@@ -33,8 +33,8 @@
       "ZM"
     ],
     "SE": [
-      "BW",
-      "ZA"
+      "ZA",
+      "BW"
     ]
   }
 }
