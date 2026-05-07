@@ -37,18 +37,18 @@
   ],
   "phone_code": "95",
   "neighbours": {
+    "NW": [
+      "BD"
+    ],
     "NE": [
       "CN"
     ],
-    "NW": [
-      "BD"
+    "SW": [
+      "IN"
     ],
     "SE": [
       "LA",
       "TH"
-    ],
-    "SW": [
-      "IN"
     ]
   }
 }

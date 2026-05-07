@@ -26,5 +26,6 @@
     "format": "#####",
     "regex": "^(97500)$"
   },
-  "phone_code": "508"
+  "phone_code": "508",
+  "neighbours": {}
 }

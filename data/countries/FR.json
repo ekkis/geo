@@ -53,19 +53,19 @@
   ],
   "phone_code": "33",
   "neighbours": {
+    "SW": [
+      "AD",
+      "ES"
+    ],
     "NE": [
       "BE",
       "DE",
-      "LU",
-      "CH"
+      "CH",
+      "LU"
     ],
     "SE": [
       "IT",
       "MC"
-    ],
-    "SW": [
-      "AD",
-      "ES"
     ]
   }
 }

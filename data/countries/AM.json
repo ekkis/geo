@@ -35,17 +35,17 @@
   ],
   "phone_code": "374",
   "neighbours": {
-    "NE": [
-      "AZ"
+    "SE": [
+      "IR"
     ],
     "NW": [
       "GE"
     ],
-    "SE": [
-      "IR"
-    ],
     "SW": [
       "TR"
+    ],
+    "NE": [
+      "AZ"
     ]
   }
 }

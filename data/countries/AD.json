@@ -33,11 +33,11 @@
   ],
   "phone_code": "376",
   "neighbours": {
-    "NE": [
-      "FR"
-    ],
     "SW": [
       "ES"
+    ],
+    "NE": [
+      "FR"
     ]
   }
 }

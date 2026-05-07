@@ -28,18 +28,18 @@
   ],
   "phone_code": "235",
   "neighbours": {
-    "NW": [
-      "LY",
-      "NE"
-    ],
-    "SE": [
-      "CF"
-    ],
     "SW": [
       "CM",
       "NG"
     ],
-    "W": [
+    "SE": [
+      "CF"
+    ],
+    "NW": [
+      "LY",
+      "NE"
+    ],
+    "E": [
       "SD"
     ]
   }

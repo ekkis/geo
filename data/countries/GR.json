@@ -38,11 +38,11 @@
   ],
   "phone_code": "30",
   "neighbours": {
-    "NE": [
-      "BG"
-    ],
     "NW": [
       "AL"
+    ],
+    "NE": [
+      "BG"
     ],
     "N": [
       "MK"

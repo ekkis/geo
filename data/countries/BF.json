@@ -29,22 +29,21 @@
   ],
   "phone_code": "226",
   "neighbours": {
-    "NE": [
-      "NE",
-      "GH"
-    ],
-    "NW": [
-      "ML",
-      "GH"
-    ],
     "SE": [
       "BJ",
-      "TG",
+      "TG"
+    ],
+    "S": [
       "GH"
     ],
     "SW": [
-      "CI",
-      "GH"
+      "CI"
+    ],
+    "NE": [
+      "NE"
+    ],
+    "NW": [
+      "ML"
     ]
   }
 }

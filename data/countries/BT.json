@@ -27,11 +27,14 @@
   ],
   "phone_code": "975",
   "neighbours": {
-    "NE": [
+    "E": [
       "CN"
     ],
     "SW": [
       "IN"
+    ],
+    "NE": [
+      "CN"
     ]
   }
 }

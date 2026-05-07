@@ -29,18 +29,13 @@
   "phone_code": "241",
   "neighbours": {
     "NE": [
-      "CM",
+      "CM"
+    ],
+    "E": [
       "CG"
     ],
     "NW": [
-      "GQ",
-      "CG"
-    ],
-    "SE": [
-      "CG"
-    ],
-    "SW": [
-      "CG"
+      "GQ"
     ]
   }
 }

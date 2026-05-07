@@ -26,5 +26,6 @@
     "AU",
     "UN"
   ],
-  "phone_code": "230"
+  "phone_code": "230",
+  "neighbours": {}
 }

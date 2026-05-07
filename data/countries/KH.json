@@ -36,12 +36,14 @@
   ],
   "phone_code": "855",
   "neighbours": {
-    "NE": [
-      "VN"
+    "N": [
+      "LA"
     ],
     "NW": [
-      "TH",
-      "LA"
+      "TH"
+    ],
+    "NE": [
+      "VN"
     ]
   }
 }

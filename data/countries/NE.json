@@ -32,22 +32,22 @@
   ],
   "phone_code": "227",
   "neighbours": {
-    "NE": [
-      "LY",
-      "NG"
-    ],
     "NW": [
       "DZ",
       "ML"
     ],
-    "SE": [
-      "TD",
-      "NG"
-    ],
     "SW": [
       "BJ",
-      "BF",
+      "BF"
+    ],
+    "NE": [
+      "LY"
+    ],
+    "S": [
       "NG"
+    ],
+    "SE": [
+      "TD"
     ]
   }
 }

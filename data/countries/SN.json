@@ -32,16 +32,16 @@
   ],
   "phone_code": "221",
   "neighbours": {
-    "NE": [
-      "ML",
-      "MR"
+    "SW": [
+      "GM",
+      "GW"
     ],
     "SE": [
       "GN"
     ],
-    "SW": [
-      "GM",
-      "GW"
+    "NE": [
+      "ML",
+      "MR"
     ]
   }
 }

@@ -40,22 +40,22 @@
   ],
   "phone_code": "49",
   "neighbours": {
-    "NE": [
-      "DK",
-      "PL"
-    ],
-    "NW": [
-      "NL"
-    ],
     "SE": [
       "AT",
       "CZ"
     ],
     "SW": [
       "BE",
+      "CH",
       "FR",
-      "LU",
-      "CH"
+      "LU"
+    ],
+    "NE": [
+      "DK",
+      "PL"
+    ],
+    "NW": [
+      "NL"
     ]
   }
 }

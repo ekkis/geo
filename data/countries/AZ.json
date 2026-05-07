@@ -34,18 +34,18 @@
   ],
   "phone_code": "994",
   "neighbours": {
+    "SW": [
+      "AM",
+      "TR"
+    ],
+    "SE": [
+      "IR"
+    ],
     "NE": [
       "RU"
     ],
     "NW": [
       "GE"
-    ],
-    "SE": [
-      "IR"
-    ],
-    "SW": [
-      "AM",
-      "TR"
     ]
   }
 }

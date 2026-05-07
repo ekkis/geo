@@ -34,18 +34,16 @@
   ],
   "phone_code": "996",
   "neighbours": {
-    "NW": [
-      "KZ",
-      "UZ"
-    ],
     "SE": [
       "CN"
     ],
-    "SW": [
-      "TJ",
-      "UZ"
+    "NW": [
+      "KZ"
     ],
-    "NE": [
+    "SW": [
+      "TJ"
+    ],
+    "W": [
       "UZ"
     ]
   }

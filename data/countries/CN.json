@@ -36,33 +36,37 @@
   ],
   "phone_code": "86",
   "neighbours": {
-    "NE": [
-      "KP"
-    ],
-    "NW": [
-      "KZ",
-      "KG",
-      "RU",
-      "TJ"
-    ],
-    "SE": [
-      "HK",
-      "MO",
-      "VN"
-    ],
     "SW": [
       "AF",
       "BT",
+      "PK",
       "IN",
-      "MM",
       "NP",
-      "PK"
+      "MM"
+    ],
+    "W": [
+      "AF",
+      "BT"
     ],
     "N": [
       "MN"
     ],
+    "NW": [
+      "TJ",
+      "KG",
+      "RU",
+      "KZ"
+    ],
     "S": [
       "LA"
+    ],
+    "SE": [
+      "HK",
+      "VN",
+      "MO"
+    ],
+    "NE": [
+      "KP"
     ]
   }
 }

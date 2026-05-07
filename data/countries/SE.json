@@ -42,7 +42,9 @@
   "phone_code": "46",
   "neighbours": {
     "NE": [
-      "FI",
+      "FI"
+    ],
+    "W": [
       "NO"
     ]
   }

@@ -34,9 +34,6 @@
   ],
   "phone_code": "380",
   "neighbours": {
-    "NE": [
-      "RU"
-    ],
     "NW": [
       "BY",
       "PL"
@@ -46,6 +43,9 @@
       "MD",
       "RO",
       "SK"
+    ],
+    "NE": [
+      "RU"
     ]
   }
 }

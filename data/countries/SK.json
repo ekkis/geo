@@ -38,9 +38,8 @@
   ],
   "phone_code": "421",
   "neighbours": {
-    "NE": [
-      "PL",
-      "UA"
+    "SW": [
+      "AT"
     ],
     "NW": [
       "CZ"
@@ -48,8 +47,9 @@
     "SE": [
       "HU"
     ],
-    "SW": [
-      "AT"
+    "NE": [
+      "PL",
+      "UA"
     ]
   }
 }

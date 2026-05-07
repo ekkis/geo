@@ -32,14 +32,14 @@
   ],
   "phone_code": "595",
   "neighbours": {
-    "NE": [
-      "BR"
+    "SW": [
+      "AR"
     ],
     "NW": [
       "BO"
     ],
-    "SW": [
-      "AR"
+    "NE": [
+      "BR"
     ]
   }
 }

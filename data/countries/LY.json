@@ -27,12 +27,12 @@
   ],
   "phone_code": "218",
   "neighbours": {
-    "NE": [
-      "EG"
-    ],
     "NW": [
       "DZ",
       "TN"
+    ],
+    "NE": [
+      "EG"
     ],
     "SE": [
       "TD",

@@ -35,12 +35,12 @@
   ],
   "phone_code": "995",
   "neighbours": {
-    "NE": [
-      "RU"
-    ],
     "SE": [
       "AM",
       "AZ"
+    ],
+    "NE": [
+      "RU"
     ],
     "SW": [
       "TR"

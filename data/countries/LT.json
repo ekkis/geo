@@ -38,12 +38,12 @@
   ],
   "phone_code": "370",
   "neighbours": {
-    "NE": [
-      "LV",
-      "RU"
-    ],
     "SE": [
       "BY"
+    ],
+    "NE": [
+      "RU",
+      "LV"
     ],
     "SW": [
       "PL"

@@ -23,5 +23,24 @@
   "demonym": "Congolese",
   "gdp": 66383287002.996895,
   "gdp_year": 2023,
-  "phone_code": "243"
+  "phone_code": "243",
+  "neighbours": {
+    "SW": [
+      "AO",
+      "CG"
+    ],
+    "SE": [
+      "BI",
+      "ZM",
+      "RW",
+      "TZ"
+    ],
+    "NW": [
+      "CF"
+    ],
+    "NE": [
+      "UG",
+      "SS"
+    ]
+  }
 }

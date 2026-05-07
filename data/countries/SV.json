@@ -35,11 +35,11 @@
   ],
   "phone_code": "503",
   "neighbours": {
-    "NE": [
-      "HN"
-    ],
     "NW": [
       "GT"
+    ],
+    "NE": [
+      "HN"
     ]
   }
 }

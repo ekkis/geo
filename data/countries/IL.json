@@ -36,16 +36,16 @@
   ],
   "phone_code": "972",
   "neighbours": {
+    "SW": [
+      "EG"
+    ],
     "NE": [
-      "LB",
+      "SY",
       "PS",
-      "SY"
+      "LB"
     ],
     "SE": [
       "JO"
-    ],
-    "SW": [
-      "EG"
     ]
   }
 }

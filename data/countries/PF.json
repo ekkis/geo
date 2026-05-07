@@ -27,5 +27,6 @@
     "format": "#####",
     "regex": "^((97|98)7\\d{2})$"
   },
-  "phone_code": "689"
+  "phone_code": "689",
+  "neighbours": {}
 }

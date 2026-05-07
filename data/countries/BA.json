@@ -32,11 +32,11 @@
   ],
   "phone_code": "387",
   "neighbours": {
-    "NW": [
-      "HR"
-    ],
     "SE": [
       "ME"
+    ],
+    "NW": [
+      "HR"
     ],
     "E": [
       "RS"

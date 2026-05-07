@@ -38,20 +38,20 @@
   ],
   "phone_code": "36",
   "neighbours": {
-    "NE": [
-      "UA"
-    ],
     "NW": [
       "AT",
       "SK"
+    ],
+    "SW": [
+      "HR",
+      "SI"
     ],
     "SE": [
       "RO",
       "RS"
     ],
-    "SW": [
-      "HR",
-      "SI"
+    "NE": [
+      "UA"
     ]
   }
 }

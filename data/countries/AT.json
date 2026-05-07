@@ -37,21 +37,21 @@
   ],
   "phone_code": "43",
   "neighbours": {
+    "SW": [
+      "LI",
+      "CH",
+      "IT"
+    ],
     "NE": [
       "CZ",
       "SK"
     ],
+    "SE": [
+      "SI",
+      "HU"
+    ],
     "NW": [
       "DE"
-    ],
-    "SE": [
-      "HU",
-      "SI"
-    ],
-    "SW": [
-      "IT",
-      "LI",
-      "CH"
     ]
   }
 }

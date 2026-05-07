@@ -32,23 +32,20 @@
   ],
   "phone_code": "254",
   "neighbours": {
-    "NE": [
-      "SO",
+    "N": [
+      "ET"
+    ],
+    "W": [
       "UG"
     ],
     "NW": [
-      "SS",
-      "UG"
+      "SS"
     ],
     "SW": [
-      "TZ",
-      "UG"
+      "TZ"
     ],
-    "SE": [
-      "UG"
-    ],
-    "S": [
-      "ET"
+    "NE": [
+      "SO"
     ]
   }
 }

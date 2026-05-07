@@ -26,9 +26,6 @@
   "gdp_year": 2021,
   "phone_code": "963",
   "neighbours": {
-    "NW": [
-      "TR"
-    ],
     "SE": [
       "IQ"
     ],
@@ -36,6 +33,9 @@
       "IL",
       "JO",
       "LB"
+    ],
+    "NW": [
+      "TR"
     ]
   }
 }

@@ -31,5 +31,6 @@
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "phone_code": "299"
+  "phone_code": "299",
+  "neighbours": {}
 }

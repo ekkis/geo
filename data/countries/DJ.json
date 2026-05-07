@@ -28,14 +28,14 @@
   ],
   "phone_code": "253",
   "neighbours": {
-    "NW": [
-      "ER"
+    "SW": [
+      "ET"
     ],
     "SE": [
       "SO"
     ],
-    "SW": [
-      "ET"
+    "NW": [
+      "ER"
     ]
   }
 }

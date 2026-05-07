@@ -34,17 +34,17 @@
   ],
   "phone_code": "420",
   "neighbours": {
+    "SW": [
+      "AT"
+    ],
     "NE": [
       "PL"
-    ],
-    "NW": [
-      "DE"
     ],
     "SE": [
       "SK"
     ],
-    "SW": [
-      "AT"
+    "NW": [
+      "DE"
     ]
   }
 }

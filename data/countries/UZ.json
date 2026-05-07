@@ -33,18 +33,18 @@
   ],
   "phone_code": "998",
   "neighbours": {
-    "NE": [
-      "KZ",
-      "KG"
-    ],
     "SE": [
       "AF",
-      "KG",
       "TJ"
     ],
-    "SW": [
-      "TM",
+    "NE": [
+      "KZ"
+    ],
+    "E": [
       "KG"
+    ],
+    "SW": [
+      "TM"
     ]
   }
 }

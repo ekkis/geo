@@ -32,11 +32,11 @@
   ],
   "phone_code": "216",
   "neighbours": {
-    "SE": [
-      "LY"
-    ],
     "SW": [
       "DZ"
+    ],
+    "SE": [
+      "LY"
     ]
   }
 }

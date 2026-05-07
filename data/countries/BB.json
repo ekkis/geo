@@ -31,5 +31,6 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-246"
+  "phone_code": "+1-246",
+  "neighbours": {}
 }

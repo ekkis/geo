@@ -33,5 +33,6 @@
     "EU",
     "UN"
   ],
-  "phone_code": "356"
+  "phone_code": "356",
+  "neighbours": {}
 }

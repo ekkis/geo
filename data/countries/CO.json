@@ -30,18 +30,18 @@
   ],
   "phone_code": "57",
   "neighbours": {
-    "NE": [
-      "VE"
-    ],
-    "NW": [
-      "PA"
-    ],
     "SE": [
       "BR"
     ],
+    "NE": [
+      "VE"
+    ],
     "SW": [
-      "EC",
-      "PE"
+      "PE",
+      "EC"
+    ],
+    "NW": [
+      "PA"
     ]
   }
 }

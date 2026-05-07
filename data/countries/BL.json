@@ -23,5 +23,6 @@
   "postal_code": {
     "format": "### ###"
   },
-  "phone_code": "590"
+  "phone_code": "590",
+  "neighbours": {}
 }

@@ -29,19 +29,12 @@
   ],
   "phone_code": "263",
   "neighbours": {
-    "NE": [
-      "MZ",
-      "ZM"
-    ],
-    "NW": [
-      "ZM"
-    ],
     "SW": [
       "BW",
       "ZA"
     ],
-    "S": [
-      "ZM"
+    "NE": [
+      "MZ"
     ],
     "N": [
       "ZM"

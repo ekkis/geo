@@ -28,18 +28,15 @@
   "neighbours": {
     "NE": [
       "BF",
-      "ML",
-      "GH"
+      "ML"
     ],
     "NW": [
-      "GN",
-      "GH"
-    ],
-    "SE": [
-      "GH"
+      "GN"
     ],
     "SW": [
-      "LR",
+      "LR"
+    ],
+    "E": [
       "GH"
     ]
   }

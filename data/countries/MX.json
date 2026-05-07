@@ -41,12 +41,12 @@
   ],
   "phone_code": "52",
   "neighbours": {
-    "N": [
-      "US"
-    ],
     "SE": [
       "BZ",
       "GT"
+    ],
+    "NE": [
+      "US"
     ]
   }
 }

@@ -36,12 +36,12 @@
   ],
   "phone_code": "7",
   "neighbours": {
-    "NE": [
-      "RU"
-    ],
     "SE": [
       "CN",
       "KG"
+    ],
+    "NE": [
+      "RU"
     ],
     "SW": [
       "TM",

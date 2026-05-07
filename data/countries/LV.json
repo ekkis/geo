@@ -38,12 +38,12 @@
   ],
   "phone_code": "371",
   "neighbours": {
+    "SE": [
+      "BY"
+    ],
     "NE": [
       "EE",
       "RU"
-    ],
-    "SE": [
-      "BY"
     ],
     "SW": [
       "LT"

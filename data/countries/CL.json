@@ -35,14 +35,14 @@
   ],
   "phone_code": "56",
   "neighbours": {
+    "SE": [
+      "AR"
+    ],
     "NE": [
       "BO"
     ],
     "NW": [
       "PE"
-    ],
-    "SE": [
-      "AR"
     ]
   }
 }

@@ -28,14 +28,14 @@
   },
   "phone_code": "850",
   "neighbours": {
-    "NW": [
-      "RU"
+    "SW": [
+      "CN"
     ],
     "SE": [
       "KR"
     ],
-    "SW": [
-      "CN"
+    "NW": [
+      "RU"
     ]
   }
 }

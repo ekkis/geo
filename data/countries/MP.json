@@ -21,5 +21,6 @@
   "demonym": "American",
   "gdp": 858000000,
   "gdp_year": 2020,
-  "phone_code": "+1-670"
+  "phone_code": "+1-670",
+  "neighbours": {}
 }

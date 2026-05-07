@@ -26,5 +26,6 @@
     "format": "#####-####",
     "regex": "^(\\d{9})$"
   },
-  "phone_code": "+1-787 and 1-939"
+  "phone_code": "+1-787 and 1-939",
+  "neighbours": {}
 }

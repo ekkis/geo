@@ -27,19 +27,17 @@
   ],
   "phone_code": "242",
   "neighbours": {
-    "NE": [
-      "CF",
-      "GA"
+    "SE": [
+      "AO"
     ],
     "NW": [
-      "CM",
-      "GA"
+      "CM"
     ],
-    "SE": [
-      "AO",
-      "GA"
+    "NE": [
+      "CF",
+      "CD"
     ],
-    "SW": [
+    "W": [
       "GA"
     ]
   }

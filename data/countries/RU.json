@@ -45,15 +45,6 @@
   ],
   "phone_code": "7",
   "neighbours": {
-    "NW": [
-      "FI",
-      "NO"
-    ],
-    "SE": [
-      "CN",
-      "KP",
-      "MN"
-    ],
     "SW": [
       "AZ",
       "BY",
@@ -64,6 +55,15 @@
       "LT",
       "PL",
       "UA"
+    ],
+    "SE": [
+      "CN",
+      "KP",
+      "MN"
+    ],
+    "NW": [
+      "FI",
+      "NO"
     ]
   }
 }

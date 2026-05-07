@@ -28,24 +28,14 @@
   ],
   "phone_code": "233",
   "neighbours": {
-    "NW": [
-      "BF",
+    "N": [
+      "BF"
+    ],
+    "W": [
       "CI"
-    ],
-    "SE": [
-      "CI",
-      "BF"
-    ],
-    "SW": [
-      "CI",
-      "BF"
     ],
     "E": [
       "TG"
-    ],
-    "NE": [
-      "CI",
-      "BF"
     ]
   }
 }

@@ -34,12 +34,12 @@
   ],
   "phone_code": "92",
   "neighbours": {
-    "NE": [
-      "CN"
-    ],
     "NW": [
       "AF",
       "IR"
+    ],
+    "NE": [
+      "CN"
     ],
     "SE": [
       "IN"

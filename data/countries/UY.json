@@ -32,11 +32,11 @@
   ],
   "phone_code": "598",
   "neighbours": {
-    "NE": [
-      "BR"
-    ],
     "SW": [
       "AR"
+    ],
+    "NE": [
+      "BR"
     ]
   }
 }

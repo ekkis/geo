@@ -30,5 +30,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "94"
+  "phone_code": "94",
+  "neighbours": {
+    "NW": [
+      "IN"
+    ]
+  }
 }

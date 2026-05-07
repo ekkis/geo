@@ -35,8 +35,8 @@
   "phone_code": "54",
   "neighbours": {
     "NE": [
-      "BR",
       "PY",
+      "BR",
       "UY"
     ],
     "NW": [

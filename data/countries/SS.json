@@ -27,25 +27,21 @@
   ],
   "phone_code": "211",
   "neighbours": {
-    "NE": [
-      "ET",
-      "SD"
-    ],
-    "NW": [
-      "SD",
-      "CF"
-    ],
-    "SE": [
-      "KE",
-      "UG",
+    "W": [
       "CF"
     ],
     "SW": [
-      "CF",
-      "SD"
+      "CD"
+    ],
+    "NE": [
+      "ET"
+    ],
+    "SE": [
+      "KE",
+      "UG"
     ],
     "N": [
-      "CF"
+      "SD"
     ]
   }
 }

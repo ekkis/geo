@@ -37,20 +37,18 @@
   ],
   "phone_code": "359",
   "neighbours": {
+    "SW": [
+      "MK",
+      "GR"
+    ],
+    "N": [
+      "RO"
+    ],
     "NW": [
-      "RO",
       "RS"
     ],
     "SE": [
-      "TR",
-      "RO"
-    ],
-    "SW": [
-      "GR",
-      "MK"
-    ],
-    "NE": [
-      "RO"
+      "TR"
     ]
   }
 }
