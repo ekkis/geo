@@ -36,5 +36,17 @@
     "EU",
     "UN"
   ],
-  "phone_code": "32"
+  "phone_code": "32",
+  "neighbours": {
+    "NE": [
+      "DE",
+      "NL"
+    ],
+    "SE": [
+      "LU"
+    ],
+    "SW": [
+      "FR"
+    ]
+  }
 }

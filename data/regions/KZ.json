@@ -1,105 +1,82 @@
 {
-  "AKMO": {
-    "name": "Akmola",
-    "regions": [
-      "Akmola"
-    ]
+  "Akmola": {
+    "AKMO": {
+      "name": "Akmola"
+    }
   },
-  "AKTO": {
-    "name": "Aktobe",
-    "regions": [
-      "Aktobe"
-    ]
+  "Aktobe": {
+    "AKTO": {
+      "name": "Aktobe"
+    }
   },
-  "ALM": {
-    "name": "Almaty",
-    "regions": [
-      "Almaty"
-    ]
+  "Almaty": {
+    "ALM": {
+      "name": "Almaty"
+    }
   },
-  "AST": {
-    "name": "Nur-Sultan",
-    "regions": [
-      "Nur-Sultan"
-    ]
+  "Nur-Sultan": {
+    "AST": {
+      "name": "Nur-Sultan"
+    }
   },
-  "ATYR": {
-    "name": "Atyrau",
-    "regions": [
-      "Atyrau"
-    ]
+  "Atyrau": {
+    "ATYR": {
+      "name": "Atyrau"
+    }
   },
-  "KARAG": {
-    "name": "Karaganda",
-    "regions": [
-      "Karaganda"
-    ]
+  "Karaganda": {
+    "KARAG": {
+      "name": "Karaganda"
+    }
   },
-  "KOST": {
-    "name": "Kostanay",
-    "regions": [
-      "Kostanay"
-    ]
+  "Kostanay": {
+    "KOST": {
+      "name": "Kostanay"
+    }
   },
-  "KYZY": {
-    "name": "Kyzylorda",
-    "regions": [
-      "Kyzylorda"
-    ]
+  "Kyzylorda": {
+    "KYZY": {
+      "name": "Kyzylorda"
+    }
   },
-  "MANGS": {
-    "name": "Mangystau",
-    "regions": [
-      "Mangystau"
-    ]
+  "Mangystau": {
+    "MANGS": {
+      "name": "Mangystau"
+    }
   },
-  "PAV": {
-    "name": "Pavlodar",
-    "regions": [
-      "Pavlodar"
-    ]
+  "Pavlodar": {
+    "PAV": {
+      "name": "Pavlodar"
+    }
   },
-  "SEVZ": {
-    "name": "North Kazakhstan",
-    "regions": [
-      "North Kazakhstan"
-    ]
+  "North Kazakhstan": {
+    "SEVZ": {
+      "name": "North Kazakhstan"
+    }
   },
-  "SHYM": {
-    "name": "Shymkent",
-    "regions": [
-      "Shymkent"
-    ]
+  "Shymkent": {
+    "SHYM": {
+      "name": "Shymkent"
+    }
   },
-  "TURK": {
-    "name": "Turkestan",
-    "regions": [
-      "Turkestan"
-    ]
+  "Turkestan": {
+    "TURK": {
+      "name": "Turkestan"
+    }
   },
-  "VOST": {
-    "name": "East Kazakhstan",
-    "regions": [
-      "East Kazakhstan"
-    ]
+  "East Kazakhstan": {
+    "VOST": {
+      "name": "East Kazakhstan"
+    }
   },
-  "YUZH": {
-    "name": "South Kazakhstan",
-    "regions": [
-      "South Kazakhstan"
-    ]
+  "South Kazakhstan": {
+    "YUZH": {
+      "name": "South Kazakhstan"
+    }
   },
-  "ZAPAD": {
-    "name": "West Kazakhstan",
-    "regions": [
-      "West Kazakhstan"
-    ]
-  },
-  "capital": "Astana",
-  "currency_code": "KZT",
-  "iso3": "KAZ",
-  "language_code": [
-    "kk"
-  ],
-  "continent_code": "AS"
+  "West Kazakhstan": {
+    "ZAPAD": {
+      "name": "West Kazakhstan"
+    }
+  }
 }

@@ -26,5 +26,20 @@
     "format": "##########",
     "regex": "^(\\d{10})$"
   },
-  "phone_code": "98"
+  "phone_code": "98",
+  "neighbours": {
+    "NE": [
+      "AF",
+      "TM"
+    ],
+    "NW": [
+      "AM",
+      "AZ",
+      "IQ",
+      "TR"
+    ],
+    "SE": [
+      "PK"
+    ]
+  }
 }

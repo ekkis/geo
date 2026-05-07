@@ -1,117 +1,92 @@
 {
-  "AVE": {
-    "name": "Aveiro",
-    "regions": [
-      "Aveiro"
-    ]
+  "Aveiro": {
+    "AVE": {
+      "name": "Aveiro"
+    }
   },
-  "BEJ": {
-    "name": "Beja",
-    "regions": [
-      "Beja"
-    ]
+  "Beja": {
+    "BEJ": {
+      "name": "Beja"
+    }
   },
-  "BRA": {
-    "name": "Braga",
-    "regions": [
-      "Braga"
-    ]
+  "Braga": {
+    "BRA": {
+      "name": "Braga"
+    }
   },
-  "BRA1": {
-    "name": "Bragança",
-    "regions": [
-      "Bragança"
-    ]
+  "Bragança": {
+    "BRA1": {
+      "name": "Bragança"
+    }
   },
-  "CASBR": {
-    "name": "Castelo Branco",
-    "regions": [
-      "Castelo Branco"
-    ]
+  "Castelo Branco": {
+    "CASBR": {
+      "name": "Castelo Branco"
+    }
   },
-  "COI": {
-    "name": "Coimbra",
-    "regions": [
-      "Coimbra"
-    ]
+  "Coimbra": {
+    "COI": {
+      "name": "Coimbra"
+    }
   },
-  "EVO": {
-    "name": "Évora",
-    "regions": [
-      "Évora"
-    ]
+  "Évora": {
+    "EVO": {
+      "name": "Évora"
+    }
   },
-  "FAR": {
-    "name": "Faro",
-    "regions": [
-      "Faro"
-    ]
+  "Faro": {
+    "FAR": {
+      "name": "Faro"
+    }
   },
-  "GUA": {
-    "name": "Guarda",
-    "regions": [
-      "Guarda"
-    ]
+  "Guarda": {
+    "GUA": {
+      "name": "Guarda"
+    }
   },
-  "LEI": {
-    "name": "Leiria",
-    "regions": [
-      "Leiria"
-    ]
+  "Leiria": {
+    "LEI": {
+      "name": "Leiria"
+    }
   },
-  "LIS": {
-    "name": "Lisboa",
-    "regions": [
-      "Lisboa"
-    ]
+  "Lisboa": {
+    "LIS": {
+      "name": "Lisboa"
+    }
   },
-  "POR": {
-    "name": "Portalegre",
-    "regions": [
-      "Portalegre"
-    ]
+  "Portalegre": {
+    "POR": {
+      "name": "Portalegre"
+    }
   },
-  "POR1": {
-    "name": "Porto",
-    "regions": [
-      "Porto"
-    ]
+  "Porto": {
+    "POR1": {
+      "name": "Porto"
+    }
   },
-  "SAN": {
-    "name": "Santarém",
-    "regions": [
-      "Santarém"
-    ]
+  "Santarém": {
+    "SAN": {
+      "name": "Santarém"
+    }
   },
-  "SET": {
-    "name": "Setúbal",
-    "regions": [
-      "Setúbal"
-    ]
+  "Setúbal": {
+    "SET": {
+      "name": "Setúbal"
+    }
   },
-  "VIADO": {
-    "name": "Viana do Castelo",
-    "regions": [
-      "Viana do Castelo"
-    ]
+  "Viana do Castelo": {
+    "VIADO": {
+      "name": "Viana do Castelo"
+    }
   },
-  "VILRE": {
-    "name": "Vila Real",
-    "regions": [
-      "Vila Real"
-    ]
+  "Vila Real": {
+    "VILRE": {
+      "name": "Vila Real"
+    }
   },
-  "VIS": {
-    "name": "Viseu",
-    "regions": [
-      "Viseu"
-    ]
-  },
-  "capital": "Lisbon",
-  "currency_code": "EUR",
-  "iso3": "PRT",
-  "language_code": [
-    "prt"
-  ],
-  "continent_code": "EU"
+  "Viseu": {
+    "VIS": {
+      "name": "Viseu"
+    }
+  }
 }

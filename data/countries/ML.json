@@ -26,5 +26,22 @@
     "AU",
     "UN"
   ],
-  "phone_code": "223"
+  "phone_code": "223",
+  "neighbours": {
+    "NE": [
+      "DZ"
+    ],
+    "NW": [
+      "MR"
+    ],
+    "SE": [
+      "BF",
+      "NE"
+    ],
+    "SW": [
+      "CI",
+      "GN",
+      "SN"
+    ]
+  }
 }

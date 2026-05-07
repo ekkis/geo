@@ -36,5 +36,17 @@
     "EU",
     "UN"
   ],
-  "phone_code": "370"
+  "phone_code": "370",
+  "neighbours": {
+    "NE": [
+      "LV",
+      "RU"
+    ],
+    "SE": [
+      "BY"
+    ],
+    "SW": [
+      "PL"
+    ]
+  }
 }

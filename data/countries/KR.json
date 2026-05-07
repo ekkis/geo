@@ -33,5 +33,10 @@
     "BIS",
     "G20"
   ],
-  "phone_code": "82"
+  "phone_code": "82",
+  "neighbours": {
+    "NW": [
+      "KP"
+    ]
+  }
 }

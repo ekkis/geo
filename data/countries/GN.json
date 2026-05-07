@@ -26,5 +26,21 @@
     "AU",
     "UN"
   ],
-  "phone_code": "224"
+  "phone_code": "224",
+  "neighbours": {
+    "NE": [
+      "ML"
+    ],
+    "NW": [
+      "GW",
+      "SN"
+    ],
+    "SE": [
+      "CI",
+      "LR"
+    ],
+    "SW": [
+      "SL"
+    ]
+  }
 }

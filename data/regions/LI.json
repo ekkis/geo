@@ -1,75 +1,57 @@
 {
-  "BAL": {
-    "name": "Balzers",
-    "regions": [
-      "Balzers"
-    ]
+  "Balzers": {
+    "BAL": {
+      "name": "Balzers"
+    }
   },
-  "ESC": {
-    "name": "Eschen",
-    "regions": [
-      "Eschen"
-    ]
+  "Eschen": {
+    "ESC": {
+      "name": "Eschen"
+    }
   },
-  "GAM": {
-    "name": "Gamprin",
-    "regions": [
-      "Gamprin"
-    ]
+  "Gamprin": {
+    "GAM": {
+      "name": "Gamprin"
+    }
   },
-  "MAU": {
-    "name": "Mauren",
-    "regions": [
-      "Mauren"
-    ]
+  "Mauren": {
+    "MAU": {
+      "name": "Mauren"
+    }
   },
-  "PLA": {
-    "name": "Planken",
-    "regions": [
-      "Planken"
-    ]
+  "Planken": {
+    "PLA": {
+      "name": "Planken"
+    }
   },
-  "RUG": {
-    "name": "Ruggell",
-    "regions": [
-      "Ruggell"
-    ]
+  "Ruggell": {
+    "RUG": {
+      "name": "Ruggell"
+    }
   },
-  "SCH": {
-    "name": "Schaan",
-    "regions": [
-      "Schaan"
-    ]
+  "Schaan": {
+    "SCH": {
+      "name": "Schaan"
+    }
   },
-  "SCH1": {
-    "name": "Schellenberg",
-    "regions": [
-      "Schellenberg"
-    ]
+  "Schellenberg": {
+    "SCH1": {
+      "name": "Schellenberg"
+    }
   },
-  "TRI": {
-    "name": "Triesen",
-    "regions": [
-      "Triesen"
-    ]
+  "Triesen": {
+    "TRI": {
+      "name": "Triesen"
+    }
   },
-  "TRI1": {
-    "name": "Triesenberg",
-    "regions": [
-      "Triesenberg"
-    ]
+  "Triesenberg": {
+    "TRI1": {
+      "name": "Triesenberg"
+    }
   },
-  "VAD": {
-    "name": "Vaduz",
-    "regions": [
-      "Vaduz"
-    ]
-  },
-  "capital": "Vaduz",
-  "currency_code": "CHF",
-  "iso3": "LIE",
-  "language_code": [
-    "lie"
-  ],
-  "continent_code": "EU"
+  "Vaduz": {
+    "VAD": {
+      "name": "Vaduz"
+    }
+  }
 }

@@ -1,15 +1,7 @@
 {
-  "VATCI": {
-    "name": "Vatican City",
-    "regions": [
-      "Vatican City"
-    ]
-  },
-  "capital": "Vatican City",
-  "currency_code": "EUR",
-  "iso3": "VAT",
-  "language_code": [
-    "vat"
-  ],
-  "continent_code": "EU"
+  "Vatican City": {
+    "VATCI": {
+      "name": "Vatican City"
+    }
+  }
 }

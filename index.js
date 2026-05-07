@@ -1,53 +1,52 @@
-'use strict';
+const fs = require('fs');
+const path = require('path');
 
-var self = module.exports = {
-    all: {},
-    cache: {},
-    ls(field) {
-        return Object.keys(this.all).map(k => this.all[k][field]);
-    },
-    continents() {
-        return this.ls('continent').unique();
-    },
-    names() {
-        return this.ls('name');
-    },
-    capitals() {
-        return this.ls('capital');
-    },
+// Load data from loader.js
+const data = require('./loader');
+
+// Base Entity class with list and find methods
+class Entity {
+    constructor(data) {
+        this.data = data;
+    }
+    
+    list() {
+        return Object.values(this.data);
+    }
+    
     find(criteria) {
         if (typeof criteria === 'string') {
             criteria = { name: criteria };
         }
         criteria = criteria || {};
-
+    
         if (Object.keys(criteria).length === 1 && 'name' in criteria) {
-            return find('name', criteria.name);
+            return this.findByName(criteria.name);
         }
-
+    
         const results = [];
-        for (const [iso2, entry] of Object.entries(self.all)) {
+        for (const [key, entry] of Object.entries(this.data)) {
             let matches = true;
 
-            for (const [key, value] of Object.entries(criteria)) {
-                if (!entry[key]) {
+            for (const [key2, value] of Object.entries(criteria)) {
+                if (!entry[key2]) {
                     matches = false;
                     break;
                 }
 
                 if (Array.isArray(value)) {
-                    if (!value.some(v =>
-                        entry[key].toString().toLowerCase().includes(v.toString().toLowerCase())
+                    if (!value.some(v => 
+                        entry[key2].toString().toLowerCase().includes(v.toString().toLowerCase())
                     )) {
                         matches = false;
                         break;
                     }
-                } else if (typeof entry[key] === 'string' && typeof value === 'string') {
-                    if (entry[key].toLowerCase() !== value.toLowerCase()) {
+                } else if (typeof entry[key2] === 'string' && typeof value === 'string') {
+                    if (entry[key2].toLowerCase() !== value.toLowerCase()) {
                         matches = false;
                         break;
                     }
-                } else if (entry[key] !== value) {
+                } else if (entry[key2] !== value) {
                     matches = false;
                     break;
                 }
@@ -57,112 +56,165 @@ var self = module.exports = {
         }
 
         return results.length === 1 ? results[0] : results;
-    },
-
-    neighbours(country, direction) {
-        const key = country.length === 2 ? country : Object.keys(self.all).find(k =>
-            self.all[k].name.toLowerCase() === country.toLowerCase()
-        );
-
-        if (!key) return [];
-
-        const entry = self.all[key];
-        if (!entry.neighbors) return [];
-
-        const neighbors = entry.neighbors;
-
-        if (!direction) {
-            return Object.values(neighbors).flat().map(code => self.all[code]).filter(Boolean);
+    }
+    
+    findByName(name) {
+        // Initialize cache if not exists
+        if (!Entity.cache) {
+            Entity.cache = {};
         }
+        if (!Entity.cache[this.constructor.name]) {
+            Entity.cache[this.constructor.name] = {};
+        }
+        
+        // Check cache for this query (normalize to lowercase for caching)
+        const cacheKey = name.toLowerCase();
+        if (Entity.cache[this.constructor.name][cacheKey]) {
+            return Entity.cache[this.constructor.name][cacheKey];
+        }
+        
+        // Search for exact name match (case-insensitive)
+        const key = Object.keys(this.data).find(k => {
+            const entryName = this.data[k].name;
+            if (!entryName) return false;
+            
+            // If name is a string, compare directly
+            if (typeof entryName === 'string') {
+                return entryName.toLowerCase() === name.toLowerCase();
+            }
+            // If name is an object, check common and official fields
+            if (typeof entryName === 'object') {
+                // Handle both common and official names
+                const common = entryName.common || '';
+                const official = entryName.official || '';
+                return common.toLowerCase() === name.toLowerCase() || 
+                       official.toLowerCase() === name.toLowerCase();
+            }
+            return false;
+        });
+        
+        if (key) {
+            Entity.cache[this.constructor.name][cacheKey] = this.data[key];
+            return this.data[key];
+        }
+        
+        // If not found, return null
+        return null;
+    }
+    
+    findByCode(code) {
+        return this.data[code] || null;
+    }
+}
 
+// CountryEntity class with additional methods
+class CountryEntity extends Entity {
+neighbours(country, direction) {
+        // country can be ISO code or country name
+        let key = country;
+        if (country.length !== 2) {
+            key = Object.keys(this.data).find(k => {
+                const entryName = this.data[k].name;
+                if (!entryName) return false;
+                if (typeof entryName === 'string') {
+                    return entryName.toLowerCase() === country.toLowerCase();
+                }
+                if (typeof entryName === 'object') {
+                    const common = entryName.common || '';
+                    const official = entryName.official || '';
+                    return common.toLowerCase() === country.toLowerCase() || 
+                           official.toLowerCase() === country.toLowerCase();
+                }
+                return false;
+            });
+        }
+        if (!key) return [];
+        
+        const entry = this.data[key];
+        if (!entry.neighbours) return [];
+        
+        const neighbors = entry.neighbours;
+        if (!direction) {
+            return Object.values(neighbors).flat().map(code => this.findByCode(code)).filter(Boolean);
+        }
+        
         const normalizedDir = direction.toUpperCase();
         if (!neighbors[normalizedDir]) return [];
-
-        return neighbors[normalizedDir].map(code => self.all[code]).filter(Boolean);
+        
+        return neighbors[normalizedDir].map(code => this.findByCode(code)).filter(Boolean);
     }
-};
-
-function find(prop, val) {
-    if (!(prop in self.cache)) self.cache[prop] = {};
-    if (self.cache[prop][val])
-        return self.cache[prop][val];
-
-    return self.cache[prop][val] = Object.keys(self.all)
-        .filter(k => self.all[k][prop] == val)
-        .map(k => self.all[k])
-        .unpack(undefined);
 }
 
-function loadData() {
-    const fs = require('fs');
-    const path = require('path');
-    const dataDir = path.join(__dirname, 'data');
-    const data = {};
-    const codeQueue = [];
-
-    fs.readdirSync(dataDir)
-        .filter(f => f.endsWith('.json'))
-        .forEach(f => {
-            const name = f.slice(0, -5);
-            const isCode = name.endsWith('-code');
-            const base = isCode ? name.slice(0, -5) : name;
-            const content = require(path.join(dataDir, f));
-            const hyphenIdx = base.indexOf('-');
-
-            let top = null, key = base;
-            if (hyphenIdx !== -1) {
-                top = base.slice(0, hyphenIdx);
-                const rest = base.slice(hyphenIdx + 1);
-                key = rest.replace(/-(\w)/g, (_, c) => c.toUpperCase());
-            }
-
-            if (isCode) {
-                codeQueue.push({ top, key, content });
-            } else if (top) {
-                if (!data[top]) data[top] = {};
-                data[top][key] = content;
-            } else {
-                data[key] = content;
-            }
+// RegionEntity class - regions are structured with top-level region names containing subdivisions
+class RegionEntity extends Entity {
+    // list() returns array of region objects, each containing subdivisions
+    list() {
+        return Object.keys(this.data).map(regionName => {
+            return {
+                name: regionName,
+                subdivisions: this.data[regionName]
+            };
         });
-
-    codeQueue.forEach(({ top, key, content }) => {
-        const lookup = data[key] || data[key + 's'];
-        const resolved = {};
-        for (const [k, code] of Object.entries(content))
-            resolved[k] = lookup ? lookup[code] ?? code : code;
-        if (top) {
-            if (!data[top]) data[top] = {};
-            data[top][key] = resolved;
-        } else {
-            data[key] = resolved;
+    }
+    
+    findSubdivision(code) {
+        for (const [regionName, subdivisions] of Object.entries(this.data)) {
+            if (code in subdivisions) {
+                return { region: regionName, subdivision: subdivisions[code] };
+            }
         }
-    });
-
-    return data;
+        return null;
+    }
 }
 
-const data = loadData();
-
-function buildCountry(code) {
-  var ret = {}
-  Object.keys(data.country).forEach(k => {
-    ret[k] = data.country[k][code]
-  })
-  return ret
-}
-Object.keys(data.country.iso3).forEach(k => {
-    self.all[k] = buildCountry(k)
-})
-
-Array.prototype.unpack = function() {
-    var l = this.length;
-    return l == 1 ? this[0]
-        : l == 0 && arguments.length > 0
-        ? undefined
-        : this;
+// ContinentEntity - simple mapping of code to name
+class ContinentEntity extends Entity {
+    list() {
+        return Object.keys(this.data).map(code => ({ code, name: this.data[code] }));
+    }
 }
 
-Array.prototype.unique = function() {
-    return this.filter((e, pos) => this.indexOf(e) == pos);
+// LanguageEntity - array of language objects
+class LanguageEntity extends Entity {
+    list() {
+        return Object.values(this.data);
+    }
 }
+
+// CurrencyEntity - object with currency codes as keys
+class CurrencyEntity extends Entity {
+    list() {
+        return Object.values(this.data);
+    }
+}
+
+// Create entity instances
+const country = new CountryEntity(data.countries);
+const region = new RegionEntity(data.regions);
+const continent = new ContinentEntity(data.continents);
+const language = new LanguageEntity(data.languages);
+const currency = new CurrencyEntity(data.currencies);
+
+// Export entities
+module.exports = {
+    country,
+    region,
+    continent,
+    language,
+    currency,
+    
+    // Legacy aliases for backward compatibility (optional)
+    all: country.list(),
+    allCountries: country.list,
+    allRegions: region.list,
+    allContinents: continent.list,
+    allLanguages: language.list,
+    allCurrencies: currency.list,
+    
+    // Legacy methods (optional)
+    names: () => country.list().map(c => c.name),
+    capitals: () => country.list().map(c => c.capital).filter(c => c),
+    find: country.find.bind(country),
+    continents: () => continent.list(),
+    neighbours: country.neighbours.bind(country)
+};

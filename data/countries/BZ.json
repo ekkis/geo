@@ -29,5 +29,13 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "501"
+  "phone_code": "501",
+  "neighbours": {
+    "NW": [
+      "MX"
+    ],
+    "SW": [
+      "GT"
+    ]
+  }
 }

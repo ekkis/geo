@@ -35,5 +35,18 @@
     "EU",
     "UN"
   ],
-  "phone_code": "385"
+  "phone_code": "385",
+  "neighbours": {
+    "NE": [
+      "HU"
+    ],
+    "NW": [
+      "SI"
+    ],
+    "SE": [
+      "BA",
+      "ME",
+      "RS"
+    ]
+  }
 }

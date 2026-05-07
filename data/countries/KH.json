@@ -34,5 +34,14 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "855"
+  "phone_code": "855",
+  "neighbours": {
+    "NE": [
+      "VN"
+    ],
+    "NW": [
+      "LA",
+      "TH"
+    ]
+  }
 }

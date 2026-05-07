@@ -33,5 +33,20 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "966"
+  "phone_code": "966",
+  "neighbours": {
+    "NE": [
+      "KW",
+      "QA"
+    ],
+    "NW": [
+      "IQ",
+      "JO"
+    ],
+    "SE": [
+      "OM",
+      "AE",
+      "YE"
+    ]
+  }
 }

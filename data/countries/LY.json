@@ -25,5 +25,21 @@
     "AU",
     "UN"
   ],
-  "phone_code": "218"
+  "phone_code": "218",
+  "neighbours": {
+    "NE": [
+      "EG"
+    ],
+    "NW": [
+      "DZ",
+      "TN"
+    ],
+    "SE": [
+      "TD",
+      "SD"
+    ],
+    "SW": [
+      "NE"
+    ]
+  }
 }

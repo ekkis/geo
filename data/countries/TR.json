@@ -37,5 +37,23 @@
     "G20",
     "WTO"
   ],
-  "phone_code": "90"
+  "phone_code": "90",
+  "neighbours": {
+    "NE": [
+      "AM",
+      "AZ",
+      "GE"
+    ],
+    "NW": [
+      "BG"
+    ],
+    "SE": [
+      "IR",
+      "IQ",
+      "SY"
+    ],
+    "SW": [
+      "GR"
+    ]
+  }
 }

@@ -26,5 +26,16 @@
     "format": "###-###",
     "regex": "^(\\d{6})$"
   },
-  "phone_code": "850"
+  "phone_code": "850",
+  "neighbours": {
+    "NW": [
+      "RU"
+    ],
+    "SE": [
+      "KR"
+    ],
+    "SW": [
+      "CN"
+    ]
+  }
 }

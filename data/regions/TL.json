@@ -1,89 +1,67 @@
 {
-  "AILEU": {
-    "name": "Aileu",
-    "regions": [
-      "Aileu"
-    ]
+  "Aileu": {
+    "AILEU": {
+      "name": "Aileu"
+    }
   },
-  "AINARO": {
-    "name": "Ainaro",
-    "regions": [
-      "Ainaro"
-    ]
+  "Ainaro": {
+    "AINARO": {
+      "name": "Ainaro"
+    }
   },
-  "BAUCAU": {
-    "name": "Baucau",
-    "regions": [
-      "Baucau"
-    ]
+  "Baucau": {
+    "BAUCAU": {
+      "name": "Baucau"
+    }
   },
-  "BOBONAR": {
-    "name": "Bobonaro",
-    "regions": [
-      "Bobonaro"
-    ]
+  "Bobonaro": {
+    "BOBONAR": {
+      "name": "Bobonaro"
+    }
   },
-  "COVAI": {
-    "name": "Cova Lima",
-    "regions": [
-      "Cova Lima"
-    ]
+  "Cova Lima": {
+    "COVAI": {
+      "name": "Cova Lima"
+    }
   },
-  "DILI": {
-    "name": "Dili",
-    "regions": [
-      "Dili"
-    ]
+  "Dili": {
+    "DILI": {
+      "name": "Dili"
+    }
   },
-  "ERME": {
-    "name": "Ermera",
-    "regions": [
-      "Ermera"
-    ]
+  "Ermera": {
+    "ERME": {
+      "name": "Ermera"
+    }
   },
-  "LAUTEM": {
-    "name": "Lautém",
-    "regions": [
-      "Lautém"
-    ]
+  "Lautém": {
+    "LAUTEM": {
+      "name": "Lautém"
+    }
   },
-  "LIQUI": {
-    "name": "Liquiçá",
-    "regions": [
-      "Liquiçá"
-    ]
+  "Liquiçá": {
+    "LIQUI": {
+      "name": "Liquiçá"
+    }
   },
-  "MANATU": {
-    "name": "Manatuto",
-    "regions": [
-      "Manatuto"
-    ]
+  "Manatuto": {
+    "MANATU": {
+      "name": "Manatuto"
+    }
   },
-  "MANUFA": {
-    "name": "Manufahi",
-    "regions": [
-      "Manufahi"
-    ]
+  "Manufahi": {
+    "MANUFA": {
+      "name": "Manufahi"
+    }
   },
-  "OECUSSE": {
-    "name": "Oecusse",
-    "regions": [
-      "Oecusse"
-    ]
+  "Oecusse": {
+    "OECUSSE": {
+      "name": "Oecusse"
+    }
   },
-  "VIQUE": {
-    "name": "Viqueque",
-    "regions": [
-      "Viqueque"
-    ]
-  },
-  "capital": "Dili",
-  "currency_code": "USD",
-  "iso3": "TLS",
-  "language_code": [
-    "tls",
-    "tmp",
-    "tp"
-  ],
-  "continent_code": "OC"
+  "Viqueque": {
+    "VIQUE": {
+      "name": "Viqueque"
+    }
+  }
 }

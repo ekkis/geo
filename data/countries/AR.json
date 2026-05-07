@@ -32,5 +32,16 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "54"
+  "phone_code": "54",
+  "neighbours": {
+    "NE": [
+      "BR",
+      "PY",
+      "UY"
+    ],
+    "NW": [
+      "BO",
+      "CL"
+    ]
+  }
 }

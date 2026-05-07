@@ -36,5 +36,23 @@
     "BIS",
     "UN"
   ],
-  "phone_code": "381"
+  "phone_code": "381",
+  "neighbours": {
+    "NE": [
+      "RO"
+    ],
+    "NW": [
+      "HR",
+      "HU"
+    ],
+    "SE": [
+      "BG",
+      "MK"
+    ],
+    "SW": [
+      "AL",
+      "BA",
+      "ME"
+    ]
+  }
 }

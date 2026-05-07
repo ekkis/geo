@@ -24,5 +24,14 @@
   "demonym": "Palestinian",
   "gdp": 17396300000,
   "gdp_year": 2023,
-  "phone_code": "970"
+  "phone_code": "970",
+  "neighbours": {
+    "SE": [
+      "JO"
+    ],
+    "SW": [
+      "EG",
+      "IL"
+    ]
+  }
 }

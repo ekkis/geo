@@ -30,5 +30,13 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "598"
+  "phone_code": "598",
+  "neighbours": {
+    "NE": [
+      "BR"
+    ],
+    "SW": [
+      "AR"
+    ]
+  }
 }

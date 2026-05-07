@@ -1,63 +1,47 @@
 {
-  "BATK": {
-    "name": "Batken",
-    "regions": [
-      "Batken"
-    ]
+  "Batken": {
+    "BATK": {
+      "name": "Batken"
+    }
   },
-  "BISH": {
-    "name": "Bishkek",
-    "regions": [
-      "Bishkek"
-    ]
+  "Bishkek": {
+    "BISH": {
+      "name": "Bishkek"
+    }
   },
-  "CHUY": {
-    "name": "Chuy",
-    "regions": [
-      "Chuy"
-    ]
+  "Chuy": {
+    "CHUY": {
+      "name": "Chuy"
+    }
   },
-  "ISSYK": {
-    "name": "Issyk-Kul",
-    "regions": [
-      "Issyk-Kul"
-    ]
+  "Issyk-Kul": {
+    "ISSYK": {
+      "name": "Issyk-Kul"
+    }
   },
-  "JALA": {
-    "name": "Jalal-Abad",
-    "regions": [
-      "Jalal-Abad"
-    ]
+  "Jalal-Abad": {
+    "JALA": {
+      "name": "Jalal-Abad"
+    }
   },
-  "NARY": {
-    "name": "Naryn",
-    "regions": [
-      "Naryn"
-    ]
+  "Naryn": {
+    "NARY": {
+      "name": "Naryn"
+    }
   },
-  "OSH": {
-    "name": "Osh",
-    "regions": [
-      "Osh"
-    ]
+  "Osh": {
+    "OSH": {
+      "name": "Osh"
+    }
   },
-  "OSHREG": {
-    "name": "Osh Region",
-    "regions": [
-      "Osh Region"
-    ]
+  "Osh Region": {
+    "OSHREG": {
+      "name": "Osh Region"
+    }
   },
-  "TALAS": {
-    "name": "Talas",
-    "regions": [
-      "Talas"
-    ]
-  },
-  "capital": "Bishkek",
-  "currency_code": "KGS",
-  "iso3": "KGZ",
-  "language_code": [
-    "kgz"
-  ],
-  "continent_code": "AS"
+  "Talas": {
+    "TALAS": {
+      "name": "Talas"
+    }
+  }
 }

@@ -26,5 +26,19 @@
     "AU",
     "UN"
   ],
-  "phone_code": "235"
+  "phone_code": "235",
+  "neighbours": {
+    "NW": [
+      "LY",
+      "NE"
+    ],
+    "SE": [
+      "CF",
+      "SD"
+    ],
+    "SW": [
+      "CM",
+      "NG"
+    ]
+  }
 }

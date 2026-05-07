@@ -36,5 +36,14 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "47"
+  "phone_code": "47",
+  "neighbours": {
+    "NE": [
+      "FI"
+    ],
+    "SE": [
+      "RU",
+      "SE"
+    ]
+  }
 }

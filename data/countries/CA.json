@@ -42,5 +42,10 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "1"
+  "phone_code": "1",
+  "neighbours": {
+    "S": [
+      "US"
+    ]
+  }
 }

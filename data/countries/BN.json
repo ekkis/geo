@@ -32,5 +32,10 @@
     "ASEAN",
     "WTO"
   ],
-  "phone_code": "673"
+  "phone_code": "673",
+  "neighbours": {
+    "SW": [
+      "MY"
+    ]
+  }
 }

@@ -1,33 +1,22 @@
 {
-  "BELAIT": {
-    "name": "Belait",
-    "regions": [
-      "Belait"
-    ]
+  "Belait": {
+    "BELAIT": {
+      "name": "Belait"
+    }
   },
-  "BRUNEM": {
-    "name": "Brunei-Muara",
-    "regions": [
-      "Brunei-Muara"
-    ]
+  "Brunei-Muara": {
+    "BRUNEM": {
+      "name": "Brunei-Muara"
+    }
   },
-  "TEMBUR": {
-    "name": "Temburong",
-    "regions": [
-      "Temburong"
-    ]
+  "Temburong": {
+    "TEMBUR": {
+      "name": "Temburong"
+    }
   },
-  "TUTONG": {
-    "name": "Tutong",
-    "regions": [
-      "Tutong"
-    ]
-  },
-  "capital": "Bandar Seri Begawan",
-  "currency_code": "BND",
-  "iso3": "BRN",
-  "language_code": [
-    "brn"
-  ],
-  "continent_code": "AS"
+  "Tutong": {
+    "TUTONG": {
+      "name": "Tutong"
+    }
+  }
 }

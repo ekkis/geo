@@ -30,5 +30,22 @@
     "AU",
     "UN"
   ],
-  "phone_code": "213"
+  "phone_code": "213",
+  "neighbours": {
+    "NE": [
+      "TN"
+    ],
+    "NW": [
+      "MA"
+    ],
+    "SE": [
+      "LY",
+      "NE"
+    ],
+    "SW": [
+      "ML",
+      "MR",
+      "EH"
+    ]
+  }
 }

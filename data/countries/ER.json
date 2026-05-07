@@ -25,5 +25,14 @@
     "AU",
     "UN"
   ],
-  "phone_code": "291"
+  "phone_code": "291",
+  "neighbours": {
+    "SE": [
+      "DJ"
+    ],
+    "SW": [
+      "ET",
+      "SD"
+    ]
+  }
 }

@@ -26,5 +26,14 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "597"
+  "phone_code": "597",
+  "neighbours": {
+    "NW": [
+      "GY"
+    ],
+    "SE": [
+      "BR",
+      "GF"
+    ]
+  }
 }

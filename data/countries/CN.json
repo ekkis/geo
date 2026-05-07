@@ -34,5 +34,31 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "86"
+  "phone_code": "86",
+  "neighbours": {
+    "NE": [
+      "KP"
+    ],
+    "NW": [
+      "KZ",
+      "KG",
+      "MN",
+      "RU",
+      "TJ"
+    ],
+    "SE": [
+      "HK",
+      "MO",
+      "VN"
+    ],
+    "SW": [
+      "AF",
+      "BT",
+      "IN",
+      "LA",
+      "MM",
+      "NP",
+      "PK"
+    ]
+  }
 }

@@ -88,12 +88,5 @@
   },
   "ZAC": {
     "name": "Zacatecas"
-  },
-  "capital": "Mexico City",
-  "currency_code": "MXN",
-  "iso3": "MEX",
-  "language_code": [
-    "mex"
-  ],
-  "continent_code": "NA"
+  }
 }

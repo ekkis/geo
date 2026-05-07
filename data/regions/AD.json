@@ -1,51 +1,37 @@
 {
-  "ANDORRA": {
-    "name": "Andorra la Vella",
-    "regions": [
-      "Andorra la Vella"
-    ]
+  "Andorra la Vella": {
+    "ANDORRA": {
+      "name": "Andorra la Vella"
+    }
   },
-  "CANILLO": {
-    "name": "Canillo",
-    "regions": [
-      "Canillo"
-    ]
+  "Canillo": {
+    "CANILLO": {
+      "name": "Canillo"
+    }
   },
-  "ENCAMP": {
-    "name": "Encamp",
-    "regions": [
-      "Encamp"
-    ]
+  "Encamp": {
+    "ENCAMP": {
+      "name": "Encamp"
+    }
   },
-  "ESCALD": {
-    "name": "Escaldes-Engordany",
-    "regions": [
-      "Escaldes-Engordany"
-    ]
+  "Escaldes-Engordany": {
+    "ESCALD": {
+      "name": "Escaldes-Engordany"
+    }
   },
-  "MASSANA": {
-    "name": "La Massana",
-    "regions": [
-      "La Massana"
-    ]
+  "La Massana": {
+    "MASSANA": {
+      "name": "La Massana"
+    }
   },
-  "ORDINO": {
-    "name": "Ordino",
-    "regions": [
-      "Ordino"
-    ]
+  "Ordino": {
+    "ORDINO": {
+      "name": "Ordino"
+    }
   },
-  "SANTJULIA": {
-    "name": "Sant Julià de Lòria",
-    "regions": [
-      "Sant Julià de Lòria"
-    ]
-  },
-  "capital": "Andorra la Vella",
-  "currency_code": "EUR",
-  "iso3": "AND",
-  "language_code": [
-    "and"
-  ],
-  "continent_code": "EU"
+  "Sant Julià de Lòria": {
+    "SANTJULIA": {
+      "name": "Sant Julià de Lòria"
+    }
+  }
 }

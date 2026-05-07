@@ -26,5 +26,10 @@
     "AU",
     "UN"
   ],
-  "phone_code": "220"
+  "phone_code": "220",
+  "neighbours": {
+    "NE": [
+      "SN"
+    ]
+  }
 }

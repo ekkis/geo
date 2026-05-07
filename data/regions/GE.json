@@ -1,81 +1,62 @@
 {
-  "ABKHAZ": {
-    "name": "Abkhazia",
-    "regions": [
-      "Abkhazia"
-    ]
+  "Abkhazia": {
+    "ABKHAZ": {
+      "name": "Abkhazia"
+    }
   },
-  "ADJARA": {
-    "name": "Adjara",
-    "regions": [
-      "Adjara"
-    ]
+  "Adjara": {
+    "ADJARA": {
+      "name": "Adjara"
+    }
   },
-  "GURIA": {
-    "name": "Guria",
-    "regions": [
-      "Guria"
-    ]
+  "Guria": {
+    "GURIA": {
+      "name": "Guria"
+    }
   },
-  "IMERE": {
-    "name": "Imereti",
-    "regions": [
-      "Imereti"
-    ]
+  "Imereti": {
+    "IMERE": {
+      "name": "Imereti"
+    }
   },
-  "KAKHET": {
-    "name": "Kakheti",
-    "regions": [
-      "Kakheti"
-    ]
+  "Kakheti": {
+    "KAKHET": {
+      "name": "Kakheti"
+    }
   },
-  "KVEVKAR": {
-    "name": "Kvemo Kartli",
-    "regions": [
-      "Kvemo Kartli"
-    ]
+  "Kvemo Kartli": {
+    "KVEVKAR": {
+      "name": "Kvemo Kartli"
+    }
   },
-  "MTSKEH": {
-    "name": "Mtskheta-Mtianeti",
-    "regions": [
-      "Mtskheta-Mtianeti"
-    ]
+  "Mtskheta-Mtianeti": {
+    "MTSKEH": {
+      "name": "Mtskheta-Mtianeti"
+    }
   },
-  "RACHAL": {
-    "name": "Racha-Lechkhumi and Kvemo Svaneti",
-    "regions": [
-      "Racha-Lechkhumi and Kvemo Svaneti"
-    ]
+  "Racha-Lechkhumi and Kvemo Svaneti": {
+    "RACHAL": {
+      "name": "Racha-Lechkhumi and Kvemo Svaneti"
+    }
   },
-  "SAMEGRE": {
-    "name": "Samegrelo-Zemo Svaneti",
-    "regions": [
-      "Samegrelo-Zemo Svaneti"
-    ]
+  "Samegrelo-Zemo Svaneti": {
+    "SAMEGRE": {
+      "name": "Samegrelo-Zemo Svaneti"
+    }
   },
-  "SAMTSKH": {
-    "name": "Samtskhe-Javakheti",
-    "regions": [
-      "Samtskhe-Javakheti"
-    ]
+  "Samtskhe-Javakheti": {
+    "SAMTSKH": {
+      "name": "Samtskhe-Javakheti"
+    }
   },
-  "SHIDKAR": {
-    "name": "Shida Kartli",
-    "regions": [
-      "Shida Kartli"
-    ]
+  "Shida Kartli": {
+    "SHIDKAR": {
+      "name": "Shida Kartli"
+    }
   },
-  "TBILISI": {
-    "name": "Tbilisi",
-    "regions": [
-      "Tbilisi"
-    ]
-  },
-  "capital": "Tbilisi",
-  "currency_code": "GEL",
-  "iso3": "GEO",
-  "language_code": [
-    "geo"
-  ],
-  "continent_code": "AS"
+  "Tbilisi": {
+    "TBILISI": {
+      "name": "Tbilisi"
+    }
+  }
 }

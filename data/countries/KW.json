@@ -31,5 +31,13 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "965"
+  "phone_code": "965",
+  "neighbours": {
+    "NW": [
+      "IQ"
+    ],
+    "SW": [
+      "SA"
+    ]
+  }
 }

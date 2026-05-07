@@ -79,12 +79,5 @@
   },
   "WS": {
     "name": "West Sumatra"
-  },
-  "capital": "Jakarta",
-  "currency_code": "IDR",
-  "iso3": "IDN",
-  "language_code": [
-    "idn"
-  ],
-  "continent_code": "AS"
+  }
 }

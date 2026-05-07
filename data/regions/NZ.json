@@ -40,12 +40,5 @@
   },
   "WTC": {
     "name": "West Coast"
-  },
-  "capital": "Wellington",
-  "currency_code": "NZD",
-  "iso3": "NZL",
-  "language_code": [
-    "nzl"
-  ],
-  "continent_code": "OC"
+  }
 }

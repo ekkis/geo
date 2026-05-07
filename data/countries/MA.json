@@ -31,5 +31,16 @@
     "AU",
     "UN"
   ],
-  "phone_code": "212"
+  "phone_code": "212",
+  "neighbours": {
+    "NE": [
+      "ES"
+    ],
+    "SE": [
+      "DZ"
+    ],
+    "SW": [
+      "EH"
+    ]
+  }
 }

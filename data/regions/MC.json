@@ -1,33 +1,22 @@
 {
-  "FON": {
-    "name": "Fontvieille",
-    "regions": [
-      "Fontvieille"
-    ]
+  "Fontvieille": {
+    "FON": {
+      "name": "Fontvieille"
+    }
   },
-  "LACON": {
-    "name": "La Condamine",
-    "regions": [
-      "La Condamine"
-    ]
+  "La Condamine": {
+    "LACON": {
+      "name": "La Condamine"
+    }
   },
-  "MON": {
-    "name": "Monaco-Ville",
-    "regions": [
-      "Monaco-Ville"
-    ]
+  "Monaco-Ville": {
+    "MON": {
+      "name": "Monaco-Ville"
+    }
   },
-  "MONCA": {
-    "name": "Monte Carlo",
-    "regions": [
-      "Monte Carlo"
-    ]
-  },
-  "capital": "Monaco",
-  "currency_code": "EUR",
-  "iso3": "MCO",
-  "language_code": [
-    "mco"
-  ],
-  "continent_code": "EU"
+  "Monte Carlo": {
+    "MONCA": {
+      "name": "Monte Carlo"
+    }
+  }
 }

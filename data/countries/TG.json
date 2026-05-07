@@ -26,5 +26,16 @@
     "AU",
     "UN"
   ],
-  "phone_code": "228"
+  "phone_code": "228",
+  "neighbours": {
+    "NE": [
+      "BJ"
+    ],
+    "NW": [
+      "BF"
+    ],
+    "SW": [
+      "GH"
+    ]
+  }
 }

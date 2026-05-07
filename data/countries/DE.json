@@ -38,5 +38,24 @@
     "EU",
     "UN"
   ],
-  "phone_code": "49"
+  "phone_code": "49",
+  "neighbours": {
+    "NE": [
+      "DK",
+      "PL"
+    ],
+    "NW": [
+      "NL"
+    ],
+    "SE": [
+      "AT",
+      "CZ"
+    ],
+    "SW": [
+      "BE",
+      "FR",
+      "LU",
+      "CH"
+    ]
+  }
 }

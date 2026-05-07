@@ -22,5 +22,10 @@
   "flag": "🇬🇮",
   "region_common": "Europe",
   "demonym": "Gibraltar",
-  "phone_code": "350"
+  "phone_code": "350",
+  "neighbours": {
+    "NE": [
+      "ES"
+    ]
+  }
 }

@@ -27,5 +27,17 @@
     "AU",
     "UN"
   ],
-  "phone_code": "229"
+  "phone_code": "229",
+  "neighbours": {
+    "NE": [
+      "NE",
+      "NG"
+    ],
+    "NW": [
+      "BF"
+    ],
+    "SW": [
+      "TG"
+    ]
+  }
 }

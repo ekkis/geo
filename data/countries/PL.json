@@ -36,5 +36,20 @@
     "EU",
     "UN"
   ],
-  "phone_code": "48"
+  "phone_code": "48",
+  "neighbours": {
+    "NE": [
+      "BY",
+      "LT",
+      "RU"
+    ],
+    "SE": [
+      "UA"
+    ],
+    "SW": [
+      "CZ",
+      "DE",
+      "SK"
+    ]
+  }
 }

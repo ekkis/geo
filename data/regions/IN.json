@@ -100,12 +100,5 @@
   },
   "WB": {
     "name": "West Bengal"
-  },
-  "capital": "New Delhi",
-  "currency_code": "INR",
-  "iso3": "IND",
-  "language_code": [
-    "in"
-  ],
-  "continent_code": "AS"
+  }
 }
