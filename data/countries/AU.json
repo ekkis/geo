@@ -1,0 +1,43 @@
+{
+  "name": {
+    "common": "Australia",
+    "official": "Commonwealth of Australia"
+  },
+  "capital": "Canberra",
+  "currency_code": "AUD",
+  "iso3": "AUS",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "OC",
+  "tld": ".au",
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:30",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:30",
+    "UTC+10:00",
+    "UTC+10:30",
+    "UTC+11:30"
+  ],
+  "area": 7692024,
+  "population": 27536874,
+  "flag": "🇦🇺",
+  "region_common": "Oceania",
+  "demonym": "Australian",
+  "gdp": 1723827215334.7063,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "G20",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "61"
+}

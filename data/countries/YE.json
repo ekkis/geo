@@ -1,0 +1,31 @@
+{
+  "name": {
+    "common": "Yemen",
+    "official": "Republic of Yemen"
+  },
+  "regions": [],
+  "capital": "Sanaa",
+  "currency_code": "YER",
+  "iso3": "YEM",
+  "language_code": [
+    "ar",
+    "yd"
+  ],
+  "continent_code": "AS",
+  "tld": ".ye",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 527968,
+  "population": 32684503,
+  "flag": "🇾🇪",
+  "region_common": "Asia",
+  "demonym": "Yemeni",
+  "gdp": 21606160663.03177,
+  "gdp_year": 2018,
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "967"
+}

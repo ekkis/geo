@@ -1,0 +1,35 @@
+{
+  "name": {
+    "common": "San Marino",
+    "official": "Republic of San Marino"
+  },
+  "regions": [
+    "SE"
+  ],
+  "capital": "San Marino",
+  "currency_code": "EUR",
+  "iso3": "SMR",
+  "language_code": [
+    "it"
+  ],
+  "continent_code": "EU",
+  "tld": ".sm",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 61,
+  "population": 34132,
+  "flag": "🇸🇲",
+  "region_common": "Europe",
+  "demonym": "Sammarinese",
+  "gdp": 1855382833.1164992,
+  "gdp_year": 2021,
+  "postal_code": {
+    "format": "4789#",
+    "regex": "^(4789\\d)$"
+  },
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "378"
+}

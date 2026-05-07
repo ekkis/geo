@@ -1,0 +1,40 @@
+{
+  "name": {
+    "common": "Slovakia",
+    "official": "Slovak Republic"
+  },
+  "regions": [
+    "CEU"
+  ],
+  "capital": "Bratislava",
+  "currency_code": "EUR",
+  "iso3": "SVK",
+  "language_code": [
+    "svk"
+  ],
+  "continent_code": "EU",
+  "tld": ".sk",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 49037,
+  "population": 5413813,
+  "flag": "🇸🇰",
+  "region_common": "Europe",
+  "demonym": "Slovak",
+  "gdp": 132793622283.07097,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "###  ##",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "421"
+}

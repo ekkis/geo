@@ -1,0 +1,28 @@
+{
+  "name": {
+    "common": "Cayman Islands",
+    "official": "Cayman Islands"
+  },
+  "regions": [
+    "CAR"
+  ],
+  "capital": "George Town",
+  "currency_code": "KYD",
+  "iso3": "CYM",
+  "language_code": [
+    "cy"
+  ],
+  "continent_code": "NA",
+  "tld": ".ky",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "area": 264,
+  "population": 84738,
+  "flag": "🇰🇾",
+  "region_common": "Americas",
+  "demonym": "Caymanian",
+  "gdp": 6600844001.537206,
+  "gdp_year": 2022,
+  "phone_code": "+1-345"
+}

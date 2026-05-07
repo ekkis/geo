@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "Guam",
+    "official": "Guam"
+  },
+  "capital": "Hagatna",
+  "currency_code": "USD",
+  "iso3": "GUM",
+  "language_code": [
+    "gum"
+  ],
+  "continent_code": "OC",
+  "tld": ".gu",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "area": 549,
+  "population": 153836,
+  "flag": "🇬🇺",
+  "region_common": "Oceania",
+  "demonym": "Guamanian",
+  "gdp": 6910000000,
+  "gdp_year": 2022,
+  "postal_code": {
+    "format": "969##",
+    "regex": "^(969\\d{2})$"
+  },
+  "phone_code": "+1-671"
+}

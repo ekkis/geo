@@ -1,0 +1,32 @@
+{
+  "name": {
+    "common": "Faroe Islands",
+    "official": "Faroe Islands"
+  },
+  "regions": [
+    "NOR"
+  ],
+  "capital": "Torshavn",
+  "currency_code": "DKK",
+  "iso3": "FRO",
+  "language_code": [
+    "fro"
+  ],
+  "continent_code": "EU",
+  "tld": ".fo",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "area": 1393,
+  "population": 54885,
+  "flag": "🇫🇴",
+  "region_common": "Europe",
+  "demonym": "Faroese",
+  "gdp": 3555929833.050505,
+  "gdp_year": 2022,
+  "postal_code": {
+    "format": "FO-###",
+    "regex": "^(?:FO)*(\\d{3})$"
+  },
+  "phone_code": "298"
+}

@@ -1,0 +1,37 @@
+{
+  "name": {
+    "common": "Honduras",
+    "official": "Republic of Honduras"
+  },
+  "regions": [
+    "LATAM"
+  ],
+  "capital": "Tegucigalpa",
+  "currency_code": "HNL",
+  "iso3": "HND",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".hn",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "area": 112492,
+  "population": 9892632,
+  "flag": "🇭🇳",
+  "region_common": "Americas",
+  "demonym": "Honduran",
+  "gdp": 34400509852.04365,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "@@####",
+    "regex": "^([A-Z]{2}\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "504"
+}

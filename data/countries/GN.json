@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Guinea",
+    "official": "Republic of Guinea"
+  },
+  "capital": "Conakry",
+  "currency_code": "GNF",
+  "iso3": "GIN",
+  "language_code": [
+    "fr"
+  ],
+  "continent_code": "AF",
+  "tld": ".gn",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 245857,
+  "population": 14363931,
+  "flag": "🇬🇳",
+  "region_common": "Africa",
+  "demonym": "Guinean",
+  "gdp": 23612295818.096096,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "224"
+}

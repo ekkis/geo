@@ -1,0 +1,28 @@
+{
+  "name": {
+    "common": "Guernsey",
+    "official": "Bailiwick of Guernsey"
+  },
+  "regions": [],
+  "capital": "St Peter Port",
+  "currency_code": "GBP",
+  "iso3": "GGY",
+  "language_code": [
+    "ggy"
+  ],
+  "continent_code": "EU",
+  "tld": ".gg",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "area": 78,
+  "population": 64781,
+  "flag": "🇬🇬",
+  "region_common": "Europe",
+  "demonym": "Channel Islander",
+  "postal_code": {
+    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+    "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+  },
+  "phone_code": "+44-1481"
+}

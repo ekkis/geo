@@ -1,0 +1,29 @@
+{
+  "name": {
+    "common": "United States Minor Outlying Islands",
+    "official": "United States Minor Outlying Islands"
+  },
+  "capital": "",
+  "currency_code": "USD",
+  "iso3": "UMI",
+  "language_code": [
+    "jt",
+    "mi",
+    "pu",
+    "umi",
+    "wk"
+  ],
+  "continent_code": "OC",
+  "tld": ".us",
+  "timezones": [
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC+12:00"
+  ],
+  "area": 34.2,
+  "population": 0,
+  "flag": "🇺🇲",
+  "region_common": "Americas",
+  "demonym": "American Islander",
+  "phone_code": "1"
+}

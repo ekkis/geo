@@ -1,0 +1,31 @@
+{
+  "name": {
+    "common": "Micronesia",
+    "official": "Federated States of Micronesia"
+  },
+  "capital": "Palikir",
+  "currency_code": "USD",
+  "iso3": "FSM",
+  "language_code": [
+    "en",
+    "pc"
+  ],
+  "continent_code": "OC",
+  "tld": ".fm",
+  "timezones": [
+    "UTC+10:00",
+    "UTC+11:00"
+  ],
+  "area": 702,
+  "population": 105564,
+  "flag": "🇫🇲",
+  "region_common": "Oceania",
+  "demonym": "Micronesian",
+  "gdp": 460000000,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "phone_code": "691"
+}

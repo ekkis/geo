@@ -1,0 +1,33 @@
+{
+  "name": {
+    "common": "Albania",
+    "official": "Republic of Albania"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Tirana",
+  "currency_code": "ALL",
+  "iso3": "ALB",
+  "language_code": [
+    "alb"
+  ],
+  "continent_code": "EU",
+  "tld": ".al",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 28748,
+  "population": 2363314,
+  "flag": "🇦🇱",
+  "region_common": "Europe",
+  "demonym": "Albanian",
+  "gdp": 22977677860.797855,
+  "gdp_year": 2023,
+  "organisations": [
+    "NATO",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "355"
+}

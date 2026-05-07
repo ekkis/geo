@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Guyana",
+    "official": "Co-operative Republic of Guyana"
+  },
+  "capital": "Georgetown",
+  "currency_code": "GYD",
+  "iso3": "GUY",
+  "language_code": [
+    "guy"
+  ],
+  "continent_code": "SA",
+  "tld": ".gy",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 214969,
+  "population": 772975,
+  "flag": "🇬🇾",
+  "region_common": "Americas",
+  "demonym": "Guyanese",
+  "gdp": 16786302158.273382,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "592"
+}

@@ -1,0 +1,24 @@
+{
+  "name": {
+    "common": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands"
+  },
+  "regions": [],
+  "capital": "",
+  "currency_code": "AUD",
+  "iso3": "HMD",
+  "language_code": [
+    "hmd"
+  ],
+  "continent_code": "AN",
+  "tld": ".hm",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "area": 412,
+  "population": 0,
+  "flag": "🇭🇲",
+  "region_common": "Antarctic",
+  "demonym": "Heard and McDonald Islander",
+  "phone_code": " "
+}

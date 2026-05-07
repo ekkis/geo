@@ -1,0 +1,38 @@
+{
+  "name": {
+    "common": "Kazakhstan",
+    "official": "Republic of Kazakhstan"
+  },
+  "regions": [
+    "CAS",
+    "EURS"
+  ],
+  "capital": "Astana",
+  "currency_code": "KZT",
+  "iso3": "KAZ",
+  "language_code": [
+    "kk"
+  ],
+  "continent_code": "AS",
+  "tld": ".kz",
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:00"
+  ],
+  "area": 2724900,
+  "population": 20426568,
+  "flag": "🇰🇿",
+  "region_common": "Asia",
+  "demonym": "Kazakhstani",
+  "gdp": 261421121085.57208,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "7"
+}

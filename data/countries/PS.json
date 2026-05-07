@@ -1,0 +1,28 @@
+{
+  "name": {
+    "common": "Palestine",
+    "official": "State of Palestine"
+  },
+  "regions": [
+    "LEV"
+  ],
+  "capital": "East Jerusalem",
+  "currency_code": "ILS",
+  "iso3": "PSE",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AS",
+  "tld": ".ps",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 6220,
+  "population": 5483450,
+  "flag": "🇵🇸",
+  "region_common": "Asia",
+  "demonym": "Palestinian",
+  "gdp": 17396300000,
+  "gdp_year": 2023,
+  "phone_code": "970"
+}

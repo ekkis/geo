@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Nigeria",
+    "official": "Federal Republic of Nigeria"
+  },
+  "capital": "Abuja",
+  "currency_code": "NGN",
+  "iso3": "NGA",
+  "language_code": [
+    "ha"
+  ],
+  "continent_code": "AF",
+  "tld": ".ng",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 923768,
+  "population": 223800000,
+  "flag": "🇳🇬",
+  "region_common": "Africa",
+  "demonym": "Nigerian",
+  "gdp": 362814951696.07275,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "234"
+}

@@ -1,0 +1,24 @@
+{
+  "name": {
+    "common": "French Southern and Antarctic Lands",
+    "official": "Territory of the French Southern and Antarctic Lands"
+  },
+  "regions": [],
+  "capital": "Port-aux-Francais",
+  "currency_code": "EUR",
+  "iso3": "ATF",
+  "language_code": [
+    "atf"
+  ],
+  "continent_code": "AN",
+  "tld": ".tf",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "area": 7747,
+  "population": 400,
+  "flag": "🇹🇫",
+  "region_common": "Antarctic",
+  "demonym": "French",
+  "phone_code": null
+}

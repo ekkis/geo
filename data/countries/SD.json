@@ -1,0 +1,33 @@
+{
+  "name": {
+    "common": "Sudan",
+    "official": "Republic of the Sudan"
+  },
+  "capital": "Khartoum",
+  "currency_code": "SDG",
+  "iso3": "SDN",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AF",
+  "tld": ".sd",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 1886068,
+  "population": 51662000,
+  "flag": "🇸🇩",
+  "region_common": "Africa",
+  "demonym": "Sudanese",
+  "gdp": 109327023588.73239,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "AU",
+    "UN"
+  ],
+  "phone_code": "249"
+}

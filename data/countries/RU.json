@@ -1,0 +1,47 @@
+{
+  "name": {
+    "common": "Russia",
+    "official": "Russian Federation"
+  },
+  "regions": [
+    "EE",
+    "EURS"
+  ],
+  "capital": "Moscow",
+  "currency_code": "RUB",
+  "iso3": "RUS",
+  "language_code": [
+    "ru",
+    "su"
+  ],
+  "continent_code": "EU",
+  "tld": ".ru",
+  "timezones": [
+    "UTC+03:00",
+    "UTC+04:00",
+    "UTC+06:00",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:00",
+    "UTC+10:00",
+    "UTC+11:00",
+    "UTC+12:00"
+  ],
+  "area": 17098246,
+  "population": 146028325,
+  "flag": "🇷🇺",
+  "region_common": "Europe",
+  "demonym": "Russian",
+  "gdp": 2021421476035.417,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "BIS",
+    "G20",
+    "WTO"
+  ],
+  "phone_code": "7"
+}
