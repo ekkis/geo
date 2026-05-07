@@ -36,6 +36,11 @@
     "UN"
   ],
   "phone_code": "55",
+  "divisions": [
+    "state",
+    "federal district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "GF"

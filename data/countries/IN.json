@@ -35,6 +35,13 @@
     "UN"
   ],
   "phone_code": "91",
+  "divisions": [
+    "state",
+    "union territory",
+    "district",
+    "tehsil",
+    "village"
+  ],
   "neighbours": {
     "NE": [
       "BD",

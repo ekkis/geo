@@ -45,6 +45,13 @@
     "WTO"
   ],
   "phone_code": "44",
+  "divisions": [
+    "country",
+    "region",
+    "county",
+    "district",
+    "parish"
+  ],
   "neighbours": {
     "SW": [
       "IE"
