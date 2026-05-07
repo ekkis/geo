@@ -1,1 +1,26 @@
-{}
+{
+  "AG": {
+    "name": "Agadez"
+  },
+  "DF": {
+    "name": "Diffa"
+  },
+  "DS": {
+    "name": "Dosso"
+  },
+  "MA": {
+    "name": "Maradi"
+  },
+  "NI": {
+    "name": "Niamey"
+  },
+  "TH": {
+    "name": "Tahoua"
+  },
+  "TL": {
+    "name": "Tillabéri"
+  },
+  "ZD": {
+    "name": "Zinder"
+  }
+}

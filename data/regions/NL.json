@@ -53,5 +53,23 @@
     "ZUI": {
       "name": "Zuid-Holland"
     }
+  },
+  "ARU": {
+    "name": "Aruba"
+  },
+  "BON": {
+    "name": "Bonaire"
+  },
+  "CUR": {
+    "name": "Curaçao"
+  },
+  "SAB": {
+    "name": "Saba"
+  },
+  "SE": {
+    "name": "Sint Eustatius"
+  },
+  "SM": {
+    "name": "Sint Maarten"
   }
 }

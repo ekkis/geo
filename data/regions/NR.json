@@ -1,1 +1,29 @@
-{}
+{
+  "AN": {
+    "name": "Anabar"
+  },
+  "BA": {
+    "name": "Baiti"
+  },
+  "BO": {
+    "name": "Boe"
+  },
+  "CI": {
+    "name": "Buada"
+  },
+  "DE": {
+    "name": "Denigomodu"
+  },
+  "MA": {
+    "name": "Meneng"
+  },
+  "NB": {
+    "name": "Nibok"
+  },
+  "UA": {
+    "name": "Uaboe"
+  },
+  "YAR": {
+    "name": "Yaren"
+  }
+}
