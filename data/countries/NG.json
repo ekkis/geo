@@ -32,17 +32,17 @@
   ],
   "phone_code": "234",
   "neighbours": {
-    "SW": [
-      "BJ"
+    "NE": [
+      "TD"
     ],
     "SE": [
       "CM"
     ],
+    "SW": [
+      "BJ"
+    ],
     "N": [
       "NE"
-    ],
-    "NE": [
-      "TD"
     ]
   }
 }

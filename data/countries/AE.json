@@ -29,11 +29,11 @@
   ],
   "phone_code": "971",
   "neighbours": {
-    "SE": [
-      "OM"
-    ],
     "NW": [
       "SA"
+    ],
+    "SE": [
+      "OM"
     ]
   }
 }

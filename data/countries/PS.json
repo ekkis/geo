@@ -26,12 +26,12 @@
   "gdp_year": 2023,
   "phone_code": "970",
   "neighbours": {
+    "SE": [
+      "JO"
+    ],
     "SW": [
       "IL",
       "EG"
-    ],
-    "SE": [
-      "JO"
     ]
   }
 }

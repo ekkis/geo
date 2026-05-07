@@ -39,11 +39,11 @@
   ],
   "phone_code": "31",
   "neighbours": {
-    "SW": [
-      "BE"
-    ],
     "SE": [
       "DE"
+    ],
+    "SW": [
+      "BE"
     ]
   }
 }

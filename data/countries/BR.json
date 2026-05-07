@@ -37,12 +37,6 @@
   ],
   "phone_code": "55",
   "neighbours": {
-    "SW": [
-      "AR",
-      "BO",
-      "PY",
-      "UY"
-    ],
     "NE": [
       "GF"
     ],
@@ -51,6 +45,12 @@
       "CO",
       "VE",
       "GY"
+    ],
+    "SW": [
+      "AR",
+      "BO",
+      "PY",
+      "UY"
     ],
     "W": [
       "PE"

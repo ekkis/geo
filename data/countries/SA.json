@@ -35,13 +35,13 @@
   ],
   "phone_code": "966",
   "neighbours": {
-    "NW": [
-      "IQ",
-      "JO"
-    ],
     "NE": [
       "KW",
       "QA"
+    ],
+    "NW": [
+      "IQ",
+      "JO"
     ],
     "SE": [
       "OM",

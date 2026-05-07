@@ -34,11 +34,11 @@
   ],
   "phone_code": "961",
   "neighbours": {
-    "SW": [
-      "IL"
-    ],
     "NE": [
       "SY"
+    ],
+    "SW": [
+      "IL"
     ]
   }
 }

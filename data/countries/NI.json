@@ -36,11 +36,11 @@
   ],
   "phone_code": "505",
   "neighbours": {
-    "SE": [
-      "CR"
-    ],
     "NW": [
       "HN"
+    ],
+    "SE": [
+      "CR"
     ]
   }
 }

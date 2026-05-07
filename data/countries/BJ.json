@@ -29,15 +29,15 @@
   ],
   "phone_code": "229",
   "neighbours": {
-    "SW": [
-      "TG"
-    ],
     "NE": [
       "NG",
       "NE"
     ],
     "NW": [
       "BF"
+    ],
+    "SW": [
+      "TG"
     ]
   }
 }

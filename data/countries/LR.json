@@ -32,12 +32,12 @@
   ],
   "phone_code": "231",
   "neighbours": {
+    "NE": [
+      "CI"
+    ],
     "NW": [
       "GN",
       "SL"
-    ],
-    "NE": [
-      "CI"
     ]
   }
 }

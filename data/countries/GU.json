@@ -25,6 +25,5 @@
     "format": "969##",
     "regex": "^(969\\d{2})$"
   },
-  "phone_code": "+1-671",
-  "neighbours": {}
+  "phone_code": "+1-671"
 }

@@ -35,11 +35,11 @@
   ],
   "phone_code": "976",
   "neighbours": {
-    "S": [
-      "CN"
-    ],
     "NW": [
       "RU"
+    ],
+    "S": [
+      "CN"
     ]
   }
 }

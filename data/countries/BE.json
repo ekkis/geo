@@ -38,15 +38,15 @@
   ],
   "phone_code": "32",
   "neighbours": {
-    "SW": [
-      "FR"
+    "NE": [
+      "NL",
+      "DE"
     ],
     "SE": [
       "LU"
     ],
-    "NE": [
-      "NL",
-      "DE"
+    "SW": [
+      "FR"
     ]
   }
 }

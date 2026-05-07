@@ -38,23 +38,23 @@
   ],
   "phone_code": "381",
   "neighbours": {
-    "W": [
-      "BA"
+    "NE": [
+      "RO"
+    ],
+    "NW": [
+      "HR",
+      "HU"
     ],
     "SE": [
       "BG",
       "XK",
       "MK"
     ],
-    "NW": [
-      "HR",
-      "HU"
-    ],
     "SW": [
       "ME"
     ],
-    "NE": [
-      "RO"
+    "W": [
+      "BA"
     ]
   }
 }

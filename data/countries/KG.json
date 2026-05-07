@@ -34,11 +34,11 @@
   ],
   "phone_code": "996",
   "neighbours": {
-    "SE": [
-      "CN"
-    ],
     "NW": [
       "KZ"
+    ],
+    "SE": [
+      "CN"
     ],
     "SW": [
       "TJ"

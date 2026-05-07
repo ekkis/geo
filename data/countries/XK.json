@@ -14,17 +14,5 @@
   ],
   "continent_code": "EU",
   "demonym": "Kosovar",
-  "phone_code": "",
-  "neighbours": {
-    "SW": [
-      "AL",
-      "ME"
-    ],
-    "SE": [
-      "MK"
-    ],
-    "NW": [
-      "RS"
-    ]
-  }
+  "phone_code": ""
 }

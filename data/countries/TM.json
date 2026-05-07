@@ -33,15 +33,15 @@
   ],
   "phone_code": "993",
   "neighbours": {
+    "NE": [
+      "KZ",
+      "UZ"
+    ],
     "SE": [
       "AF"
     ],
     "SW": [
       "IR"
-    ],
-    "NE": [
-      "KZ",
-      "UZ"
     ]
   }
 }

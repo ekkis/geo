@@ -24,6 +24,5 @@
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "phone_code": "61",
-  "neighbours": {}
+  "phone_code": "61"
 }

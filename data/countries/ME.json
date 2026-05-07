@@ -35,16 +35,16 @@
   ],
   "phone_code": "382",
   "neighbours": {
-    "SE": [
-      "AL"
+    "NE": [
+      "XK",
+      "RS"
     ],
     "NW": [
       "BA",
       "HR"
     ],
-    "NE": [
-      "XK",
-      "RS"
+    "SE": [
+      "AL"
     ]
   }
 }

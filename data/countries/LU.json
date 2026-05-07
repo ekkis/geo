@@ -38,14 +38,14 @@
   ],
   "phone_code": "352",
   "neighbours": {
+    "NE": [
+      "DE"
+    ],
     "NW": [
       "BE"
     ],
     "SW": [
       "FR"
-    ],
-    "NE": [
-      "DE"
     ]
   }
 }

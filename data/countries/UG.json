@@ -28,18 +28,18 @@
   ],
   "phone_code": "256",
   "neighbours": {
+    "NW": [
+      "SS"
+    ],
+    "SE": [
+      "TZ"
+    ],
     "SW": [
       "CD",
       "RW"
     ],
     "E": [
       "KE"
-    ],
-    "NW": [
-      "SS"
-    ],
-    "SE": [
-      "TZ"
     ]
   }
 }

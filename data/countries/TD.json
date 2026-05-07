@@ -28,16 +28,16 @@
   ],
   "phone_code": "235",
   "neighbours": {
-    "SW": [
-      "CM",
-      "NG"
+    "NW": [
+      "LY",
+      "NE"
     ],
     "SE": [
       "CF"
     ],
-    "NW": [
-      "LY",
-      "NE"
+    "SW": [
+      "CM",
+      "NG"
     ],
     "E": [
       "SD"

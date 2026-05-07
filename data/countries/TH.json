@@ -37,15 +37,15 @@
   ],
   "phone_code": "66",
   "neighbours": {
+    "NE": [
+      "LA"
+    ],
     "NW": [
       "MM"
     ],
     "SE": [
       "KH",
       "MY"
-    ],
-    "NE": [
-      "LA"
     ]
   }
 }

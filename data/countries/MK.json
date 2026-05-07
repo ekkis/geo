@@ -36,18 +36,18 @@
   ],
   "phone_code": "389",
   "neighbours": {
-    "SW": [
-      "AL"
-    ],
     "NE": [
       "BG"
-    ],
-    "S": [
-      "GR"
     ],
     "NW": [
       "XK",
       "RS"
+    ],
+    "SW": [
+      "AL"
+    ],
+    "S": [
+      "GR"
     ]
   }
 }

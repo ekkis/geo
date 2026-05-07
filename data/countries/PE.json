@@ -33,18 +33,18 @@
   ],
   "phone_code": "51",
   "neighbours": {
+    "NE": [
+      "CO"
+    ],
+    "NW": [
+      "EC"
+    ],
     "SE": [
       "BO",
       "CL"
     ],
     "E": [
       "BR"
-    ],
-    "NE": [
-      "CO"
-    ],
-    "NW": [
-      "EC"
     ]
   }
 }

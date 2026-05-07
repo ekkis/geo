@@ -34,20 +34,20 @@
   ],
   "phone_code": "992",
   "neighbours": {
-    "SW": [
-      "AF"
+    "NE": [
+      "KG"
+    ],
+    "NW": [
+      "UZ"
     ],
     "SE": [
       "CN"
     ],
-    "NE": [
-      "KG"
+    "SW": [
+      "AF"
     ],
     "W": [
       "AF"
-    ],
-    "NW": [
-      "UZ"
     ]
   }
 }

@@ -30,25 +30,25 @@
   ],
   "phone_code": "93",
   "neighbours": {
-    "E": [
+    "NE": [
       "CN",
       "TJ"
-    ],
-    "W": [
-      "IR"
-    ],
-    "SE": [
-      "PK"
     ],
     "NW": [
       "TM",
       "UZ"
     ],
-    "NE": [
+    "SE": [
+      "PK"
+    ],
+    "SW": [
+      "IR"
+    ],
+    "E": [
       "CN",
       "TJ"
     ],
-    "SW": [
+    "W": [
       "IR"
     ]
   }
