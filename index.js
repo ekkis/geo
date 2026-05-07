@@ -1,6 +1,7 @@
+const fs = require('fs');
+const path = require('path');
 
-'use strict';
-
+// Load data from loader.js
 const data = require('./loader');
 
 // Base Entity class with list and find methods
@@ -26,13 +27,13 @@ class Entity {
         const results = [];
         for (const [key, entry] of Object.entries(this.data)) {
             let matches = true;
-    
+
             for (const [key2, value] of Object.entries(criteria)) {
                 if (!entry[key2]) {
                     matches = false;
                     break;
                 }
-    
+
                 if (Array.isArray(value)) {
                     if (!value.some(v => 
                         entry[key2].toString().toLowerCase().includes(v.toString().toLowerCase())
@@ -50,16 +51,19 @@ class Entity {
                     break;
                 }
             }
-    
+
             if (matches) results.push(entry);
         }
-    
+
         return results.length === 1 ? results[0] : results;
     }
     
     findByName(name) {
-        // First check cache
-        if (!(this.constructor.name in Entity.cache)) {
+        // Initialize cache if not exists
+        if (!Entity.cache) {
+            Entity.cache = {};
+        }
+        if (!Entity.cache[this.constructor.name]) {
             Entity.cache[this.constructor.name] = {};
         }
         if (Entity.cache[this.constructor.name][name]) {
@@ -76,22 +80,16 @@ class Entity {
             return this.data[key];
         }
         
-        // If not found, try partial match?
+        // If not found, return null
         return null;
     }
     
     findByCode(code) {
-        // For countries, codes are ISO alpha-2
-        // For regions, codes are subdivision codes
-        // For continents, codes are continent codes
-        // For languages, codes are language codes
         return this.data[code] || null;
     }
-    
-    // Additional helper methods can be added as needed
 }
 
-// Extend Entity for specific entity types
+// CountryEntity class with additional methods
 class CountryEntity extends Entity {
     neighbours(country, direction) {
         // country can be ISO code or country name
@@ -116,14 +114,19 @@ class CountryEntity extends Entity {
         
         return neighbors[normalizedDir].map(code => this.findByCode(code)).filter(Boolean);
     }
-    
-    // Additional country-specific methods can go here
 }
 
+// RegionEntity class - regions are structured with top-level region names containing subdivisions
 class RegionEntity extends Entity {
-    // Regions are structured with top-level region names containing subdivisions
-    // list() returns all regions as objects with their subdivisions
-    // find() can search by region name or by subdivision code
+    // list() returns array of region objects, each containing subdivisions
+    list() {
+        return Object.keys(this.data).map(regionName => {
+            return {
+                name: regionName,
+                subdivisions: this.data[regionName]
+            };
+        });
+    }
     
     findSubdivision(code) {
         for (const [regionName, subdivisions] of Object.entries(this.data)) {
@@ -135,24 +138,22 @@ class RegionEntity extends Entity {
     }
 }
 
+// ContinentEntity - simple mapping of code to name
 class ContinentEntity extends Entity {
-    // Continents are simple mapping of code to name
-    // list() returns array of continent objects with code and name
     list() {
         return Object.keys(this.data).map(code => ({ code, name: this.data[code] }));
     }
 }
 
+// LanguageEntity - array of language objects
 class LanguageEntity extends Entity {
-    // Languages are array of objects with name and code
-    // Already loaded as object with code as key
     list() {
         return Object.values(this.data);
     }
 }
 
+// CurrencyEntity - object with currency codes as keys
 class CurrencyEntity extends Entity {
-    // Currencies are object with currency codes as keys
     list() {
         return Object.values(this.data);
     }
@@ -181,7 +182,7 @@ module.exports = {
     allLanguages: language.list,
     allCurrencies: currency.list,
     
-    // Legacy methods (can be kept for compatibility)
+    // Legacy methods (optional)
     names: () => country.list().map(c => c.name),
     capitals: () => country.list().map(c => c.capital).filter(c => c),
     find: country.find.bind(country),
