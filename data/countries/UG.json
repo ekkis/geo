@@ -29,14 +29,19 @@
   "phone_code": "256",
   "neighbours": {
     "NW": [
-      "SS"
+      "SS",
+      "KE"
     ],
     "SE": [
       "KE",
       "TZ"
     ],
     "SW": [
-      "RW"
+      "RW",
+      "KE"
+    ],
+    "NE": [
+      "KE"
     ]
   }
 }

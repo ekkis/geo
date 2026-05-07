@@ -31,11 +31,11 @@
   ],
   "phone_code": "501",
   "neighbours": {
-    "NW": [
-      "MX"
-    ],
     "SW": [
       "GT"
+    ],
+    "NW": [
+      "MX"
     ]
   }
 }

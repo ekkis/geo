@@ -26,8 +26,7 @@
   "phone_code": "594",
   "neighbours": {
     "SW": [
-      "BR",
-      "SR"
+      "BR"
     ],
     "E": [
       "SR"

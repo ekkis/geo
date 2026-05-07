@@ -33,7 +33,8 @@
   "phone_code": "227",
   "neighbours": {
     "NE": [
-      "LY"
+      "LY",
+      "NG"
     ],
     "NW": [
       "DZ",

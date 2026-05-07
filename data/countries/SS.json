@@ -28,16 +28,23 @@
   "phone_code": "211",
   "neighbours": {
     "NE": [
-      "ET"
+      "ET",
+      "SD"
     ],
     "NW": [
-      "SD"
+      "SD",
+      "CF"
     ],
     "SE": [
       "KE",
-      "UG"
+      "UG",
+      "CF"
     ],
     "SW": [
+      "CF",
+      "SD"
+    ],
+    "N": [
       "CF"
     ]
   }

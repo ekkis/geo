@@ -28,17 +28,22 @@
   "phone_code": "255",
   "neighbours": {
     "NE": [
-      "KE"
+      "KE",
+      "MZ"
     ],
     "NW": [
       "BI",
       "RW",
-      "UG"
+      "UG",
+      "MZ"
     ],
     "SW": [
       "MW",
       "MZ",
       "ZM"
+    ],
+    "SE": [
+      "MZ"
     ]
   }
 }

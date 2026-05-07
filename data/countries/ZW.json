@@ -30,7 +30,8 @@
   "phone_code": "263",
   "neighbours": {
     "NE": [
-      "MZ"
+      "MZ",
+      "ZM"
     ],
     "NW": [
       "ZM"
@@ -40,6 +41,9 @@
       "ZA"
     ],
     "S": [
+      "ZM"
+    ],
+    "N": [
       "ZM"
     ]
   }

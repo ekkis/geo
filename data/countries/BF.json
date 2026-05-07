@@ -30,14 +30,17 @@
   "phone_code": "226",
   "neighbours": {
     "NE": [
-      "NE"
+      "NE",
+      "GH"
     ],
     "NW": [
-      "ML"
+      "ML",
+      "GH"
     ],
     "SE": [
       "BJ",
-      "TG"
+      "TG",
+      "GH"
     ],
     "SW": [
       "CI",

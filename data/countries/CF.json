@@ -29,10 +29,12 @@
   "phone_code": "236",
   "neighbours": {
     "NE": [
-      "SD"
+      "SD",
+      "SS"
     ],
     "NW": [
-      "TD"
+      "TD",
+      "SS"
     ],
     "SE": [
       "SS"
@@ -40,6 +42,9 @@
     "SW": [
       "CM",
       "CG"
+    ],
+    "S": [
+      "SS"
     ]
   }
 }

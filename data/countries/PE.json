@@ -34,7 +34,8 @@
   "phone_code": "51",
   "neighbours": {
     "NE": [
-      "CO"
+      "CO",
+      "BR"
     ],
     "NW": [
       "EC"
@@ -43,6 +44,9 @@
       "BO",
       "BR",
       "CL"
+    ],
+    "W": [
+      "BR"
     ]
   }
 }

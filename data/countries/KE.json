@@ -33,14 +33,18 @@
   "phone_code": "254",
   "neighbours": {
     "NE": [
-      "SO"
+      "SO",
+      "UG"
     ],
     "NW": [
-      "ET",
-      "SS"
+      "SS",
+      "UG"
     ],
     "SW": [
       "TZ",
+      "UG"
+    ],
+    "SE": [
       "UG"
     ],
     "S": [

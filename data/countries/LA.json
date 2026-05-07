@@ -36,7 +36,6 @@
   "phone_code": "856",
   "neighbours": {
     "NW": [
-      "CN",
       "MM"
     ],
     "SE": [
@@ -44,13 +43,9 @@
       "KH"
     ],
     "SW": [
-      "KH",
       "TH"
     ],
     "N": [
-      "CN"
-    ],
-    "S": [
       "CN"
     ]
   }

@@ -28,10 +28,17 @@
   "phone_code": "291",
   "neighbours": {
     "SE": [
-      "DJ"
+      "DJ",
+      "SD"
     ],
     "SW": [
       "ET",
+      "SD"
+    ],
+    "NW": [
+      "SD"
+    ],
+    "NE": [
       "SD"
     ]
   }
