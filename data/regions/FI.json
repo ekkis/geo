@@ -1,105 +1,82 @@
 {
-  "ALA": {
-    "name": "Åland",
-    "regions": [
-      "Åland"
-    ]
+  "Åland": {
+    "ALA": {
+      "name": "Åland"
+    }
   },
-  "CENFI": {
-    "name": "Central Finland",
-    "regions": [
-      "Central Finland"
-    ]
+  "Central Finland": {
+    "CENFI": {
+      "name": "Central Finland"
+    }
   },
-  "CENOS": {
-    "name": "Central Ostrobothnia",
-    "regions": [
-      "Central Ostrobothnia"
-    ]
+  "Central Ostrobothnia": {
+    "CENOS": {
+      "name": "Central Ostrobothnia"
+    }
   },
-  "CENSA": {
-    "name": "Central Savo",
-    "regions": [
-      "Central Savo"
-    ]
+  "Central Savo": {
+    "CENSA": {
+      "name": "Central Savo"
+    }
   },
-  "KYM": {
-    "name": "Kymenlaakso",
-    "regions": [
-      "Kymenlaakso"
-    ]
+  "Kymenlaakso": {
+    "KYM": {
+      "name": "Kymenlaakso"
+    }
   },
-  "LAP": {
-    "name": "Lapland",
-    "regions": [
-      "Lapland"
-    ]
+  "Lapland": {
+    "LAP": {
+      "name": "Lapland"
+    }
   },
-  "NORKA": {
-    "name": "North Karelia",
-    "regions": [
-      "North Karelia"
-    ]
+  "North Karelia": {
+    "NORKA": {
+      "name": "North Karelia"
+    }
   },
-  "NOROS": {
-    "name": "Northern Ostrobothnia",
-    "regions": [
-      "Northern Ostrobothnia"
-    ]
+  "Northern Ostrobothnia": {
+    "NOROS": {
+      "name": "Northern Ostrobothnia"
+    }
   },
-  "OST": {
-    "name": "Ostrobothnia",
-    "regions": [
-      "Ostrobothnia"
-    ]
+  "Ostrobothnia": {
+    "OST": {
+      "name": "Ostrobothnia"
+    }
   },
-  "PAI": {
-    "name": "Päijät-Häme",
-    "regions": [
-      "Päijät-Häme"
-    ]
+  "Päijät-Häme": {
+    "PAI": {
+      "name": "Päijät-Häme"
+    }
   },
-  "PIR": {
-    "name": "Pirkanmaa",
-    "regions": [
-      "Pirkanmaa"
-    ]
+  "Pirkanmaa": {
+    "PIR": {
+      "name": "Pirkanmaa"
+    }
   },
-  "SAT": {
-    "name": "Satakunta",
-    "regions": [
-      "Satakunta"
-    ]
+  "Satakunta": {
+    "SAT": {
+      "name": "Satakunta"
+    }
   },
-  "SOUFI": {
-    "name": "Southwest Finland",
-    "regions": [
-      "Southwest Finland"
-    ]
+  "Southwest Finland": {
+    "SOUFI": {
+      "name": "Southwest Finland"
+    }
   },
-  "SOUKA": {
-    "name": "South Karelia",
-    "regions": [
-      "South Karelia"
-    ]
+  "South Karelia": {
+    "SOUKA": {
+      "name": "South Karelia"
+    }
   },
-  "SOUSA": {
-    "name": "South Savo",
-    "regions": [
-      "South Savo"
-    ]
+  "South Savo": {
+    "SOUSA": {
+      "name": "South Savo"
+    }
   },
-  "UUS": {
-    "name": "Uusimaa",
-    "regions": [
-      "Uusimaa"
-    ]
-  },
-  "capital": "Helsinki",
-  "currency_code": "EUR",
-  "iso3": "FIN",
-  "language_code": [
-    "fi"
-  ],
-  "continent_code": "EU"
+  "Uusimaa": {
+    "UUS": {
+      "name": "Uusimaa"
+    }
+  }
 }

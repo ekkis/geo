@@ -106,12 +106,5 @@
   },
   "ZAM": {
     "name": "Zamfara"
-  },
-  "capital": "Abuja",
-  "currency_code": "NGN",
-  "iso3": "NGA",
-  "language_code": [
-    "nga"
-  ],
-  "continent_code": "AF"
+  }
 }

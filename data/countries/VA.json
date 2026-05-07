@@ -22,5 +22,10 @@
   "flag": "🇻🇦",
   "region_common": "Europe",
   "demonym": "Vatican",
-  "phone_code": "379"
+  "phone_code": "379",
+  "neighbours": {
+    "NE": [
+      "IT"
+    ]
+  }
 }

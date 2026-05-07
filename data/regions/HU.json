@@ -1,123 +1,97 @@
 {
-  "BAC": {
-    "name": "Bács-Kiskun",
-    "regions": [
-      "Bács-Kiskun"
-    ]
+  "Bács-Kiskun": {
+    "BAC": {
+      "name": "Bács-Kiskun"
+    }
   },
-  "BAR": {
-    "name": "Baranya",
-    "regions": [
-      "Baranya"
-    ]
+  "Baranya": {
+    "BAR": {
+      "name": "Baranya"
+    }
   },
-  "BEK": {
-    "name": "Békés",
-    "regions": [
-      "Békés"
-    ]
+  "Békés": {
+    "BEK": {
+      "name": "Békés"
+    }
   },
-  "BOR": {
-    "name": "Borsod-Abaúj-Zemplén",
-    "regions": [
-      "Borsod-Abaúj-Zemplén"
-    ]
+  "Borsod-Abaúj-Zemplén": {
+    "BOR": {
+      "name": "Borsod-Abaúj-Zemplén"
+    }
   },
-  "BUD": {
-    "name": "Budapest",
-    "regions": [
-      "Budapest"
-    ]
+  "Budapest": {
+    "BUD": {
+      "name": "Budapest"
+    }
   },
-  "FEJ": {
-    "name": "Fejér",
-    "regions": [
-      "Fejér"
-    ]
+  "Fejér": {
+    "FEJ": {
+      "name": "Fejér"
+    }
   },
-  "GYO": {
-    "name": "Győr-Moson-Sopron",
-    "regions": [
-      "Győr-Moson-Sopron"
-    ]
+  "Győr-Moson-Sopron": {
+    "GYO": {
+      "name": "Győr-Moson-Sopron"
+    }
   },
-  "HAJ": {
-    "name": "Hajdú-Bihar",
-    "regions": [
-      "Hajdú-Bihar"
-    ]
+  "Hajdú-Bihar": {
+    "HAJ": {
+      "name": "Hajdú-Bihar"
+    }
   },
-  "HEV": {
-    "name": "Heves",
-    "regions": [
-      "Heves"
-    ]
+  "Heves": {
+    "HEV": {
+      "name": "Heves"
+    }
   },
-  "JAS": {
-    "name": "Jász-Nagykun-Szolnok",
-    "regions": [
-      "Jász-Nagykun-Szolnok"
-    ]
+  "Jász-Nagykun-Szolnok": {
+    "JAS": {
+      "name": "Jász-Nagykun-Szolnok"
+    }
   },
-  "KOM": {
-    "name": "Komárom-Esztergom",
-    "regions": [
-      "Komárom-Esztergom"
-    ]
+  "Komárom-Esztergom": {
+    "KOM": {
+      "name": "Komárom-Esztergom"
+    }
   },
-  "NOG": {
-    "name": "Nógrád",
-    "regions": [
-      "Nógrád"
-    ]
+  "Nógrád": {
+    "NOG": {
+      "name": "Nógrád"
+    }
   },
-  "PES": {
-    "name": "Pest",
-    "regions": [
-      "Pest"
-    ]
+  "Pest": {
+    "PES": {
+      "name": "Pest"
+    }
   },
-  "SOM": {
-    "name": "Somogy",
-    "regions": [
-      "Somogy"
-    ]
+  "Somogy": {
+    "SOM": {
+      "name": "Somogy"
+    }
   },
-  "SZA": {
-    "name": "Szabolcs-Szatmár-Bereg",
-    "regions": [
-      "Szabolcs-Szatmár-Bereg"
-    ]
+  "Szabolcs-Szatmár-Bereg": {
+    "SZA": {
+      "name": "Szabolcs-Szatmár-Bereg"
+    }
   },
-  "TOL": {
-    "name": "Tolna",
-    "regions": [
-      "Tolna"
-    ]
+  "Tolna": {
+    "TOL": {
+      "name": "Tolna"
+    }
   },
-  "VAS": {
-    "name": "Vas",
-    "regions": [
-      "Vas"
-    ]
+  "Vas": {
+    "VAS": {
+      "name": "Vas"
+    }
   },
-  "VES": {
-    "name": "Veszprém",
-    "regions": [
-      "Veszprém"
-    ]
+  "Veszprém": {
+    "VES": {
+      "name": "Veszprém"
+    }
   },
-  "ZAL": {
-    "name": "Zala",
-    "regions": [
-      "Zala"
-    ]
-  },
-  "capital": "Budapest",
-  "currency_code": "HUF",
-  "iso3": "HUN",
-  "language_code": [
-    "hu"
-  ],
-  "continent_code": "EU"
+  "Zala": {
+    "ZAL": {
+      "name": "Zala"
+    }
+  }
 }

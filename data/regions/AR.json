@@ -1,150 +1,86 @@
 {
-  "BA": {
-    "name": "Buenos Aires",
-    "regions": [
-      "Buenos Aires"
-    ]
+  "Buenos Aires": {
+    "BA": {
+      "name": "Buenos Aires"
+    },
+    "CA": {
+      "name": "Ciudad Autónoma de Buenos Aires"
+    }
   },
-  "CA": {
-    "name": "Ciudad Autónoma de Buenos Aires",
-    "regions": [
-      "Buenos Aires"
-    ]
+  "Northwest": {
+    "CAT": {
+      "name": "Catamarca"
+    },
+    "JUJ": {
+      "name": "Jujuy"
+    },
+    "SAL": {
+      "name": "Salta"
+    },
+    "SD": {
+      "name": "Santiago del Estero"
+    },
+    "TUC": {
+      "name": "Tucumán"
+    }
   },
-  "CAT": {
-    "name": "Catamarca",
-    "regions": [
-      "Northwest"
-    ]
+  "Northeast": {
+    "CHA": {
+      "name": "Chaco"
+    },
+    "COR": {
+      "name": "Corrientes"
+    },
+    "ER": {
+      "name": "Entre Ríos"
+    },
+    "FOR": {
+      "name": "Formosa"
+    },
+    "MIS": {
+      "name": "Misiones"
+    }
   },
-  "CHA": {
-    "name": "Chaco",
-    "regions": [
-      "Northeast"
-    ]
+  "Patagonia": {
+    "CHU": {
+      "name": "Chubut"
+    },
+    "LP": {
+      "name": "La Pampa"
+    },
+    "NEU": {
+      "name": "Neuquén"
+    },
+    "RN": {
+      "name": "Río Negro"
+    },
+    "SC": {
+      "name": "Santa Cruz"
+    }
   },
-  "CHU": {
-    "name": "Chubut",
-    "regions": [
-      "Patagonia"
-    ]
+  "Pampas": {
+    "CÓR": {
+      "name": "Córdoba"
+    },
+    "SF": {
+      "name": "Santa Fe"
+    }
   },
-  "COR": {
-    "name": "Corrientes",
-    "regions": [
-      "Northeast"
-    ]
-  },
-  "CÓR": {
-    "name": "Córdoba",
-    "regions": [
-      "Pampas"
-    ]
-  },
-  "ER": {
-    "name": "Entre Ríos",
-    "regions": [
-      "Northeast"
-    ]
-  },
-  "FOR": {
-    "name": "Formosa",
-    "regions": [
-      "Northeast"
-    ]
-  },
-  "JUJ": {
-    "name": "Jujuy",
-    "regions": [
-      "Northwest"
-    ]
-  },
-  "LP": {
-    "name": "La Pampa",
-    "regions": [
-      "Patagonia"
-    ]
-  },
-  "LR": {
-    "name": "La Rioja",
-    "regions": [
-      "Cuyo"
-    ]
-  },
-  "MEN": {
-    "name": "Mendoza",
-    "regions": [
-      "Cuyo"
-    ]
-  },
-  "MIS": {
-    "name": "Misiones",
-    "regions": [
-      "Northeast"
-    ]
-  },
-  "NEU": {
-    "name": "Neuquén",
-    "regions": [
-      "Patagonia"
-    ]
-  },
-  "RN": {
-    "name": "Río Negro",
-    "regions": [
-      "Patagonia"
-    ]
-  },
-  "SAL": {
-    "name": "Salta",
-    "regions": [
-      "Northwest"
-    ]
-  },
-  "SC": {
-    "name": "Santa Cruz",
-    "regions": [
-      "Patagonia"
-    ]
-  },
-  "SD": {
-    "name": "Santiago del Estero",
-    "regions": [
-      "Northwest"
-    ]
-  },
-  "SF": {
-    "name": "Santa Fe",
-    "regions": [
-      "Pampas"
-    ]
-  },
-  "SJ": {
-    "name": "San Juan",
-    "regions": [
-      "Cuyo"
-    ]
-  },
-  "SL": {
-    "name": "San Luis",
-    "regions": [
-      "Cuyo"
-    ]
+  "Cuyo": {
+    "LR": {
+      "name": "La Rioja"
+    },
+    "MEN": {
+      "name": "Mendoza"
+    },
+    "SJ": {
+      "name": "San Juan"
+    },
+    "SL": {
+      "name": "San Luis"
+    }
   },
   "TD": {
     "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
-  },
-  "TUC": {
-    "name": "Tucumán",
-    "regions": [
-      "Northwest"
-    ]
-  },
-  "capital": "Buenos Aires",
-  "currency_code": "ARS",
-  "iso3": "ARG",
-  "language_code": [
-    "an"
-  ],
-  "continent_code": "SA"
+  }
 }

@@ -1,282 +1,159 @@
 {
-  "三重県": {
-    "name": "三重県",
-    "regions": [
-      "Kansai"
-    ]
+  "Kansai": {
+    "三重県": {
+      "name": "三重県"
+    },
+    "京都府": {
+      "name": "京都府"
+    },
+    "兵庫県": {
+      "name": "兵庫県"
+    },
+    "大阪府": {
+      "name": "大阪府"
+    },
+    "奈良県": {
+      "name": "奈良県"
+    },
+    "滋賀県": {
+      "name": "滋賀県"
+    }
   },
-  "京都府": {
-    "name": "京都府",
-    "regions": [
-      "Kansai"
-    ]
+  "Kyushu": {
+    "佐賀県": {
+      "name": "佐賀県"
+    },
+    "大分県": {
+      "name": "大分県"
+    },
+    "宮崎県": {
+      "name": "宮崎県"
+    },
+    "沖縄県": {
+      "name": "沖縄県"
+    },
+    "熊本県": {
+      "name": "熊本県"
+    },
+    "福岡県": {
+      "name": "福岡県"
+    },
+    "長崎県": {
+      "name": "長崎県"
+    }
   },
-  "佐賀県": {
-    "name": "佐賀県",
-    "regions": [
-      "Kyushu"
-    ]
+  "Hokkaido": {
+    "北海道": {
+      "name": "北海道"
+    }
   },
-  "兵庫県": {
-    "name": "兵庫県",
-    "regions": [
-      "Kansai"
-    ]
+  "Kanto": {
+    "千葉県": {
+      "name": "千葉県"
+    },
+    "埼玉県": {
+      "name": "埼玉県"
+    },
+    "東京都": {
+      "name": "東京都"
+    },
+    "栃木県": {
+      "name": "栃木県"
+    },
+    "群馬県": {
+      "name": "群馬県"
+    },
+    "茨城県": {
+      "name": "茨城県"
+    }
   },
-  "北海道": {
-    "name": "北海道",
-    "regions": [
-      "Hokkaido"
-    ]
+  "Tohoku": {
+    "宮城県": {
+      "name": "宮城県"
+    },
+    "山形県": {
+      "name": "山形県"
+    },
+    "岩手県": {
+      "name": "岩手県"
+    },
+    "福島県": {
+      "name": "福島県"
+    },
+    "秋田県": {
+      "name": "秋田県"
+    },
+    "青森県": {
+      "name": "青森県"
+    }
   },
-  "千葉県": {
-    "name": "千葉県",
-    "regions": [
-      "Kanto"
-    ]
+  "Chubu": {
+    "富山県": {
+      "name": "富山県"
+    },
+    "山梨県": {
+      "name": "山梨県"
+    },
+    "岐阜県": {
+      "name": "岐阜県"
+    },
+    "愛知県": {
+      "name": "愛知県"
+    },
+    "新潟県": {
+      "name": "新潟県"
+    },
+    "石川県": {
+      "name": "石川県"
+    },
+    "福井県": {
+      "name": "福井県"
+    },
+    "長野県": {
+      "name": "長野県"
+    },
+    "静岡県": {
+      "name": "静岡県"
+    }
+  },
+  "Chugoku": {
+    "山口県": {
+      "name": "山口県"
+    },
+    "岡山県": {
+      "name": "岡山県"
+    },
+    "島根県": {
+      "name": "島根県"
+    },
+    "広島県": {
+      "name": "広島県"
+    },
+    "鳥取県": {
+      "name": "鳥取県"
+    }
+  },
+  "Shikoku": {
+    "徳島県": {
+      "name": "徳島県"
+    },
+    "愛媛県": {
+      "name": "愛媛県"
+    },
+    "香川県": {
+      "name": "香川県"
+    },
+    "高知県": {
+      "name": "高知県"
+    }
   },
   "和歌山": {
     "name": "和歌山県"
   },
-  "埼玉県": {
-    "name": "埼玉県",
-    "regions": [
-      "Kanto"
-    ]
-  },
-  "大分県": {
-    "name": "大分県",
-    "regions": [
-      "Kyushu"
-    ]
-  },
-  "大阪府": {
-    "name": "大阪府",
-    "regions": [
-      "Kansai"
-    ]
-  },
-  "奈良県": {
-    "name": "奈良県",
-    "regions": [
-      "Kansai"
-    ]
-  },
-  "宮城県": {
-    "name": "宮城県",
-    "regions": [
-      "Tohoku"
-    ]
-  },
-  "宮崎県": {
-    "name": "宮崎県",
-    "regions": [
-      "Kyushu"
-    ]
-  },
-  "富山県": {
-    "name": "富山県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "山口県": {
-    "name": "山口県",
-    "regions": [
-      "Chugoku"
-    ]
-  },
-  "山形県": {
-    "name": "山形県",
-    "regions": [
-      "Tohoku"
-    ]
-  },
-  "山梨県": {
-    "name": "山梨県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "岐阜県": {
-    "name": "岐阜県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "岡山県": {
-    "name": "岡山県",
-    "regions": [
-      "Chugoku"
-    ]
-  },
-  "岩手県": {
-    "name": "岩手県",
-    "regions": [
-      "Tohoku"
-    ]
-  },
-  "島根県": {
-    "name": "島根県",
-    "regions": [
-      "Chugoku"
-    ]
-  },
-  "広島県": {
-    "name": "広島県",
-    "regions": [
-      "Chugoku"
-    ]
-  },
-  "徳島県": {
-    "name": "徳島県",
-    "regions": [
-      "Shikoku"
-    ]
-  },
-  "愛媛県": {
-    "name": "愛媛県",
-    "regions": [
-      "Shikoku"
-    ]
-  },
-  "愛知県": {
-    "name": "愛知県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "新潟県": {
-    "name": "新潟県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "東京都": {
-    "name": "東京都",
-    "regions": [
-      "Kanto"
-    ]
-  },
-  "栃木県": {
-    "name": "栃木県",
-    "regions": [
-      "Kanto"
-    ]
-  },
-  "沖縄県": {
-    "name": "沖縄県",
-    "regions": [
-      "Kyushu"
-    ]
-  },
-  "滋賀県": {
-    "name": "滋賀県",
-    "regions": [
-      "Kansai"
-    ]
-  },
-  "熊本県": {
-    "name": "熊本県",
-    "regions": [
-      "Kyushu"
-    ]
-  },
-  "石川県": {
-    "name": "石川県",
-    "regions": [
-      "Chubu"
-    ]
-  },
   "神奈川": {
     "name": "神奈川県"
   },
-  "福井県": {
-    "name": "福井県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "福岡県": {
-    "name": "福岡県",
-    "regions": [
-      "Kyushu"
-    ]
-  },
-  "福島県": {
-    "name": "福島県",
-    "regions": [
-      "Tohoku"
-    ]
-  },
-  "秋田県": {
-    "name": "秋田県",
-    "regions": [
-      "Tohoku"
-    ]
-  },
-  "群馬県": {
-    "name": "群馬県",
-    "regions": [
-      "Kanto"
-    ]
-  },
-  "茨城県": {
-    "name": "茨城県",
-    "regions": [
-      "Kanto"
-    ]
-  },
-  "長崎県": {
-    "name": "長崎県",
-    "regions": [
-      "Kyushu"
-    ]
-  },
-  "長野県": {
-    "name": "長野県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "青森県": {
-    "name": "青森県",
-    "regions": [
-      "Tohoku"
-    ]
-  },
-  "静岡県": {
-    "name": "静岡県",
-    "regions": [
-      "Chubu"
-    ]
-  },
-  "香川県": {
-    "name": "香川県",
-    "regions": [
-      "Shikoku"
-    ]
-  },
-  "高知県": {
-    "name": "高知県",
-    "regions": [
-      "Shikoku"
-    ]
-  },
-  "鳥取県": {
-    "name": "鳥取県",
-    "regions": [
-      "Chugoku"
-    ]
-  },
   "鹿児島": {
     "name": "鹿児島県"
-  },
-  "capital": "Tokyo",
-  "currency_code": "JPY",
-  "iso3": "JPN",
-  "language_code": [
-    "ja"
-  ],
-  "continent_code": "AS"
+  }
 }

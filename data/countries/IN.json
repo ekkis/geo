@@ -34,5 +34,17 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "91"
+  "phone_code": "91",
+  "neighbours": {
+    "NE": [
+      "BD",
+      "BT",
+      "CN",
+      "MM",
+      "NP"
+    ],
+    "NW": [
+      "PK"
+    ]
+  }
 }

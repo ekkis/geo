@@ -1,45 +1,32 @@
 {
-  "AHAL": {
-    "name": "Ahal",
-    "regions": [
-      "Ahal"
-    ]
+  "Ahal": {
+    "AHAL": {
+      "name": "Ahal"
+    }
   },
-  "ASH": {
-    "name": "Ashgabat",
-    "regions": [
-      "Ashgabat"
-    ]
+  "Ashgabat": {
+    "ASH": {
+      "name": "Ashgabat"
+    }
   },
-  "BALK": {
-    "name": "Balkan",
-    "regions": [
-      "Balkan"
-    ]
+  "Balkan": {
+    "BALK": {
+      "name": "Balkan"
+    }
   },
-  "DASH": {
-    "name": "Dashoguz",
-    "regions": [
-      "Dashoguz"
-    ]
+  "Dashoguz": {
+    "DASH": {
+      "name": "Dashoguz"
+    }
   },
-  "LEBA": {
-    "name": "Lebap",
-    "regions": [
-      "Lebap"
-    ]
+  "Lebap": {
+    "LEBA": {
+      "name": "Lebap"
+    }
   },
-  "MARY": {
-    "name": "Mary",
-    "regions": [
-      "Mary"
-    ]
-  },
-  "capital": "Ashgabat",
-  "currency_code": "TMT",
-  "iso3": "TKM",
-  "language_code": [
-    "tkm"
-  ],
-  "continent_code": "AS"
+  "Mary": {
+    "MARY": {
+      "name": "Mary"
+    }
+  }
 }

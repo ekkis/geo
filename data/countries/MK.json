@@ -34,5 +34,17 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "389"
+  "phone_code": "389",
+  "neighbours": {
+    "NE": [
+      "BG"
+    ],
+    "NW": [
+      "RS"
+    ],
+    "SW": [
+      "AL",
+      "GR"
+    ]
+  }
 }

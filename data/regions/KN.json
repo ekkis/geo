@@ -16,12 +16,5 @@
   },
   "SAINTTRINITY": {
     "name": "Saint Trinity Palmetto Point"
-  },
-  "capital": "Basseterre",
-  "currency_code": "XCD",
-  "iso3": "KNA",
-  "language_code": [
-    "kna"
-  ],
-  "continent_code": "NA"
+  }
 }

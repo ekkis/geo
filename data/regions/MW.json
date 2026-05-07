@@ -76,12 +76,5 @@
   },
   "ZO": {
     "name": "Zomba"
-  },
-  "capital": "Lilongwe",
-  "currency_code": "MWK",
-  "iso3": "MWI",
-  "language_code": [
-    "mwi"
-  ],
-  "continent_code": "AF"
+  }
 }

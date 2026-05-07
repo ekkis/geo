@@ -26,5 +26,20 @@
     "AU",
     "UN"
   ],
-  "phone_code": "236"
+  "phone_code": "236",
+  "neighbours": {
+    "NE": [
+      "SD"
+    ],
+    "NW": [
+      "TD"
+    ],
+    "SE": [
+      "SS"
+    ],
+    "SW": [
+      "CM",
+      "CG"
+    ]
+  }
 }

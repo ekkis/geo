@@ -31,5 +31,13 @@
   "organisations": [
     "WTO"
   ],
-  "phone_code": "373"
+  "phone_code": "373",
+  "neighbours": {
+    "NE": [
+      "UA"
+    ],
+    "SW": [
+      "RO"
+    ]
+  }
 }

@@ -33,5 +33,16 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "56"
+  "phone_code": "56",
+  "neighbours": {
+    "NE": [
+      "BO"
+    ],
+    "NW": [
+      "PE"
+    ],
+    "SE": [
+      "AR"
+    ]
+  }
 }

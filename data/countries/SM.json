@@ -31,5 +31,10 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "378"
+  "phone_code": "378",
+  "neighbours": {
+    "SE": [
+      "IT"
+    ]
+  }
 }

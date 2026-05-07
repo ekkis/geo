@@ -29,5 +29,14 @@
     "AU",
     "UN"
   ],
-  "phone_code": "252"
+  "phone_code": "252",
+  "neighbours": {
+    "NW": [
+      "DJ"
+    ],
+    "SW": [
+      "ET",
+      "KE"
+    ]
+  }
 }

@@ -31,5 +31,10 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "377"
+  "phone_code": "377",
+  "neighbours": {
+    "NW": [
+      "FR"
+    ]
+  }
 }

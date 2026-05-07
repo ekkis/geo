@@ -28,5 +28,20 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "57"
+  "phone_code": "57",
+  "neighbours": {
+    "NE": [
+      "VE"
+    ],
+    "NW": [
+      "PA"
+    ],
+    "SE": [
+      "BR"
+    ],
+    "SW": [
+      "EC",
+      "PE"
+    ]
+  }
 }

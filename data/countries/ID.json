@@ -38,5 +38,14 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "62"
+  "phone_code": "62",
+  "neighbours": {
+    "NW": [
+      "MY"
+    ],
+    "SE": [
+      "PG",
+      "TL"
+    ]
+  }
 }

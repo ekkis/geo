@@ -33,5 +33,10 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "509"
+  "phone_code": "509",
+  "neighbours": {
+    "SE": [
+      "DO"
+    ]
+  }
 }

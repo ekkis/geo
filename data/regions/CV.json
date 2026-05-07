@@ -55,12 +55,5 @@
   },
   "TS": {
     "name": "Tarrafal de São Nicolau"
-  },
-  "capital": "Praia",
-  "currency_code": "CVE",
-  "iso3": "CPV",
-  "language_code": [
-    "cpv"
-  ],
-  "continent_code": "AF"
+  }
 }

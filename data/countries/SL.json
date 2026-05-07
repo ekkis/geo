@@ -26,5 +26,13 @@
     "AU",
     "UN"
   ],
-  "phone_code": "232"
+  "phone_code": "232",
+  "neighbours": {
+    "NE": [
+      "GN"
+    ],
+    "SE": [
+      "LR"
+    ]
+  }
 }

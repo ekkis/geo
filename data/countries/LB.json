@@ -32,5 +32,13 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "961"
+  "phone_code": "961",
+  "neighbours": {
+    "NE": [
+      "SY"
+    ],
+    "SW": [
+      "IL"
+    ]
+  }
 }

@@ -35,5 +35,23 @@
     "EU",
     "UN"
   ],
-  "phone_code": "43"
+  "phone_code": "43",
+  "neighbours": {
+    "NE": [
+      "CZ",
+      "SK"
+    ],
+    "NW": [
+      "DE"
+    ],
+    "SE": [
+      "HU",
+      "SI"
+    ],
+    "SW": [
+      "IT",
+      "LI",
+      "CH"
+    ]
+  }
 }

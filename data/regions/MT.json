@@ -1,21 +1,12 @@
 {
-  "GOZ": {
-    "name": "Gozo",
-    "regions": [
-      "Gozo"
-    ]
+  "Gozo": {
+    "GOZ": {
+      "name": "Gozo"
+    }
   },
-  "MAL": {
-    "name": "Malta",
-    "regions": [
-      "Malta"
-    ]
-  },
-  "capital": "Valletta",
-  "currency_code": "EUR",
-  "iso3": "MLT",
-  "language_code": [
-    "mt"
-  ],
-  "continent_code": "EU"
+  "Malta": {
+    "MAL": {
+      "name": "Malta"
+    }
+  }
 }

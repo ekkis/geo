@@ -27,5 +27,17 @@
     "AU",
     "UN"
   ],
-  "phone_code": "263"
+  "phone_code": "263",
+  "neighbours": {
+    "NE": [
+      "MZ"
+    ],
+    "NW": [
+      "ZM"
+    ],
+    "SW": [
+      "BW",
+      "ZA"
+    ]
+  }
 }

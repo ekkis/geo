@@ -32,5 +32,20 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "380"
+  "phone_code": "380",
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "NW": [
+      "BY",
+      "PL"
+    ],
+    "SW": [
+      "HU",
+      "MD",
+      "RO",
+      "SK"
+    ]
+  }
 }

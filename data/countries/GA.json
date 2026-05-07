@@ -26,5 +26,16 @@
     "AU",
     "UN"
   ],
-  "phone_code": "241"
+  "phone_code": "241",
+  "neighbours": {
+    "NE": [
+      "CM"
+    ],
+    "NW": [
+      "GQ"
+    ],
+    "SE": [
+      "CG"
+    ]
+  }
 }

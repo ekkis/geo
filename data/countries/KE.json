@@ -30,5 +30,18 @@
     "AU",
     "UN"
   ],
-  "phone_code": "254"
+  "phone_code": "254",
+  "neighbours": {
+    "NE": [
+      "SO"
+    ],
+    "NW": [
+      "ET",
+      "SS"
+    ],
+    "SW": [
+      "TZ",
+      "UG"
+    ]
+  }
 }

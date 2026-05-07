@@ -29,5 +29,20 @@
     "AU",
     "UN"
   ],
-  "phone_code": "249"
+  "phone_code": "249",
+  "neighbours": {
+    "NW": [
+      "EG",
+      "LY"
+    ],
+    "SE": [
+      "ET",
+      "ER"
+    ],
+    "SW": [
+      "CF",
+      "TD",
+      "SS"
+    ]
+  }
 }

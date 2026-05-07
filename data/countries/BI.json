@@ -26,5 +26,13 @@
     "AU",
     "UN"
   ],
-  "phone_code": "257"
+  "phone_code": "257",
+  "neighbours": {
+    "NW": [
+      "RW"
+    ],
+    "SE": [
+      "TZ"
+    ]
+  }
 }

@@ -1,81 +1,62 @@
 {
-  "BER": {
-    "name": "Berat",
-    "regions": [
-      "Berat"
-    ]
+  "Berat": {
+    "BER": {
+      "name": "Berat"
+    }
   },
-  "DIB": {
-    "name": "Dibër",
-    "regions": [
-      "Dibër"
-    ]
+  "Dibër": {
+    "DIB": {
+      "name": "Dibër"
+    }
   },
-  "DUR": {
-    "name": "Durrës",
-    "regions": [
-      "Durrës"
-    ]
+  "Durrës": {
+    "DUR": {
+      "name": "Durrës"
+    }
   },
-  "ELB": {
-    "name": "Elbasan",
-    "regions": [
-      "Elbasan"
-    ]
+  "Elbasan": {
+    "ELB": {
+      "name": "Elbasan"
+    }
   },
-  "FIE": {
-    "name": "Fier",
-    "regions": [
-      "Fier"
-    ]
+  "Fier": {
+    "FIE": {
+      "name": "Fier"
+    }
   },
-  "GJI": {
-    "name": "Gjirokastër",
-    "regions": [
-      "Gjirokastër"
-    ]
+  "Gjirokastër": {
+    "GJI": {
+      "name": "Gjirokastër"
+    }
   },
-  "KOR": {
-    "name": "Korçë",
-    "regions": [
-      "Korçë"
-    ]
+  "Korçë": {
+    "KOR": {
+      "name": "Korçë"
+    }
   },
-  "KUK": {
-    "name": "Kukës",
-    "regions": [
-      "Kukës"
-    ]
+  "Kukës": {
+    "KUK": {
+      "name": "Kukës"
+    }
   },
-  "LEZ": {
-    "name": "Lezhë",
-    "regions": [
-      "Lezhë"
-    ]
+  "Lezhë": {
+    "LEZ": {
+      "name": "Lezhë"
+    }
   },
-  "SHK": {
-    "name": "Shkodër",
-    "regions": [
-      "Shkodër"
-    ]
+  "Shkodër": {
+    "SHK": {
+      "name": "Shkodër"
+    }
   },
-  "TIR": {
-    "name": "Tirana",
-    "regions": [
-      "Tirana"
-    ]
+  "Tirana": {
+    "TIR": {
+      "name": "Tirana"
+    }
   },
-  "VLO": {
-    "name": "Vlorë",
-    "regions": [
-      "Vlorë"
-    ]
-  },
-  "capital": "Tirana",
-  "currency_code": "ALL",
-  "iso3": "ALB",
-  "language_code": [
-    "alb"
-  ],
-  "continent_code": "EU"
+  "Vlorë": {
+    "VLO": {
+      "name": "Vlorë"
+    }
+  }
 }

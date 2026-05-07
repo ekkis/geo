@@ -1,101 +1,77 @@
 {
-  "AYEYAR": {
-    "name": "Ayeyarwady",
-    "regions": [
-      "Ayeyarwady"
-    ]
+  "Ayeyarwady": {
+    "AYEYAR": {
+      "name": "Ayeyarwady"
+    }
   },
-  "BAGO": {
-    "name": "Bago",
-    "regions": [
-      "Bago"
-    ]
+  "Bago": {
+    "BAGO": {
+      "name": "Bago"
+    }
   },
-  "CHIN": {
-    "name": "Chin",
-    "regions": [
-      "Chin"
-    ]
+  "Chin": {
+    "CHIN": {
+      "name": "Chin"
+    }
   },
-  "KACHIN": {
-    "name": "Kachin",
-    "regions": [
-      "Kachin"
-    ]
+  "Kachin": {
+    "KACHIN": {
+      "name": "Kachin"
+    }
   },
-  "KAYAH": {
-    "name": "Kayah",
-    "regions": [
-      "Kayah"
-    ]
+  "Kayah": {
+    "KAYAH": {
+      "name": "Kayah"
+    }
   },
-  "KAYIN": {
-    "name": "Kayin",
-    "regions": [
-      "Kayin"
-    ]
+  "Kayin": {
+    "KAYIN": {
+      "name": "Kayin"
+    }
   },
-  "MAGWAY": {
-    "name": "Magway",
-    "regions": [
-      "Magway"
-    ]
+  "Magway": {
+    "MAGWAY": {
+      "name": "Magway"
+    }
   },
-  "MANDALAY": {
-    "name": "Mandalay",
-    "regions": [
-      "Mandalay"
-    ]
+  "Mandalay": {
+    "MANDALAY": {
+      "name": "Mandalay"
+    }
   },
-  "MON": {
-    "name": "Mon",
-    "regions": [
-      "Mon"
-    ]
+  "Mon": {
+    "MON": {
+      "name": "Mon"
+    }
   },
-  "NAYPYID": {
-    "name": "Naypyidaw",
-    "regions": [
-      "Naypyidaw"
-    ]
+  "Naypyidaw": {
+    "NAYPYID": {
+      "name": "Naypyidaw"
+    }
   },
-  "RAKHINE": {
-    "name": "Rakhine",
-    "regions": [
-      "Rakhine"
-    ]
+  "Rakhine": {
+    "RAKHINE": {
+      "name": "Rakhine"
+    }
   },
-  "SAGAING": {
-    "name": "Sagaing",
-    "regions": [
-      "Sagaing"
-    ]
+  "Sagaing": {
+    "SAGAING": {
+      "name": "Sagaing"
+    }
   },
-  "SHAN": {
-    "name": "Shan",
-    "regions": [
-      "Shan"
-    ]
+  "Shan": {
+    "SHAN": {
+      "name": "Shan"
+    }
   },
-  "TANINTH": {
-    "name": "Tanintharyi",
-    "regions": [
-      "Tanintharyi"
-    ]
+  "Tanintharyi": {
+    "TANINTH": {
+      "name": "Tanintharyi"
+    }
   },
-  "YANGON": {
-    "name": "Yangon",
-    "regions": [
-      "Yangon"
-    ]
-  },
-  "capital": "Nay Pyi Taw",
-  "currency_code": "MMK",
-  "iso3": "MMR",
-  "language_code": [
-    "bu",
-    "bur",
-    "mmr"
-  ],
-  "continent_code": "AS"
+  "Yangon": {
+    "YANGON": {
+      "name": "Yangon"
+    }
+  }
 }

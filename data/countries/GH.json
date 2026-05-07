@@ -26,5 +26,16 @@
     "AU",
     "UN"
   ],
-  "phone_code": "233"
+  "phone_code": "233",
+  "neighbours": {
+    "NW": [
+      "BF"
+    ],
+    "SE": [
+      "TG"
+    ],
+    "SW": [
+      "CI"
+    ]
+  }
 }

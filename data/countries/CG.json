@@ -25,5 +25,19 @@
     "WTO",
     "AU"
   ],
-  "phone_code": "242"
+  "phone_code": "242",
+  "neighbours": {
+    "NE": [
+      "CF"
+    ],
+    "NW": [
+      "CM"
+    ],
+    "SE": [
+      "AO"
+    ],
+    "SW": [
+      "GA"
+    ]
+  }
 }

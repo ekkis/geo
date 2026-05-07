@@ -1,63 +1,35 @@
 {
-  "BUR": {
-    "name": "Burgenland",
-    "regions": [
-      "Ostösterreich"
-    ]
+  "Ostösterreich": {
+    "BUR": {
+      "name": "Burgenland"
+    },
+    "NIE": {
+      "name": "Niederösterreich"
+    },
+    "WIE": {
+      "name": "Wien"
+    }
   },
-  "KÄR": {
-    "name": "Kärnten",
-    "regions": [
-      "Südösterreich"
-    ]
+  "Südösterreich": {
+    "KÄR": {
+      "name": "Kärnten"
+    },
+    "STE": {
+      "name": "Steiermark"
+    }
   },
-  "NIE": {
-    "name": "Niederösterreich",
-    "regions": [
-      "Ostösterreich"
-    ]
-  },
-  "OBE": {
-    "name": "Oberösterreich",
-    "regions": [
-      "Westösterreich"
-    ]
-  },
-  "SAL": {
-    "name": "Salzburg",
-    "regions": [
-      "Westösterreich"
-    ]
-  },
-  "STE": {
-    "name": "Steiermark",
-    "regions": [
-      "Südösterreich"
-    ]
-  },
-  "TIR": {
-    "name": "Tirol",
-    "regions": [
-      "Westösterreich"
-    ]
-  },
-  "VOR": {
-    "name": "Vorarlberg",
-    "regions": [
-      "Westösterreich"
-    ]
-  },
-  "WIE": {
-    "name": "Wien",
-    "regions": [
-      "Ostösterreich"
-    ]
-  },
-  "capital": "Vienna",
-  "currency_code": "EUR",
-  "iso3": "AUT",
-  "language_code": [
-    "aut"
-  ],
-  "continent_code": "EU"
+  "Westösterreich": {
+    "OBE": {
+      "name": "Oberösterreich"
+    },
+    "SAL": {
+      "name": "Salzburg"
+    },
+    "TIR": {
+      "name": "Tirol"
+    },
+    "VOR": {
+      "name": "Vorarlberg"
+    }
+  }
 }

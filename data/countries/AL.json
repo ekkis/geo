@@ -29,5 +29,17 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "355"
+  "phone_code": "355",
+  "neighbours": {
+    "NE": [
+      "MK",
+      "RS"
+    ],
+    "NW": [
+      "ME"
+    ],
+    "SE": [
+      "GR"
+    ]
+  }
 }

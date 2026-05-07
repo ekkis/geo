@@ -35,5 +35,14 @@
     "BIS",
     "WTO"
   ],
-  "phone_code": "84"
+  "phone_code": "84",
+  "neighbours": {
+    "NW": [
+      "CN",
+      "LA"
+    ],
+    "SW": [
+      "KH"
+    ]
+  }
 }

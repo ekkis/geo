@@ -33,5 +33,19 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "374"
+  "phone_code": "374",
+  "neighbours": {
+    "NE": [
+      "AZ"
+    ],
+    "NW": [
+      "GE"
+    ],
+    "SE": [
+      "IR"
+    ],
+    "SW": [
+      "TR"
+    ]
+  }
 }

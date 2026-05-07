@@ -30,5 +30,13 @@
     "AU",
     "UN"
   ],
-  "phone_code": "216"
+  "phone_code": "216",
+  "neighbours": {
+    "SE": [
+      "LY"
+    ],
+    "SW": [
+      "DZ"
+    ]
+  }
 }

@@ -121,13 +121,5 @@
   },
   "ZOU": {
     "name": "Zoundwéogo"
-  },
-  "capital": "Ouagadougou",
-  "currency_code": "XOF",
-  "iso3": "BFA",
-  "language_code": [
-    "bfa",
-    "hv"
-  ],
-  "continent_code": "AF"
+  }
 }

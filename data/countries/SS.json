@@ -25,5 +25,20 @@
     "AU",
     "UN"
   ],
-  "phone_code": "211"
+  "phone_code": "211",
+  "neighbours": {
+    "NE": [
+      "ET"
+    ],
+    "NW": [
+      "SD"
+    ],
+    "SE": [
+      "KE",
+      "UG"
+    ],
+    "SW": [
+      "CF"
+    ]
+  }
 }

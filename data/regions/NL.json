@@ -1,4 +1,59 @@
 {
+  "Drenthe": {
+    "DRE": {
+      "name": "Drenthe"
+    }
+  },
+  "Flevoland": {
+    "FLE": {
+      "name": "Flevoland"
+    }
+  },
+  "Friesland": {
+    "FRI": {
+      "name": "Friesland"
+    }
+  },
+  "Gelderland": {
+    "GEL": {
+      "name": "Gelderland"
+    }
+  },
+  "Groningen": {
+    "GRO": {
+      "name": "Groningen"
+    }
+  },
+  "Limburg": {
+    "LIM": {
+      "name": "Limburg"
+    }
+  },
+  "Noord-Holland": {
+    "NOO": {
+      "name": "Noord-Holland"
+    }
+  },
+  "Overijssel": {
+    "OVE": {
+      "name": "Overijssel"
+    }
+  },
+  "Utrecht": {
+    "UTR": {
+      "name": "Utrecht"
+    }
+  },
+  "Zeeland": {
+    "ZEE": {
+      "name": "Zeeland"
+    }
+  },
+  "Zuid-Holland": {
+    "ZUI": {
+      "name": "Zuid-Holland"
+    }
+  },
   "ARU": {
     "name": "Aruba"
   },
@@ -8,54 +63,6 @@
   "CUR": {
     "name": "Curaçao"
   },
-  "DRE": {
-    "name": "Drenthe",
-    "regions": [
-      "Drenthe"
-    ]
-  },
-  "FLE": {
-    "name": "Flevoland",
-    "regions": [
-      "Flevoland"
-    ]
-  },
-  "FRI": {
-    "name": "Friesland",
-    "regions": [
-      "Friesland"
-    ]
-  },
-  "GEL": {
-    "name": "Gelderland",
-    "regions": [
-      "Gelderland"
-    ]
-  },
-  "GRO": {
-    "name": "Groningen",
-    "regions": [
-      "Groningen"
-    ]
-  },
-  "LIM": {
-    "name": "Limburg",
-    "regions": [
-      "Limburg"
-    ]
-  },
-  "NOO": {
-    "name": "Noord-Holland",
-    "regions": [
-      "Noord-Holland"
-    ]
-  },
-  "OVE": {
-    "name": "Overijssel",
-    "regions": [
-      "Overijssel"
-    ]
-  },
   "SAB": {
     "name": "Saba"
   },
@@ -64,30 +71,5 @@
   },
   "SM": {
     "name": "Sint Maarten"
-  },
-  "UTR": {
-    "name": "Utrecht",
-    "regions": [
-      "Utrecht"
-    ]
-  },
-  "ZEE": {
-    "name": "Zeeland",
-    "regions": [
-      "Zeeland"
-    ]
-  },
-  "ZUI": {
-    "name": "Zuid-Holland",
-    "regions": [
-      "Zuid-Holland"
-    ]
-  },
-  "capital": "Amsterdam",
-  "currency_code": "EUR",
-  "iso3": "NLD",
-  "language_code": [
-    "nl"
-  ],
-  "continent_code": "EU"
+  }
 }

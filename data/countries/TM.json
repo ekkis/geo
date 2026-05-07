@@ -31,5 +31,17 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "993"
+  "phone_code": "993",
+  "neighbours": {
+    "NE": [
+      "KZ",
+      "UZ"
+    ],
+    "SE": [
+      "AF"
+    ],
+    "SW": [
+      "IR"
+    ]
+  }
 }

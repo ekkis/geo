@@ -1,117 +1,92 @@
 {
-  "ATTA": {
-    "name": "Attapeu",
-    "regions": [
-      "Attapeu"
-    ]
+  "Attapeu": {
+    "ATTA": {
+      "name": "Attapeu"
+    }
   },
-  "BOKEO": {
-    "name": "Bokeo",
-    "regions": [
-      "Bokeo"
-    ]
+  "Bokeo": {
+    "BOKEO": {
+      "name": "Bokeo"
+    }
   },
-  "BOLIKH": {
-    "name": "Bolikhamsai",
-    "regions": [
-      "Bolikhamsai"
-    ]
+  "Bolikhamsai": {
+    "BOLIKH": {
+      "name": "Bolikhamsai"
+    }
   },
-  "CHAMPAS": {
-    "name": "Champasak",
-    "regions": [
-      "Champasak"
-    ]
+  "Champasak": {
+    "CHAMPAS": {
+      "name": "Champasak"
+    }
   },
-  "HOUAPH": {
-    "name": "Houaphanh",
-    "regions": [
-      "Houaphanh"
-    ]
+  "Houaphanh": {
+    "HOUAPH": {
+      "name": "Houaphanh"
+    }
   },
-  "KHAMMOU": {
-    "name": "Khammouane",
-    "regions": [
-      "Khammouane"
-    ]
+  "Khammouane": {
+    "KHAMMOU": {
+      "name": "Khammouane"
+    }
   },
-  "LUANGBP": {
-    "name": "Luang Prabang",
-    "regions": [
-      "Luang Prabang"
-    ]
+  "Luang Prabang": {
+    "LUANGBP": {
+      "name": "Luang Prabang"
+    }
   },
-  "LUANGNAM": {
-    "name": "Luang Namtha",
-    "regions": [
-      "Luang Namtha"
-    ]
+  "Luang Namtha": {
+    "LUANGNAM": {
+      "name": "Luang Namtha"
+    }
   },
-  "OUDOMX": {
-    "name": "Oudomxay",
-    "regions": [
-      "Oudomxay"
-    ]
+  "Oudomxay": {
+    "OUDOMX": {
+      "name": "Oudomxay"
+    }
   },
-  "PHONGS": {
-    "name": "Phongsaly",
-    "regions": [
-      "Phongsaly"
-    ]
+  "Phongsaly": {
+    "PHONGS": {
+      "name": "Phongsaly"
+    }
   },
-  "SALAVAN": {
-    "name": "Salavan",
-    "regions": [
-      "Salavan"
-    ]
+  "Salavan": {
+    "SALAVAN": {
+      "name": "Salavan"
+    }
   },
-  "SAVANNA": {
-    "name": "Savannakhet",
-    "regions": [
-      "Savannakhet"
-    ]
+  "Savannakhet": {
+    "SAVANNA": {
+      "name": "Savannakhet"
+    }
   },
-  "SEKONG": {
-    "name": "Sekong",
-    "regions": [
-      "Sekong"
-    ]
+  "Sekong": {
+    "SEKONG": {
+      "name": "Sekong"
+    }
   },
-  "VIENTJ": {
-    "name": "Vientiane Prefecture",
-    "regions": [
-      "Vientiane"
-    ]
+  "Vientiane": {
+    "VIENTJ": {
+      "name": "Vientiane Prefecture"
+    }
   },
-  "VIENTP": {
-    "name": "Vientiane Province",
-    "regions": [
-      "Vientiane Province"
-    ]
+  "Vientiane Province": {
+    "VIENTP": {
+      "name": "Vientiane Province"
+    }
   },
-  "XAI": {
-    "name": "Xaisomboun",
-    "regions": [
-      "Xaisomboun"
-    ]
+  "Xaisomboun": {
+    "XAI": {
+      "name": "Xaisomboun"
+    }
   },
-  "XAYABUR": {
-    "name": "Xayaburi",
-    "regions": [
-      "Xayaburi"
-    ]
+  "Xayaburi": {
+    "XAYABUR": {
+      "name": "Xayaburi"
+    }
   },
-  "XIENGK": {
-    "name": "Xieng Khouang",
-    "regions": [
-      "Xieng Khouang"
-    ]
-  },
-  "capital": "Vientiane",
-  "currency_code": "LAK",
-  "iso3": "LAO",
-  "language_code": [
-    "lo"
-  ],
-  "continent_code": "AS"
+  "Xieng Khouang": {
+    "XIENGK": {
+      "name": "Xieng Khouang"
+    }
+  }
 }

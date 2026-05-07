@@ -30,5 +30,13 @@
     "AU",
     "UN"
   ],
-  "phone_code": "268"
+  "phone_code": "268",
+  "neighbours": {
+    "NE": [
+      "MZ"
+    ],
+    "SW": [
+      "ZA"
+    ]
+  }
 }

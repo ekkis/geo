@@ -32,5 +32,19 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "992"
+  "phone_code": "992",
+  "neighbours": {
+    "NE": [
+      "KG"
+    ],
+    "NW": [
+      "UZ"
+    ],
+    "SE": [
+      "CN"
+    ],
+    "SW": [
+      "AF"
+    ]
+  }
 }

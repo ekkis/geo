@@ -25,5 +25,20 @@
     "WTO",
     "AU"
   ],
-  "phone_code": "255"
+  "phone_code": "255",
+  "neighbours": {
+    "NE": [
+      "KE"
+    ],
+    "NW": [
+      "BI",
+      "RW",
+      "UG"
+    ],
+    "SW": [
+      "MW",
+      "MZ",
+      "ZM"
+    ]
+  }
 }

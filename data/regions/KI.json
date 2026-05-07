@@ -7,13 +7,5 @@
   },
   "PHO": {
     "name": "Phoenix Islands"
-  },
-  "capital": "Tarawa",
-  "currency_code": "AUD",
-  "iso3": "KIR",
-  "language_code": [
-    "ct",
-    "ky"
-  ],
-  "continent_code": "OC"
+  }
 }

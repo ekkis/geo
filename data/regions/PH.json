@@ -211,12 +211,5 @@
   },
   "ZS": {
     "name": "Zamboanga Sibugay"
-  },
-  "capital": "Manila",
-  "currency_code": "PHP",
-  "iso3": "PHL",
-  "language_code": [
-    "phl"
-  ],
-  "continent_code": "AS"
+  }
 }

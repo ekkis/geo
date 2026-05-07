@@ -37,5 +37,19 @@
     "EU",
     "UN"
   ],
-  "phone_code": "39"
+  "phone_code": "39",
+  "neighbours": {
+    "NE": [
+      "AT",
+      "SI"
+    ],
+    "NW": [
+      "FR",
+      "SM",
+      "CH"
+    ],
+    "SW": [
+      "VA"
+    ]
+  }
 }

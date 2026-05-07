@@ -30,5 +30,13 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "507"
+  "phone_code": "507",
+  "neighbours": {
+    "NW": [
+      "CR"
+    ],
+    "SE": [
+      "CO"
+    ]
+  }
 }

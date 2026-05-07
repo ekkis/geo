@@ -43,5 +43,27 @@
     "G20",
     "WTO"
   ],
-  "phone_code": "7"
+  "phone_code": "7",
+  "neighbours": {
+    "NW": [
+      "FI",
+      "NO"
+    ],
+    "SE": [
+      "CN",
+      "KP",
+      "MN"
+    ],
+    "SW": [
+      "AZ",
+      "BY",
+      "EE",
+      "GE",
+      "KZ",
+      "LV",
+      "LT",
+      "PL",
+      "UA"
+    ]
+  }
 }

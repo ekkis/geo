@@ -22,12 +22,5 @@
   },
   "ZD": {
     "name": "Zinder"
-  },
-  "capital": "Niamey",
-  "currency_code": "XOF",
-  "iso3": "NER",
-  "language_code": [
-    "ner"
-  ],
-  "continent_code": "AF"
+  }
 }

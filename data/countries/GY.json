@@ -26,5 +26,14 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "592"
+  "phone_code": "592",
+  "neighbours": {
+    "NW": [
+      "VE"
+    ],
+    "SE": [
+      "BR",
+      "SR"
+    ]
+  }
 }

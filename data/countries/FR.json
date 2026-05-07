@@ -51,5 +51,21 @@
     "EU",
     "UN"
   ],
-  "phone_code": "33"
+  "phone_code": "33",
+  "neighbours": {
+    "NE": [
+      "BE",
+      "DE",
+      "LU",
+      "CH"
+    ],
+    "SE": [
+      "IT",
+      "MC"
+    ],
+    "SW": [
+      "AD",
+      "ES"
+    ]
+  }
 }

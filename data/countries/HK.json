@@ -25,5 +25,10 @@
   "organisations": [
     "BIS"
   ],
-  "phone_code": "852"
+  "phone_code": "852",
+  "neighbours": {
+    "NW": [
+      "CN"
+    ]
+  }
 }

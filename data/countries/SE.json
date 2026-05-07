@@ -39,5 +39,13 @@
     "EU",
     "UN"
   ],
-  "phone_code": "46"
+  "phone_code": "46",
+  "neighbours": {
+    "NE": [
+      "FI"
+    ],
+    "SW": [
+      "NO"
+    ]
+  }
 }

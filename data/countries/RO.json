@@ -35,5 +35,18 @@
     "EU",
     "UN"
   ],
-  "phone_code": "40"
+  "phone_code": "40",
+  "neighbours": {
+    "NE": [
+      "MD",
+      "UA"
+    ],
+    "NW": [
+      "HU"
+    ],
+    "SW": [
+      "BG",
+      "RS"
+    ]
+  }
 }

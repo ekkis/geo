@@ -32,5 +32,13 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "423"
+  "phone_code": "423",
+  "neighbours": {
+    "NE": [
+      "AT"
+    ],
+    "SW": [
+      "CH"
+    ]
+  }
 }

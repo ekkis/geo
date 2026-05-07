@@ -1,45 +1,32 @@
 {
-  "FAM": {
-    "name": "Famagusta",
-    "regions": [
-      "Famagusta"
-    ]
+  "Famagusta": {
+    "FAM": {
+      "name": "Famagusta"
+    }
   },
-  "KYR": {
-    "name": "Kyrenia",
-    "regions": [
-      "Kyrenia"
-    ]
+  "Kyrenia": {
+    "KYR": {
+      "name": "Kyrenia"
+    }
   },
-  "LAR": {
-    "name": "Larnaca",
-    "regions": [
-      "Larnaca"
-    ]
+  "Larnaca": {
+    "LAR": {
+      "name": "Larnaca"
+    }
   },
-  "LIM": {
-    "name": "Limassol",
-    "regions": [
-      "Limassol"
-    ]
+  "Limassol": {
+    "LIM": {
+      "name": "Limassol"
+    }
   },
-  "NIC": {
-    "name": "Nicosia",
-    "regions": [
-      "Nicosia"
-    ]
+  "Nicosia": {
+    "NIC": {
+      "name": "Nicosia"
+    }
   },
-  "PAP": {
-    "name": "Paphos",
-    "regions": [
-      "Paphos"
-    ]
-  },
-  "capital": "Nicosia",
-  "currency_code": "EUR",
-  "iso3": "CYP",
-  "language_code": [
-    "cyp"
-  ],
-  "continent_code": "EU"
+  "Paphos": {
+    "PAP": {
+      "name": "Paphos"
+    }
+  }
 }

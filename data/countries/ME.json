@@ -33,5 +33,17 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "382"
+  "phone_code": "382",
+  "neighbours": {
+    "NE": [
+      "RS"
+    ],
+    "NW": [
+      "BA",
+      "HR"
+    ],
+    "SE": [
+      "AL"
+    ]
+  }
 }

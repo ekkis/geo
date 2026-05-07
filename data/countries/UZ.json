@@ -31,5 +31,18 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "998"
+  "phone_code": "998",
+  "neighbours": {
+    "NE": [
+      "KZ"
+    ],
+    "SE": [
+      "AF",
+      "KG",
+      "TJ"
+    ],
+    "SW": [
+      "TM"
+    ]
+  }
 }

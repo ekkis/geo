@@ -26,5 +26,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "974"
+  "phone_code": "974",
+  "neighbours": {
+    "SW": [
+      "SA"
+    ]
+  }
 }
