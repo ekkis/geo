@@ -26,6 +26,5 @@
     "format": "TKCA 1ZZ",
     "regex": "^(TKCA 1ZZ)$"
   },
-  "phone_code": "+1-649",
-  "neighbours": {}
+  "phone_code": "+1-649"
 }

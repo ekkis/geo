@@ -28,6 +28,5 @@
     "format": "FO-###",
     "regex": "^(?:FO)*(\\d{3})$"
   },
-  "phone_code": "298",
-  "neighbours": {}
+  "phone_code": "298"
 }

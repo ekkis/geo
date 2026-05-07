@@ -23,6 +23,5 @@
     "format": "STHL 1ZZ",
     "regex": "^(STHL1ZZ)$"
   },
-  "phone_code": "290",
-  "neighbours": {}
+  "phone_code": "290"
 }
