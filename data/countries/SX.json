@@ -22,5 +22,10 @@
   "demonym": "St. Maartener",
   "gdp": 1623165683.1284916,
   "gdp_year": 2023,
-  "phone_code": "599"
+  "phone_code": "599",
+  "neighbours": {
+    "NW": [
+      "MF"
+    ]
+  }
 }

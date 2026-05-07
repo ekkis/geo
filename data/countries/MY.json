@@ -34,5 +34,16 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "60"
+  "phone_code": "60",
+  "neighbours": {
+    "NE": [
+      "BN"
+    ],
+    "NW": [
+      "TH"
+    ],
+    "SE": [
+      "ID"
+    ]
+  }
 }

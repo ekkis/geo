@@ -36,5 +36,19 @@
     "EU",
     "UN"
   ],
-  "phone_code": "386"
+  "phone_code": "386",
+  "neighbours": {
+    "NE": [
+      "HU"
+    ],
+    "NW": [
+      "AT"
+    ],
+    "SE": [
+      "HR"
+    ],
+    "SW": [
+      "IT"
+    ]
+  }
 }

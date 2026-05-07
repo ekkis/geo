@@ -32,5 +32,19 @@
     "AU",
     "UN"
   ],
-  "phone_code": "27"
+  "phone_code": "27",
+  "neighbours": {
+    "NE": [
+      "MZ",
+      "SZ",
+      "ZW"
+    ],
+    "NW": [
+      "BW",
+      "NA"
+    ],
+    "SE": [
+      "LS"
+    ]
+  }
 }

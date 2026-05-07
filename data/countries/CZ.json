@@ -32,5 +32,19 @@
     "EU",
     "UN"
   ],
-  "phone_code": "420"
+  "phone_code": "420",
+  "neighbours": {
+    "NE": [
+      "PL"
+    ],
+    "NW": [
+      "DE"
+    ],
+    "SE": [
+      "SK"
+    ],
+    "SW": [
+      "AT"
+    ]
+  }
 }

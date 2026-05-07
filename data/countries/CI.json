@@ -24,5 +24,20 @@
   "organisations": [
     "AU"
   ],
-  "phone_code": "225"
+  "phone_code": "225",
+  "neighbours": {
+    "NE": [
+      "BF",
+      "ML"
+    ],
+    "NW": [
+      "GN"
+    ],
+    "SE": [
+      "GH"
+    ],
+    "SW": [
+      "LR"
+    ]
+  }
 }

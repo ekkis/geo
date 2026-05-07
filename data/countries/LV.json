@@ -36,5 +36,17 @@
     "EU",
     "UN"
   ],
-  "phone_code": "371"
+  "phone_code": "371",
+  "neighbours": {
+    "NE": [
+      "EE",
+      "RU"
+    ],
+    "SE": [
+      "BY"
+    ],
+    "SW": [
+      "LT"
+    ]
+  }
 }

@@ -33,5 +33,13 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "976"
+  "phone_code": "976",
+  "neighbours": {
+    "NW": [
+      "RU"
+    ],
+    "SW": [
+      "CN"
+    ]
+  }
 }

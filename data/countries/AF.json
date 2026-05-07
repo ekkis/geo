@@ -28,5 +28,21 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "93"
+  "phone_code": "93",
+  "neighbours": {
+    "NE": [
+      "CN",
+      "TJ"
+    ],
+    "NW": [
+      "TM",
+      "UZ"
+    ],
+    "SE": [
+      "PK"
+    ],
+    "SW": [
+      "IR"
+    ]
+  }
 }

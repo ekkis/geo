@@ -32,5 +32,13 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "977"
+  "phone_code": "977",
+  "neighbours": {
+    "NE": [
+      "CN"
+    ],
+    "SW": [
+      "IN"
+    ]
+  }
 }

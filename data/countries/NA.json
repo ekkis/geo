@@ -26,5 +26,15 @@
     "AU",
     "UN"
   ],
-  "phone_code": "264"
+  "phone_code": "264",
+  "neighbours": {
+    "NE": [
+      "AO",
+      "ZM"
+    ],
+    "SE": [
+      "BW",
+      "ZA"
+    ]
+  }
 }

@@ -34,5 +34,18 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "972"
+  "phone_code": "972",
+  "neighbours": {
+    "NE": [
+      "LB",
+      "PS",
+      "SY"
+    ],
+    "SE": [
+      "JO"
+    ],
+    "SW": [
+      "EG"
+    ]
+  }
 }

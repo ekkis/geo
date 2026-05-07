@@ -31,5 +31,10 @@
     "EU",
     "UN"
   ],
-  "phone_code": "353"
+  "phone_code": "353",
+  "neighbours": {
+    "NE": [
+      "GB"
+    ]
+  }
 }

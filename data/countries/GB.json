@@ -44,5 +44,10 @@
     "G20",
     "WTO"
   ],
-  "phone_code": "44"
+  "phone_code": "44",
+  "neighbours": {
+    "SW": [
+      "IE"
+    ]
+  }
 }

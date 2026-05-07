@@ -30,5 +30,17 @@
     "AU",
     "UN"
   ],
-  "phone_code": "258"
+  "phone_code": "258",
+  "neighbours": {
+    "NW": [
+      "MW",
+      "TZ",
+      "ZM"
+    ],
+    "SW": [
+      "SZ",
+      "ZA",
+      "ZW"
+    ]
+  }
 }

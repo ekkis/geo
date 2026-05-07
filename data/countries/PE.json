@@ -31,5 +31,18 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "51"
+  "phone_code": "51",
+  "neighbours": {
+    "NE": [
+      "CO"
+    ],
+    "NW": [
+      "EC"
+    ],
+    "SE": [
+      "BO",
+      "BR",
+      "CL"
+    ]
+  }
 }

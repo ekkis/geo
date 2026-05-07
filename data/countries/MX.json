@@ -39,5 +39,14 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "52"
+  "phone_code": "52",
+  "neighbours": {
+    "N": [
+      "US"
+    ],
+    "S": [
+      "BZ",
+      "GT"
+    ]
+  }
 }

@@ -30,5 +30,10 @@
     "AU",
     "UN"
   ],
-  "phone_code": "266"
+  "phone_code": "266",
+  "neighbours": {
+    "NW": [
+      "ZA"
+    ]
+  }
 }

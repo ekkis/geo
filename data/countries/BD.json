@@ -32,5 +32,13 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "880"
+  "phone_code": "880",
+  "neighbours": {
+    "SE": [
+      "MM"
+    ],
+    "SW": [
+      "IN"
+    ]
+  }
 }

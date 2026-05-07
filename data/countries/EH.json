@@ -19,5 +19,14 @@
   "flag": "🇪🇭",
   "region_common": "Africa",
   "demonym": "Sahrawi",
-  "phone_code": "212"
+  "phone_code": "212",
+  "neighbours": {
+    "NE": [
+      "DZ",
+      "MA"
+    ],
+    "SE": [
+      "MR"
+    ]
+  }
 }

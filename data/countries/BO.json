@@ -25,5 +25,20 @@
     "WTO",
     "OAS"
   ],
-  "phone_code": "591"
+  "phone_code": "591",
+  "neighbours": {
+    "NE": [
+      "BR"
+    ],
+    "NW": [
+      "PE"
+    ],
+    "SE": [
+      "AR",
+      "PY"
+    ],
+    "SW": [
+      "CL"
+    ]
+  }
 }

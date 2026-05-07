@@ -30,5 +30,22 @@
     "AU",
     "UN"
   ],
-  "phone_code": "260"
+  "phone_code": "260",
+  "neighbours": {
+    "NE": [
+      "MW",
+      "TZ"
+    ],
+    "NW": [
+      "AO"
+    ],
+    "SE": [
+      "MZ"
+    ],
+    "SW": [
+      "BW",
+      "NA",
+      "ZW"
+    ]
+  }
 }

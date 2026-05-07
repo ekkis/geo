@@ -32,5 +32,17 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "996"
+  "phone_code": "996",
+  "neighbours": {
+    "NW": [
+      "KZ"
+    ],
+    "SE": [
+      "CN"
+    ],
+    "SW": [
+      "TJ",
+      "UZ"
+    ]
+  }
 }

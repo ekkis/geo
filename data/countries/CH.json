@@ -34,5 +34,18 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "41"
+  "phone_code": "41",
+  "neighbours": {
+    "NE": [
+      "AT",
+      "DE",
+      "LI"
+    ],
+    "SE": [
+      "IT"
+    ],
+    "SW": [
+      "FR"
+    ]
+  }
 }

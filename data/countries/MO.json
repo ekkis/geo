@@ -22,5 +22,10 @@
   "demonym": "Macanese",
   "gdp": 47061843715.85648,
   "gdp_year": 2023,
-  "phone_code": "853"
+  "phone_code": "853",
+  "neighbours": {
+    "NW": [
+      "CN"
+    ]
+  }
 }

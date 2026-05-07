@@ -25,5 +25,13 @@
     "AU",
     "UN"
   ],
-  "phone_code": "240"
+  "phone_code": "240",
+  "neighbours": {
+    "NE": [
+      "CM"
+    ],
+    "SE": [
+      "GA"
+    ]
+  }
 }

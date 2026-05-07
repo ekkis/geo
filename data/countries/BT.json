@@ -25,5 +25,13 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "975"
+  "phone_code": "975",
+  "neighbours": {
+    "NE": [
+      "CN"
+    ],
+    "SW": [
+      "IN"
+    ]
+  }
 }

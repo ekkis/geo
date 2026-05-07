@@ -35,5 +35,23 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "55"
+  "phone_code": "55",
+  "neighbours": {
+    "NE": [
+      "GF"
+    ],
+    "NW": [
+      "CO",
+      "GY",
+      "SR",
+      "VE"
+    ],
+    "SW": [
+      "AR",
+      "BO",
+      "PY",
+      "PE",
+      "UY"
+    ]
+  }
 }

@@ -43,5 +43,10 @@
     "EU",
     "UN"
   ],
-  "phone_code": "45"
+  "phone_code": "45",
+  "neighbours": {
+    "SW": [
+      "DE"
+    ]
+  }
 }

@@ -27,5 +27,13 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "967"
+  "phone_code": "967",
+  "neighbours": {
+    "NE": [
+      "OM"
+    ],
+    "NW": [
+      "SA"
+    ]
+  }
 }

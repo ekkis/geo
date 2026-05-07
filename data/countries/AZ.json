@@ -32,5 +32,20 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "994"
+  "phone_code": "994",
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "NW": [
+      "GE"
+    ],
+    "SE": [
+      "IR"
+    ],
+    "SW": [
+      "AM",
+      "TR"
+    ]
+  }
 }

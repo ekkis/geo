@@ -35,5 +35,18 @@
     "EU",
     "UN"
   ],
-  "phone_code": "359"
+  "phone_code": "359",
+  "neighbours": {
+    "NW": [
+      "RO",
+      "RS"
+    ],
+    "SE": [
+      "TR"
+    ],
+    "SW": [
+      "GR",
+      "MK"
+    ]
+  }
 }

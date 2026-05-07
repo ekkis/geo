@@ -32,5 +32,17 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "92"
+  "phone_code": "92",
+  "neighbours": {
+    "NE": [
+      "CN"
+    ],
+    "NW": [
+      "AF",
+      "IR"
+    ],
+    "SE": [
+      "IN"
+    ]
+  }
 }

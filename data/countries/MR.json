@@ -26,5 +26,19 @@
     "AU",
     "UN"
   ],
-  "phone_code": "222"
+  "phone_code": "222",
+  "neighbours": {
+    "NE": [
+      "DZ"
+    ],
+    "NW": [
+      "EH"
+    ],
+    "SE": [
+      "ML"
+    ],
+    "SW": [
+      "SN"
+    ]
+  }
 }

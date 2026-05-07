@@ -30,5 +30,13 @@
     "AU",
     "UN"
   ],
-  "phone_code": "245"
+  "phone_code": "245",
+  "neighbours": {
+    "NE": [
+      "SN"
+    ],
+    "SE": [
+      "GN"
+    ]
+  }
 }

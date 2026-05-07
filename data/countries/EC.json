@@ -31,5 +31,13 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "593"
+  "phone_code": "593",
+  "neighbours": {
+    "NE": [
+      "CO"
+    ],
+    "SE": [
+      "PE"
+    ]
+  }
 }

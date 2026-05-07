@@ -30,5 +30,16 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "595"
+  "phone_code": "595",
+  "neighbours": {
+    "NE": [
+      "BR"
+    ],
+    "NW": [
+      "BO"
+    ],
+    "SW": [
+      "AR"
+    ]
+  }
 }

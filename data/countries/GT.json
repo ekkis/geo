@@ -33,5 +33,17 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "502"
+  "phone_code": "502",
+  "neighbours": {
+    "NE": [
+      "BZ"
+    ],
+    "NW": [
+      "MX"
+    ],
+    "SE": [
+      "SV",
+      "HN"
+    ]
+  }
 }

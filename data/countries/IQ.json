@@ -29,5 +29,19 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "964"
+  "phone_code": "964",
+  "neighbours": {
+    "NW": [
+      "SY",
+      "TR"
+    ],
+    "SE": [
+      "IR",
+      "KW",
+      "SA"
+    ],
+    "SW": [
+      "JO"
+    ]
+  }
 }

@@ -34,5 +34,18 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "7"
+  "phone_code": "7",
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "SE": [
+      "CN",
+      "KG"
+    ],
+    "SW": [
+      "TM",
+      "UZ"
+    ]
+  }
 }

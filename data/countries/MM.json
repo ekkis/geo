@@ -35,5 +35,20 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "95"
+  "phone_code": "95",
+  "neighbours": {
+    "NE": [
+      "CN"
+    ],
+    "NW": [
+      "BD"
+    ],
+    "SE": [
+      "LA",
+      "TH"
+    ],
+    "SW": [
+      "IN"
+    ]
+  }
 }

@@ -29,5 +29,19 @@
     "AU",
     "UN"
   ],
-  "phone_code": "251"
+  "phone_code": "251",
+  "neighbours": {
+    "NE": [
+      "DJ",
+      "ER",
+      "SO"
+    ],
+    "NW": [
+      "SD"
+    ],
+    "SW": [
+      "KE",
+      "SS"
+    ]
+  }
 }

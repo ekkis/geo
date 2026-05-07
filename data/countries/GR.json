@@ -36,5 +36,17 @@
     "EU",
     "UN"
   ],
-  "phone_code": "30"
+  "phone_code": "30",
+  "neighbours": {
+    "NE": [
+      "BG"
+    ],
+    "NW": [
+      "AL",
+      "MK"
+    ],
+    "SE": [
+      "TR"
+    ]
+  }
 }

@@ -36,5 +36,13 @@
     "EU",
     "UN"
   ],
-  "phone_code": "372"
+  "phone_code": "372",
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "SW": [
+      "LV"
+    ]
+  }
 }

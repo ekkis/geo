@@ -29,5 +29,14 @@
     "WTO",
     "OAS"
   ],
-  "phone_code": "58"
+  "phone_code": "58",
+  "neighbours": {
+    "SE": [
+      "BR",
+      "GY"
+    ],
+    "SW": [
+      "CO"
+    ]
+  }
 }

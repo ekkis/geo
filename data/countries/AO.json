@@ -26,5 +26,16 @@
     "AU",
     "UN"
   ],
-  "phone_code": "244"
+  "phone_code": "244",
+  "neighbours": {
+    "NW": [
+      "CG"
+    ],
+    "SE": [
+      "ZM"
+    ],
+    "SW": [
+      "NA"
+    ]
+  }
 }

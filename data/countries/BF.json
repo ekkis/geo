@@ -27,5 +27,21 @@
     "AU",
     "UN"
   ],
-  "phone_code": "226"
+  "phone_code": "226",
+  "neighbours": {
+    "NE": [
+      "NE"
+    ],
+    "NW": [
+      "ML"
+    ],
+    "SE": [
+      "BJ",
+      "TG"
+    ],
+    "SW": [
+      "CI",
+      "GH"
+    ]
+  }
 }

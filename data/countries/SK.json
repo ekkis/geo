@@ -36,5 +36,20 @@
     "EU",
     "UN"
   ],
-  "phone_code": "421"
+  "phone_code": "421",
+  "neighbours": {
+    "NE": [
+      "PL",
+      "UA"
+    ],
+    "NW": [
+      "CZ"
+    ],
+    "SE": [
+      "HU"
+    ],
+    "SW": [
+      "AT"
+    ]
+  }
 }

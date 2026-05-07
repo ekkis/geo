@@ -26,5 +26,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "670"
+  "phone_code": "670",
+  "neighbours": {
+    "NW": [
+      "ID"
+    ]
+  }
 }
