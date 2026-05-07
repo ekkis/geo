@@ -46,12 +46,5 @@
     "regions": [
       "Žilina"
     ]
-  },
-  "capital": "Bratislava",
-  "currency_code": "EUR",
-  "iso3": "SVK",
-  "language_code": [
-    "svk"
-  ],
-  "continent_code": "EU"
+  }
 }

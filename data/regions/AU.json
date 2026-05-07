@@ -13,12 +13,5 @@
     "NF": {
       "name": "Norfolk Island"
     }
-  },
-  "capital": "Canberra",
-  "currency_code": "AUD",
-  "iso3": "AUS",
-  "language_code": [
-    "aus"
-  ],
-  "continent_code": "OC"
+  }
 }

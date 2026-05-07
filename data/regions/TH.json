@@ -442,12 +442,5 @@
     "regions": [
       "Yasothon"
     ]
-  },
-  "capital": "Bangkok",
-  "currency_code": "THB",
-  "iso3": "THA",
-  "language_code": [
-    "th"
-  ],
-  "continent_code": "AS"
+  }
 }

@@ -138,12 +138,5 @@
     "YAM": {
       "name": "Yambol"
     }
-  },
-  "capital": "Sofia",
-  "currency_code": "BGN",
-  "iso3": "BGR",
-  "language_code": [
-    "bgr"
-  ],
-  "continent_code": "EU"
+  }
 }

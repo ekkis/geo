@@ -63,12 +63,5 @@
     "WESMA": {
       "name": "West Macedonia"
     }
-  },
-  "capital": "Athens",
-  "currency_code": "EUR",
-  "iso3": "GRC",
-  "language_code": [
-    "grc"
-  ],
-  "continent_code": "EU"
+  }
 }

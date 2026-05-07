@@ -4,12 +4,5 @@
     "regions": [
       "Gibraltar"
     ]
-  },
-  "capital": "Gibraltar",
-  "currency_code": "GIP",
-  "iso3": "GIB",
-  "language_code": [
-    "gib"
-  ],
-  "continent_code": "EU"
+  }
 }

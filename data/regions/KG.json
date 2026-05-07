@@ -52,12 +52,5 @@
     "regions": [
       "Talas"
     ]
-  },
-  "capital": "Bishkek",
-  "currency_code": "KGS",
-  "iso3": "KGZ",
-  "language_code": [
-    "kgz"
-  ],
-  "continent_code": "AS"
+  }
 }

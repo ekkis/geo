@@ -88,14 +88,5 @@
     "REU": {
       "name": "Réunion"
     }
-  },
-  "capital": "Paris",
-  "currency_code": "EUR",
-  "iso3": "FRA",
-  "language_code": [
-    "fr",
-    "fx",
-    "fxx"
-  ],
-  "continent_code": "EU"
+  }
 }

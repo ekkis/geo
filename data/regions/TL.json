@@ -76,14 +76,5 @@
     "regions": [
       "Viqueque"
     ]
-  },
-  "capital": "Dili",
-  "currency_code": "USD",
-  "iso3": "TLS",
-  "language_code": [
-    "tls",
-    "tmp",
-    "tp"
-  ],
-  "continent_code": "OC"
+  }
 }

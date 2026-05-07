@@ -266,12 +266,5 @@
     "TER": {
       "name": "Terni"
     }
-  },
-  "capital": "Rome",
-  "currency_code": "EUR",
-  "iso3": "ITA",
-  "language_code": [
-    "it"
-  ],
-  "continent_code": "EU"
+  }
 }

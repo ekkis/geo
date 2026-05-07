@@ -276,12 +276,5 @@
     "ÑD": {
       "name": "Ñuflo de Chávez"
     }
-  },
-  "capital": "Sucre",
-  "currency_code": "BOB",
-  "iso3": "BOL",
-  "language_code": [
-    "bol"
-  ],
-  "continent_code": "SA"
+  }
 }

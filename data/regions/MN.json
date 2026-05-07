@@ -124,12 +124,5 @@
     "regions": [
       "Zavkhan"
     ]
-  },
-  "capital": "Ulan Bator",
-  "currency_code": "MNT",
-  "iso3": "MNG",
-  "language_code": [
-    "mng"
-  ],
-  "continent_code": "AS"
+  }
 }

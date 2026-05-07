@@ -58,12 +58,5 @@
     "VLO": {
       "name": "Vlorë"
     }
-  },
-  "capital": "Tirana",
-  "currency_code": "ALL",
-  "iso3": "ALB",
-  "language_code": [
-    "alb"
-  ],
-  "continent_code": "EU"
+  }
 }

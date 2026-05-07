@@ -234,12 +234,5 @@
     "YAL": {
       "name": "Yalova"
     }
-  },
-  "capital": "Ankara",
-  "currency_code": "TRY",
-  "iso3": "TUR",
-  "language_code": [
-    "tr"
-  ],
-  "continent_code": "AS"
+  }
 }

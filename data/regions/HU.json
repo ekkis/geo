@@ -93,12 +93,5 @@
     "ZAL": {
       "name": "Zala"
     }
-  },
-  "capital": "Budapest",
-  "currency_code": "HUF",
-  "iso3": "HUN",
-  "language_code": [
-    "hu"
-  ],
-  "continent_code": "EU"
+  }
 }

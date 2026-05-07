@@ -70,12 +70,5 @@
     "regions": [
       "Tbilisi"
     ]
-  },
-  "capital": "Tbilisi",
-  "currency_code": "GEL",
-  "iso3": "GEO",
-  "language_code": [
-    "geo"
-  ],
-  "continent_code": "AS"
+  }
 }

@@ -48,12 +48,5 @@
     "VIL": {
       "name": "Vilnius"
     }
-  },
-  "capital": "Vilnius",
-  "currency_code": "LTL",
-  "iso3": "LTU",
-  "language_code": [
-    "ltu"
-  ],
-  "continent_code": "EU"
+  }
 }

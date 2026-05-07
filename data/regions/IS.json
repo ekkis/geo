@@ -46,12 +46,5 @@
     "regions": [
       "Westfjords"
     ]
-  },
-  "capital": "Reykjavik",
-  "currency_code": "ISK",
-  "iso3": "ISL",
-  "language_code": [
-    "is"
-  ],
-  "continent_code": "EU"
+  }
 }

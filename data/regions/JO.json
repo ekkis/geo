@@ -40,12 +40,5 @@
     "TAF": {
       "name": "Tafilah"
     }
-  },
-  "capital": "Amman",
-  "currency_code": "JOD",
-  "iso3": "JOR",
-  "language_code": [
-    "jor"
-  ],
-  "continent_code": "AS"
+  }
 }

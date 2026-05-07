@@ -82,12 +82,5 @@
     "regions": [
       "Zlín"
     ]
-  },
-  "capital": "Prague",
-  "currency_code": "CZK",
-  "iso3": "CZE",
-  "language_code": [
-    "cze"
-  ],
-  "continent_code": "EU"
+  }
 }

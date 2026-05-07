@@ -70,12 +70,5 @@
     "regions": [
       "Ryanggang"
     ]
-  },
-  "capital": "Pyongyang",
-  "currency_code": "KPW",
-  "iso3": "PRK",
-  "language_code": [
-    "prk"
-  ],
-  "continent_code": "AS"
+  }
 }

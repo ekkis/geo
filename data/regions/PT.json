@@ -88,12 +88,5 @@
     "VIS": {
       "name": "Viseu"
     }
-  },
-  "capital": "Lisbon",
-  "currency_code": "EUR",
-  "iso3": "PRT",
-  "language_code": [
-    "prt"
-  ],
-  "continent_code": "EU"
+  }
 }

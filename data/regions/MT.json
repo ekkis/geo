@@ -8,12 +8,5 @@
     "MAL": {
       "name": "Malta"
     }
-  },
-  "capital": "Valletta",
-  "currency_code": "EUR",
-  "iso3": "MLT",
-  "language_code": [
-    "mt"
-  ],
-  "continent_code": "EU"
+  }
 }

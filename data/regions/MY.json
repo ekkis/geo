@@ -94,12 +94,5 @@
     "regions": [
       "Terengganu"
     ]
-  },
-  "capital": "Kuala Lumpur",
-  "currency_code": "MYR",
-  "iso3": "MYS",
-  "language_code": [
-    "mys"
-  ],
-  "continent_code": "AS"
+  }
 }

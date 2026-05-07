@@ -92,16 +92,5 @@
     "ZLA1": {
       "name": "Zlatibor"
     }
-  },
-  "capital": "Belgrade",
-  "currency_code": "RSD",
-  "iso3": "SRB",
-  "language_code": [
-    "cs",
-    "scg",
-    "srb",
-    "yu",
-    "yug"
-  ],
-  "continent_code": "EU"
+  }
 }

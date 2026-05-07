@@ -79,12 +79,5 @@
     "SL": {
       "name": "San Luis"
     }
-  },
-  "capital": "Buenos Aires",
-  "currency_code": "ARS",
-  "iso3": "ARG",
-  "language_code": [
-    "an"
-  ],
-  "continent_code": "SA"
+  }
 }

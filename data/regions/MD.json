@@ -208,12 +208,5 @@
     "regions": [
       "Ungheni"
     ]
-  },
-  "capital": "Chisinau",
-  "currency_code": "MDL",
-  "iso3": "MDA",
-  "language_code": [
-    "mda"
-  ],
-  "continent_code": "EU"
+  }
 }

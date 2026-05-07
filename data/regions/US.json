@@ -228,12 +228,5 @@
     "WA": {
       "name": "Washington"
     }
-  },
-  "capital": "Washington",
-  "currency_code": "USD",
-  "iso3": "USA",
-  "language_code": [
-    "usa"
-  ],
-  "continent_code": "NA"
+  }
 }

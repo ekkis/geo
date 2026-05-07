@@ -40,12 +40,5 @@
     "regions": [
       "Vitebsk Region"
     ]
-  },
-  "capital": "Minsk",
-  "currency_code": "BYN",
-  "iso3": "BLR",
-  "language_code": [
-    "blr"
-  ],
-  "continent_code": "EU"
+  }
 }

@@ -40,12 +40,5 @@
     "regions": [
       "Sant Julià de Lòria"
     ]
-  },
-  "capital": "Andorra la Vella",
-  "currency_code": "EUR",
-  "iso3": "AND",
-  "language_code": [
-    "and"
-  ],
-  "continent_code": "EU"
+  }
 }

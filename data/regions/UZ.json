@@ -76,12 +76,5 @@
     "regions": [
       "Tashkent"
     ]
-  },
-  "capital": "Tashkent",
-  "currency_code": "UZS",
-  "iso3": "UZB",
-  "language_code": [
-    "uz"
-  ],
-  "continent_code": "AS"
+  }
 }

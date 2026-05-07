@@ -146,12 +146,5 @@
     "高知県": {
       "name": "高知県"
     }
-  },
-  "capital": "Tokyo",
-  "currency_code": "JPY",
-  "iso3": "JPN",
-  "language_code": [
-    "ja"
-  ],
-  "continent_code": "AS"
+  }
 }

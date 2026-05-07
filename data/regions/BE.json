@@ -32,12 +32,5 @@
     "WAA": {
       "name": "Waals-Brabant"
     }
-  },
-  "capital": "Brussels",
-  "currency_code": "EUR",
-  "iso3": "BEL",
-  "language_code": [
-    "be"
-  ],
-  "continent_code": "EU"
+  }
 }

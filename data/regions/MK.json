@@ -343,12 +343,5 @@
     "VRA": {
       "name": "Vrapčište"
     }
-  },
-  "capital": "Skopje",
-  "currency_code": "MKD",
-  "iso3": "MKD",
-  "language_code": [
-    "mk"
-  ],
-  "continent_code": "EU"
+  }
 }

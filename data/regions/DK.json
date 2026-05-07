@@ -15,12 +15,5 @@
     "SYD": {
       "name": "Syddanmark"
     }
-  },
-  "capital": "Copenhagen",
-  "currency_code": "DKK",
-  "iso3": "DNK",
-  "language_code": [
-    "dnk"
-  ],
-  "continent_code": "EU"
+  }
 }
