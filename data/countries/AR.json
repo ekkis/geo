@@ -16,7 +16,7 @@
   ],
   "area": 2780400,
   "population": 46735004,
-  "flag": "🇦🇷",
+  "flag": "\ud83c\udde6\ud83c\uddf7",
   "region_common": "Americas",
   "demonym": "Argentine",
   "gdp": 640591410663.8834,
@@ -35,8 +35,8 @@
   "phone_code": "54",
   "neighbours": {
     "NE": [
-      "PY",
       "BR",
+      "PY",
       "UY"
     ],
     "NW": [
