@@ -228,13 +228,5 @@
     "WA": {
       "name": "Washington"
     }
-  },
-  "none": {
-    "AK": {
-      "name": "Alaska"
-    },
-    "HI": {
-      "name": "Hawaii"
-    }
   }
 }
