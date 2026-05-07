@@ -39,8 +39,8 @@
   "phone_code": "370",
   "neighbours": {
     "NE": [
-      "LV",
-      "RU"
+      "RU",
+      "LV"
     ],
     "SE": [
       "BY"

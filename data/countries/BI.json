@@ -29,10 +29,13 @@
   "phone_code": "257",
   "neighbours": {
     "NW": [
-      "RW"
+      "CD"
     ],
     "SE": [
       "TZ"
+    ],
+    "N": [
+      "RW"
     ]
   }
 }

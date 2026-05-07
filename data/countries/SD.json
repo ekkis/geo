@@ -32,16 +32,24 @@
   "phone_code": "249",
   "neighbours": {
     "NW": [
-      "EG",
       "LY"
     ],
     "SE": [
-      "ET",
-      "ER"
+      "ET"
     ],
     "SW": [
-      "CF",
-      "TD",
+      "CF"
+    ],
+    "N": [
+      "EG"
+    ],
+    "E": [
+      "ER"
+    ],
+    "W": [
+      "TD"
+    ],
+    "S": [
       "SS"
     ]
   }

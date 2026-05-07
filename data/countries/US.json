@@ -48,10 +48,10 @@
   ],
   "phone_code": "1",
   "neighbours": {
-    "N": [
+    "NE": [
       "CA"
     ],
-    "S": [
+    "SW": [
       "MX"
     ]
   }

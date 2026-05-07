@@ -38,8 +38,8 @@
   "neighbours": {
     "NE": [
       "AT",
-      "DE",
-      "LI"
+      "LI",
+      "DE"
     ],
     "SE": [
       "IT"

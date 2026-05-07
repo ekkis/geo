@@ -39,8 +39,8 @@
   "phone_code": "32",
   "neighbours": {
     "NE": [
-      "DE",
-      "NL"
+      "NL",
+      "DE"
     ],
     "SE": [
       "LU"

@@ -33,11 +33,13 @@
   "phone_code": "20",
   "neighbours": {
     "NE": [
-      "IL",
-      "PS"
+      "PS",
+      "IL"
     ],
     "SW": [
-      "LY",
+      "LY"
+    ],
+    "S": [
       "SD"
     ]
   }

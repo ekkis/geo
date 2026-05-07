@@ -33,14 +33,16 @@
   "phone_code": "258",
   "neighbours": {
     "NW": [
-      "MW",
-      "TZ",
-      "ZM"
+      "ZM",
+      "MW"
     ],
     "SW": [
-      "SZ",
+      "ZW",
       "ZA",
-      "ZW"
+      "SZ"
+    ],
+    "N": [
+      "TZ"
     ]
   }
 }

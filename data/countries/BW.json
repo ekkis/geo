@@ -29,12 +29,14 @@
   "phone_code": "267",
   "neighbours": {
     "NE": [
-      "ZM",
-      "ZW"
+      "ZW",
+      "ZM"
     ],
-    "SW": [
-      "NA",
+    "S": [
       "ZA"
+    ],
+    "W": [
+      "NA"
     ]
   }
 }
