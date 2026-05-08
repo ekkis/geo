@@ -30,6 +30,10 @@
     "UN"
   ],
   "phone_code": "964",
+  "divisions": [
+    "governorate",
+    "district"
+  ],
   "neighbours": {
     "NW": [
       "SY",

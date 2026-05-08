@@ -37,6 +37,11 @@
     "UN"
   ],
   "phone_code": "421",
+  "divisions": [
+    "region",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "PL",

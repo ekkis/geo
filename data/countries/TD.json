@@ -27,6 +27,11 @@
     "UN"
   ],
   "phone_code": "235",
+  "divisions": [
+    "region",
+    "department",
+    "sub-prefecture"
+  ],
   "neighbours": {
     "NW": [
       "LY",

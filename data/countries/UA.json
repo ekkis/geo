@@ -33,6 +33,11 @@
     "UN"
   ],
   "phone_code": "380",
+  "divisions": [
+    "oblast/autonomous republic",
+    "raion",
+    "city/district significance"
+  ],
   "neighbours": {
     "NE": [
       "RU"

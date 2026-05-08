@@ -32,6 +32,9 @@
     "WTO"
   ],
   "phone_code": "373",
+  "divisions": [
+    "district/municipality/autonomous unit"
+  ],
   "neighbours": {
     "NE": [
       "UA"

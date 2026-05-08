@@ -32,6 +32,10 @@
     "UN"
   ],
   "phone_code": "212",
+  "divisions": [
+    "region",
+    "prefecture/province"
+  ],
   "neighbours": {
     "NE": [
       "ES"

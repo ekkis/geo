@@ -26,6 +26,10 @@
     "UN"
   ],
   "phone_code": "975",
+  "divisions": [
+    "district",
+    "block"
+  ],
   "neighbours": {
     "NE": [
       "CN"

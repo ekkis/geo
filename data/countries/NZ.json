@@ -35,5 +35,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "64"
+  "phone_code": "64",
+  "divisions": [
+    "region",
+    "territorial authority",
+    "ward"
+  ]
 }

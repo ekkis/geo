@@ -36,6 +36,11 @@
     "WTO"
   ],
   "phone_code": "84",
+  "divisions": [
+    "province/municipality",
+    "district",
+    "commune"
+  ],
   "neighbours": {
     "NW": [
       "CN",

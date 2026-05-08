@@ -28,6 +28,10 @@
     "UN"
   ],
   "phone_code": "967",
+  "divisions": [
+    "governorate",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "OM"

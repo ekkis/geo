@@ -29,5 +29,8 @@
     "WTO",
     "AU"
   ],
-  "phone_code": "238"
+  "phone_code": "238",
+  "divisions": [
+    "municipality"
+  ]
 }

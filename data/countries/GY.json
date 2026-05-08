@@ -27,6 +27,10 @@
     "UN"
   ],
   "phone_code": "592",
+  "divisions": [
+    "region",
+    "neighborhood council"
+  ],
   "neighbours": {
     "NW": [
       "VE"

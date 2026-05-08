@@ -36,6 +36,12 @@
     "UN"
   ],
   "phone_code": "66",
+  "divisions": [
+    "province",
+    "district",
+    "subdistrict",
+    "village"
+  ],
   "neighbours": {
     "NE": [
       "LA"

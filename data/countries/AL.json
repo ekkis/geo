@@ -30,6 +30,11 @@
     "UN"
   ],
   "phone_code": "355",
+  "divisions": [
+    "county",
+    "municipality",
+    "city/village"
+  ],
   "neighbours": {
     "NE": [
       "MK",

@@ -31,6 +31,10 @@
     "UN"
   ],
   "phone_code": "266",
+  "divisions": [
+    "district",
+    "constituency"
+  ],
   "neighbours": {
     "NW": [
       "ZA"

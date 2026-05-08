@@ -30,6 +30,10 @@
     "UN"
   ],
   "phone_code": "249",
+  "divisions": [
+    "state",
+    "district"
+  ],
   "neighbours": {
     "NW": [
       "LY"

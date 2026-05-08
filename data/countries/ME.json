@@ -34,6 +34,9 @@
     "UN"
   ],
   "phone_code": "382",
+  "divisions": [
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "XK",

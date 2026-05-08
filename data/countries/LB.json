@@ -33,6 +33,10 @@
     "UN"
   ],
   "phone_code": "961",
+  "divisions": [
+    "governorate",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "SY"

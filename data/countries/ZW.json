@@ -28,6 +28,11 @@
     "UN"
   ],
   "phone_code": "263",
+  "divisions": [
+    "province",
+    "district",
+    "ward"
+  ],
   "neighbours": {
     "NE": [
       "MZ"

@@ -27,6 +27,12 @@
     "regex": "^(\\d{10})$"
   },
   "phone_code": "98",
+  "divisions": [
+    "province",
+    "county",
+    "district",
+    "rural district/city"
+  ],
   "neighbours": {
     "NE": [
       "AF",

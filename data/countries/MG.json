@@ -30,5 +30,10 @@
     "AU",
     "UN"
   ],
-  "phone_code": "261"
+  "phone_code": "261",
+  "divisions": [
+    "region",
+    "district",
+    "commune"
+  ]
 }

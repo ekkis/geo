@@ -32,6 +32,9 @@
     "UN"
   ],
   "phone_code": "376",
+  "divisions": [
+    "parish"
+  ],
   "neighbours": {
     "NE": [
       "FR"

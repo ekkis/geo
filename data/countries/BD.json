@@ -33,6 +33,11 @@
     "UN"
   ],
   "phone_code": "880",
+  "divisions": [
+    "division",
+    "district",
+    "upazila"
+  ],
   "neighbours": {
     "SE": [
       "MM"

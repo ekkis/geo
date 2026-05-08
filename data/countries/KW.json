@@ -32,6 +32,9 @@
     "UN"
   ],
   "phone_code": "965",
+  "divisions": [
+    "governorate"
+  ],
   "neighbours": {
     "NW": [
       "IQ"

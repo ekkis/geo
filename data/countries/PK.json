@@ -33,6 +33,10 @@
     "UN"
   ],
   "phone_code": "92",
+  "divisions": [
+    "province/federal territory/capital territory",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "CN"

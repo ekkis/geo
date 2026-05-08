@@ -30,5 +30,11 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "94"
+  "phone_code": "94",
+  "divisions": [
+    "province",
+    "district",
+    "divisional secretariat",
+    "grama niladhari division"
+  ]
 }

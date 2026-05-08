@@ -31,6 +31,11 @@
     "UN"
   ],
   "phone_code": "213",
+  "divisions": [
+    "province",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "TN"

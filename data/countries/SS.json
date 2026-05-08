@@ -26,6 +26,10 @@
     "UN"
   ],
   "phone_code": "211",
+  "divisions": [
+    "state",
+    "county"
+  ],
   "neighbours": {
     "NE": [
       "ET"

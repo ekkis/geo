@@ -27,6 +27,11 @@
     "UN"
   ],
   "phone_code": "223",
+  "divisions": [
+    "region",
+    "cercle",
+    "arrondissement"
+  ],
   "neighbours": {
     "NE": [
       "DZ"

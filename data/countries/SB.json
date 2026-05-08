@@ -25,5 +25,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "677"
+  "phone_code": "677",
+  "divisions": [
+    "province",
+    "district",
+    "ward"
+  ]
 }

@@ -32,6 +32,9 @@
     "UN"
   ],
   "phone_code": "377",
+  "divisions": [
+    "ward"
+  ],
   "neighbours": {
     "NW": [
       "FR"

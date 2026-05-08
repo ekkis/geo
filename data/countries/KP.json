@@ -27,6 +27,10 @@
     "regex": "^(\\d{6})$"
   },
   "phone_code": "850",
+  "divisions": [
+    "province/city",
+    "county"
+  ],
   "neighbours": {
     "NW": [
       "RU"
