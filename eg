@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-var geo = require('./index')
+import { country } from './index.js'
+console.log(country.findByCode('ZW'))

@@ -4,22 +4,22 @@
   "description": "Country list with ISO2, ISO3 code, continent, capital, dialing code",
   "homepage": "https://github.com/i-rocky/geo.git",
   "author": {
-    "name": "Rocky",
-    "url": "https://github.com/users/i-rocky",
-    "email": "wpkpda@gmail.com"
+    "name": "Erick Calder",
+    "url": "https://github.com/users/ekkis",
+    "email": "ett+github@ekkis.id"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i-rocky/geo.git"
+    "url": "git+https://github.com/ekkis/geo.git"
   },
   "bugs": {
-    "url": "https://github.com/i-rocky/geo/issues"
+    "url": "https://github.com/ekkis/geo/issues"
   },
   "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/i-rocky/geo/blob/master/LICENSE"
+      "url": "https://github.com/ekkis/geo/blob/master/LICENSE"
     }
   ],
   "main": "index.js",

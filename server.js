@@ -1,12 +1,25 @@
-import { createServer } from 'remote-lib';
+const { parse } = require('url');
+const country = require('./index');
 
-(async () => {
-  await createServer({
-    library: '.',
-    port: 3000,
-    name: 'Country List API',
-    description: 'ISO codes, capitals, currencies, dialing codes'
-  }).start();
+function argumentFor(query) {
+    return query.code || query.name || query.capital || query.currency || query.phone || query.province;
+}
 
-  console.log('Country API service running on port 3000');
-})();
+module.exports = async function handler(req) {
+    const { query } = parse(req.url, true);
+    const method = query.method;
+
+    if (!method || typeof country[method] !== 'function') {
+        return { error: 'Unknown method' };
+    }
+
+    if (method === 'findByPhoneNbr') {
+        return country[method](query.phone || query.code);
+    }
+
+    if (argumentFor(query)) {
+        return country[method](argumentFor(query));
+    }
+
+    return country[method]();
+};
