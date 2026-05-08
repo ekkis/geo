@@ -5,10 +5,7 @@
     "is": "Ísland"
   },
   "regions": [
-    "SCAN",
-    "NOR",
-    "NOR",
-    "Europe"
+    "NOR"
   ],
   "capital": {
     "en": "Reykjavik",

@@ -5,11 +5,7 @@
     "sv": "Sverige"
   },
   "regions": [
-    "WEU",
-    "SCAN",
-    "NOR",
-    "NOR",
-    "Europe"
+    "NOR"
   ],
   "capital": {
     "en": "Stockholm",

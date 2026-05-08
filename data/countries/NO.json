@@ -4,11 +4,7 @@
     "official": "Kingdom of Norway"
   },
   "regions": [
-    "WEU",
-    "SCAN",
-    "NOR",
-    "NOR",
-    "Europe"
+    "NOR"
   ],
   "capital": {
     "en": "Oslo"

@@ -5,9 +5,7 @@
     "az": "Azərbaycan"
   },
   "regions": [
-    "WAS",
-    "CAUC",
-    "Asia"
+    "CAUC"
   ],
   "capital": {
     "en": "Baku",

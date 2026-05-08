@@ -4,11 +4,7 @@
     "official": "Kingdom of Denmark"
   },
   "regions": [
-    "SCAN",
-    "NOR",
-    "WEU",
-    "NOR",
-    "Europe"
+    "NOR"
   ],
   "capital": {
     "en": "Copenhagen",

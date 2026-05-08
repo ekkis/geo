@@ -5,10 +5,8 @@
     "tr": "Türkiye"
   },
   "regions": [
-    "WAS",
-    "ME",
-    "EURS",
-    "Asia"
+    "BKS",
+    "SE"
   ],
   "capital": {
     "en": "Ankara",
