@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Spain",
-    "official": "Kingdom of Spain"
+    "official": "Kingdom of Spain",
+    "es": "España"
   },
   "regions": [
-    "SE"
+    "CEU"
   ],
-  "capital": "Madrid",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Madrid",
+    "es": "Madrid"
+  },
   "iso3": "ESP",
-  "language_code": [
-    "es"
-  ],
-  "continent_code": "EU",
   "tld": ".es",
   "timezones": [
     "UTC",
@@ -21,10 +20,14 @@
   "area": 505992,
   "population": 49315949,
   "flag": "🇪🇸",
-  "region_common": "Europe",
-  "demonym": "Spanish",
-  "gdp": 1580694712515.714,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Spanish",
+    "es": "Spanish"
+  },
+  "gdp": {
+    "value": 1580694712515.714,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -53,5 +56,12 @@
       "PT",
       "GI"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

@@ -20,16 +20,18 @@ function loadJsonDirectory(name) {
 }
 
 function loadLanguages() {
-    return readJson(path.join(__dirname, 'data', 'language.json'))
-        .reduce((languages, language) => {
-            if (language.code) languages[language.code] = language;
-            return languages;
-        }, {});
+    const languages = readJson(path.join(__dirname, 'data', 'language.json'));
+    if (!Array.isArray(languages)) return languages;
+
+    return languages.reduce((indexed, language) => {
+        if (language.code) indexed[language.code] = language;
+        return indexed;
+    }, {});
 }
 
 module.exports = {
-    countries: loadJsonDirectory('countries'),
-    countryRegions: loadJsonDirectory('regions'),
+    countries: loadJsonDirectory('country'),
+    countryRegions: loadJsonDirectory('region'),
     continents: readJson(path.join(__dirname, 'data', 'continent.json')),
     currencies: readJson(path.join(__dirname, 'data', 'currency.json')),
     languages: loadLanguages(),

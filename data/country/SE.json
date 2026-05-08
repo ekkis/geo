@@ -1,21 +1,17 @@
 {
   "name": {
     "common": "Sweden",
-    "official": "Kingdom of Sweden"
+    "official": "Kingdom of Sweden",
+    "sv": "Sverige"
   },
   "regions": [
-    "WEU",
-    "SCAN",
-    "NOR",
     "NOR"
   ],
-  "capital": "Stockholm",
-  "currency_code": "SEK",
+  "capital": {
+    "en": "Stockholm",
+    "sv": "Stockholm"
+  },
   "iso3": "SWE",
-  "language_code": [
-    "sv"
-  ],
-  "continent_code": "EU",
   "tld": ".se",
   "timezones": [
     "UTC+01:00"
@@ -23,10 +19,14 @@
   "area": 450295,
   "population": 10605098,
   "flag": "🇸🇪",
-  "region_common": "Europe",
-  "demonym": "Swedish",
-  "gdp": 593267701033.4082,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Swedish",
+    "sv": "svenska"
+  },
+  "gdp": {
+    "value": 593267701033.4082,
+    "year": 2023
+  },
   "postal_code": {
     "format": "SE-### ##",
     "regex": "^(?:SE)*(\\d{5})$"
@@ -51,5 +51,12 @@
     "W": [
       "NO"
     ]
-  }
+  },
+  "lang": [
+    "sv"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "SEK"
+  ]
 }

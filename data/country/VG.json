@@ -3,14 +3,14 @@
     "common": "British Virgin Islands",
     "official": "Virgin Islands"
   },
-  "regions": [],
-  "capital": "Road Town",
-  "currency_code": "USD",
-  "iso3": "VGB",
-  "language_code": [
-    "vgb"
+  "regions": [
+    "CAR"
   ],
-  "continent_code": "NA",
+  "capital": {
+    "en": "Road Town",
+    "vgb": "Road Town"
+  },
+  "iso3": "VGB",
   "tld": ".vg",
   "timezones": [
     "UTC-04:00"
@@ -18,7 +18,15 @@
   "area": 151,
   "population": 39471,
   "flag": "🇻🇬",
-  "region_common": "Americas",
-  "demonym": "Virgin Islander",
-  "phone_code": "+1-284"
+  "demonym": {
+    "en": "Virgin Islander"
+  },
+  "phone_code": "+1-284",
+  "lang": [
+    "vgb"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "USD"
+  ]
 }

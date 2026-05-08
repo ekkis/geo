@@ -3,13 +3,11 @@
     "common": "Niue",
     "official": "Niue"
   },
-  "capital": "Alofi",
-  "currency_code": "NZD",
+  "capital": {
+    "en": "Alofi",
+    "niu": "Alofi"
+  },
   "iso3": "NIU",
-  "language_code": [
-    "niu"
-  ],
-  "continent_code": "OC",
   "tld": ".nu",
   "timezones": [
     "UTC-11:00"
@@ -17,7 +15,18 @@
   "area": 260,
   "population": 1681,
   "flag": "🇳🇺",
-  "region_common": "Oceania",
-  "demonym": "Niuean",
-  "phone_code": "683"
+  "demonym": {
+    "en": "Niuean"
+  },
+  "phone_code": "683",
+  "lang": [
+    "niu"
+  ],
+  "regions": [
+    "OC"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
+  ]
 }

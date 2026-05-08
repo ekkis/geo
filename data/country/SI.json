@@ -4,15 +4,13 @@
     "official": "Republic of Slovenia"
   },
   "regions": [
-    "BKS"
+    "CEU"
   ],
-  "capital": "Ljubljana",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Ljubljana",
+    "svn": "Ljubljana"
+  },
   "iso3": "SVN",
-  "language_code": [
-    "svn"
-  ],
-  "continent_code": "EU",
   "tld": ".si",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +18,13 @@
   "area": 20273,
   "population": 2130638,
   "flag": "🇸🇮",
-  "region_common": "Europe",
-  "demonym": "Slovene",
-  "gdp": 68216781410.52277,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Slovene"
+  },
+  "gdp": {
+    "value": 68216781410.52277,
+    "year": 2023
+  },
   "postal_code": {
     "format": "SI- ####",
     "regex": "^(?:SI)*(\\d{4})$"
@@ -54,5 +55,12 @@
     "SW": [
       "IT"
     ]
-  }
+  },
+  "lang": [
+    "svn"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

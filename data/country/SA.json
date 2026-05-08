@@ -1,17 +1,18 @@
 {
   "name": {
     "common": "Saudi Arabia",
-    "official": "Kingdom of Saudi Arabia"
+    "official": "Kingdom of Saudi Arabia",
+    "ar": "المملكة العربية السعودية"
   },
-  "regions": [],
-  "capital": "Riyadh",
-  "currency_code": "SAR",
-  "iso3": "SAU",
-  "language_code": [
-    "ar",
-    "nt"
+  "regions": [
+    "WAS"
   ],
-  "continent_code": "AS",
+  "capital": {
+    "en": "Riyadh",
+    "ar": "الرياض",
+    "nt": "Riyadh"
+  },
+  "iso3": "SAU",
   "tld": ".sa",
   "timezones": [
     "UTC+03:00"
@@ -19,10 +20,14 @@
   "area": 2149690,
   "population": 35300280,
   "flag": "🇸🇦",
-  "region_common": "Asia",
-  "demonym": "Saudi Arabian",
-  "gdp": 1067582933333.3334,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Saudi Arabian",
+    "ar": "السعودية"
+  },
+  "gdp": {
+    "value": 1067582933333.3334,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -48,5 +53,13 @@
       "AE",
       "YE"
     ]
-  }
+  },
+  "lang": [
+    "ar",
+    "nt"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "SAR"
+  ]
 }

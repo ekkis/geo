@@ -4,15 +4,13 @@
     "official": "Romania"
   },
   "regions": [
-    "CEU"
+    "BKS"
   ],
-  "capital": "Bucharest",
-  "currency_code": "RON",
+  "capital": {
+    "en": "Bucharest",
+    "rou": "Bucharest"
+  },
   "iso3": "ROU",
-  "language_code": [
-    "rou"
-  ],
-  "continent_code": "EU",
   "tld": ".ro",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +18,13 @@
   "area": 238391,
   "population": 19036031,
   "flag": "🇷🇴",
-  "region_common": "Europe",
-  "demonym": "Romanian",
-  "gdp": 351002579629.6701,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Romanian"
+  },
+  "gdp": {
+    "value": 351002579629.6701,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -55,5 +56,12 @@
     "S": [
       "BG"
     ]
-  }
+  },
+  "lang": [
+    "rou"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "RON"
+  ]
 }

@@ -1,16 +1,17 @@
 {
   "name": {
     "common": "Iran",
-    "official": "Islamic Republic of Iran"
+    "official": "Islamic Republic of Iran",
+    "fa": "ایران"
   },
-  "regions": [],
-  "capital": "Tehran",
-  "currency_code": "IRR",
-  "iso3": "IRN",
-  "language_code": [
-    "fa"
+  "regions": [
+    "SAS"
   ],
-  "continent_code": "AS",
+  "capital": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
+  "iso3": "IRN",
   "tld": ".ir",
   "timezones": [
     "UTC+03:30"
@@ -18,10 +19,14 @@
   "area": 1648195,
   "population": 85961000,
   "flag": "🇮🇷",
-  "region_common": "Asia",
-  "demonym": "Iranian",
-  "gdp": 401504514718.7182,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Iranian",
+    "fa": "ایرانی"
+  },
+  "gdp": {
+    "value": 401504514718.7182,
+    "year": 2023
+  },
   "postal_code": {
     "format": "##########",
     "regex": "^(\\d{10})$"
@@ -50,5 +55,12 @@
     "E": [
       "AF"
     ]
-  }
+  },
+  "lang": [
+    "fa"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "IRR"
+  ]
 }

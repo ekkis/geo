@@ -3,13 +3,11 @@
     "common": "Burundi",
     "official": "Republic of Burundi"
   },
-  "capital": "Bujumbura",
-  "currency_code": "BIF",
+  "capital": {
+    "en": "Bujumbura",
+    "bdi": "Bujumbura"
+  },
   "iso3": "BDI",
-  "language_code": [
-    "bdi"
-  ],
-  "continent_code": "AF",
   "tld": ".bi",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 27834,
   "population": 12332788,
   "flag": "🇧🇮",
-  "region_common": "Africa",
-  "demonym": "Burundian",
-  "gdp": 2642161668.9275384,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Burundian"
+  },
+  "gdp": {
+    "value": 2642161668.9275384,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -41,5 +42,15 @@
     "N": [
       "RW"
     ]
-  }
+  },
+  "lang": [
+    "bdi"
+  ],
+  "regions": [
+    "EAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "BIF"
+  ]
 }

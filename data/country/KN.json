@@ -6,13 +6,11 @@
   "regions": [
     "CAR"
   ],
-  "capital": "Basseterre",
-  "currency_code": "XCD",
+  "capital": {
+    "en": "Basseterre",
+    "kna": "Basseterre"
+  },
   "iso3": "KNA",
-  "language_code": [
-    "kna"
-  ],
-  "continent_code": "NA",
   "tld": ".kn",
   "timezones": [
     "UTC-04:00"
@@ -20,10 +18,13 @@
   "area": 261,
   "population": 51320,
   "flag": "🇰🇳",
-  "region_common": "Americas",
-  "demonym": "Kittitian or Nevisian",
-  "gdp": 1077033111.111111,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Kittitian or Nevisian"
+  },
+  "gdp": {
+    "value": 1077033111.111111,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -32,5 +33,12 @@
   "phone_code": "+1-869",
   "divisions": [
     "parish"
+  ],
+  "lang": [
+    "kna"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

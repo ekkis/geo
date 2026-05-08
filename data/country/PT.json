@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Portugal",
-    "official": "Portuguese Republic"
+    "official": "Portuguese Republic",
+    "pt": "Portugal"
   },
   "regions": [
-    "SE"
+    "CEU"
   ],
-  "capital": "Lisbon",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Lisbon",
+    "pt": "Lisboa"
+  },
   "iso3": "PRT",
-  "language_code": [
-    "pt"
-  ],
-  "continent_code": "EU",
   "tld": ".pt",
   "timezones": [
     "UTC-01:00",
@@ -21,10 +20,14 @@
   "area": 92090,
   "population": 10749635,
   "flag": "🇵🇹",
-  "region_common": "Europe",
-  "demonym": "Portuguese",
-  "gdp": 287080013574.4972,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Portuguese",
+    "pt": "Português"
+  },
+  "gdp": {
+    "value": 287080013574.4972,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####-###",
     "regex": "^(\\d{7})$"
@@ -47,5 +50,12 @@
     "NE": [
       "ES"
     ]
-  }
+  },
+  "lang": [
+    "pt"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

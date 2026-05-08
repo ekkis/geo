@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Uzbekistan",
-    "official": "Republic of Uzbekistan"
+    "official": "Republic of Uzbekistan",
+    "uz": "O'zbekiston"
   },
   "regions": [
     "CAS"
   ],
-  "capital": "Tashkent",
-  "currency_code": "UZS",
+  "capital": {
+    "en": "Tashkent",
+    "uz": "Toshkent"
+  },
   "iso3": "UZB",
-  "language_code": [
-    "uz"
-  ],
-  "continent_code": "AS",
   "tld": ".uz",
   "timezones": [
     "UTC+05:00"
@@ -20,10 +19,14 @@
   "area": 447400,
   "population": 37859698,
   "flag": "🇺🇿",
-  "region_common": "Asia",
-  "demonym": "Uzbekistani",
-  "gdp": 90889149306.73126,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Uzbekistani",
+    "uz": "O'zbekistonlik"
+  },
+  "gdp": {
+    "value": 90889149306.73126,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -50,5 +53,12 @@
     "E": [
       "KG"
     ]
-  }
+  },
+  "lang": [
+    "uz"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "UZS"
+  ]
 }

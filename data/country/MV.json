@@ -6,13 +6,11 @@
   "regions": [
     "SAS"
   ],
-  "capital": "Male",
-  "currency_code": "MVR",
+  "capital": {
+    "en": "Male",
+    "mdv": "Male"
+  },
   "iso3": "MDV",
-  "language_code": [
-    "mdv"
-  ],
-  "continent_code": "AS",
   "tld": ".mv",
   "timezones": [
     "UTC+05:00"
@@ -20,10 +18,13 @@
   "area": 300,
   "population": 515132,
   "flag": "🇲🇻",
-  "region_common": "Asia",
-  "demonym": "Maldivan",
-  "gdp": 6600000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Maldivan"
+  },
+  "gdp": {
+    "value": 6600000000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -36,5 +37,12 @@
   "divisions": [
     "atoll",
     "island"
+  ],
+  "lang": [
+    "mdv"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "MVR"
   ]
 }

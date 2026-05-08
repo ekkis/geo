@@ -1,19 +1,17 @@
 {
   "name": {
     "common": "Thailand",
-    "official": "Kingdom of Thailand"
+    "official": "Kingdom of Thailand",
+    "th": "ประเทศไทย"
   },
   "regions": [
-    "SEA",
-    "INDO"
+    "SEA"
   ],
-  "capital": "Bangkok",
-  "currency_code": "THB",
+  "capital": {
+    "en": "Bangkok",
+    "th": "กรุงเทพฯ"
+  },
   "iso3": "THA",
-  "language_code": [
-    "th"
-  ],
-  "continent_code": "AS",
   "tld": ".th",
   "timezones": [
     "UTC+07:00"
@@ -21,10 +19,14 @@
   "area": 513120,
   "population": 65859640,
   "flag": "🇹🇭",
-  "region_common": "Asia",
-  "demonym": "Thai",
-  "gdp": 514944993833.5776,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Thai",
+    "th": "แบบไทย"
+  },
+  "gdp": {
+    "value": 514944993833.5776,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -53,5 +55,12 @@
       "KH",
       "MY"
     ]
-  }
+  },
+  "lang": [
+    "th"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "THB"
+  ]
 }

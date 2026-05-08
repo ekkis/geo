@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Japan",
-    "official": "Japan"
+    "official": "Japan",
+    "ja": "日本"
   },
   "regions": [
     "EAS"
   ],
-  "capital": "Tokyo",
-  "currency_code": "JPY",
+  "capital": {
+    "en": "Tokyo",
+    "ja": "東京"
+  },
   "iso3": "JPN",
-  "language_code": [
-    "ja"
-  ],
-  "continent_code": "AS",
   "tld": ".jp",
   "timezones": [
     "UTC+09:00"
@@ -20,10 +19,14 @@
   "area": 377930,
   "population": 123210000,
   "flag": "🇯🇵",
-  "region_common": "Asia",
-  "demonym": "Japanese",
-  "gdp": 4212945159781.403,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Japanese",
+    "ja": "日本語"
+  },
+  "gdp": {
+    "value": 4212945159781.403,
+    "year": 2023
+  },
   "postal_code": {
     "format": "###-####",
     "regex": "^(\\d{7})$"
@@ -40,5 +43,12 @@
     "prefecture",
     "city",
     "ward, town, village"
+  ],
+  "lang": [
+    "ja"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "JPY"
   ]
 }

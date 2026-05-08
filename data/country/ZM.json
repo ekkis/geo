@@ -3,13 +3,11 @@
     "common": "Zambia",
     "official": "Republic of Zambia"
   },
-  "capital": "Lusaka",
-  "currency_code": "ZMK",
+  "capital": {
+    "en": "Lusaka",
+    "zmb": "Lusaka"
+  },
   "iso3": "ZMB",
-  "language_code": [
-    "zmb"
-  ],
-  "continent_code": "AF",
   "tld": ".zm",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 752612,
   "population": 19693423,
   "flag": "🇿🇲",
-  "region_common": "Africa",
-  "demonym": "Zambian",
-  "gdp": 28162630953.9285,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Zambian"
+  },
+  "gdp": {
+    "value": 28162630953.9285,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -54,5 +55,15 @@
     "S": [
       "ZW"
     ]
-  }
+  },
+  "lang": [
+    "zmb"
+  ],
+  "regions": [
+    "EAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "ZMK"
+  ]
 }

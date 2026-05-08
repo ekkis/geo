@@ -4,16 +4,13 @@
     "official": "Åland Islands"
   },
   "regions": [
-    "SCAN",
     "NOR"
   ],
-  "capital": "Mariehamn",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Mariehamn",
+    "ala": "Mariehamn"
+  },
   "iso3": "ALA",
-  "language_code": [
-    "ala"
-  ],
-  "continent_code": "EU",
   "tld": ".ax",
   "timezones": [
     "UTC+02:00"
@@ -21,7 +18,15 @@
   "area": 1580,
   "population": 30654,
   "flag": "🇦🇽",
-  "region_common": "Europe",
-  "demonym": "Ålandish",
-  "phone_code": "+358-18"
+  "demonym": {
+    "en": "Ålandish"
+  },
+  "phone_code": "+358-18",
+  "lang": [
+    "ala"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

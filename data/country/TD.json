@@ -3,13 +3,11 @@
     "common": "Chad",
     "official": "Republic of Chad"
   },
-  "capital": "N'Djamena",
-  "currency_code": "XAF",
+  "capital": {
+    "en": "N'Djamena",
+    "tcd": "N'Djamena"
+  },
   "iso3": "TCD",
-  "language_code": [
-    "tcd"
-  ],
-  "continent_code": "AF",
   "tld": ".td",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +15,13 @@
   "area": 1284000,
   "population": 19340757,
   "flag": "🇹🇩",
-  "region_common": "Africa",
-  "demonym": "Chadian",
-  "gdp": 13149325358.73826,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Chadian"
+  },
+  "gdp": {
+    "value": 13149325358.73826,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -47,5 +48,13 @@
     "E": [
       "SD"
     ]
-  }
+  },
+  "lang": [
+    "tcd"
+  ],
+  "regions": [],
+  "continent": "AF",
+  "currencies": [
+    "XAF"
+  ]
 }

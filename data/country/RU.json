@@ -1,20 +1,20 @@
 {
   "name": {
     "common": "Russia",
-    "official": "Russian Federation"
+    "official": "Russian Federation",
+    "ru": "Россия",
+    "su": "Rusia"
   },
   "regions": [
-    "EE",
-    "EURS"
+    "EEU",
+    "WEU"
   ],
-  "capital": "Moscow",
-  "currency_code": "RUB",
+  "capital": {
+    "en": "Moscow",
+    "ru": "Москва",
+    "su": "Moskow"
+  },
   "iso3": "RUS",
-  "language_code": [
-    "ru",
-    "su"
-  ],
-  "continent_code": "EU",
   "tld": ".ru",
   "timezones": [
     "UTC+03:00",
@@ -30,10 +30,15 @@
   "area": 17098246,
   "population": 146028325,
   "flag": "🇷🇺",
-  "region_common": "Europe",
-  "demonym": "Russian",
-  "gdp": 2021421476035.417,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Russian",
+    "ru": "Русский",
+    "su": "Rusia"
+  },
+  "gdp": {
+    "value": 2021421476035.417,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -70,5 +75,13 @@
       "PL",
       "UA"
     ]
-  }
+  },
+  "lang": [
+    "ru",
+    "su"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "RUB"
+  ]
 }

@@ -3,14 +3,14 @@
     "common": "Dominica",
     "official": "Commonwealth of Dominica"
   },
-  "regions": [],
-  "capital": "Roseau",
-  "currency_code": "XCD",
-  "iso3": "DMA",
-  "language_code": [
-    "dma"
+  "regions": [
+    "CAR"
   ],
-  "continent_code": "NA",
+  "capital": {
+    "en": "Roseau",
+    "dma": "Roseau"
+  },
+  "iso3": "DMA",
   "tld": ".dm",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 751,
   "population": 67408,
   "flag": "🇩🇲",
-  "region_common": "Americas",
-  "demonym": "Dominican",
-  "gdp": 653992592.5925926,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Dominican"
+  },
+  "gdp": {
+    "value": 653992592.5925926,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -30,5 +33,12 @@
   "phone_code": "+1-767",
   "divisions": [
     "parish"
+  ],
+  "lang": [
+    "dma"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

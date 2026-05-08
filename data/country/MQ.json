@@ -4,15 +4,13 @@
     "official": "Martinique"
   },
   "regions": [
-    "LATAM"
+    "CAR"
   ],
-  "capital": "Fort-de-France",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Fort-de-France",
+    "mtq": "Fort-de-France"
+  },
   "iso3": "MTQ",
-  "language_code": [
-    "mtq"
-  ],
-  "continent_code": "NA",
   "tld": ".mq",
   "timezones": [
     "UTC-04:00"
@@ -20,11 +18,19 @@
   "area": 1128,
   "population": 349925,
   "flag": "🇲🇶",
-  "region_common": "Americas",
-  "demonym": "Martinican",
+  "demonym": {
+    "en": "Martinican"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "phone_code": "596"
+  "phone_code": "596",
+  "lang": [
+    "mtq"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "EUR"
+  ]
 }

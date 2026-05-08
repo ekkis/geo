@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Chile",
-    "official": "Republic of Chile"
+    "official": "Republic of Chile",
+    "es": "Chile"
   },
-  "capital": "Santiago",
-  "currency_code": "CLP",
+  "capital": {
+    "en": "Santiago",
+    "es": "santiago"
+  },
   "iso3": "CHL",
-  "language_code": [
-    "es"
-  ],
-  "continent_code": "SA",
   "tld": ".cl",
   "timezones": [
     "UTC-06:00",
@@ -18,10 +17,14 @@
   "area": 756102,
   "population": 20206953,
   "flag": "🇨🇱",
-  "region_common": "Americas",
-  "demonym": "Chilean",
-  "gdp": 335533331669.2191,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Chilean",
+    "es": "Chilean"
+  },
+  "gdp": {
+    "value": 335533331669.2191,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#######",
     "regex": "^(\\d{7})$"
@@ -49,5 +52,15 @@
     "SE": [
       "AR"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "CLP"
+  ]
 }

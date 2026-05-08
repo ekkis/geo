@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Syria",
-    "official": "Syrian Arab Republic"
+    "official": "Syrian Arab Republic",
+    "ar": "سوريا"
   },
   "regions": [
-    "LEV"
+    "WAS"
   ],
-  "capital": "Damascus",
-  "currency_code": "SYP",
+  "capital": {
+    "en": "Damascus",
+    "ar": "دمشق"
+  },
   "iso3": "SYR",
-  "language_code": [
-    "ar"
-  ],
-  "continent_code": "AS",
   "tld": ".sy",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +19,14 @@
   "area": 185180,
   "population": 25620000,
   "flag": "🇸🇾",
-  "region_common": "Asia",
-  "demonym": "Syrian",
-  "gdp": 8980060818.721447,
-  "gdp_year": 2021,
+  "demonym": {
+    "en": "Syrian",
+    "ar": "سوري"
+  },
+  "gdp": {
+    "value": 8980060818.721447,
+    "year": 2021
+  },
   "phone_code": "963",
   "divisions": [
     "governorate",
@@ -42,5 +45,12 @@
       "JO",
       "LB"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "SYP"
+  ]
 }

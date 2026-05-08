@@ -3,13 +3,11 @@
     "common": "Nauru",
     "official": "Republic of Nauru"
   },
-  "capital": "Yaren",
-  "currency_code": "AUD",
+  "capital": {
+    "en": "Yaren",
+    "nru": "Yaren"
+  },
   "iso3": "NRU",
-  "language_code": [
-    "nru"
-  ],
-  "continent_code": "OC",
   "tld": ".nr",
   "timezones": [
     "UTC+12:00"
@@ -17,15 +15,28 @@
   "area": 21,
   "population": 11680,
   "flag": "🇳🇷",
-  "region_common": "Oceania",
-  "demonym": "Nauruan",
-  "gdp": 154127798.19354144,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Nauruan"
+  },
+  "gdp": {
+    "value": 154127798.19354144,
+    "year": 2023
+  },
   "organisations": [
     "UN"
   ],
   "phone_code": "674",
   "divisions": [
     "district"
+  ],
+  "lang": [
+    "nru"
+  ],
+  "regions": [
+    "OC"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "AUD"
   ]
 }

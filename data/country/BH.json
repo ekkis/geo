@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Bahrain",
-    "official": "Kingdom of Bahrain"
+    "official": "Kingdom of Bahrain",
+    "ar": "البحرين"
   },
   "regions": [
     "WAS"
   ],
-  "capital": "Manama",
-  "currency_code": "BHD",
+  "capital": {
+    "en": "Manama",
+    "ar": "المنامة"
+  },
   "iso3": "BHR",
-  "language_code": [
-    "ar"
-  ],
-  "continent_code": "AS",
   "tld": ".bh",
   "timezones": [
     "UTC+03:00"
@@ -20,10 +19,14 @@
   "area": 765,
   "population": 1594654,
   "flag": "🇧🇭",
-  "region_common": "Asia",
-  "demonym": "Bahraini",
-  "gdp": 43205000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Bahraini",
+    "ar": "بحريني"
+  },
+  "gdp": {
+    "value": 43205000000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####|###",
     "regex": "^(\\d{3}\\d?)$"
@@ -35,5 +38,12 @@
   "phone_code": "973",
   "divisions": [
     "governorate"
+  ],
+  "lang": [
+    "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "BHD"
   ]
 }

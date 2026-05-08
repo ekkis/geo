@@ -4,15 +4,13 @@
     "official": "Republic of Latvia"
   },
   "regions": [
-    "BALT"
+    "BAL"
   ],
-  "capital": "Riga",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Riga",
+    "lva": "Riga"
+  },
   "iso3": "LVA",
-  "language_code": [
-    "lva"
-  ],
-  "continent_code": "EU",
   "tld": ".lv",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +18,13 @@
   "area": 64559,
   "population": 1829000,
   "flag": "🇱🇻",
-  "region_common": "Europe",
-  "demonym": "Latvian",
-  "gdp": 43627078481.28705,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Latvian"
+  },
+  "gdp": {
+    "value": 43627078481.28705,
+    "year": 2023
+  },
   "postal_code": {
     "format": "LV-####",
     "regex": "^(?:LV)*(\\d{4})$"
@@ -52,5 +53,12 @@
     "SW": [
       "LT"
     ]
-  }
+  },
+  "lang": [
+    "lva"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

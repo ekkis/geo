@@ -1,20 +1,17 @@
 {
   "name": {
     "common": "Jordan",
-    "official": "Hashemite Kingdom of Jordan"
+    "official": "Hashemite Kingdom of Jordan",
+    "ar": "الأردن"
   },
   "regions": [
-    "WAS",
-    "ME",
-    "LEV"
+    "WAS"
   ],
-  "capital": "Amman",
-  "currency_code": "JOD",
+  "capital": {
+    "en": "Amman",
+    "ar": "عمان"
+  },
   "iso3": "JOR",
-  "language_code": [
-    "ar"
-  ],
-  "continent_code": "AS",
   "tld": ".jo",
   "timezones": [
     "UTC+03:00"
@@ -22,10 +19,14 @@
   "area": 89342,
   "population": 11734000,
   "flag": "🇯🇴",
-  "region_common": "Asia",
-  "demonym": "Jordanian",
-  "gdp": 50813642348.674644,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Jordanian",
+    "ar": "أردني"
+  },
+  "gdp": {
+    "value": 50813642348.674644,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -51,5 +52,12 @@
     "SE": [
       "SA"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "JOD"
+  ]
 }

@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Peru",
-    "official": "Republic of Peru"
+    "official": "Republic of Peru",
+    "es": "Perú"
   },
-  "capital": "Lima",
-  "currency_code": "PEN",
+  "capital": {
+    "en": "Lima",
+    "es": "Lima"
+  },
   "iso3": "PER",
-  "language_code": [
-    "es"
-  ],
-  "continent_code": "SA",
   "tld": ".pe",
   "timezones": [
     "UTC-05:00"
@@ -17,10 +16,14 @@
   "area": 1285216,
   "population": 34350244,
   "flag": "🇵🇪",
-  "region_common": "Americas",
-  "demonym": "Peruvian",
-  "gdp": 267603248655.2527,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Peruvian",
+    "es": "Peruvian"
+  },
+  "gdp": {
+    "value": 267603248655.2527,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -50,5 +53,15 @@
     "E": [
       "BR"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "PEN"
+  ]
 }

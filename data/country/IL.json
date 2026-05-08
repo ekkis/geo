@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Israel",
-    "official": "State of Israel"
+    "official": "State of Israel",
+    "he": "יִשְׂרָאֵל"
   },
   "regions": [
-    "LEV"
+    "WAS"
   ],
-  "capital": "Jerusalem",
-  "currency_code": "ILS",
+  "capital": {
+    "en": "Jerusalem",
+    "he": "יְרוּשָׁלַיִם"
+  },
   "iso3": "ISR",
-  "language_code": [
-    "he"
-  ],
-  "continent_code": "AS",
   "tld": ".il",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +19,14 @@
   "area": 21937,
   "population": 10134800,
   "flag": "🇮🇱",
-  "region_common": "Asia",
-  "demonym": "Israeli",
-  "gdp": 509901495702.1033,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Israeli",
+    "he": "יִשׂרְאֵלִי"
+  },
+  "gdp": {
+    "value": 509901495702.1033,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -52,5 +55,12 @@
     "SW": [
       "EG"
     ]
-  }
+  },
+  "lang": [
+    "he"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "ILS"
+  ]
 }

@@ -3,13 +3,11 @@
     "common": "Botswana",
     "official": "Republic of Botswana"
   },
-  "capital": "Gaborone",
-  "currency_code": "BWP",
+  "capital": {
+    "en": "Gaborone",
+    "bwa": "Gaborone"
+  },
   "iso3": "BWA",
-  "language_code": [
-    "bwa"
-  ],
-  "continent_code": "AF",
   "tld": ".bw",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 582000,
   "population": 2359609,
   "flag": "🇧🇼",
-  "region_common": "Africa",
-  "demonym": "Motswana",
-  "gdp": 19395765126.312748,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Motswana"
+  },
+  "gdp": {
+    "value": 19395765126.312748,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -42,5 +43,15 @@
     "W": [
       "NA"
     ]
-  }
+  },
+  "lang": [
+    "bwa"
+  ],
+  "regions": [
+    "SAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "BWP"
+  ]
 }

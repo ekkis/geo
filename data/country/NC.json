@@ -3,13 +3,11 @@
     "common": "New Caledonia",
     "official": "New Caledonia"
   },
-  "capital": "Noumea",
-  "currency_code": "XPF",
+  "capital": {
+    "en": "Noumea",
+    "ncl": "Noumea"
+  },
   "iso3": "NCL",
-  "language_code": [
-    "ncl"
-  ],
-  "continent_code": "OC",
   "tld": ".nc",
   "timezones": [
     "UTC+11:00"
@@ -17,13 +15,26 @@
   "area": 18575,
   "population": 264596,
   "flag": "🇳🇨",
-  "region_common": "Oceania",
-  "demonym": "New Caledonian",
-  "gdp": 9623318718.314594,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "New Caledonian"
+  },
+  "gdp": {
+    "value": 9623318718.314594,
+    "year": 2022
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "phone_code": "687"
+  "phone_code": "687",
+  "lang": [
+    "ncl"
+  ],
+  "regions": [
+    "MEL"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "XPF"
+  ]
 }

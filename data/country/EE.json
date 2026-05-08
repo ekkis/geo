@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Estonia",
-    "official": "Republic of Estonia"
+    "official": "Republic of Estonia",
+    "et": "Eesti"
   },
   "regions": [
-    "BALT"
+    "BAL"
   ],
-  "capital": "Tallinn",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Tallinn",
+    "et": "Tallinn"
+  },
   "iso3": "EST",
-  "language_code": [
-    "et"
-  ],
-  "continent_code": "EU",
   "tld": ".ee",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +19,14 @@
   "area": 45227,
   "population": 1369995,
   "flag": "🇪🇪",
-  "region_common": "Europe",
-  "demonym": "Estonian",
-  "gdp": 40744848827.95366,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Estonian",
+    "et": "eesti keel"
+  },
+  "gdp": {
+    "value": 40744848827.95366,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -48,5 +51,12 @@
     "SW": [
       "LV"
     ]
-  }
+  },
+  "lang": [
+    "et"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

@@ -3,13 +3,11 @@
     "common": "French Guiana",
     "official": "Guiana"
   },
-  "capital": "Cayenne",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Cayenne",
+    "guf": "Cayenne"
+  },
   "iso3": "GUF",
-  "language_code": [
-    "guf"
-  ],
-  "continent_code": "SA",
   "tld": ".gf",
   "timezones": [
     "UTC-03:00"
@@ -17,8 +15,9 @@
   "area": 83534,
   "population": 292354,
   "flag": "🇬🇫",
-  "region_common": "Americas",
-  "demonym": "Guianan",
+  "demonym": {
+    "en": "Guianan"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^((97|98)3\\d{2})$"
@@ -31,5 +30,15 @@
     "W": [
       "SR"
     ]
-  }
+  },
+  "lang": [
+    "guf"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "EUR"
+  ]
 }

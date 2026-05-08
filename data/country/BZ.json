@@ -4,15 +4,13 @@
     "official": "Belize"
   },
   "regions": [
-    "LATAM"
+    "CAM"
   ],
-  "capital": "Belmopan",
-  "currency_code": "BZD",
+  "capital": {
+    "en": "Belmopan",
+    "blz": "Belmopan"
+  },
   "iso3": "BLZ",
-  "language_code": [
-    "blz"
-  ],
-  "continent_code": "NA",
   "tld": ".bz",
   "timezones": [
     "UTC-06:00"
@@ -20,10 +18,13 @@
   "area": 22966,
   "population": 417634,
   "flag": "🇧🇿",
-  "region_common": "Americas",
-  "demonym": "Belizean",
-  "gdp": 3281500000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Belizean"
+  },
+  "gdp": {
+    "value": 3281500000,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -41,5 +42,12 @@
     "SW": [
       "GT"
     ]
-  }
+  },
+  "lang": [
+    "blz"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "BZD"
+  ]
 }

@@ -3,13 +3,11 @@
     "common": "Djibouti",
     "official": "Republic of Djibouti"
   },
-  "capital": "Djibouti",
-  "currency_code": "DJF",
+  "capital": {
+    "en": "Djibouti",
+    "dji": "Djibouti"
+  },
   "iso3": "DJI",
-  "language_code": [
-    "dji"
-  ],
-  "continent_code": "AF",
   "tld": ".dj",
   "timezones": [
     "UTC+03:00"
@@ -17,10 +15,13 @@
   "area": 23200,
   "population": 1066809,
   "flag": "🇩🇯",
-  "region_common": "Africa",
-  "demonym": "Djibouti",
-  "gdp": 4098530513.5577674,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Djibouti"
+  },
+  "gdp": {
+    "value": 4098530513.5577674,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -41,5 +42,15 @@
     "SW": [
       "ET"
     ]
-  }
+  },
+  "lang": [
+    "dji"
+  ],
+  "regions": [
+    "EAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "DJF"
+  ]
 }

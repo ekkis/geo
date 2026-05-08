@@ -3,13 +3,11 @@
     "common": "Venezuela",
     "official": "Bolivarian Republic of Venezuela"
   },
-  "capital": "Caracas",
-  "currency_code": "VEF",
+  "capital": {
+    "en": "Caracas",
+    "ve": "Caracas"
+  },
   "iso3": "VEN",
-  "language_code": [
-    "ve"
-  ],
-  "continent_code": "SA",
   "tld": ".ve",
   "timezones": [
     "UTC-04:00"
@@ -17,10 +15,13 @@
   "area": 916445,
   "population": 28517000,
   "flag": "🇻🇪",
-  "region_common": "Americas",
-  "demonym": "Venezuelan",
-  "gdp": 482359318767.7031,
-  "gdp_year": 2014,
+  "demonym": {
+    "en": "Venezuelan"
+  },
+  "gdp": {
+    "value": 482359318767.7031,
+    "year": 2014
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -42,5 +43,15 @@
     "SW": [
       "CO"
     ]
-  }
+  },
+  "lang": [
+    "ve"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "VEF"
+  ]
 }

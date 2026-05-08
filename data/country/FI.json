@@ -1,19 +1,17 @@
 {
   "name": {
     "common": "Finland",
-    "official": "Republic of Finland"
+    "official": "Republic of Finland",
+    "fi": "Suomi"
   },
   "regions": [
-    "NOR",
     "NOR"
   ],
-  "capital": "Helsinki",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Helsinki",
+    "fi": "Helsinki"
+  },
   "iso3": "FIN",
-  "language_code": [
-    "fi"
-  ],
-  "continent_code": "EU",
   "tld": ".fi",
   "timezones": [
     "UTC+02:00"
@@ -21,10 +19,14 @@
   "area": 338455,
   "population": 5650325,
   "flag": "🇫🇮",
-  "region_common": "Europe",
-  "demonym": "Finnish",
-  "gdp": 300187202696.08374,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Finnish",
+    "fi": "suomalainen"
+  },
+  "gdp": {
+    "value": 300187202696.08374,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(?:FI)*(\\d{5})$"
@@ -51,5 +53,12 @@
       "SE",
       "NO"
     ]
-  }
+  },
+  "lang": [
+    "fi"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }
