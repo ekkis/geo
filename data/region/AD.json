@@ -1,37 +1,9 @@
 {
-  "Andorra la Vella": {
-    "ANDORRA": {
-      "name": "Andorra la Vella"
-    }
-  },
-  "Canillo": {
-    "CANILLO": {
-      "name": "Canillo"
-    }
-  },
-  "Encamp": {
-    "ENCAMP": {
-      "name": "Encamp"
-    }
-  },
-  "Escaldes-Engordany": {
-    "ESCALD": {
-      "name": "Escaldes-Engordany"
-    }
-  },
-  "La Massana": {
-    "MASSANA": {
-      "name": "La Massana"
-    }
-  },
-  "Ordino": {
-    "ORDINO": {
-      "name": "Ordino"
-    }
-  },
-  "Sant Julià de Lòria": {
-    "SANTJULIA": {
-      "name": "Sant Julià de Lòria"
-    }
-  }
+  "Andorra la Vella": {},
+  "Canillo": {},
+  "Encamp": {},
+  "Escaldes-Engordany": {},
+  "La Massana": {},
+  "Ordino": {},
+  "Sant Julià de Lòria": {}
 }
