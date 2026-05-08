@@ -6,13 +6,20 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Pristina",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Pristina",
+    "xkk": "Pristina"
+  },
   "iso3": "XKX",
-  "language_code": [
+  "demonym": {
+    "en": "Kosovar"
+  },
+  "phone_code": "",
+  "lang": [
     "xkk"
   ],
-  "continent_code": "EU",
-  "demonym": "Kosovar",
-  "phone_code": ""
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

@@ -3,13 +3,11 @@
     "common": "French Polynesia",
     "official": "French Polynesia"
   },
-  "capital": "Papeete",
-  "currency_code": "XPF",
+  "capital": {
+    "en": "Papeete",
+    "pyf": "Papeete"
+  },
   "iso3": "PYF",
-  "language_code": [
-    "pyf"
-  ],
-  "continent_code": "OC",
   "tld": ".pf",
   "timezones": [
     "UTC-10:00",
@@ -19,13 +17,26 @@
   "area": 4167,
   "population": 279500,
   "flag": "🇵🇫",
-  "region_common": "Oceania",
-  "demonym": "French Polynesian",
-  "gdp": 5814661208.905444,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "French Polynesian"
+  },
+  "gdp": {
+    "value": 5814661208.905444,
+    "year": 2022
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^((97|98)7\\d{2})$"
   },
-  "phone_code": "689"
+  "phone_code": "689",
+  "lang": [
+    "pyf"
+  ],
+  "regions": [
+    "POL"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "XPF"
+  ]
 }

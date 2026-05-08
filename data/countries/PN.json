@@ -3,13 +3,11 @@
     "common": "Pitcairn Islands",
     "official": "Pitcairn Group of Islands"
   },
-  "capital": "Adamstown",
-  "currency_code": "NZD",
+  "capital": {
+    "en": "Adamstown",
+    "pcn": "Adamstown"
+  },
   "iso3": "PCN",
-  "language_code": [
-    "pcn"
-  ],
-  "continent_code": "OC",
   "tld": ".pn",
   "timezones": [
     "UTC-08:00"
@@ -17,7 +15,18 @@
   "area": 47,
   "population": 35,
   "flag": "🇵🇳",
-  "region_common": "Oceania",
-  "demonym": "Pitcairn Islander",
-  "phone_code": "870"
+  "demonym": {
+    "en": "Pitcairn Islander"
+  },
+  "phone_code": "870",
+  "lang": [
+    "pcn"
+  ],
+  "regions": [
+    "POL"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
+  ]
 }

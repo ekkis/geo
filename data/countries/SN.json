@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Senegal",
-    "official": "Republic of Senegal"
+    "official": "Republic of Senegal",
+    "fr": "Sénégal"
   },
-  "capital": "Dakar",
-  "currency_code": "XOF",
+  "capital": {
+    "en": "Dakar",
+    "fr": "Dakar"
+  },
   "iso3": "SEN",
-  "language_code": [
-    "fr"
-  ],
-  "continent_code": "AF",
   "tld": ".sn",
   "timezones": [
     "UTC"
@@ -17,10 +16,14 @@
   "area": 196722,
   "population": 18593258,
   "flag": "🇸🇳",
-  "region_common": "Africa",
-  "demonym": "Senegalese",
-  "gdp": 31013986429.186058,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Senegalese",
+    "fr": "Sénégalais"
+  },
+  "gdp": {
+    "value": 31013986429.186058,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -48,5 +51,15 @@
       "GM",
       "GW"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ],
+  "regions": [
+    "WAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
+  ]
 }

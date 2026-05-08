@@ -3,13 +3,11 @@
     "common": "Argentina",
     "official": "Argentine Republic"
   },
-  "capital": "Buenos Aires",
-  "currency_code": "ARS",
+  "capital": {
+    "en": "Buenos Aires",
+    "an": "Buenos Aires"
+  },
   "iso3": "ARG",
-  "language_code": [
-    "an"
-  ],
-  "continent_code": "SA",
   "tld": ".ar",
   "timezones": [
     "UTC-03:00"
@@ -17,10 +15,13 @@
   "area": 2780400,
   "population": 46735004,
   "flag": "🇦🇷",
-  "region_common": "Americas",
-  "demonym": "Argentine",
-  "gdp": 640591410663.8834,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Argentine"
+  },
+  "gdp": {
+    "value": 640591410663.8834,
+    "year": 2023
+  },
   "postal_code": {
     "format": "@####@@@",
     "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
@@ -48,5 +49,15 @@
       "BO",
       "CL"
     ]
-  }
+  },
+  "lang": [
+    "an"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "ARS"
+  ]
 }

@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Hungary",
-    "official": "Hungary"
+    "official": "Hungary",
+    "hu": "Magyarország"
   },
   "regions": [
     "CEU"
   ],
-  "capital": "Budapest",
-  "currency_code": "HUF",
+  "capital": {
+    "en": "Budapest",
+    "hu": "Budapest"
+  },
   "iso3": "HUN",
-  "language_code": [
-    "hu"
-  ],
-  "continent_code": "EU",
   "tld": ".hu",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +19,14 @@
   "area": 93028,
   "population": 9539502,
   "flag": "🇭🇺",
-  "region_common": "Europe",
-  "demonym": "Hungarian",
-  "gdp": 212388906458.72394,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Hungarian",
+    "hu": "magyar"
+  },
+  "gdp": {
+    "value": 212388906458.72394,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -58,5 +61,12 @@
       "HR",
       "SI"
     ]
-  }
+  },
+  "lang": [
+    "hu"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "HUF"
+  ]
 }

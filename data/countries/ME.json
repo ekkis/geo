@@ -4,15 +4,13 @@
     "official": "Montenegro"
   },
   "regions": [
-    "BKS"
+    "SEU"
   ],
-  "capital": "Podgorica",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Podgorica",
+    "mne": "Podgorica"
+  },
   "iso3": "MNE",
-  "language_code": [
-    "mne"
-  ],
-  "continent_code": "EU",
   "tld": ".me",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +18,13 @@
   "area": 13812,
   "population": 623327,
   "flag": "🇲🇪",
-  "region_common": "Europe",
-  "demonym": "Montenegrin",
-  "gdp": 7404541964.5077915,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Montenegrin"
+  },
+  "gdp": {
+    "value": 7404541964.5077915,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -49,5 +50,12 @@
     "SE": [
       "AL"
     ]
-  }
+  },
+  "lang": [
+    "mne"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

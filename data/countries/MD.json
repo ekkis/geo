@@ -4,15 +4,13 @@
     "official": "Republic of Moldova"
   },
   "regions": [
-    "EE"
+    "BKS"
   ],
-  "capital": "Chisinau",
-  "currency_code": "MDL",
+  "capital": {
+    "en": "Chisinau",
+    "mda": "Chisinau"
+  },
   "iso3": "MDA",
-  "language_code": [
-    "mda"
-  ],
-  "continent_code": "EU",
   "tld": ".md",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +18,13 @@
   "area": 33847,
   "population": 2749076,
   "flag": "🇲🇩",
-  "region_common": "Europe",
-  "demonym": "Moldovan",
-  "gdp": 16539436547.294973,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Moldovan"
+  },
+  "gdp": {
+    "value": 16539436547.294973,
+    "year": 2023
+  },
   "postal_code": {
     "format": "MD-####",
     "regex": "^(?:MD)*(\\d{4})$"
@@ -42,5 +43,12 @@
     "SW": [
       "RO"
     ]
-  }
+  },
+  "lang": [
+    "mda"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "MDL"
+  ]
 }

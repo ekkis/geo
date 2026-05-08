@@ -1,16 +1,15 @@
 {
   "name": {
     "common": "DR Congo",
-    "official": "Democratic Republic of the Congo"
+    "official": "Democratic Republic of the Congo",
+    "fr": "RD Congo"
   },
-  "capital": "Kinshasa",
-  "currency_code": "CDF",
+  "capital": {
+    "en": "Kinshasa",
+    "fr": "Kinshasa",
+    "zr": "Kinshasa"
+  },
   "iso3": "COD",
-  "language_code": [
-    "fr",
-    "zr"
-  ],
-  "continent_code": "AF",
   "tld": ".cd",
   "timezones": [
     "UTC+01:00",
@@ -19,9 +18,24 @@
   "area": 2344858,
   "population": 112832000,
   "flag": "🇨🇩",
-  "region_common": "Africa",
-  "demonym": "Congolese",
-  "gdp": 66383287002.996895,
-  "gdp_year": 2023,
-  "phone_code": "243"
+  "demonym": {
+    "en": "Congolese",
+    "fr": "Congolais"
+  },
+  "gdp": {
+    "value": 66383287002.996895,
+    "year": 2023
+  },
+  "phone_code": "243",
+  "lang": [
+    "fr",
+    "zr"
+  ],
+  "regions": [
+    "CAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "CDF"
+  ]
 }

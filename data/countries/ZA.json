@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "South Africa",
-    "official": "Republic of South Africa"
+    "official": "Republic of South Africa",
+    "af": "Suid-Afrika"
   },
-  "capital": "Pretoria",
-  "currency_code": "ZAR",
+  "capital": {
+    "en": "Pretoria",
+    "af": "Pretoria"
+  },
   "iso3": "ZAF",
-  "language_code": [
-    "af"
-  ],
-  "continent_code": "AF",
   "tld": ".za",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +16,14 @@
   "area": 1221037,
   "population": 63100945,
   "flag": "🇿🇦",
-  "region_common": "Africa",
-  "demonym": "South African",
-  "gdp": 377781600985.8731,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "South African",
+    "af": "Suid-Afrikaans"
+  },
+  "gdp": {
+    "value": 377781600985.8731,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -53,5 +56,15 @@
     "N": [
       "BW"
     ]
-  }
+  },
+  "lang": [
+    "af"
+  ],
+  "regions": [
+    "SAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "ZAR"
+  ]
 }

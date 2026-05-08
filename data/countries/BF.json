@@ -1,16 +1,15 @@
 {
   "name": {
     "common": "Burkina Faso",
-    "official": "Burkina Faso"
+    "official": "Burkina Faso",
+    "fr": "Burkina Faso"
   },
-  "capital": "Ouagadougou",
-  "currency_code": "XOF",
+  "capital": {
+    "en": "Ouagadougou",
+    "fr": "Ouagadougou",
+    "hv": "Ouagadougou"
+  },
   "iso3": "BFA",
-  "language_code": [
-    "fr",
-    "hv"
-  ],
-  "continent_code": "AF",
   "tld": ".bf",
   "timezones": [
     "UTC"
@@ -18,10 +17,14 @@
   "area": 272967,
   "population": 24070553,
   "flag": "🇧🇫",
-  "region_common": "Africa",
-  "demonym": "Burkinabe",
-  "gdp": 20324617838.967648,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Burkinabe",
+    "fr": "Burkinabe"
+  },
+  "gdp": {
+    "value": 20324617838.967648,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -50,5 +53,16 @@
     "S": [
       "GH"
     ]
-  }
+  },
+  "lang": [
+    "fr",
+    "hv"
+  ],
+  "regions": [
+    "WAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
+  ]
 }

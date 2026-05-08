@@ -3,14 +3,14 @@
     "common": "Hong Kong",
     "official": "Hong Kong Special Administrative Region of the People's Republic of China"
   },
-  "regions": [],
-  "capital": "Hong Kong",
-  "currency_code": "HKD",
-  "iso3": "HKG",
-  "language_code": [
-    "zh"
+  "regions": [
+    "EAS"
   ],
-  "continent_code": "AS",
+  "capital": {
+    "en": "Hong Kong",
+    "zh": "Hong Kong"
+  },
+  "iso3": "HKG",
   "tld": ".hk",
   "timezones": [
     "UTC+08:00"
@@ -18,10 +18,13 @@
   "area": 1104,
   "population": 7527500,
   "flag": "🇭🇰",
-  "region_common": "Asia",
-  "demonym": "Hong Konger",
-  "gdp": 382054574298.52905,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Hong Konger"
+  },
+  "gdp": {
+    "value": 382054574298.52905,
+    "year": 2023
+  },
   "organisations": [
     "BIS"
   ],
@@ -30,5 +33,12 @@
     "NW": [
       "CN"
     ]
-  }
+  },
+  "lang": [
+    "zh"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "HKD"
+  ]
 }

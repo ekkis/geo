@@ -1,19 +1,17 @@
 {
   "name": {
     "common": "Mexico",
-    "official": "United Mexican States"
+    "official": "United Mexican States",
+    "es": "México"
   },
   "regions": [
-    "NA",
-    "LATAM"
+    "CAM"
   ],
-  "capital": "Mexico City",
-  "currency_code": "MXN",
+  "capital": {
+    "en": "Mexico City",
+    "es": "Ciudad de México"
+  },
   "iso3": "MEX",
-  "language_code": [
-    "es"
-  ],
-  "continent_code": "NA",
   "tld": ".mx",
   "timezones": [
     "UTC-08:00",
@@ -23,10 +21,14 @@
   "area": 1964375,
   "population": 130575786,
   "flag": "🇲🇽",
-  "region_common": "Americas",
-  "demonym": "Mexican",
-  "gdp": 1788886821046.8132,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Mexican",
+    "es": "Mexican"
+  },
+  "gdp": {
+    "value": 1788886821046.8132,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -52,5 +54,12 @@
     "NE": [
       "US"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "MXN"
+  ]
 }

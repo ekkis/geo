@@ -1,19 +1,17 @@
 {
   "name": {
     "common": "Laos",
-    "official": "Lao People's Democratic Republic"
+    "official": "Lao People's Democratic Republic",
+    "lo": "Laos"
   },
   "regions": [
-    "SEA",
-    "INDO"
+    "SEA"
   ],
-  "capital": "Vientiane",
-  "currency_code": "LAK",
+  "capital": {
+    "en": "Vientiane",
+    "lo": "ວຽງຈັນ"
+  },
   "iso3": "LAO",
-  "language_code": [
-    "lo"
-  ],
-  "continent_code": "AS",
   "tld": ".la",
   "timezones": [
     "UTC+07:00"
@@ -21,10 +19,14 @@
   "area": 236800,
   "population": 7647000,
   "flag": "🇱🇦",
-  "region_common": "Asia",
-  "demonym": "Laotian",
-  "gdp": 15843155731.25518,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Laotian",
+    "lo": "ຄົນລາວ"
+  },
+  "gdp": {
+    "value": 15843155731.25518,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -54,5 +56,12 @@
     "N": [
       "CN"
     ]
-  }
+  },
+  "lang": [
+    "lo"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "LAK"
+  ]
 }

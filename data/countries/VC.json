@@ -3,14 +3,14 @@
     "common": "Saint Vincent and the Grenadines",
     "official": "Saint Vincent and the Grenadines"
   },
-  "regions": [],
-  "capital": "Kingstown",
-  "currency_code": "XCD",
-  "iso3": "VCT",
-  "language_code": [
-    "vct"
+  "regions": [
+    "CAR"
   ],
-  "continent_code": "NA",
+  "capital": {
+    "en": "Kingstown",
+    "vct": "Kingstown"
+  },
+  "iso3": "VCT",
   "tld": ".vc",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 389,
   "population": 110872,
   "flag": "🇻🇨",
-  "region_common": "Americas",
-  "demonym": "Saint Vincentian",
-  "gdp": 1065962962.9629629,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Saint Vincentian"
+  },
+  "gdp": {
+    "value": 1065962962.9629629,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -30,5 +33,12 @@
   "phone_code": "+1-784",
   "divisions": [
     "parish"
+  ],
+  "lang": [
+    "vct"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

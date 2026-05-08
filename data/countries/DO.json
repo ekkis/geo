@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Dominican Republic",
-    "official": "Dominican Republic"
+    "official": "Dominican Republic",
+    "es": "República Dominicana"
   },
   "regions": [
-    "LATAM"
+    "CAR"
   ],
-  "capital": "Santo Domingo",
-  "currency_code": "DOP",
+  "capital": {
+    "en": "Santo Domingo",
+    "es": "santo domingo"
+  },
   "iso3": "DOM",
-  "language_code": [
-    "es"
-  ],
-  "continent_code": "NA",
   "tld": ".do",
   "timezones": [
     "UTC-04:00"
@@ -20,10 +19,14 @@
   "area": 48671,
   "population": 10771504,
   "flag": "🇩🇴",
-  "region_common": "Americas",
-  "demonym": "Dominican",
-  "gdp": 121444279313.93079,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Dominican",
+    "es": "Dominican"
+  },
+  "gdp": {
+    "value": 121444279313.93079,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -42,5 +45,12 @@
     "W": [
       "HT"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "DOP"
+  ]
 }

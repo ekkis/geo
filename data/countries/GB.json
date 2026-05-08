@@ -1,19 +1,17 @@
 {
   "name": {
     "common": "United Kingdom",
-    "official": "United Kingdom of Great Britain and Northern Ireland"
+    "official": "United Kingdom of Great Britain and Northern Ireland",
+    "uk": "Велика Британія"
   },
   "regions": [
-    "WEU"
+    "NOR"
   ],
-  "capital": "London",
-  "currency_code": "GBP",
+  "capital": {
+    "en": "London",
+    "uk": "Лондон"
+  },
   "iso3": "GBR",
-  "language_code": [
-    "en",
-    "uk"
-  ],
-  "continent_code": "EU",
   "tld": ".uk",
   "timezones": [
     "UTC-08:00",
@@ -29,10 +27,14 @@
   "area": 244376,
   "population": 69281437,
   "flag": "🇬🇧",
-  "region_common": "Europe",
-  "demonym": "British",
-  "gdp": 3340032380668.0356,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "British",
+    "uk": "британець"
+  },
+  "gdp": {
+    "value": 3340032380668.0356,
+    "year": 2023
+  },
   "postal_code": {
     "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
     "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
@@ -56,5 +58,13 @@
     "SW": [
       "IE"
     ]
-  }
+  },
+  "lang": [
+    "en",
+    "uk"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "GBP"
+  ]
 }

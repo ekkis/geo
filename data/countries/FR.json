@@ -1,19 +1,18 @@
 {
   "name": {
     "common": "France",
-    "official": "French Republic"
+    "official": "French Republic",
+    "fr": "France"
   },
   "regions": [
-    "WEU"
+    "CEU"
   ],
-  "capital": "Paris",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Paris",
+    "fr": "Paris",
+    "fx": "Paris"
+  },
   "iso3": "FRA",
-  "language_code": [
-    "fr",
-    "fx"
-  ],
-  "continent_code": "EU",
   "tld": ".fr",
   "timezones": [
     "UTC-10:00",
@@ -34,10 +33,14 @@
   "area": 543908,
   "population": 66351959,
   "flag": "🇫🇷",
-  "region_common": "Europe",
-  "demonym": "French",
-  "gdp": 3030904089607.8965,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "French",
+    "fr": "Français"
+  },
+  "gdp": {
+    "value": 3030904089607.8965,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -74,5 +77,13 @@
       "AD",
       "ES"
     ]
-  }
+  },
+  "lang": [
+    "fr",
+    "fx"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

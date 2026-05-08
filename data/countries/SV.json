@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "El Salvador",
-    "official": "Republic of El Salvador"
+    "official": "Republic of El Salvador",
+    "sl": "El Salvador"
   },
   "regions": [
-    "LATAM"
+    "CAM"
   ],
-  "capital": "San Salvador",
-  "currency_code": "USD",
+  "capital": {
+    "en": "San Salvador",
+    "sl": "San Salvador"
+  },
   "iso3": "SLV",
-  "language_code": [
-    "sl"
-  ],
-  "continent_code": "NA",
   "tld": ".sv",
   "timezones": [
     "UTC-06:00"
@@ -20,10 +19,14 @@
   "area": 21041,
   "population": 6029976,
   "flag": "🇸🇻",
-  "region_common": "Americas",
-  "demonym": "Salvadoran",
-  "gdp": 34015620000.000004,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Salvadoran",
+    "sl": "salvadorski"
+  },
+  "gdp": {
+    "value": 34015620000.000004,
+    "year": 2023
+  },
   "postal_code": {
     "format": "CP ####",
     "regex": "^(?:CP)*(\\d{4})$"
@@ -45,5 +48,12 @@
     "NW": [
       "GT"
     ]
-  }
+  },
+  "lang": [
+    "sl"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "USD"
+  ]
 }

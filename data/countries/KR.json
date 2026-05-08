@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "South Korea",
-    "official": "Republic of Korea"
+    "official": "Republic of Korea",
+    "ko": "대한민국"
   },
   "regions": [
-    "EASS"
+    "EAS"
   ],
-  "capital": "Seoul",
-  "currency_code": "KRW",
+  "capital": {
+    "en": "Seoul",
+    "ko": "서울"
+  },
   "iso3": "KOR",
-  "language_code": [
-    "ko"
-  ],
-  "continent_code": "AS",
   "tld": ".kr",
   "timezones": [
     "UTC+09:00"
@@ -20,10 +19,14 @@
   "area": 100210,
   "population": 51159889,
   "flag": "🇰🇷",
-  "region_common": "Asia",
-  "demonym": "South Korean",
-  "gdp": 1712792854202.3687,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "South Korean",
+    "ko": "한국의"
+  },
+  "gdp": {
+    "value": 1712792854202.3687,
+    "year": 2023
+  },
   "postal_code": {
     "format": "SEOUL ###-###",
     "regex": "^(?:SEOUL)*(\\d{6})$"
@@ -42,5 +45,12 @@
     "NW": [
       "KP"
     ]
-  }
+  },
+  "lang": [
+    "ko"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "KRW"
+  ]
 }

@@ -3,13 +3,11 @@
     "common": "Paraguay",
     "official": "Republic of Paraguay"
   },
-  "capital": "Asuncion",
-  "currency_code": "PYG",
+  "capital": {
+    "en": "Asuncion",
+    "gn": "Asuncion"
+  },
   "iso3": "PRY",
-  "language_code": [
-    "gn"
-  ],
-  "continent_code": "SA",
   "tld": ".py",
   "timezones": [
     "UTC-04:00"
@@ -17,10 +15,13 @@
   "area": 406752,
   "population": 6109644,
   "flag": "🇵🇾",
-  "region_common": "Americas",
-  "demonym": "Paraguayan",
-  "gdp": 42956263543.948166,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Paraguayan"
+  },
+  "gdp": {
+    "value": 42956263543.948166,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -45,5 +46,15 @@
     "SW": [
       "AR"
     ]
-  }
+  },
+  "lang": [
+    "gn"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "PYG"
+  ]
 }

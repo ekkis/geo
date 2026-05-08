@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Belgium",
-    "official": "Kingdom of Belgium"
+    "official": "Kingdom of Belgium",
+    "be": "Бельгія"
   },
   "regions": [
-    "WEU"
+    "CEU"
   ],
-  "capital": "Brussels",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Brussels",
+    "be": "Брусэль"
+  },
   "iso3": "BEL",
-  "language_code": [
-    "be"
-  ],
-  "continent_code": "EU",
   "tld": ".be",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +19,14 @@
   "area": 30528,
   "population": 11825551,
   "flag": "🇧🇪",
-  "region_common": "Europe",
-  "demonym": "Belgian",
-  "gdp": 632216577075.1093,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Belgian",
+    "be": "Бельгійскі"
+  },
+  "gdp": {
+    "value": 632216577075.1093,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -54,5 +57,12 @@
     "SW": [
       "FR"
     ]
-  }
+  },
+  "lang": [
+    "be"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

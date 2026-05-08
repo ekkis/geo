@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Vatican City",
-    "official": "Vatican City State"
+    "official": "Vatican City State",
+    "it": "Città del Vaticano"
   },
   "regions": [
-    "SE"
+    "CEU"
   ],
-  "capital": "Vatican City",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Vatican City",
+    "it": "Città del Vaticano"
+  },
   "iso3": "VAT",
-  "language_code": [
-    "it"
-  ],
-  "continent_code": "EU",
   "tld": ".va",
   "timezones": [
     "UTC+01:00"
@@ -20,13 +19,22 @@
   "area": 0.49,
   "population": 882,
   "flag": "🇻🇦",
-  "region_common": "Europe",
-  "demonym": "Vatican",
+  "demonym": {
+    "en": "Vatican",
+    "it": "Vaticano"
+  },
   "phone_code": "379",
   "divisions": [],
   "neighbours": {
     "NE": [
       "IT"
     ]
-  }
+  },
+  "lang": [
+    "it"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

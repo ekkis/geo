@@ -3,14 +3,14 @@
     "common": "Bermuda",
     "official": "Bermuda"
   },
-  "regions": [],
-  "capital": "Hamilton",
-  "currency_code": "BMD",
-  "iso3": "BMU",
-  "language_code": [
-    "bmu"
+  "regions": [
+    "CAR"
   ],
-  "continent_code": "NA",
+  "capital": {
+    "en": "Hamilton",
+    "bmu": "Hamilton"
+  },
+  "iso3": "BMU",
   "tld": ".bm",
   "timezones": [
     "UTC-04:00"
@@ -18,13 +18,23 @@
   "area": 54,
   "population": 64055,
   "flag": "🇧🇲",
-  "region_common": "Americas",
-  "demonym": "Bermudian",
-  "gdp": 7827980000,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Bermudian"
+  },
+  "gdp": {
+    "value": 7827980000,
+    "year": 2022
+  },
   "postal_code": {
     "format": "@@ ##",
     "regex": "^([A-Z]{2}\\d{2})$"
   },
-  "phone_code": "+1-441"
+  "phone_code": "+1-441",
+  "lang": [
+    "bmu"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "BMD"
+  ]
 }

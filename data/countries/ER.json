@@ -3,13 +3,11 @@
     "common": "Eritrea",
     "official": "State of Eritrea"
   },
-  "capital": "Asmara",
-  "currency_code": "ERN",
+  "capital": {
+    "en": "Asmara",
+    "eri": "Asmara"
+  },
   "iso3": "ERI",
-  "language_code": [
-    "eri"
-  ],
-  "continent_code": "AF",
   "tld": ".er",
   "timezones": [
     "UTC+03:00"
@@ -17,10 +15,13 @@
   "area": 117600,
   "population": 3607000,
   "flag": "🇪🇷",
-  "region_common": "Africa",
-  "demonym": "Eritrean",
-  "gdp": 2065001626.0162601,
-  "gdp_year": 2011,
+  "demonym": {
+    "en": "Eritrean"
+  },
+  "gdp": {
+    "value": 2065001626.0162601,
+    "year": 2011
+  },
   "organisations": [
     "AU",
     "UN"
@@ -36,5 +37,15 @@
     "W": [
       "SD"
     ]
-  }
+  },
+  "lang": [
+    "eri"
+  ],
+  "regions": [
+    "EAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "ERN"
+  ]
 }

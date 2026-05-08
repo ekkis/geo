@@ -4,15 +4,13 @@
     "official": "Republic of Lithuania"
   },
   "regions": [
-    "BALT"
+    "BAL"
   ],
-  "capital": "Vilnius",
-  "currency_code": "LTL",
+  "capital": {
+    "en": "Vilnius",
+    "ltu": "Vilnius"
+  },
   "iso3": "LTU",
-  "language_code": [
-    "ltu"
-  ],
-  "continent_code": "EU",
   "tld": ".lt",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +18,13 @@
   "area": 65300,
   "population": 2894886,
   "flag": "🇱🇹",
-  "region_common": "Europe",
-  "demonym": "Lithuanian",
-  "gdp": 77836396962.77196,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Lithuanian"
+  },
+  "gdp": {
+    "value": 77836396962.77196,
+    "year": 2023
+  },
   "postal_code": {
     "format": "LT-#####",
     "regex": "^(?:LT)*(\\d{5})$"
@@ -52,5 +53,12 @@
     "SW": [
       "PL"
     ]
-  }
+  },
+  "lang": [
+    "ltu"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "LTL"
+  ]
 }

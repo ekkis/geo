@@ -4,12 +4,10 @@
     "official": "Tokelau"
   },
   "capital": "",
-  "currency_code": "NZD",
   "iso3": "TKL",
   "language_code": [
     "tkl"
   ],
-  "continent_code": "OC",
   "tld": ".tk",
   "timezones": [
     "UTC+13:00"
@@ -17,7 +15,15 @@
   "area": 12,
   "population": 2608,
   "flag": "🇹🇰",
-  "region_common": "Oceania",
-  "demonym": "Tokelauan",
-  "phone_code": "690"
+  "demonym": {
+    "en": "Tokelauan"
+  },
+  "phone_code": "690",
+  "regions": [
+    "POL"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
+  ]
 }

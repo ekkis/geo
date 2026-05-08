@@ -3,13 +3,11 @@
     "common": "Norfolk Island",
     "official": "Territory of Norfolk Island"
   },
-  "capital": "Kingston",
-  "currency_code": "AUD",
+  "capital": {
+    "en": "Kingston",
+    "nfk": "Kingston"
+  },
   "iso3": "NFK",
-  "language_code": [
-    "nfk"
-  ],
-  "continent_code": "OC",
   "tld": ".nf",
   "timezones": [
     "UTC+11:30"
@@ -17,7 +15,18 @@
   "area": 36,
   "population": 2188,
   "flag": "🇳🇫",
-  "region_common": "Oceania",
-  "demonym": "Norfolk Islander",
-  "phone_code": "672"
+  "demonym": {
+    "en": "Norfolk Islander"
+  },
+  "phone_code": "672",
+  "lang": [
+    "nfk"
+  ],
+  "regions": [
+    "OC"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "AUD"
+  ]
 }

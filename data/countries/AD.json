@@ -4,15 +4,14 @@
     "official": "Principality of Andorra"
   },
   "regions": [
-    "SE"
+    "SEU",
+    "ME"
   ],
-  "capital": "Andorra la Vella",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Andorra la Vella",
+    "and": "Andorra la Vella"
+  },
   "iso3": "AND",
-  "language_code": [
-    "and"
-  ],
-  "continent_code": "EU",
   "tld": ".ad",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +19,13 @@
   "area": 468,
   "population": 88406,
   "flag": "🇦🇩",
-  "region_common": "Europe",
-  "demonym": "Andorran",
-  "gdp": 3727673593.0192156,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Andorran"
+  },
+  "gdp": {
+    "value": 3727673593.0192156,
+    "year": 2023
+  },
   "postal_code": {
     "format": "AD###",
     "regex": "^(?:AD)*(\\d{3})$"
@@ -42,5 +44,12 @@
     "SW": [
       "ES"
     ]
-  }
+  },
+  "lang": [
+    "and"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

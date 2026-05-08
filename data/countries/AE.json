@@ -1,16 +1,17 @@
 {
   "name": {
     "common": "United Arab Emirates",
-    "official": "United Arab Emirates"
+    "official": "United Arab Emirates",
+    "ar": "الإمارات العربية المتحدة"
   },
-  "regions": [],
-  "capital": "Abu Dhabi",
-  "currency_code": "AED",
-  "iso3": "ARE",
-  "language_code": [
-    "ar"
+  "regions": [
+    "WAS"
   ],
-  "continent_code": "AS",
+  "capital": {
+    "en": "Abu Dhabi",
+    "ar": "أبو ظبي"
+  },
+  "iso3": "ARE",
   "tld": ".ae",
   "timezones": [
     "UTC+04:00"
@@ -18,10 +19,14 @@
   "area": 83600,
   "population": 11294243,
   "flag": "🇦🇪",
-  "region_common": "Asia",
-  "demonym": "Emirati",
-  "gdp": 504173451327.43365,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Emirati",
+    "ar": "اماراتي"
+  },
+  "gdp": {
+    "value": 504173451327.43365,
+    "year": 2023
+  },
   "organisations": [
     "BIS",
     "WTO",
@@ -39,5 +44,12 @@
     "SE": [
       "OM"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "AED"
+  ]
 }

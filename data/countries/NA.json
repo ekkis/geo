@@ -3,13 +3,11 @@
     "common": "Namibia",
     "official": "Republic of Namibia"
   },
-  "capital": "Windhoek",
-  "currency_code": "NAD",
+  "capital": {
+    "en": "Windhoek",
+    "nam": "Windhoek"
+  },
   "iso3": "NAM",
-  "language_code": [
-    "nam"
-  ],
-  "continent_code": "AF",
   "tld": ".na",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +15,13 @@
   "area": 825615,
   "population": 3022401,
   "flag": "🇳🇦",
-  "region_common": "Africa",
-  "demonym": "Namibian",
-  "gdp": 12351024843.746696,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Namibian"
+  },
+  "gdp": {
+    "value": 12351024843.746696,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -42,5 +43,15 @@
     "E": [
       "BW"
     ]
-  }
+  },
+  "lang": [
+    "nam"
+  ],
+  "regions": [
+    "SAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "NAD"
+  ]
 }

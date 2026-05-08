@@ -3,13 +3,11 @@
     "common": "Eswatini",
     "official": "Kingdom of Eswatini"
   },
-  "capital": "Mbabane",
-  "currency_code": "SZL",
+  "capital": {
+    "en": "Mbabane",
+    "swz": "Mbabane"
+  },
   "iso3": "SWZ",
-  "language_code": [
-    "swz"
-  ],
-  "continent_code": "AF",
   "tld": ".sz",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 17364,
   "population": 1235549,
   "flag": "🇸🇿",
-  "region_common": "Africa",
-  "demonym": "Swazi",
-  "gdp": 4597855845.042758,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Swazi"
+  },
+  "gdp": {
+    "value": 4597855845.042758,
+    "year": 2023
+  },
   "postal_code": {
     "format": "@###",
     "regex": "^([A-Z]\\d{3})$"
@@ -38,5 +39,15 @@
     "SW": [
       "ZA"
     ]
-  }
+  },
+  "lang": [
+    "swz"
+  ],
+  "regions": [
+    "SAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "SZL"
+  ]
 }

@@ -3,13 +3,11 @@
     "common": "Rwanda",
     "official": "Republic of Rwanda"
   },
-  "capital": "Kigali",
-  "currency_code": "RWF",
+  "capital": {
+    "en": "Kigali",
+    "rwa": "Kigali"
+  },
   "iso3": "RWA",
-  "language_code": [
-    "rwa"
-  ],
-  "continent_code": "AF",
   "tld": ".rw",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 26338,
   "population": 14104969,
   "flag": "🇷🇼",
-  "region_common": "Africa",
-  "demonym": "Rwandan",
-  "gdp": 14097768647.66952,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Rwandan"
+  },
+  "gdp": {
+    "value": 14097768647.66952,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -47,5 +48,15 @@
     "NW": [
       "CD"
     ]
-  }
+  },
+  "lang": [
+    "rwa"
+  ],
+  "regions": [
+    "EAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "RWF"
+  ]
 }

@@ -4,15 +4,13 @@
     "official": "Hellenic Republic"
   },
   "regions": [
-    "SE"
+    "SEU"
   ],
-  "capital": "Athens",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Athens",
+    "grc": "Athens"
+  },
   "iso3": "GRC",
-  "language_code": [
-    "grc"
-  ],
-  "continent_code": "EU",
   "tld": ".gr",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +18,13 @@
   "area": 131990,
   "population": 10400720,
   "flag": "🇬🇷",
-  "region_common": "Europe",
-  "demonym": "Greek",
-  "gdp": 238206312632.52774,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Greek"
+  },
+  "gdp": {
+    "value": 238206312632.52774,
+    "year": 2023
+  },
   "postal_code": {
     "format": "### ##",
     "regex": "^(\\d{5})$"
@@ -55,5 +56,12 @@
     "E": [
       "TR"
     ]
-  }
+  },
+  "lang": [
+    "grc"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

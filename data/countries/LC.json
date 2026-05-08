@@ -3,14 +3,14 @@
     "common": "Saint Lucia",
     "official": "Saint Lucia"
   },
-  "regions": [],
-  "capital": "Castries",
-  "currency_code": "XCD",
-  "iso3": "LCA",
-  "language_code": [
-    "lca"
+  "regions": [
+    "CAR"
   ],
-  "continent_code": "NA",
+  "capital": {
+    "en": "Castries",
+    "lca": "Castries"
+  },
+  "iso3": "LCA",
   "tld": ".lc",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 616,
   "population": 184100,
   "flag": "🇱🇨",
-  "region_common": "Americas",
-  "demonym": "Saint Lucian",
-  "gdp": 2519925938.5244665,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Saint Lucian"
+  },
+  "gdp": {
+    "value": 2519925938.5244665,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -30,5 +33,12 @@
   "phone_code": "+1-758",
   "divisions": [
     "quarter"
+  ],
+  "lang": [
+    "lca"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

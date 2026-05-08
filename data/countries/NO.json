@@ -4,16 +4,12 @@
     "official": "Kingdom of Norway"
   },
   "regions": [
-    "WEU",
-    "SCAN",
-    "NOR",
     "NOR"
   ],
-  "capital": "Oslo",
-  "currency_code": "NOK",
+  "capital": {
+    "en": "Oslo"
+  },
   "iso3": "NOR",
-  "language_code": [],
-  "continent_code": "EU",
   "tld": ".no",
   "timezones": [
     "UTC+01:00"
@@ -21,10 +17,13 @@
   "area": 386224,
   "population": 5606944,
   "flag": "🇳🇴",
-  "region_common": "Europe",
-  "demonym": "Norwegian",
-  "gdp": 485513316503.63043,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Norwegian"
+  },
+  "gdp": {
+    "value": 485513316503.63043,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -51,5 +50,10 @@
     "E": [
       "SE"
     ]
-  }
+  },
+  "lang": [],
+  "continent": "EU",
+  "currencies": [
+    "NOK"
+  ]
 }

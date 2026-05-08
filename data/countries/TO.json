@@ -3,13 +3,11 @@
     "common": "Tonga",
     "official": "Kingdom of Tonga"
   },
-  "capital": "Nuku'alofa",
-  "currency_code": "TOP",
+  "capital": {
+    "en": "Nuku'alofa",
+    "to": "Nuku'alofa"
+  },
   "iso3": "TON",
-  "language_code": [
-    "to"
-  ],
-  "continent_code": "OC",
   "tld": ".to",
   "timezones": [
     "UTC+13:00"
@@ -17,10 +15,13 @@
   "area": 747,
   "population": 100179,
   "flag": "🇹🇴",
-  "region_common": "Oceania",
-  "demonym": "Tongan",
-  "gdp": 500274898.08522147,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Tongan"
+  },
+  "gdp": {
+    "value": 500274898.08522147,
+    "year": 2022
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -29,5 +30,15 @@
   "divisions": [
     "division",
     "island"
+  ],
+  "lang": [
+    "to"
+  ],
+  "regions": [
+    "POL"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "TOP"
   ]
 }

@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Morocco",
-    "official": "Kingdom of Morocco"
+    "official": "Kingdom of Morocco",
+    "mr": "मोरोक्को"
   },
-  "capital": "Rabat",
-  "currency_code": "MAD",
+  "capital": {
+    "en": "Rabat",
+    "mr": "राबत"
+  },
   "iso3": "MAR",
-  "language_code": [
-    "mr"
-  ],
-  "continent_code": "AF",
   "tld": ".ma",
   "timezones": [
     "UTC"
@@ -17,10 +16,14 @@
   "area": 446550,
   "population": 36828330,
   "flag": "🇲🇦",
-  "region_common": "Africa",
-  "demonym": "Moroccan",
-  "gdp": 141109373209.41437,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Moroccan",
+    "mr": "मोरोक्कन"
+  },
+  "gdp": {
+    "value": 141109373209.41437,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -46,5 +49,15 @@
     "SW": [
       "EH"
     ]
-  }
+  },
+  "lang": [
+    "mr"
+  ],
+  "regions": [
+    "MAG"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "MAD"
+  ]
 }

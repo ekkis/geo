@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Bolivia",
-    "official": "Plurinational State of Bolivia"
+    "official": "Plurinational State of Bolivia",
+    "es": "bolivia"
   },
-  "capital": "Sucre",
-  "currency_code": "BOB",
+  "capital": {
+    "en": "Sucre",
+    "es": "Sucre"
+  },
   "iso3": "BOL",
-  "language_code": [
-    "es"
-  ],
-  "continent_code": "SA",
   "tld": ".bo",
   "timezones": [
     "UTC-04:00"
@@ -17,10 +16,14 @@
   "area": 1098581,
   "population": 11365333,
   "flag": "🇧🇴",
-  "region_common": "Americas",
-  "demonym": "Bolivian",
-  "gdp": 45849832906.413895,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Bolivian",
+    "es": "Bolivian"
+  },
+  "gdp": {
+    "value": 45849832906.413895,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS"
@@ -45,5 +48,15 @@
     "SW": [
       "CL"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ],
+  "regions": [
+    "SAM"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "BOB"
+  ]
 }

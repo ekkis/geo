@@ -4,16 +4,13 @@
     "official": "Republic of Armenia"
   },
   "regions": [
-    "WAS",
     "CAUC"
   ],
-  "capital": "Yerevan",
-  "currency_code": "AMD",
+  "capital": {
+    "en": "Yerevan",
+    "arm": "Yerevan"
+  },
   "iso3": "ARM",
-  "language_code": [
-    "arm"
-  ],
-  "continent_code": "AS",
   "tld": ".am",
   "timezones": [
     "UTC+04:00"
@@ -21,10 +18,13 @@
   "area": 29743,
   "population": 3076200,
   "flag": "🇦🇲",
-  "region_common": "Asia",
-  "demonym": "Armenian",
-  "gdp": 24212134631.064003,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Armenian"
+  },
+  "gdp": {
+    "value": 24212134631.064003,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -51,5 +51,12 @@
     "SW": [
       "TR"
     ]
-  }
+  },
+  "lang": [
+    "arm"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "AMD"
+  ]
 }

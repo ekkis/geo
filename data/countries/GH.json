@@ -3,13 +3,11 @@
     "common": "Ghana",
     "official": "Republic of Ghana"
   },
-  "capital": "Accra",
-  "currency_code": "GHS",
+  "capital": {
+    "en": "Accra",
+    "ak": "Accra"
+  },
   "iso3": "GHA",
-  "language_code": [
-    "ak"
-  ],
-  "continent_code": "AF",
   "tld": ".gh",
   "timezones": [
     "UTC"
@@ -17,10 +15,13 @@
   "area": 238533,
   "population": 33742380,
   "flag": "🇬🇭",
-  "region_common": "Africa",
-  "demonym": "Ghanaian",
-  "gdp": 76370394412.41626,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Ghanaian"
+  },
+  "gdp": {
+    "value": 76370394412.41626,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -41,5 +42,15 @@
     "E": [
       "TG"
     ]
-  }
+  },
+  "lang": [
+    "ak"
+  ],
+  "regions": [
+    "WAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "GHS"
+  ]
 }

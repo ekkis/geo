@@ -3,13 +3,11 @@
     "common": "Saint Helena, Ascension and Tristan da Cunha",
     "official": "Saint Helena, Ascension and Tristan da Cunha"
   },
-  "capital": "Jamestown",
-  "currency_code": "SHP",
+  "capital": {
+    "en": "Jamestown",
+    "shn": "Jamestown"
+  },
   "iso3": "SHN",
-  "language_code": [
-    "shn"
-  ],
-  "continent_code": "AF",
   "tld": ".sh",
   "timezones": [
     "UTC+00:00"
@@ -17,11 +15,22 @@
   "area": 394,
   "population": 5651,
   "flag": "🇸🇭",
-  "region_common": "Africa",
-  "demonym": "Saint Helenian",
+  "demonym": {
+    "en": "Saint Helenian"
+  },
   "postal_code": {
     "format": "STHL 1ZZ",
     "regex": "^(STHL1ZZ)$"
   },
-  "phone_code": "290"
+  "phone_code": "290",
+  "lang": [
+    "shn"
+  ],
+  "regions": [
+    "WAF"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "SHP"
+  ]
 }

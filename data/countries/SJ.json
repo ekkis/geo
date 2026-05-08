@@ -3,14 +3,14 @@
     "common": "Svalbard and Jan Mayen",
     "official": "Svalbard og Jan Mayen"
   },
-  "regions": [],
-  "capital": "Longyearbyen",
-  "currency_code": "NOK",
-  "iso3": "SJM",
-  "language_code": [
-    "sjm"
+  "regions": [
+    "NOR"
   ],
-  "continent_code": "EU",
+  "capital": {
+    "en": "Longyearbyen",
+    "sjm": "Longyearbyen"
+  },
+  "iso3": "SJM",
   "tld": ".sj",
   "timezones": [
     "UTC+01:00"
@@ -18,7 +18,15 @@
   "area": 61399,
   "population": 2530,
   "flag": "🇸🇯",
-  "region_common": "Europe",
-  "demonym": "Norwegian",
-  "phone_code": "47"
+  "demonym": {
+    "en": "Norwegian"
+  },
+  "phone_code": "47",
+  "lang": [
+    "sjm"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "NOK"
+  ]
 }

@@ -6,13 +6,11 @@
   "regions": [
     "SEA"
   ],
-  "capital": "Singapur",
-  "currency_code": "SGD",
+  "capital": {
+    "en": "Singapur",
+    "zh": "Singapur"
+  },
   "iso3": "SGP",
-  "language_code": [
-    "zh"
-  ],
-  "continent_code": "AS",
   "tld": ".sg",
   "timezones": [
     "UTC+08:00"
@@ -20,10 +18,13 @@
   "area": 710,
   "population": 6110200,
   "flag": "🇸🇬",
-  "region_common": "Asia",
-  "demonym": "Singaporean",
-  "gdp": 501427500080.05853,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Singaporean"
+  },
+  "gdp": {
+    "value": 501427500080.05853,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -38,5 +39,12 @@
   "divisions": [
     "planning area",
     "subzone"
+  ],
+  "lang": [
+    "zh"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "SGD"
   ]
 }

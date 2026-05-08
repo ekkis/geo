@@ -3,14 +3,14 @@
     "common": "Sint Maarten",
     "official": "Sint Maarten"
   },
-  "regions": [],
-  "capital": "Philipsburg",
-  "currency_code": "ANG",
-  "iso3": "SXM",
-  "language_code": [
-    "sxm"
+  "regions": [
+    "CAR"
   ],
-  "continent_code": "NA",
+  "capital": {
+    "en": "Philipsburg",
+    "sxm": "Philipsburg"
+  },
+  "iso3": "SXM",
   "tld": ".sx",
   "timezones": [
     "UTC-04:00"
@@ -18,14 +18,24 @@
   "area": 34,
   "population": 41349,
   "flag": "🇸🇽",
-  "region_common": "Americas",
-  "demonym": "St. Maartener",
-  "gdp": 1623165683.1284916,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "St. Maartener"
+  },
+  "gdp": {
+    "value": 1623165683.1284916,
+    "year": 2023
+  },
   "phone_code": "599",
   "neighbours": {
     "NW": [
       "MF"
     ]
-  }
+  },
+  "lang": [
+    "sxm"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "ANG"
+  ]
 }

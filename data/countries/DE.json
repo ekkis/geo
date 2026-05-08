@@ -1,19 +1,18 @@
 {
   "name": {
     "common": "Germany",
-    "official": "Federal Republic of Germany"
+    "official": "Federal Republic of Germany",
+    "de": "Deutschland"
   },
   "regions": [
-    "WEU"
+    "CEU"
   ],
-  "capital": "Berlin",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Berlin",
+    "dd": "Berlin",
+    "de": "Berlin"
+  },
   "iso3": "DEU",
-  "language_code": [
-    "dd",
-    "de"
-  ],
-  "continent_code": "EU",
   "tld": ".de",
   "timezones": [
     "UTC+01:00"
@@ -21,10 +20,14 @@
   "area": 357114,
   "population": 83491249,
   "flag": "🇩🇪",
-  "region_common": "Europe",
-  "demonym": "German",
-  "gdp": 4456081016705.961,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "German",
+    "de": "Deutsch"
+  },
+  "gdp": {
+    "value": 4456081016705.961,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -62,5 +65,13 @@
       "FR",
       "LU"
     ]
-  }
+  },
+  "lang": [
+    "dd",
+    "de"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
+  ]
 }

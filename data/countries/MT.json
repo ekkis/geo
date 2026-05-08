@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Malta",
-    "official": "Republic of Malta"
+    "official": "Republic of Malta",
+    "mt": "Malta"
   },
   "regions": [
-    "SE"
+    "CEU"
   ],
-  "capital": "Valletta",
-  "currency_code": "EUR",
+  "capital": {
+    "en": "Valletta",
+    "mt": "Valletta"
+  },
   "iso3": "MLT",
-  "language_code": [
-    "mt"
-  ],
-  "continent_code": "EU",
   "tld": ".mt",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +19,14 @@
   "area": 316,
   "population": 574250,
   "flag": "🇲🇹",
-  "region_common": "Europe",
-  "demonym": "Maltese",
-  "gdp": 20956999452.431664,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Maltese",
+    "mt": "Malti"
+  },
+  "gdp": {
+    "value": 20956999452.431664,
+    "year": 2023
+  },
   "postal_code": {
     "format": "@@@ ###|@@@ ##",
     "regex": "^([A-Z]{3}\\d{2}\\d?)$"
@@ -37,5 +40,12 @@
   "divisions": [
     "region",
     "local council"
+  ],
+  "lang": [
+    "mt"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

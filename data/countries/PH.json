@@ -1,18 +1,17 @@
 {
   "name": {
     "common": "Philippines",
-    "official": "Republic of the Philippines"
+    "official": "Republic of the Philippines",
+    "tl": "Pilipinas"
   },
   "regions": [
     "SEA"
   ],
-  "capital": "Manila",
-  "currency_code": "PHP",
+  "capital": {
+    "en": "Manila",
+    "tl": "Maynila"
+  },
   "iso3": "PHL",
-  "language_code": [
-    "tl"
-  ],
-  "continent_code": "AS",
   "tld": ".ph",
   "timezones": [
     "UTC+08:00"
@@ -20,10 +19,14 @@
   "area": 342353,
   "population": 114123600,
   "flag": "🇵🇭",
-  "region_common": "Asia",
-  "demonym": "Filipino",
-  "gdp": 437146372729.94244,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Filipino",
+    "tl": "Filipino"
+  },
+  "gdp": {
+    "value": 437146372729.94244,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -40,5 +43,12 @@
     "province/city",
     "municipality/city",
     "barangay"
+  ],
+  "lang": [
+    "tl"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "PHP"
   ]
 }
