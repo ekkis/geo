@@ -1,0 +1,49 @@
+{
+  "name": {
+    "common": "Republic of the Congo",
+    "official": "Republic of the Congo"
+  },
+  "capital": "Brazzaville",
+  "currency_code": "XAF",
+  "iso3": "COG",
+  "language_code": [
+    "fr"
+  ],
+  "continent_code": "AF",
+  "tld": ".cg",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 342000,
+  "population": 6142180,
+  "flag": "🇨🇬",
+  "region_common": "Africa",
+  "demonym": "Congolese",
+  "gdp": 15321055818.326313,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU"
+  ],
+  "phone_code": "242",
+  "divisions": [
+    "department",
+    "district",
+    "commune"
+  ],
+  "neighbours": {
+    "NE": [
+      "CF",
+      "CD"
+    ],
+    "NW": [
+      "CM"
+    ],
+    "SE": [
+      "AO"
+    ],
+    "W": [
+      "GA"
+    ]
+  }
+}

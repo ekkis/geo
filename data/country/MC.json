@@ -1,0 +1,43 @@
+{
+  "name": {
+    "common": "Monaco",
+    "official": "Principality of Monaco"
+  },
+  "regions": [
+    "WEU"
+  ],
+  "capital": "Monaco",
+  "currency_code": "EUR",
+  "iso3": "MCO",
+  "language_code": [
+    "mco"
+  ],
+  "continent_code": "EU",
+  "tld": ".mc",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 2.02,
+  "population": 38423,
+  "flag": "🇲🇨",
+  "region_common": "Europe",
+  "demonym": "Monegasque",
+  "gdp": 8784002931.686646,
+  "gdp_year": 2022,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "377",
+  "divisions": [
+    "ward"
+  ],
+  "neighbours": {
+    "NW": [
+      "FR"
+    ]
+  }
+}

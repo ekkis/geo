@@ -1,0 +1,47 @@
+{
+  "name": {
+    "common": "Liberia",
+    "official": "Republic of Liberia"
+  },
+  "capital": "Monrovia",
+  "currency_code": "LRD",
+  "iso3": "LBR",
+  "language_code": [
+    "lbr"
+  ],
+  "continent_code": "AF",
+  "tld": ".lr",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 111369,
+  "population": 5248621,
+  "flag": "🇱🇷",
+  "region_common": "Africa",
+  "demonym": "Liberian",
+  "gdp": 4332000000,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "231",
+  "divisions": [
+    "county",
+    "district"
+  ],
+  "neighbours": {
+    "NE": [
+      "CI"
+    ],
+    "NW": [
+      "GN",
+      "SL"
+    ]
+  }
+}

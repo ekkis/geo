@@ -1,0 +1,51 @@
+{
+  "name": {
+    "common": "South Sudan",
+    "official": "Republic of South Sudan"
+  },
+  "capital": "Juba",
+  "currency_code": "SSP",
+  "iso3": "SSD",
+  "language_code": [
+    "ssd"
+  ],
+  "continent_code": "AF",
+  "tld": ".ss",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 619745,
+  "population": 15786898,
+  "flag": "🇸🇸",
+  "region_common": "Africa",
+  "demonym": "South Sudanese",
+  "gdp": 11997800760.224182,
+  "gdp_year": 2015,
+  "organisations": [
+    "AU",
+    "UN"
+  ],
+  "phone_code": "211",
+  "divisions": [
+    "state",
+    "county"
+  ],
+  "neighbours": {
+    "NE": [
+      "ET"
+    ],
+    "SE": [
+      "KE",
+      "UG"
+    ],
+    "SW": [
+      "CD"
+    ],
+    "W": [
+      "CF"
+    ],
+    "N": [
+      "SD"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": {
+    "common": "Bouvet Island",
+    "official": "Bouvet Island"
+  },
+  "regions": [],
+  "capital": "",
+  "currency_code": "NOK",
+  "iso3": "BVT",
+  "language_code": [
+    "bvt"
+  ],
+  "continent_code": "AN",
+  "tld": ".bv",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 49,
+  "population": 0,
+  "flag": "🇧🇻",
+  "region_common": "Antarctic",
+  "demonym": "Bouvet Islandese",
+  "phone_code": ""
+}

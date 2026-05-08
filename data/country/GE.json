@@ -1,0 +1,53 @@
+{
+  "name": {
+    "common": "Georgia",
+    "official": "Georgia"
+  },
+  "regions": [
+    "WAS",
+    "CAUC"
+  ],
+  "capital": "Tbilisi",
+  "currency_code": "GEL",
+  "iso3": "GEO",
+  "language_code": [
+    "geo"
+  ],
+  "continent_code": "AS",
+  "tld": ".ge",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "area": 69700,
+  "population": 4000921,
+  "flag": "🇬🇪",
+  "region_common": "Asia",
+  "demonym": "Georgian",
+  "gdp": 30535530479.022663,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "995",
+  "divisions": [
+    "region",
+    "municipality"
+  ],
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "SE": [
+      "AM",
+      "AZ"
+    ],
+    "SW": [
+      "TR"
+    ]
+  }
+}

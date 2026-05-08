@@ -1,0 +1,49 @@
+{
+  "name": {
+    "common": "Mongolia",
+    "official": "Mongolia"
+  },
+  "regions": [
+    "EAS"
+  ],
+  "capital": "Ulan Bator",
+  "currency_code": "MNT",
+  "iso3": "MNG",
+  "language_code": [
+    "mn"
+  ],
+  "continent_code": "AS",
+  "tld": ".mn",
+  "timezones": [
+    "UTC+07:00",
+    "UTC+08:00"
+  ],
+  "area": 1564110,
+  "population": 3544835,
+  "flag": "🇲🇳",
+  "region_common": "Asia",
+  "demonym": "Mongolian",
+  "gdp": 19872180369.6275,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "976",
+  "divisions": [
+    "aimag/sum",
+    "sum"
+  ],
+  "neighbours": {
+    "NW": [
+      "RU"
+    ],
+    "S": [
+      "CN"
+    ]
+  }
+}

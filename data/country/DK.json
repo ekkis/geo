@@ -1,0 +1,56 @@
+{
+  "name": {
+    "common": "Denmark",
+    "official": "Kingdom of Denmark"
+  },
+  "regions": [
+    "SCAN",
+    "NOR",
+    "WEU",
+    "NOR"
+  ],
+  "capital": "Copenhagen",
+  "currency_code": "DKK",
+  "iso3": "DNK",
+  "language_code": [
+    "dnk"
+  ],
+  "continent_code": "EU",
+  "tld": ".dk",
+  "timezones": [
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-01:00",
+    "UTC",
+    "UTC+01:00"
+  ],
+  "area": 43094,
+  "population": 6011488,
+  "flag": "🇩🇰",
+  "region_common": "Europe",
+  "demonym": "Danish",
+  "gdp": 404198757537.9742,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "45",
+  "divisions": [
+    "region",
+    "municipality"
+  ],
+  "neighbours": {
+    "SW": [
+      "DE"
+    ]
+  }
+}

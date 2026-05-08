@@ -1,0 +1,80 @@
+{
+  "name": {
+    "common": "China",
+    "official": "People's Republic of China"
+  },
+  "regions": [
+    "EAS"
+  ],
+  "capital": "Beijing",
+  "currency_code": "CNY",
+  "iso3": "CHN",
+  "language_code": [
+    "zh"
+  ],
+  "continent_code": "AS",
+  "tld": ".cn",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "area": 9706961,
+  "population": 1408280000,
+  "flag": "🇨🇳",
+  "region_common": "Asia",
+  "demonym": "Chinese",
+  "gdp": 17794781986104.457,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "BIS",
+    "G20",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "86",
+  "divisions": [
+    "province",
+    "autonomous region",
+    "municipality",
+    "special administrative region",
+    "prefecture",
+    "county"
+  ],
+  "neighbours": {
+    "NE": [
+      "KP"
+    ],
+    "NW": [
+      "TJ",
+      "KG",
+      "RU",
+      "KZ"
+    ],
+    "SE": [
+      "HK",
+      "VN",
+      "MO"
+    ],
+    "SW": [
+      "AF",
+      "BT",
+      "PK",
+      "IN",
+      "NP",
+      "MM"
+    ],
+    "W": [
+      "AF",
+      "BT"
+    ],
+    "N": [
+      "MN"
+    ],
+    "S": [
+      "LA"
+    ]
+  }
+}

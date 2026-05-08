@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Vanuatu",
+    "official": "Republic of Vanuatu"
+  },
+  "capital": "Port Vila",
+  "currency_code": "VUV",
+  "iso3": "VUT",
+  "language_code": [
+    "bi",
+    "nh"
+  ],
+  "continent_code": "OC",
+  "tld": ".vu",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "area": 12189,
+  "population": 321409,
+  "flag": "🇻🇺",
+  "region_common": "Oceania",
+  "demonym": "Ni-Vanuatu",
+  "gdp": 1126313359.2192256,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "678",
+  "divisions": [
+    "province",
+    "island"
+  ]
+}

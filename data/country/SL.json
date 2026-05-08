@@ -1,0 +1,43 @@
+{
+  "name": {
+    "common": "Sierra Leone",
+    "official": "Republic of Sierra Leone"
+  },
+  "capital": "Freetown",
+  "currency_code": "SLL",
+  "iso3": "SLE",
+  "language_code": [
+    "sle"
+  ],
+  "continent_code": "AF",
+  "tld": ".sl",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 71740,
+  "population": 9077691,
+  "flag": "🇸🇱",
+  "region_common": "Africa",
+  "demonym": "Sierra Leonean",
+  "gdp": 3809832236.9595933,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "232",
+  "divisions": [
+    "province",
+    "district",
+    "chieftom"
+  ],
+  "neighbours": {
+    "NE": [
+      "GN"
+    ],
+    "SE": [
+      "LR"
+    ]
+  }
+}

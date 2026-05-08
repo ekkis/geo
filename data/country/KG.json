@@ -1,0 +1,54 @@
+{
+  "name": {
+    "common": "Kyrgyzstan",
+    "official": "Kyrgyz Republic"
+  },
+  "regions": [
+    "CAS"
+  ],
+  "capital": "Bishkek",
+  "currency_code": "KGS",
+  "iso3": "KGZ",
+  "language_code": [
+    "ky"
+  ],
+  "continent_code": "AS",
+  "tld": ".kg",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "area": 199951,
+  "population": 7281800,
+  "flag": "🇰🇬",
+  "region_common": "Asia",
+  "demonym": "Kirghiz",
+  "gdp": 13987627908.838139,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "996",
+  "divisions": [
+    "region",
+    "district"
+  ],
+  "neighbours": {
+    "NW": [
+      "KZ"
+    ],
+    "SE": [
+      "CN"
+    ],
+    "SW": [
+      "TJ"
+    ],
+    "W": [
+      "UZ"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": {
+    "common": "Somalia",
+    "official": "Federal Republic of Somalia"
+  },
+  "capital": "Mogadishu",
+  "currency_code": "SOS",
+  "iso3": "SOM",
+  "language_code": [
+    "so"
+  ],
+  "continent_code": "AF",
+  "tld": ".so",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 637657,
+  "population": 19655000,
+  "flag": "🇸🇴",
+  "region_common": "Africa",
+  "demonym": "Somali",
+  "gdp": 11679800110.152267,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "@@  #####",
+    "regex": "^([A-Z]{2}\\d{5})$"
+  },
+  "organisations": [
+    "AU",
+    "UN"
+  ],
+  "phone_code": "252",
+  "divisions": [
+    "federal member state",
+    "district"
+  ],
+  "neighbours": {
+    "NW": [
+      "DJ"
+    ],
+    "SW": [
+      "ET",
+      "KE"
+    ]
+  }
+}

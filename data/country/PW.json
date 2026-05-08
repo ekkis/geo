@@ -1,0 +1,36 @@
+{
+  "name": {
+    "common": "Palau",
+    "official": "Republic of Palau"
+  },
+  "capital": "Melekeok",
+  "currency_code": "USD",
+  "iso3": "PLW",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "OC",
+  "tld": ".pw",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "area": 459,
+  "population": 16733,
+  "flag": "🇵🇼",
+  "region_common": "Oceania",
+  "demonym": "Palauan",
+  "gdp": 263020733.717011,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "96940",
+    "regex": "^(96940)$"
+  },
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "680",
+  "divisions": [
+    "state",
+    "municipality"
+  ]
+}

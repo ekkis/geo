@@ -1,0 +1,39 @@
+{
+  "name": {
+    "common": "Madagascar",
+    "official": "Republic of Madagascar"
+  },
+  "capital": "Antananarivo",
+  "currency_code": "MGA",
+  "iso3": "MDG",
+  "language_code": [
+    "mdg"
+  ],
+  "continent_code": "AF",
+  "tld": ".mg",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 587041,
+  "population": 31727042,
+  "flag": "🇲🇬",
+  "region_common": "Africa",
+  "demonym": "Malagasy",
+  "gdp": 16031702914.91953,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "###",
+    "regex": "^(\\d{3})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "261",
+  "divisions": [
+    "region",
+    "district",
+    "commune"
+  ]
+}

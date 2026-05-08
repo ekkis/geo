@@ -1,0 +1,44 @@
+{
+  "name": {
+    "common": "New Zealand",
+    "official": "New Zealand"
+  },
+  "capital": "Wellington",
+  "currency_code": "NZD",
+  "iso3": "NZL",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "OC",
+  "tld": ".nz",
+  "timezones": [
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC+12:00",
+    "UTC+12:45",
+    "UTC+13:00"
+  ],
+  "area": 268838,
+  "population": 5324700,
+  "flag": "🇳🇿",
+  "region_common": "Oceania",
+  "demonym": "New Zealander",
+  "gdp": 253465703232.14594,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "64",
+  "divisions": [
+    "region",
+    "territorial authority",
+    "ward"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": {
+    "common": "Kuwait",
+    "official": "State of Kuwait"
+  },
+  "regions": [],
+  "capital": "Kuwait City",
+  "currency_code": "KWD",
+  "iso3": "KWT",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AS",
+  "tld": ".kw",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 17818,
+  "population": 4881254,
+  "flag": "🇰🇼",
+  "region_common": "Asia",
+  "demonym": "Kuwaiti",
+  "gdp": 161772221950.94162,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "965",
+  "divisions": [
+    "governorate"
+  ],
+  "neighbours": {
+    "NW": [
+      "IQ"
+    ],
+    "SW": [
+      "SA"
+    ]
+  }
+}

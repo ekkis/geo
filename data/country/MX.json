@@ -1,0 +1,56 @@
+{
+  "name": {
+    "common": "Mexico",
+    "official": "United Mexican States"
+  },
+  "regions": [
+    "NA",
+    "LATAM"
+  ],
+  "capital": "Mexico City",
+  "currency_code": "MXN",
+  "iso3": "MEX",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".mx",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00"
+  ],
+  "area": 1964375,
+  "population": 130575786,
+  "flag": "🇲🇽",
+  "region_common": "Americas",
+  "demonym": "Mexican",
+  "gdp": 1788886821046.8132,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "G20",
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "52",
+  "divisions": [
+    "state/federal entity",
+    "municipality"
+  ],
+  "neighbours": {
+    "SE": [
+      "BZ",
+      "GT"
+    ],
+    "NE": [
+      "US"
+    ]
+  }
+}

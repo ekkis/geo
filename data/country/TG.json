@@ -1,0 +1,46 @@
+{
+  "name": {
+    "common": "Togo",
+    "official": "Togolese Republic"
+  },
+  "capital": "Lome",
+  "currency_code": "XOF",
+  "iso3": "TGO",
+  "language_code": [
+    "fr"
+  ],
+  "continent_code": "AF",
+  "tld": ".tg",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 56785,
+  "population": 8095498,
+  "flag": "🇹🇬",
+  "region_common": "Africa",
+  "demonym": "Togolese",
+  "gdp": 9171261835.062641,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "228",
+  "divisions": [
+    "region",
+    "prefecture",
+    "sub-prefecture"
+  ],
+  "neighbours": {
+    "NE": [
+      "BJ"
+    ],
+    "NW": [
+      "BF"
+    ],
+    "W": [
+      "GH"
+    ]
+  }
+}

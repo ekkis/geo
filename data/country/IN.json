@@ -1,0 +1,60 @@
+{
+  "name": {
+    "common": "India",
+    "official": "Republic of India"
+  },
+  "regions": [
+    "SAS"
+  ],
+  "capital": "New Delhi",
+  "currency_code": "INR",
+  "iso3": "IND",
+  "language_code": [
+    "hi"
+  ],
+  "continent_code": "AS",
+  "tld": ".in",
+  "timezones": [
+    "UTC+05:30"
+  ],
+  "area": 3287263,
+  "population": 1417492000,
+  "flag": "🇮🇳",
+  "region_common": "Asia",
+  "demonym": "Indian",
+  "gdp": 3549918918777.5317,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "BIS",
+    "G20",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "91",
+  "divisions": [
+    "state",
+    "union territory",
+    "district",
+    "tehsil",
+    "village"
+  ],
+  "neighbours": {
+    "NE": [
+      "BD",
+      "BT",
+      "CN",
+      "NP",
+      "MM"
+    ],
+    "NW": [
+      "PK"
+    ],
+    "SE": [
+      "LK"
+    ]
+  }
+}

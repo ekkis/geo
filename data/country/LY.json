@@ -1,0 +1,49 @@
+{
+  "name": {
+    "common": "Libya",
+    "official": "State of Libya"
+  },
+  "capital": "Tripolis",
+  "currency_code": "LYD",
+  "iso3": "LBY",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AF",
+  "tld": ".ly",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 1759540,
+  "population": 7459000,
+  "flag": "🇱🇾",
+  "region_common": "Africa",
+  "demonym": "Libyan",
+  "gdp": 50491722445.7773,
+  "gdp_year": 2023,
+  "organisations": [
+    "AU",
+    "UN"
+  ],
+  "phone_code": "218",
+  "divisions": [
+    "governorate",
+    "district"
+  ],
+  "neighbours": {
+    "NE": [
+      "EG"
+    ],
+    "NW": [
+      "DZ",
+      "TN"
+    ],
+    "SE": [
+      "TD",
+      "SD"
+    ],
+    "SW": [
+      "NE"
+    ]
+  }
+}

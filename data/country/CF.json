@@ -1,0 +1,53 @@
+{
+  "name": {
+    "common": "Central African Republic",
+    "official": "Central African Republic"
+  },
+  "capital": "Bangui",
+  "currency_code": "XAF",
+  "iso3": "CAF",
+  "language_code": [
+    "fr"
+  ],
+  "continent_code": "AF",
+  "tld": ".cf",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 622984,
+  "population": 6470307,
+  "flag": "🇨🇫",
+  "region_common": "Africa",
+  "demonym": "Central African",
+  "gdp": 2555492085.2483063,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "236",
+  "divisions": [
+    "prefecture",
+    "sub-prefecture",
+    "commune"
+  ],
+  "neighbours": {
+    "NE": [
+      "SD"
+    ],
+    "NW": [
+      "TD"
+    ],
+    "SE": [
+      "CD"
+    ],
+    "SW": [
+      "CM",
+      "CG"
+    ],
+    "E": [
+      "SS"
+    ]
+  }
+}

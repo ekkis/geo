@@ -1,0 +1,52 @@
+{
+  "name": {
+    "common": "Mozambique",
+    "official": "Republic of Mozambique"
+  },
+  "capital": "Maputo",
+  "currency_code": "MZN",
+  "iso3": "MOZ",
+  "language_code": [
+    "pt"
+  ],
+  "continent_code": "AF",
+  "tld": ".mz",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 801590,
+  "population": 34090466,
+  "flag": "🇲🇿",
+  "region_common": "Africa",
+  "demonym": "Mozambican",
+  "gdp": 20624597846.549507,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "258",
+  "divisions": [
+    "province",
+    "district"
+  ],
+  "neighbours": {
+    "NW": [
+      "ZM",
+      "MW"
+    ],
+    "SW": [
+      "ZW",
+      "ZA",
+      "SZ"
+    ],
+    "N": [
+      "TZ"
+    ]
+  }
+}

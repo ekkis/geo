@@ -1,0 +1,56 @@
+{
+  "name": {
+    "common": "Ukraine",
+    "official": "Ukraine"
+  },
+  "regions": [
+    "EE"
+  ],
+  "capital": "Kiev",
+  "currency_code": "UAH",
+  "iso3": "UKR",
+  "language_code": [
+    "uk"
+  ],
+  "continent_code": "EU",
+  "tld": ".ua",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 603550,
+  "population": 32862000,
+  "flag": "🇺🇦",
+  "region_common": "Europe",
+  "demonym": "Ukrainian",
+  "gdp": 178757021386.80896,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "380",
+  "divisions": [
+    "oblast/autonomous republic",
+    "raion",
+    "city/district significance"
+  ],
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "NW": [
+      "BY",
+      "PL"
+    ],
+    "SW": [
+      "HU",
+      "MD",
+      "RO",
+      "SK"
+    ]
+  }
+}

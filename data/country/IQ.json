@@ -1,0 +1,51 @@
+{
+  "name": {
+    "common": "Iraq",
+    "official": "Republic of Iraq"
+  },
+  "regions": [],
+  "capital": "Baghdad",
+  "currency_code": "IQD",
+  "iso3": "IRQ",
+  "language_code": [
+    "ar"
+  ],
+  "continent_code": "AS",
+  "tld": ".iq",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 438317,
+  "population": 46118793,
+  "flag": "🇮🇶",
+  "region_common": "Asia",
+  "demonym": "Iraqi",
+  "gdp": 250842782139.46417,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "964",
+  "divisions": [
+    "governorate",
+    "district"
+  ],
+  "neighbours": {
+    "NW": [
+      "SY",
+      "TR"
+    ],
+    "SE": [
+      "IR",
+      "KW",
+      "SA"
+    ],
+    "SW": [
+      "JO"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": {
+    "common": "Jamaica",
+    "official": "Jamaica"
+  },
+  "regions": [],
+  "capital": "Kingston",
+  "currency_code": "JMD",
+  "iso3": "JAM",
+  "language_code": [
+    "jam"
+  ],
+  "continent_code": "NA",
+  "tld": ".jm",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "area": 10991,
+  "population": 2825544,
+  "flag": "🇯🇲",
+  "region_common": "Americas",
+  "demonym": "Jamaican",
+  "gdp": 19423355367.23718,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "+1-876",
+  "divisions": [
+    "parish",
+    "municipality"
+  ]
+}

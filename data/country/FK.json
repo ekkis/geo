@@ -1,0 +1,23 @@
+{
+  "name": {
+    "common": "Falkland Islands",
+    "official": "Falkland Islands"
+  },
+  "capital": "Stanley",
+  "currency_code": "FKP",
+  "iso3": "FLK",
+  "language_code": [
+    "flk"
+  ],
+  "continent_code": "SA",
+  "tld": ".fk",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 12173,
+  "population": 3662,
+  "flag": "🇫🇰",
+  "region_common": "Americas",
+  "demonym": "Falkland Islander",
+  "phone_code": "500"
+}

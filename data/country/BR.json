@@ -1,0 +1,64 @@
+{
+  "name": {
+    "common": "Brazil",
+    "official": "Federative Republic of Brazil"
+  },
+  "capital": "Brasilia",
+  "currency_code": "BRL",
+  "iso3": "BRA",
+  "language_code": [
+    "pt"
+  ],
+  "continent_code": "SA",
+  "tld": ".br",
+  "timezones": [
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-02:00"
+  ],
+  "area": 8515767,
+  "population": 213421037,
+  "flag": "🇧🇷",
+  "region_common": "Americas",
+  "demonym": "Brazilian",
+  "gdp": 2173665655937.2737,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####-###",
+    "regex": "^(\\d{8})$"
+  },
+  "organisations": [
+    "BIS",
+    "G20",
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "55",
+  "divisions": [
+    "state",
+    "federal district",
+    "municipality"
+  ],
+  "neighbours": {
+    "NE": [
+      "GF"
+    ],
+    "NW": [
+      "SR",
+      "CO",
+      "VE",
+      "GY"
+    ],
+    "SW": [
+      "AR",
+      "BO",
+      "PY",
+      "UY"
+    ],
+    "W": [
+      "PE"
+    ]
+  }
+}

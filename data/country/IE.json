@@ -1,0 +1,44 @@
+{
+  "name": {
+    "common": "Ireland",
+    "official": "Republic of Ireland"
+  },
+  "regions": [
+    "WEU"
+  ],
+  "capital": "Dublin",
+  "currency_code": "EUR",
+  "iso3": "IRL",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "EU",
+  "tld": ".ie",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 70273,
+  "population": 5458600,
+  "flag": "🇮🇪",
+  "region_common": "Europe",
+  "demonym": "Irish",
+  "gdp": 545629450403.7351,
+  "gdp_year": 2023,
+  "organisations": [
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "353",
+  "divisions": [
+    "county",
+    "city/town"
+  ],
+  "neighbours": {
+    "NE": [
+      "GB"
+    ]
+  }
+}

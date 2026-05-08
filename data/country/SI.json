@@ -1,0 +1,58 @@
+{
+  "name": {
+    "common": "Slovenia",
+    "official": "Republic of Slovenia"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Ljubljana",
+  "currency_code": "EUR",
+  "iso3": "SVN",
+  "language_code": [
+    "svn"
+  ],
+  "continent_code": "EU",
+  "tld": ".si",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 20273,
+  "population": 2130638,
+  "flag": "🇸🇮",
+  "region_common": "Europe",
+  "demonym": "Slovene",
+  "gdp": 68216781410.52277,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "SI- ####",
+    "regex": "^(?:SI)*(\\d{4})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "386",
+  "divisions": [
+    "statistical region",
+    "municipality"
+  ],
+  "neighbours": {
+    "NE": [
+      "HU"
+    ],
+    "NW": [
+      "AT"
+    ],
+    "SE": [
+      "HR"
+    ],
+    "SW": [
+      "IT"
+    ]
+  }
+}

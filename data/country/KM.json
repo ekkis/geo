@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Comoros",
+    "official": "Union of the Comoros"
+  },
+  "capital": "Moroni",
+  "currency_code": "KMF",
+  "iso3": "COM",
+  "language_code": [
+    "com"
+  ],
+  "continent_code": "AF",
+  "tld": ".km",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 1862,
+  "population": 919901,
+  "flag": "🇰🇲",
+  "region_common": "Africa",
+  "demonym": "Comoran",
+  "gdp": 1352380972.1566217,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU",
+    "UN"
+  ],
+  "phone_code": "269",
+  "divisions": [
+    "island",
+    "commune"
+  ]
+}

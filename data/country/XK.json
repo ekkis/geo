@@ -1,0 +1,18 @@
+{
+  "name": {
+    "common": "Kosovo",
+    "official": "Republic of Kosovo"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Pristina",
+  "currency_code": "EUR",
+  "iso3": "XKX",
+  "language_code": [
+    "xkk"
+  ],
+  "continent_code": "EU",
+  "demonym": "Kosovar",
+  "phone_code": ""
+}

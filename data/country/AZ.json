@@ -1,0 +1,56 @@
+{
+  "name": {
+    "common": "Azerbaijan",
+    "official": "Republic of Azerbaijan"
+  },
+  "regions": [
+    "WAS",
+    "CAUC"
+  ],
+  "capital": "Baku",
+  "currency_code": "AZN",
+  "iso3": "AZE",
+  "language_code": [
+    "az"
+  ],
+  "continent_code": "AS",
+  "tld": ".az",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "area": 86600,
+  "population": 10241722,
+  "flag": "🇦🇿",
+  "region_common": "Asia",
+  "demonym": "Azerbaijani",
+  "gdp": 72356176470.58824,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "AZ ####",
+    "regex": "^(?:AZ)*(\\d{4})$"
+  },
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "994",
+  "divisions": [
+    "economic region",
+    "district",
+    "municipality"
+  ],
+  "neighbours": {
+    "NE": [
+      "RU"
+    ],
+    "NW": [
+      "GE"
+    ],
+    "SE": [
+      "IR"
+    ],
+    "SW": [
+      "AM",
+      "TR"
+    ]
+  }
+}

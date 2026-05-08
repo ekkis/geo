@@ -1,0 +1,56 @@
+{
+  "name": {
+    "common": "Switzerland",
+    "official": "Swiss Confederation"
+  },
+  "regions": [
+    "WEU"
+  ],
+  "capital": "Berne",
+  "currency_code": "CHF",
+  "iso3": "CHE",
+  "language_code": [
+    "ce"
+  ],
+  "continent_code": "EU",
+  "tld": ".ch",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 41284,
+  "population": 9082848,
+  "flag": "🇨🇭",
+  "region_common": "Europe",
+  "demonym": "Swiss",
+  "gdp": 884940402230.4088,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "OECD",
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "41",
+  "divisions": [
+    "canton",
+    "district",
+    "municipality"
+  ],
+  "neighbours": {
+    "NE": [
+      "AT",
+      "LI",
+      "DE"
+    ],
+    "SE": [
+      "IT"
+    ],
+    "SW": [
+      "FR"
+    ]
+  }
+}

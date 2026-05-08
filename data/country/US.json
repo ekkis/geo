@@ -1,0 +1,63 @@
+{
+  "name": {
+    "common": "United States",
+    "official": "United States of America"
+  },
+  "regions": [
+    "NA"
+  ],
+  "capital": "Washington",
+  "currency_code": "USD",
+  "iso3": "USA",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "NA",
+  "tld": ".us",
+  "timezones": [
+    "UTC-12:00",
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC-09:00",
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC+10:00",
+    "UTC+12:00"
+  ],
+  "area": 9525067,
+  "population": 340110988,
+  "flag": "🇺🇸",
+  "region_common": "Americas",
+  "demonym": "American",
+  "gdp": 27360935000000,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####-####",
+    "regex": "^\\d{5}(-\\d{4})?$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "G20",
+    "WTO",
+    "OAS"
+  ],
+  "phone_code": "1",
+  "divisions": [
+    "region",
+    "state",
+    "county"
+  ],
+  "neighbours": {
+    "NE": [
+      "CA"
+    ],
+    "SW": [
+      "MX"
+    ]
+  }
+}

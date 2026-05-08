@@ -1,0 +1,30 @@
+{
+  "name": {
+    "common": "Puerto Rico",
+    "official": "Commonwealth of Puerto Rico"
+  },
+  "regions": [],
+  "capital": "San Juan",
+  "currency_code": "USD",
+  "iso3": "PRI",
+  "language_code": [
+    "es"
+  ],
+  "continent_code": "NA",
+  "tld": ".pr",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 8870,
+  "population": 3203295,
+  "flag": "🇵🇷",
+  "region_common": "Americas",
+  "demonym": "Puerto Rican",
+  "gdp": 117902300000,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####-####",
+    "regex": "^(\\d{9})$"
+  },
+  "phone_code": "+1-787 and 1-939"
+}

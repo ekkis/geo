@@ -1,0 +1,54 @@
+{
+  "name": {
+    "common": "Tanzania",
+    "official": "United Republic of Tanzania"
+  },
+  "capital": "Dodoma",
+  "currency_code": "TZS",
+  "iso3": "TZA",
+  "language_code": [
+    "sw"
+  ],
+  "continent_code": "AF",
+  "tld": ".tz",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "area": 947303,
+  "population": 68153004,
+  "flag": "🇹🇿",
+  "region_common": "Africa",
+  "demonym": "Tanzanian",
+  "gdp": 79158286333.52399,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "AU"
+  ],
+  "phone_code": "255",
+  "divisions": [
+    "region",
+    "district",
+    "division",
+    "ward",
+    "village"
+  ],
+  "neighbours": {
+    "NE": [
+      "KE"
+    ],
+    "NW": [
+      "BI",
+      "CD",
+      "RW",
+      "UG"
+    ],
+    "SW": [
+      "MW",
+      "ZM"
+    ],
+    "S": [
+      "MZ"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": {
+    "common": "Malaysia",
+    "official": "Malaysia"
+  },
+  "regions": [
+    "SEA"
+  ],
+  "capital": "Kuala Lumpur",
+  "currency_code": "MYR",
+  "iso3": "MYS",
+  "language_code": [
+    "ms"
+  ],
+  "continent_code": "AS",
+  "tld": ".my",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "area": 330803,
+  "population": 34231700,
+  "flag": "🇲🇾",
+  "region_common": "Asia",
+  "demonym": "Malaysian",
+  "gdp": 399648828546.5043,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "ASEAN",
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "60",
+  "divisions": [
+    "state/federal territory",
+    "district"
+  ],
+  "neighbours": {
+    "NE": [
+      "BN"
+    ],
+    "NW": [
+      "TH"
+    ],
+    "SE": [
+      "ID"
+    ]
+  }
+}

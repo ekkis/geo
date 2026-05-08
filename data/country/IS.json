@@ -1,0 +1,45 @@
+{
+  "name": {
+    "common": "Iceland",
+    "official": "Iceland"
+  },
+  "regions": [
+    "SCAN",
+    "NOR",
+    "NOR"
+  ],
+  "capital": "Reykjavik",
+  "currency_code": "ISK",
+  "iso3": "ISL",
+  "language_code": [
+    "is"
+  ],
+  "continent_code": "EU",
+  "tld": ".is",
+  "timezones": [
+    "UTC"
+  ],
+  "area": 103000,
+  "population": 391810,
+  "flag": "🇮🇸",
+  "region_common": "Europe",
+  "demonym": "Icelander",
+  "gdp": 31020032583.197216,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "###",
+    "regex": "^(\\d{3})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "354",
+  "divisions": [
+    "region",
+    "municipality"
+  ]
+}

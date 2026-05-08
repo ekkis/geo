@@ -1,0 +1,36 @@
+{
+  "name": {
+    "common": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevis"
+  },
+  "regions": [
+    "CAR"
+  ],
+  "capital": "Basseterre",
+  "currency_code": "XCD",
+  "iso3": "KNA",
+  "language_code": [
+    "kna"
+  ],
+  "continent_code": "NA",
+  "tld": ".kn",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 261,
+  "population": 51320,
+  "flag": "🇰🇳",
+  "region_common": "Americas",
+  "demonym": "Kittitian or Nevisian",
+  "gdp": 1077033111.111111,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "+1-869",
+  "divisions": [
+    "parish"
+  ]
+}

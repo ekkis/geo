@@ -1,0 +1,36 @@
+{
+  "name": {
+    "common": "Cape Verde",
+    "official": "Republic of Cabo Verde"
+  },
+  "capital": "Praia",
+  "currency_code": "CVE",
+  "iso3": "CPV",
+  "language_code": [
+    "cpv"
+  ],
+  "continent_code": "AF",
+  "tld": ".cv",
+  "timezones": [
+    "UTC-01:00"
+  ],
+  "area": 4033,
+  "population": 491233,
+  "flag": "🇨🇻",
+  "region_common": "Africa",
+  "demonym": "Cape Verdian",
+  "gdp": 2587252076.305599,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "WTO",
+    "AU"
+  ],
+  "phone_code": "238",
+  "divisions": [
+    "municipality"
+  ]
+}

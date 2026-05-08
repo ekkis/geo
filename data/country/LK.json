@@ -1,0 +1,40 @@
+{
+  "name": {
+    "common": "Sri Lanka",
+    "official": "Democratic Socialist Republic of Sri Lanka"
+  },
+  "regions": [],
+  "capital": "Colombo",
+  "currency_code": "LKR",
+  "iso3": "LKA",
+  "language_code": [
+    "lka"
+  ],
+  "continent_code": "AS",
+  "tld": ".lk",
+  "timezones": [
+    "UTC+05:30"
+  ],
+  "area": 65610,
+  "population": 21763170,
+  "flag": "🇱🇰",
+  "region_common": "Asia",
+  "demonym": "Sri Lankan",
+  "gdp": 84356860421.12996,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "94",
+  "divisions": [
+    "province",
+    "district",
+    "divisional secretariat",
+    "grama niladhari division"
+  ]
+}

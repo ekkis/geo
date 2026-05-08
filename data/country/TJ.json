@@ -1,0 +1,58 @@
+{
+  "name": {
+    "common": "Tajikistan",
+    "official": "Republic of Tajikistan"
+  },
+  "regions": [
+    "CAS"
+  ],
+  "capital": "Dushanbe",
+  "currency_code": "TJS",
+  "iso3": "TJK",
+  "language_code": [
+    "tg"
+  ],
+  "continent_code": "AS",
+  "tld": ".tj",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "area": 143100,
+  "population": 10499000,
+  "flag": "🇹🇯",
+  "region_common": "Asia",
+  "demonym": "Tadzhik",
+  "gdp": 12060602008.847782,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "WTO",
+    "UN"
+  ],
+  "phone_code": "992",
+  "divisions": [
+    "region/autonomous region",
+    "district",
+    "town/village"
+  ],
+  "neighbours": {
+    "NE": [
+      "KG"
+    ],
+    "NW": [
+      "UZ"
+    ],
+    "SE": [
+      "CN"
+    ],
+    "SW": [
+      "AF"
+    ],
+    "W": [
+      "AF"
+    ]
+  }
+}

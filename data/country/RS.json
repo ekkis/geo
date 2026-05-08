@@ -1,0 +1,64 @@
+{
+  "name": {
+    "common": "Serbia",
+    "official": "Republic of Serbia"
+  },
+  "regions": [
+    "BKS"
+  ],
+  "capital": "Belgrade",
+  "currency_code": "RSD",
+  "iso3": "SRB",
+  "language_code": [
+    "cs",
+    "scg",
+    "srb",
+    "yu",
+    "yug"
+  ],
+  "continent_code": "EU",
+  "tld": ".rs",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 77589,
+  "population": 6567783,
+  "flag": "🇷🇸",
+  "region_common": "Europe",
+  "demonym": "Serbian",
+  "gdp": 75187125426.73755,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "BIS",
+    "UN"
+  ],
+  "phone_code": "381",
+  "divisions": [
+    "district/autonomous province",
+    "municipality/city"
+  ],
+  "neighbours": {
+    "NE": [
+      "RO"
+    ],
+    "NW": [
+      "HR",
+      "HU"
+    ],
+    "SE": [
+      "BG",
+      "XK",
+      "MK"
+    ],
+    "SW": [
+      "ME"
+    ],
+    "W": [
+      "BA"
+    ]
+  }
+}

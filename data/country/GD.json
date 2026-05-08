@@ -1,0 +1,34 @@
+{
+  "name": {
+    "common": "Grenada",
+    "official": "Grenada"
+  },
+  "regions": [],
+  "capital": "St. George's",
+  "currency_code": "XCD",
+  "iso3": "GRD",
+  "language_code": [
+    "grd"
+  ],
+  "continent_code": "NA",
+  "tld": ".gd",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "area": 344,
+  "population": 109021,
+  "flag": "🇬🇩",
+  "region_common": "Americas",
+  "demonym": "Grenadian",
+  "gdp": 1320334235.588974,
+  "gdp_year": 2023,
+  "organisations": [
+    "WTO",
+    "OAS",
+    "UN"
+  ],
+  "phone_code": "+1-473",
+  "divisions": [
+    "parish"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": {
+    "common": "Romania",
+    "official": "Romania"
+  },
+  "regions": [
+    "CEU"
+  ],
+  "capital": "Bucharest",
+  "currency_code": "RON",
+  "iso3": "ROU",
+  "language_code": [
+    "rou"
+  ],
+  "continent_code": "EU",
+  "tld": ".ro",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "area": 238391,
+  "population": 19036031,
+  "flag": "🇷🇴",
+  "region_common": "Europe",
+  "demonym": "Romanian",
+  "gdp": 351002579629.6701,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "######",
+    "regex": "^(\\d{6})$"
+  },
+  "organisations": [
+    "NATO",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "40",
+  "divisions": [
+    "development region",
+    "county",
+    "city/commune"
+  ],
+  "neighbours": {
+    "NE": [
+      "MD",
+      "UA"
+    ],
+    "NW": [
+      "HU"
+    ],
+    "SW": [
+      "RS"
+    ],
+    "S": [
+      "BG"
+    ]
+  }
+}

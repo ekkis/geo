@@ -1,0 +1,31 @@
+{
+  "name": {
+    "common": "Taiwan",
+    "official": "Republic of China (Taiwan)"
+  },
+  "regions": [],
+  "capital": "Taipei",
+  "currency_code": "TWD",
+  "iso3": "TWN",
+  "language_code": [
+    "zh"
+  ],
+  "continent_code": "AS",
+  "tld": ".tw",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "area": 36197,
+  "population": 23317031,
+  "flag": "🇹🇼",
+  "region_common": "Asia",
+  "demonym": "Taiwanese",
+  "postal_code": {
+    "format": "#####",
+    "regex": "^(\\d{5})$"
+  },
+  "organisations": [
+    "WTO"
+  ],
+  "phone_code": "886"
+}

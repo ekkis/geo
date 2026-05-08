@@ -1,0 +1,62 @@
+{
+  "name": {
+    "common": "Hungary",
+    "official": "Hungary"
+  },
+  "regions": [
+    "CEU"
+  ],
+  "capital": "Budapest",
+  "currency_code": "HUF",
+  "iso3": "HUN",
+  "language_code": [
+    "hu"
+  ],
+  "continent_code": "EU",
+  "tld": ".hu",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "area": 93028,
+  "population": 9539502,
+  "flag": "🇭🇺",
+  "region_common": "Europe",
+  "demonym": "Hungarian",
+  "gdp": 212388906458.72394,
+  "gdp_year": 2023,
+  "postal_code": {
+    "format": "####",
+    "regex": "^(\\d{4})$"
+  },
+  "organisations": [
+    "NATO",
+    "OECD",
+    "BIS",
+    "WTO",
+    "EU",
+    "UN"
+  ],
+  "phone_code": "36",
+  "divisions": [
+    "county",
+    "district",
+    "municipality"
+  ],
+  "neighbours": {
+    "NE": [
+      "UA"
+    ],
+    "NW": [
+      "AT",
+      "SK"
+    ],
+    "SE": [
+      "RO",
+      "RS"
+    ],
+    "SW": [
+      "HR",
+      "SI"
+    ]
+  }
+}

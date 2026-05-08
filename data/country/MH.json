@@ -1,0 +1,32 @@
+{
+  "name": {
+    "common": "Marshall Islands",
+    "official": "Republic of the Marshall Islands"
+  },
+  "capital": "Majuro",
+  "currency_code": "USD",
+  "iso3": "MHL",
+  "language_code": [
+    "en"
+  ],
+  "continent_code": "OC",
+  "tld": ".mh",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "area": 181,
+  "population": 42418,
+  "flag": "🇲🇭",
+  "region_common": "Oceania",
+  "demonym": "Marshallese",
+  "gdp": 284000000,
+  "gdp_year": 2023,
+  "organisations": [
+    "UN"
+  ],
+  "phone_code": "692",
+  "divisions": [
+    "atoll/island",
+    "municipality"
+  ]
+}
