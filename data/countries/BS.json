@@ -26,5 +26,8 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-242"
+  "phone_code": "+1-242",
+  "divisions": [
+    "district"
+  ]
 }

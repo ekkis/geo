@@ -39,5 +39,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "61"
+  "phone_code": "61",
+  "divisions": [
+    "state",
+    "territory",
+    "local government area"
+  ]
 }

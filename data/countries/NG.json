@@ -31,6 +31,10 @@
     "UN"
   ],
   "phone_code": "234",
+  "divisions": [
+    "state/FCT",
+    "LGA"
+  ],
   "neighbours": {
     "NE": [
       "TD"

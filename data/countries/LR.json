@@ -31,6 +31,10 @@
     "UN"
   ],
   "phone_code": "231",
+  "divisions": [
+    "county",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "CI"

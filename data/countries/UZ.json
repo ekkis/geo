@@ -32,6 +32,10 @@
     "UN"
   ],
   "phone_code": "998",
+  "divisions": [
+    "region/autonomous republic",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "KZ"

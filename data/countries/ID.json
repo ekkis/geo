@@ -39,6 +39,12 @@
     "UN"
   ],
   "phone_code": "62",
+  "divisions": [
+    "province",
+    "regency/city",
+    "district",
+    "village"
+  ],
   "neighbours": {
     "NW": [
       "MY"

@@ -52,6 +52,13 @@
     "UN"
   ],
   "phone_code": "33",
+  "divisions": [
+    "region",
+    "department",
+    "arrondissement",
+    "canton",
+    "commune"
+  ],
   "neighbours": {
     "NE": [
       "BE",

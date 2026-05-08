@@ -33,6 +33,11 @@
     "UN"
   ],
   "phone_code": "992",
+  "divisions": [
+    "region/autonomous region",
+    "district",
+    "town/village"
+  ],
   "neighbours": {
     "NE": [
       "KG"

@@ -34,5 +34,9 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "53"
+  "phone_code": "53",
+  "divisions": [
+    "province",
+    "municipality"
+  ]
 }

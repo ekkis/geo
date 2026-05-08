@@ -24,5 +24,8 @@
   "organisations": [
     "AU"
   ],
-  "phone_code": "239"
+  "phone_code": "239",
+  "divisions": [
+    "district/autonomous region"
+  ]
 }

@@ -29,5 +29,8 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-869"
+  "phone_code": "+1-869",
+  "divisions": [
+    "parish"
+  ]
 }

@@ -27,5 +27,9 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "686"
+  "phone_code": "686",
+  "divisions": [
+    "island group",
+    "island"
+  ]
 }

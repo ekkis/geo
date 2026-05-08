@@ -37,6 +37,10 @@
     "UN"
   ],
   "phone_code": "372",
+  "divisions": [
+    "county",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "RU"

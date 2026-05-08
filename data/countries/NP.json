@@ -33,6 +33,11 @@
     "UN"
   ],
   "phone_code": "977",
+  "divisions": [
+    "province",
+    "district",
+    "municipality/rural municipality"
+  ],
   "neighbours": {
     "NE": [
       "CN"

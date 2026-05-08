@@ -29,6 +29,11 @@
     "UN"
   ],
   "phone_code": "57",
+  "divisions": [
+    "department",
+    "municipality",
+    "corregimiento"
+  ],
   "neighbours": {
     "NE": [
       "VE"

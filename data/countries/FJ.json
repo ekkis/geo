@@ -25,5 +25,10 @@
     "WTO",
     "UN"
   ],
-  "phone_code": "679"
+  "phone_code": "679",
+  "divisions": [
+    "division",
+    "province",
+    "district"
+  ]
 }

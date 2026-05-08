@@ -33,6 +33,11 @@
     "UN"
   ],
   "phone_code": "994",
+  "divisions": [
+    "economic region",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "RU"

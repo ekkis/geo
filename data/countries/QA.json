@@ -27,6 +27,9 @@
     "UN"
   ],
   "phone_code": "974",
+  "divisions": [
+    "municipality"
+  ],
   "neighbours": {
     "SW": [
       "SA"

@@ -26,5 +26,9 @@
     "AU",
     "UN"
   ],
-  "phone_code": "230"
+  "phone_code": "230",
+  "divisions": [
+    "district",
+    "town/village"
+  ]
 }

@@ -36,6 +36,11 @@
     "UN"
   ],
   "phone_code": "43",
+  "divisions": [
+    "state",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "CZ",

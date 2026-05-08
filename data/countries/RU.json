@@ -44,6 +44,11 @@
     "WTO"
   ],
   "phone_code": "7",
+  "divisions": [
+    "federal subject",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NW": [
       "FI",

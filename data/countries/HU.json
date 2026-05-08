@@ -37,6 +37,11 @@
     "UN"
   ],
   "phone_code": "36",
+  "divisions": [
+    "county",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "UA"

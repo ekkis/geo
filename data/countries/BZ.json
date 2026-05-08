@@ -30,6 +30,10 @@
     "UN"
   ],
   "phone_code": "501",
+  "divisions": [
+    "district",
+    "town/village"
+  ],
   "neighbours": {
     "NW": [
       "MX"

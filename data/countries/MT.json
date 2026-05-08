@@ -33,5 +33,9 @@
     "EU",
     "UN"
   ],
-  "phone_code": "356"
+  "phone_code": "356",
+  "divisions": [
+    "region",
+    "local council"
+  ]
 }

@@ -37,6 +37,10 @@
     "UN"
   ],
   "phone_code": "370",
+  "divisions": [
+    "county",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "RU",

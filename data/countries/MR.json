@@ -27,6 +27,11 @@
     "UN"
   ],
   "phone_code": "222",
+  "divisions": [
+    "region",
+    "department",
+    "commune"
+  ],
   "neighbours": {
     "NE": [
       "DZ"

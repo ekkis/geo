@@ -27,6 +27,10 @@
     "UN"
   ],
   "phone_code": "264",
+  "divisions": [
+    "region",
+    "constituency"
+  ],
   "neighbours": {
     "NE": [
       "AO",

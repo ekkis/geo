@@ -32,6 +32,11 @@
     "UN"
   ],
   "phone_code": "593",
+  "divisions": [
+    "province",
+    "canton",
+    "parish"
+  ],
   "neighbours": {
     "NE": [
       "CO"

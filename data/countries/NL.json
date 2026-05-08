@@ -38,6 +38,10 @@
     "UN"
   ],
   "phone_code": "31",
+  "divisions": [
+    "province",
+    "municipality"
+  ],
   "neighbours": {
     "SE": [
       "DE"

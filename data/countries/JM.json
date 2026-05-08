@@ -27,5 +27,9 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-876"
+  "phone_code": "+1-876",
+  "divisions": [
+    "parish",
+    "municipality"
+  ]
 }

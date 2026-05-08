@@ -30,6 +30,12 @@
     "UN"
   ],
   "phone_code": "251",
+  "divisions": [
+    "region",
+    "zone",
+    "woreda",
+    "kebele"
+  ],
   "neighbours": {
     "NE": [
       "DJ",

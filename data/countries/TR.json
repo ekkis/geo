@@ -38,6 +38,10 @@
     "WTO"
   ],
   "phone_code": "90",
+  "divisions": [
+    "province",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "AM",

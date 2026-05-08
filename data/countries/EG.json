@@ -31,6 +31,11 @@
     "UN"
   ],
   "phone_code": "20",
+  "divisions": [
+    "governorate",
+    "district",
+    "city"
+  ],
   "neighbours": {
     "NE": [
       "PS",

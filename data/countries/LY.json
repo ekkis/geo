@@ -26,6 +26,10 @@
     "UN"
   ],
   "phone_code": "218",
+  "divisions": [
+    "governorate",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "EG"

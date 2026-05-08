@@ -35,6 +35,11 @@
     "UN"
   ],
   "phone_code": "972",
+  "divisions": [
+    "district",
+    "sub-district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "SY",

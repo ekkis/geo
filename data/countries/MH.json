@@ -24,5 +24,9 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "692"
+  "phone_code": "692",
+  "divisions": [
+    "atoll/island",
+    "municipality"
+  ]
 }
