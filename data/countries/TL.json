@@ -3,13 +3,13 @@
     "common": "Timor-Leste",
     "official": "Democratic Republic of Timor-Leste"
   },
-  "capital": "Dili",
+  "capital": {
+    "en": "Dili",
+    "pt": "Díli",
+    "tp": "Dili"
+  },
   "currency_code": "USD",
   "iso3": "TLS",
-  "language_code": [
-    "pt",
-    "tp"
-  ],
   "continent_code": "OC",
   "tld": ".tl",
   "timezones": [
@@ -36,5 +36,9 @@
     "NW": [
       "ID"
     ]
-  }
+  },
+  "lang": [
+    "pt",
+    "tp"
+  ]
 }

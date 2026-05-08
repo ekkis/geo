@@ -4,12 +4,12 @@
     "official": "Turks and Caicos Islands"
   },
   "regions": [],
-  "capital": "Cockburn Town",
+  "capital": {
+    "en": "Cockburn Town",
+    "tca": "Cockburn Town"
+  },
   "currency_code": "USD",
   "iso3": "TCA",
-  "language_code": [
-    "tca"
-  ],
   "continent_code": "NA",
   "tld": ".tc",
   "timezones": [
@@ -26,5 +26,8 @@
     "format": "TKCA 1ZZ",
     "regex": "^(TKCA 1ZZ)$"
   },
-  "phone_code": "+1-649"
+  "phone_code": "+1-649",
+  "lang": [
+    "tca"
+  ]
 }

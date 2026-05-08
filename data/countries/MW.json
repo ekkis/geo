@@ -3,12 +3,12 @@
     "common": "Malawi",
     "official": "Republic of Malawi"
   },
-  "capital": "Lilongwe",
+  "capital": {
+    "en": "Lilongwe",
+    "mwi": "Lilongwe"
+  },
   "currency_code": "MWK",
   "iso3": "MWI",
-  "language_code": [
-    "mwi"
-  ],
   "continent_code": "AF",
   "tld": ".mw",
   "timezones": [
@@ -37,5 +37,8 @@
     "SW": [
       "ZM"
     ]
-  }
+  },
+  "lang": [
+    "mwi"
+  ]
 }

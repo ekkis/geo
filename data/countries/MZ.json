@@ -3,12 +3,12 @@
     "common": "Mozambique",
     "official": "Republic of Mozambique"
   },
-  "capital": "Maputo",
+  "capital": {
+    "en": "Maputo",
+    "pt": "Maputo"
+  },
   "currency_code": "MZN",
   "iso3": "MOZ",
-  "language_code": [
-    "pt"
-  ],
   "continent_code": "AF",
   "tld": ".mz",
   "timezones": [
@@ -48,5 +48,8 @@
     "N": [
       "TZ"
     ]
-  }
+  },
+  "lang": [
+    "pt"
+  ]
 }

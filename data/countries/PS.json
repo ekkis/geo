@@ -6,12 +6,12 @@
   "regions": [
     "LEV"
   ],
-  "capital": "East Jerusalem",
+  "capital": {
+    "en": "East Jerusalem",
+    "ar": "القدس الشرقية"
+  },
   "currency_code": "ILS",
   "iso3": "PSE",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".ps",
   "timezones": [
@@ -33,5 +33,8 @@
       "IL",
       "EG"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Cameroon",
     "official": "Republic of Cameroon"
   },
-  "capital": "Yaounde",
+  "capital": {
+    "en": "Yaounde",
+    "fr": "Yaoundé"
+  },
   "currency_code": "XAF",
   "iso3": "CMR",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".cm",
   "timezones": [
@@ -47,5 +47,8 @@
       "GQ",
       "GA"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

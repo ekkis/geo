@@ -3,12 +3,12 @@
     "common": "Djibouti",
     "official": "Republic of Djibouti"
   },
-  "capital": "Djibouti",
+  "capital": {
+    "en": "Djibouti",
+    "dji": "Djibouti"
+  },
   "currency_code": "DJF",
   "iso3": "DJI",
-  "language_code": [
-    "dji"
-  ],
   "continent_code": "AF",
   "tld": ".dj",
   "timezones": [
@@ -41,5 +41,8 @@
     "SW": [
       "ET"
     ]
-  }
+  },
+  "lang": [
+    "dji"
+  ]
 }

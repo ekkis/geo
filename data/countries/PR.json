@@ -4,12 +4,12 @@
     "official": "Commonwealth of Puerto Rico"
   },
   "regions": [],
-  "capital": "San Juan",
+  "capital": {
+    "en": "San Juan",
+    "es": "san juan"
+  },
   "currency_code": "USD",
   "iso3": "PRI",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".pr",
   "timezones": [
@@ -26,5 +26,8 @@
     "format": "#####-####",
     "regex": "^(\\d{9})$"
   },
-  "phone_code": "+1-787 and 1-939"
+  "phone_code": "+1-787 and 1-939",
+  "lang": [
+    "es"
+  ]
 }

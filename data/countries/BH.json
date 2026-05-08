@@ -6,12 +6,12 @@
   "regions": [
     "WAS"
   ],
-  "capital": "Manama",
+  "capital": {
+    "en": "Manama",
+    "ar": "المنامة"
+  },
   "currency_code": "BHD",
   "iso3": "BHR",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".bh",
   "timezones": [
@@ -35,5 +35,8 @@
   "phone_code": "973",
   "divisions": [
     "governorate"
+  ],
+  "lang": [
+    "ar"
   ]
 }

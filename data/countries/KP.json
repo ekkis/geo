@@ -6,12 +6,12 @@
   "regions": [
     "EASS"
   ],
-  "capital": "Pyongyang",
+  "capital": {
+    "en": "Pyongyang",
+    "ko": "평양"
+  },
   "currency_code": "KPW",
   "iso3": "PRK",
-  "language_code": [
-    "ko"
-  ],
   "continent_code": "AS",
   "tld": ".kp",
   "timezones": [
@@ -41,5 +41,8 @@
     "SW": [
       "CN"
     ]
-  }
+  },
+  "lang": [
+    "ko"
+  ]
 }

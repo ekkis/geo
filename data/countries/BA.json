@@ -6,10 +6,11 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Sarajevo",
+  "capital": {
+    "en": "Sarajevo"
+  },
   "currency_code": "BAM",
   "iso3": "BIH",
-  "language_code": [],
   "continent_code": "EU",
   "tld": ".ba",
   "timezones": [
@@ -45,5 +46,6 @@
     "E": [
       "RS"
     ]
-  }
+  },
+  "lang": []
 }

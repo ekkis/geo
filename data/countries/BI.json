@@ -3,12 +3,12 @@
     "common": "Burundi",
     "official": "Republic of Burundi"
   },
-  "capital": "Bujumbura",
+  "capital": {
+    "en": "Bujumbura",
+    "bdi": "Bujumbura"
+  },
   "currency_code": "BIF",
   "iso3": "BDI",
-  "language_code": [
-    "bdi"
-  ],
   "continent_code": "AF",
   "tld": ".bi",
   "timezones": [
@@ -41,5 +41,8 @@
     "N": [
       "RW"
     ]
-  }
+  },
+  "lang": [
+    "bdi"
+  ]
 }

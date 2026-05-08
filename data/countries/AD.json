@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Andorra la Vella",
+  "capital": {
+    "en": "Andorra la Vella",
+    "and": "Andorra la Vella"
+  },
   "currency_code": "EUR",
   "iso3": "AND",
-  "language_code": [
-    "and"
-  ],
   "continent_code": "EU",
   "tld": ".ad",
   "timezones": [
@@ -42,5 +42,8 @@
     "SW": [
       "ES"
     ]
-  }
+  },
+  "lang": [
+    "and"
+  ]
 }

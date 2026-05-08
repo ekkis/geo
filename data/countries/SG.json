@@ -6,12 +6,12 @@
   "regions": [
     "SEA"
   ],
-  "capital": "Singapur",
+  "capital": {
+    "en": "Singapur",
+    "zh": "Singapur"
+  },
   "currency_code": "SGD",
   "iso3": "SGP",
-  "language_code": [
-    "zh"
-  ],
   "continent_code": "AS",
   "tld": ".sg",
   "timezones": [
@@ -38,5 +38,8 @@
   "divisions": [
     "planning area",
     "subzone"
+  ],
+  "lang": [
+    "zh"
   ]
 }

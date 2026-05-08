@@ -4,12 +4,12 @@
     "official": "Jamaica"
   },
   "regions": [],
-  "capital": "Kingston",
+  "capital": {
+    "en": "Kingston",
+    "jam": "Kingston"
+  },
   "currency_code": "JMD",
   "iso3": "JAM",
-  "language_code": [
-    "jam"
-  ],
   "continent_code": "NA",
   "tld": ".jm",
   "timezones": [
@@ -31,5 +31,8 @@
   "divisions": [
     "parish",
     "municipality"
+  ],
+  "lang": [
+    "jam"
   ]
 }

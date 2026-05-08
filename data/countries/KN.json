@@ -6,12 +6,12 @@
   "regions": [
     "CAR"
   ],
-  "capital": "Basseterre",
+  "capital": {
+    "en": "Basseterre",
+    "kna": "Basseterre"
+  },
   "currency_code": "XCD",
   "iso3": "KNA",
-  "language_code": [
-    "kna"
-  ],
   "continent_code": "NA",
   "tld": ".kn",
   "timezones": [
@@ -32,5 +32,8 @@
   "phone_code": "+1-869",
   "divisions": [
     "parish"
+  ],
+  "lang": [
+    "kna"
   ]
 }

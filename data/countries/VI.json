@@ -4,12 +4,12 @@
     "official": "Virgin Islands of the United States"
   },
   "regions": [],
-  "capital": "Charlotte Amalie",
+  "capital": {
+    "en": "Charlotte Amalie",
+    "vir": "Charlotte Amalie"
+  },
   "currency_code": "USD",
   "iso3": "VIR",
-  "language_code": [
-    "vir"
-  ],
   "continent_code": "NA",
   "tld": ".vi",
   "timezones": [
@@ -22,5 +22,8 @@
   "demonym": "Virgin Islander",
   "gdp": 4444000000,
   "gdp_year": 2021,
-  "phone_code": "+1-340"
+  "phone_code": "+1-340",
+  "lang": [
+    "vir"
+  ]
 }

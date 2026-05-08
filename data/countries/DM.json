@@ -4,12 +4,12 @@
     "official": "Commonwealth of Dominica"
   },
   "regions": [],
-  "capital": "Roseau",
+  "capital": {
+    "en": "Roseau",
+    "dma": "Roseau"
+  },
   "currency_code": "XCD",
   "iso3": "DMA",
-  "language_code": [
-    "dma"
-  ],
   "continent_code": "NA",
   "tld": ".dm",
   "timezones": [
@@ -30,5 +30,8 @@
   "phone_code": "+1-767",
   "divisions": [
     "parish"
+  ],
+  "lang": [
+    "dma"
   ]
 }

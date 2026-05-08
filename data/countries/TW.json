@@ -4,12 +4,12 @@
     "official": "Republic of China (Taiwan)"
   },
   "regions": [],
-  "capital": "Taipei",
+  "capital": {
+    "en": "Taipei",
+    "zh": "Taipei"
+  },
   "currency_code": "TWD",
   "iso3": "TWN",
-  "language_code": [
-    "zh"
-  ],
   "continent_code": "AS",
   "tld": ".tw",
   "timezones": [
@@ -27,5 +27,8 @@
   "organisations": [
     "WTO"
   ],
-  "phone_code": "886"
+  "phone_code": "886",
+  "lang": [
+    "zh"
+  ]
 }

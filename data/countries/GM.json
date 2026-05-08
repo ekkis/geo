@@ -3,12 +3,12 @@
     "common": "Gambia",
     "official": "Republic of the Gambia"
   },
-  "capital": "Banjul",
+  "capital": {
+    "en": "Banjul",
+    "gmb": "Banjul"
+  },
   "currency_code": "GMD",
   "iso3": "GMB",
-  "language_code": [
-    "gmb"
-  ],
   "continent_code": "AF",
   "tld": ".gm",
   "timezones": [
@@ -35,5 +35,8 @@
     "NE": [
       "SN"
     ]
-  }
+  },
+  "lang": [
+    "gmb"
+  ]
 }

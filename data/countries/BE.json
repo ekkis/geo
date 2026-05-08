@@ -6,12 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Brussels",
+  "capital": {
+    "en": "Brussels",
+    "be": "Брусэль"
+  },
   "currency_code": "EUR",
   "iso3": "BEL",
-  "language_code": [
-    "be"
-  ],
   "continent_code": "EU",
   "tld": ".be",
   "timezones": [
@@ -54,5 +54,8 @@
     "SW": [
       "FR"
     ]
-  }
+  },
+  "lang": [
+    "be"
+  ]
 }

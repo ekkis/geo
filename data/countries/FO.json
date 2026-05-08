@@ -6,12 +6,12 @@
   "regions": [
     "NOR"
   ],
-  "capital": "Torshavn",
+  "capital": {
+    "en": "Torshavn",
+    "fro": "Torshavn"
+  },
   "currency_code": "DKK",
   "iso3": "FRO",
-  "language_code": [
-    "fro"
-  ],
   "continent_code": "EU",
   "tld": ".fo",
   "timezones": [
@@ -28,5 +28,8 @@
     "format": "FO-###",
     "regex": "^(?:FO)*(\\d{3})$"
   },
-  "phone_code": "298"
+  "phone_code": "298",
+  "lang": [
+    "fro"
+  ]
 }

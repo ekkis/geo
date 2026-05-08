@@ -7,12 +7,12 @@
     "WAS",
     "LEV"
   ],
-  "capital": "Beirut",
+  "capital": {
+    "en": "Beirut",
+    "ar": "بيروت"
+  },
   "currency_code": "LBP",
   "iso3": "LBN",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".lb",
   "timezones": [
@@ -44,5 +44,8 @@
     "SW": [
       "IL"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

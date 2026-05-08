@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Rome",
+  "capital": {
+    "en": "Rome",
+    "it": "Roma"
+  },
   "currency_code": "EUR",
   "iso3": "ITA",
-  "language_code": [
-    "it"
-  ],
   "continent_code": "EU",
   "tld": ".it",
   "timezones": [
@@ -56,5 +56,8 @@
     "SW": [
       "VA"
     ]
-  }
+  },
+  "lang": [
+    "it"
+  ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "CEU"
   ],
-  "capital": "Warsaw",
+  "capital": {
+    "en": "Warsaw",
+    "pl": "Warszawa"
+  },
   "currency_code": "PLN",
   "iso3": "POL",
-  "language_code": [
-    "pl"
-  ],
   "continent_code": "EU",
   "tld": ".pl",
   "timezones": [
@@ -56,5 +56,8 @@
       "DE",
       "SK"
     ]
-  }
+  },
+  "lang": [
+    "pl"
+  ]
 }

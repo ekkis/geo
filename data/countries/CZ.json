@@ -6,12 +6,12 @@
   "regions": [
     "CEU"
   ],
-  "capital": "Prague",
+  "capital": {
+    "en": "Prague",
+    "cze": "Prague"
+  },
   "currency_code": "CZK",
   "iso3": "CZE",
-  "language_code": [
-    "cze"
-  ],
   "continent_code": "EU",
   "tld": ".cz",
   "timezones": [
@@ -50,5 +50,8 @@
     "SW": [
       "AT"
     ]
-  }
+  },
+  "lang": [
+    "cze"
+  ]
 }

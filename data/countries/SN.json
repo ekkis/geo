@@ -3,12 +3,12 @@
     "common": "Senegal",
     "official": "Republic of Senegal"
   },
-  "capital": "Dakar",
+  "capital": {
+    "en": "Dakar",
+    "fr": "Dakar"
+  },
   "currency_code": "XOF",
   "iso3": "SEN",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".sn",
   "timezones": [
@@ -48,5 +48,8 @@
       "GM",
       "GW"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

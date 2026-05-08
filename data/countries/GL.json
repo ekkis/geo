@@ -6,12 +6,12 @@
   "regions": [
     "NOR"
   ],
-  "capital": "Nuuk",
+  "capital": {
+    "en": "Nuuk",
+    "grl": "Nuuk"
+  },
   "currency_code": "DKK",
   "iso3": "GRL",
-  "language_code": [
-    "grl"
-  ],
   "continent_code": "NA",
   "tld": ".gl",
   "timezones": [
@@ -31,5 +31,8 @@
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "phone_code": "299"
+  "phone_code": "299",
+  "lang": [
+    "grl"
+  ]
 }

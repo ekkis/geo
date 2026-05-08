@@ -3,12 +3,11 @@
     "common": "Marshall Islands",
     "official": "Republic of the Marshall Islands"
   },
-  "capital": "Majuro",
+  "capital": {
+    "en": "Majuro"
+  },
   "currency_code": "USD",
   "iso3": "MHL",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "OC",
   "tld": ".mh",
   "timezones": [
@@ -28,5 +27,8 @@
   "divisions": [
     "atoll/island",
     "municipality"
+  ],
+  "lang": [
+    "en"
   ]
 }

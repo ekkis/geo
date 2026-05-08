@@ -7,12 +7,12 @@
     "WAS",
     "CAUC"
   ],
-  "capital": "Tbilisi",
+  "capital": {
+    "en": "Tbilisi",
+    "geo": "Tbilisi"
+  },
   "currency_code": "GEL",
   "iso3": "GEO",
-  "language_code": [
-    "geo"
-  ],
   "continent_code": "AS",
   "tld": ".ge",
   "timezones": [
@@ -49,5 +49,8 @@
     "SW": [
       "TR"
     ]
-  }
+  },
+  "lang": [
+    "geo"
+  ]
 }

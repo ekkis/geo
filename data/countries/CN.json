@@ -6,12 +6,12 @@
   "regions": [
     "EAS"
   ],
-  "capital": "Beijing",
+  "capital": {
+    "en": "Beijing",
+    "zh": "Beijing"
+  },
   "currency_code": "CNY",
   "iso3": "CHN",
-  "language_code": [
-    "zh"
-  ],
   "continent_code": "AS",
   "tld": ".cn",
   "timezones": [
@@ -76,5 +76,8 @@
     "S": [
       "LA"
     ]
-  }
+  },
+  "lang": [
+    "zh"
+  ]
 }

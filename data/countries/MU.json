@@ -3,12 +3,12 @@
     "common": "Mauritius",
     "official": "Republic of Mauritius"
   },
-  "capital": "Port Louis",
+  "capital": {
+    "en": "Port Louis",
+    "mus": "Port Louis"
+  },
   "currency_code": "MUR",
   "iso3": "MUS",
-  "language_code": [
-    "mus"
-  ],
   "continent_code": "AF",
   "tld": ".mu",
   "timezones": [
@@ -30,5 +30,8 @@
   "divisions": [
     "district",
     "town/village"
+  ],
+  "lang": [
+    "mus"
   ]
 }

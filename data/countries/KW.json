@@ -4,12 +4,12 @@
     "official": "State of Kuwait"
   },
   "regions": [],
-  "capital": "Kuwait City",
+  "capital": {
+    "en": "Kuwait City",
+    "ar": "مدينة الكويت"
+  },
   "currency_code": "KWD",
   "iso3": "KWT",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".kw",
   "timezones": [
@@ -42,5 +42,8 @@
     "SW": [
       "SA"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

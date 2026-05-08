@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Basse-Terre",
+  "capital": {
+    "en": "Basse-Terre",
+    "glp": "Basse-Terre"
+  },
   "currency_code": "EUR",
   "iso3": "GLP",
-  "language_code": [
-    "glp"
-  ],
   "continent_code": "NA",
   "tld": ".gp",
   "timezones": [
@@ -26,5 +26,8 @@
     "format": "#####",
     "regex": "^((97|98)\\d{3})$"
   },
-  "phone_code": "590"
+  "phone_code": "590",
+  "lang": [
+    "glp"
+  ]
 }

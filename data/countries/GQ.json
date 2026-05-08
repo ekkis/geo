@@ -3,12 +3,12 @@
     "common": "Equatorial Guinea",
     "official": "Republic of Equatorial Guinea"
   },
-  "capital": "Malabo",
+  "capital": {
+    "en": "Malabo",
+    "gnq": "Malabo"
+  },
   "currency_code": "XAF",
   "iso3": "GNQ",
-  "language_code": [
-    "gnq"
-  ],
   "continent_code": "AF",
   "tld": ".gq",
   "timezones": [
@@ -38,5 +38,8 @@
     "SE": [
       "GA"
     ]
-  }
+  },
+  "lang": [
+    "gnq"
+  ]
 }

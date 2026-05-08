@@ -3,13 +3,12 @@
     "common": "Micronesia",
     "official": "Federated States of Micronesia"
   },
-  "capital": "Palikir",
+  "capital": {
+    "en": "Palikir",
+    "pc": "Palikir"
+  },
   "currency_code": "USD",
   "iso3": "FSM",
-  "language_code": [
-    "en",
-    "pc"
-  ],
   "continent_code": "OC",
   "tld": ".fm",
   "timezones": [
@@ -31,5 +30,9 @@
   "divisions": [
     "state",
     "municipality"
+  ],
+  "lang": [
+    "en",
+    "pc"
   ]
 }

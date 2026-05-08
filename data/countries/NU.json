@@ -3,12 +3,12 @@
     "common": "Niue",
     "official": "Niue"
   },
-  "capital": "Alofi",
+  "capital": {
+    "en": "Alofi",
+    "niu": "Alofi"
+  },
   "currency_code": "NZD",
   "iso3": "NIU",
-  "language_code": [
-    "niu"
-  ],
   "continent_code": "OC",
   "tld": ".nu",
   "timezones": [
@@ -19,5 +19,8 @@
   "flag": "🇳🇺",
   "region_common": "Oceania",
   "demonym": "Niuean",
-  "phone_code": "683"
+  "phone_code": "683",
+  "lang": [
+    "niu"
+  ]
 }

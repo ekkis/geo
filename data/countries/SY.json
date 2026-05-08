@@ -6,12 +6,12 @@
   "regions": [
     "LEV"
   ],
-  "capital": "Damascus",
+  "capital": {
+    "en": "Damascus",
+    "ar": "دمشق"
+  },
   "currency_code": "SYP",
   "iso3": "SYR",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".sy",
   "timezones": [
@@ -42,5 +42,8 @@
       "JO",
       "LB"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

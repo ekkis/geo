@@ -3,12 +3,12 @@
     "common": "Peru",
     "official": "Republic of Peru"
   },
-  "capital": "Lima",
+  "capital": {
+    "en": "Lima",
+    "es": "Lima"
+  },
   "currency_code": "PEN",
   "iso3": "PER",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "SA",
   "tld": ".pe",
   "timezones": [
@@ -50,5 +50,8 @@
     "E": [
       "BR"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

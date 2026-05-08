@@ -8,12 +8,12 @@
     "NOR",
     "NOR"
   ],
-  "capital": "Reykjavik",
+  "capital": {
+    "en": "Reykjavik",
+    "is": "Reykjavík"
+  },
   "currency_code": "ISK",
   "iso3": "ISL",
-  "language_code": [
-    "is"
-  ],
   "continent_code": "EU",
   "tld": ".is",
   "timezones": [
@@ -41,5 +41,8 @@
   "divisions": [
     "region",
     "municipality"
+  ],
+  "lang": [
+    "is"
   ]
 }

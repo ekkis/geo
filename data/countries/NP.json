@@ -6,12 +6,12 @@
   "regions": [
     "SAS"
   ],
-  "capital": "Kathmandu",
+  "capital": {
+    "en": "Kathmandu",
+    "ne": "काठमाडौं ।"
+  },
   "currency_code": "NPR",
   "iso3": "NPL",
-  "language_code": [
-    "ne"
-  ],
   "continent_code": "AS",
   "tld": ".np",
   "timezones": [
@@ -45,5 +45,8 @@
     "SW": [
       "IN"
     ]
-  }
+  },
+  "lang": [
+    "ne"
+  ]
 }

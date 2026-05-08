@@ -9,12 +9,12 @@
     "WEU",
     "NOR"
   ],
-  "capital": "Copenhagen",
+  "capital": {
+    "en": "Copenhagen",
+    "dnk": "Copenhagen"
+  },
   "currency_code": "DKK",
   "iso3": "DNK",
-  "language_code": [
-    "dnk"
-  ],
   "continent_code": "EU",
   "tld": ".dk",
   "timezones": [
@@ -52,5 +52,8 @@
     "SW": [
       "DE"
     ]
-  }
+  },
+  "lang": [
+    "dnk"
+  ]
 }

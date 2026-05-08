@@ -3,12 +3,12 @@
     "common": "Central African Republic",
     "official": "Central African Republic"
   },
-  "capital": "Bangui",
+  "capital": {
+    "en": "Bangui",
+    "fr": "Bangui"
+  },
   "currency_code": "XAF",
   "iso3": "CAF",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".cf",
   "timezones": [
@@ -49,5 +49,8 @@
     "E": [
       "SS"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

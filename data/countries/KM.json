@@ -3,12 +3,12 @@
     "common": "Comoros",
     "official": "Union of the Comoros"
   },
-  "capital": "Moroni",
+  "capital": {
+    "en": "Moroni",
+    "com": "Moroni"
+  },
   "currency_code": "KMF",
   "iso3": "COM",
-  "language_code": [
-    "com"
-  ],
   "continent_code": "AF",
   "tld": ".km",
   "timezones": [
@@ -30,5 +30,8 @@
   "divisions": [
     "island",
     "commune"
+  ],
+  "lang": [
+    "com"
   ]
 }

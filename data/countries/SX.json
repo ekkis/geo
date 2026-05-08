@@ -4,12 +4,12 @@
     "official": "Sint Maarten"
   },
   "regions": [],
-  "capital": "Philipsburg",
+  "capital": {
+    "en": "Philipsburg",
+    "sxm": "Philipsburg"
+  },
   "currency_code": "ANG",
   "iso3": "SXM",
-  "language_code": [
-    "sxm"
-  ],
   "continent_code": "NA",
   "tld": ".sx",
   "timezones": [
@@ -27,5 +27,8 @@
     "NW": [
       "MF"
     ]
-  }
+  },
+  "lang": [
+    "sxm"
+  ]
 }

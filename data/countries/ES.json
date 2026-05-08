@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Madrid",
+  "capital": {
+    "en": "Madrid",
+    "es": "Madrid"
+  },
   "currency_code": "EUR",
   "iso3": "ESP",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "EU",
   "tld": ".es",
   "timezones": [
@@ -53,5 +53,8 @@
       "PT",
       "GI"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

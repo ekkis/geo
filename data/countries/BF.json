@@ -3,13 +3,13 @@
     "common": "Burkina Faso",
     "official": "Burkina Faso"
   },
-  "capital": "Ouagadougou",
+  "capital": {
+    "en": "Ouagadougou",
+    "fr": "Ouagadougou",
+    "hv": "Ouagadougou"
+  },
   "currency_code": "XOF",
   "iso3": "BFA",
-  "language_code": [
-    "fr",
-    "hv"
-  ],
   "continent_code": "AF",
   "tld": ".bf",
   "timezones": [
@@ -50,5 +50,9 @@
     "S": [
       "GH"
     ]
-  }
+  },
+  "lang": [
+    "fr",
+    "hv"
+  ]
 }

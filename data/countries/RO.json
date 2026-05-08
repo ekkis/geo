@@ -6,12 +6,12 @@
   "regions": [
     "CEU"
   ],
-  "capital": "Bucharest",
+  "capital": {
+    "en": "Bucharest",
+    "rou": "Bucharest"
+  },
   "currency_code": "RON",
   "iso3": "ROU",
-  "language_code": [
-    "rou"
-  ],
   "continent_code": "EU",
   "tld": ".ro",
   "timezones": [
@@ -55,5 +55,8 @@
     "S": [
       "BG"
     ]
-  }
+  },
+  "lang": [
+    "rou"
+  ]
 }

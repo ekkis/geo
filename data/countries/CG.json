@@ -3,12 +3,12 @@
     "common": "Republic of the Congo",
     "official": "Republic of the Congo"
   },
-  "capital": "Brazzaville",
+  "capital": {
+    "en": "Brazzaville",
+    "fr": "Brazzaville"
+  },
   "currency_code": "XAF",
   "iso3": "COG",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".cg",
   "timezones": [
@@ -45,5 +45,8 @@
     "W": [
       "GA"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

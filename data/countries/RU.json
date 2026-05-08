@@ -7,13 +7,13 @@
     "EE",
     "EURS"
   ],
-  "capital": "Moscow",
+  "capital": {
+    "en": "Moscow",
+    "ru": "Москва",
+    "su": "Moskow"
+  },
   "currency_code": "RUB",
   "iso3": "RUS",
-  "language_code": [
-    "ru",
-    "su"
-  ],
   "continent_code": "EU",
   "tld": ".ru",
   "timezones": [
@@ -70,5 +70,9 @@
       "PL",
       "UA"
     ]
-  }
+  },
+  "lang": [
+    "ru",
+    "su"
+  ]
 }

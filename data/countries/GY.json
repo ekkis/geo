@@ -3,12 +3,12 @@
     "common": "Guyana",
     "official": "Co-operative Republic of Guyana"
   },
-  "capital": "Georgetown",
+  "capital": {
+    "en": "Georgetown",
+    "guy": "Georgetown"
+  },
   "currency_code": "GYD",
   "iso3": "GUY",
-  "language_code": [
-    "guy"
-  ],
   "continent_code": "SA",
   "tld": ".gy",
   "timezones": [
@@ -39,5 +39,8 @@
       "BR",
       "SR"
     ]
-  }
+  },
+  "lang": [
+    "guy"
+  ]
 }

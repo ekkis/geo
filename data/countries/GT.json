@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Guatemala City",
+  "capital": {
+    "en": "Guatemala City",
+    "es": "Ciudad de Guatemala"
+  },
   "currency_code": "GTQ",
   "iso3": "GTM",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".gt",
   "timezones": [
@@ -49,5 +49,8 @@
       "SV",
       "HN"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

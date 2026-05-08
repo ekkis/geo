@@ -7,13 +7,13 @@
     "SEA",
     "INDO"
   ],
-  "capital": "Hanoi",
+  "capital": {
+    "en": "Hanoi",
+    "vd": "Hanoi",
+    "vi": "Hà Nội"
+  },
   "currency_code": "VND",
   "iso3": "VNM",
-  "language_code": [
-    "vd",
-    "vi"
-  ],
   "continent_code": "AS",
   "tld": ".vn",
   "timezones": [
@@ -49,5 +49,9 @@
     "SW": [
       "KH"
     ]
-  }
+  },
+  "lang": [
+    "vd",
+    "vi"
+  ]
 }

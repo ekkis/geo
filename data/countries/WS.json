@@ -3,12 +3,12 @@
     "common": "Samoa",
     "official": "Independent State of Samoa"
   },
-  "capital": "Apia",
+  "capital": {
+    "en": "Apia",
+    "wsm": "Apia"
+  },
   "currency_code": "WST",
   "iso3": "WSM",
-  "language_code": [
-    "wsm"
-  ],
   "continent_code": "OC",
   "tld": ".ws",
   "timezones": [
@@ -28,5 +28,8 @@
   "phone_code": "685",
   "divisions": [
     "district"
+  ],
+  "lang": [
+    "wsm"
   ]
 }

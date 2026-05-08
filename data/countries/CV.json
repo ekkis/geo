@@ -3,12 +3,12 @@
     "common": "Cape Verde",
     "official": "Republic of Cabo Verde"
   },
-  "capital": "Praia",
+  "capital": {
+    "en": "Praia",
+    "cpv": "Praia"
+  },
   "currency_code": "CVE",
   "iso3": "CPV",
-  "language_code": [
-    "cpv"
-  ],
   "continent_code": "AF",
   "tld": ".cv",
   "timezones": [
@@ -32,5 +32,8 @@
   "phone_code": "238",
   "divisions": [
     "municipality"
+  ],
+  "lang": [
+    "cpv"
   ]
 }

@@ -3,12 +3,12 @@
     "common": "Sudan",
     "official": "Republic of the Sudan"
   },
-  "capital": "Khartoum",
+  "capital": {
+    "en": "Khartoum",
+    "ar": "الخرطوم"
+  },
   "currency_code": "SDG",
   "iso3": "SDN",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AF",
   "tld": ".sd",
   "timezones": [
@@ -56,5 +56,8 @@
     "S": [
       "SS"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

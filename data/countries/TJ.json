@@ -6,12 +6,12 @@
   "regions": [
     "CAS"
   ],
-  "capital": "Dushanbe",
+  "capital": {
+    "en": "Dushanbe",
+    "tg": "Душанбе"
+  },
   "currency_code": "TJS",
   "iso3": "TJK",
-  "language_code": [
-    "tg"
-  ],
   "continent_code": "AS",
   "tld": ".tj",
   "timezones": [
@@ -54,5 +54,8 @@
     "W": [
       "AF"
     ]
-  }
+  },
+  "lang": [
+    "tg"
+  ]
 }

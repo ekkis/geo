@@ -3,12 +3,12 @@
     "common": "Tuvalu",
     "official": "Tuvalu"
   },
-  "capital": "Funafuti",
+  "capital": {
+    "en": "Funafuti",
+    "tuv": "Funafuti"
+  },
   "currency_code": "AUD",
   "iso3": "TUV",
-  "language_code": [
-    "tuv"
-  ],
   "continent_code": "OC",
   "tld": ".tv",
   "timezones": [
@@ -27,5 +27,8 @@
   "phone_code": "688",
   "divisions": [
     "island"
+  ],
+  "lang": [
+    "tuv"
   ]
 }

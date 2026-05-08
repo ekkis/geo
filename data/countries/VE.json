@@ -3,12 +3,12 @@
     "common": "Venezuela",
     "official": "Bolivarian Republic of Venezuela"
   },
-  "capital": "Caracas",
+  "capital": {
+    "en": "Caracas",
+    "ve": "Caracas"
+  },
   "currency_code": "VEF",
   "iso3": "VEN",
-  "language_code": [
-    "ve"
-  ],
   "continent_code": "SA",
   "tld": ".ve",
   "timezones": [
@@ -42,5 +42,8 @@
     "SW": [
       "CO"
     ]
-  }
+  },
+  "lang": [
+    "ve"
+  ]
 }

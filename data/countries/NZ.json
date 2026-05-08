@@ -3,12 +3,11 @@
     "common": "New Zealand",
     "official": "New Zealand"
   },
-  "capital": "Wellington",
+  "capital": {
+    "en": "Wellington"
+  },
   "currency_code": "NZD",
   "iso3": "NZL",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "OC",
   "tld": ".nz",
   "timezones": [
@@ -40,5 +39,8 @@
     "region",
     "territorial authority",
     "ward"
+  ],
+  "lang": [
+    "en"
   ]
 }

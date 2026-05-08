@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Athens",
+  "capital": {
+    "en": "Athens",
+    "grc": "Athens"
+  },
   "currency_code": "EUR",
   "iso3": "GRC",
-  "language_code": [
-    "grc"
-  ],
   "continent_code": "EU",
   "tld": ".gr",
   "timezones": [
@@ -55,5 +55,8 @@
     "E": [
       "TR"
     ]
-  }
+  },
+  "lang": [
+    "grc"
+  ]
 }

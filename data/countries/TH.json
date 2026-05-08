@@ -7,12 +7,12 @@
     "SEA",
     "INDO"
   ],
-  "capital": "Bangkok",
+  "capital": {
+    "en": "Bangkok",
+    "th": "กรุงเทพฯ"
+  },
   "currency_code": "THB",
   "iso3": "THA",
-  "language_code": [
-    "th"
-  ],
   "continent_code": "AS",
   "tld": ".th",
   "timezones": [
@@ -53,5 +53,8 @@
       "KH",
       "MY"
     ]
-  }
+  },
+  "lang": [
+    "th"
+  ]
 }

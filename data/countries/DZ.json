@@ -3,12 +3,12 @@
     "common": "Algeria",
     "official": "People's Democratic Republic of Algeria"
   },
-  "capital": "Algiers",
+  "capital": {
+    "en": "Algiers",
+    "ar": "الجزائر العاصمة"
+  },
   "currency_code": "DZD",
   "iso3": "DZA",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AF",
   "tld": ".dz",
   "timezones": [
@@ -52,5 +52,8 @@
       "EH",
       "ML"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

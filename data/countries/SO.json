@@ -3,12 +3,12 @@
     "common": "Somalia",
     "official": "Federal Republic of Somalia"
   },
-  "capital": "Mogadishu",
+  "capital": {
+    "en": "Mogadishu",
+    "so": "Muqdisho"
+  },
   "currency_code": "SOS",
   "iso3": "SOM",
-  "language_code": [
-    "so"
-  ],
   "continent_code": "AF",
   "tld": ".so",
   "timezones": [
@@ -42,5 +42,8 @@
       "ET",
       "KE"
     ]
-  }
+  },
+  "lang": [
+    "so"
+  ]
 }

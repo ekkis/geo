@@ -3,12 +3,12 @@
     "common": "Ecuador",
     "official": "Republic of Ecuador"
   },
-  "capital": "Quito",
+  "capital": {
+    "en": "Quito",
+    "es": "Quito"
+  },
   "currency_code": "USD",
   "iso3": "ECU",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "SA",
   "tld": ".ec",
   "timezones": [
@@ -44,5 +44,8 @@
     "SE": [
       "PE"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

@@ -4,12 +4,12 @@
     "official": "Svalbard og Jan Mayen"
   },
   "regions": [],
-  "capital": "Longyearbyen",
+  "capital": {
+    "en": "Longyearbyen",
+    "sjm": "Longyearbyen"
+  },
   "currency_code": "NOK",
   "iso3": "SJM",
-  "language_code": [
-    "sjm"
-  ],
   "continent_code": "EU",
   "tld": ".sj",
   "timezones": [
@@ -20,5 +20,8 @@
   "flag": "🇸🇯",
   "region_common": "Europe",
   "demonym": "Norwegian",
-  "phone_code": "47"
+  "phone_code": "47",
+  "lang": [
+    "sjm"
+  ]
 }

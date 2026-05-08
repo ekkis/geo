@@ -3,12 +3,12 @@
     "common": "Wallis and Futuna",
     "official": "Territory of the Wallis and Futuna Islands"
   },
-  "capital": "Mata Utu",
+  "capital": {
+    "en": "Mata Utu",
+    "wlf": "Mata Utu"
+  },
   "currency_code": "XPF",
   "iso3": "WLF",
-  "language_code": [
-    "wlf"
-  ],
   "continent_code": "OC",
   "tld": ".wf",
   "timezones": [
@@ -23,5 +23,8 @@
     "format": "#####",
     "regex": "^(986\\d{2})$"
   },
-  "phone_code": "681"
+  "phone_code": "681",
+  "lang": [
+    "wlf"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Colombia",
     "official": "Republic of Colombia"
   },
-  "capital": "Bogota",
+  "capital": {
+    "en": "Bogota",
+    "es": "Bogotá"
+  },
   "currency_code": "COP",
   "iso3": "COL",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "SA",
   "tld": ".co",
   "timezones": [
@@ -48,5 +48,8 @@
       "PE",
       "EC"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

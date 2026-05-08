@@ -3,12 +3,12 @@
     "common": "Angola",
     "official": "Republic of Angola"
   },
-  "capital": "Luanda",
+  "capital": {
+    "en": "Luanda",
+    "pt": "Luanda"
+  },
   "currency_code": "AOA",
   "iso3": "AGO",
-  "language_code": [
-    "pt"
-  ],
   "continent_code": "AF",
   "tld": ".ao",
   "timezones": [
@@ -45,5 +45,8 @@
     "NE": [
       "CD"
     ]
-  }
+  },
+  "lang": [
+    "pt"
+  ]
 }

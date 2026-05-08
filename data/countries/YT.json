@@ -3,12 +3,12 @@
     "common": "Mayotte",
     "official": "Department of Mayotte"
   },
-  "capital": "Mamoudzou",
+  "capital": {
+    "en": "Mamoudzou",
+    "myt": "Mamoudzou"
+  },
   "currency_code": "EUR",
   "iso3": "MYT",
-  "language_code": [
-    "myt"
-  ],
   "continent_code": "AF",
   "tld": ".yt",
   "timezones": [
@@ -23,5 +23,8 @@
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "phone_code": "262"
+  "phone_code": "262",
+  "lang": [
+    "myt"
+  ]
 }

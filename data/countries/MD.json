@@ -6,12 +6,12 @@
   "regions": [
     "EE"
   ],
-  "capital": "Chisinau",
+  "capital": {
+    "en": "Chisinau",
+    "mda": "Chisinau"
+  },
   "currency_code": "MDL",
   "iso3": "MDA",
-  "language_code": [
-    "mda"
-  ],
   "continent_code": "EU",
   "tld": ".md",
   "timezones": [
@@ -42,5 +42,8 @@
     "SW": [
       "RO"
     ]
-  }
+  },
+  "lang": [
+    "mda"
+  ]
 }

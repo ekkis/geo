@@ -7,12 +7,12 @@
     "NA",
     "LATAM"
   ],
-  "capital": "Mexico City",
+  "capital": {
+    "en": "Mexico City",
+    "es": "Ciudad de México"
+  },
   "currency_code": "MXN",
   "iso3": "MEX",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".mx",
   "timezones": [
@@ -52,5 +52,8 @@
     "NE": [
       "US"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

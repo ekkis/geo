@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Saint-Pierre",
+  "capital": {
+    "en": "Saint-Pierre",
+    "spm": "Saint-Pierre"
+  },
   "currency_code": "EUR",
   "iso3": "SPM",
-  "language_code": [
-    "spm"
-  ],
   "continent_code": "NA",
   "tld": ".pm",
   "timezones": [
@@ -26,5 +26,8 @@
     "format": "#####",
     "regex": "^(97500)$"
   },
-  "phone_code": "508"
+  "phone_code": "508",
+  "lang": [
+    "spm"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "South Sudan",
     "official": "Republic of South Sudan"
   },
-  "capital": "Juba",
+  "capital": {
+    "en": "Juba",
+    "ssd": "Juba"
+  },
   "currency_code": "SSP",
   "iso3": "SSD",
-  "language_code": [
-    "ssd"
-  ],
   "continent_code": "AF",
   "tld": ".ss",
   "timezones": [
@@ -47,5 +47,8 @@
     "N": [
       "SD"
     ]
-  }
+  },
+  "lang": [
+    "ssd"
+  ]
 }

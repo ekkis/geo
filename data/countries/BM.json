@@ -4,12 +4,12 @@
     "official": "Bermuda"
   },
   "regions": [],
-  "capital": "Hamilton",
+  "capital": {
+    "en": "Hamilton",
+    "bmu": "Hamilton"
+  },
   "currency_code": "BMD",
   "iso3": "BMU",
-  "language_code": [
-    "bmu"
-  ],
   "continent_code": "NA",
   "tld": ".bm",
   "timezones": [
@@ -26,5 +26,8 @@
     "format": "@@ ##",
     "regex": "^([A-Z]{2}\\d{2})$"
   },
-  "phone_code": "+1-441"
+  "phone_code": "+1-441",
+  "lang": [
+    "bmu"
+  ]
 }

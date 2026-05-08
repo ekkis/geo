@@ -4,14 +4,14 @@
     "official": "Country of Curaçao"
   },
   "regions": [],
-  "capital": " Willemstad",
+  "capital": {
+    "en": "Willemstad",
+    "an": "Willemstad",
+    "ant": "Willemstad",
+    "cuw": "Willemstad"
+  },
   "currency_code": "ANG",
   "iso3": "CUW",
-  "language_code": [
-    "an",
-    "ant",
-    "cuw"
-  ],
   "continent_code": "NA",
   "tld": ".cw",
   "timezones": [
@@ -24,5 +24,10 @@
   "demonym": "Curaçaoan",
   "gdp": 3073840325.4328494,
   "gdp_year": 2022,
-  "phone_code": "599"
+  "phone_code": "599",
+  "lang": [
+    "an",
+    "ant",
+    "cuw"
+  ]
 }

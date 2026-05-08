@@ -4,12 +4,12 @@
     "official": "British Indian Ocean Territory"
   },
   "regions": [],
-  "capital": "Diego Garcia",
+  "capital": {
+    "en": "Diego Garcia",
+    "iot": "Diego Garcia"
+  },
   "currency_code": "USD",
   "iso3": "IOT",
-  "language_code": [
-    "iot"
-  ],
   "continent_code": "AS",
   "tld": ".io",
   "timezones": [
@@ -20,5 +20,8 @@
   "flag": "🇮🇴",
   "region_common": "Africa",
   "demonym": "Indian",
-  "phone_code": "246"
+  "phone_code": "246",
+  "lang": [
+    "iot"
+  ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "San Salvador",
+  "capital": {
+    "en": "San Salvador",
+    "sl": "San Salvador"
+  },
   "currency_code": "USD",
   "iso3": "SLV",
-  "language_code": [
-    "sl"
-  ],
   "continent_code": "NA",
   "tld": ".sv",
   "timezones": [
@@ -45,5 +45,8 @@
     "NW": [
       "GT"
     ]
-  }
+  },
+  "lang": [
+    "sl"
+  ]
 }

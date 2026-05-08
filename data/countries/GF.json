@@ -3,12 +3,12 @@
     "common": "French Guiana",
     "official": "Guiana"
   },
-  "capital": "Cayenne",
+  "capital": {
+    "en": "Cayenne",
+    "guf": "Cayenne"
+  },
   "currency_code": "EUR",
   "iso3": "GUF",
-  "language_code": [
-    "guf"
-  ],
   "continent_code": "SA",
   "tld": ".gf",
   "timezones": [
@@ -31,5 +31,8 @@
     "W": [
       "SR"
     ]
-  }
+  },
+  "lang": [
+    "guf"
+  ]
 }

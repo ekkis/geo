@@ -3,12 +3,12 @@
     "common": "Chad",
     "official": "Republic of Chad"
   },
-  "capital": "N'Djamena",
+  "capital": {
+    "en": "N'Djamena",
+    "tcd": "N'Djamena"
+  },
   "currency_code": "XAF",
   "iso3": "TCD",
-  "language_code": [
-    "tcd"
-  ],
   "continent_code": "AF",
   "tld": ".td",
   "timezones": [
@@ -47,5 +47,8 @@
     "E": [
       "SD"
     ]
-  }
+  },
+  "lang": [
+    "tcd"
+  ]
 }

@@ -9,12 +9,12 @@
     "NOR",
     "NOR"
   ],
-  "capital": "Stockholm",
+  "capital": {
+    "en": "Stockholm",
+    "sv": "Stockholm"
+  },
   "currency_code": "SEK",
   "iso3": "SWE",
-  "language_code": [
-    "sv"
-  ],
   "continent_code": "EU",
   "tld": ".se",
   "timezones": [
@@ -51,5 +51,8 @@
     "W": [
       "NO"
     ]
-  }
+  },
+  "lang": [
+    "sv"
+  ]
 }

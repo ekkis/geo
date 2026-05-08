@@ -4,12 +4,12 @@
     "official": "Montserrat"
   },
   "regions": [],
-  "capital": "Plymouth",
+  "capital": {
+    "en": "Plymouth",
+    "msr": "Plymouth"
+  },
   "currency_code": "XCD",
   "iso3": "MSR",
-  "language_code": [
-    "msr"
-  ],
   "continent_code": "NA",
   "tld": ".ms",
   "timezones": [
@@ -20,5 +20,8 @@
   "flag": "🇲🇸",
   "region_common": "Americas",
   "demonym": "Montserratian",
-  "phone_code": "+1-664"
+  "phone_code": "+1-664",
+  "lang": [
+    "msr"
+  ]
 }

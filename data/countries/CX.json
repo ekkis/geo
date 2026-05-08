@@ -4,12 +4,12 @@
     "official": "Territory of Christmas Island"
   },
   "regions": [],
-  "capital": "Flying Fish Cove",
+  "capital": {
+    "en": "Flying Fish Cove",
+    "cxr": "Flying Fish Cove"
+  },
   "currency_code": "AUD",
   "iso3": "CXR",
-  "language_code": [
-    "cxr"
-  ],
   "continent_code": "AS",
   "tld": ".cx",
   "timezones": [
@@ -24,5 +24,8 @@
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "phone_code": "61"
+  "phone_code": "61",
+  "lang": [
+    "cxr"
+  ]
 }

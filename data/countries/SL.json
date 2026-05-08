@@ -3,12 +3,12 @@
     "common": "Sierra Leone",
     "official": "Republic of Sierra Leone"
   },
-  "capital": "Freetown",
+  "capital": {
+    "en": "Freetown",
+    "sle": "Freetown"
+  },
   "currency_code": "SLL",
   "iso3": "SLE",
-  "language_code": [
-    "sle"
-  ],
   "continent_code": "AF",
   "tld": ".sl",
   "timezones": [
@@ -39,5 +39,8 @@
     "SE": [
       "LR"
     ]
-  }
+  },
+  "lang": [
+    "sle"
+  ]
 }

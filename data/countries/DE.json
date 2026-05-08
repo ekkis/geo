@@ -6,13 +6,13 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Berlin",
+  "capital": {
+    "en": "Berlin",
+    "dd": "Berlin",
+    "de": "Berlin"
+  },
   "currency_code": "EUR",
   "iso3": "DEU",
-  "language_code": [
-    "dd",
-    "de"
-  ],
   "continent_code": "EU",
   "tld": ".de",
   "timezones": [
@@ -62,5 +62,9 @@
       "FR",
       "LU"
     ]
-  }
+  },
+  "lang": [
+    "dd",
+    "de"
+  ]
 }

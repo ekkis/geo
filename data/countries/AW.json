@@ -4,12 +4,12 @@
     "official": "Aruba"
   },
   "regions": [],
-  "capital": "Oranjestad",
+  "capital": {
+    "en": "Oranjestad",
+    "abw": "Oranjestad"
+  },
   "currency_code": "AWG",
   "iso3": "ABW",
-  "language_code": [
-    "abw"
-  ],
   "continent_code": "NA",
   "tld": ".aw",
   "timezones": [
@@ -22,5 +22,8 @@
   "demonym": "Aruban",
   "gdp": 3544707788.0566425,
   "gdp_year": 2022,
-  "phone_code": "297"
+  "phone_code": "297",
+  "lang": [
+    "abw"
+  ]
 }

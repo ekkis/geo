@@ -3,12 +3,12 @@
     "common": "Morocco",
     "official": "Kingdom of Morocco"
   },
-  "capital": "Rabat",
+  "capital": {
+    "en": "Rabat",
+    "mr": "राबत"
+  },
   "currency_code": "MAD",
   "iso3": "MAR",
-  "language_code": [
-    "mr"
-  ],
   "continent_code": "AF",
   "tld": ".ma",
   "timezones": [
@@ -46,5 +46,8 @@
     "SW": [
       "EH"
     ]
-  }
+  },
+  "lang": [
+    "mr"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Eritrea",
     "official": "State of Eritrea"
   },
-  "capital": "Asmara",
+  "capital": {
+    "en": "Asmara",
+    "eri": "Asmara"
+  },
   "currency_code": "ERN",
   "iso3": "ERI",
-  "language_code": [
-    "eri"
-  ],
   "continent_code": "AF",
   "tld": ".er",
   "timezones": [
@@ -36,5 +36,8 @@
     "W": [
       "SD"
     ]
-  }
+  },
+  "lang": [
+    "eri"
+  ]
 }

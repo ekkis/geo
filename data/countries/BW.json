@@ -3,12 +3,12 @@
     "common": "Botswana",
     "official": "Republic of Botswana"
   },
-  "capital": "Gaborone",
+  "capital": {
+    "en": "Gaborone",
+    "bwa": "Gaborone"
+  },
   "currency_code": "BWP",
   "iso3": "BWA",
-  "language_code": [
-    "bwa"
-  ],
   "continent_code": "AF",
   "tld": ".bw",
   "timezones": [
@@ -42,5 +42,8 @@
     "W": [
       "NA"
     ]
-  }
+  },
+  "lang": [
+    "bwa"
+  ]
 }

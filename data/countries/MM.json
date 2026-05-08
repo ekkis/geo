@@ -7,13 +7,13 @@
     "SEA",
     "INDO"
   ],
-  "capital": "Nay Pyi Taw",
+  "capital": {
+    "en": "Nay Pyi Taw",
+    "bu": "Nay Pyi Taw",
+    "my": "နေပြည်တော်"
+  },
   "currency_code": "MMK",
   "iso3": "MMR",
-  "language_code": [
-    "bu",
-    "my"
-  ],
   "continent_code": "AS",
   "tld": ".mm",
   "timezones": [
@@ -55,5 +55,9 @@
     "SW": [
       "IN"
     ]
-  }
+  },
+  "lang": [
+    "bu",
+    "my"
+  ]
 }

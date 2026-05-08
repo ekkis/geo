@@ -3,12 +3,12 @@
     "common": "Paraguay",
     "official": "Republic of Paraguay"
   },
-  "capital": "Asuncion",
+  "capital": {
+    "en": "Asuncion",
+    "gn": "Asuncion"
+  },
   "currency_code": "PYG",
   "iso3": "PRY",
-  "language_code": [
-    "gn"
-  ],
   "continent_code": "SA",
   "tld": ".py",
   "timezones": [
@@ -45,5 +45,8 @@
     "SW": [
       "AR"
     ]
-  }
+  },
+  "lang": [
+    "gn"
+  ]
 }

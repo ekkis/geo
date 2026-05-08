@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Valletta",
+  "capital": {
+    "en": "Valletta",
+    "mt": "Valletta"
+  },
   "currency_code": "EUR",
   "iso3": "MLT",
-  "language_code": [
-    "mt"
-  ],
   "continent_code": "EU",
   "tld": ".mt",
   "timezones": [
@@ -37,5 +37,8 @@
   "divisions": [
     "region",
     "local council"
+  ],
+  "lang": [
+    "mt"
   ]
 }

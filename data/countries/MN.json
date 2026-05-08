@@ -6,12 +6,12 @@
   "regions": [
     "EAS"
   ],
-  "capital": "Ulan Bator",
+  "capital": {
+    "en": "Ulan Bator",
+    "mn": "Улаанбаатар"
+  },
   "currency_code": "MNT",
   "iso3": "MNG",
-  "language_code": [
-    "mn"
-  ],
   "continent_code": "AS",
   "tld": ".mn",
   "timezones": [
@@ -45,5 +45,8 @@
     "S": [
       "CN"
     ]
-  }
+  },
+  "lang": [
+    "mn"
+  ]
 }

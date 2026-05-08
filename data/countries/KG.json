@@ -6,12 +6,12 @@
   "regions": [
     "CAS"
   ],
-  "capital": "Bishkek",
+  "capital": {
+    "en": "Bishkek",
+    "ky": "Бишкек"
+  },
   "currency_code": "KGS",
   "iso3": "KGZ",
-  "language_code": [
-    "ky"
-  ],
   "continent_code": "AS",
   "tld": ".kg",
   "timezones": [
@@ -50,5 +50,8 @@
     "W": [
       "UZ"
     ]
-  }
+  },
+  "lang": [
+    "ky"
+  ]
 }

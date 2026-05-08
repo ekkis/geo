@@ -6,12 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Vienna",
+  "capital": {
+    "en": "Vienna",
+    "de": "Wien"
+  },
   "currency_code": "EUR",
   "iso3": "AUT",
-  "language_code": [
-    "de"
-  ],
   "continent_code": "EU",
   "tld": ".at",
   "timezones": [
@@ -58,5 +58,8 @@
       "CH",
       "IT"
     ]
-  }
+  },
+  "lang": [
+    "de"
+  ]
 }

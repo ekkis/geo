@@ -7,12 +7,12 @@
     "CAS",
     "EURS"
   ],
-  "capital": "Astana",
+  "capital": {
+    "en": "Astana",
+    "kk": "Астана"
+  },
   "currency_code": "KZT",
   "iso3": "KAZ",
-  "language_code": [
-    "kk"
-  ],
   "continent_code": "AS",
   "tld": ".kz",
   "timezones": [
@@ -51,5 +51,8 @@
       "TM",
       "UZ"
     ]
-  }
+  },
+  "lang": [
+    "kk"
+  ]
 }

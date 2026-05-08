@@ -7,12 +7,12 @@
     "CAR",
     "LATAM"
   ],
-  "capital": "Havana",
+  "capital": {
+    "en": "Havana",
+    "es": "la Habana"
+  },
   "currency_code": "CUP",
   "iso3": "CUB",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".cu",
   "timezones": [
@@ -38,5 +38,8 @@
   "divisions": [
     "province",
     "municipality"
+  ],
+  "lang": [
+    "es"
   ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "LEV"
   ],
-  "capital": "Jerusalem",
+  "capital": {
+    "en": "Jerusalem",
+    "he": "יְרוּשָׁלַיִם"
+  },
   "currency_code": "ILS",
   "iso3": "ISR",
-  "language_code": [
-    "he"
-  ],
   "continent_code": "AS",
   "tld": ".il",
   "timezones": [
@@ -52,5 +52,8 @@
     "SW": [
       "EG"
     ]
-  }
+  },
+  "lang": [
+    "he"
+  ]
 }

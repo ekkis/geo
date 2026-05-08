@@ -3,12 +3,11 @@
     "common": "Australia",
     "official": "Commonwealth of Australia"
   },
-  "capital": "Canberra",
+  "capital": {
+    "en": "Canberra"
+  },
   "currency_code": "AUD",
   "iso3": "AUS",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "OC",
   "tld": ".au",
   "timezones": [
@@ -44,5 +43,8 @@
     "state",
     "territory",
     "local government area"
+  ],
+  "lang": [
+    "en"
   ]
 }

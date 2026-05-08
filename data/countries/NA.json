@@ -3,12 +3,12 @@
     "common": "Namibia",
     "official": "Republic of Namibia"
   },
-  "capital": "Windhoek",
+  "capital": {
+    "en": "Windhoek",
+    "nam": "Windhoek"
+  },
   "currency_code": "NAD",
   "iso3": "NAM",
-  "language_code": [
-    "nam"
-  ],
   "continent_code": "AF",
   "tld": ".na",
   "timezones": [
@@ -42,5 +42,8 @@
     "E": [
       "BW"
     ]
-  }
+  },
+  "lang": [
+    "nam"
+  ]
 }

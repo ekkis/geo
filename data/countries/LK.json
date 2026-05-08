@@ -4,12 +4,12 @@
     "official": "Democratic Socialist Republic of Sri Lanka"
   },
   "regions": [],
-  "capital": "Colombo",
+  "capital": {
+    "en": "Colombo",
+    "lka": "Colombo"
+  },
   "currency_code": "LKR",
   "iso3": "LKA",
-  "language_code": [
-    "lka"
-  ],
   "continent_code": "AS",
   "tld": ".lk",
   "timezones": [
@@ -36,5 +36,8 @@
     "district",
     "divisional secretariat",
     "grama niladhari division"
+  ],
+  "lang": [
+    "lka"
   ]
 }

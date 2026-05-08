@@ -6,12 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Berne",
+  "capital": {
+    "en": "Berne",
+    "ce": "Berne"
+  },
   "currency_code": "CHF",
   "iso3": "CHE",
-  "language_code": [
-    "ce"
-  ],
   "continent_code": "EU",
   "tld": ".ch",
   "timezones": [
@@ -52,5 +52,8 @@
     "SW": [
       "FR"
     ]
-  }
+  },
+  "lang": [
+    "ce"
+  ]
 }

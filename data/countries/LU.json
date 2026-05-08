@@ -6,12 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Luxembourg",
+  "capital": {
+    "en": "Luxembourg",
+    "lb": "Lëtzebuerg"
+  },
   "currency_code": "EUR",
   "iso3": "LUX",
-  "language_code": [
-    "lb"
-  ],
   "continent_code": "EU",
   "tld": ".lu",
   "timezones": [
@@ -51,5 +51,8 @@
     "SW": [
       "FR"
     ]
-  }
+  },
+  "lang": [
+    "lb"
+  ]
 }

@@ -4,12 +4,12 @@
     "official": "Collectivity of Saint Barthélemy"
   },
   "regions": [],
-  "capital": "Gustavia",
+  "capital": {
+    "en": "Gustavia",
+    "blm": "Gustavia"
+  },
   "currency_code": "EUR",
   "iso3": "BLM",
-  "language_code": [
-    "blm"
-  ],
   "continent_code": "NA",
   "tld": ".bl",
   "timezones": [
@@ -23,5 +23,8 @@
   "postal_code": {
     "format": "### ###"
   },
-  "phone_code": "590"
+  "phone_code": "590",
+  "lang": [
+    "blm"
+  ]
 }

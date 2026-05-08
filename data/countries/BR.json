@@ -3,12 +3,12 @@
     "common": "Brazil",
     "official": "Federative Republic of Brazil"
   },
-  "capital": "Brasilia",
+  "capital": {
+    "en": "Brasilia",
+    "pt": "Brasília"
+  },
   "currency_code": "BRL",
   "iso3": "BRA",
-  "language_code": [
-    "pt"
-  ],
   "continent_code": "SA",
   "tld": ".br",
   "timezones": [
@@ -60,5 +60,8 @@
     "W": [
       "PE"
     ]
-  }
+  },
+  "lang": [
+    "pt"
+  ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Skopje",
+  "capital": {
+    "en": "Skopje",
+    "mk": "Скопје"
+  },
   "currency_code": "MKD",
   "iso3": "MKD",
-  "language_code": [
-    "mk"
-  ],
   "continent_code": "EU",
   "tld": ".mk",
   "timezones": [
@@ -49,5 +49,8 @@
     "S": [
       "GR"
     ]
-  }
+  },
+  "lang": [
+    "mk"
+  ]
 }

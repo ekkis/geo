@@ -6,12 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Vaduz",
+  "capital": {
+    "en": "Vaduz",
+    "lie": "Vaduz"
+  },
   "currency_code": "CHF",
   "iso3": "LIE",
-  "language_code": [
-    "lie"
-  ],
   "continent_code": "EU",
   "tld": ".li",
   "timezones": [
@@ -43,5 +43,8 @@
     "SW": [
       "CH"
     ]
-  }
+  },
+  "lang": [
+    "lie"
+  ]
 }

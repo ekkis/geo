@@ -6,12 +6,11 @@
   "regions": [
     "NA"
   ],
-  "capital": "Washington",
+  "capital": {
+    "en": "Washington"
+  },
   "currency_code": "USD",
   "iso3": "USA",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "NA",
   "tld": ".us",
   "timezones": [
@@ -59,5 +58,8 @@
     "SW": [
       "MX"
     ]
-  }
+  },
+  "lang": [
+    "en"
+  ]
 }

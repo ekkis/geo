@@ -6,12 +6,12 @@
   "regions": [
     "BALT"
   ],
-  "capital": "Riga",
+  "capital": {
+    "en": "Riga",
+    "lva": "Riga"
+  },
   "currency_code": "EUR",
   "iso3": "LVA",
-  "language_code": [
-    "lva"
-  ],
   "continent_code": "EU",
   "tld": ".lv",
   "timezones": [
@@ -52,5 +52,8 @@
     "SW": [
       "LT"
     ]
-  }
+  },
+  "lang": [
+    "lva"
+  ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "EE"
   ],
-  "capital": "Kiev",
+  "capital": {
+    "en": "Kiev",
+    "uk": "Київ"
+  },
   "currency_code": "UAH",
   "iso3": "UKR",
-  "language_code": [
-    "uk"
-  ],
   "continent_code": "EU",
   "tld": ".ua",
   "timezones": [
@@ -52,5 +52,8 @@
       "RO",
       "SK"
     ]
-  }
+  },
+  "lang": [
+    "uk"
+  ]
 }

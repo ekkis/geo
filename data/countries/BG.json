@@ -6,12 +6,12 @@
   "regions": [
     "CEU"
   ],
-  "capital": "Sofia",
+  "capital": {
+    "en": "Sofia",
+    "bgr": "Sofia"
+  },
   "currency_code": "BGN",
   "iso3": "BGR",
-  "language_code": [
-    "bgr"
-  ],
   "continent_code": "EU",
   "tld": ".bg",
   "timezones": [
@@ -54,5 +54,8 @@
     "N": [
       "RO"
     ]
-  }
+  },
+  "lang": [
+    "bgr"
+  ]
 }

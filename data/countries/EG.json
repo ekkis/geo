@@ -3,12 +3,12 @@
     "common": "Egypt",
     "official": "Arab Republic of Egypt"
   },
-  "capital": "Cairo",
+  "capital": {
+    "en": "Cairo",
+    "ar": "القاهرة"
+  },
   "currency_code": "EGP",
   "iso3": "EGY",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AF",
   "tld": ".eg",
   "timezones": [
@@ -47,5 +47,8 @@
     "S": [
       "SD"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

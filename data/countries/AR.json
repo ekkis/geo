@@ -3,12 +3,12 @@
     "common": "Argentina",
     "official": "Argentine Republic"
   },
-  "capital": "Buenos Aires",
+  "capital": {
+    "en": "Buenos Aires",
+    "an": "Buenos Aires"
+  },
   "currency_code": "ARS",
   "iso3": "ARG",
-  "language_code": [
-    "an"
-  ],
   "continent_code": "SA",
   "tld": ".ar",
   "timezones": [
@@ -48,5 +48,8 @@
       "BO",
       "CL"
     ]
-  }
+  },
+  "lang": [
+    "an"
+  ]
 }

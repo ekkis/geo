@@ -3,13 +3,13 @@
     "common": "Kiribati",
     "official": "Independent and Sovereign Republic of Kiribati"
   },
-  "capital": "Tarawa",
+  "capital": {
+    "en": "Tarawa",
+    "ct": "Tarawa",
+    "ky": "Тарава"
+  },
   "currency_code": "AUD",
   "iso3": "KIR",
-  "language_code": [
-    "ct",
-    "ky"
-  ],
   "continent_code": "OC",
   "tld": ".ki",
   "timezones": [
@@ -31,5 +31,9 @@
   "divisions": [
     "island group",
     "island"
+  ],
+  "lang": [
+    "ct",
+    "ky"
   ]
 }

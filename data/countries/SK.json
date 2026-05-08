@@ -6,12 +6,12 @@
   "regions": [
     "CEU"
   ],
-  "capital": "Bratislava",
+  "capital": {
+    "en": "Bratislava",
+    "svk": "Bratislava"
+  },
   "currency_code": "EUR",
   "iso3": "SVK",
-  "language_code": [
-    "svk"
-  ],
   "continent_code": "EU",
   "tld": ".sk",
   "timezones": [
@@ -56,5 +56,8 @@
     "SW": [
       "AT"
     ]
-  }
+  },
+  "lang": [
+    "svk"
+  ]
 }

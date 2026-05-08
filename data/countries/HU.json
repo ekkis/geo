@@ -6,12 +6,12 @@
   "regions": [
     "CEU"
   ],
-  "capital": "Budapest",
+  "capital": {
+    "en": "Budapest",
+    "hu": "Budapest"
+  },
   "currency_code": "HUF",
   "iso3": "HUN",
-  "language_code": [
-    "hu"
-  ],
   "continent_code": "EU",
   "tld": ".hu",
   "timezones": [
@@ -58,5 +58,8 @@
       "HR",
       "SI"
     ]
-  }
+  },
+  "lang": [
+    "hu"
+  ]
 }

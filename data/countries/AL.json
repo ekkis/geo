@@ -6,12 +6,12 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Tirana",
+  "capital": {
+    "en": "Tirana",
+    "alb": "Tirana"
+  },
   "currency_code": "ALL",
   "iso3": "ALB",
-  "language_code": [
-    "alb"
-  ],
   "continent_code": "EU",
   "tld": ".al",
   "timezones": [
@@ -46,5 +46,8 @@
     "SE": [
       "GR"
     ]
-  }
+  },
+  "lang": [
+    "alb"
+  ]
 }

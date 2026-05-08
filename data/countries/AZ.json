@@ -7,12 +7,12 @@
     "WAS",
     "CAUC"
   ],
-  "capital": "Baku",
+  "capital": {
+    "en": "Baku",
+    "az": "Bakı"
+  },
   "currency_code": "AZN",
   "iso3": "AZE",
-  "language_code": [
-    "az"
-  ],
   "continent_code": "AS",
   "tld": ".az",
   "timezones": [
@@ -52,5 +52,8 @@
       "AM",
       "TR"
     ]
-  }
+  },
+  "lang": [
+    "az"
+  ]
 }

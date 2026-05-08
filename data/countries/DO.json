@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Santo Domingo",
+  "capital": {
+    "en": "Santo Domingo",
+    "es": "santo domingo"
+  },
   "currency_code": "DOP",
   "iso3": "DOM",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".do",
   "timezones": [
@@ -42,5 +42,8 @@
     "W": [
       "HT"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

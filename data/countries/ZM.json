@@ -3,12 +3,12 @@
     "common": "Zambia",
     "official": "Republic of Zambia"
   },
-  "capital": "Lusaka",
+  "capital": {
+    "en": "Lusaka",
+    "zmb": "Lusaka"
+  },
   "currency_code": "ZMK",
   "iso3": "ZMB",
-  "language_code": [
-    "zmb"
-  ],
   "continent_code": "AF",
   "tld": ".zm",
   "timezones": [
@@ -54,5 +54,8 @@
     "S": [
       "ZW"
     ]
-  }
+  },
+  "lang": [
+    "zmb"
+  ]
 }

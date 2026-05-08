@@ -3,12 +3,12 @@
     "common": "Guinea-Bissau",
     "official": "Republic of Guinea-Bissau"
   },
-  "capital": "Bissau",
+  "capital": {
+    "en": "Bissau",
+    "pt": "Bissau"
+  },
   "currency_code": "XOF",
   "iso3": "GNB",
-  "language_code": [
-    "pt"
-  ],
   "continent_code": "AF",
   "tld": ".gw",
   "timezones": [
@@ -42,5 +42,8 @@
     "SE": [
       "GN"
     ]
-  }
+  },
+  "lang": [
+    "pt"
+  ]
 }

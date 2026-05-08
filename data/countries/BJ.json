@@ -3,13 +3,13 @@
     "common": "Benin",
     "official": "Republic of Benin"
   },
-  "capital": "Porto-Novo",
+  "capital": {
+    "en": "Porto-Novo",
+    "bn": "পোর্তো-নভো",
+    "dy": "Porto-Novo"
+  },
   "currency_code": "XOF",
   "iso3": "BEN",
-  "language_code": [
-    "bn",
-    "dy"
-  ],
   "continent_code": "AF",
   "tld": ".bj",
   "timezones": [
@@ -39,5 +39,9 @@
     "SW": [
       "TG"
     ]
-  }
+  },
+  "lang": [
+    "bn",
+    "dy"
+  ]
 }

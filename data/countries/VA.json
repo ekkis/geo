@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Vatican City",
+  "capital": {
+    "en": "Vatican City",
+    "it": "Città del Vaticano"
+  },
   "currency_code": "EUR",
   "iso3": "VAT",
-  "language_code": [
-    "it"
-  ],
   "continent_code": "EU",
   "tld": ".va",
   "timezones": [
@@ -28,5 +28,8 @@
     "NE": [
       "IT"
     ]
-  }
+  },
+  "lang": [
+    "it"
+  ]
 }

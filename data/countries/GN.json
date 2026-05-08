@@ -3,12 +3,12 @@
     "common": "Guinea",
     "official": "Republic of Guinea"
   },
-  "capital": "Conakry",
+  "capital": {
+    "en": "Conakry",
+    "fr": "Conakry"
+  },
   "currency_code": "GNF",
   "iso3": "GIN",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".gn",
   "timezones": [
@@ -46,5 +46,8 @@
     "SW": [
       "SL"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

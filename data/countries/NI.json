@@ -7,12 +7,12 @@
     "CAM",
     "LATAM"
   ],
-  "capital": "Managua",
+  "capital": {
+    "en": "Managua",
+    "es": "Managua"
+  },
   "currency_code": "NIO",
   "iso3": "NIC",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".ni",
   "timezones": [
@@ -46,5 +46,8 @@
     "SE": [
       "CR"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

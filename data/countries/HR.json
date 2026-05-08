@@ -6,12 +6,12 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Zagreb",
+  "capital": {
+    "en": "Zagreb",
+    "hr": "Zagreb"
+  },
   "currency_code": "HRK",
   "iso3": "HRV",
-  "language_code": [
-    "hr"
-  ],
   "continent_code": "EU",
   "tld": ".hr",
   "timezones": [
@@ -52,5 +52,8 @@
       "ME",
       "RS"
     ]
-  }
+  },
+  "lang": [
+    "hr"
+  ]
 }

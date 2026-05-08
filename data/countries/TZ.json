@@ -3,12 +3,12 @@
     "common": "Tanzania",
     "official": "United Republic of Tanzania"
   },
-  "capital": "Dodoma",
+  "capital": {
+    "en": "Dodoma",
+    "sw": "Dodoma"
+  },
   "currency_code": "TZS",
   "iso3": "TZA",
-  "language_code": [
-    "sw"
-  ],
   "continent_code": "AF",
   "tld": ".tz",
   "timezones": [
@@ -50,5 +50,8 @@
     "S": [
       "MZ"
     ]
-  }
+  },
+  "lang": [
+    "sw"
+  ]
 }

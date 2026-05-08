@@ -6,12 +6,12 @@
   "regions": [
     "CAR"
   ],
-  "capital": "George Town",
+  "capital": {
+    "en": "George Town",
+    "cy": "George Town"
+  },
   "currency_code": "KYD",
   "iso3": "CYM",
-  "language_code": [
-    "cy"
-  ],
   "continent_code": "NA",
   "tld": ".ky",
   "timezones": [
@@ -24,5 +24,8 @@
   "demonym": "Caymanian",
   "gdp": 6600844001.537206,
   "gdp_year": 2022,
-  "phone_code": "+1-345"
+  "phone_code": "+1-345",
+  "lang": [
+    "cy"
+  ]
 }

@@ -3,12 +3,11 @@
     "common": "Kenya",
     "official": "Republic of Kenya"
   },
-  "capital": "Nairobi",
+  "capital": {
+    "en": "Nairobi"
+  },
   "currency_code": "KES",
   "iso3": "KEN",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "AF",
   "tld": ".ke",
   "timezones": [
@@ -51,5 +50,8 @@
     "W": [
       "UG"
     ]
-  }
+  },
+  "lang": [
+    "en"
+  ]
 }

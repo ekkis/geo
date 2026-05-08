@@ -6,12 +6,12 @@
   "regions": [
     "SAS"
   ],
-  "capital": "Islamabad",
+  "capital": {
+    "en": "Islamabad",
+    "ur": "اسلام آباد"
+  },
   "currency_code": "PKR",
   "iso3": "PAK",
-  "language_code": [
-    "ur"
-  ],
   "continent_code": "AS",
   "tld": ".pk",
   "timezones": [
@@ -48,5 +48,8 @@
     "SE": [
       "IN"
     ]
-  }
+  },
+  "lang": [
+    "ur"
+  ]
 }

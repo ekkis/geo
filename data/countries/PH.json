@@ -6,12 +6,12 @@
   "regions": [
     "SEA"
   ],
-  "capital": "Manila",
+  "capital": {
+    "en": "Manila",
+    "tl": "Maynila"
+  },
   "currency_code": "PHP",
   "iso3": "PHL",
-  "language_code": [
-    "tl"
-  ],
   "continent_code": "AS",
   "tld": ".ph",
   "timezones": [
@@ -40,5 +40,8 @@
     "province/city",
     "municipality/city",
     "barangay"
+  ],
+  "lang": [
+    "tl"
   ]
 }

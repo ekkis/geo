@@ -4,13 +4,13 @@
     "official": "Republic of Yemen"
   },
   "regions": [],
-  "capital": "Sanaa",
+  "capital": {
+    "en": "Sanaa",
+    "ar": "صنعاء",
+    "yd": "Sanaa"
+  },
   "currency_code": "YER",
   "iso3": "YEM",
-  "language_code": [
-    "ar",
-    "yd"
-  ],
   "continent_code": "AS",
   "tld": ".ye",
   "timezones": [
@@ -39,5 +39,9 @@
     "NW": [
       "SA"
     ]
-  }
+  },
+  "lang": [
+    "ar",
+    "yd"
+  ]
 }

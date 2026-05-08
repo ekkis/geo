@@ -3,12 +3,12 @@
     "common": "Ghana",
     "official": "Republic of Ghana"
   },
-  "capital": "Accra",
+  "capital": {
+    "en": "Accra",
+    "ak": "Accra"
+  },
   "currency_code": "GHS",
   "iso3": "GHA",
-  "language_code": [
-    "ak"
-  ],
   "continent_code": "AF",
   "tld": ".gh",
   "timezones": [
@@ -41,5 +41,8 @@
     "E": [
       "TG"
     ]
-  }
+  },
+  "lang": [
+    "ak"
+  ]
 }

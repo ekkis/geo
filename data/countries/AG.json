@@ -4,12 +4,12 @@
     "official": "Antigua and Barbuda"
   },
   "regions": [],
-  "capital": "St. John's",
+  "capital": {
+    "en": "St. John's",
+    "atg": "St. John's"
+  },
   "currency_code": "XCD",
   "iso3": "ATG",
-  "language_code": [
-    "atg"
-  ],
   "continent_code": "NA",
   "tld": ".ag",
   "timezones": [
@@ -27,5 +27,8 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-268"
+  "phone_code": "+1-268",
+  "lang": [
+    "atg"
+  ]
 }

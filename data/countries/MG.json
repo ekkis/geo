@@ -3,12 +3,12 @@
     "common": "Madagascar",
     "official": "Republic of Madagascar"
   },
-  "capital": "Antananarivo",
+  "capital": {
+    "en": "Antananarivo",
+    "mdg": "Antananarivo"
+  },
   "currency_code": "MGA",
   "iso3": "MDG",
-  "language_code": [
-    "mdg"
-  ],
   "continent_code": "AF",
   "tld": ".mg",
   "timezones": [
@@ -35,5 +35,8 @@
     "region",
     "district",
     "commune"
+  ],
+  "lang": [
+    "mdg"
   ]
 }

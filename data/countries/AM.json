@@ -7,12 +7,12 @@
     "WAS",
     "CAUC"
   ],
-  "capital": "Yerevan",
+  "capital": {
+    "en": "Yerevan",
+    "arm": "Yerevan"
+  },
   "currency_code": "AMD",
   "iso3": "ARM",
-  "language_code": [
-    "arm"
-  ],
   "continent_code": "AS",
   "tld": ".am",
   "timezones": [
@@ -51,5 +51,8 @@
     "SW": [
       "TR"
     ]
-  }
+  },
+  "lang": [
+    "arm"
+  ]
 }

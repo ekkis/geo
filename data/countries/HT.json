@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Port-au-Prince",
+  "capital": {
+    "en": "Port-au-Prince",
+    "hti": "Port-au-Prince"
+  },
   "currency_code": "HTG",
   "iso3": "HTI",
-  "language_code": [
-    "hti"
-  ],
   "continent_code": "NA",
   "tld": ".ht",
   "timezones": [
@@ -43,5 +43,8 @@
     "E": [
       "DO"
     ]
-  }
+  },
+  "lang": [
+    "hti"
+  ]
 }

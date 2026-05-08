@@ -4,12 +4,12 @@
     "official": "Virgin Islands"
   },
   "regions": [],
-  "capital": "Road Town",
+  "capital": {
+    "en": "Road Town",
+    "vgb": "Road Town"
+  },
   "currency_code": "USD",
   "iso3": "VGB",
-  "language_code": [
-    "vgb"
-  ],
   "continent_code": "NA",
   "tld": ".vg",
   "timezones": [
@@ -20,5 +20,8 @@
   "flag": "🇻🇬",
   "region_common": "Americas",
   "demonym": "Virgin Islander",
-  "phone_code": "+1-284"
+  "phone_code": "+1-284",
+  "lang": [
+    "vgb"
+  ]
 }

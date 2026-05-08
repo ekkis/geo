@@ -3,13 +3,13 @@
     "common": "DR Congo",
     "official": "Democratic Republic of the Congo"
   },
-  "capital": "Kinshasa",
+  "capital": {
+    "en": "Kinshasa",
+    "fr": "Kinshasa",
+    "zr": "Kinshasa"
+  },
   "currency_code": "CDF",
   "iso3": "COD",
-  "language_code": [
-    "fr",
-    "zr"
-  ],
   "continent_code": "AF",
   "tld": ".cd",
   "timezones": [
@@ -23,5 +23,9 @@
   "demonym": "Congolese",
   "gdp": 66383287002.996895,
   "gdp_year": 2023,
-  "phone_code": "243"
+  "phone_code": "243",
+  "lang": [
+    "fr",
+    "zr"
+  ]
 }

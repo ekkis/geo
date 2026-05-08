@@ -3,12 +3,12 @@
     "common": "Ivory Coast",
     "official": "Republic of Côte d'Ivoire"
   },
-  "capital": "Yamoussoukro",
+  "capital": {
+    "en": "Yamoussoukro",
+    "fr": "Yamoussoukro"
+  },
   "currency_code": "XOF",
   "iso3": "CIV",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".ci",
   "timezones": [
@@ -39,5 +39,8 @@
     "E": [
       "GH"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

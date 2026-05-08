@@ -4,12 +4,12 @@
     "official": "Barbados"
   },
   "regions": [],
-  "capital": "Bridgetown",
+  "capital": {
+    "en": "Bridgetown",
+    "brb": "Bridgetown"
+  },
   "currency_code": "BBD",
   "iso3": "BRB",
-  "language_code": [
-    "brb"
-  ],
   "continent_code": "NA",
   "tld": ".bb",
   "timezones": [
@@ -34,5 +34,8 @@
   "phone_code": "+1-246",
   "divisions": [
     "parish"
+  ],
+  "lang": [
+    "brb"
   ]
 }

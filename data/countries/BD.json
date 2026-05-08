@@ -6,12 +6,12 @@
   "regions": [
     "SAS"
   ],
-  "capital": "Dhaka",
+  "capital": {
+    "en": "Dhaka",
+    "bn": "ঢাকা"
+  },
   "currency_code": "BDT",
   "iso3": "BGD",
-  "language_code": [
-    "bn"
-  ],
   "continent_code": "AS",
   "tld": ".bd",
   "timezones": [
@@ -45,5 +45,8 @@
     "SW": [
       "IN"
     ]
-  }
+  },
+  "lang": [
+    "bn"
+  ]
 }

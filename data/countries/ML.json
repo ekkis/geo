@@ -3,12 +3,12 @@
     "common": "Mali",
     "official": "Republic of Mali"
   },
-  "capital": "Bamako",
+  "capital": {
+    "en": "Bamako",
+    "fr": "Bamako"
+  },
   "currency_code": "XOF",
   "iso3": "MLI",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".ml",
   "timezones": [
@@ -48,5 +48,8 @@
       "CI",
       "SN"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

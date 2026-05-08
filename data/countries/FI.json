@@ -7,12 +7,12 @@
     "NOR",
     "NOR"
   ],
-  "capital": "Helsinki",
+  "capital": {
+    "en": "Helsinki",
+    "fi": "Helsinki"
+  },
   "currency_code": "EUR",
   "iso3": "FIN",
-  "language_code": [
-    "fi"
-  ],
   "continent_code": "EU",
   "tld": ".fi",
   "timezones": [
@@ -51,5 +51,8 @@
       "SE",
       "NO"
     ]
-  }
+  },
+  "lang": [
+    "fi"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Liberia",
     "official": "Republic of Liberia"
   },
-  "capital": "Monrovia",
+  "capital": {
+    "en": "Monrovia",
+    "lbr": "Monrovia"
+  },
   "currency_code": "LRD",
   "iso3": "LBR",
-  "language_code": [
-    "lbr"
-  ],
   "continent_code": "AF",
   "tld": ".lr",
   "timezones": [
@@ -43,5 +43,8 @@
       "GN",
       "SL"
     ]
-  }
+  },
+  "lang": [
+    "lbr"
+  ]
 }

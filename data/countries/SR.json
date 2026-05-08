@@ -3,12 +3,12 @@
     "common": "Suriname",
     "official": "Republic of Suriname"
   },
-  "capital": "Paramaribo",
+  "capital": {
+    "en": "Paramaribo",
+    "sur": "Paramaribo"
+  },
   "currency_code": "SRD",
   "iso3": "SUR",
-  "language_code": [
-    "sur"
-  ],
   "continent_code": "SA",
   "tld": ".sr",
   "timezones": [
@@ -41,5 +41,8 @@
     "E": [
       "GF"
     ]
-  }
+  },
+  "lang": [
+    "sur"
+  ]
 }

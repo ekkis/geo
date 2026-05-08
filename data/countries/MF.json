@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Marigot",
+  "capital": {
+    "en": "Marigot",
+    "maf": "Marigot"
+  },
   "currency_code": "EUR",
   "iso3": "MAF",
-  "language_code": [
-    "maf"
-  ],
   "continent_code": "NA",
   "tld": ".fr",
   "timezones": [
@@ -32,5 +32,8 @@
     "SE": [
       "SX"
     ]
-  }
+  },
+  "lang": [
+    "maf"
+  ]
 }

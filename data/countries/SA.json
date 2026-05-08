@@ -4,13 +4,13 @@
     "official": "Kingdom of Saudi Arabia"
   },
   "regions": [],
-  "capital": "Riyadh",
+  "capital": {
+    "en": "Riyadh",
+    "ar": "الرياض",
+    "nt": "Riyadh"
+  },
   "currency_code": "SAR",
   "iso3": "SAU",
-  "language_code": [
-    "ar",
-    "nt"
-  ],
   "continent_code": "AS",
   "tld": ".sa",
   "timezones": [
@@ -48,5 +48,9 @@
       "AE",
       "YE"
     ]
-  }
+  },
+  "lang": [
+    "ar",
+    "nt"
+  ]
 }

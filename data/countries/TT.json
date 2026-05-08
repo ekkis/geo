@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Port of Spain",
+  "capital": {
+    "en": "Port of Spain",
+    "tto": "Port of Spain"
+  },
   "currency_code": "TTD",
   "iso3": "TTO",
-  "language_code": [
-    "tto"
-  ],
   "continent_code": "NA",
   "tld": ".tt",
   "timezones": [
@@ -33,5 +33,8 @@
   "divisions": [
     "region/municipality",
     "ward"
+  ],
+  "lang": [
+    "tto"
   ]
 }

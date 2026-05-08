@@ -8,12 +8,12 @@
     "ME",
     "LEV"
   ],
-  "capital": "Amman",
+  "capital": {
+    "en": "Amman",
+    "ar": "عمان"
+  },
   "currency_code": "JOD",
   "iso3": "JOR",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".jo",
   "timezones": [
@@ -51,5 +51,8 @@
     "SE": [
       "SA"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

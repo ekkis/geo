@@ -3,12 +3,12 @@
     "common": "New Caledonia",
     "official": "New Caledonia"
   },
-  "capital": "Noumea",
+  "capital": {
+    "en": "Noumea",
+    "ncl": "Noumea"
+  },
   "currency_code": "XPF",
   "iso3": "NCL",
-  "language_code": [
-    "ncl"
-  ],
   "continent_code": "OC",
   "tld": ".nc",
   "timezones": [
@@ -25,5 +25,8 @@
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "phone_code": "687"
+  "phone_code": "687",
+  "lang": [
+    "ncl"
+  ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "SAS"
   ],
-  "capital": "New Delhi",
+  "capital": {
+    "en": "New Delhi",
+    "hi": "नई दिल्ली"
+  },
   "currency_code": "INR",
   "iso3": "IND",
-  "language_code": [
-    "hi"
-  ],
   "continent_code": "AS",
   "tld": ".in",
   "timezones": [
@@ -56,5 +56,8 @@
     "SE": [
       "LK"
     ]
-  }
+  },
+  "lang": [
+    "hi"
+  ]
 }

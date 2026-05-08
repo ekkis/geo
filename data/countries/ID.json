@@ -7,12 +7,12 @@
     "SEA",
     "OC"
   ],
-  "capital": "Jakarta",
+  "capital": {
+    "en": "Jakarta",
+    "id": "Jakarta"
+  },
   "currency_code": "IDR",
   "iso3": "IDN",
-  "language_code": [
-    "id"
-  ],
   "continent_code": "AS",
   "tld": ".id",
   "timezones": [
@@ -53,5 +53,8 @@
       "PG",
       "TL"
     ]
-  }
+  },
+  "lang": [
+    "id"
+  ]
 }

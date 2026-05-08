@@ -3,12 +3,12 @@
     "common": "Nauru",
     "official": "Republic of Nauru"
   },
-  "capital": "Yaren",
+  "capital": {
+    "en": "Yaren",
+    "nru": "Yaren"
+  },
   "currency_code": "AUD",
   "iso3": "NRU",
-  "language_code": [
-    "nru"
-  ],
   "continent_code": "OC",
   "tld": ".nr",
   "timezones": [
@@ -27,5 +27,8 @@
   "phone_code": "674",
   "divisions": [
     "district"
+  ],
+  "lang": [
+    "nru"
   ]
 }

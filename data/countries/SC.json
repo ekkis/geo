@@ -3,12 +3,12 @@
     "common": "Seychelles",
     "official": "Republic of Seychelles"
   },
-  "capital": "Victoria",
+  "capital": {
+    "en": "Victoria",
+    "syc": "Victoria"
+  },
   "currency_code": "SCR",
   "iso3": "SYC",
-  "language_code": [
-    "syc"
-  ],
   "continent_code": "AF",
   "tld": ".sc",
   "timezones": [
@@ -29,5 +29,8 @@
   "phone_code": "248",
   "divisions": [
     "district"
+  ],
+  "lang": [
+    "syc"
   ]
 }

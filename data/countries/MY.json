@@ -6,12 +6,12 @@
   "regions": [
     "SEA"
   ],
-  "capital": "Kuala Lumpur",
+  "capital": {
+    "en": "Kuala Lumpur",
+    "ms": "Kuala Lumpur"
+  },
   "currency_code": "MYR",
   "iso3": "MYS",
-  "language_code": [
-    "ms"
-  ],
   "continent_code": "AS",
   "tld": ".my",
   "timezones": [
@@ -49,5 +49,8 @@
     "SE": [
       "ID"
     ]
-  }
+  },
+  "lang": [
+    "ms"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Nigeria",
     "official": "Federal Republic of Nigeria"
   },
-  "capital": "Abuja",
+  "capital": {
+    "en": "Abuja",
+    "ha": "Abuja"
+  },
   "currency_code": "NGN",
   "iso3": "NGA",
-  "language_code": [
-    "ha"
-  ],
   "continent_code": "AF",
   "tld": ".ng",
   "timezones": [
@@ -48,5 +48,8 @@
     "N": [
       "NE"
     ]
-  }
+  },
+  "lang": [
+    "ha"
+  ]
 }

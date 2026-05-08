@@ -3,12 +3,12 @@
     "common": "Chile",
     "official": "Republic of Chile"
   },
-  "capital": "Santiago",
+  "capital": {
+    "en": "Santiago",
+    "es": "santiago"
+  },
   "currency_code": "CLP",
   "iso3": "CHL",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "SA",
   "tld": ".cl",
   "timezones": [
@@ -49,5 +49,8 @@
     "SE": [
       "AR"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

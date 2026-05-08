@@ -6,13 +6,13 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Paris",
+  "capital": {
+    "en": "Paris",
+    "fr": "Paris",
+    "fx": "Paris"
+  },
   "currency_code": "EUR",
   "iso3": "FRA",
-  "language_code": [
-    "fr",
-    "fx"
-  ],
   "continent_code": "EU",
   "tld": ".fr",
   "timezones": [
@@ -74,5 +74,9 @@
       "AD",
       "ES"
     ]
-  }
+  },
+  "lang": [
+    "fr",
+    "fx"
+  ]
 }

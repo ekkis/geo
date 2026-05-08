@@ -3,12 +3,12 @@
     "common": "Mauritania",
     "official": "Islamic Republic of Mauritania"
   },
-  "capital": "Nouakchott",
+  "capital": {
+    "en": "Nouakchott",
+    "mrt": "Nouakchott"
+  },
   "currency_code": "MRO",
   "iso3": "MRT",
-  "language_code": [
-    "mrt"
-  ],
   "continent_code": "AF",
   "tld": ".mr",
   "timezones": [
@@ -45,5 +45,8 @@
     "SW": [
       "SN"
     ]
-  }
+  },
+  "lang": [
+    "mrt"
+  ]
 }

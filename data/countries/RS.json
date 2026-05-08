@@ -6,16 +6,16 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Belgrade",
+  "capital": {
+    "en": "Belgrade",
+    "cs": "Bělehrad",
+    "scg": "Belgrade",
+    "srb": "Belgrade",
+    "yu": "Belgrade",
+    "yug": "Belgrade"
+  },
   "currency_code": "RSD",
   "iso3": "SRB",
-  "language_code": [
-    "cs",
-    "scg",
-    "srb",
-    "yu",
-    "yug"
-  ],
   "continent_code": "EU",
   "tld": ".rs",
   "timezones": [
@@ -60,5 +60,12 @@
     "W": [
       "BA"
     ]
-  }
+  },
+  "lang": [
+    "cs",
+    "scg",
+    "srb",
+    "yu",
+    "yug"
+  ]
 }

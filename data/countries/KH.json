@@ -7,12 +7,12 @@
     "SEA",
     "INDO"
   ],
-  "capital": "Phnom Penh",
+  "capital": {
+    "en": "Phnom Penh",
+    "km": "ភ្នំពេញ"
+  },
   "currency_code": "KHR",
   "iso3": "KHM",
-  "language_code": [
-    "km"
-  ],
   "continent_code": "AS",
   "tld": ".kh",
   "timezones": [
@@ -50,5 +50,8 @@
     "N": [
       "LA"
     ]
-  }
+  },
+  "lang": [
+    "km"
+  ]
 }

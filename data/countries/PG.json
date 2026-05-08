@@ -3,12 +3,12 @@
     "common": "Papua New Guinea",
     "official": "Independent State of Papua New Guinea"
   },
-  "capital": "Port Moresby",
+  "capital": {
+    "en": "Port Moresby",
+    "png": "Port Moresby"
+  },
   "currency_code": "PGK",
   "iso3": "PNG",
-  "language_code": [
-    "png"
-  ],
   "continent_code": "OC",
   "tld": ".pg",
   "timezones": [
@@ -39,5 +39,8 @@
     "NW": [
       "ID"
     ]
-  }
+  },
+  "lang": [
+    "png"
+  ]
 }

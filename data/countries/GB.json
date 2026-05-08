@@ -6,13 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "London",
+  "capital": {
+    "en": "London",
+    "uk": "Лондон"
+  },
   "currency_code": "GBP",
   "iso3": "GBR",
-  "language_code": [
-    "en",
-    "uk"
-  ],
   "continent_code": "EU",
   "tld": ".uk",
   "timezones": [
@@ -56,5 +55,9 @@
     "SW": [
       "IE"
     ]
-  }
+  },
+  "lang": [
+    "en",
+    "uk"
+  ]
 }

@@ -7,12 +7,12 @@
     "SEA",
     "INDO"
   ],
-  "capital": "Vientiane",
+  "capital": {
+    "en": "Vientiane",
+    "lo": "ວຽງຈັນ"
+  },
   "currency_code": "LAK",
   "iso3": "LAO",
-  "language_code": [
-    "lo"
-  ],
   "continent_code": "AS",
   "tld": ".la",
   "timezones": [
@@ -54,5 +54,8 @@
     "N": [
       "CN"
     ]
-  }
+  },
+  "lang": [
+    "lo"
+  ]
 }

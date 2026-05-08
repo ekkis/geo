@@ -3,12 +3,12 @@
     "common": "Tunisia",
     "official": "Tunisian Republic"
   },
-  "capital": "Tunis",
+  "capital": {
+    "en": "Tunis",
+    "ar": "تونس"
+  },
   "currency_code": "TND",
   "iso3": "TUN",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AF",
   "tld": ".tn",
   "timezones": [
@@ -42,5 +42,8 @@
     "SW": [
       "DZ"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

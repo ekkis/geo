@@ -6,12 +6,12 @@
   "regions": [
     "SAS"
   ],
-  "capital": "Kabul",
+  "capital": {
+    "en": "Kabul",
+    "ps": "کابل"
+  },
   "currency_code": "AFN",
   "iso3": "AFG",
-  "language_code": [
-    "ps"
-  ],
   "continent_code": "AS",
   "tld": ".af",
   "timezones": [
@@ -56,5 +56,8 @@
     "W": [
       "IR"
     ]
-  }
+  },
+  "lang": [
+    "ps"
+  ]
 }

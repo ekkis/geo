@@ -4,12 +4,12 @@
     "official": "Islamic Republic of Iran"
   },
   "regions": [],
-  "capital": "Tehran",
+  "capital": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
   "currency_code": "IRR",
   "iso3": "IRN",
-  "language_code": [
-    "fa"
-  ],
   "continent_code": "AS",
   "tld": ".ir",
   "timezones": [
@@ -50,5 +50,8 @@
     "E": [
       "AF"
     ]
-  }
+  },
+  "lang": [
+    "fa"
+  ]
 }

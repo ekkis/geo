@@ -3,13 +3,13 @@
     "common": "Zimbabwe",
     "official": "Republic of Zimbabwe"
   },
-  "capital": "Harare",
+  "capital": {
+    "en": "Harare",
+    "rh": "Harare",
+    "zwe": "Harare"
+  },
   "currency_code": "ZWL",
   "iso3": "ZWE",
-  "language_code": [
-    "rh",
-    "zwe"
-  ],
   "continent_code": "AF",
   "tld": ".zw",
   "timezones": [
@@ -44,5 +44,9 @@
     "N": [
       "ZM"
     ]
-  }
+  },
+  "lang": [
+    "rh",
+    "zwe"
+  ]
 }

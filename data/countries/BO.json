@@ -3,12 +3,12 @@
     "common": "Bolivia",
     "official": "Plurinational State of Bolivia"
   },
-  "capital": "Sucre",
+  "capital": {
+    "en": "Sucre",
+    "es": "Sucre"
+  },
   "currency_code": "BOB",
   "iso3": "BOL",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "SA",
   "tld": ".bo",
   "timezones": [
@@ -45,5 +45,8 @@
     "SW": [
       "CL"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

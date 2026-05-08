@@ -3,12 +3,12 @@
     "common": "Gabon",
     "official": "Gabonese Republic"
   },
-  "capital": "Libreville",
+  "capital": {
+    "en": "Libreville",
+    "fr": "Libreville"
+  },
   "currency_code": "XAF",
   "iso3": "GAB",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".ga",
   "timezones": [
@@ -42,5 +42,8 @@
     "E": [
       "CG"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

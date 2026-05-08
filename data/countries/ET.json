@@ -3,12 +3,12 @@
     "common": "Ethiopia",
     "official": "Federal Democratic Republic of Ethiopia"
   },
-  "capital": "Addis Ababa",
+  "capital": {
+    "en": "Addis Ababa",
+    "am": "አዲስ አበባ"
+  },
   "currency_code": "ETB",
   "iso3": "ETH",
-  "language_code": [
-    "am"
-  ],
   "continent_code": "AF",
   "tld": ".et",
   "timezones": [
@@ -51,5 +51,8 @@
     "S": [
       "KE"
     ]
-  }
+  },
+  "lang": [
+    "am"
+  ]
 }

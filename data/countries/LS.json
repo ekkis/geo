@@ -3,12 +3,12 @@
     "common": "Lesotho",
     "official": "Kingdom of Lesotho"
   },
-  "capital": "Maseru",
+  "capital": {
+    "en": "Maseru",
+    "lso": "Maseru"
+  },
   "currency_code": "LSL",
   "iso3": "LSO",
-  "language_code": [
-    "lso"
-  ],
   "continent_code": "AF",
   "tld": ".ls",
   "timezones": [
@@ -39,5 +39,8 @@
     "NW": [
       "ZA"
     ]
-  }
+  },
+  "lang": [
+    "lso"
+  ]
 }

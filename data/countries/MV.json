@@ -6,12 +6,12 @@
   "regions": [
     "SAS"
   ],
-  "capital": "Male",
+  "capital": {
+    "en": "Male",
+    "mdv": "Male"
+  },
   "currency_code": "MVR",
   "iso3": "MDV",
-  "language_code": [
-    "mdv"
-  ],
   "continent_code": "AS",
   "tld": ".mv",
   "timezones": [
@@ -36,5 +36,8 @@
   "divisions": [
     "atoll",
     "island"
+  ],
+  "lang": [
+    "mdv"
   ]
 }

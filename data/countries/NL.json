@@ -7,12 +7,12 @@
     "WEU",
     "NOR"
   ],
-  "capital": "Amsterdam",
+  "capital": {
+    "en": "Amsterdam",
+    "nl": "Amsterdam"
+  },
   "currency_code": "EUR",
   "iso3": "NLD",
-  "language_code": [
-    "nl"
-  ],
   "continent_code": "EU",
   "tld": ".nl",
   "timezones": [
@@ -49,5 +49,8 @@
     "SW": [
       "BE"
     ]
-  }
+  },
+  "lang": [
+    "nl"
+  ]
 }

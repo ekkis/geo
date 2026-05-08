@@ -3,12 +3,12 @@
     "common": "Niger",
     "official": "Republic of Niger"
   },
-  "capital": "Niamey",
+  "capital": {
+    "en": "Niamey",
+    "fr": "Niamey"
+  },
   "currency_code": "XOF",
   "iso3": "NER",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".ne",
   "timezones": [
@@ -54,5 +54,8 @@
     "S": [
       "NG"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

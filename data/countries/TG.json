@@ -3,12 +3,12 @@
     "common": "Togo",
     "official": "Togolese Republic"
   },
-  "capital": "Lome",
+  "capital": {
+    "en": "Lome",
+    "fr": "Lomé"
+  },
   "currency_code": "XOF",
   "iso3": "TGO",
-  "language_code": [
-    "fr"
-  ],
   "continent_code": "AF",
   "tld": ".tg",
   "timezones": [
@@ -42,5 +42,8 @@
     "W": [
       "GH"
     ]
-  }
+  },
+  "lang": [
+    "fr"
+  ]
 }

@@ -6,12 +6,11 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Dublin",
+  "capital": {
+    "en": "Dublin"
+  },
   "currency_code": "EUR",
   "iso3": "IRL",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "EU",
   "tld": ".ie",
   "timezones": [
@@ -40,5 +39,8 @@
     "NE": [
       "GB"
     ]
-  }
+  },
+  "lang": [
+    "en"
+  ]
 }

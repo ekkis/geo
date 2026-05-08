@@ -3,12 +3,11 @@
     "common": "Solomon Islands",
     "official": "Solomon Islands"
   },
-  "capital": "Honiara",
+  "capital": {
+    "en": "Honiara"
+  },
   "currency_code": "SBD",
   "iso3": "SLB",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "OC",
   "tld": ".sb",
   "timezones": [
@@ -30,5 +29,8 @@
     "province",
     "district",
     "ward"
+  ],
+  "lang": [
+    "en"
   ]
 }

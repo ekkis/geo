@@ -6,12 +6,12 @@
   "regions": [
     "CAS"
   ],
-  "capital": "Ashgabat",
+  "capital": {
+    "en": "Ashgabat",
+    "tk": "Ashgabat"
+  },
   "currency_code": "TMT",
   "iso3": "TKM",
-  "language_code": [
-    "tk"
-  ],
   "continent_code": "AS",
   "tld": ".tm",
   "timezones": [
@@ -47,5 +47,8 @@
     "SW": [
       "IR"
     ]
-  }
+  },
+  "lang": [
+    "tk"
+  ]
 }

@@ -3,12 +3,11 @@
     "common": "Fiji",
     "official": "Republic of Fiji"
   },
-  "capital": "Suva",
+  "capital": {
+    "en": "Suva"
+  },
   "currency_code": "FJD",
   "iso3": "FJI",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "OC",
   "tld": ".fj",
   "timezones": [
@@ -30,5 +29,8 @@
     "division",
     "province",
     "district"
+  ],
+  "lang": [
+    "en"
   ]
 }

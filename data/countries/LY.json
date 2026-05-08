@@ -3,12 +3,12 @@
     "common": "Libya",
     "official": "State of Libya"
   },
-  "capital": "Tripolis",
+  "capital": {
+    "en": "Tripolis",
+    "ar": "تريبوليس"
+  },
   "currency_code": "LYD",
   "iso3": "LBY",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AF",
   "tld": ".ly",
   "timezones": [
@@ -45,5 +45,8 @@
     "SW": [
       "NE"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

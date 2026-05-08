@@ -3,12 +3,12 @@
     "common": "South Africa",
     "official": "Republic of South Africa"
   },
-  "capital": "Pretoria",
+  "capital": {
+    "en": "Pretoria",
+    "af": "Pretoria"
+  },
   "currency_code": "ZAR",
   "iso3": "ZAF",
-  "language_code": [
-    "af"
-  ],
   "continent_code": "AF",
   "tld": ".za",
   "timezones": [
@@ -53,5 +53,8 @@
     "N": [
       "BW"
     ]
-  }
+  },
+  "lang": [
+    "af"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Guam",
     "official": "Guam"
   },
-  "capital": "Hagatna",
+  "capital": {
+    "en": "Hagatna",
+    "gum": "Hagatna"
+  },
   "currency_code": "USD",
   "iso3": "GUM",
-  "language_code": [
-    "gum"
-  ],
   "continent_code": "OC",
   "tld": ".gu",
   "timezones": [
@@ -25,5 +25,8 @@
     "format": "969##",
     "regex": "^(969\\d{2})$"
   },
-  "phone_code": "+1-671"
+  "phone_code": "+1-671",
+  "lang": [
+    "gum"
+  ]
 }

@@ -3,12 +3,12 @@
     "common": "Saint Helena, Ascension and Tristan da Cunha",
     "official": "Saint Helena, Ascension and Tristan da Cunha"
   },
-  "capital": "Jamestown",
+  "capital": {
+    "en": "Jamestown",
+    "shn": "Jamestown"
+  },
   "currency_code": "SHP",
   "iso3": "SHN",
-  "language_code": [
-    "shn"
-  ],
   "continent_code": "AF",
   "tld": ".sh",
   "timezones": [
@@ -23,5 +23,8 @@
     "format": "STHL 1ZZ",
     "regex": "^(STHL1ZZ)$"
   },
-  "phone_code": "290"
+  "phone_code": "290",
+  "lang": [
+    "shn"
+  ]
 }

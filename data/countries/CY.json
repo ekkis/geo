@@ -7,12 +7,12 @@
     "WAS",
     "LEV"
   ],
-  "capital": "Nicosia",
+  "capital": {
+    "en": "Nicosia",
+    "tr": "Lefkoşa"
+  },
   "currency_code": "EUR",
   "iso3": "CYP",
-  "language_code": [
-    "tr"
-  ],
   "continent_code": "EU",
   "tld": ".cy",
   "timezones": [
@@ -37,5 +37,8 @@
   "phone_code": "357",
   "divisions": [
     "district"
+  ],
+  "lang": [
+    "tr"
   ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Podgorica",
+  "capital": {
+    "en": "Podgorica",
+    "mne": "Podgorica"
+  },
   "currency_code": "EUR",
   "iso3": "MNE",
-  "language_code": [
-    "mne"
-  ],
   "continent_code": "EU",
   "tld": ".me",
   "timezones": [
@@ -49,5 +49,8 @@
     "SE": [
       "AL"
     ]
-  }
+  },
+  "lang": [
+    "mne"
+  ]
 }

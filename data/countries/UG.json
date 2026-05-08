@@ -3,12 +3,11 @@
     "common": "Uganda",
     "official": "Republic of Uganda"
   },
-  "capital": "Kampala",
+  "capital": {
+    "en": "Kampala"
+  },
   "currency_code": "UGX",
   "iso3": "UGA",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "AF",
   "tld": ".ug",
   "timezones": [
@@ -49,5 +48,8 @@
     "E": [
       "KE"
     ]
-  }
+  },
+  "lang": [
+    "en"
+  ]
 }

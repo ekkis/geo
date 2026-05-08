@@ -6,12 +6,12 @@
   "regions": [
     "EAS"
   ],
-  "capital": "Tokyo",
+  "capital": {
+    "en": "Tokyo",
+    "ja": "東京"
+  },
   "currency_code": "JPY",
   "iso3": "JPN",
-  "language_code": [
-    "ja"
-  ],
   "continent_code": "AS",
   "tld": ".jp",
   "timezones": [
@@ -40,5 +40,8 @@
     "prefecture",
     "city",
     "ward, town, village"
+  ],
+  "lang": [
+    "ja"
   ]
 }

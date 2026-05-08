@@ -4,12 +4,12 @@
     "official": "Macao Special Administrative Region of the People's Republic of China"
   },
   "regions": [],
-  "capital": "Macao",
+  "capital": {
+    "en": "Macao",
+    "zh": "Macao"
+  },
   "currency_code": "MOP",
   "iso3": "MAC",
-  "language_code": [
-    "zh"
-  ],
   "continent_code": "AS",
   "tld": ".mo",
   "timezones": [
@@ -27,5 +27,8 @@
     "NW": [
       "CN"
     ]
-  }
+  },
+  "lang": [
+    "zh"
+  ]
 }

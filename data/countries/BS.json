@@ -4,12 +4,12 @@
     "official": "Commonwealth of the Bahamas"
   },
   "regions": [],
-  "capital": "Nassau",
+  "capital": {
+    "en": "Nassau",
+    "bhs": "Nassau"
+  },
   "currency_code": "BSD",
   "iso3": "BHS",
-  "language_code": [
-    "bhs"
-  ],
   "continent_code": "NA",
   "tld": ".bs",
   "timezones": [
@@ -29,5 +29,8 @@
   "phone_code": "+1-242",
   "divisions": [
     "district"
+  ],
+  "lang": [
+    "bhs"
   ]
 }

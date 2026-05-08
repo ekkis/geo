@@ -6,12 +6,12 @@
   "regions": [
     "BKS"
   ],
-  "capital": "Ljubljana",
+  "capital": {
+    "en": "Ljubljana",
+    "svn": "Ljubljana"
+  },
   "currency_code": "EUR",
   "iso3": "SVN",
-  "language_code": [
-    "svn"
-  ],
   "continent_code": "EU",
   "tld": ".si",
   "timezones": [
@@ -54,5 +54,8 @@
     "SW": [
       "IT"
     ]
-  }
+  },
+  "lang": [
+    "svn"
+  ]
 }

@@ -4,12 +4,12 @@
     "official": "Republic of Iraq"
   },
   "regions": [],
-  "capital": "Baghdad",
+  "capital": {
+    "en": "Baghdad",
+    "ar": "بغداد"
+  },
   "currency_code": "IQD",
   "iso3": "IRQ",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".iq",
   "timezones": [
@@ -47,5 +47,8 @@
     "SW": [
       "JO"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

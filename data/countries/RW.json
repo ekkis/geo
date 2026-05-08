@@ -3,12 +3,12 @@
     "common": "Rwanda",
     "official": "Republic of Rwanda"
   },
-  "capital": "Kigali",
+  "capital": {
+    "en": "Kigali",
+    "rwa": "Kigali"
+  },
   "currency_code": "RWF",
   "iso3": "RWA",
-  "language_code": [
-    "rwa"
-  ],
   "continent_code": "AF",
   "tld": ".rw",
   "timezones": [
@@ -47,5 +47,8 @@
     "NW": [
       "CD"
     ]
-  }
+  },
+  "lang": [
+    "rwa"
+  ]
 }

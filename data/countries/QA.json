@@ -4,12 +4,12 @@
     "official": "State of Qatar"
   },
   "regions": [],
-  "capital": "Doha",
+  "capital": {
+    "en": "Doha",
+    "ar": "الدوحة"
+  },
   "currency_code": "QAR",
   "iso3": "QAT",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".qa",
   "timezones": [
@@ -34,5 +34,8 @@
     "SW": [
       "SA"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

@@ -6,12 +6,11 @@
   "regions": [
     "NA"
   ],
-  "capital": "Ottawa",
+  "capital": {
+    "en": "Ottawa"
+  },
   "currency_code": "CAD",
   "iso3": "CAN",
-  "language_code": [
-    "en"
-  ],
   "continent_code": "NA",
   "tld": ".ca",
   "timezones": [
@@ -53,5 +52,8 @@
     "SW": [
       "US"
     ]
-  }
+  },
+  "lang": [
+    "en"
+  ]
 }

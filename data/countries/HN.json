@@ -6,12 +6,12 @@
   "regions": [
     "LATAM"
   ],
-  "capital": "Tegucigalpa",
+  "capital": {
+    "en": "Tegucigalpa",
+    "es": "Tegucigalpa"
+  },
   "currency_code": "HNL",
   "iso3": "HND",
-  "language_code": [
-    "es"
-  ],
   "continent_code": "NA",
   "tld": ".hn",
   "timezones": [
@@ -48,5 +48,8 @@
     "SW": [
       "SV"
     ]
-  }
+  },
+  "lang": [
+    "es"
+  ]
 }

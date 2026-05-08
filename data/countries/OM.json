@@ -4,12 +4,12 @@
     "official": "Sultanate of Oman"
   },
   "regions": [],
-  "capital": "Muscat",
+  "capital": {
+    "en": "Muscat",
+    "ar": "المسكات عنب طيب الشذا"
+  },
   "currency_code": "OMR",
   "iso3": "OMN",
-  "language_code": [
-    "ar"
-  ],
   "continent_code": "AS",
   "tld": ".om",
   "timezones": [
@@ -43,5 +43,8 @@
     "SW": [
       "YE"
     ]
-  }
+  },
+  "lang": [
+    "ar"
+  ]
 }

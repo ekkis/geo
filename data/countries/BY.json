@@ -6,12 +6,12 @@
   "regions": [
     "EE"
   ],
-  "capital": "Minsk",
+  "capital": {
+    "en": "Minsk",
+    "be": "Мінск"
+  },
   "currency_code": "BYN",
   "iso3": "BLR",
-  "language_code": [
-    "be"
-  ],
   "continent_code": "EU",
   "tld": ".by",
   "timezones": [
@@ -51,5 +51,8 @@
     "SW": [
       "PL"
     ]
-  }
+  },
+  "lang": [
+    "be"
+  ]
 }

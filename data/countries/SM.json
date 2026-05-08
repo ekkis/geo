@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "San Marino",
+  "capital": {
+    "en": "San Marino",
+    "it": "San Marino"
+  },
   "currency_code": "EUR",
   "iso3": "SMR",
-  "language_code": [
-    "it"
-  ],
   "continent_code": "EU",
   "tld": ".sm",
   "timezones": [
@@ -39,5 +39,8 @@
     "SE": [
       "IT"
     ]
-  }
+  },
+  "lang": [
+    "it"
+  ]
 }

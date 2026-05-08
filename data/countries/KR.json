@@ -6,12 +6,12 @@
   "regions": [
     "EASS"
   ],
-  "capital": "Seoul",
+  "capital": {
+    "en": "Seoul",
+    "ko": "서울"
+  },
   "currency_code": "KRW",
   "iso3": "KOR",
-  "language_code": [
-    "ko"
-  ],
   "continent_code": "AS",
   "tld": ".kr",
   "timezones": [
@@ -42,5 +42,8 @@
     "NW": [
       "KP"
     ]
-  }
+  },
+  "lang": [
+    "ko"
+  ]
 }

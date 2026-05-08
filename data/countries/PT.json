@@ -6,12 +6,12 @@
   "regions": [
     "SE"
   ],
-  "capital": "Lisbon",
+  "capital": {
+    "en": "Lisbon",
+    "pt": "Lisboa"
+  },
   "currency_code": "EUR",
   "iso3": "PRT",
-  "language_code": [
-    "pt"
-  ],
   "continent_code": "EU",
   "tld": ".pt",
   "timezones": [
@@ -47,5 +47,8 @@
     "NE": [
       "ES"
     ]
-  }
+  },
+  "lang": [
+    "pt"
+  ]
 }

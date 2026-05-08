@@ -3,12 +3,12 @@
     "common": "Western Sahara",
     "official": "Sahrawi Arab Democratic Republic"
   },
-  "capital": "El-Aaiun",
+  "capital": {
+    "en": "El-Aaiun",
+    "esh": "El-Aaiun"
+  },
   "currency_code": "MAD",
   "iso3": "ESH",
-  "language_code": [
-    "esh"
-  ],
   "continent_code": "AF",
   "tld": ".eh",
   "timezones": [
@@ -28,5 +28,8 @@
     "SE": [
       "MR"
     ]
-  }
+  },
+  "lang": [
+    "esh"
+  ]
 }

@@ -6,12 +6,12 @@
   "regions": [
     "WEU"
   ],
-  "capital": "Monaco",
+  "capital": {
+    "en": "Monaco",
+    "mco": "Monaco"
+  },
   "currency_code": "EUR",
   "iso3": "MCO",
-  "language_code": [
-    "mco"
-  ],
   "continent_code": "EU",
   "tld": ".mc",
   "timezones": [
@@ -39,5 +39,8 @@
     "NW": [
       "FR"
     ]
-  }
+  },
+  "lang": [
+    "mco"
+  ]
 }
