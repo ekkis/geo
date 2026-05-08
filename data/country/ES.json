@@ -41,7 +41,7 @@
     "UN"
   ],
   "phone_code": "34",
-  "divisions": [
+  "division-levels": [
     "autonomous community",
     "province",
     "municipality"

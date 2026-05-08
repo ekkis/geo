@@ -34,7 +34,7 @@
     "UN"
   ],
   "phone_code": "213",
-  "divisions": [
+  "division-levels": [
     "province",
     "district",
     "municipality"

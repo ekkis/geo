@@ -36,7 +36,7 @@
     "UN"
   ],
   "phone_code": "380",
-  "divisions": [
+  "division-levels": [
     "oblast/autonomous republic",
     "raion",
     "city/district significance"

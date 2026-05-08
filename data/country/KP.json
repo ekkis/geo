@@ -28,7 +28,7 @@
     "regex": "^(\\d{6})$"
   },
   "phone_code": "850",
-  "divisions": [
+  "division-levels": [
     "province/city",
     "county"
   ],

@@ -34,7 +34,7 @@
     "UN"
   ],
   "phone_code": "374",
-  "divisions": [
+  "division-levels": [
     "region",
     "community"
   ],

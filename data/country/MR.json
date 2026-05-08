@@ -28,7 +28,7 @@
     "UN"
   ],
   "phone_code": "222",
-  "divisions": [
+  "division-levels": [
     "region",
     "department",
     "commune"

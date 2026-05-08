@@ -25,7 +25,7 @@
     "UN"
   ],
   "phone_code": "692",
-  "divisions": [
+  "division-levels": [
     "atoll/island",
     "municipality"
   ],

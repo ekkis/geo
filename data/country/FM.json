@@ -28,7 +28,7 @@
     "regex": "^(\\d{5})$"
   },
   "phone_code": "691",
-  "divisions": [
+  "division-levels": [
     "state",
     "municipality"
   ],

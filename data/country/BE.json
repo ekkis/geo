@@ -40,7 +40,7 @@
     "UN"
   ],
   "phone_code": "32",
-  "divisions": [
+  "division-levels": [
     "region",
     "province",
     "arrondissement",

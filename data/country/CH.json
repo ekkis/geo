@@ -36,7 +36,7 @@
     "UN"
   ],
   "phone_code": "41",
-  "divisions": [
+  "division-levels": [
     "canton",
     "district",
     "municipality"

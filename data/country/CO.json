@@ -32,7 +32,7 @@
     "UN"
   ],
   "phone_code": "57",
-  "divisions": [
+  "division-levels": [
     "department",
     "municipality",
     "corregimiento"

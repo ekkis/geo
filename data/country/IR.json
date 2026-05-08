@@ -32,7 +32,7 @@
     "regex": "^(\\d{10})$"
   },
   "phone_code": "98",
-  "divisions": [
+  "division-levels": [
     "province",
     "county",
     "district",

@@ -40,7 +40,7 @@
     "WTO"
   ],
   "phone_code": "90",
-  "divisions": [
+  "division-levels": [
     "province",
     "district"
   ],

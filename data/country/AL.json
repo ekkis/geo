@@ -31,7 +31,7 @@
     "UN"
   ],
   "phone_code": "355",
-  "divisions": [
+  "division-levels": [
     "county",
     "municipality",
     "city/village"

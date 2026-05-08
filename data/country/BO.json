@@ -29,7 +29,7 @@
     "OAS"
   ],
   "phone_code": "591",
-  "divisions": [
+  "division-levels": [
     "department",
     "province",
     "municipality"

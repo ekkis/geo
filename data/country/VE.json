@@ -31,7 +31,7 @@
     "OAS"
   ],
   "phone_code": "58",
-  "divisions": [
+  "division-levels": [
     "state/capital district/federal dependency",
     "municipality"
   ],

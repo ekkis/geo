@@ -28,7 +28,7 @@
     "UN"
   ],
   "phone_code": "678",
-  "divisions": [
+  "division-levels": [
     "province",
     "island"
   ],

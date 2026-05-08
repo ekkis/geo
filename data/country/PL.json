@@ -40,7 +40,7 @@
     "UN"
   ],
   "phone_code": "48",
-  "divisions": [
+  "division-levels": [
     "voivodeship",
     "county",
     "gmina"

@@ -30,7 +30,7 @@
     "UN"
   ],
   "phone_code": "228",
-  "divisions": [
+  "division-levels": [
     "region",
     "prefecture",
     "sub-prefecture"

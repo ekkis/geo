@@ -37,7 +37,7 @@
     "G20"
   ],
   "phone_code": "82",
-  "divisions": [
+  "division-levels": [
     "province/metropolitan city/special city",
     "city/county/district"
   ],

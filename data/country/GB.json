@@ -47,7 +47,7 @@
     "WTO"
   ],
   "phone_code": "44",
-  "divisions": [
+  "division-levels": [
     "country",
     "region",
     "county",

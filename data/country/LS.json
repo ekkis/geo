@@ -32,7 +32,7 @@
     "UN"
   ],
   "phone_code": "266",
-  "divisions": [
+  "division-levels": [
     "district",
     "constituency"
   ],

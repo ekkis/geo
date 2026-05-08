@@ -35,7 +35,7 @@
     "UN"
   ],
   "phone_code": "593",
-  "divisions": [
+  "division-levels": [
     "province",
     "canton",
     "parish"

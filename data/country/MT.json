@@ -37,7 +37,7 @@
     "UN"
   ],
   "phone_code": "356",
-  "divisions": [
+  "division-levels": [
     "region",
     "local council"
   ],

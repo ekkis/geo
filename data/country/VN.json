@@ -38,7 +38,7 @@
     "WTO"
   ],
   "phone_code": "84",
-  "divisions": [
+  "division-levels": [
     "province/municipality",
     "district",
     "commune"

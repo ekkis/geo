@@ -24,7 +24,7 @@
     "it": "Vaticano"
   },
   "phone_code": "379",
-  "divisions": [],
+  "division-levels": [],
   "neighbours": {
     "NE": [
       "IT"

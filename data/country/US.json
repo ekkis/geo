@@ -47,7 +47,7 @@
     "OAS"
   ],
   "phone_code": "1",
-  "divisions": [
+  "division-levels": [
     "region",
     "state",
     "county"

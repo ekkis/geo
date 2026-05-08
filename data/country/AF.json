@@ -32,7 +32,7 @@
     "UN"
   ],
   "phone_code": "93",
-  "divisions": [
+  "division-levels": [
     "province",
     "district",
     "village"

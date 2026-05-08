@@ -28,7 +28,7 @@
     "UN"
   ],
   "phone_code": "235",
-  "divisions": [
+  "division-levels": [
     "region",
     "department",
     "sub-prefecture"

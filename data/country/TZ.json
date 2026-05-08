@@ -29,7 +29,7 @@
     "AU"
   ],
   "phone_code": "255",
-  "divisions": [
+  "division-levels": [
     "region",
     "district",
     "division",

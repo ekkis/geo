@@ -38,7 +38,7 @@
     "UN"
   ],
   "phone_code": "30",
-  "divisions": [
+  "division-levels": [
     "region",
     "regional unit",
     "municipality"

@@ -37,7 +37,7 @@
     "UN"
   ],
   "phone_code": "505",
-  "divisions": [
+  "division-levels": [
     "department/autonomous region",
     "municipality"
   ],

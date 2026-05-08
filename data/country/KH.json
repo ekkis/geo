@@ -37,7 +37,7 @@
     "UN"
   ],
   "phone_code": "855",
-  "divisions": [
+  "division-levels": [
     "province",
     "district",
     "commune"

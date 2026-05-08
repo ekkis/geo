@@ -30,7 +30,7 @@
     "UN"
   ],
   "phone_code": "244",
-  "divisions": [
+  "division-levels": [
     "province",
     "municipality",
     "commune"
