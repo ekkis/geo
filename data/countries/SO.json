@@ -30,6 +30,10 @@
     "UN"
   ],
   "phone_code": "252",
+  "divisions": [
+    "federal member state",
+    "district"
+  ],
   "neighbours": {
     "NW": [
       "DJ"

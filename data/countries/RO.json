@@ -36,6 +36,11 @@
     "UN"
   ],
   "phone_code": "40",
+  "divisions": [
+    "development region",
+    "county",
+    "city/commune"
+  ],
   "neighbours": {
     "NE": [
       "MD",
@@ -45,8 +50,10 @@
       "HU"
     ],
     "SW": [
-      "BG",
       "RS"
+    ],
+    "S": [
+      "BG"
     ]
   }
 }

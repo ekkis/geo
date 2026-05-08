@@ -27,6 +27,13 @@
     "UN"
   ],
   "phone_code": "250",
+  "divisions": [
+    "province",
+    "district",
+    "sector",
+    "cell",
+    "village"
+  ],
   "neighbours": {
     "NE": [
       "UG"
@@ -34,8 +41,11 @@
     "SE": [
       "TZ"
     ],
-    "SW": [
+    "S": [
       "BI"
+    ],
+    "NW": [
+      "CD"
     ]
   }
 }

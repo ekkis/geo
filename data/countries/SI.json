@@ -37,6 +37,10 @@
     "UN"
   ],
   "phone_code": "386",
+  "divisions": [
+    "statistical region",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "HU"

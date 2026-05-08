@@ -35,6 +35,10 @@
     "UN"
   ],
   "phone_code": "60",
+  "divisions": [
+    "state/federal territory",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "BN"

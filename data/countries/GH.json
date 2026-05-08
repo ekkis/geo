@@ -27,15 +27,19 @@
     "UN"
   ],
   "phone_code": "233",
+  "divisions": [
+    "region",
+    "district"
+  ],
   "neighbours": {
-    "NW": [
+    "N": [
       "BF"
     ],
-    "SE": [
-      "TG"
-    ],
-    "SW": [
+    "W": [
       "CI"
+    ],
+    "E": [
+      "TG"
     ]
   }
 }

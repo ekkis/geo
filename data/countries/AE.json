@@ -28,6 +28,10 @@
     "UN"
   ],
   "phone_code": "971",
+  "divisions": [
+    "emirate",
+    "municipality"
+  ],
   "neighbours": {
     "NW": [
       "SA"

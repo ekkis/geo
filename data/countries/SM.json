@@ -32,6 +32,9 @@
     "UN"
   ],
   "phone_code": "378",
+  "divisions": [
+    "municipality"
+  ],
   "neighbours": {
     "SE": [
       "IT"

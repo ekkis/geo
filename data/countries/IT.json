@@ -38,6 +38,11 @@
     "UN"
   ],
   "phone_code": "39",
+  "divisions": [
+    "region",
+    "province",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "AT",
@@ -45,8 +50,8 @@
     ],
     "NW": [
       "FR",
-      "SM",
-      "CH"
+      "CH",
+      "SM"
     ],
     "SW": [
       "VA"

@@ -30,8 +30,8 @@
   "phone_code": "229",
   "neighbours": {
     "NE": [
-      "NE",
-      "NG"
+      "NG",
+      "NE"
     ],
     "NW": [
       "BF"

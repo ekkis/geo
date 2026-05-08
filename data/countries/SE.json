@@ -40,11 +40,15 @@
     "UN"
   ],
   "phone_code": "46",
+  "divisions": [
+    "county",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "FI"
     ],
-    "SW": [
+    "W": [
       "NO"
     ]
   }

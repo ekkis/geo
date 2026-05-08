@@ -35,13 +35,20 @@
     "UN"
   ],
   "phone_code": "855",
+  "divisions": [
+    "province",
+    "district",
+    "commune"
+  ],
   "neighbours": {
     "NE": [
       "VN"
     ],
     "NW": [
-      "LA",
       "TH"
+    ],
+    "N": [
+      "LA"
     ]
   }
 }

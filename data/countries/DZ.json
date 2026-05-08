@@ -31,6 +31,11 @@
     "UN"
   ],
   "phone_code": "213",
+  "divisions": [
+    "province",
+    "district",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "TN"
@@ -39,13 +44,13 @@
       "MA"
     ],
     "SE": [
-      "LY",
-      "NE"
+      "NE",
+      "LY"
     ],
     "SW": [
-      "ML",
       "MR",
-      "EH"
+      "EH",
+      "ML"
     ]
   }
 }

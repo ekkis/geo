@@ -34,6 +34,10 @@
     "UN"
   ],
   "phone_code": "504",
+  "divisions": [
+    "department",
+    "municipality"
+  ],
   "neighbours": {
     "NW": [
       "GT"

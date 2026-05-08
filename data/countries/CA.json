@@ -43,8 +43,14 @@
     "UN"
   ],
   "phone_code": "1",
+  "divisions": [
+    "province",
+    "territory",
+    "census division",
+    "municipality"
+  ],
   "neighbours": {
-    "S": [
+    "SW": [
       "US"
     ]
   }

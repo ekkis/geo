@@ -26,19 +26,29 @@
     "AU"
   ],
   "phone_code": "255",
+  "divisions": [
+    "region",
+    "district",
+    "division",
+    "ward",
+    "village"
+  ],
   "neighbours": {
     "NE": [
       "KE"
     ],
     "NW": [
       "BI",
+      "CD",
       "RW",
       "UG"
     ],
     "SW": [
       "MW",
-      "MZ",
       "ZM"
+    ],
+    "S": [
+      "MZ"
     ]
   }
 }

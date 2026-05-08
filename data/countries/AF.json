@@ -29,6 +29,11 @@
     "UN"
   ],
   "phone_code": "93",
+  "divisions": [
+    "province",
+    "district",
+    "village"
+  ],
   "neighbours": {
     "NE": [
       "CN",
@@ -42,6 +47,13 @@
       "PK"
     ],
     "SW": [
+      "IR"
+    ],
+    "E": [
+      "CN",
+      "TJ"
+    ],
+    "W": [
       "IR"
     ]
   }

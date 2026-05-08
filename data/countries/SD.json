@@ -30,18 +30,30 @@
     "UN"
   ],
   "phone_code": "249",
+  "divisions": [
+    "state",
+    "district"
+  ],
   "neighbours": {
     "NW": [
-      "EG",
       "LY"
     ],
     "SE": [
-      "ET",
-      "ER"
+      "ET"
     ],
     "SW": [
-      "CF",
-      "TD",
+      "CF"
+    ],
+    "N": [
+      "EG"
+    ],
+    "E": [
+      "ER"
+    ],
+    "W": [
+      "TD"
+    ],
+    "S": [
       "SS"
     ]
   }

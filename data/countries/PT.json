@@ -38,6 +38,11 @@
     "UN"
   ],
   "phone_code": "351",
+  "divisions": [
+    "district/autonomous region",
+    "municipality",
+    "parish"
+  ],
   "neighbours": {
     "NE": [
       "ES"

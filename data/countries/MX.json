@@ -40,13 +40,17 @@
     "UN"
   ],
   "phone_code": "52",
+  "divisions": [
+    "state/federal entity",
+    "municipality"
+  ],
   "neighbours": {
-    "N": [
-      "US"
-    ],
-    "S": [
+    "SE": [
       "BZ",
       "GT"
+    ],
+    "NE": [
+      "US"
     ]
   }
 }

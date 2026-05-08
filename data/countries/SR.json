@@ -27,12 +27,18 @@
     "UN"
   ],
   "phone_code": "597",
+  "divisions": [
+    "district",
+    "resort"
+  ],
   "neighbours": {
     "NW": [
       "GY"
     ],
     "SE": [
-      "BR",
+      "BR"
+    ],
+    "E": [
       "GF"
     ]
   }

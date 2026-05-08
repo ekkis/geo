@@ -44,6 +44,10 @@
     "UN"
   ],
   "phone_code": "45",
+  "divisions": [
+    "region",
+    "municipality"
+  ],
   "neighbours": {
     "SW": [
       "DE"

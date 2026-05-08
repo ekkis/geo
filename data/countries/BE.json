@@ -37,10 +37,16 @@
     "UN"
   ],
   "phone_code": "32",
+  "divisions": [
+    "region",
+    "province",
+    "arrondissement",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
-      "DE",
-      "NL"
+      "NL",
+      "DE"
     ],
     "SE": [
       "LU"

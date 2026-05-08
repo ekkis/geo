@@ -31,18 +31,22 @@
     "UN"
   ],
   "phone_code": "234",
+  "divisions": [
+    "state/FCT",
+    "LGA"
+  ],
   "neighbours": {
     "NE": [
       "TD"
-    ],
-    "NW": [
-      "NE"
     ],
     "SE": [
       "CM"
     ],
     "SW": [
       "BJ"
+    ],
+    "N": [
+      "NE"
     ]
   }
 }

@@ -34,8 +34,12 @@
     "UN"
   ],
   "phone_code": "+1-809 and 1-829",
+  "divisions": [
+    "province",
+    "municipality"
+  ],
   "neighbours": {
-    "SW": [
+    "W": [
       "HT"
     ]
   }

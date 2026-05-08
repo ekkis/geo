@@ -35,30 +35,46 @@
     "UN"
   ],
   "phone_code": "86",
+  "divisions": [
+    "province",
+    "autonomous region",
+    "municipality",
+    "special administrative region",
+    "prefecture",
+    "county"
+  ],
   "neighbours": {
     "NE": [
       "KP"
     ],
     "NW": [
-      "KZ",
+      "TJ",
       "KG",
-      "MN",
       "RU",
-      "TJ"
+      "KZ"
     ],
     "SE": [
       "HK",
-      "MO",
-      "VN"
+      "VN",
+      "MO"
     ],
     "SW": [
       "AF",
       "BT",
+      "PK",
       "IN",
-      "LA",
-      "MM",
       "NP",
-      "PK"
+      "MM"
+    ],
+    "W": [
+      "AF",
+      "BT"
+    ],
+    "N": [
+      "MN"
+    ],
+    "S": [
+      "LA"
     ]
   }
 }

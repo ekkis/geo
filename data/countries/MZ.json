@@ -31,16 +31,22 @@
     "UN"
   ],
   "phone_code": "258",
+  "divisions": [
+    "province",
+    "district"
+  ],
   "neighbours": {
     "NW": [
-      "MW",
-      "TZ",
-      "ZM"
+      "ZM",
+      "MW"
     ],
     "SW": [
-      "SZ",
+      "ZW",
       "ZA",
-      "ZW"
+      "SZ"
+    ],
+    "N": [
+      "TZ"
     ]
   }
 }

@@ -34,11 +34,15 @@
     "UN"
   ],
   "phone_code": "976",
+  "divisions": [
+    "aimag/sum",
+    "sum"
+  ],
   "neighbours": {
     "NW": [
       "RU"
     ],
-    "SW": [
+    "S": [
       "CN"
     ]
   }

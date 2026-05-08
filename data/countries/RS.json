@@ -37,6 +37,10 @@
     "UN"
   ],
   "phone_code": "381",
+  "divisions": [
+    "district/autonomous province",
+    "municipality/city"
+  ],
   "neighbours": {
     "NE": [
       "RO"
@@ -47,12 +51,14 @@
     ],
     "SE": [
       "BG",
+      "XK",
       "MK"
     ],
     "SW": [
-      "AL",
-      "BA",
       "ME"
+    ],
+    "W": [
+      "BA"
     ]
   }
 }

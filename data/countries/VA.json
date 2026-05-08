@@ -23,6 +23,7 @@
   "region_common": "Europe",
   "demonym": "Vatican",
   "phone_code": "379",
+  "divisions": [],
   "neighbours": {
     "NE": [
       "IT"

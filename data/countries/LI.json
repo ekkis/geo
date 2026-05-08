@@ -33,6 +33,9 @@
     "UN"
   ],
   "phone_code": "423",
+  "divisions": [
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "AT"

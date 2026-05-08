@@ -36,6 +36,11 @@
     "UN"
   ],
   "phone_code": "95",
+  "divisions": [
+    "region/state/union territory",
+    "district",
+    "township"
+  ],
   "neighbours": {
     "NE": [
       "CN"

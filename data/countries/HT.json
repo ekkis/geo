@@ -34,8 +34,13 @@
     "UN"
   ],
   "phone_code": "509",
+  "divisions": [
+    "department",
+    "arrondissement",
+    "commune"
+  ],
   "neighbours": {
-    "SE": [
+    "E": [
       "DO"
     ]
   }

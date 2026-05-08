@@ -27,6 +27,11 @@
     "UN"
   ],
   "phone_code": "244",
+  "divisions": [
+    "province",
+    "municipality",
+    "commune"
+  ],
   "neighbours": {
     "NW": [
       "CG"
@@ -36,6 +41,9 @@
     ],
     "SW": [
       "NA"
+    ],
+    "NE": [
+      "CD"
     ]
   }
 }

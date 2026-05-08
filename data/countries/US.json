@@ -47,11 +47,16 @@
     "OAS"
   ],
   "phone_code": "1",
+  "divisions": [
+    "region",
+    "state",
+    "county"
+  ],
   "neighbours": {
-    "N": [
+    "NE": [
       "CA"
     ],
-    "S": [
+    "SW": [
       "MX"
     ]
   }

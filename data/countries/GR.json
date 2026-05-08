@@ -37,15 +37,22 @@
     "UN"
   ],
   "phone_code": "30",
+  "divisions": [
+    "region",
+    "regional unit",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "BG"
     ],
     "NW": [
-      "AL",
+      "AL"
+    ],
+    "N": [
       "MK"
     ],
-    "SE": [
+    "E": [
       "TR"
     ]
   }

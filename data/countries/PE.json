@@ -32,6 +32,10 @@
     "UN"
   ],
   "phone_code": "51",
+  "divisions": [
+    "region/province",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "CO"
@@ -41,8 +45,10 @@
     ],
     "SE": [
       "BO",
-      "BR",
       "CL"
+    ],
+    "E": [
+      "BR"
     ]
   }
 }

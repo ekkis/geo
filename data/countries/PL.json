@@ -37,6 +37,11 @@
     "UN"
   ],
   "phone_code": "48",
+  "divisions": [
+    "voivodeship",
+    "county",
+    "gmina"
+  ],
   "neighbours": {
     "NE": [
       "BY",

@@ -32,6 +32,10 @@
     "UN"
   ],
   "phone_code": "993",
+  "divisions": [
+    "province/capital city",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "KZ",

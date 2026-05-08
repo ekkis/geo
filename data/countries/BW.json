@@ -27,14 +27,20 @@
     "UN"
   ],
   "phone_code": "267",
+  "divisions": [
+    "district",
+    "sub-district"
+  ],
   "neighbours": {
     "NE": [
-      "ZM",
-      "ZW"
+      "ZW",
+      "ZM"
     ],
-    "SW": [
-      "NA",
+    "S": [
       "ZA"
+    ],
+    "W": [
+      "NA"
     ]
   }
 }

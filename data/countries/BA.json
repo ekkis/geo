@@ -31,12 +31,18 @@
     "UN"
   ],
   "phone_code": "387",
+  "divisions": [
+    "entity",
+    "municipality"
+  ],
   "neighbours": {
     "NW": [
       "HR"
     ],
     "SE": [
-      "ME",
+      "ME"
+    ],
+    "E": [
       "RS"
     ]
   }

@@ -33,6 +33,11 @@
     "UN"
   ],
   "phone_code": "27",
+  "divisions": [
+    "province",
+    "district",
+    "local municipality"
+  ],
   "neighbours": {
     "NE": [
       "MZ",
@@ -40,11 +45,13 @@
       "ZW"
     ],
     "NW": [
-      "BW",
       "NA"
     ],
     "SE": [
       "LS"
+    ],
+    "N": [
+      "BW"
     ]
   }
 }

@@ -27,12 +27,19 @@
     "UN"
   ],
   "phone_code": "257",
+  "divisions": [
+    "province",
+    "commune"
+  ],
   "neighbours": {
     "NW": [
-      "RW"
+      "CD"
     ],
     "SE": [
       "TZ"
+    ],
+    "N": [
+      "RW"
     ]
   }
 }

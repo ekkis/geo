@@ -38,15 +38,20 @@
     "UN"
   ],
   "phone_code": "34",
+  "divisions": [
+    "autonomous community",
+    "province",
+    "municipality"
+  ],
   "neighbours": {
     "NE": [
       "AD",
       "FR"
     ],
     "SW": [
-      "GI",
       "MA",
-      "PT"
+      "PT",
+      "GI"
     ]
   }
 }

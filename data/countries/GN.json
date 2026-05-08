@@ -27,13 +27,17 @@
     "UN"
   ],
   "phone_code": "224",
+  "divisions": [
+    "region",
+    "prefecture"
+  ],
   "neighbours": {
     "NE": [
       "ML"
     ],
     "NW": [
-      "GW",
-      "SN"
+      "SN",
+      "GW"
     ],
     "SE": [
       "CI",

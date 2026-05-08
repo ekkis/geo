@@ -27,6 +27,11 @@
     "UN"
   ],
   "phone_code": "236",
+  "divisions": [
+    "prefecture",
+    "sub-prefecture",
+    "commune"
+  ],
   "neighbours": {
     "NE": [
       "SD"
@@ -35,11 +40,14 @@
       "TD"
     ],
     "SE": [
-      "SS"
+      "CD"
     ],
     "SW": [
       "CM",
       "CG"
+    ],
+    "E": [
+      "SS"
     ]
   }
 }

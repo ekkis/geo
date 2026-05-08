@@ -31,13 +31,20 @@
     "UN"
   ],
   "phone_code": "20",
+  "divisions": [
+    "governorate",
+    "district",
+    "city"
+  ],
   "neighbours": {
     "NE": [
-      "IL",
-      "PS"
+      "PS",
+      "IL"
     ],
     "SW": [
-      "LY",
+      "LY"
+    ],
+    "S": [
       "SD"
     ]
   }

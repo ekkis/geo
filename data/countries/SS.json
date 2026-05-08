@@ -26,19 +26,26 @@
     "UN"
   ],
   "phone_code": "211",
+  "divisions": [
+    "state",
+    "county"
+  ],
   "neighbours": {
     "NE": [
       "ET"
-    ],
-    "NW": [
-      "SD"
     ],
     "SE": [
       "KE",
       "UG"
     ],
     "SW": [
+      "CD"
+    ],
+    "W": [
       "CF"
+    ],
+    "N": [
+      "SD"
     ]
   }
 }

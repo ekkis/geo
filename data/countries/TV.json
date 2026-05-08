@@ -24,5 +24,8 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "688"
+  "phone_code": "688",
+  "divisions": [
+    "island"
+  ]
 }

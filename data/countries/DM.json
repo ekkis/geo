@@ -27,5 +27,8 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-767"
+  "phone_code": "+1-767",
+  "divisions": [
+    "parish"
+  ]
 }

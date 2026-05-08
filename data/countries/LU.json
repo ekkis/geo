@@ -37,6 +37,10 @@
     "UN"
   ],
   "phone_code": "352",
+  "divisions": [
+    "canton",
+    "commune"
+  ],
   "neighbours": {
     "NE": [
       "DE"

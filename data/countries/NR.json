@@ -24,5 +24,8 @@
   "organisations": [
     "UN"
   ],
-  "phone_code": "674"
+  "phone_code": "674",
+  "divisions": [
+    "district"
+  ]
 }

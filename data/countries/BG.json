@@ -36,17 +36,23 @@
     "UN"
   ],
   "phone_code": "359",
+  "divisions": [
+    "province",
+    "municipality"
+  ],
   "neighbours": {
     "NW": [
-      "RO",
       "RS"
     ],
     "SE": [
       "TR"
     ],
     "SW": [
-      "GR",
-      "MK"
+      "MK",
+      "GR"
+    ],
+    "N": [
+      "RO"
     ]
   }
 }

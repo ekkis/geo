@@ -26,5 +26,9 @@
     "AU",
     "UN"
   ],
-  "phone_code": "269"
+  "phone_code": "269",
+  "divisions": [
+    "island",
+    "commune"
+  ]
 }

@@ -33,6 +33,10 @@
     "UN"
   ],
   "phone_code": "996",
+  "divisions": [
+    "region",
+    "district"
+  ],
   "neighbours": {
     "NW": [
       "KZ"
@@ -41,7 +45,9 @@
       "CN"
     ],
     "SW": [
-      "TJ",
+      "TJ"
+    ],
+    "W": [
       "UZ"
     ]
   }

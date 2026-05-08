@@ -34,17 +34,25 @@
     "WTO"
   ],
   "phone_code": "856",
+  "divisions": [
+    "province/prefecture",
+    "district"
+  ],
   "neighbours": {
     "NW": [
-      "CN",
       "MM"
     ],
     "SE": [
       "VN"
     ],
     "SW": [
-      "KH",
       "TH"
+    ],
+    "S": [
+      "KH"
+    ],
+    "N": [
+      "CN"
     ]
   }
 }

@@ -31,20 +31,27 @@
     "UN"
   ],
   "phone_code": "260",
+  "divisions": [
+    "province",
+    "district"
+  ],
   "neighbours": {
     "NE": [
       "MW",
       "TZ"
     ],
     "NW": [
-      "AO"
+      "AO",
+      "CD"
     ],
     "SE": [
       "MZ"
     ],
     "SW": [
       "BW",
-      "NA",
+      "NA"
+    ],
+    "S": [
       "ZW"
     ]
   }

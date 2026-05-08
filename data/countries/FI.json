@@ -38,13 +38,18 @@
     "UN"
   ],
   "phone_code": "358",
+  "divisions": [
+    "region",
+    "sub-region",
+    "municipality"
+  ],
   "neighbours": {
     "SE": [
       "RU"
     ],
     "SW": [
-      "NO",
-      "SE"
+      "SE",
+      "NO"
     ]
   }
 }

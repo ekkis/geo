@@ -35,6 +35,10 @@
     "UN"
   ],
   "phone_code": "962",
+  "divisions": [
+    "governorate",
+    "department"
+  ],
   "neighbours": {
     "NE": [
       "IQ",
