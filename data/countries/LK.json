@@ -3,14 +3,14 @@
     "common": "Sri Lanka",
     "official": "Democratic Socialist Republic of Sri Lanka"
   },
-  "regions": [],
+  "regions": [
+    "Asia"
+  ],
   "capital": {
     "en": "Colombo",
     "lka": "Colombo"
   },
-  "currency_code": "LKR",
   "iso3": "LKA",
-  "continent_code": "AS",
   "tld": ".lk",
   "timezones": [
     "UTC+05:30"
@@ -18,10 +18,13 @@
   "area": 65610,
   "population": 21763170,
   "flag": "🇱🇰",
-  "region_common": "Asia",
-  "demonym": "Sri Lankan",
-  "gdp": 84356860421.12996,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Sri Lankan"
+  },
+  "gdp": {
+    "value": 84356860421.12996,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -39,5 +42,9 @@
   ],
   "lang": [
     "lka"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "LKR"
   ]
 }

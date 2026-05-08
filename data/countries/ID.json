@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Indonesia",
-    "official": "Republic of Indonesia"
+    "official": "Republic of Indonesia",
+    "id": "Indonesia"
   },
   "regions": [
     "SEA",
-    "OC"
+    "OC",
+    "Asia"
   ],
   "capital": {
     "en": "Jakarta",
     "id": "Jakarta"
   },
-  "currency_code": "IDR",
   "iso3": "IDN",
-  "continent_code": "AS",
   "tld": ".id",
   "timezones": [
     "UTC+07:00",
@@ -23,10 +23,14 @@
   "area": 1904569,
   "population": 284438782,
   "flag": "🇮🇩",
-  "region_common": "Asia",
-  "demonym": "Indonesian",
-  "gdp": 1371171152331.155,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Indonesian",
+    "id": "Indonesia"
+  },
+  "gdp": {
+    "value": 1371171152331.155,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -56,5 +60,9 @@
   },
   "lang": [
     "id"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "IDR"
   ]
 }

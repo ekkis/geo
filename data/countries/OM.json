@@ -1,16 +1,17 @@
 {
   "name": {
     "common": "Oman",
-    "official": "Sultanate of Oman"
+    "official": "Sultanate of Oman",
+    "ar": "عمان"
   },
-  "regions": [],
+  "regions": [
+    "Asia"
+  ],
   "capital": {
     "en": "Muscat",
     "ar": "المسكات عنب طيب الشذا"
   },
-  "currency_code": "OMR",
   "iso3": "OMN",
-  "continent_code": "AS",
   "tld": ".om",
   "timezones": [
     "UTC+04:00"
@@ -18,10 +19,14 @@
   "area": 309500,
   "population": 5343630,
   "flag": "🇴🇲",
-  "region_common": "Asia",
-  "demonym": "Omani",
-  "gdp": 108192457737.3212,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Omani",
+    "ar": "عمانية"
+  },
+  "gdp": {
+    "value": 108192457737.3212,
+    "year": 2023
+  },
   "postal_code": {
     "format": "###",
     "regex": "^(\\d{3})$"
@@ -46,5 +51,9 @@
   },
   "lang": [
     "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "OMR"
   ]
 }

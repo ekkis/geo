@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Poland",
-    "official": "Republic of Poland"
+    "official": "Republic of Poland",
+    "pl": "Polska"
   },
   "regions": [
-    "CEU"
+    "CEU",
+    "Europe"
   ],
   "capital": {
     "en": "Warsaw",
     "pl": "Warszawa"
   },
-  "currency_code": "PLN",
   "iso3": "POL",
-  "continent_code": "EU",
   "tld": ".pl",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +20,14 @@
   "area": 312679,
   "population": 37392000,
   "flag": "🇵🇱",
-  "region_common": "Europe",
-  "demonym": "Polish",
-  "gdp": 811229100687.5663,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Polish",
+    "pl": "Polski"
+  },
+  "gdp": {
+    "value": 811229100687.5663,
+    "year": 2023
+  },
   "postal_code": {
     "format": "##-###",
     "regex": "^(\\d{5})$"
@@ -59,5 +63,9 @@
   },
   "lang": [
     "pl"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "PLN"
   ]
 }

@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "North Korea",
-    "official": "Democratic People's Republic of Korea"
+    "official": "Democratic People's Republic of Korea",
+    "ko": "북한"
   },
   "regions": [
-    "EASS"
+    "EASS",
+    "Asia"
   ],
   "capital": {
     "en": "Pyongyang",
     "ko": "평양"
   },
-  "currency_code": "KPW",
   "iso3": "PRK",
-  "continent_code": "AS",
   "tld": ".kp",
   "timezones": [
     "UTC+09:00"
@@ -20,8 +20,10 @@
   "area": 120538,
   "population": 25950000,
   "flag": "🇰🇵",
-  "region_common": "Asia",
-  "demonym": "North Korean",
+  "demonym": {
+    "en": "North Korean",
+    "ko": "북한 사람"
+  },
   "postal_code": {
     "format": "###-###",
     "regex": "^(\\d{6})$"
@@ -44,5 +46,9 @@
   },
   "lang": [
     "ko"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "KPW"
   ]
 }

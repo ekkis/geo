@@ -7,9 +7,7 @@
     "en": "Kingston",
     "nfk": "Kingston"
   },
-  "currency_code": "AUD",
   "iso3": "NFK",
-  "continent_code": "OC",
   "tld": ".nf",
   "timezones": [
     "UTC+11:30"
@@ -17,10 +15,18 @@
   "area": 36,
   "population": 2188,
   "flag": "🇳🇫",
-  "region_common": "Oceania",
-  "demonym": "Norfolk Islander",
+  "demonym": {
+    "en": "Norfolk Islander"
+  },
   "phone_code": "672",
   "lang": [
     "nfk"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "AUD"
   ]
 }

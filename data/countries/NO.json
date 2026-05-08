@@ -7,14 +7,13 @@
     "WEU",
     "SCAN",
     "NOR",
-    "NOR"
+    "NOR",
+    "Europe"
   ],
   "capital": {
     "en": "Oslo"
   },
-  "currency_code": "NOK",
   "iso3": "NOR",
-  "continent_code": "EU",
   "tld": ".no",
   "timezones": [
     "UTC+01:00"
@@ -22,10 +21,13 @@
   "area": 386224,
   "population": 5606944,
   "flag": "🇳🇴",
-  "region_common": "Europe",
-  "demonym": "Norwegian",
-  "gdp": 485513316503.63043,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Norwegian"
+  },
+  "gdp": {
+    "value": 485513316503.63043,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -53,5 +55,9 @@
       "SE"
     ]
   },
-  "lang": []
+  "lang": [],
+  "continent": "EU",
+  "currencies": [
+    "NOK"
+  ]
 }

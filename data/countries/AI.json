@@ -3,14 +3,14 @@
     "common": "Anguilla",
     "official": "Anguilla"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "The Valley",
     "aia": "The Valley"
   },
-  "currency_code": "XCD",
   "iso3": "AIA",
-  "continent_code": "NA",
   "tld": ".ai",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,15 @@
   "area": 91,
   "population": 16010,
   "flag": "🇦🇮",
-  "region_common": "Americas",
-  "demonym": "Anguillian",
+  "demonym": {
+    "en": "Anguillian"
+  },
   "phone_code": "+1-264",
   "lang": [
     "aia"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

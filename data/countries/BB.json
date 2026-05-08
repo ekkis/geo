@@ -3,14 +3,14 @@
     "common": "Barbados",
     "official": "Barbados"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Bridgetown",
     "brb": "Bridgetown"
   },
-  "currency_code": "BBD",
   "iso3": "BRB",
-  "continent_code": "NA",
   "tld": ".bb",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 430,
   "population": 267800,
   "flag": "🇧🇧",
-  "region_common": "Americas",
-  "demonym": "Barbadian",
-  "gdp": 6393564189.61345,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Barbadian"
+  },
+  "gdp": {
+    "value": 6393564189.61345,
+    "year": 2023
+  },
   "postal_code": {
     "format": "BB#####",
     "regex": "^(?:BB)*(\\d{5})$"
@@ -37,5 +40,9 @@
   ],
   "lang": [
     "brb"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "BBD"
   ]
 }

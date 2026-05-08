@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Cuba",
-    "official": "Republic of Cuba"
+    "official": "Republic of Cuba",
+    "es": "Cuba"
   },
   "regions": [
     "CAR",
-    "LATAM"
+    "LATAM",
+    "Americas"
   ],
   "capital": {
     "en": "Havana",
     "es": "la Habana"
   },
-  "currency_code": "CUP",
   "iso3": "CUB",
-  "continent_code": "NA",
   "tld": ".cu",
   "timezones": [
     "UTC-05:00"
@@ -21,10 +21,14 @@
   "area": 109884,
   "population": 9748007,
   "flag": "🇨🇺",
-  "region_common": "Americas",
-  "demonym": "Cuban",
-  "gdp": 107351800000,
-  "gdp_year": 2020,
+  "demonym": {
+    "en": "Cuban",
+    "es": "Cuban"
+  },
+  "gdp": {
+    "value": 107351800000,
+    "year": 2020
+  },
   "postal_code": {
     "format": "CP #####",
     "regex": "^(?:CP)*(\\d{5})$"
@@ -41,5 +45,9 @@
   ],
   "lang": [
     "es"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "CUP"
   ]
 }

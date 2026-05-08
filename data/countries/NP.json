@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Nepal",
-    "official": "Federal Democratic Republic of Nepal"
+    "official": "Federal Democratic Republic of Nepal",
+    "ne": "नेपाल"
   },
   "regions": [
-    "SAS"
+    "SAS",
+    "Asia"
   ],
   "capital": {
     "en": "Kathmandu",
     "ne": "काठमाडौं ।"
   },
-  "currency_code": "NPR",
   "iso3": "NPL",
-  "continent_code": "AS",
   "tld": ".np",
   "timezones": [
     "UTC+05:45"
@@ -20,10 +20,14 @@
   "area": 147181,
   "population": 29911840,
   "flag": "🇳🇵",
-  "region_common": "Asia",
-  "demonym": "Nepalese",
-  "gdp": 40908073366.84552,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Nepalese",
+    "ne": "नेपाली"
+  },
+  "gdp": {
+    "value": 40908073366.84552,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -48,5 +52,9 @@
   },
   "lang": [
     "ne"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "NPR"
   ]
 }

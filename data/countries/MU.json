@@ -7,9 +7,7 @@
     "en": "Port Louis",
     "mus": "Port Louis"
   },
-  "currency_code": "MUR",
   "iso3": "MUS",
-  "continent_code": "AF",
   "tld": ".mu",
   "timezones": [
     "UTC+04:00"
@@ -17,10 +15,13 @@
   "area": 2040,
   "population": 1243741,
   "flag": "🇲🇺",
-  "region_common": "Africa",
-  "demonym": "Mauritian",
-  "gdp": 14397127281.382942,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Mauritian"
+  },
+  "gdp": {
+    "value": 14397127281.382942,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -33,5 +34,12 @@
   ],
   "lang": [
     "mus"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "MUR"
   ]
 }

@@ -7,9 +7,7 @@
     "en": "Accra",
     "ak": "Accra"
   },
-  "currency_code": "GHS",
   "iso3": "GHA",
-  "continent_code": "AF",
   "tld": ".gh",
   "timezones": [
     "UTC"
@@ -17,10 +15,13 @@
   "area": 238533,
   "population": 33742380,
   "flag": "🇬🇭",
-  "region_common": "Africa",
-  "demonym": "Ghanaian",
-  "gdp": 76370394412.41626,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Ghanaian"
+  },
+  "gdp": {
+    "value": 76370394412.41626,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -44,5 +45,12 @@
   },
   "lang": [
     "ak"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "GHS"
   ]
 }

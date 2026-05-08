@@ -3,14 +3,14 @@
     "common": "Turks and Caicos Islands",
     "official": "Turks and Caicos Islands"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Cockburn Town",
     "tca": "Cockburn Town"
   },
-  "currency_code": "USD",
   "iso3": "TCA",
-  "continent_code": "NA",
   "tld": ".tc",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 948,
   "population": 50828,
   "flag": "🇹🇨",
-  "region_common": "Americas",
-  "demonym": "Turks and Caicos Islander",
-  "gdp": 1402054390.94734,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Turks and Caicos Islander"
+  },
+  "gdp": {
+    "value": 1402054390.94734,
+    "year": 2023
+  },
   "postal_code": {
     "format": "TKCA 1ZZ",
     "regex": "^(TKCA 1ZZ)$"
@@ -29,5 +32,9 @@
   "phone_code": "+1-649",
   "lang": [
     "tca"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "USD"
   ]
 }

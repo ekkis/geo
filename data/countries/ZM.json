@@ -7,9 +7,7 @@
     "en": "Lusaka",
     "zmb": "Lusaka"
   },
-  "currency_code": "ZMK",
   "iso3": "ZMB",
-  "continent_code": "AF",
   "tld": ".zm",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 752612,
   "population": 19693423,
   "flag": "🇿🇲",
-  "region_common": "Africa",
-  "demonym": "Zambian",
-  "gdp": 28162630953.9285,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Zambian"
+  },
+  "gdp": {
+    "value": 28162630953.9285,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -57,5 +58,12 @@
   },
   "lang": [
     "zmb"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "ZMK"
   ]
 }

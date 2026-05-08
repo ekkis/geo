@@ -7,9 +7,7 @@
     "en": "Bujumbura",
     "bdi": "Bujumbura"
   },
-  "currency_code": "BIF",
   "iso3": "BDI",
-  "continent_code": "AF",
   "tld": ".bi",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 27834,
   "population": 12332788,
   "flag": "🇧🇮",
-  "region_common": "Africa",
-  "demonym": "Burundian",
-  "gdp": 2642161668.9275384,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Burundian"
+  },
+  "gdp": {
+    "value": 2642161668.9275384,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -44,5 +45,12 @@
   },
   "lang": [
     "bdi"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "BIF"
   ]
 }

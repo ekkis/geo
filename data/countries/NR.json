@@ -7,9 +7,7 @@
     "en": "Yaren",
     "nru": "Yaren"
   },
-  "currency_code": "AUD",
   "iso3": "NRU",
-  "continent_code": "OC",
   "tld": ".nr",
   "timezones": [
     "UTC+12:00"
@@ -17,10 +15,13 @@
   "area": 21,
   "population": 11680,
   "flag": "🇳🇷",
-  "region_common": "Oceania",
-  "demonym": "Nauruan",
-  "gdp": 154127798.19354144,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Nauruan"
+  },
+  "gdp": {
+    "value": 154127798.19354144,
+    "year": 2023
+  },
   "organisations": [
     "UN"
   ],
@@ -30,5 +31,12 @@
   ],
   "lang": [
     "nru"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "AUD"
   ]
 }

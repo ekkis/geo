@@ -5,15 +5,14 @@
   },
   "regions": [
     "SCAN",
-    "NOR"
+    "NOR",
+    "Europe"
   ],
   "capital": {
     "en": "Mariehamn",
     "ala": "Mariehamn"
   },
-  "currency_code": "EUR",
   "iso3": "ALA",
-  "continent_code": "EU",
   "tld": ".ax",
   "timezones": [
     "UTC+02:00"
@@ -21,10 +20,15 @@
   "area": 1580,
   "population": 30654,
   "flag": "🇦🇽",
-  "region_common": "Europe",
-  "demonym": "Ålandish",
+  "demonym": {
+    "en": "Ålandish"
+  },
   "phone_code": "+358-18",
   "lang": [
     "ala"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

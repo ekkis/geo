@@ -3,14 +3,14 @@
     "common": "Christmas Island",
     "official": "Territory of Christmas Island"
   },
-  "regions": [],
+  "regions": [
+    "Oceania"
+  ],
   "capital": {
     "en": "Flying Fish Cove",
     "cxr": "Flying Fish Cove"
   },
-  "currency_code": "AUD",
   "iso3": "CXR",
-  "continent_code": "AS",
   "tld": ".cx",
   "timezones": [
     "UTC+07:00"
@@ -18,8 +18,9 @@
   "area": 135,
   "population": 1692,
   "flag": "🇨🇽",
-  "region_common": "Oceania",
-  "demonym": "Christmas Islander",
+  "demonym": {
+    "en": "Christmas Islander"
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -27,5 +28,9 @@
   "phone_code": "61",
   "lang": [
     "cxr"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "AUD"
   ]
 }

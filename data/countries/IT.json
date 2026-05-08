@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Italy",
-    "official": "Italian Republic"
+    "official": "Italian Republic",
+    "it": "Italia"
   },
   "regions": [
-    "SE"
+    "SE",
+    "Europe"
   ],
   "capital": {
     "en": "Rome",
     "it": "Roma"
   },
-  "currency_code": "EUR",
   "iso3": "ITA",
-  "continent_code": "EU",
   "tld": ".it",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +20,14 @@
   "area": 301336,
   "population": 58927633,
   "flag": "🇮🇹",
-  "region_common": "Europe",
-  "demonym": "Italian",
-  "gdp": 2254851212731.8047,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Italian",
+    "it": "Italian"
+  },
+  "gdp": {
+    "value": 2254851212731.8047,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -59,5 +63,9 @@
   },
   "lang": [
     "it"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

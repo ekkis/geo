@@ -3,14 +3,14 @@
     "common": "Cocos (Keeling) Islands",
     "official": "Territory of the Cocos (Keeling) Islands"
   },
-  "regions": [],
+  "regions": [
+    "Oceania"
+  ],
   "capital": {
     "en": "West Island",
     "cck": "West Island"
   },
-  "currency_code": "AUD",
   "iso3": "CCK",
-  "continent_code": "AS",
   "tld": ".cc",
   "timezones": [
     "UTC+06:30"
@@ -18,10 +18,15 @@
   "area": 14,
   "population": 593,
   "flag": "🇨🇨",
-  "region_common": "Oceania",
-  "demonym": "Cocos Islander",
+  "demonym": {
+    "en": "Cocos Islander"
+  },
   "phone_code": "61",
   "lang": [
     "cck"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "AUD"
   ]
 }

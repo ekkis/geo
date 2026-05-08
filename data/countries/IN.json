@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "India",
-    "official": "Republic of India"
+    "official": "Republic of India",
+    "hi": "भारत"
   },
   "regions": [
-    "SAS"
+    "SAS",
+    "Asia"
   ],
   "capital": {
     "en": "New Delhi",
     "hi": "नई दिल्ली"
   },
-  "currency_code": "INR",
   "iso3": "IND",
-  "continent_code": "AS",
   "tld": ".in",
   "timezones": [
     "UTC+05:30"
@@ -20,10 +20,14 @@
   "area": 3287263,
   "population": 1417492000,
   "flag": "🇮🇳",
-  "region_common": "Asia",
-  "demonym": "Indian",
-  "gdp": 3549918918777.5317,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Indian",
+    "hi": "भारतीय"
+  },
+  "gdp": {
+    "value": 3549918918777.5317,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -59,5 +63,9 @@
   },
   "lang": [
     "hi"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "INR"
   ]
 }

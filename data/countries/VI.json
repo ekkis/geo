@@ -3,14 +3,14 @@
     "common": "United States Virgin Islands",
     "official": "Virgin Islands of the United States"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Charlotte Amalie",
     "vir": "Charlotte Amalie"
   },
-  "currency_code": "USD",
   "iso3": "VIR",
-  "continent_code": "NA",
   "tld": ".vi",
   "timezones": [
     "UTC-04:00"
@@ -18,12 +18,19 @@
   "area": 347,
   "population": 87146,
   "flag": "🇻🇮",
-  "region_common": "Americas",
-  "demonym": "Virgin Islander",
-  "gdp": 4444000000,
-  "gdp_year": 2021,
+  "demonym": {
+    "en": "Virgin Islander"
+  },
+  "gdp": {
+    "value": 4444000000,
+    "year": 2021
+  },
   "phone_code": "+1-340",
   "lang": [
     "vir"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "USD"
   ]
 }

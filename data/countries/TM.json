@@ -4,15 +4,14 @@
     "official": "Turkmenistan"
   },
   "regions": [
-    "CAS"
+    "CAS",
+    "Asia"
   ],
   "capital": {
     "en": "Ashgabat",
     "tk": "Ashgabat"
   },
-  "currency_code": "TMT",
   "iso3": "TKM",
-  "continent_code": "AS",
   "tld": ".tm",
   "timezones": [
     "UTC+05:00"
@@ -20,10 +19,13 @@
   "area": 488100,
   "population": 7057841,
   "flag": "🇹🇲",
-  "region_common": "Asia",
-  "demonym": "Turkmen",
-  "gdp": 59887334844.06514,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Turkmen"
+  },
+  "gdp": {
+    "value": 59887334844.06514,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -50,5 +52,9 @@
   },
   "lang": [
     "tk"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "TMT"
   ]
 }

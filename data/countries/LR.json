@@ -7,9 +7,7 @@
     "en": "Monrovia",
     "lbr": "Monrovia"
   },
-  "currency_code": "LRD",
   "iso3": "LBR",
-  "continent_code": "AF",
   "tld": ".lr",
   "timezones": [
     "UTC"
@@ -17,10 +15,13 @@
   "area": 111369,
   "population": 5248621,
   "flag": "🇱🇷",
-  "region_common": "Africa",
-  "demonym": "Liberian",
-  "gdp": 4332000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Liberian"
+  },
+  "gdp": {
+    "value": 4332000000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -46,5 +47,12 @@
   },
   "lang": [
     "lbr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "LRD"
   ]
 }

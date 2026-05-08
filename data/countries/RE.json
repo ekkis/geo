@@ -7,9 +7,7 @@
     "en": "Saint-Denis",
     "reu": "Saint-Denis"
   },
-  "currency_code": "EUR",
   "iso3": "REU",
-  "continent_code": "AF",
   "tld": ".re",
   "timezones": [
     "UTC+04:00"
@@ -17,8 +15,9 @@
   "area": 2511,
   "population": 896175,
   "flag": "🇷🇪",
-  "region_common": "Africa",
-  "demonym": "Réunionese",
+  "demonym": {
+    "en": "Réunionese"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^((97|98)(4|7|8)\\d{2})$"
@@ -26,5 +25,12 @@
   "phone_code": "262",
   "lang": [
     "reu"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "EUR"
   ]
 }

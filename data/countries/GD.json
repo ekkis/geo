@@ -3,14 +3,14 @@
     "common": "Grenada",
     "official": "Grenada"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "St. George's",
     "grd": "St. George's"
   },
-  "currency_code": "XCD",
   "iso3": "GRD",
-  "continent_code": "NA",
   "tld": ".gd",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 344,
   "population": 109021,
   "flag": "🇬🇩",
-  "region_common": "Americas",
-  "demonym": "Grenadian",
-  "gdp": 1320334235.588974,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Grenadian"
+  },
+  "gdp": {
+    "value": 1320334235.588974,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -33,5 +36,9 @@
   ],
   "lang": [
     "grd"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

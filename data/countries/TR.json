@@ -1,20 +1,20 @@
 {
   "name": {
     "common": "Turkey",
-    "official": "Republic of Turkey"
+    "official": "Republic of Turkey",
+    "tr": "Türkiye"
   },
   "regions": [
     "WAS",
     "ME",
-    "EURS"
+    "EURS",
+    "Asia"
   ],
   "capital": {
     "en": "Ankara",
     "tr": "Ankara"
   },
-  "currency_code": "TRY",
   "iso3": "TUR",
-  "continent_code": "AS",
   "tld": ".tr",
   "timezones": [
     "UTC+03:00"
@@ -22,10 +22,14 @@
   "area": 783562,
   "population": 85664944,
   "flag": "🇹🇷",
-  "region_common": "Asia",
-  "demonym": "Turkish",
-  "gdp": 1108022373259.511,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Turkish",
+    "tr": "Türkçe"
+  },
+  "gdp": {
+    "value": 1108022373259.511,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -62,5 +66,9 @@
   },
   "lang": [
     "tr"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "TRY"
   ]
 }

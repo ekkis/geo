@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Cambodia",
-    "official": "Kingdom of Cambodia"
+    "official": "Kingdom of Cambodia",
+    "km": "កម្ពុជា។"
   },
   "regions": [
     "SEA",
-    "INDO"
+    "INDO",
+    "Asia"
   ],
   "capital": {
     "en": "Phnom Penh",
     "km": "ភ្នំពេញ"
   },
-  "currency_code": "KHR",
   "iso3": "KHM",
-  "continent_code": "AS",
   "tld": ".kh",
   "timezones": [
     "UTC+07:00"
@@ -21,10 +21,14 @@
   "area": 181035,
   "population": 17577760,
   "flag": "🇰🇭",
-  "region_common": "Asia",
-  "demonym": "Cambodian",
-  "gdp": 31772759998.85713,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Cambodian",
+    "km": "កម្ពុជា។"
+  },
+  "gdp": {
+    "value": 31772759998.85713,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -53,5 +57,9 @@
   },
   "lang": [
     "km"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "KHR"
   ]
 }

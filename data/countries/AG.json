@@ -3,14 +3,14 @@
     "common": "Antigua and Barbuda",
     "official": "Antigua and Barbuda"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "St. John's",
     "atg": "St. John's"
   },
-  "currency_code": "XCD",
   "iso3": "ATG",
-  "continent_code": "NA",
   "tld": ".ag",
   "timezones": [
     "UTC-04:00"
@@ -18,10 +18,13 @@
   "area": 442,
   "population": 103603,
   "flag": "🇦🇬",
-  "region_common": "Americas",
-  "demonym": "Antiguan, Barbudan",
-  "gdp": 2033085185.185185,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Antiguan, Barbudan"
+  },
+  "gdp": {
+    "value": 2033085185.185185,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -30,5 +33,9 @@
   "phone_code": "+1-268",
   "lang": [
     "atg"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "XCD"
   ]
 }

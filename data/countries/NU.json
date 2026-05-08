@@ -7,9 +7,7 @@
     "en": "Alofi",
     "niu": "Alofi"
   },
-  "currency_code": "NZD",
   "iso3": "NIU",
-  "continent_code": "OC",
   "tld": ".nu",
   "timezones": [
     "UTC-11:00"
@@ -17,10 +15,18 @@
   "area": 260,
   "population": 1681,
   "flag": "🇳🇺",
-  "region_common": "Oceania",
-  "demonym": "Niuean",
+  "demonym": {
+    "en": "Niuean"
+  },
   "phone_code": "683",
   "lang": [
     "niu"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
   ]
 }

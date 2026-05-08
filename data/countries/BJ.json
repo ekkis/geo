@@ -1,16 +1,15 @@
 {
   "name": {
     "common": "Benin",
-    "official": "Republic of Benin"
+    "official": "Republic of Benin",
+    "bn": "বেনিন"
   },
   "capital": {
     "en": "Porto-Novo",
     "bn": "পোর্তো-নভো",
     "dy": "Porto-Novo"
   },
-  "currency_code": "XOF",
   "iso3": "BEN",
-  "continent_code": "AF",
   "tld": ".bj",
   "timezones": [
     "UTC+01:00"
@@ -18,10 +17,14 @@
   "area": 112622,
   "population": 13224860,
   "flag": "🇧🇯",
-  "region_common": "Africa",
-  "demonym": "Beninese",
-  "gdp": 19673284686.00226,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Beninese",
+    "bn": "বেনিনীজ"
+  },
+  "gdp": {
+    "value": 19673284686.00226,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -43,5 +46,12 @@
   "lang": [
     "bn",
     "dy"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
   ]
 }

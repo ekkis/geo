@@ -3,14 +3,14 @@
     "common": "Aruba",
     "official": "Aruba"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Oranjestad",
     "abw": "Oranjestad"
   },
-  "currency_code": "AWG",
   "iso3": "ABW",
-  "continent_code": "NA",
   "tld": ".aw",
   "timezones": [
     "UTC-04:00"
@@ -18,12 +18,19 @@
   "area": 180,
   "population": 107566,
   "flag": "🇦🇼",
-  "region_common": "Americas",
-  "demonym": "Aruban",
-  "gdp": 3544707788.0566425,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Aruban"
+  },
+  "gdp": {
+    "value": 3544707788.0566425,
+    "year": 2022
+  },
   "phone_code": "297",
   "lang": [
     "abw"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "AWG"
   ]
 }

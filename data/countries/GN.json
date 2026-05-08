@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Guinea",
-    "official": "Republic of Guinea"
+    "official": "Republic of Guinea",
+    "fr": "Guinée"
   },
   "capital": {
     "en": "Conakry",
     "fr": "Conakry"
   },
-  "currency_code": "GNF",
   "iso3": "GIN",
-  "continent_code": "AF",
   "tld": ".gn",
   "timezones": [
     "UTC"
@@ -17,10 +16,14 @@
   "area": 245857,
   "population": 14363931,
   "flag": "🇬🇳",
-  "region_common": "Africa",
-  "demonym": "Guinean",
-  "gdp": 23612295818.096096,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Guinean",
+    "fr": "guinéen"
+  },
+  "gdp": {
+    "value": 23612295818.096096,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -49,5 +52,12 @@
   },
   "lang": [
     "fr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "GNF"
   ]
 }

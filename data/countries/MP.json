@@ -7,9 +7,7 @@
     "en": "Saipan",
     "mnp": "Saipan"
   },
-  "currency_code": "USD",
   "iso3": "MNP",
-  "continent_code": "OC",
   "tld": ".mp",
   "timezones": [
     "UTC+10:00"
@@ -17,12 +15,22 @@
   "area": 464,
   "population": 47329,
   "flag": "🇲🇵",
-  "region_common": "Oceania",
-  "demonym": "American",
-  "gdp": 858000000,
-  "gdp_year": 2020,
+  "demonym": {
+    "en": "American"
+  },
+  "gdp": {
+    "value": 858000000,
+    "year": 2020
+  },
   "phone_code": "+1-670",
   "lang": [
     "mnp"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "USD"
   ]
 }

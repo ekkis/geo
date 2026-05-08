@@ -4,15 +4,14 @@
     "official": "Republic of the Maldives"
   },
   "regions": [
-    "SAS"
+    "SAS",
+    "Asia"
   ],
   "capital": {
     "en": "Male",
     "mdv": "Male"
   },
-  "currency_code": "MVR",
   "iso3": "MDV",
-  "continent_code": "AS",
   "tld": ".mv",
   "timezones": [
     "UTC+05:00"
@@ -20,10 +19,13 @@
   "area": 300,
   "population": 515132,
   "flag": "🇲🇻",
-  "region_common": "Asia",
-  "demonym": "Maldivan",
-  "gdp": 6600000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Maldivan"
+  },
+  "gdp": {
+    "value": 6600000000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -39,5 +41,9 @@
   ],
   "lang": [
     "mdv"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "MVR"
   ]
 }

@@ -10,12 +10,16 @@
     "en": "Pristina",
     "xkk": "Pristina"
   },
-  "currency_code": "EUR",
   "iso3": "XKX",
-  "continent_code": "EU",
-  "demonym": "Kosovar",
+  "demonym": {
+    "en": "Kosovar"
+  },
   "phone_code": "",
   "lang": [
     "xkk"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

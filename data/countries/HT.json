@@ -4,15 +4,14 @@
     "official": "Republic of Haiti"
   },
   "regions": [
-    "LATAM"
+    "LATAM",
+    "Americas"
   ],
   "capital": {
     "en": "Port-au-Prince",
     "hti": "Port-au-Prince"
   },
-  "currency_code": "HTG",
   "iso3": "HTI",
-  "continent_code": "NA",
   "tld": ".ht",
   "timezones": [
     "UTC-05:00"
@@ -20,10 +19,13 @@
   "area": 27750,
   "population": 11867032,
   "flag": "🇭🇹",
-  "region_common": "Americas",
-  "demonym": "Haitian",
-  "gdp": 19850829757.747147,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Haitian"
+  },
+  "gdp": {
+    "value": 19850829757.747147,
+    "year": 2023
+  },
   "postal_code": {
     "format": "HT####",
     "regex": "^(?:HT)*(\\d{4})$"
@@ -46,5 +48,9 @@
   },
   "lang": [
     "hti"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "HTG"
   ]
 }

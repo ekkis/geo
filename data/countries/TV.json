@@ -7,9 +7,7 @@
     "en": "Funafuti",
     "tuv": "Funafuti"
   },
-  "currency_code": "AUD",
   "iso3": "TUV",
-  "continent_code": "OC",
   "tld": ".tv",
   "timezones": [
     "UTC+12:00"
@@ -17,10 +15,13 @@
   "area": 26,
   "population": 10643,
   "flag": "🇹🇻",
-  "region_common": "Oceania",
-  "demonym": "Tuvaluan",
-  "gdp": 62280311.585217156,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Tuvaluan"
+  },
+  "gdp": {
+    "value": 62280311.585217156,
+    "year": 2023
+  },
   "organisations": [
     "UN"
   ],
@@ -30,5 +31,12 @@
   ],
   "lang": [
     "tuv"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "AUD"
   ]
 }

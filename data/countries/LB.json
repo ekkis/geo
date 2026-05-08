@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Lebanon",
-    "official": "Lebanese Republic"
+    "official": "Lebanese Republic",
+    "ar": "لبنان"
   },
   "regions": [
     "WAS",
-    "LEV"
+    "LEV",
+    "Asia"
   ],
   "capital": {
     "en": "Beirut",
     "ar": "بيروت"
   },
-  "currency_code": "LBP",
   "iso3": "LBN",
-  "continent_code": "AS",
   "tld": ".lb",
   "timezones": [
     "UTC+02:00"
@@ -21,10 +21,14 @@
   "area": 10452,
   "population": 5490000,
   "flag": "🇱🇧",
-  "region_common": "Asia",
-  "demonym": "Lebanese",
-  "gdp": 20992421948.808086,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Lebanese",
+    "ar": "لبناني"
+  },
+  "gdp": {
+    "value": 20992421948.808086,
+    "year": 2022
+  },
   "postal_code": {
     "format": "#### ####|####",
     "regex": "^(\\d{4}(\\d{4})?)$"
@@ -47,5 +51,9 @@
   },
   "lang": [
     "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "LBP"
   ]
 }

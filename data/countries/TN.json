@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Tunisia",
-    "official": "Tunisian Republic"
+    "official": "Tunisian Republic",
+    "ar": "تونس"
   },
   "capital": {
     "en": "Tunis",
     "ar": "تونس"
   },
-  "currency_code": "TND",
   "iso3": "TUN",
-  "continent_code": "AF",
   "tld": ".tn",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +16,14 @@
   "area": 163610,
   "population": 11972169,
   "flag": "🇹🇳",
-  "region_common": "Africa",
-  "demonym": "Tunisian",
-  "gdp": 48529595416.65326,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Tunisian",
+    "ar": "تونسي"
+  },
+  "gdp": {
+    "value": 48529595416.65326,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -45,5 +48,12 @@
   },
   "lang": [
     "ar"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "TND"
   ]
 }

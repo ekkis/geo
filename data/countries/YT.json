@@ -7,9 +7,7 @@
     "en": "Mamoudzou",
     "myt": "Mamoudzou"
   },
-  "currency_code": "EUR",
   "iso3": "MYT",
-  "continent_code": "AF",
   "tld": ".yt",
   "timezones": [
     "UTC+03:00"
@@ -17,8 +15,9 @@
   "area": 374,
   "population": 320901,
   "flag": "🇾🇹",
-  "region_common": "Africa",
-  "demonym": "Mahoran",
+  "demonym": {
+    "en": "Mahoran"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -26,5 +25,12 @@
   "phone_code": "262",
   "lang": [
     "myt"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "EUR"
   ]
 }

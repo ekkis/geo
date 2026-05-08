@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Egypt",
-    "official": "Arab Republic of Egypt"
+    "official": "Arab Republic of Egypt",
+    "ar": "مصر"
   },
   "capital": {
     "en": "Cairo",
     "ar": "القاهرة"
   },
-  "currency_code": "EGP",
   "iso3": "EGY",
-  "continent_code": "AF",
   "tld": ".eg",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +16,14 @@
   "area": 1002450,
   "population": 107271260,
   "flag": "🇪🇬",
-  "region_common": "Africa",
-  "demonym": "Egyptian",
-  "gdp": 395926075163.0058,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Egyptian",
+    "ar": "مصري"
+  },
+  "gdp": {
+    "value": 395926075163.0058,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -50,5 +53,12 @@
   },
   "lang": [
     "ar"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "EGP"
   ]
 }

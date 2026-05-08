@@ -1,17 +1,18 @@
 {
   "name": {
     "common": "Yemen",
-    "official": "Republic of Yemen"
+    "official": "Republic of Yemen",
+    "ar": "اليمن"
   },
-  "regions": [],
+  "regions": [
+    "Asia"
+  ],
   "capital": {
     "en": "Sanaa",
     "ar": "صنعاء",
     "yd": "Sanaa"
   },
-  "currency_code": "YER",
   "iso3": "YEM",
-  "continent_code": "AS",
   "tld": ".ye",
   "timezones": [
     "UTC+03:00"
@@ -19,10 +20,14 @@
   "area": 527968,
   "population": 32684503,
   "flag": "🇾🇪",
-  "region_common": "Asia",
-  "demonym": "Yemeni",
-  "gdp": 21606160663.03177,
-  "gdp_year": 2018,
+  "demonym": {
+    "en": "Yemeni",
+    "ar": "يمني"
+  },
+  "gdp": {
+    "value": 21606160663.03177,
+    "year": 2018
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -43,5 +48,9 @@
   "lang": [
     "ar",
     "yd"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "YER"
   ]
 }

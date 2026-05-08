@@ -7,9 +7,7 @@
     "en": "Freetown",
     "sle": "Freetown"
   },
-  "currency_code": "SLL",
   "iso3": "SLE",
-  "continent_code": "AF",
   "tld": ".sl",
   "timezones": [
     "UTC"
@@ -17,10 +15,13 @@
   "area": 71740,
   "population": 9077691,
   "flag": "🇸🇱",
-  "region_common": "Africa",
-  "demonym": "Sierra Leonean",
-  "gdp": 3809832236.9595933,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Sierra Leonean"
+  },
+  "gdp": {
+    "value": 3809832236.9595933,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -42,5 +43,12 @@
   },
   "lang": [
     "sle"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "SLL"
   ]
 }

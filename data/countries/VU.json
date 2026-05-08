@@ -8,9 +8,7 @@
     "bi": "Port Vila",
     "nh": "Port Vila"
   },
-  "currency_code": "VUV",
   "iso3": "VUT",
-  "continent_code": "OC",
   "tld": ".vu",
   "timezones": [
     "UTC+11:00"
@@ -18,10 +16,13 @@
   "area": 12189,
   "population": 321409,
   "flag": "🇻🇺",
-  "region_common": "Oceania",
-  "demonym": "Ni-Vanuatu",
-  "gdp": 1126313359.2192256,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Ni-Vanuatu"
+  },
+  "gdp": {
+    "value": 1126313359.2192256,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -34,5 +35,12 @@
   "lang": [
     "bi",
     "nh"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "VUV"
   ]
 }

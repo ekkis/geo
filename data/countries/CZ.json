@@ -4,15 +4,14 @@
     "official": "Czech Republic"
   },
   "regions": [
-    "CEU"
+    "CEU",
+    "Europe"
   ],
   "capital": {
     "en": "Prague",
     "cze": "Prague"
   },
-  "currency_code": "CZK",
   "iso3": "CZE",
-  "continent_code": "EU",
   "tld": ".cz",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +19,13 @@
   "area": 78865,
   "population": 10882341,
   "flag": "🇨🇿",
-  "region_common": "Europe",
-  "demonym": "Czech",
-  "gdp": 330858339871.6861,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Czech"
+  },
+  "gdp": {
+    "value": 330858339871.6861,
+    "year": 2023
+  },
   "postal_code": {
     "format": "### ##",
     "regex": "^(\\d{5})$"
@@ -53,5 +55,9 @@
   },
   "lang": [
     "cze"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "CZK"
   ]
 }

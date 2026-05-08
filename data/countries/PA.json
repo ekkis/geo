@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Panama",
-    "official": "Republic of Panama"
+    "official": "Republic of Panama",
+    "pa": "ਪਨਾਮਾ"
   },
   "regions": [
-    "LATAM"
+    "LATAM",
+    "Americas"
   ],
   "capital": {
     "en": "Panama City",
     "pa": "ਪਨਾਮਾ ਸਿਟੀ",
     "pz": "Panama City"
   },
-  "currency_code": "PAB",
   "iso3": "PAN",
-  "continent_code": "NA",
   "tld": ".pa",
   "timezones": [
     "UTC-05:00"
@@ -21,10 +21,14 @@
   "area": 75417,
   "population": 4064780,
   "flag": "🇵🇦",
-  "region_common": "Americas",
-  "demonym": "Panamanian",
-  "gdp": 83382400000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Panamanian",
+    "pa": "ਪਨਾਮੇਨੀਅਨ"
+  },
+  "gdp": {
+    "value": 83382400000,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -47,5 +51,9 @@
   "lang": [
     "pa",
     "pz"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "PAB"
   ]
 }

@@ -4,15 +4,14 @@
     "official": "Gibraltar"
   },
   "regions": [
-    "SE"
+    "SE",
+    "Europe"
   ],
   "capital": {
     "en": "Gibraltar",
     "gib": "Gibraltar"
   },
-  "currency_code": "GIP",
   "iso3": "GIB",
-  "continent_code": "EU",
   "tld": ".gi",
   "timezones": [
     "UTC+01:00"
@@ -20,8 +19,9 @@
   "area": 6,
   "population": 38000,
   "flag": "🇬🇮",
-  "region_common": "Europe",
-  "demonym": "Gibraltar",
+  "demonym": {
+    "en": "Gibraltar"
+  },
   "phone_code": "350",
   "neighbours": {
     "NE": [
@@ -30,5 +30,9 @@
   },
   "lang": [
     "gib"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "GIP"
   ]
 }

@@ -7,9 +7,7 @@
     "en": "Lilongwe",
     "mwi": "Lilongwe"
   },
-  "currency_code": "MWK",
   "iso3": "MWI",
-  "continent_code": "AF",
   "tld": ".mw",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 118484,
   "population": 20734262,
   "flag": "🇲🇼",
-  "region_common": "Africa",
-  "demonym": "Malawian",
-  "gdp": 14084341062.367504,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Malawian"
+  },
+  "gdp": {
+    "value": 14084341062.367504,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -40,5 +41,12 @@
   },
   "lang": [
     "mwi"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "MWK"
   ]
 }

@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Nigeria",
-    "official": "Federal Republic of Nigeria"
+    "official": "Federal Republic of Nigeria",
+    "ha": "Najeriya"
   },
   "capital": {
     "en": "Abuja",
     "ha": "Abuja"
   },
-  "currency_code": "NGN",
   "iso3": "NGA",
-  "continent_code": "AF",
   "tld": ".ng",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +16,14 @@
   "area": 923768,
   "population": 223800000,
   "flag": "🇳🇬",
-  "region_common": "Africa",
-  "demonym": "Nigerian",
-  "gdp": 362814951696.07275,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Nigerian",
+    "ha": "Najeriya"
+  },
+  "gdp": {
+    "value": 362814951696.07275,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -51,5 +54,12 @@
   },
   "lang": [
     "ha"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "NGN"
   ]
 }

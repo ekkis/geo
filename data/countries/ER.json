@@ -7,9 +7,7 @@
     "en": "Asmara",
     "eri": "Asmara"
   },
-  "currency_code": "ERN",
   "iso3": "ERI",
-  "continent_code": "AF",
   "tld": ".er",
   "timezones": [
     "UTC+03:00"
@@ -17,10 +15,13 @@
   "area": 117600,
   "population": 3607000,
   "flag": "🇪🇷",
-  "region_common": "Africa",
-  "demonym": "Eritrean",
-  "gdp": 2065001626.0162601,
-  "gdp_year": 2011,
+  "demonym": {
+    "en": "Eritrean"
+  },
+  "gdp": {
+    "value": 2065001626.0162601,
+    "year": 2011
+  },
   "organisations": [
     "AU",
     "UN"
@@ -39,5 +40,12 @@
   },
   "lang": [
     "eri"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "ERN"
   ]
 }

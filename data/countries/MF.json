@@ -4,15 +4,14 @@
     "official": "Saint Martin"
   },
   "regions": [
-    "LATAM"
+    "LATAM",
+    "Americas"
   ],
   "capital": {
     "en": "Marigot",
     "maf": "Marigot"
   },
-  "currency_code": "EUR",
   "iso3": "MAF",
-  "continent_code": "NA",
   "tld": ".fr",
   "timezones": [
     "UTC-04:00"
@@ -20,10 +19,13 @@
   "area": 53,
   "population": 31496,
   "flag": "🇲🇫",
-  "region_common": "Americas",
-  "demonym": "Saint Martin Islander",
-  "gdp": 649206262.8475188,
-  "gdp_year": 2021,
+  "demonym": {
+    "en": "Saint Martin Islander"
+  },
+  "gdp": {
+    "value": 649206262.8475188,
+    "year": 2021
+  },
   "postal_code": {
     "format": "### ###"
   },
@@ -35,5 +37,9 @@
   },
   "lang": [
     "maf"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "EUR"
   ]
 }

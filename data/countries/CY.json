@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Cyprus",
-    "official": "Republic of Cyprus"
+    "official": "Republic of Cyprus",
+    "tr": "Kıbrıs"
   },
   "regions": [
     "WAS",
-    "LEV"
+    "LEV",
+    "Europe"
   ],
   "capital": {
     "en": "Nicosia",
     "tr": "Lefkoşa"
   },
-  "currency_code": "EUR",
   "iso3": "CYP",
-  "continent_code": "EU",
   "tld": ".cy",
   "timezones": [
     "UTC+02:00"
@@ -21,10 +21,14 @@
   "area": 9251,
   "population": 1442614,
   "flag": "🇨🇾",
-  "region_common": "Europe",
-  "demonym": "Cypriot",
-  "gdp": 32229622669.195114,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Cypriot",
+    "tr": "Kıbrıslı"
+  },
+  "gdp": {
+    "value": 32229622669.195114,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -40,5 +44,9 @@
   ],
   "lang": [
     "tr"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

@@ -7,9 +7,7 @@
     "en": "Avarua",
     "cok": "Avarua"
   },
-  "currency_code": "NZD",
   "iso3": "COK",
-  "continent_code": "OC",
   "tld": ".ck",
   "timezones": [
     "UTC-10:00"
@@ -17,10 +15,18 @@
   "area": 236,
   "population": 15040,
   "flag": "🇨🇰",
-  "region_common": "Oceania",
-  "demonym": "Cook Islander",
+  "demonym": {
+    "en": "Cook Islander"
+  },
   "phone_code": "682",
   "lang": [
     "cok"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
   ]
 }

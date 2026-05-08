@@ -7,9 +7,7 @@
     "en": "Moroni",
     "com": "Moroni"
   },
-  "currency_code": "KMF",
   "iso3": "COM",
-  "continent_code": "AF",
   "tld": ".km",
   "timezones": [
     "UTC+03:00"
@@ -17,10 +15,13 @@
   "area": 1862,
   "population": 919901,
   "flag": "🇰🇲",
-  "region_common": "Africa",
-  "demonym": "Comoran",
-  "gdp": 1352380972.1566217,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Comoran"
+  },
+  "gdp": {
+    "value": 1352380972.1566217,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -33,5 +34,12 @@
   ],
   "lang": [
     "com"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "KMF"
   ]
 }

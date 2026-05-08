@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Luxembourg",
-    "official": "Grand Duchy of Luxembourg"
+    "official": "Grand Duchy of Luxembourg",
+    "lb": "Lëtzebuerg"
   },
   "regions": [
-    "WEU"
+    "WEU",
+    "Europe"
   ],
   "capital": {
     "en": "Luxembourg",
     "lb": "Lëtzebuerg"
   },
-  "currency_code": "EUR",
   "iso3": "LUX",
-  "continent_code": "EU",
   "tld": ".lu",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +20,14 @@
   "area": 2586,
   "population": 681973,
   "flag": "🇱🇺",
-  "region_common": "Europe",
-  "demonym": "Luxembourger",
-  "gdp": 85755006123.5976,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Luxembourger",
+    "lb": "Lëtzebuerger"
+  },
+  "gdp": {
+    "value": 85755006123.5976,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -54,5 +58,9 @@
   },
   "lang": [
     "lb"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

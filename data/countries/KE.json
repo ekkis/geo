@@ -6,9 +6,7 @@
   "capital": {
     "en": "Nairobi"
   },
-  "currency_code": "KES",
   "iso3": "KEN",
-  "continent_code": "AF",
   "tld": ".ke",
   "timezones": [
     "UTC+03:00"
@@ -16,10 +14,13 @@
   "area": 580367,
   "population": 53330978,
   "flag": "🇰🇪",
-  "region_common": "Africa",
-  "demonym": "Kenyan",
-  "gdp": 107440575838.04752,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Kenyan"
+  },
+  "gdp": {
+    "value": 107440575838.04752,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -53,5 +54,12 @@
   },
   "lang": [
     "en"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "KES"
   ]
 }

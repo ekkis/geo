@@ -7,9 +7,7 @@
     "en": "Caracas",
     "ve": "Caracas"
   },
-  "currency_code": "VEF",
   "iso3": "VEN",
-  "continent_code": "SA",
   "tld": ".ve",
   "timezones": [
     "UTC-04:00"
@@ -17,10 +15,13 @@
   "area": 916445,
   "population": 28517000,
   "flag": "🇻🇪",
-  "region_common": "Americas",
-  "demonym": "Venezuelan",
-  "gdp": 482359318767.7031,
-  "gdp_year": 2014,
+  "demonym": {
+    "en": "Venezuelan"
+  },
+  "gdp": {
+    "value": 482359318767.7031,
+    "year": 2014
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -45,5 +46,12 @@
   },
   "lang": [
     "ve"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "VEF"
   ]
 }

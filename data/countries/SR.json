@@ -7,9 +7,7 @@
     "en": "Paramaribo",
     "sur": "Paramaribo"
   },
-  "currency_code": "SRD",
   "iso3": "SUR",
-  "continent_code": "SA",
   "tld": ".sr",
   "timezones": [
     "UTC-03:00"
@@ -17,10 +15,13 @@
   "area": 163820,
   "population": 616500,
   "flag": "🇸🇷",
-  "region_common": "Americas",
-  "demonym": "Surinamer",
-  "gdp": 3782437296.0432286,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Surinamer"
+  },
+  "gdp": {
+    "value": 3782437296.0432286,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "OAS",
@@ -44,5 +45,12 @@
   },
   "lang": [
     "sur"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "SRD"
   ]
 }

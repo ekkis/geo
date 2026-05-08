@@ -7,9 +7,7 @@
     "en": "Asuncion",
     "gn": "Asuncion"
   },
-  "currency_code": "PYG",
   "iso3": "PRY",
-  "continent_code": "SA",
   "tld": ".py",
   "timezones": [
     "UTC-04:00"
@@ -17,10 +15,13 @@
   "area": 406752,
   "population": 6109644,
   "flag": "🇵🇾",
-  "region_common": "Americas",
-  "demonym": "Paraguayan",
-  "gdp": 42956263543.948166,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Paraguayan"
+  },
+  "gdp": {
+    "value": 42956263543.948166,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -48,5 +49,12 @@
   },
   "lang": [
     "gn"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "PYG"
   ]
 }

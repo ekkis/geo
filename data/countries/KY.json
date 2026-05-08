@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Cayman Islands",
-    "official": "Cayman Islands"
+    "official": "Cayman Islands",
+    "cy": "Ynysoedd y Cayman"
   },
   "regions": [
-    "CAR"
+    "CAR",
+    "Americas"
   ],
   "capital": {
     "en": "George Town",
     "cy": "George Town"
   },
-  "currency_code": "KYD",
   "iso3": "CYM",
-  "continent_code": "NA",
   "tld": ".ky",
   "timezones": [
     "UTC-05:00"
@@ -20,12 +20,20 @@
   "area": 264,
   "population": 84738,
   "flag": "🇰🇾",
-  "region_common": "Americas",
-  "demonym": "Caymanian",
-  "gdp": 6600844001.537206,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Caymanian",
+    "cy": "Caymanaidd"
+  },
+  "gdp": {
+    "value": 6600844001.537206,
+    "year": 2022
+  },
   "phone_code": "+1-345",
   "lang": [
     "cy"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "KYD"
   ]
 }

@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Afghanistan",
-    "official": "Islamic Republic of Afghanistan"
+    "official": "Islamic Republic of Afghanistan",
+    "ps": "افغانستان"
   },
   "regions": [
-    "SAS"
+    "SAS",
+    "Asia"
   ],
   "capital": {
     "en": "Kabul",
     "ps": "کابل"
   },
-  "currency_code": "AFN",
   "iso3": "AFG",
-  "continent_code": "AS",
   "tld": ".af",
   "timezones": [
     "UTC+04:30"
@@ -20,10 +20,14 @@
   "area": 652230,
   "population": 43844000,
   "flag": "🇦🇫",
-  "region_common": "Asia",
-  "demonym": "Afghan",
-  "gdp": 14502158192.090395,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Afghan",
+    "ps": "افغان"
+  },
+  "gdp": {
+    "value": 14502158192.090395,
+    "year": 2022
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -59,5 +63,9 @@
   },
   "lang": [
     "ps"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "AFN"
   ]
 }

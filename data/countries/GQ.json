@@ -7,9 +7,7 @@
     "en": "Malabo",
     "gnq": "Malabo"
   },
-  "currency_code": "XAF",
   "iso3": "GNQ",
-  "continent_code": "AF",
   "tld": ".gq",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +15,13 @@
   "area": 28051,
   "population": 1668768,
   "flag": "🇬🇶",
-  "region_common": "Africa",
-  "demonym": "Equatorial Guinean",
-  "gdp": 12116922539.411173,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Equatorial Guinean"
+  },
+  "gdp": {
+    "value": 12116922539.411173,
+    "year": 2023
+  },
   "organisations": [
     "AU",
     "UN"
@@ -41,5 +42,12 @@
   },
   "lang": [
     "gnq"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XAF"
   ]
 }

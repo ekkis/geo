@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Colombia",
-    "official": "Republic of Colombia"
+    "official": "Republic of Colombia",
+    "es": "Colombia"
   },
   "capital": {
     "en": "Bogota",
     "es": "Bogotá"
   },
-  "currency_code": "COP",
   "iso3": "COL",
-  "continent_code": "SA",
   "tld": ".co",
   "timezones": [
     "UTC-05:00"
@@ -17,10 +16,14 @@
   "area": 1141748,
   "population": 53057212,
   "flag": "🇨🇴",
-  "region_common": "Americas",
-  "demonym": "Colombian",
-  "gdp": 363540156234.86835,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Colombian",
+    "es": "Colombian"
+  },
+  "gdp": {
+    "value": 363540156234.86835,
+    "year": 2023
+  },
   "organisations": [
     "OECD",
     "BIS",
@@ -51,5 +54,12 @@
   },
   "lang": [
     "es"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "COP"
   ]
 }

@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Belarus",
-    "official": "Republic of Belarus"
+    "official": "Republic of Belarus",
+    "be": "Беларусь"
   },
   "regions": [
-    "EE"
+    "EE",
+    "Europe"
   ],
   "capital": {
     "en": "Minsk",
     "be": "Мінск"
   },
-  "currency_code": "BYN",
   "iso3": "BLR",
-  "continent_code": "EU",
   "tld": ".by",
   "timezones": [
     "UTC+03:00"
@@ -20,10 +20,14 @@
   "area": 207600,
   "population": 9109280,
   "flag": "🇧🇾",
-  "region_common": "Europe",
-  "demonym": "Belarusian",
-  "gdp": 71857382745.6066,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Belarusian",
+    "be": "беларускі"
+  },
+  "gdp": {
+    "value": 71857382745.6066,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -54,5 +58,9 @@
   },
   "lang": [
     "be"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "BYN"
   ]
 }

@@ -4,14 +4,13 @@
     "official": "United States of America"
   },
   "regions": [
-    "NA"
+    "NA",
+    "Americas"
   ],
   "capital": {
     "en": "Washington"
   },
-  "currency_code": "USD",
   "iso3": "USA",
-  "continent_code": "NA",
   "tld": ".us",
   "timezones": [
     "UTC-12:00",
@@ -29,10 +28,13 @@
   "area": 9525067,
   "population": 340110988,
   "flag": "🇺🇸",
-  "region_common": "Americas",
-  "demonym": "American",
-  "gdp": 27360935000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "American"
+  },
+  "gdp": {
+    "value": 27360935000000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####-####",
     "regex": "^\\d{5}(-\\d{4})?$"
@@ -61,5 +63,9 @@
   },
   "lang": [
     "en"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "USD"
   ]
 }

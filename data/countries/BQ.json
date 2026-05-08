@@ -3,14 +3,14 @@
     "common": "Caribbean Netherlands",
     "official": "Bonaire, Sint Eustatius and Saba"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": "",
-  "currency_code": "USD",
   "iso3": "BES",
   "language_code": [
     "bes"
   ],
-  "continent_code": "NA",
   "tld": ".bq",
   "timezones": [
     "UTC-04:00"
@@ -18,7 +18,12 @@
   "area": 328,
   "population": 31980,
   "flag": "🇧🇶",
-  "region_common": "Americas",
-  "demonym": "Dutch",
-  "phone_code": "599"
+  "demonym": {
+    "en": "Dutch"
+  },
+  "phone_code": "599",
+  "continent": "NA",
+  "currencies": [
+    "USD"
+  ]
 }

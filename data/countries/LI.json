@@ -4,15 +4,14 @@
     "official": "Principality of Liechtenstein"
   },
   "regions": [
-    "WEU"
+    "WEU",
+    "Europe"
   ],
   "capital": {
     "en": "Vaduz",
     "lie": "Vaduz"
   },
-  "currency_code": "CHF",
   "iso3": "LIE",
-  "continent_code": "EU",
   "tld": ".li",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +19,13 @@
   "area": 160,
   "population": 40900,
   "flag": "🇱🇮",
-  "region_common": "Europe",
-  "demonym": "Liechtensteiner",
-  "gdp": 7364654515.139836,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Liechtensteiner"
+  },
+  "gdp": {
+    "value": 7364654515.139836,
+    "year": 2022
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -46,5 +48,9 @@
   },
   "lang": [
     "lie"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "CHF"
   ]
 }

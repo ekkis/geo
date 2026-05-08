@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Ivory Coast",
-    "official": "Republic of Côte d'Ivoire"
+    "official": "Republic of Côte d'Ivoire",
+    "fr": "Côte d'Ivoire"
   },
   "capital": {
     "en": "Yamoussoukro",
     "fr": "Yamoussoukro"
   },
-  "currency_code": "XOF",
   "iso3": "CIV",
-  "continent_code": "AF",
   "tld": ".ci",
   "timezones": [
     "UTC"
@@ -17,10 +16,14 @@
   "area": 322463,
   "population": 31719275,
   "flag": "🇨🇮",
-  "region_common": "Africa",
-  "demonym": "Ivorian",
-  "gdp": 78788828906.86345,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Ivorian",
+    "fr": "Ivorian"
+  },
+  "gdp": {
+    "value": 78788828906.86345,
+    "year": 2023
+  },
   "organisations": [
     "AU"
   ],
@@ -42,5 +45,12 @@
   },
   "lang": [
     "fr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
   ]
 }

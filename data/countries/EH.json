@@ -7,9 +7,7 @@
     "en": "El-Aaiun",
     "esh": "El-Aaiun"
   },
-  "currency_code": "MAD",
   "iso3": "ESH",
-  "continent_code": "AF",
   "tld": ".eh",
   "timezones": [
     "UTC+00:00"
@@ -17,8 +15,9 @@
   "area": 266000,
   "population": 600904,
   "flag": "🇪🇭",
-  "region_common": "Africa",
-  "demonym": "Sahrawi",
+  "demonym": {
+    "en": "Sahrawi"
+  },
   "phone_code": "212",
   "neighbours": {
     "NE": [
@@ -31,5 +30,12 @@
   },
   "lang": [
     "esh"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "MAD"
   ]
 }

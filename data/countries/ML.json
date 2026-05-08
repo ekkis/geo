@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Mali",
-    "official": "Republic of Mali"
+    "official": "Republic of Mali",
+    "fr": "Mali"
   },
   "capital": {
     "en": "Bamako",
     "fr": "Bamako"
   },
-  "currency_code": "XOF",
   "iso3": "MLI",
-  "continent_code": "AF",
   "tld": ".ml",
   "timezones": [
     "UTC"
@@ -17,10 +16,14 @@
   "area": 1240192,
   "population": 22395489,
   "flag": "🇲🇱",
-  "region_common": "Africa",
-  "demonym": "Malian",
-  "gdp": 20904898296.250145,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Malian",
+    "fr": "Malien"
+  },
+  "gdp": {
+    "value": 20904898296.250145,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -51,5 +54,12 @@
   },
   "lang": [
     "fr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
   ]
 }

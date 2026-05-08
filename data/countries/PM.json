@@ -4,15 +4,14 @@
     "official": "Saint Pierre and Miquelon"
   },
   "regions": [
-    "LATAM"
+    "LATAM",
+    "Americas"
   ],
   "capital": {
     "en": "Saint-Pierre",
     "spm": "Saint-Pierre"
   },
-  "currency_code": "EUR",
   "iso3": "SPM",
-  "continent_code": "NA",
   "tld": ".pm",
   "timezones": [
     "UTC-03:00"
@@ -20,8 +19,9 @@
   "area": 242,
   "population": 5819,
   "flag": "🇵🇲",
-  "region_common": "Americas",
-  "demonym": "Saint-Pierrais, Miquelonnais",
+  "demonym": {
+    "en": "Saint-Pierrais, Miquelonnais"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(97500)$"
@@ -29,5 +29,9 @@
   "phone_code": "508",
   "lang": [
     "spm"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "EUR"
   ]
 }

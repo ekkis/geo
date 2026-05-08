@@ -7,9 +7,7 @@
     "en": "Windhoek",
     "nam": "Windhoek"
   },
-  "currency_code": "NAD",
   "iso3": "NAM",
-  "continent_code": "AF",
   "tld": ".na",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +15,13 @@
   "area": 825615,
   "population": 3022401,
   "flag": "🇳🇦",
-  "region_common": "Africa",
-  "demonym": "Namibian",
-  "gdp": 12351024843.746696,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Namibian"
+  },
+  "gdp": {
+    "value": 12351024843.746696,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -45,5 +46,12 @@
   },
   "lang": [
     "nam"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "NAD"
   ]
 }

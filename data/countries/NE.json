@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Niger",
-    "official": "Republic of Niger"
+    "official": "Republic of Niger",
+    "fr": "Niger"
   },
   "capital": {
     "en": "Niamey",
     "fr": "Niamey"
   },
-  "currency_code": "XOF",
   "iso3": "NER",
-  "continent_code": "AF",
   "tld": ".ne",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +16,14 @@
   "area": 1267000,
   "population": 26312034,
   "flag": "🇳🇪",
-  "region_common": "Africa",
-  "demonym": "Nigerien",
-  "gdp": 16819170420.565317,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Nigerien",
+    "fr": "Nigerien"
+  },
+  "gdp": {
+    "value": 16819170420.565317,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -57,5 +60,12 @@
   },
   "lang": [
     "fr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
   ]
 }

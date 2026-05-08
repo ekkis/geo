@@ -6,9 +6,7 @@
   "capital": {
     "en": "Suva"
   },
-  "currency_code": "FJD",
   "iso3": "FJI",
-  "continent_code": "OC",
   "tld": ".fj",
   "timezones": [
     "UTC+12:00"
@@ -16,10 +14,13 @@
   "area": 18272,
   "population": 900869,
   "flag": "🇫🇯",
-  "region_common": "Oceania",
-  "demonym": "Fijian",
-  "gdp": 5494797540.733647,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Fijian"
+  },
+  "gdp": {
+    "value": 5494797540.733647,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -32,5 +33,12 @@
   ],
   "lang": [
     "en"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "FJD"
   ]
 }

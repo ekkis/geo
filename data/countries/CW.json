@@ -3,16 +3,16 @@
     "common": "Curaçao",
     "official": "Country of Curaçao"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Willemstad",
     "an": "Willemstad",
     "ant": "Willemstad",
     "cuw": "Willemstad"
   },
-  "currency_code": "ANG",
   "iso3": "CUW",
-  "continent_code": "NA",
   "tld": ".cw",
   "timezones": [
     "UTC-04:00"
@@ -20,14 +20,21 @@
   "area": 444,
   "population": 156115,
   "flag": "🇨🇼",
-  "region_common": "Americas",
-  "demonym": "Curaçaoan",
-  "gdp": 3073840325.4328494,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Curaçaoan"
+  },
+  "gdp": {
+    "value": 3073840325.4328494,
+    "year": 2022
+  },
   "phone_code": "599",
   "lang": [
     "an",
     "ant",
     "cuw"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "ANG"
   ]
 }

@@ -7,9 +7,7 @@
     "en": "Cayenne",
     "guf": "Cayenne"
   },
-  "currency_code": "EUR",
   "iso3": "GUF",
-  "continent_code": "SA",
   "tld": ".gf",
   "timezones": [
     "UTC-03:00"
@@ -17,8 +15,9 @@
   "area": 83534,
   "population": 292354,
   "flag": "🇬🇫",
-  "region_common": "Americas",
-  "demonym": "Guianan",
+  "demonym": {
+    "en": "Guianan"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^((97|98)3\\d{2})$"
@@ -34,5 +33,12 @@
   },
   "lang": [
     "guf"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "EUR"
   ]
 }

@@ -7,9 +7,7 @@
     "en": "Mata Utu",
     "wlf": "Mata Utu"
   },
-  "currency_code": "XPF",
   "iso3": "WLF",
-  "continent_code": "OC",
   "tld": ".wf",
   "timezones": [
     "UTC+12:00"
@@ -17,8 +15,9 @@
   "area": 142,
   "population": 11620,
   "flag": "🇼🇫",
-  "region_common": "Oceania",
-  "demonym": "Wallis and Futuna Islander",
+  "demonym": {
+    "en": "Wallis and Futuna Islander"
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(986\\d{2})$"
@@ -26,5 +25,12 @@
   "phone_code": "681",
   "lang": [
     "wlf"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "XPF"
   ]
 }

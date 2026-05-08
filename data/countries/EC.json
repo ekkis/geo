@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Ecuador",
-    "official": "Republic of Ecuador"
+    "official": "Republic of Ecuador",
+    "es": "Ecuador"
   },
   "capital": {
     "en": "Quito",
     "es": "Quito"
   },
-  "currency_code": "USD",
   "iso3": "ECU",
-  "continent_code": "SA",
   "tld": ".ec",
   "timezones": [
     "UTC-06:00",
@@ -18,10 +17,14 @@
   "area": 276841,
   "population": 18103660,
   "flag": "🇪🇨",
-  "region_common": "Americas",
-  "demonym": "Ecuadorean",
-  "gdp": 118844826000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Ecuadorean",
+    "es": "Ecuadorean"
+  },
+  "gdp": {
+    "value": 118844826000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "@####@",
     "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
@@ -47,5 +50,12 @@
   },
   "lang": [
     "es"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "USD"
   ]
 }

@@ -3,14 +3,14 @@
     "common": "Saint Barthélemy",
     "official": "Collectivity of Saint Barthélemy"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Gustavia",
     "blm": "Gustavia"
   },
-  "currency_code": "EUR",
   "iso3": "BLM",
-  "continent_code": "NA",
   "tld": ".bl",
   "timezones": [
     "UTC-04:00"
@@ -18,13 +18,18 @@
   "area": 21,
   "population": 10562,
   "flag": "🇧🇱",
-  "region_common": "Americas",
-  "demonym": "Saint Barthélemy Islander",
+  "demonym": {
+    "en": "Saint Barthélemy Islander"
+  },
   "postal_code": {
     "format": "### ###"
   },
   "phone_code": "590",
   "lang": [
     "blm"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "EUR"
   ]
 }

@@ -7,9 +7,7 @@
     "en": "Maseru",
     "lso": "Maseru"
   },
-  "currency_code": "LSL",
   "iso3": "LSO",
-  "continent_code": "AF",
   "tld": ".ls",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 30355,
   "population": 2116427,
   "flag": "🇱🇸",
-  "region_common": "Africa",
-  "demonym": "Mosotho",
-  "gdp": 2046039024.4585402,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Mosotho"
+  },
+  "gdp": {
+    "value": 2046039024.4585402,
+    "year": 2023
+  },
   "postal_code": {
     "format": "###",
     "regex": "^(\\d{3})$"
@@ -42,5 +43,12 @@
   },
   "lang": [
     "lso"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "LSL"
   ]
 }

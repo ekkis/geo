@@ -4,15 +4,14 @@
     "official": "Republic of Bulgaria"
   },
   "regions": [
-    "CEU"
+    "CEU",
+    "Europe"
   ],
   "capital": {
     "en": "Sofia",
     "bgr": "Sofia"
   },
-  "currency_code": "BGN",
   "iso3": "BGR",
-  "continent_code": "EU",
   "tld": ".bg",
   "timezones": [
     "UTC+02:00"
@@ -20,10 +19,13 @@
   "area": 110879,
   "population": 6437360,
   "flag": "🇧🇬",
-  "region_common": "Europe",
-  "demonym": "Bulgarian",
-  "gdp": 101584384672.78587,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Bulgarian"
+  },
+  "gdp": {
+    "value": 101584384672.78587,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -57,5 +59,9 @@
   },
   "lang": [
     "bgr"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "BGN"
   ]
 }

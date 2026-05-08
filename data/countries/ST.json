@@ -7,9 +7,7 @@
     "en": "Sao Tome",
     "stp": "Sao Tome"
   },
-  "currency_code": "STD",
   "iso3": "STP",
-  "continent_code": "AF",
   "tld": ".st",
   "timezones": [
     "UTC"
@@ -17,10 +15,13 @@
   "area": 964,
   "population": 209607,
   "flag": "🇸🇹",
-  "region_common": "Africa",
-  "demonym": "Sao Tomean",
-  "gdp": 603240748.9542067,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Sao Tomean"
+  },
+  "gdp": {
+    "value": 603240748.9542067,
+    "year": 2023
+  },
   "organisations": [
     "AU"
   ],
@@ -30,5 +31,12 @@
   ],
   "lang": [
     "stp"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "STD"
   ]
 }

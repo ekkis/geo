@@ -7,9 +7,7 @@
     "en": "Palikir",
     "pc": "Palikir"
   },
-  "currency_code": "USD",
   "iso3": "FSM",
-  "continent_code": "OC",
   "tld": ".fm",
   "timezones": [
     "UTC+10:00",
@@ -18,10 +16,13 @@
   "area": 702,
   "population": 105564,
   "flag": "🇫🇲",
-  "region_common": "Oceania",
-  "demonym": "Micronesian",
-  "gdp": 460000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Micronesian"
+  },
+  "gdp": {
+    "value": 460000000,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -34,5 +35,12 @@
   "lang": [
     "en",
     "pc"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "USD"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "name": {
     "common": "Vietnam",
-    "official": "Socialist Republic of Vietnam"
+    "official": "Socialist Republic of Vietnam",
+    "vi": "Việt Nam"
   },
   "regions": [
     "SEA",
-    "INDO"
+    "INDO",
+    "Asia"
   ],
   "capital": {
     "en": "Hanoi",
     "vd": "Hanoi",
     "vi": "Hà Nội"
   },
-  "currency_code": "VND",
   "iso3": "VNM",
-  "continent_code": "AS",
   "tld": ".vn",
   "timezones": [
     "UTC+07:00"
@@ -22,10 +22,14 @@
   "area": 331212,
   "population": 101343800,
   "flag": "🇻🇳",
-  "region_common": "Asia",
-  "demonym": "Vietnamese",
-  "gdp": 429716969049.5928,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Vietnamese",
+    "vi": "Tiếng Việt"
+  },
+  "gdp": {
+    "value": 429716969049.5928,
+    "year": 2023
+  },
   "postal_code": {
     "format": "######",
     "regex": "^(\\d{6})$"
@@ -53,5 +57,9 @@
   "lang": [
     "vd",
     "vi"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "VND"
   ]
 }

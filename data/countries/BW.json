@@ -7,9 +7,7 @@
     "en": "Gaborone",
     "bwa": "Gaborone"
   },
-  "currency_code": "BWP",
   "iso3": "BWA",
-  "continent_code": "AF",
   "tld": ".bw",
   "timezones": [
     "UTC+02:00"
@@ -17,10 +15,13 @@
   "area": 582000,
   "population": 2359609,
   "flag": "🇧🇼",
-  "region_common": "Africa",
-  "demonym": "Motswana",
-  "gdp": 19395765126.312748,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Motswana"
+  },
+  "gdp": {
+    "value": 19395765126.312748,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -45,5 +46,12 @@
   },
   "lang": [
     "bwa"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "BWP"
   ]
 }

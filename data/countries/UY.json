@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Uruguay",
-    "official": "Oriental Republic of Uruguay"
+    "official": "Oriental Republic of Uruguay",
+    "es": "Uruguay"
   },
   "capital": {
     "en": "Montevideo",
     "es": "montevideo"
   },
-  "currency_code": "UYU",
   "iso3": "URY",
-  "continent_code": "SA",
   "tld": ".uy",
   "timezones": [
     "UTC-03:00"
@@ -17,10 +16,14 @@
   "area": 181034,
   "population": 3499451,
   "flag": "🇺🇾",
-  "region_common": "Americas",
-  "demonym": "Uruguayan",
-  "gdp": 77240831587.16696,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Uruguayan",
+    "es": "Uruguayan"
+  },
+  "gdp": {
+    "value": 77240831587.16696,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
@@ -45,5 +48,12 @@
   },
   "lang": [
     "es"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "UYU"
   ]
 }

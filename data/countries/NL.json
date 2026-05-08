@@ -1,19 +1,19 @@
 {
   "name": {
     "common": "Netherlands",
-    "official": "Kingdom of the Netherlands"
+    "official": "Kingdom of the Netherlands",
+    "nl": "Nederland"
   },
   "regions": [
     "WEU",
-    "NOR"
+    "NOR",
+    "Europe"
   ],
   "capital": {
     "en": "Amsterdam",
     "nl": "Amsterdam"
   },
-  "currency_code": "EUR",
   "iso3": "NLD",
-  "continent_code": "EU",
   "tld": ".nl",
   "timezones": [
     "UTC+01:00"
@@ -21,10 +21,14 @@
   "area": 41865,
   "population": 18100436,
   "flag": "🇳🇱",
-  "region_common": "Europe",
-  "demonym": "Dutch",
-  "gdp": 1118124749886.2942,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Dutch",
+    "nl": "Nederlands"
+  },
+  "gdp": {
+    "value": 1118124749886.2942,
+    "year": 2023
+  },
   "postal_code": {
     "format": "#### @@",
     "regex": "^(\\d{4}[A-Z]{2})$"
@@ -52,5 +56,9 @@
   },
   "lang": [
     "nl"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "EUR"
   ]
 }

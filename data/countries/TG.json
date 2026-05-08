@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Togo",
-    "official": "Togolese Republic"
+    "official": "Togolese Republic",
+    "fr": "Aller"
   },
   "capital": {
     "en": "Lome",
     "fr": "Lomé"
   },
-  "currency_code": "XOF",
   "iso3": "TGO",
-  "continent_code": "AF",
   "tld": ".tg",
   "timezones": [
     "UTC"
@@ -17,10 +16,14 @@
   "area": 56785,
   "population": 8095498,
   "flag": "🇹🇬",
-  "region_common": "Africa",
-  "demonym": "Togolese",
-  "gdp": 9171261835.062641,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Togolese",
+    "fr": "togolais"
+  },
+  "gdp": {
+    "value": 9171261835.062641,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -45,5 +48,12 @@
   },
   "lang": [
     "fr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XOF"
   ]
 }

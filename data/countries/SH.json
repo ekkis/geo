@@ -7,9 +7,7 @@
     "en": "Jamestown",
     "shn": "Jamestown"
   },
-  "currency_code": "SHP",
   "iso3": "SHN",
-  "continent_code": "AF",
   "tld": ".sh",
   "timezones": [
     "UTC+00:00"
@@ -17,8 +15,9 @@
   "area": 394,
   "population": 5651,
   "flag": "🇸🇭",
-  "region_common": "Africa",
-  "demonym": "Saint Helenian",
+  "demonym": {
+    "en": "Saint Helenian"
+  },
   "postal_code": {
     "format": "STHL 1ZZ",
     "regex": "^(STHL1ZZ)$"
@@ -26,5 +25,12 @@
   "phone_code": "290",
   "lang": [
     "shn"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "SHP"
   ]
 }

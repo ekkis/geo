@@ -7,9 +7,7 @@
     "en": "Nuku'alofa",
     "to": "Nuku'alofa"
   },
-  "currency_code": "TOP",
   "iso3": "TON",
-  "continent_code": "OC",
   "tld": ".to",
   "timezones": [
     "UTC+13:00"
@@ -17,10 +15,13 @@
   "area": 747,
   "population": 100179,
   "flag": "🇹🇴",
-  "region_common": "Oceania",
-  "demonym": "Tongan",
-  "gdp": 500274898.08522147,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Tongan"
+  },
+  "gdp": {
+    "value": 500274898.08522147,
+    "year": 2022
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -32,5 +33,12 @@
   ],
   "lang": [
     "to"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "TOP"
   ]
 }

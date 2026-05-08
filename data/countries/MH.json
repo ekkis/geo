@@ -6,9 +6,7 @@
   "capital": {
     "en": "Majuro"
   },
-  "currency_code": "USD",
   "iso3": "MHL",
-  "continent_code": "OC",
   "tld": ".mh",
   "timezones": [
     "UTC+12:00"
@@ -16,10 +14,13 @@
   "area": 181,
   "population": 42418,
   "flag": "🇲🇭",
-  "region_common": "Oceania",
-  "demonym": "Marshallese",
-  "gdp": 284000000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Marshallese"
+  },
+  "gdp": {
+    "value": 284000000,
+    "year": 2023
+  },
   "organisations": [
     "UN"
   ],
@@ -30,5 +31,12 @@
   ],
   "lang": [
     "en"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "USD"
   ]
 }

@@ -1,16 +1,17 @@
 {
   "name": {
     "common": "Qatar",
-    "official": "State of Qatar"
+    "official": "State of Qatar",
+    "ar": "قطر"
   },
-  "regions": [],
+  "regions": [
+    "Asia"
+  ],
   "capital": {
     "en": "Doha",
     "ar": "الدوحة"
   },
-  "currency_code": "QAR",
   "iso3": "QAT",
-  "continent_code": "AS",
   "tld": ".qa",
   "timezones": [
     "UTC+03:00"
@@ -18,10 +19,14 @@
   "area": 11586,
   "population": 3173024,
   "flag": "🇶🇦",
-  "region_common": "Asia",
-  "demonym": "Qatari",
-  "gdp": 235770403734.9,
-  "gdp_year": 2022,
+  "demonym": {
+    "en": "Qatari",
+    "ar": "قطري"
+  },
+  "gdp": {
+    "value": 235770403734.9,
+    "year": 2022
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -37,5 +42,9 @@
   },
   "lang": [
     "ar"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "QAR"
   ]
 }

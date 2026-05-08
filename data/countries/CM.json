@@ -1,15 +1,14 @@
 {
   "name": {
     "common": "Cameroon",
-    "official": "Republic of Cameroon"
+    "official": "Republic of Cameroon",
+    "fr": "Cameroun"
   },
   "capital": {
     "en": "Yaounde",
     "fr": "Yaoundé"
   },
-  "currency_code": "XAF",
   "iso3": "CMR",
-  "continent_code": "AF",
   "tld": ".cm",
   "timezones": [
     "UTC+01:00"
@@ -17,10 +16,14 @@
   "area": 475442,
   "population": 29442327,
   "flag": "🇨🇲",
-  "region_common": "Africa",
-  "demonym": "Cameroonian",
-  "gdp": 47945510090.05286,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Cameroonian",
+    "fr": "Camerounais"
+  },
+  "gdp": {
+    "value": 47945510090.05286,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "AU",
@@ -50,5 +53,12 @@
   },
   "lang": [
     "fr"
+  ],
+  "regions": [
+    "Africa"
+  ],
+  "continent": "AF",
+  "currencies": [
+    "XAF"
   ]
 }

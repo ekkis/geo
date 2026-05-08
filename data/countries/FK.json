@@ -7,9 +7,7 @@
     "en": "Stanley",
     "flk": "Stanley"
   },
-  "currency_code": "FKP",
   "iso3": "FLK",
-  "continent_code": "SA",
   "tld": ".fk",
   "timezones": [
     "UTC-04:00"
@@ -17,10 +15,18 @@
   "area": 12173,
   "population": 3662,
   "flag": "🇫🇰",
-  "region_common": "Americas",
-  "demonym": "Falkland Islander",
+  "demonym": {
+    "en": "Falkland Islander"
+  },
   "phone_code": "500",
   "lang": [
     "flk"
+  ],
+  "regions": [
+    "Americas"
+  ],
+  "continent": "SA",
+  "currencies": [
+    "FKP"
   ]
 }

@@ -1,16 +1,15 @@
 {
   "name": {
     "common": "Timor-Leste",
-    "official": "Democratic Republic of Timor-Leste"
+    "official": "Democratic Republic of Timor-Leste",
+    "pt": "Timor-Leste"
   },
   "capital": {
     "en": "Dili",
     "pt": "Díli",
     "tp": "Dili"
   },
-  "currency_code": "USD",
   "iso3": "TLS",
-  "continent_code": "OC",
   "tld": ".tl",
   "timezones": [
     "UTC+09:00"
@@ -18,10 +17,14 @@
   "area": 14874,
   "population": 1391221,
   "flag": "🇹🇱",
-  "region_common": "Asia",
-  "demonym": "East Timorese",
-  "gdp": 2243142908.4616103,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "East Timorese",
+    "pt": "timorenses"
+  },
+  "gdp": {
+    "value": 2243142908.4616103,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -40,5 +43,12 @@
   "lang": [
     "pt",
     "tp"
+  ],
+  "regions": [
+    "Asia"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "USD"
   ]
 }

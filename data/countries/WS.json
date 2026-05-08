@@ -7,9 +7,7 @@
     "en": "Apia",
     "wsm": "Apia"
   },
-  "currency_code": "WST",
   "iso3": "WSM",
-  "continent_code": "OC",
   "tld": ".ws",
   "timezones": [
     "UTC+13:00"
@@ -17,10 +15,13 @@
   "area": 2842,
   "population": 205557,
   "flag": "🇼🇸",
-  "region_common": "Oceania",
-  "demonym": "Samoan",
-  "gdp": 934100336.2756538,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Samoan"
+  },
+  "gdp": {
+    "value": 934100336.2756538,
+    "year": 2023
+  },
   "organisations": [
     "WTO",
     "UN"
@@ -31,5 +32,12 @@
   ],
   "lang": [
     "wsm"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "WST"
   ]
 }

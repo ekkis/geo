@@ -6,9 +6,7 @@
   "capital": {
     "en": "Wellington"
   },
-  "currency_code": "NZD",
   "iso3": "NZL",
-  "continent_code": "OC",
   "tld": ".nz",
   "timezones": [
     "UTC-11:00",
@@ -20,10 +18,13 @@
   "area": 268838,
   "population": 5324700,
   "flag": "🇳🇿",
-  "region_common": "Oceania",
-  "demonym": "New Zealander",
-  "gdp": 253465703232.14594,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "New Zealander"
+  },
+  "gdp": {
+    "value": 253465703232.14594,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -42,5 +43,12 @@
   ],
   "lang": [
     "en"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
   ]
 }

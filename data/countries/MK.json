@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "North Macedonia",
-    "official": "Republic of North Macedonia"
+    "official": "Republic of North Macedonia",
+    "mk": "Северна Македонија"
   },
   "regions": [
-    "BKS"
+    "BKS",
+    "Europe"
   ],
   "capital": {
     "en": "Skopje",
     "mk": "Скопје"
   },
-  "currency_code": "MKD",
   "iso3": "MKD",
-  "continent_code": "EU",
   "tld": ".mk",
   "timezones": [
     "UTC+01:00"
@@ -20,10 +20,14 @@
   "area": 25713,
   "population": 1822612,
   "flag": "🇲🇰",
-  "region_common": "Europe",
-  "demonym": "Macedonian",
-  "gdp": 14761237042.205698,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Macedonian",
+    "mk": "македонски"
+  },
+  "gdp": {
+    "value": 14761237042.205698,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -52,5 +56,9 @@
   },
   "lang": [
     "mk"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "MKD"
   ]
 }

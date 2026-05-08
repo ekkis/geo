@@ -3,14 +3,14 @@
     "common": "Bahamas",
     "official": "Commonwealth of the Bahamas"
   },
-  "regions": [],
+  "regions": [
+    "Americas"
+  ],
   "capital": {
     "en": "Nassau",
     "bhs": "Nassau"
   },
-  "currency_code": "BSD",
   "iso3": "BHS",
-  "continent_code": "NA",
   "tld": ".bs",
   "timezones": [
     "UTC-05:00"
@@ -18,10 +18,13 @@
   "area": 13943,
   "population": 398165,
   "flag": "🇧🇸",
-  "region_common": "Americas",
-  "demonym": "Bahamian",
-  "gdp": 14338500000,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Bahamian"
+  },
+  "gdp": {
+    "value": 14338500000,
+    "year": 2023
+  },
   "organisations": [
     "OAS",
     "UN"
@@ -32,5 +35,9 @@
   ],
   "lang": [
     "bhs"
+  ],
+  "continent": "NA",
+  "currencies": [
+    "BSD"
   ]
 }

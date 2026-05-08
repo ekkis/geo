@@ -1,18 +1,18 @@
 {
   "name": {
     "common": "Brunei",
-    "official": "Nation of Brunei, Abode of Peace"
+    "official": "Nation of Brunei, Abode of Peace",
+    "ms": "Brunei"
   },
   "regions": [
-    "SEA"
+    "SEA",
+    "Asia"
   ],
   "capital": {
     "en": "Bandar Seri Begawan",
     "ms": "Bandar Seri Begawan"
   },
-  "currency_code": "BND",
   "iso3": "BRN",
-  "continent_code": "AS",
   "tld": ".bn",
   "timezones": [
     "UTC+08:00"
@@ -20,10 +20,14 @@
   "area": 5765,
   "population": 455500,
   "flag": "🇧🇳",
-  "region_common": "Asia",
-  "demonym": "Bruneian",
-  "gdp": 15128292953.509842,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Bruneian",
+    "ms": "orang Brunei"
+  },
+  "gdp": {
+    "value": 15128292953.509842,
+    "year": 2023
+  },
   "postal_code": {
     "format": "@@####",
     "regex": "^([A-Z]{2}\\d{4})$"
@@ -40,5 +44,9 @@
   },
   "lang": [
     "ms"
+  ],
+  "continent": "AS",
+  "currencies": [
+    "BND"
   ]
 }

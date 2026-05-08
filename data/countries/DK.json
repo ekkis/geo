@@ -7,15 +7,14 @@
     "SCAN",
     "NOR",
     "WEU",
-    "NOR"
+    "NOR",
+    "Europe"
   ],
   "capital": {
     "en": "Copenhagen",
     "dnk": "Copenhagen"
   },
-  "currency_code": "DKK",
   "iso3": "DNK",
-  "continent_code": "EU",
   "tld": ".dk",
   "timezones": [
     "UTC-04:00",
@@ -27,10 +26,13 @@
   "area": 43094,
   "population": 6011488,
   "flag": "🇩🇰",
-  "region_common": "Europe",
-  "demonym": "Danish",
-  "gdp": 404198757537.9742,
-  "gdp_year": 2023,
+  "demonym": {
+    "en": "Danish"
+  },
+  "gdp": {
+    "value": 404198757537.9742,
+    "year": 2023
+  },
   "postal_code": {
     "format": "####",
     "regex": "^(\\d{4})$"
@@ -55,5 +57,9 @@
   },
   "lang": [
     "dnk"
+  ],
+  "continent": "EU",
+  "currencies": [
+    "DKK"
   ]
 }

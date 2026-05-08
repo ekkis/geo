@@ -7,9 +7,7 @@
     "en": "Adamstown",
     "pcn": "Adamstown"
   },
-  "currency_code": "NZD",
   "iso3": "PCN",
-  "continent_code": "OC",
   "tld": ".pn",
   "timezones": [
     "UTC-08:00"
@@ -17,10 +15,18 @@
   "area": 47,
   "population": 35,
   "flag": "🇵🇳",
-  "region_common": "Oceania",
-  "demonym": "Pitcairn Islander",
+  "demonym": {
+    "en": "Pitcairn Islander"
+  },
   "phone_code": "870",
   "lang": [
     "pcn"
+  ],
+  "regions": [
+    "Oceania"
+  ],
+  "continent": "OC",
+  "currencies": [
+    "NZD"
   ]
 }
