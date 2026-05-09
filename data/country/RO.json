@@ -3,7 +3,7 @@
     "common": "Romania",
     "official": "Romania"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -25,18 +25,18 @@
     "value": 351002579629.6701,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "BIS",
     "WTO",
     "EU",
     "UN"
   ],
-  "phone_code": "40",
+  "phone-code": "40",
   "division-levels": [
     "development region",
     "county",
@@ -57,11 +57,11 @@
       "BG"
     ]
   },
-  "lang": [
+  "language-codes": [
     "rou"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "RON"
   ]
 }

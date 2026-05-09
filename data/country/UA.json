@@ -4,7 +4,7 @@
     "official": "Ukraine",
     "uk": "Україна"
   },
-  "regions": [
+  "region-codes": [
     "EEU"
   ],
   "capital": {
@@ -27,15 +27,15 @@
     "value": 178757021386.80896,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "380",
+  "phone-code": "380",
   "division-levels": [
     "oblast/autonomous republic",
     "raion",
@@ -56,11 +56,11 @@
       "SK"
     ]
   },
-  "lang": [
+  "language-codes": [
     "uk"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "UAH"
   ]
 }

@@ -4,7 +4,7 @@
     "official": "United Mexican States",
     "es": "México"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -29,11 +29,11 @@
     "value": 1788886821046.8132,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "G20",
@@ -41,7 +41,7 @@
     "OAS",
     "UN"
   ],
-  "phone_code": "52",
+  "phone-code": "52",
   "division-levels": [
     "state/federal entity",
     "municipality"
@@ -55,11 +55,11 @@
       "US"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "MXN"
   ]
 }

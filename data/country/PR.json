@@ -4,7 +4,7 @@
     "official": "Commonwealth of Puerto Rico",
     "es": "Puerto Rico"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 117902300000,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####-####",
     "regex": "^(\\d{9})$"
   },
-  "phone_code": "+1-787 and 1-939",
-  "lang": [
+  "phone-code": "+1-787 and 1-939",
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

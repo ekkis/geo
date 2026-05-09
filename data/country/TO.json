@@ -22,23 +22,23 @@
     "value": 500274898.08522147,
     "year": 2022
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "676",
+  "phone-code": "676",
   "division-levels": [
     "division",
     "island"
   ],
-  "lang": [
+  "language-codes": [
     "to"
   ],
-  "regions": [
+  "region-codes": [
     "POL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "TOP"
   ]
 }

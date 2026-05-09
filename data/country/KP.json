@@ -4,7 +4,7 @@
     "official": "Democratic People's Republic of Korea",
     "ko": "북한"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -23,11 +23,11 @@
     "en": "North Korean",
     "ko": "북한 사람"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###-###",
     "regex": "^(\\d{6})$"
   },
-  "phone_code": "850",
+  "phone-code": "850",
   "division-levels": [
     "province/city",
     "county"
@@ -43,11 +43,11 @@
       "CN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ko"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "KPW"
   ]
 }

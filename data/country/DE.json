@@ -4,7 +4,7 @@
     "official": "Federal Republic of Germany",
     "de": "Deutschland"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -28,11 +28,11 @@
     "value": 4456081016705.961,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -41,7 +41,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "49",
+  "phone-code": "49",
   "division-levels": [
     "state",
     "district",
@@ -66,12 +66,12 @@
       "LU"
     ]
   },
-  "lang": [
+  "language-codes": [
     "dd",
     "de"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

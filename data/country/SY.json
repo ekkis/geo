@@ -4,7 +4,7 @@
     "official": "Syrian Arab Republic",
     "ar": "سوريا"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,7 +27,7 @@
     "value": 8980060818.721447,
     "year": 2021
   },
-  "phone_code": "963",
+  "phone-code": "963",
   "division-levels": [
     "governorate",
     "district",
@@ -46,11 +46,11 @@
       "LB"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "SYP"
   ]
 }

@@ -21,16 +21,16 @@
     "value": 107440575838.04752,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "254",
+  "phone-code": "254",
   "division-levels": [
     "county",
     "sub-county"
@@ -52,14 +52,14 @@
       "UG"
     ]
   },
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "KES"
   ]
 }

@@ -21,22 +21,22 @@
     "value": 284000000,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "692",
+  "phone-code": "692",
   "division-levels": [
     "atoll/island",
     "municipality"
   ],
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "MIC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "USD"
   ]
 }

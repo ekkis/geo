@@ -4,7 +4,7 @@
     "official": "Islamic Republic of Iran",
     "fa": "ایران"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 401504514718.7182,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "##########",
     "regex": "^(\\d{10})$"
   },
-  "phone_code": "98",
+  "phone-code": "98",
   "division-levels": [
     "province",
     "county",
@@ -56,11 +56,11 @@
       "AF"
     ]
   },
-  "lang": [
+  "language-codes": [
     "fa"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "IRR"
   ]
 }

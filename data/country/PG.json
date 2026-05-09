@@ -22,15 +22,15 @@
     "value": 30932496249.791653,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###",
     "regex": "^(\\d{3})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "675",
+  "phone-code": "675",
   "division-levels": [
     "province/autonomous region",
     "district",
@@ -41,14 +41,14 @@
       "ID"
     ]
   },
-  "lang": [
+  "language-codes": [
     "png"
   ],
-  "regions": [
+  "region-codes": [
     "MEL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "PGK"
   ]
 }

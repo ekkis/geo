@@ -4,7 +4,7 @@
     "official": "United Arab Emirates",
     "ar": "الإمارات العربية المتحدة"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,12 +27,12 @@
     "value": 504173451327.43365,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "971",
+  "phone-code": "971",
   "division-levels": [
     "emirate",
     "municipality"
@@ -45,11 +45,11 @@
       "OM"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "AED"
   ]
 }

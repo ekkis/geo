@@ -4,7 +4,7 @@
     "official": "Kyrgyz Republic",
     "ky": "Кыргызстан"
   },
-  "regions": [
+  "region-codes": [
     "CAS"
   ],
   "capital": {
@@ -27,15 +27,15 @@
     "value": 13987627908.838139,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "996",
+  "phone-code": "996",
   "division-levels": [
     "region",
     "district"
@@ -54,11 +54,11 @@
       "UZ"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ky"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "KGS"
   ]
 }

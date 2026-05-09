@@ -4,7 +4,7 @@
     "official": "Republic of Nicaragua",
     "es": "Nicaragua"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 17829215283.799656,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###-###-#",
     "regex": "^(\\d{7})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "505",
+  "phone-code": "505",
   "division-levels": [
     "department/autonomous region",
     "municipality"
@@ -49,11 +49,11 @@
       "CR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "NIO"
   ]
 }

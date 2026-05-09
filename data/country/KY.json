@@ -4,7 +4,7 @@
     "official": "Cayman Islands",
     "cy": "Ynysoedd y Cayman"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -27,12 +27,12 @@
     "value": 6600844001.537206,
     "year": 2022
   },
-  "phone_code": "+1-345",
-  "lang": [
+  "phone-code": "+1-345",
+  "language-codes": [
     "cy"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "KYD"
   ]
 }

@@ -4,7 +4,7 @@
     "official": "Kingdom of the Netherlands",
     "nl": "Nederland"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 1118124749886.2942,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#### @@",
     "regex": "^(\\d{4}[A-Z]{2})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "31",
+  "phone-code": "31",
   "division-levels": [
     "province",
     "municipality"
@@ -52,11 +52,11 @@
       "BE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "nl"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

@@ -24,16 +24,16 @@
     "value": 395926075163.0058,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "20",
+  "phone-code": "20",
   "division-levels": [
     "governorate",
     "district",
@@ -51,14 +51,14 @@
       "SD"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "regions": [
+  "region-codes": [
     "NAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "EGP"
   ]
 }

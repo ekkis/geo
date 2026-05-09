@@ -3,7 +3,7 @@
     "common": "Grenada",
     "official": "Grenada"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,20 +25,20 @@
     "value": 1320334235.588974,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-473",
+  "phone-code": "+1-473",
   "division-levels": [
     "parish"
   ],
-  "lang": [
+  "language-codes": [
     "grd"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "XCD"
   ]
 }

@@ -22,16 +22,16 @@
     "value": 4332000000,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "231",
+  "phone-code": "231",
   "division-levels": [
     "county",
     "district"
@@ -45,14 +45,14 @@
       "SL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "lbr"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "LRD"
   ]
 }

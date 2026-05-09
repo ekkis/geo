@@ -22,15 +22,15 @@
     "value": 482359318767.7031,
     "year": 2014
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS"
   ],
-  "phone_code": "58",
+  "phone-code": "58",
   "division-levels": [
     "state/capital district/federal dependency",
     "municipality"
@@ -44,14 +44,14 @@
       "CO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ve"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "VEF"
   ]
 }

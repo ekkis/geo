@@ -3,7 +3,7 @@
     "common": "Barbados",
     "official": "Barbados"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,24 +25,24 @@
     "value": 6393564189.61345,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "BB#####",
     "regex": "^(?:BB)*(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-246",
+  "phone-code": "+1-246",
   "division-levels": [
     "parish"
   ],
-  "lang": [
+  "language-codes": [
     "brb"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "BBD"
   ]
 }

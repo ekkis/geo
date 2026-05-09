@@ -4,7 +4,7 @@
     "official": "Kingdom of Belgium",
     "be": "Бельгія"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 632216577075.1093,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "32",
+  "phone-code": "32",
   "division-levels": [
     "region",
     "province",
@@ -58,11 +58,11 @@
       "FR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "be"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

@@ -24,12 +24,12 @@
     "value": 23612295818.096096,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "224",
+  "phone-code": "224",
   "division-levels": [
     "region",
     "prefecture"
@@ -50,14 +50,14 @@
       "SL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "fr"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "GNF"
   ]
 }

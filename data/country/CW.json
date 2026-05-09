@@ -3,7 +3,7 @@
     "common": "Curaçao",
     "official": "Country of Curaçao"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -27,14 +27,14 @@
     "value": 3073840325.4328494,
     "year": 2022
   },
-  "phone_code": "599",
-  "lang": [
+  "phone-code": "599",
+  "language-codes": [
     "an",
     "ant",
     "cuw"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "ANG"
   ]
 }

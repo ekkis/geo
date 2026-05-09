@@ -24,12 +24,12 @@
   "demonym": {
     "en": "American Islander"
   },
-  "phone_code": "1",
-  "regions": [
+  "phone-code": "1",
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "USD"
   ]
 }

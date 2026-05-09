@@ -4,7 +4,7 @@
     "official": "Kingdom of Sweden",
     "sv": "Sverige"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 593267701033.4082,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "SE-### ##",
     "regex": "^(?:SE)*(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "46",
+  "phone-code": "46",
   "division-levels": [
     "county",
     "municipality"
@@ -52,11 +52,11 @@
       "NO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "sv"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "SEK"
   ]
 }

@@ -22,21 +22,21 @@
     "value": 603240748.9542067,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "AU"
   ],
-  "phone_code": "239",
+  "phone-code": "239",
   "division-levels": [
     "district/autonomous region"
   ],
-  "lang": [
+  "language-codes": [
     "stp"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "STD"
   ]
 }

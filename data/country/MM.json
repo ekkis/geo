@@ -4,7 +4,7 @@
     "official": "Republic of the Union of Myanmar",
     "my": "မြန်မာ"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -28,16 +28,16 @@
     "value": 64815031669.095245,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "WTO",
     "UN"
   ],
-  "phone_code": "95",
+  "phone-code": "95",
   "division-levels": [
     "region/state/union territory",
     "district",
@@ -58,12 +58,12 @@
       "IN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "bu",
     "my"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "MMK"
   ]
 }

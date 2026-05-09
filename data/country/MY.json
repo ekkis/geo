@@ -4,7 +4,7 @@
     "official": "Malaysia",
     "ms": "Malaysia"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -27,17 +27,17 @@
     "value": 399648828546.5043,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "60",
+  "phone-code": "60",
   "division-levels": [
     "state/federal territory",
     "district"
@@ -53,11 +53,11 @@
       "ID"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ms"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "MYR"
   ]
 }

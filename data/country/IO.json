@@ -3,7 +3,7 @@
     "common": "British Indian Ocean Territory",
     "official": "British Indian Ocean Territory"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Indian"
   },
-  "phone_code": "246",
-  "lang": [
+  "phone-code": "246",
+  "language-codes": [
     "iot"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "USD"
   ]
 }

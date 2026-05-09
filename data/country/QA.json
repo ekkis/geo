@@ -4,7 +4,7 @@
     "official": "State of Qatar",
     "ar": "قطر"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 235770403734.9,
     "year": 2022
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "974",
+  "phone-code": "974",
   "division-levels": [
     "municipality"
   ],
@@ -40,11 +40,11 @@
       "SA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "QAR"
   ]
 }

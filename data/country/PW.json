@@ -21,26 +21,26 @@
     "value": 263020733.717011,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "96940",
     "regex": "^(96940)$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "680",
+  "phone-code": "680",
   "division-levels": [
     "state",
     "municipality"
   ],
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "MIC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "USD"
   ]
 }

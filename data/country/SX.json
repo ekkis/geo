@@ -3,7 +3,7 @@
     "common": "Sint Maarten",
     "official": "Sint Maarten"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,17 +25,17 @@
     "value": 1623165683.1284916,
     "year": 2023
   },
-  "phone_code": "599",
+  "phone-code": "599",
   "neighbours": {
     "NW": [
       "MF"
     ]
   },
-  "lang": [
+  "language-codes": [
     "sxm"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "ANG"
   ]
 }

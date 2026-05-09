@@ -22,12 +22,12 @@
     "value": 14084341062.367504,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "265",
+  "phone-code": "265",
   "neighbours": {
     "NE": [
       "TZ"
@@ -39,14 +39,14 @@
       "ZM"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mwi"
   ],
-  "regions": [
+  "region-codes": [
     "SAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "MWK"
   ]
 }

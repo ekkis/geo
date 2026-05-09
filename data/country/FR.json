@@ -4,7 +4,7 @@
     "official": "French Republic",
     "fr": "France"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -41,11 +41,11 @@
     "value": 3030904089607.8965,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -54,7 +54,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "33",
+  "phone-code": "33",
   "division-levels": [
     "region",
     "department",
@@ -78,12 +78,12 @@
       "ES"
     ]
   },
-  "lang": [
+  "language-codes": [
     "fr",
     "fx"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

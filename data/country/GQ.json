@@ -22,11 +22,11 @@
     "value": 12116922539.411173,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "240",
+  "phone-code": "240",
   "division-levels": [
     "province",
     "district",
@@ -40,14 +40,14 @@
       "GA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "gnq"
   ],
-  "regions": [
+  "region-codes": [
     "CAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "XAF"
   ]
 }

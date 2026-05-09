@@ -25,11 +25,11 @@
     "value": 2243142908.4616103,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "670",
+  "phone-code": "670",
   "division-levels": [
     "municipality",
     "administrative post",
@@ -40,15 +40,15 @@
       "ID"
     ]
   },
-  "lang": [
+  "language-codes": [
     "pt",
     "tp"
   ],
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "USD"
   ]
 }

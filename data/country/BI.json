@@ -22,12 +22,12 @@
     "value": 2642161668.9275384,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "257",
+  "phone-code": "257",
   "division-levels": [
     "province",
     "commune"
@@ -43,14 +43,14 @@
       "RW"
     ]
   },
-  "lang": [
+  "language-codes": [
     "bdi"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "BIF"
   ]
 }

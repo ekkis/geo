@@ -18,15 +18,15 @@
   "demonym": {
     "en": "Niuean"
   },
-  "phone_code": "683",
-  "lang": [
+  "phone-code": "683",
+  "language-codes": [
     "niu"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "NZD"
   ]
 }

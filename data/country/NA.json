@@ -22,12 +22,12 @@
     "value": 12351024843.746696,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "264",
+  "phone-code": "264",
   "division-levels": [
     "region",
     "constituency"
@@ -44,14 +44,14 @@
       "BW"
     ]
   },
-  "lang": [
+  "language-codes": [
     "nam"
   ],
-  "regions": [
+  "region-codes": [
     "SAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "NAD"
   ]
 }

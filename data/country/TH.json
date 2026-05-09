@@ -4,7 +4,7 @@
     "official": "Kingdom of Thailand",
     "th": "ประเทศไทย"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -27,17 +27,17 @@
     "value": 514944993833.5776,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "66",
+  "phone-code": "66",
   "division-levels": [
     "province",
     "district",
@@ -56,11 +56,11 @@
       "MY"
     ]
   },
-  "lang": [
+  "language-codes": [
     "th"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "THB"
   ]
 }

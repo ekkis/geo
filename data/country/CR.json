@@ -4,7 +4,7 @@
     "official": "Republic of Costa Rica",
     "es": "Costa Rica"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -27,17 +27,17 @@
     "value": 86497941439.01744,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "506",
+  "phone-code": "506",
   "division-levels": [
     "province",
     "canton",
@@ -51,11 +51,11 @@
       "PA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "CRC"
   ]
 }

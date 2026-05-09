@@ -28,31 +28,31 @@
     "value": 1723827215334.7063,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "G20",
     "WTO",
     "UN"
   ],
-  "phone_code": "61",
+  "phone-code": "61",
   "division-levels": [
     "state",
     "territory",
     "local government area"
   ],
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "AUD"
   ]
 }

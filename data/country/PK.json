@@ -4,7 +4,7 @@
     "official": "Islamic Republic of Pakistan",
     "ur": "پاکستان"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -27,15 +27,15 @@
     "value": 338368455317.8758,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "92",
+  "phone-code": "92",
   "division-levels": [
     "province/federal territory/capital territory",
     "district"
@@ -52,11 +52,11 @@
       "IN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ur"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "PKR"
   ]
 }

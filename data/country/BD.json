@@ -4,7 +4,7 @@
     "official": "People's Republic of Bangladesh",
     "bn": "বাংলাদেশ"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -27,15 +27,15 @@
     "value": 437415331040.9943,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "880",
+  "phone-code": "880",
   "division-levels": [
     "division",
     "district",
@@ -49,11 +49,11 @@
       "IN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "bn"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "BDT"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Saint Martin",
     "official": "Saint Martin"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,20 +25,20 @@
     "value": 649206262.8475188,
     "year": 2021
   },
-  "postal_code": {
+  "postal-code": {
     "format": "### ###"
   },
-  "phone_code": "590",
+  "phone-code": "590",
   "neighbours": {
     "SE": [
       "SX"
     ]
   },
-  "lang": [
+  "language-codes": [
     "maf"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "EUR"
   ]
 }

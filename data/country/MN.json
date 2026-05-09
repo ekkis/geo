@@ -4,7 +4,7 @@
     "official": "Mongolia",
     "mn": "Монгол"
   },
-  "regions": [
+  "region-codes": [
     "CAS"
   ],
   "capital": {
@@ -28,15 +28,15 @@
     "value": 19872180369.6275,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "976",
+  "phone-code": "976",
   "division-levels": [
     "aimag/sum",
     "sum"
@@ -49,11 +49,11 @@
       "CN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mn"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "MNT"
   ]
 }

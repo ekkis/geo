@@ -24,14 +24,14 @@
     "value": 363540156234.86835,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "57",
+  "phone-code": "57",
   "division-levels": [
     "department",
     "municipality",
@@ -52,14 +52,14 @@
       "EC"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "COP"
   ]
 }

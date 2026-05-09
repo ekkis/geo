@@ -22,16 +22,16 @@
     "value": 2046039024.4585402,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###",
     "regex": "^(\\d{3})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "266",
+  "phone-code": "266",
   "division-levels": [
     "district",
     "constituency"
@@ -41,14 +41,14 @@
       "ZA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "lso"
   ],
-  "regions": [
+  "region-codes": [
     "SAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "LSL"
   ]
 }

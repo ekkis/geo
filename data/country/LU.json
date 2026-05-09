@@ -4,7 +4,7 @@
     "official": "Grand Duchy of Luxembourg",
     "lb": "Lëtzebuerg"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 85755006123.5976,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "352",
+  "phone-code": "352",
   "division-levels": [
     "canton",
     "commune"
@@ -55,11 +55,11 @@
       "FR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "lb"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

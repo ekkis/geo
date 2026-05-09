@@ -5,7 +5,7 @@
     "ru": "Россия",
     "su": "Rusia"
   },
-  "regions": [
+  "region-codes": [
     "EEU",
     "WEU"
   ],
@@ -39,16 +39,16 @@
     "value": 2021421476035.417,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "G20",
     "WTO"
   ],
-  "phone_code": "7",
+  "phone-code": "7",
   "division-levels": [
     "federal subject",
     "district",
@@ -76,12 +76,12 @@
       "UA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ru",
     "su"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "RUB"
   ]
 }

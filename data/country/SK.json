@@ -3,7 +3,7 @@
     "common": "Slovakia",
     "official": "Slovak Republic"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -25,11 +25,11 @@
     "value": 132793622283.07097,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###  ##",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -37,7 +37,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "421",
+  "phone-code": "421",
   "division-levels": [
     "region",
     "district",
@@ -58,11 +58,11 @@
       "AT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "svk"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

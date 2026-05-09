@@ -3,7 +3,7 @@
     "common": "United States",
     "official": "United States of America"
   },
-  "regions": [
+  "region-codes": [
     "NAM"
   ],
   "capital": {
@@ -34,11 +34,11 @@
     "value": 27360935000000,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####-####",
     "regex": "^\\d{5}(-\\d{4})?$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -46,7 +46,7 @@
     "WTO",
     "OAS"
   ],
-  "phone_code": "1",
+  "phone-code": "1",
   "division-levels": [
     "region",
     "state",
@@ -60,11 +60,11 @@
       "MX"
     ]
   },
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

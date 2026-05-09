@@ -3,7 +3,7 @@
     "common": "Norway",
     "official": "Kingdom of Norway"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -24,18 +24,18 @@
     "value": 485513316503.63043,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "47",
+  "phone-code": "47",
   "division-levels": [
     "county",
     "municipality"
@@ -51,9 +51,9 @@
       "SE"
     ]
   },
-  "lang": [],
-  "continent": "EU",
-  "currencies": [
+  "language-codes": [],
+  "continent-code": "EU",
+  "currency-codes": [
     "NOK"
   ]
 }

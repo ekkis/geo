@@ -22,22 +22,22 @@
     "value": 14397127281.382942,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "230",
+  "phone-code": "230",
   "division-levels": [
     "district",
     "town/village"
   ],
-  "lang": [
+  "language-codes": [
     "mus"
   ],
-  "regions": [],
-  "continent": "AF",
-  "currencies": [
+  "region-codes": [],
+  "continent-code": "AF",
+  "currency-codes": [
     "MUR"
   ]
 }

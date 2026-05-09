@@ -3,7 +3,7 @@
     "common": "Moldova",
     "official": "Republic of Moldova"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -25,14 +25,14 @@
     "value": 16539436547.294973,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "MD-####",
     "regex": "^(?:MD)*(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO"
   ],
-  "phone_code": "373",
+  "phone-code": "373",
   "division-levels": [
     "district/municipality/autonomous unit"
   ],
@@ -44,11 +44,11 @@
       "RO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mda"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "MDL"
   ]
 }

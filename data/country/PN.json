@@ -18,15 +18,15 @@
   "demonym": {
     "en": "Pitcairn Islander"
   },
-  "phone_code": "870",
-  "lang": [
+  "phone-code": "870",
+  "language-codes": [
     "pcn"
   ],
-  "regions": [
+  "region-codes": [
     "POL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "NZD"
   ]
 }

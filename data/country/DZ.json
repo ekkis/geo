@@ -24,16 +24,16 @@
     "value": 239899491127.74237,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "AU",
     "UN"
   ],
-  "phone_code": "213",
+  "phone-code": "213",
   "division-levels": [
     "province",
     "district",
@@ -56,14 +56,14 @@
       "ML"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "regions": [
+  "region-codes": [
     "NAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "DZD"
   ]
 }

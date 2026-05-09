@@ -4,7 +4,7 @@
     "official": "Republic of Uzbekistan",
     "uz": "O'zbekiston"
   },
-  "regions": [
+  "region-codes": [
     "CAS"
   ],
   "capital": {
@@ -27,14 +27,14 @@
     "value": 90889149306.73126,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "998",
+  "phone-code": "998",
   "division-levels": [
     "region/autonomous republic",
     "district"
@@ -54,11 +54,11 @@
       "KG"
     ]
   },
-  "lang": [
+  "language-codes": [
     "uz"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "UZS"
   ]
 }

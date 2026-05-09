@@ -3,7 +3,7 @@
     "common": "Singapore",
     "official": "Republic of Singapore"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -25,26 +25,26 @@
     "value": 501427500080.05853,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "65",
+  "phone-code": "65",
   "division-levels": [
     "planning area",
     "subzone"
   ],
-  "lang": [
+  "language-codes": [
     "zh"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "SGD"
   ]
 }

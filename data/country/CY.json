@@ -4,7 +4,7 @@
     "official": "Republic of Cyprus",
     "tr": "Kıbrıs"
   },
-  "regions": [
+  "region-codes": [
     "WEU"
   ],
   "capital": {
@@ -27,24 +27,24 @@
     "value": 32229622669.195114,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "EU",
     "UN"
   ],
-  "phone_code": "357",
+  "phone-code": "357",
   "division-levels": [
     "district"
   ],
-  "lang": [
+  "language-codes": [
     "tr"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

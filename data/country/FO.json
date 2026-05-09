@@ -3,7 +3,7 @@
     "common": "Faroe Islands",
     "official": "Faroe Islands"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -25,16 +25,16 @@
     "value": 3555929833.050505,
     "year": 2022
   },
-  "postal_code": {
+  "postal-code": {
     "format": "FO-###",
     "regex": "^(?:FO)*(\\d{3})$"
   },
-  "phone_code": "298",
-  "lang": [
+  "phone-code": "298",
+  "language-codes": [
     "fro"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "DKK"
   ]
 }

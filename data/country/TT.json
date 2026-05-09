@@ -3,7 +3,7 @@
     "common": "Trinidad and Tobago",
     "official": "Republic of Trinidad and Tobago"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,21 +25,21 @@
     "value": 28139944790.291103,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-868",
+  "phone-code": "+1-868",
   "division-levels": [
     "region/municipality",
     "ward"
   ],
-  "lang": [
+  "language-codes": [
     "tto"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "TTD"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "China",
     "official": "People's Republic of China"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -25,17 +25,17 @@
     "value": 17794781986104.457,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "G20",
     "WTO",
     "UN"
   ],
-  "phone_code": "86",
+  "phone-code": "86",
   "division-levels": [
     "province",
     "autonomous region",
@@ -78,11 +78,11 @@
       "LA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "zh"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "CNY"
   ]
 }

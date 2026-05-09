@@ -22,27 +22,27 @@
     "value": 16031702914.91953,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###",
     "regex": "^(\\d{3})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "261",
+  "phone-code": "261",
   "division-levels": [
     "region",
     "district",
     "commune"
   ],
-  "lang": [
+  "language-codes": [
     "mdg"
   ],
-  "regions": [],
-  "continent": "AF",
-  "currencies": [
+  "region-codes": [],
+  "continent-code": "AF",
+  "currency-codes": [
     "MGA"
   ]
 }

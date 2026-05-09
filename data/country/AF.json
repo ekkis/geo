@@ -4,7 +4,7 @@
     "official": "Islamic Republic of Afghanistan",
     "ps": "افغانستان"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 14502158192.090395,
     "year": 2022
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "93",
+  "phone-code": "93",
   "division-levels": [
     "province",
     "district",
@@ -60,11 +60,11 @@
       "IR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ps"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "AFN"
   ]
 }

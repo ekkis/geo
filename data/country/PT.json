@@ -4,7 +4,7 @@
     "official": "Portuguese Republic",
     "pt": "Portugal"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -28,11 +28,11 @@
     "value": 287080013574.4972,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####-###",
     "regex": "^(\\d{7})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -40,7 +40,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "351",
+  "phone-code": "351",
   "division-levels": [
     "district/autonomous region",
     "municipality",
@@ -51,11 +51,11 @@
       "ES"
     ]
   },
-  "lang": [
+  "language-codes": [
     "pt"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

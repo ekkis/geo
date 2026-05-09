@@ -3,7 +3,7 @@
     "common": "Andorra",
     "official": "Principality of Andorra"
   },
-  "regions": [
+  "region-codes": [
     "SEU",
     "ME"
   ],
@@ -26,14 +26,14 @@
     "value": 3727673593.0192156,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "AD###",
     "regex": "^(?:AD)*(\\d{3})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "376",
+  "phone-code": "376",
   "division-levels": [
     "parish"
   ],
@@ -45,11 +45,11 @@
       "ES"
     ]
   },
-  "lang": [
+  "language-codes": [
     "and"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

@@ -4,7 +4,7 @@
     "official": "State of Kuwait",
     "ar": "الكويت"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 161772221950.94162,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "965",
+  "phone-code": "965",
   "division-levels": [
     "governorate"
   ],
@@ -48,11 +48,11 @@
       "SA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "KWD"
   ]
 }

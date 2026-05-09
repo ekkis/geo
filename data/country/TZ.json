@@ -24,11 +24,11 @@
     "value": 79158286333.52399,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU"
   ],
-  "phone_code": "255",
+  "phone-code": "255",
   "division-levels": [
     "region",
     "district",
@@ -54,14 +54,14 @@
       "MZ"
     ]
   },
-  "lang": [
+  "language-codes": [
     "sw"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "TZS"
   ]
 }

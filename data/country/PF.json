@@ -24,19 +24,19 @@
     "value": 5814661208.905444,
     "year": 2022
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^((97|98)7\\d{2})$"
   },
-  "phone_code": "689",
-  "lang": [
+  "phone-code": "689",
+  "language-codes": [
     "pyf"
   ],
-  "regions": [
+  "region-codes": [
     "POL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "XPF"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Bulgaria",
     "official": "Republic of Bulgaria"
   },
-  "regions": [
+  "region-codes": [
     "SEU"
   ],
   "capital": {
@@ -25,18 +25,18 @@
     "value": 101584384672.78587,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "BIS",
     "WTO",
     "EU",
     "UN"
   ],
-  "phone_code": "359",
+  "phone-code": "359",
   "division-levels": [
     "province",
     "municipality"
@@ -56,11 +56,11 @@
       "RO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "bgr"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "BGN"
   ]
 }

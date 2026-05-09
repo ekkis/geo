@@ -4,7 +4,7 @@
     "official": "Lao People's Democratic Republic",
     "lo": "Laos"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -27,15 +27,15 @@
     "value": 15843155731.25518,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "WTO"
   ],
-  "phone_code": "856",
+  "phone-code": "856",
   "division-levels": [
     "province/prefecture",
     "district"
@@ -57,11 +57,11 @@
       "CN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "lo"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "LAK"
   ]
 }

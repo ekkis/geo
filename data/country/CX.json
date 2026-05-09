@@ -3,7 +3,7 @@
     "common": "Christmas Island",
     "official": "Territory of Christmas Island"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -21,16 +21,16 @@
   "demonym": {
     "en": "Christmas Islander"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "phone_code": "61",
-  "lang": [
+  "phone-code": "61",
+  "language-codes": [
     "cxr"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "AUD"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Albania",
     "official": "Republic of Albania"
   },
-  "regions": [
+  "region-codes": [
     "SEU"
   ],
   "capital": {
@@ -25,12 +25,12 @@
     "value": 22977677860.797855,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "WTO",
     "UN"
   ],
-  "phone_code": "355",
+  "phone-code": "355",
   "division-levels": [
     "county",
     "municipality",
@@ -48,11 +48,11 @@
       "GR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "alb"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "ALL"
   ]
 }

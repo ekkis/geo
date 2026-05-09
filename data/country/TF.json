@@ -3,7 +3,7 @@
     "common": "French Southern and Antarctic Lands",
     "official": "Territory of the French Southern and Antarctic Lands"
   },
-  "regions": [
+  "region-codes": [
     "ANT"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "French"
   },
-  "phone_code": "",
-  "lang": [
+  "phone-code": "",
+  "language-codes": [
     "atf"
   ],
-  "continent": "AN",
-  "currencies": [
+  "continent-code": "AN",
+  "currency-codes": [
     "EUR"
   ]
 }

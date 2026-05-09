@@ -4,7 +4,7 @@
     "official": "Republic of Guatemala",
     "es": "Guatemala"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 102050473863.63637,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "502",
+  "phone-code": "502",
   "division-levels": [
     "department",
     "municipality"
@@ -53,11 +53,11 @@
       "HN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "GTQ"
   ]
 }

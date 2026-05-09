@@ -4,7 +4,7 @@
     "official": "State of Israel",
     "he": "יִשְׂרָאֵל"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,17 +27,17 @@
     "value": 509901495702.1033,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "972",
+  "phone-code": "972",
   "division-levels": [
     "district",
     "sub-district",
@@ -56,11 +56,11 @@
       "EG"
     ]
   },
-  "lang": [
+  "language-codes": [
     "he"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "ILS"
   ]
 }

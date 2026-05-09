@@ -18,11 +18,11 @@
   "demonym": {
     "en": "Guianan"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^((97|98)3\\d{2})$"
   },
-  "phone_code": "594",
+  "phone-code": "594",
   "neighbours": {
     "SW": [
       "BR"
@@ -31,14 +31,14 @@
       "SR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "guf"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "EUR"
   ]
 }

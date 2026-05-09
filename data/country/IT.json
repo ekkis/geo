@@ -4,7 +4,7 @@
     "official": "Italian Republic",
     "it": "Italia"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 2254851212731.8047,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -40,7 +40,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "39",
+  "phone-code": "39",
   "division-levels": [
     "region",
     "province",
@@ -60,11 +60,11 @@
       "VA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "it"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

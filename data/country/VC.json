@@ -3,7 +3,7 @@
     "common": "Saint Vincent and the Grenadines",
     "official": "Saint Vincent and the Grenadines"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,20 +25,20 @@
     "value": 1065962962.9629629,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-784",
+  "phone-code": "+1-784",
   "division-levels": [
     "parish"
   ],
-  "lang": [
+  "language-codes": [
     "vct"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "XCD"
   ]
 }

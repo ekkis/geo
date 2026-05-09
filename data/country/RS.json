@@ -4,7 +4,7 @@
     "official": "Republic of Serbia",
     "cs": "Srbsko"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -31,15 +31,15 @@
     "value": 75187125426.73755,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "UN"
   ],
-  "phone_code": "381",
+  "phone-code": "381",
   "division-levels": [
     "district/autonomous province",
     "municipality/city"
@@ -64,15 +64,15 @@
       "BA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "cs",
     "scg",
     "srb",
     "yu",
     "yug"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "RSD"
   ]
 }

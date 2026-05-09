@@ -3,7 +3,7 @@
     "common": "Antarctica",
     "official": "Antarctica"
   },
-  "regions": [
+  "region-codes": [
     "ANT"
   ],
   "capital": "",
@@ -30,9 +30,9 @@
   "demonym": {
     "en": "Antarctican"
   },
-  "phone_code": "",
-  "continent": "AN",
-  "currencies": [
+  "phone-code": "",
+  "continent-code": "AN",
+  "currency-codes": [
     "XCD"
   ]
 }

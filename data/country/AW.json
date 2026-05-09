@@ -3,7 +3,7 @@
     "common": "Aruba",
     "official": "Aruba"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,12 +25,12 @@
     "value": 3544707788.0566425,
     "year": 2022
   },
-  "phone_code": "297",
-  "lang": [
+  "phone-code": "297",
+  "language-codes": [
     "abw"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "AWG"
   ]
 }

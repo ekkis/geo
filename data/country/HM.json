@@ -3,7 +3,7 @@
     "common": "Heard Island and McDonald Islands",
     "official": "Heard Island and McDonald Islands"
   },
-  "regions": [
+  "region-codes": [
     "ANT"
   ],
   "capital": "",
@@ -21,9 +21,9 @@
   "demonym": {
     "en": "Heard and McDonald Islander"
   },
-  "phone_code": " ",
-  "continent": "AN",
-  "currencies": [
+  "phone-code": " ",
+  "continent-code": "AN",
+  "currency-codes": [
     "AUD"
   ]
 }

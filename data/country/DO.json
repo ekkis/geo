@@ -4,7 +4,7 @@
     "official": "Dominican Republic",
     "es": "República Dominicana"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 121444279313.93079,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-809 and 1-829",
+  "phone-code": "+1-809 and 1-829",
   "division-levels": [
     "province",
     "municipality"
@@ -46,11 +46,11 @@
       "HT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "DOP"
   ]
 }

@@ -24,17 +24,17 @@
     "value": 267603248655.2527,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "51",
+  "phone-code": "51",
   "division-levels": [
     "region/province",
     "district"
@@ -54,14 +54,14 @@
       "BR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "PEN"
   ]
 }

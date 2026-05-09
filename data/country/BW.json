@@ -22,12 +22,12 @@
     "value": 19395765126.312748,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "267",
+  "phone-code": "267",
   "division-levels": [
     "district",
     "sub-district"
@@ -44,14 +44,14 @@
       "NA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "bwa"
   ],
-  "regions": [
+  "region-codes": [
     "SAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "BWP"
   ]
 }

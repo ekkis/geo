@@ -22,12 +22,12 @@
     "value": 76370394412.41626,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "233",
+  "phone-code": "233",
   "division-levels": [
     "region",
     "district"
@@ -43,14 +43,14 @@
       "TG"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ak"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "GHS"
   ]
 }

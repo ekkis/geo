@@ -3,7 +3,7 @@
     "common": "Belize",
     "official": "Belize"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -25,12 +25,12 @@
     "value": 3281500000,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "501",
+  "phone-code": "501",
   "division-levels": [
     "district",
     "town/village"
@@ -43,11 +43,11 @@
       "GT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "blz"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "BZD"
   ]
 }

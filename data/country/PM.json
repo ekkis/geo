@@ -3,7 +3,7 @@
     "common": "Saint Pierre and Miquelon",
     "official": "Saint Pierre and Miquelon"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,16 +21,16 @@
   "demonym": {
     "en": "Saint-Pierrais, Miquelonnais"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(97500)$"
   },
-  "phone_code": "508",
-  "lang": [
+  "phone-code": "508",
+  "language-codes": [
     "spm"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "EUR"
   ]
 }

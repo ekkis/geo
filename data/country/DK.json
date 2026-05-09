@@ -3,7 +3,7 @@
     "common": "Denmark",
     "official": "Kingdom of Denmark"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -29,11 +29,11 @@
     "value": 404198757537.9742,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -41,7 +41,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "45",
+  "phone-code": "45",
   "division-levels": [
     "region",
     "municipality"
@@ -51,11 +51,11 @@
       "DE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "dnk"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "DKK"
   ]
 }

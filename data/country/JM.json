@@ -3,7 +3,7 @@
     "common": "Jamaica",
     "official": "Jamaica"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,21 +25,21 @@
     "value": 19423355367.23718,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-876",
+  "phone-code": "+1-876",
   "division-levels": [
     "parish",
     "municipality"
   ],
-  "lang": [
+  "language-codes": [
     "jam"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "JMD"
   ]
 }

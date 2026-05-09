@@ -4,7 +4,7 @@
     "official": "Republic of North Macedonia",
     "mk": "Северна Македонија"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -27,17 +27,17 @@
     "value": 14761237042.205698,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "389",
+  "phone-code": "389",
   "neighbours": {
     "NE": [
       "BG"
@@ -53,11 +53,11 @@
       "GR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mk"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "MKD"
   ]
 }

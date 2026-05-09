@@ -22,15 +22,15 @@
     "value": 858000000,
     "year": 2020
   },
-  "phone_code": "+1-670",
-  "lang": [
+  "phone-code": "+1-670",
+  "language-codes": [
     "mnp"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "USD"
   ]
 }

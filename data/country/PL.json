@@ -4,7 +4,7 @@
     "official": "Republic of Poland",
     "pl": "Polska"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 811229100687.5663,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "##-###",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "48",
+  "phone-code": "48",
   "division-levels": [
     "voivodeship",
     "county",
@@ -60,11 +60,11 @@
       "SK"
     ]
   },
-  "lang": [
+  "language-codes": [
     "pl"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "PLN"
   ]
 }

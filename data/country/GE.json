@@ -3,7 +3,7 @@
     "common": "Georgia",
     "official": "Georgia"
   },
-  "regions": [
+  "region-codes": [
     "CAUC"
   ],
   "capital": {
@@ -25,15 +25,15 @@
     "value": 30535530479.022663,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "995",
+  "phone-code": "995",
   "division-levels": [
     "region",
     "municipality"
@@ -50,11 +50,11 @@
       "TR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "geo"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "GEL"
   ]
 }

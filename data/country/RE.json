@@ -18,17 +18,17 @@
   "demonym": {
     "en": "Réunionese"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^((97|98)(4|7|8)\\d{2})$"
   },
-  "phone_code": "262",
-  "lang": [
+  "phone-code": "262",
+  "language-codes": [
     "reu"
   ],
-  "regions": [],
-  "continent": "AF",
-  "currencies": [
+  "region-codes": [],
+  "continent-code": "AF",
+  "currency-codes": [
     "EUR"
   ]
 }

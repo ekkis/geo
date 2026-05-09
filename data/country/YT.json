@@ -18,19 +18,19 @@
   "demonym": {
     "en": "Mahoran"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "phone_code": "262",
-  "lang": [
+  "phone-code": "262",
+  "language-codes": [
     "myt"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "EUR"
   ]
 }

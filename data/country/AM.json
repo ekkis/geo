@@ -3,7 +3,7 @@
     "common": "Armenia",
     "official": "Republic of Armenia"
   },
-  "regions": [
+  "region-codes": [
     "CAUC"
   ],
   "capital": {
@@ -25,15 +25,15 @@
     "value": 24212134631.064003,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "374",
+  "phone-code": "374",
   "division-levels": [
     "region",
     "community"
@@ -52,11 +52,11 @@
       "TR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "arm"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "AMD"
   ]
 }

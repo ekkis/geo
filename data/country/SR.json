@@ -22,12 +22,12 @@
     "value": 3782437296.0432286,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "597",
+  "phone-code": "597",
   "division-levels": [
     "district",
     "resort"
@@ -43,14 +43,14 @@
       "GF"
     ]
   },
-  "lang": [
+  "language-codes": [
     "sur"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "SRD"
   ]
 }

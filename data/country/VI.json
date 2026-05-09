@@ -3,7 +3,7 @@
     "common": "United States Virgin Islands",
     "official": "Virgin Islands of the United States"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,12 +25,12 @@
     "value": 4444000000,
     "year": 2021
   },
-  "phone_code": "+1-340",
-  "lang": [
+  "phone-code": "+1-340",
+  "language-codes": [
     "vir"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

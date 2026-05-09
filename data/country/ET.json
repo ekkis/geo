@@ -24,15 +24,15 @@
     "value": 163697927593.98236,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "251",
+  "phone-code": "251",
   "division-levels": [
     "region",
     "zone",
@@ -55,14 +55,14 @@
       "KE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "am"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "ETB"
   ]
 }

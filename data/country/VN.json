@@ -4,7 +4,7 @@
     "official": "Socialist Republic of Vietnam",
     "vi": "Việt Nam"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -28,16 +28,16 @@
     "value": 429716969049.5928,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "BIS",
     "WTO"
   ],
-  "phone_code": "84",
+  "phone-code": "84",
   "division-levels": [
     "province/municipality",
     "district",
@@ -52,12 +52,12 @@
       "KH"
     ]
   },
-  "lang": [
+  "language-codes": [
     "vd",
     "vi"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "VND"
   ]
 }

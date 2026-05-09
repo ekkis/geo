@@ -3,7 +3,7 @@
     "common": "Greenland",
     "official": "Greenland"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -28,16 +28,16 @@
     "value": 3235809504.298714,
     "year": 2021
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "phone_code": "299",
-  "lang": [
+  "phone-code": "299",
+  "language-codes": [
     "grl"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "DKK"
   ]
 }

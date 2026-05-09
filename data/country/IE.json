@@ -3,7 +3,7 @@
     "common": "Ireland",
     "official": "Republic of Ireland"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -24,14 +24,14 @@
     "value": 545629450403.7351,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "EU",
     "UN"
   ],
-  "phone_code": "353",
+  "phone-code": "353",
   "division-levels": [
     "county",
     "city/town"
@@ -41,11 +41,11 @@
       "GB"
     ]
   },
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

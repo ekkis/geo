@@ -24,15 +24,15 @@
     "value": 11679800110.152267,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@@  #####",
     "regex": "^([A-Z]{2}\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "252",
+  "phone-code": "252",
   "division-levels": [
     "federal member state",
     "district"
@@ -46,14 +46,14 @@
       "KE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "so"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "SOS"
   ]
 }

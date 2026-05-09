@@ -24,16 +24,16 @@
     "value": 20624597846.549507,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "258",
+  "phone-code": "258",
   "division-levels": [
     "province",
     "district"
@@ -52,14 +52,14 @@
       "TZ"
     ]
   },
-  "lang": [
+  "language-codes": [
     "pt"
   ],
-  "regions": [
+  "region-codes": [
     "SAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "MZN"
   ]
 }

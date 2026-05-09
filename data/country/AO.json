@@ -24,12 +24,12 @@
     "value": 84722957642.37566,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "244",
+  "phone-code": "244",
   "division-levels": [
     "province",
     "municipality",
@@ -49,14 +49,14 @@
       "CD"
     ]
   },
-  "lang": [
+  "language-codes": [
     "pt"
   ],
-  "regions": [
+  "region-codes": [
     "CAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "AOA"
   ]
 }

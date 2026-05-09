@@ -3,7 +3,7 @@
     "common": "British Virgin Islands",
     "official": "Virgin Islands"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Virgin Islander"
   },
-  "phone_code": "+1-284",
-  "lang": [
+  "phone-code": "+1-284",
+  "language-codes": [
     "vgb"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

@@ -22,12 +22,12 @@
     "value": 3809832236.9595933,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "232",
+  "phone-code": "232",
   "division-levels": [
     "province",
     "district",
@@ -41,14 +41,14 @@
       "LR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "sle"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "SLL"
   ]
 }

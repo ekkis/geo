@@ -3,7 +3,7 @@
     "common": "Taiwan",
     "official": "Republic of China (Taiwan)"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -21,19 +21,19 @@
   "demonym": {
     "en": "Taiwanese"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO"
   ],
-  "phone_code": "886",
-  "lang": [
+  "phone-code": "886",
+  "language-codes": [
     "zh"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "TWD"
   ]
 }

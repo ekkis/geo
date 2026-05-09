@@ -4,7 +4,7 @@
     "official": "Hungary",
     "hu": "Magyarország"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 212388906458.72394,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "36",
+  "phone-code": "36",
   "division-levels": [
     "county",
     "district",
@@ -62,11 +62,11 @@
       "SI"
     ]
   },
-  "lang": [
+  "language-codes": [
     "hu"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "HUF"
   ]
 }

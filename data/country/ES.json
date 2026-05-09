@@ -4,7 +4,7 @@
     "official": "Kingdom of Spain",
     "es": "España"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -28,11 +28,11 @@
     "value": 1580694712515.714,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -40,7 +40,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "34",
+  "phone-code": "34",
   "division-levels": [
     "autonomous community",
     "province",
@@ -57,11 +57,11 @@
       "GI"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

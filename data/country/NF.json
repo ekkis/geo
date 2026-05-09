@@ -18,15 +18,15 @@
   "demonym": {
     "en": "Norfolk Islander"
   },
-  "phone_code": "672",
-  "lang": [
+  "phone-code": "672",
+  "language-codes": [
     "nfk"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "AUD"
   ]
 }

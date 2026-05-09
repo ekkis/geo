@@ -18,19 +18,19 @@
   "demonym": {
     "en": "Wallis and Futuna Islander"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(986\\d{2})$"
   },
-  "phone_code": "681",
-  "lang": [
+  "phone-code": "681",
+  "language-codes": [
     "wlf"
   ],
-  "regions": [
+  "region-codes": [
     "POL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "XPF"
   ]
 }

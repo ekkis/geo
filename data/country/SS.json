@@ -22,11 +22,11 @@
     "value": 11997800760.224182,
     "year": 2015
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "211",
+  "phone-code": "211",
   "division-levels": [
     "state",
     "county"
@@ -49,14 +49,14 @@
       "SD"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ssd"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "SSP"
   ]
 }

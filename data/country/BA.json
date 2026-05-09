@@ -3,7 +3,7 @@
     "common": "Bosnia and Herzegovina",
     "official": "Bosnia and Herzegovina"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -24,15 +24,15 @@
     "value": 27054889362.885204,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "UN"
   ],
-  "phone_code": "387",
+  "phone-code": "387",
   "division-levels": [
     "entity",
     "municipality"
@@ -48,9 +48,9 @@
       "RS"
     ]
   },
-  "lang": [],
-  "continent": "EU",
-  "currencies": [
+  "language-codes": [],
+  "continent-code": "EU",
+  "currency-codes": [
     "BAM"
   ]
 }

@@ -4,7 +4,7 @@
     "official": "Republic of Austria",
     "de": "Österreich"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,18 +27,18 @@
     "value": 516034144115.9503,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "EU",
     "UN"
   ],
-  "phone_code": "43",
+  "phone-code": "43",
   "division-levels": [
     "state",
     "district",
@@ -62,11 +62,11 @@
       "IT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "de"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

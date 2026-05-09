@@ -24,15 +24,15 @@
     "value": 109327023588.73239,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "249",
+  "phone-code": "249",
   "division-levels": [
     "state",
     "district"
@@ -60,14 +60,14 @@
       "SS"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "regions": [
+  "region-codes": [
     "NAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "SDG"
   ]
 }

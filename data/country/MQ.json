@@ -3,7 +3,7 @@
     "common": "Martinique",
     "official": "Martinique"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,16 +21,16 @@
   "demonym": {
     "en": "Martinican"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "phone_code": "596",
-  "lang": [
+  "phone-code": "596",
+  "language-codes": [
     "mtq"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "EUR"
   ]
 }

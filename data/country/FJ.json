@@ -21,24 +21,24 @@
     "value": 5494797540.733647,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "679",
+  "phone-code": "679",
   "division-levels": [
     "division",
     "province",
     "district"
   ],
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "FJD"
   ]
 }

@@ -24,17 +24,17 @@
     "value": 141109373209.41437,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "212",
+  "phone-code": "212",
   "division-levels": [
     "region",
     "prefecture/province"
@@ -50,14 +50,14 @@
       "EH"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mr"
   ],
-  "regions": [
+  "region-codes": [
     "MAG"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "MAD"
   ]
 }

@@ -24,10 +24,10 @@
     "value": 78788828906.86345,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "AU"
   ],
-  "phone_code": "225",
+  "phone-code": "225",
   "neighbours": {
     "NE": [
       "BF",
@@ -43,14 +43,14 @@
       "GH"
     ]
   },
-  "lang": [
+  "language-codes": [
     "fr"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "XOF"
   ]
 }

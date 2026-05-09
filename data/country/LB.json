@@ -4,7 +4,7 @@
     "official": "Lebanese Republic",
     "ar": "لبنان"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,14 +27,14 @@
     "value": 20992421948.808086,
     "year": 2022
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#### ####|####",
     "regex": "^(\\d{4}(\\d{4})?)$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "961",
+  "phone-code": "961",
   "division-levels": [
     "governorate",
     "district"
@@ -47,11 +47,11 @@
       "IL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "LBP"
   ]
 }

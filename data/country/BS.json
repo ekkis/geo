@@ -3,7 +3,7 @@
     "common": "Bahamas",
     "official": "Commonwealth of the Bahamas"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,19 +25,19 @@
     "value": 14338500000,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-242",
+  "phone-code": "+1-242",
   "division-levels": [
     "district"
   ],
-  "lang": [
+  "language-codes": [
     "bhs"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "BSD"
   ]
 }

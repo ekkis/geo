@@ -22,12 +22,12 @@
     "value": 4098530513.5577674,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "253",
+  "phone-code": "253",
   "division-levels": [
     "region",
     "district"
@@ -43,14 +43,14 @@
       "ET"
     ]
   },
-  "lang": [
+  "language-codes": [
     "dji"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "DJF"
   ]
 }

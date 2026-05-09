@@ -3,7 +3,7 @@
     "common": "Turkmenistan",
     "official": "Turkmenistan"
   },
-  "regions": [
+  "region-codes": [
     "CAS"
   ],
   "capital": {
@@ -25,14 +25,14 @@
     "value": 59887334844.06514,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "993",
+  "phone-code": "993",
   "division-levels": [
     "province/capital city",
     "district"
@@ -49,11 +49,11 @@
       "IR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "tk"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "TMT"
   ]
 }

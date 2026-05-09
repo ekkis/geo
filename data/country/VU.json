@@ -23,24 +23,24 @@
     "value": 1126313359.2192256,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "678",
+  "phone-code": "678",
   "division-levels": [
     "province",
     "island"
   ],
-  "lang": [
+  "language-codes": [
     "bi",
     "nh"
   ],
-  "regions": [
+  "region-codes": [
     "MEL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "VUV"
   ]
 }

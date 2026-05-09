@@ -4,7 +4,7 @@
     "official": "Republic of Kazakhstan",
     "kk": "Қазақстан"
   },
-  "regions": [
+  "region-codes": [
     "CAS"
   ],
   "capital": {
@@ -28,15 +28,15 @@
     "value": 261421121085.57208,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "7",
+  "phone-code": "7",
   "division-levels": [
     "region",
     "district"
@@ -54,11 +54,11 @@
       "UZ"
     ]
   },
-  "lang": [
+  "language-codes": [
     "kk"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "KZT"
   ]
 }

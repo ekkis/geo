@@ -27,23 +27,23 @@
     "value": 279034355.10842144,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "686",
+  "phone-code": "686",
   "division-levels": [
     "island group",
     "island"
   ],
-  "lang": [
+  "language-codes": [
     "ct",
     "ky"
   ],
-  "regions": [
+  "region-codes": [
     "POL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "AUD"
   ]
 }

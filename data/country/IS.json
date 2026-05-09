@@ -4,7 +4,7 @@
     "official": "Iceland",
     "is": "Ísland"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -27,27 +27,27 @@
     "value": 31020032583.197216,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###",
     "regex": "^(\\d{3})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "354",
+  "phone-code": "354",
   "division-levels": [
     "region",
     "municipality"
   ],
-  "lang": [
+  "language-codes": [
     "is"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "ISK"
   ]
 }

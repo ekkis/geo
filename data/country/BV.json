@@ -3,7 +3,7 @@
     "common": "Bouvet Island",
     "official": "Bouvet Island"
   },
-  "regions": [
+  "region-codes": [
     "ANT"
   ],
   "capital": "",
@@ -21,9 +21,9 @@
   "demonym": {
     "en": "Bouvet Islandese"
   },
-  "phone_code": "",
-  "continent": "AN",
-  "currencies": [
+  "phone-code": "",
+  "continent-code": "AN",
+  "currency-codes": [
     "NOK"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Latvia",
     "official": "Republic of Latvia"
   },
-  "regions": [
+  "region-codes": [
     "BAL"
   ],
   "capital": {
@@ -25,11 +25,11 @@
     "value": 43627078481.28705,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "LV-####",
     "regex": "^(?:LV)*(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -37,7 +37,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "371",
+  "phone-code": "371",
   "division-levels": [
     "region",
     "municipality"
@@ -54,11 +54,11 @@
       "LT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "lva"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

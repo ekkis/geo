@@ -4,7 +4,7 @@
     "official": "Republic of Yemen",
     "ar": "اليمن"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -28,11 +28,11 @@
     "value": 21606160663.03177,
     "year": 2018
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "967",
+  "phone-code": "967",
   "division-levels": [
     "governorate",
     "district"
@@ -45,12 +45,12 @@
       "SA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar",
     "yd"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "YER"
   ]
 }

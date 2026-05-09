@@ -3,7 +3,7 @@
     "common": "Switzerland",
     "official": "Swiss Confederation"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -25,17 +25,17 @@
     "value": 884940402230.4088,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "41",
+  "phone-code": "41",
   "division-levels": [
     "canton",
     "district",
@@ -54,11 +54,11 @@
       "FR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ce"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "CHF"
   ]
 }

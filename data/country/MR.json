@@ -22,12 +22,12 @@
     "value": 10452577062.75806,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "222",
+  "phone-code": "222",
   "division-levels": [
     "region",
     "department",
@@ -47,14 +47,14 @@
       "SN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mrt"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "MRO"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Cocos (Keeling) Islands",
     "official": "Territory of the Cocos (Keeling) Islands"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Cocos Islander"
   },
-  "phone_code": "61",
-  "lang": [
+  "phone-code": "61",
+  "language-codes": [
     "cck"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "AUD"
   ]
 }

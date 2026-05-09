@@ -22,16 +22,16 @@
     "value": 4597855845.042758,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@###",
     "regex": "^([A-Z]\\d{3})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "268",
+  "phone-code": "268",
   "neighbours": {
     "NE": [
       "MZ"
@@ -40,14 +40,14 @@
       "ZA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "swz"
   ],
-  "regions": [
+  "region-codes": [
     "SAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "SZL"
   ]
 }

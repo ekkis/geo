@@ -22,15 +22,15 @@
     "value": 871000000,
     "year": 2022
   },
-  "phone_code": "+1-684",
-  "lang": [
+  "phone-code": "+1-684",
+  "language-codes": [
     "as"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "USD"
   ]
 }

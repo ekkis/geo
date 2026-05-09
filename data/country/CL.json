@@ -25,18 +25,18 @@
     "value": 335533331669.2191,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#######",
     "regex": "^(\\d{7})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "56",
+  "phone-code": "56",
   "division-levels": [
     "region",
     "province",
@@ -53,14 +53,14 @@
       "AR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "CLP"
   ]
 }

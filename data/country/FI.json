@@ -4,7 +4,7 @@
     "official": "Republic of Finland",
     "fi": "Suomi"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 300187202696.08374,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(?:FI)*(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "358",
+  "phone-code": "358",
   "division-levels": [
     "region",
     "sub-region",
@@ -54,11 +54,11 @@
       "NO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "fi"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

@@ -4,7 +4,7 @@
     "official": "Republic of San Marino",
     "it": "San Marino"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -27,14 +27,14 @@
     "value": 1855382833.1164992,
     "year": 2021
   },
-  "postal_code": {
+  "postal-code": {
     "format": "4789#",
     "regex": "^(4789\\d)$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "378",
+  "phone-code": "378",
   "division-levels": [
     "municipality"
   ],
@@ -43,11 +43,11 @@
       "IT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "it"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

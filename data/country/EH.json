@@ -18,7 +18,7 @@
   "demonym": {
     "en": "Sahrawi"
   },
-  "phone_code": "212",
+  "phone-code": "212",
   "neighbours": {
     "NE": [
       "DZ",
@@ -28,14 +28,14 @@
       "MR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "esh"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "MAD"
   ]
 }

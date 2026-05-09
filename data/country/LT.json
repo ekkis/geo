@@ -3,7 +3,7 @@
     "common": "Lithuania",
     "official": "Republic of Lithuania"
   },
-  "regions": [
+  "region-codes": [
     "BAL"
   ],
   "capital": {
@@ -25,11 +25,11 @@
     "value": 77836396962.77196,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "LT-#####",
     "regex": "^(?:LT)*(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -37,7 +37,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "370",
+  "phone-code": "370",
   "division-levels": [
     "county",
     "municipality"
@@ -54,11 +54,11 @@
       "PL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ltu"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "LTL"
   ]
 }

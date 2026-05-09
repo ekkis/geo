@@ -3,7 +3,7 @@
     "common": "Antigua and Barbuda",
     "official": "Antigua and Barbuda"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,17 +25,17 @@
     "value": 2033085185.185185,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-268",
-  "lang": [
+  "phone-code": "+1-268",
+  "language-codes": [
     "atg"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "XCD"
   ]
 }

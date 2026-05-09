@@ -21,12 +21,12 @@
     "value": 49272882213.623,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "256",
+  "phone-code": "256",
   "division-levels": [
     "region",
     "district",
@@ -50,14 +50,14 @@
       "KE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "UGX"
   ]
 }

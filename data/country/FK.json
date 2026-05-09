@@ -18,15 +18,15 @@
   "demonym": {
     "en": "Falkland Islander"
   },
-  "phone_code": "500",
-  "lang": [
+  "phone-code": "500",
+  "language-codes": [
     "flk"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "FKP"
   ]
 }

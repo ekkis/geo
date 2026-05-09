@@ -4,7 +4,7 @@
     "official": "Republic of Indonesia",
     "id": "Indonesia"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -29,18 +29,18 @@
     "value": 1371171152331.155,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "BIS",
     "G20",
     "WTO",
     "UN"
   ],
-  "phone_code": "62",
+  "phone-code": "62",
   "division-levels": [
     "province",
     "regency/city",
@@ -56,11 +56,11 @@
       "TL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "id"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "IDR"
   ]
 }

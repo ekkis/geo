@@ -4,7 +4,7 @@
     "official": "Republic of El Salvador",
     "sl": "El Salvador"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 34015620000.000004,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "CP ####",
     "regex": "^(?:CP)*(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "503",
+  "phone-code": "503",
   "division-levels": [
     "department",
     "municipality"
@@ -49,11 +49,11 @@
       "GT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "sl"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

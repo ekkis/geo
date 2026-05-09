@@ -22,21 +22,21 @@
     "value": 2141450171.1393213,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "248",
+  "phone-code": "248",
   "division-levels": [
     "district"
   ],
-  "lang": [
+  "language-codes": [
     "syc"
   ],
-  "regions": [],
-  "continent": "AF",
-  "currencies": [
+  "region-codes": [],
+  "continent-code": "AF",
+  "currency-codes": [
     "SCR"
   ]
 }

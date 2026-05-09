@@ -3,7 +3,7 @@
     "common": "Kosovo",
     "official": "Republic of Kosovo"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -14,12 +14,12 @@
   "demonym": {
     "en": "Kosovar"
   },
-  "phone_code": "",
-  "lang": [
+  "phone-code": "",
+  "language-codes": [
     "xkk"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

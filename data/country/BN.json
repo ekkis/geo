@@ -4,7 +4,7 @@
     "official": "Nation of Brunei, Abode of Peace",
     "ms": "Brunei"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -27,25 +27,25 @@
     "value": 15128292953.509842,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@@####",
     "regex": "^([A-Z]{2}\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "WTO"
   ],
-  "phone_code": "673",
+  "phone-code": "673",
   "neighbours": {
     "SW": [
       "MY"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ms"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "BND"
   ]
 }

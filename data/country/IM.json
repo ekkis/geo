@@ -3,7 +3,7 @@
     "common": "Isle of Man",
     "official": "Isle of Man"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -25,16 +25,16 @@
     "value": 7931193222.064053,
     "year": 2021
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
     "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
   },
-  "phone_code": "+44-1624",
-  "lang": [
+  "phone-code": "+44-1624",
+  "language-codes": [
     "imn"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "GBP"
   ]
 }

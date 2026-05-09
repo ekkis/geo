@@ -24,16 +24,16 @@
     "value": 77240831587.16696,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "598",
+  "phone-code": "598",
   "division-levels": [
     "department",
     "municipality"
@@ -46,14 +46,14 @@
       "AR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "UYU"
   ]
 }

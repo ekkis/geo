@@ -3,7 +3,7 @@
     "common": "Greece",
     "official": "Hellenic Republic"
   },
-  "regions": [
+  "region-codes": [
     "SEU"
   ],
   "capital": {
@@ -25,11 +25,11 @@
     "value": 238206312632.52774,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "### ##",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -37,7 +37,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "30",
+  "phone-code": "30",
   "division-levels": [
     "region",
     "regional unit",
@@ -57,11 +57,11 @@
       "TR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "grc"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

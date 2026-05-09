@@ -3,7 +3,7 @@
     "common": "Sri Lanka",
     "official": "Democratic Socialist Republic of Sri Lanka"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -25,26 +25,26 @@
     "value": 84356860421.12996,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "94",
+  "phone-code": "94",
   "division-levels": [
     "province",
     "district",
     "divisional secretariat",
     "grama niladhari division"
   ],
-  "lang": [
+  "language-codes": [
     "lka"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "LKR"
   ]
 }

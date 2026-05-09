@@ -4,7 +4,7 @@
     "official": "Republic of Honduras",
     "es": "Honduras"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 34400509852.04365,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@@####",
     "regex": "^([A-Z]{2}\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "504",
+  "phone-code": "504",
   "division-levels": [
     "department",
     "municipality"
@@ -52,11 +52,11 @@
       "SV"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "HNL"
   ]
 }

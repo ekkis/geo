@@ -4,7 +4,7 @@
     "official": "Republic of Tajikistan",
     "tg": "Точикистон"
   },
-  "regions": [
+  "region-codes": [
     "CAS"
   ],
   "capital": {
@@ -27,15 +27,15 @@
     "value": 12060602008.847782,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "992",
+  "phone-code": "992",
   "division-levels": [
     "region/autonomous region",
     "district",
@@ -58,11 +58,11 @@
       "AF"
     ]
   },
-  "lang": [
+  "language-codes": [
     "tg"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "TJS"
   ]
 }

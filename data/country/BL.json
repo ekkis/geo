@@ -3,7 +3,7 @@
     "common": "Saint Barthélemy",
     "official": "Collectivity of Saint Barthélemy"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,15 +21,15 @@
   "demonym": {
     "en": "Saint Barthélemy Islander"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "### ###"
   },
-  "phone_code": "590",
-  "lang": [
+  "phone-code": "590",
+  "language-codes": [
     "blm"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "EUR"
   ]
 }

@@ -22,11 +22,11 @@
     "value": 2065001626.0162601,
     "year": 2011
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "291",
+  "phone-code": "291",
   "neighbours": {
     "SE": [
       "DJ"
@@ -38,14 +38,14 @@
       "SD"
     ]
   },
-  "lang": [
+  "language-codes": [
     "eri"
   ],
-  "regions": [
+  "region-codes": [
     "EAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "ERN"
   ]
 }

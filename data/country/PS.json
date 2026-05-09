@@ -4,7 +4,7 @@
     "official": "State of Palestine",
     "ar": "فلسطين"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -27,7 +27,7 @@
     "value": 17396300000,
     "year": 2023
   },
-  "phone_code": "970",
+  "phone-code": "970",
   "neighbours": {
     "SE": [
       "JO"
@@ -37,11 +37,11 @@
       "EG"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "ILS"
   ]
 }

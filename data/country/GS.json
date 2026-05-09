@@ -3,7 +3,7 @@
     "common": "South Georgia",
     "official": "South Georgia and the South Sandwich Islands"
   },
-  "regions": [
+  "region-codes": [
     "ANT"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "South Georgian South Sandwich Islander"
   },
-  "phone_code": "",
-  "lang": [
+  "phone-code": "",
+  "language-codes": [
     "sgs"
   ],
-  "continent": "AN",
-  "currencies": [
+  "continent-code": "AN",
+  "currency-codes": [
     "GBP"
   ]
 }

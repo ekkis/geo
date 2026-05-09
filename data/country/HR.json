@@ -4,7 +4,7 @@
     "official": "Republic of Croatia",
     "hr": "Hrvatska"
   },
-  "regions": [
+  "region-codes": [
     "BKS"
   ],
   "capital": {
@@ -27,18 +27,18 @@
     "value": 82688842717.3926,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "HR-#####",
     "regex": "^(?:HR)*(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "BIS",
     "WTO",
     "EU",
     "UN"
   ],
-  "phone_code": "385",
+  "phone-code": "385",
   "division-levels": [
     "county",
     "municipality"
@@ -56,11 +56,11 @@
       "RS"
     ]
   },
-  "lang": [
+  "language-codes": [
     "hr"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "HRK"
   ]
 }

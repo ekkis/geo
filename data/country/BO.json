@@ -24,11 +24,11 @@
     "value": 45849832906.413895,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS"
   ],
-  "phone_code": "591",
+  "phone-code": "591",
   "division-levels": [
     "department",
     "province",
@@ -49,14 +49,14 @@
       "CL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "BOB"
   ]
 }

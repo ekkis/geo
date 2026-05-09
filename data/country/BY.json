@@ -4,7 +4,7 @@
     "official": "Republic of Belarus",
     "be": "Беларусь"
   },
-  "regions": [
+  "region-codes": [
     "EEU"
   ],
   "capital": {
@@ -27,14 +27,14 @@
     "value": 71857382745.6066,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "375",
+  "phone-code": "375",
   "division-levels": [
     "region",
     "district",
@@ -55,11 +55,11 @@
       "PL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "be"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "BYN"
   ]
 }

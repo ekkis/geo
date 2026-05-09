@@ -25,30 +25,30 @@
     "value": 253465703232.14594,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "64",
+  "phone-code": "64",
   "division-levels": [
     "region",
     "territorial authority",
     "ward"
   ],
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "NZD"
   ]
 }

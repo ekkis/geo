@@ -22,22 +22,22 @@
     "value": 934100336.2756538,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "685",
+  "phone-code": "685",
   "division-levels": [
     "district"
   ],
-  "lang": [
+  "language-codes": [
     "wsm"
   ],
-  "regions": [
+  "region-codes": [
     "POL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "WST"
   ]
 }

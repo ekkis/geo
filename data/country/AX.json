@@ -3,7 +3,7 @@
     "common": "Åland Islands",
     "official": "Åland Islands"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Ålandish"
   },
-  "phone_code": "+358-18",
-  "lang": [
+  "phone-code": "+358-18",
+  "language-codes": [
     "ala"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

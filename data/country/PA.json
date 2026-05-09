@@ -4,7 +4,7 @@
     "official": "Republic of Panama",
     "pa": "ਪਨਾਮਾ"
   },
-  "regions": [
+  "region-codes": [
     "CAM"
   ],
   "capital": {
@@ -28,12 +28,12 @@
     "value": 83382400000,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "507",
+  "phone-code": "507",
   "division-levels": [
     "province/indigenous region",
     "district",
@@ -47,12 +47,12 @@
       "CO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "pa",
     "pz"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "PAB"
   ]
 }

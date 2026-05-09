@@ -21,24 +21,24 @@
     "value": 1631286701.1151562,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "677",
+  "phone-code": "677",
   "division-levels": [
     "province",
     "district",
     "ward"
   ],
-  "lang": [
+  "language-codes": [
     "en"
   ],
-  "regions": [
+  "region-codes": [
     "MEL"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "SBD"
   ]
 }

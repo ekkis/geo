@@ -22,12 +22,12 @@
     "value": 2339904156.792144,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "220",
+  "phone-code": "220",
   "division-levels": [
     "division",
     "local government area"
@@ -37,14 +37,14 @@
       "SN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "gmb"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "GMD"
   ]
 }

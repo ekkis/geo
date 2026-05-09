@@ -3,7 +3,7 @@
     "common": "Slovenia",
     "official": "Republic of Slovenia"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -25,11 +25,11 @@
     "value": 68216781410.52277,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "SI- ####",
     "regex": "^(?:SI)*(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -37,7 +37,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "386",
+  "phone-code": "386",
   "division-levels": [
     "statistical region",
     "municipality"
@@ -56,11 +56,11 @@
       "IT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "svn"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

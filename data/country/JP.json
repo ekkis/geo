@@ -4,7 +4,7 @@
     "official": "Japan",
     "ja": "日本"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -27,28 +27,28 @@
     "value": 4212945159781.403,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "###-####",
     "regex": "^(\\d{7})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "G20",
     "WTO",
     "UN"
   ],
-  "phone_code": "81",
+  "phone-code": "81",
   "division-levels": [
     "prefecture",
     "city",
     "ward, town, village"
   ],
-  "lang": [
+  "language-codes": [
     "ja"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "JPY"
   ]
 }

@@ -24,11 +24,11 @@
     "value": 50491722445.7773,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "AU",
     "UN"
   ],
-  "phone_code": "218",
+  "phone-code": "218",
   "division-levels": [
     "governorate",
     "district"
@@ -49,14 +49,14 @@
       "NE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar"
   ],
-  "regions": [
+  "region-codes": [
     "NAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "LYD"
   ]
 }

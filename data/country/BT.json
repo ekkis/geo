@@ -3,7 +3,7 @@
     "common": "Bhutan",
     "official": "Kingdom of Bhutan"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -25,10 +25,10 @@
     "value": 2898227713.223154,
     "year": 2022
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "975",
+  "phone-code": "975",
   "division-levels": [
     "district",
     "block"
@@ -44,11 +44,11 @@
       "CN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "btn"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "BTN"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Caribbean Netherlands",
     "official": "Bonaire, Sint Eustatius and Saba"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": "",
@@ -21,9 +21,9 @@
   "demonym": {
     "en": "Dutch"
   },
-  "phone_code": "599",
-  "continent": "NA",
-  "currencies": [
+  "phone-code": "599",
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

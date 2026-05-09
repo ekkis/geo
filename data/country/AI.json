@@ -3,7 +3,7 @@
     "common": "Anguilla",
     "official": "Anguilla"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Anguillian"
   },
-  "phone_code": "+1-264",
-  "lang": [
+  "phone-code": "+1-264",
+  "language-codes": [
     "aia"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "XCD"
   ]
 }

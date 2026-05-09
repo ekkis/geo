@@ -3,7 +3,7 @@
     "common": "Saint Kitts and Nevis",
     "official": "Federation of Saint Christopher and Nevis"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,20 +25,20 @@
     "value": 1077033111.111111,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "+1-869",
+  "phone-code": "+1-869",
   "division-levels": [
     "parish"
   ],
-  "lang": [
+  "language-codes": [
     "kna"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "XCD"
   ]
 }

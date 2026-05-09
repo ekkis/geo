@@ -3,7 +3,7 @@
     "common": "Czechia",
     "official": "Czech Republic"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -25,15 +25,15 @@
     "value": 330858339871.6861,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "### ##",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "EU",
     "UN"
   ],
-  "phone_code": "420",
+  "phone-code": "420",
   "division-levels": [
     "region",
     "district"
@@ -52,11 +52,11 @@
       "AT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "cze"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "CZK"
   ]
 }

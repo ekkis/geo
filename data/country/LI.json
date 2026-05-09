@@ -3,7 +3,7 @@
     "common": "Liechtenstein",
     "official": "Principality of Liechtenstein"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -25,15 +25,15 @@
     "value": 7364654515.139836,
     "year": 2022
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "UN"
   ],
-  "phone_code": "423",
+  "phone-code": "423",
   "division-levels": [
     "municipality"
   ],
@@ -45,11 +45,11 @@
       "CH"
     ]
   },
-  "lang": [
+  "language-codes": [
     "lie"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "CHF"
   ]
 }

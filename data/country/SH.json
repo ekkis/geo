@@ -18,19 +18,19 @@
   "demonym": {
     "en": "Saint Helenian"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "STHL 1ZZ",
     "regex": "^(STHL1ZZ)$"
   },
-  "phone_code": "290",
-  "lang": [
+  "phone-code": "290",
+  "language-codes": [
     "shn"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "SHP"
   ]
 }

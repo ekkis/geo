@@ -3,7 +3,7 @@
     "common": "Turks and Caicos Islands",
     "official": "Turks and Caicos Islands"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,16 +25,16 @@
     "value": 1402054390.94734,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "TKCA 1ZZ",
     "regex": "^(TKCA 1ZZ)$"
   },
-  "phone_code": "+1-649",
-  "lang": [
+  "phone-code": "+1-649",
+  "language-codes": [
     "tca"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "USD"
   ]
 }

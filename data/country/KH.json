@@ -4,7 +4,7 @@
     "official": "Kingdom of Cambodia",
     "km": "កម្ពុជា។"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 31772759998.85713,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "WTO",
     "UN"
   ],
-  "phone_code": "855",
+  "phone-code": "855",
   "division-levels": [
     "province",
     "district",
@@ -53,11 +53,11 @@
       "LA"
     ]
   },
-  "lang": [
+  "language-codes": [
     "km"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "KHR"
   ]
 }

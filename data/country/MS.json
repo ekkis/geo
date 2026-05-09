@@ -3,7 +3,7 @@
     "common": "Montserrat",
     "official": "Montserrat"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Montserratian"
   },
-  "phone_code": "+1-664",
-  "lang": [
+  "phone-code": "+1-664",
+  "language-codes": [
     "msr"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "XCD"
   ]
 }

@@ -22,12 +22,12 @@
     "value": 16786302158.273382,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "592",
+  "phone-code": "592",
   "division-levels": [
     "region",
     "neighborhood council"
@@ -41,14 +41,14 @@
       "SR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "guy"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "GYD"
   ]
 }

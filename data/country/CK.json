@@ -18,15 +18,15 @@
   "demonym": {
     "en": "Cook Islander"
   },
-  "phone_code": "682",
-  "lang": [
+  "phone-code": "682",
+  "language-codes": [
     "cok"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "NZD"
   ]
 }

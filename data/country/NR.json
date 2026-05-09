@@ -22,21 +22,21 @@
     "value": 154127798.19354144,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "674",
+  "phone-code": "674",
   "division-levels": [
     "district"
   ],
-  "lang": [
+  "language-codes": [
     "nru"
   ],
-  "regions": [
+  "region-codes": [
     "OC"
   ],
-  "continent": "OC",
-  "currencies": [
+  "continent-code": "OC",
+  "currency-codes": [
     "AUD"
   ]
 }

@@ -3,7 +3,7 @@
     "common": "Guadeloupe",
     "official": "Guadeloupe"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -21,16 +21,16 @@
   "demonym": {
     "en": "Guadeloupian"
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^((97|98)\\d{3})$"
   },
-  "phone_code": "590",
-  "lang": [
+  "phone-code": "590",
+  "language-codes": [
     "glp"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "EUR"
   ]
 }

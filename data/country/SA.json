@@ -4,7 +4,7 @@
     "official": "Kingdom of Saudi Arabia",
     "ar": "المملكة العربية السعودية"
   },
-  "regions": [
+  "region-codes": [
     "WAS"
   ],
   "capital": {
@@ -28,17 +28,17 @@
     "value": 1067582933333.3334,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "G20",
     "WTO",
     "UN"
   ],
-  "phone_code": "966",
+  "phone-code": "966",
   "neighbours": {
     "NE": [
       "KW",
@@ -54,12 +54,12 @@
       "YE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ar",
     "nt"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "SAR"
   ]
 }

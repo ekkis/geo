@@ -4,7 +4,7 @@
     "official": "Vatican City State",
     "it": "Città del Vaticano"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -23,18 +23,18 @@
     "en": "Vatican",
     "it": "Vaticano"
   },
-  "phone_code": "379",
+  "phone-code": "379",
   "division-levels": [],
   "neighbours": {
     "NE": [
       "IT"
     ]
   },
-  "lang": [
+  "language-codes": [
     "it"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

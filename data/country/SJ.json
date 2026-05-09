@@ -3,7 +3,7 @@
     "common": "Svalbard and Jan Mayen",
     "official": "Svalbard og Jan Mayen"
   },
-  "regions": [
+  "region-codes": [
     "NOR"
   ],
   "capital": {
@@ -21,12 +21,12 @@
   "demonym": {
     "en": "Norwegian"
   },
-  "phone_code": "47",
-  "lang": [
+  "phone-code": "47",
+  "language-codes": [
     "sjm"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "NOK"
   ]
 }

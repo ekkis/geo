@@ -4,7 +4,7 @@
     "official": "Republic of Estonia",
     "et": "Eesti"
   },
-  "regions": [
+  "region-codes": [
     "BAL"
   ],
   "capital": {
@@ -27,11 +27,11 @@
     "value": 40744848827.95366,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "OECD",
     "BIS",
@@ -39,7 +39,7 @@
     "EU",
     "UN"
   ],
-  "phone_code": "372",
+  "phone-code": "372",
   "division-levels": [
     "county",
     "municipality"
@@ -52,11 +52,11 @@
       "LV"
     ]
   },
-  "lang": [
+  "language-codes": [
     "et"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

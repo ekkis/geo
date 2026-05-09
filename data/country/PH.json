@@ -4,7 +4,7 @@
     "official": "Republic of the Philippines",
     "tl": "Pilipinas"
   },
-  "regions": [
+  "region-codes": [
     "SEA"
   ],
   "capital": {
@@ -27,28 +27,28 @@
     "value": 437146372729.94244,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "ASEAN",
     "BIS",
     "WTO",
     "UN"
   ],
-  "phone_code": "63",
+  "phone-code": "63",
   "division-levels": [
     "region",
     "province/city",
     "municipality/city",
     "barangay"
   ],
-  "lang": [
+  "language-codes": [
     "tl"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "PHP"
   ]
 }

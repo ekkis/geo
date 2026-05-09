@@ -3,7 +3,7 @@
     "common": "Hong Kong",
     "official": "Hong Kong Special Administrative Region of the People's Republic of China"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -25,20 +25,20 @@
     "value": 382054574298.52905,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS"
   ],
-  "phone_code": "852",
+  "phone-code": "852",
   "neighbours": {
     "NW": [
       "CN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "zh"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "HKD"
   ]
 }

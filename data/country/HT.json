@@ -3,7 +3,7 @@
     "common": "Haiti",
     "official": "Republic of Haiti"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,16 +25,16 @@
     "value": 19850829757.747147,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "HT####",
     "regex": "^(?:HT)*(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "509",
+  "phone-code": "509",
   "division-levels": [
     "department",
     "arrondissement",
@@ -45,11 +45,11 @@
       "DO"
     ]
   },
-  "lang": [
+  "language-codes": [
     "hti"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "HTG"
   ]
 }

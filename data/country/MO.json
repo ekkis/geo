@@ -3,7 +3,7 @@
     "common": "Macau",
     "official": "Macao Special Administrative Region of the People's Republic of China"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -25,17 +25,17 @@
     "value": 47061843715.85648,
     "year": 2023
   },
-  "phone_code": "853",
+  "phone-code": "853",
   "neighbours": {
     "NW": [
       "CN"
     ]
   },
-  "lang": [
+  "language-codes": [
     "zh"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "MOP"
   ]
 }

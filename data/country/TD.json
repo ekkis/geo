@@ -22,12 +22,12 @@
     "value": 13149325358.73826,
     "year": 2023
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU",
     "UN"
   ],
-  "phone_code": "235",
+  "phone-code": "235",
   "division-levels": [
     "region",
     "department",
@@ -49,12 +49,12 @@
       "SD"
     ]
   },
-  "lang": [
+  "language-codes": [
     "tcd"
   ],
-  "regions": [],
-  "continent": "AF",
-  "currencies": [
+  "region-codes": [],
+  "continent-code": "AF",
+  "currency-codes": [
     "XAF"
   ]
 }

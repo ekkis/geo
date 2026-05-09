@@ -4,7 +4,7 @@
     "official": "Republic of Azerbaijan",
     "az": "Azərbaycan"
   },
-  "regions": [
+  "region-codes": [
     "CAUC"
   ],
   "capital": {
@@ -27,14 +27,14 @@
     "value": 72356176470.58824,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "AZ ####",
     "regex": "^(?:AZ)*(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "994",
+  "phone-code": "994",
   "division-levels": [
     "economic region",
     "district",
@@ -55,11 +55,11 @@
       "TR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "az"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "AZN"
   ]
 }

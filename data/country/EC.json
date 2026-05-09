@@ -25,16 +25,16 @@
     "value": 118844826000,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@####@",
     "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "OAS",
     "UN"
   ],
-  "phone_code": "593",
+  "phone-code": "593",
   "division-levels": [
     "province",
     "canton",
@@ -48,14 +48,14 @@
       "PE"
     ]
   },
-  "lang": [
+  "language-codes": [
     "es"
   ],
-  "regions": [
+  "region-codes": [
     "SAM"
   ],
-  "continent": "SA",
-  "currencies": [
+  "continent-code": "SA",
+  "currency-codes": [
     "USD"
   ]
 }

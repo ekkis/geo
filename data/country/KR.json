@@ -4,7 +4,7 @@
     "official": "Republic of Korea",
     "ko": "대한민국"
   },
-  "regions": [
+  "region-codes": [
     "EAS"
   ],
   "capital": {
@@ -27,16 +27,16 @@
     "value": 1712792854202.3687,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "SEOUL ###-###",
     "regex": "^(?:SEOUL)*(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "OECD",
     "BIS",
     "G20"
   ],
-  "phone_code": "82",
+  "phone-code": "82",
   "division-levels": [
     "province/metropolitan city/special city",
     "city/county/district"
@@ -46,11 +46,11 @@
       "KP"
     ]
   },
-  "lang": [
+  "language-codes": [
     "ko"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "KRW"
   ]
 }

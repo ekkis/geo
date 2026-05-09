@@ -3,7 +3,7 @@
     "common": "Monaco",
     "official": "Principality of Monaco"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -25,14 +25,14 @@
     "value": 8784002931.686646,
     "year": 2022
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "UN"
   ],
-  "phone_code": "377",
+  "phone-code": "377",
   "division-levels": [
     "ward"
   ],
@@ -41,11 +41,11 @@
       "FR"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mco"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

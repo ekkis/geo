@@ -3,7 +3,7 @@
     "common": "Montenegro",
     "official": "Montenegro"
   },
-  "regions": [
+  "region-codes": [
     "SEU"
   ],
   "capital": {
@@ -25,16 +25,16 @@
     "value": 7404541964.5077915,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "#####",
     "regex": "^(\\d{5})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "NATO",
     "WTO",
     "UN"
   ],
-  "phone_code": "382",
+  "phone-code": "382",
   "division-levels": [
     "municipality"
   ],
@@ -51,11 +51,11 @@
       "AL"
     ]
   },
-  "lang": [
+  "language-codes": [
     "mne"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "EUR"
   ]
 }

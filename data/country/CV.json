@@ -22,26 +22,26 @@
     "value": 2587252076.305599,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "####",
     "regex": "^(\\d{4})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "WTO",
     "AU"
   ],
-  "phone_code": "238",
+  "phone-code": "238",
   "division-levels": [
     "municipality"
   ],
-  "lang": [
+  "language-codes": [
     "cpv"
   ],
-  "regions": [
+  "region-codes": [
     "WAF"
   ],
-  "continent": "AF",
-  "currencies": [
+  "continent-code": "AF",
+  "currency-codes": [
     "CVE"
   ]
 }

@@ -4,7 +4,7 @@
     "official": "Republic of India",
     "hi": "भारत"
   },
-  "regions": [
+  "region-codes": [
     "SAS"
   ],
   "capital": {
@@ -27,17 +27,17 @@
     "value": 3549918918777.5317,
     "year": 2023
   },
-  "postal_code": {
+  "postal-code": {
     "format": "######",
     "regex": "^(\\d{6})$"
   },
-  "organisations": [
+  "organisation-codes": [
     "BIS",
     "G20",
     "WTO",
     "UN"
   ],
-  "phone_code": "91",
+  "phone-code": "91",
   "division-levels": [
     "state",
     "union territory",
@@ -60,11 +60,11 @@
       "LK"
     ]
   },
-  "lang": [
+  "language-codes": [
     "hi"
   ],
-  "continent": "AS",
-  "currencies": [
+  "continent-code": "AS",
+  "currency-codes": [
     "INR"
   ]
 }

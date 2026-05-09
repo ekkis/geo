@@ -3,7 +3,7 @@
     "common": "Bermuda",
     "official": "Bermuda"
   },
-  "regions": [
+  "region-codes": [
     "CAR"
   ],
   "capital": {
@@ -25,16 +25,16 @@
     "value": 7827980000,
     "year": 2022
   },
-  "postal_code": {
+  "postal-code": {
     "format": "@@ ##",
     "regex": "^([A-Z]{2}\\d{2})$"
   },
-  "phone_code": "+1-441",
-  "lang": [
+  "phone-code": "+1-441",
+  "language-codes": [
     "bmu"
   ],
-  "continent": "NA",
-  "currencies": [
+  "continent-code": "NA",
+  "currency-codes": [
     "BMD"
   ]
 }

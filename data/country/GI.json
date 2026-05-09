@@ -3,7 +3,7 @@
     "common": "Gibraltar",
     "official": "Gibraltar"
   },
-  "regions": [
+  "region-codes": [
     "CEU"
   ],
   "capital": {
@@ -21,17 +21,17 @@
   "demonym": {
     "en": "Gibraltar"
   },
-  "phone_code": "350",
+  "phone-code": "350",
   "neighbours": {
     "NE": [
       "ES"
     ]
   },
-  "lang": [
+  "language-codes": [
     "gib"
   ],
-  "continent": "EU",
-  "currencies": [
+  "continent-code": "EU",
+  "currency-codes": [
     "GIP"
   ]
 }
