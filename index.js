@@ -49,15 +49,10 @@ class Entity {
             ret.concat(criteria.map(k => this.data[k] || null).filter(Boolean))
         } else {
             criteria = pathify(criteria)
-            for (const v of Object.values(this.data)) {
-                var m = 0
-                for (var i = 0; i < criteria.length; i++) {
-                    if (pathChk(v, criteria[i])) m++
-                }
-                if (m === criteria.length) {
-                    ret.push(v)
-                }
-            }
+            ret = Object.values(this.data).filter(v => {
+                var m = criteria.filter(p => pathChk(v, p))
+                return m.length == criteria.length
+            })
         }
         if (opts.hydrate) {
             for (var i = 0; i < ret.length; i++) {
