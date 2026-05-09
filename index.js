@@ -35,37 +35,40 @@ class Entity {
     list() {
         return Object.values(this.data);
     }
-    find(criteria) {
+    find(criteria, opts = {}) {
         // no criteria provided
         if (!criteria) throw new Error('Criteria is required for find method')
         
-        // user passed a key
-        if (typeof criteria === 'string') {
-            return this.data[criteria] || null;
-        }
-        // or an array of keys
-        if (Array.isArray(criteria)) {
-            return criteria.map(k => this.data[k] || null).filter(Boolean);
-        }
-        criteria = pathify(criteria)
-
         var ret = []
-        for (const v of Object.values(this.data)) {
-            var m = 0
-            for (var i = 0; i < criteria.length; i++) {
-                if (pathChk(v, criteria[i])) m++
+
+        if (typeof criteria === 'string') {
+            // user passed a key
+            ret.push(this.data[criteria])
+        } else if (Array.isArray(criteria)) {
+            // or an array of keys
+            ret.concat(criteria.map(k => this.data[k] || null).filter(Boolean))
+        } else {
+            criteria = pathify(criteria)
+            for (const v of Object.values(this.data)) {
+                var m = 0
+                for (var i = 0; i < criteria.length; i++) {
+                    if (pathChk(v, criteria[i])) m++
+                }
+                if (m === criteria.length) {
+                    ret.push(v)
+                }
             }
-            if (m === criteria.length) {
-                ret.push(v)
+        }
+        if (opts.hydrate) {
+            for (var i = 0; i < ret.length; i++) {
+                for (const k of Object.keys(ret[i]))
+                    if (k in data) ret[i][k] = data[k][ret[i][k]]
             }
+        }
+        if (opts.singleton) {
+            if (ret.length == 1) ret = ret[0]
         }
         return ret
-    }
-    hydrate(code) {
-        var o = this.data[code]
-        for (const k of Object.keys(o)) {
-            if (k in this.data) o[k] = this.data[o[k]]
-        }
     }
 }
 
