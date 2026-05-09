@@ -3,948 +3,1120 @@
     "symbol": "$",
     "decimal": "2",
     "name": "United States dollar",
-    "code": "USD"
+    "code": "USD",
+    "status": "active"
   },
   "CAD": {
     "symbol": "CA$",
     "decimal": "2",
     "name": "Canadian dollar",
-    "code": "CAD"
+    "code": "CAD",
+    "status": "active"
   },
   "EUR": {
     "symbol": "€",
     "decimal": "2",
     "name": "Euro",
-    "code": "EUR"
+    "code": "EUR",
+    "status": "active"
   },
   "AED": {
     "symbol": "AED",
     "decimal": "2",
     "name": "United Arab Emirates dirham",
-    "code": "AED"
+    "code": "AED",
+    "status": "active"
   },
   "AFN": {
     "symbol": "Af",
     "decimal": "0",
     "name": "Afghan afghani",
-    "code": "AFN"
+    "code": "AFN",
+    "status": "active"
   },
   "ALL": {
     "symbol": "ALL",
     "decimal": "0",
-    "name": "",
-    "code": "ALL"
+    "name": "Albanian lek",
+    "code": "ALL",
+    "status": "active"
   },
   "AMD": {
     "symbol": "AMD",
     "decimal": "0",
-    "name": "",
-    "code": "AMD"
+    "name": "Armenian dram",
+    "code": "AMD",
+    "status": "active"
   },
   "ARS": {
     "symbol": "AR$",
     "decimal": "2",
     "name": "Argentine peso",
-    "code": "ARS"
+    "code": "ARS",
+    "status": "active"
   },
   "AUD": {
     "symbol": "AU$",
     "decimal": "2",
     "name": "Australian dollar",
-    "code": "AUD"
+    "code": "AUD",
+    "status": "active"
   },
   "AZN": {
     "symbol": "man.",
     "decimal": "2",
-    "name": "",
-    "code": "AZN"
+    "name": "Azerbaijani manat",
+    "code": "AZN",
+    "status": "active"
   },
   "BAM": {
     "symbol": "KM",
     "decimal": "2",
-    "name": "",
-    "code": "BAM"
+    "name": "Bosnia and Herzegovina convertible mark",
+    "code": "BAM",
+    "status": "active"
   },
   "BDT": {
     "symbol": "Tk",
     "decimal": "2",
     "name": "Bangladeshi taka",
-    "code": "BDT"
+    "code": "BDT",
+    "status": "active"
   },
   "BGN": {
     "symbol": "BGN",
     "decimal": "2",
-    "name": "",
-    "code": "BGN"
+    "name": "Bulgarian lev",
+    "code": "BGN",
+    "status": "active"
   },
   "BHD": {
     "symbol": "BD",
     "decimal": "3",
     "name": "Bahraini dinar",
-    "code": "BHD"
+    "code": "BHD",
+    "status": "active"
   },
   "BIF": {
     "symbol": "FBu",
     "decimal": "0",
-    "name": "",
-    "code": "BIF"
+    "name": "Burundian franc",
+    "code": "BIF",
+    "status": "active"
   },
   "BND": {
     "symbol": "BN$",
     "decimal": "2",
-    "name": "",
-    "code": "BND"
+    "name": "Brunei dollar",
+    "code": "BND",
+    "status": "active"
   },
   "BOB": {
     "symbol": "Bs",
     "decimal": "2",
     "name": "Bolivian boliviano",
-    "code": "BOB"
+    "code": "BOB",
+    "status": "active"
   },
   "BRL": {
     "symbol": "R$",
     "decimal": "2",
     "name": "Brazilian real",
-    "code": "BRL"
+    "code": "BRL",
+    "status": "active"
   },
   "BWP": {
     "symbol": "BWP",
     "decimal": "2",
     "name": "Botswana pula",
-    "code": "BWP"
+    "code": "BWP",
+    "status": "active"
   },
   "BYN": {
     "symbol": "BYN",
     "decimal": "2",
-    "name": "",
-    "code": "BYN"
+    "name": "Belarusian ruble",
+    "code": "BYN",
+    "status": "active"
   },
   "BZD": {
     "symbol": "BZ$",
     "decimal": "2",
     "name": "Belize dollar",
-    "code": "BZD"
+    "code": "BZD",
+    "status": "active"
   },
   "CDF": {
     "symbol": "CDF",
     "decimal": "2",
     "name": "Congolese franc",
-    "code": "CDF"
+    "code": "CDF",
+    "status": "active"
   },
   "CHF": {
     "symbol": "CHF",
     "decimal": "2",
     "name": "Swiss franc",
-    "code": "CHF"
+    "code": "CHF",
+    "status": "active"
   },
   "CLP": {
     "symbol": "CL$",
     "decimal": "0",
     "name": "Chilean peso",
-    "code": "CLP"
+    "code": "CLP",
+    "status": "active"
   },
   "CNY": {
     "symbol": "CN¥",
     "decimal": "2",
     "name": "Renminbi",
-    "code": "CNY"
+    "code": "CNY",
+    "status": "active"
   },
   "COP": {
     "symbol": "CO$",
     "decimal": "0",
     "name": "Colombian peso",
-    "code": "COP"
+    "code": "COP",
+    "status": "active"
   },
   "CRC": {
     "symbol": "₡",
     "decimal": "0",
     "name": "Costa Rican colón",
-    "code": "CRC"
+    "code": "CRC",
+    "status": "active"
   },
   "CVE": {
     "symbol": "CV$",
     "decimal": "2",
     "name": "Cape Verdean escudo",
-    "code": "CVE"
+    "code": "CVE",
+    "status": "active"
   },
   "CZK": {
     "symbol": "Kč",
     "decimal": "2",
     "name": "Czech koruna",
-    "code": "CZK"
+    "code": "CZK",
+    "status": "active"
   },
   "DJF": {
     "symbol": "Fdj",
     "decimal": "0",
     "name": "Djiboutian franc",
-    "code": "DJF"
+    "code": "DJF",
+    "status": "active"
   },
   "DKK": {
     "symbol": "Dkr",
     "decimal": "2",
     "name": "Danish krone",
-    "code": "DKK"
+    "code": "DKK",
+    "status": "active"
   },
   "DOP": {
     "symbol": "RD$",
     "decimal": "2",
     "name": "Dominican peso",
-    "code": "DOP"
+    "code": "DOP",
+    "status": "active"
   },
   "DZD": {
     "symbol": "DA",
     "decimal": "2",
     "name": "Algerian dinar",
-    "code": "DZD"
+    "code": "DZD",
+    "status": "active"
   },
   "EEK": {
     "symbol": "Ekr",
     "decimal": "2",
-    "name": "",
-    "code": "EEK"
+    "name": "Estonian kroon",
+    "code": "EEK",
+    "status": "obsolete"
   },
   "EGP": {
     "symbol": "EGP",
     "decimal": "2",
     "name": "Egyptian pound",
-    "code": "EGP"
+    "code": "EGP",
+    "status": "active"
   },
   "ERN": {
     "symbol": "Nfk",
     "decimal": "2",
     "name": "Eritrean nakfa",
-    "code": "ERN"
+    "code": "ERN",
+    "status": "active"
   },
   "ETB": {
     "symbol": "Br",
     "decimal": "2",
     "name": "Ethiopian birr",
-    "code": "ETB"
+    "code": "ETB",
+    "status": "active"
   },
   "GBP": {
     "symbol": "£",
     "decimal": "2",
     "name": "Pound sterling",
-    "code": "GBP"
+    "code": "GBP",
+    "status": "active"
   },
   "GEL": {
     "symbol": "GEL",
     "decimal": "2",
     "name": "Georgian lari",
-    "code": "GEL"
+    "code": "GEL",
+    "status": "active"
   },
   "GHS": {
     "symbol": "GH₵",
     "decimal": "2",
     "name": "Ghanaian cedi",
-    "code": "GHS"
+    "code": "GHS",
+    "status": "active"
   },
   "GNF": {
     "symbol": "FG",
     "decimal": "0",
     "name": "Guinean franc",
-    "code": "GNF"
+    "code": "GNF",
+    "status": "active"
   },
   "GTQ": {
     "symbol": "GTQ",
     "decimal": "2",
     "name": "Guatemalan quetzal",
-    "code": "GTQ"
+    "code": "GTQ",
+    "status": "active"
   },
   "HKD": {
     "symbol": "HK$",
     "decimal": "2",
     "name": "Hong Kong dollar",
-    "code": "HKD"
+    "code": "HKD",
+    "status": "active"
   },
   "HNL": {
     "symbol": "HNL",
     "decimal": "2",
     "name": "Honduran lempira",
-    "code": "HNL"
+    "code": "HNL",
+    "status": "active"
   },
   "HRK": {
     "symbol": "kn",
     "decimal": "2",
     "name": "Croatian kuna",
-    "code": "HRK"
+    "code": "HRK",
+    "status": "active"
   },
   "HUF": {
     "symbol": "Ft",
     "decimal": "0",
     "name": "Hungarian forint",
-    "code": "HUF"
+    "code": "HUF",
+    "status": "active"
   },
   "IDR": {
     "symbol": "Rp",
     "decimal": "0",
     "name": "Indonesian rupiah",
-    "code": "IDR"
+    "code": "IDR",
+    "status": "active"
   },
   "ILS": {
     "symbol": "₪",
     "decimal": "2",
     "name": "Israeli new shekel",
-    "code": "ILS"
+    "code": "ILS",
+    "status": "active"
   },
   "INR": {
     "symbol": "Rs",
     "decimal": "2",
     "name": "Indian rupee",
-    "code": "INR"
+    "code": "INR",
+    "status": "active"
   },
   "IQD": {
     "symbol": "IQD",
     "decimal": "0",
     "name": "Iraqi dinar",
-    "code": "IQD"
+    "code": "IQD",
+    "status": "active"
   },
   "IRR": {
     "symbol": "IRR",
     "decimal": "0",
     "name": "Iranian rial",
-    "code": "IRR"
+    "code": "IRR",
+    "status": "active"
   },
   "ISK": {
     "symbol": "Ikr",
     "decimal": "0",
     "name": "Icelandic króna",
-    "code": "ISK"
+    "code": "ISK",
+    "status": "active"
   },
   "JMD": {
     "symbol": "J$",
     "decimal": "2",
     "name": "Jamaican dollar",
-    "code": "JMD"
+    "code": "JMD",
+    "status": "active"
   },
   "JOD": {
     "symbol": "JD",
     "decimal": "3",
     "name": "Jordanian dinar",
-    "code": "JOD"
+    "code": "JOD",
+    "status": "active"
   },
   "JPY": {
     "symbol": "¥",
     "decimal": "0",
     "name": "Japanese yen",
-    "code": "JPY"
+    "code": "JPY",
+    "status": "active"
   },
   "KES": {
     "symbol": "Ksh",
     "decimal": "2",
     "name": "Kenyan shilling",
-    "code": "KES"
+    "code": "KES",
+    "status": "active"
   },
   "KHR": {
     "symbol": "KHR",
     "decimal": "2",
     "name": "Cambodian riel",
-    "code": "KHR"
+    "code": "KHR",
+    "status": "active"
   },
   "KMF": {
     "symbol": "CF",
     "decimal": "0",
     "name": "Comorian franc",
-    "code": "KMF"
+    "code": "KMF",
+    "status": "active"
   },
   "KRW": {
     "symbol": "₩",
     "decimal": "0",
     "name": "South Korean won",
-    "code": "KRW"
+    "code": "KRW",
+    "status": "active"
   },
   "KWD": {
     "symbol": "KD",
     "decimal": "3",
     "name": "Kuwaiti dinar",
-    "code": "KWD"
+    "code": "KWD",
+    "status": "active"
   },
   "KZT": {
     "symbol": "KZT",
     "decimal": "2",
     "name": "Kazakhstani tenge",
-    "code": "KZT"
+    "code": "KZT",
+    "status": "active"
   },
   "LBP": {
     "symbol": "LB£",
     "decimal": "0",
     "name": "Lebanese pound",
-    "code": "LBP"
+    "code": "LBP",
+    "status": "active"
   },
   "LKR": {
     "symbol": "SLRs",
     "decimal": "2",
     "name": "Sri Lankan rupee",
-    "code": "LKR"
+    "code": "LKR",
+    "status": "active"
   },
   "LTL": {
     "symbol": "Lt",
     "decimal": "2",
-    "name": "",
-    "code": "LTL"
+    "name": "Lithuanian litas",
+    "code": "LTL",
+    "status": "obsolete"
   },
   "LVL": {
     "symbol": "Ls",
     "decimal": "2",
-    "name": "",
-    "code": "LVL"
+    "name": "Latvian lats",
+    "code": "LVL",
+    "status": "obsolete"
   },
   "LYD": {
     "symbol": "LD",
     "decimal": "3",
     "name": "Libyan dinar",
-    "code": "LYD"
+    "code": "LYD",
+    "status": "active"
   },
   "MAD": {
     "symbol": "MAD",
     "decimal": "2",
     "name": "Moroccan dirham",
-    "code": "MAD"
+    "code": "MAD",
+    "status": "active"
   },
   "MDL": {
     "symbol": "MDL",
     "decimal": "2",
     "name": "Moldovan leu",
-    "code": "MDL"
+    "code": "MDL",
+    "status": "active"
   },
   "MGA": {
     "symbol": "MGA",
     "decimal": "0",
     "name": "Malagasy ariary",
-    "code": "MGA"
+    "code": "MGA",
+    "status": "active"
   },
   "MKD": {
     "symbol": "MKD",
     "decimal": "2",
     "name": "Macedonian denar",
-    "code": "MKD"
+    "code": "MKD",
+    "status": "active"
   },
   "MMK": {
     "symbol": "MMK",
     "decimal": "0",
     "name": "Myanmar kyat",
-    "code": "MMK"
+    "code": "MMK",
+    "status": "active"
   },
   "MOP": {
     "symbol": "MOP$",
     "decimal": "2",
     "name": "Macanese pataca",
-    "code": "MOP"
+    "code": "MOP",
+    "status": "active"
   },
   "MUR": {
     "symbol": "MURs",
     "decimal": "0",
     "name": "Mauritian rupee",
-    "code": "MUR"
+    "code": "MUR",
+    "status": "active"
   },
   "MXN": {
     "symbol": "MX$",
     "decimal": "2",
     "name": "Mexican peso",
-    "code": "MXN"
+    "code": "MXN",
+    "status": "active"
   },
   "MYR": {
     "symbol": "RM",
     "decimal": "2",
     "name": "Malaysian ringgit",
-    "code": "MYR"
+    "code": "MYR",
+    "status": "active"
   },
   "MZN": {
     "symbol": "MTn",
     "decimal": "2",
     "name": "Mozambican metical",
-    "code": "MZN"
+    "code": "MZN",
+    "status": "active"
   },
   "NAD": {
     "symbol": "N$",
     "decimal": "2",
     "name": "Namibian dollar",
-    "code": "NAD"
+    "code": "NAD",
+    "status": "active"
   },
   "NGN": {
     "symbol": "₦",
     "decimal": "2",
     "name": "Nigerian naira",
-    "code": "NGN"
+    "code": "NGN",
+    "status": "active"
   },
   "NIO": {
     "symbol": "C$",
     "decimal": "2",
     "name": "Nicaraguan cordoba",
-    "code": "NIO"
+    "code": "NIO",
+    "status": "active"
   },
   "NOK": {
     "symbol": "Nkr",
     "decimal": "2",
     "name": "Norwegian krone",
-    "code": "NOK"
+    "code": "NOK",
+    "status": "active"
   },
   "NPR": {
     "symbol": "NPRs",
     "decimal": "2",
     "name": "Nepalese rupee",
-    "code": "NPR"
+    "code": "NPR",
+    "status": "active"
   },
   "NZD": {
     "symbol": "NZ$",
     "decimal": "2",
     "name": "New Zealand dollar",
-    "code": "NZD"
+    "code": "NZD",
+    "status": "active"
   },
   "OMR": {
     "symbol": "OMR",
     "decimal": "3",
     "name": "Omani rial",
-    "code": "OMR"
+    "code": "OMR",
+    "status": "active"
   },
   "PAB": {
     "symbol": "B/.",
     "decimal": "2",
     "name": "Panamanian balboa",
-    "code": "PAB"
+    "code": "PAB",
+    "status": "active"
   },
   "PEN": {
     "symbol": "S/.",
     "decimal": "2",
     "name": "Peruvian sol",
-    "code": "PEN"
+    "code": "PEN",
+    "status": "active"
   },
   "PHP": {
     "symbol": "₱",
     "decimal": "2",
     "name": "Philippine peso",
-    "code": "PHP"
+    "code": "PHP",
+    "status": "active"
   },
   "PKR": {
     "symbol": "PKRs",
     "decimal": "0",
     "name": "Pakistani rupee",
-    "code": "PKR"
+    "code": "PKR",
+    "status": "active"
   },
   "PLN": {
     "symbol": "zł",
     "decimal": "2",
     "name": "Polish złoty",
-    "code": "PLN"
+    "code": "PLN",
+    "status": "active"
   },
   "PYG": {
     "symbol": "₲",
     "decimal": "0",
     "name": "Paraguayan guaraní",
-    "code": "PYG"
+    "code": "PYG",
+    "status": "active"
   },
   "QAR": {
     "symbol": "QR",
     "decimal": "2",
     "name": "Qatari riyal",
-    "code": "QAR"
+    "code": "QAR",
+    "status": "active"
   },
   "RON": {
     "symbol": "RON",
     "decimal": "2",
     "name": "Romanian leu",
-    "code": "RON"
+    "code": "RON",
+    "status": "active"
   },
   "RSD": {
     "symbol": "din.",
     "decimal": "0",
     "name": "Serbian dinar",
-    "code": "RSD"
+    "code": "RSD",
+    "status": "active"
   },
   "RUB": {
     "symbol": "RUB",
     "decimal": "2",
     "name": "Russian ruble",
-    "code": "RUB"
+    "code": "RUB",
+    "status": "active"
   },
   "RWF": {
     "symbol": "RWF",
     "decimal": "0",
     "name": "Rwandan franc",
-    "code": "RWF"
+    "code": "RWF",
+    "status": "active"
   },
   "SAR": {
     "symbol": "SR",
     "decimal": "2",
     "name": "Saudi riyal",
-    "code": "SAR"
+    "code": "SAR",
+    "status": "active"
   },
   "SDG": {
     "symbol": "SDG",
     "decimal": "2",
     "name": "Sudanese pound",
-    "code": "SDG"
+    "code": "SDG",
+    "status": "active"
   },
   "SEK": {
     "symbol": "Skr",
     "decimal": "2",
     "name": "Swedish krona",
-    "code": "SEK"
+    "code": "SEK",
+    "status": "active"
   },
   "SGD": {
     "symbol": "S$",
     "decimal": "2",
     "name": "Singapore dollar",
-    "code": "SGD"
+    "code": "SGD",
+    "status": "active"
   },
   "SOS": {
     "symbol": "Ssh",
     "decimal": "0",
     "name": "Somali shilling",
-    "code": "SOS"
+    "code": "SOS",
+    "status": "active"
   },
   "SYP": {
     "symbol": "SY£",
     "decimal": "0",
     "name": "Syrian pound",
-    "code": "SYP"
+    "code": "SYP",
+    "status": "active"
   },
   "THB": {
     "symbol": "฿",
     "decimal": "2",
     "name": "Thai baht",
-    "code": "THB"
+    "code": "THB",
+    "status": "active"
   },
   "TND": {
     "symbol": "DT",
     "decimal": "3",
     "name": "Tunisian dinar",
-    "code": "TND"
+    "code": "TND",
+    "status": "active"
   },
   "TOP": {
     "symbol": "T$",
     "decimal": "2",
     "name": "Tongan paʻanga",
-    "code": "TOP"
+    "code": "TOP",
+    "status": "active"
   },
   "TRY": {
     "symbol": "TL",
     "decimal": "2",
     "name": "Turkish lira",
-    "code": "TRY"
+    "code": "TRY",
+    "status": "active"
   },
   "TTD": {
     "symbol": "TT$",
     "decimal": "2",
     "name": "Trinidad and Tobago dollar",
-    "code": "TTD"
+    "code": "TTD",
+    "status": "active"
   },
   "TWD": {
     "symbol": "NT$",
     "decimal": "2",
     "name": "New Taiwan dollar",
-    "code": "TWD"
+    "code": "TWD",
+    "status": "active"
   },
   "TZS": {
     "symbol": "TSh",
     "decimal": "0",
     "name": "Tanzanian shilling",
-    "code": "TZS"
+    "code": "TZS",
+    "status": "active"
   },
   "UAH": {
     "symbol": "₴",
     "decimal": "2",
     "name": "Ukrainian hryvnia",
-    "code": "UAH"
+    "code": "UAH",
+    "status": "active"
   },
   "UGX": {
     "symbol": "USh",
     "decimal": "0",
     "name": "Ugandan shilling",
-    "code": "UGX"
+    "code": "UGX",
+    "status": "active"
   },
   "UYU": {
     "symbol": "$U",
     "decimal": "2",
     "name": "Uruguayan peso",
-    "code": "UYU"
+    "code": "UYU",
+    "status": "active"
   },
   "UZS": {
     "symbol": "UZS",
     "decimal": "0",
     "name": "Uzbekistani som",
-    "code": "UZS"
+    "code": "UZS",
+    "status": "active"
   },
   "VEF": {
     "symbol": "Bs.F.",
     "decimal": "2",
-    "name": "",
-    "code": "VEF"
+    "name": "Venezuelan bolívar",
+    "code": "VEF",
+    "status": "obsolete"
   },
   "VND": {
     "symbol": "₫",
     "decimal": "0",
     "name": "Vietnamese đồng",
-    "code": "VND"
+    "code": "VND",
+    "status": "active"
   },
   "XAF": {
     "symbol": "FCFA",
     "decimal": "0",
     "name": "Central African CFA franc",
-    "code": "XAF"
+    "code": "XAF",
+    "status": "active"
   },
   "XOF": {
     "symbol": "CFA",
     "decimal": "0",
     "name": "West African CFA franc",
-    "code": "XOF"
+    "code": "XOF",
+    "status": "active"
   },
   "YER": {
     "symbol": "YR",
     "decimal": "0",
     "name": "Yemeni rial",
-    "code": "YER"
+    "code": "YER",
+    "status": "active"
   },
   "ZAR": {
     "symbol": "R",
     "decimal": "2",
     "name": "South African rand",
-    "code": "ZAR"
+    "code": "ZAR",
+    "status": "active"
   },
   "ZMK": {
     "symbol": "ZK",
     "decimal": "0",
-    "name": "",
-    "code": "ZMK"
+    "name": "Zambian kwacha",
+    "code": "ZMK",
+    "status": "obsolete"
   },
   "BBD": {
     "symbol": "Bds$",
     "decimal": "2",
     "name": "Barbados dollar",
-    "code": "BBD"
+    "code": "BBD",
+    "status": "active"
   },
   "XPF": {
     "symbol": "F",
     "decimal": "0",
     "name": "CFP franc",
-    "code": "XPF"
+    "code": "XPF",
+    "status": "active"
   },
   "BMD": {
     "symbol": "BD$",
     "decimal": "2",
     "name": "Bermudian dollar",
-    "code": "BMD"
+    "code": "BMD",
+    "status": "active"
   },
   "BTN": {
     "symbol": "Ch",
     "decimal": "2",
     "name": "Bhutanese ngultrum",
-    "code": "BTN"
+    "code": "BTN",
+    "status": "active"
   },
   "WST": {
     "symbol": "WS$",
     "decimal": "2",
     "name": "Samoan tālā",
-    "code": "WST"
+    "code": "WST",
+    "status": "active"
   },
   "BSD": {
     "symbol": "BS$",
     "decimal": "2",
     "name": "Bahamian dollar",
-    "code": "BSD"
+    "code": "BSD",
+    "status": "active"
   },
   "TMT": {
     "symbol": "m",
     "decimal": "2",
     "name": "Turkmenistan manat",
-    "code": "TMT"
+    "code": "TMT",
+    "status": "active"
   },
   "TJS": {
     "symbol": "TJS",
     "decimal": "2",
     "name": "Tajikistani somoni",
-    "code": "TJS"
+    "code": "TJS",
+    "status": "active"
   },
   "GYD": {
     "symbol": "G$",
     "decimal": "2",
     "name": "Guyanese dollar",
-    "code": "GYD"
+    "code": "GYD",
+    "status": "active"
   },
   "XCD": {
     "symbol": "EC$",
     "decimal": "2",
     "name": "East Caribbean dollar",
-    "code": "XCD"
+    "code": "XCD",
+    "status": "active"
   },
   "GMD": {
     "symbol": "D",
     "decimal": "2",
     "name": "Gambian dalasi",
-    "code": "GMD"
+    "code": "GMD",
+    "status": "active"
   },
   "GIP": {
     "symbol": "£",
     "decimal": "2",
     "name": "Gibraltar pound",
-    "code": "GIP"
+    "code": "GIP",
+    "status": "active"
   },
   "HTG": {
     "symbol": "G",
     "decimal": "2",
     "name": "Haitian gourde",
-    "code": "HTG"
+    "code": "HTG",
+    "status": "active"
   },
   "PGK": {
     "symbol": "K",
     "decimal": "2",
     "name": "Papua New Guinean kina",
-    "code": "PGK"
+    "code": "PGK",
+    "status": "active"
   },
   "SBD": {
     "symbol": "SI$",
     "decimal": "2",
     "name": "Solomon Islands dollar",
-    "code": "SBD"
+    "code": "SBD",
+    "status": "active"
   },
   "ZWL": {
     "symbol": "Z$",
     "decimal": "2",
     "name": "Zimbabwean dollar",
-    "code": "ZWL"
+    "code": "ZWL",
+    "status": "active"
   },
   "MNT": {
     "symbol": "₮",
     "decimal": "2",
     "name": "Mongolian tögrög",
-    "code": "MNT"
+    "code": "MNT",
+    "status": "active"
   },
   "MWK": {
     "symbol": "MK",
     "decimal": "2",
     "name": "Malawian kwacha",
-    "code": "MWK"
+    "code": "MWK",
+    "status": "active"
   },
   "MVR": {
     "symbol": "ރ",
     "decimal": "2",
     "name": "Maldivian rufiyaa",
-    "code": "MVR"
+    "code": "MVR",
+    "status": "active"
   },
   "MRO": {
     "symbol": "UM",
     "decimal": "0",
-    "name": "",
-    "code": "MRO"
+    "name": "Mauritanian ouguiya",
+    "code": "MRO",
+    "status": "active"
   },
   "SHP": {
     "symbol": "£",
     "decimal": "2",
     "name": "Saint Helena pound",
-    "code": "SHP"
+    "code": "SHP",
+    "status": "active"
   },
   "FJD": {
     "symbol": "FJ$",
     "decimal": "2",
     "name": "Fijian dollar",
-    "code": "FJD"
+    "code": "FJD",
+    "status": "active"
   },
   "FKP": {
     "symbol": "£",
     "decimal": "2",
     "name": "Falkland Islands pound",
-    "code": "FKP"
+    "code": "FKP",
+    "status": "active"
   },
   "VUV": {
     "symbol": "VT",
     "decimal": "0",
     "name": "Vanuatu vatu",
-    "code": "VUV"
+    "code": "VUV",
+    "status": "active"
   },
   "ANG": {
     "symbol": "ƒ",
     "decimal": "2",
     "name": "Netherlands Antillean guilder",
-    "code": "ANG"
+    "code": "ANG",
+    "status": "active"
   },
   "CUP": {
     "symbol": "$MN",
     "decimal": "2",
     "name": "Cuban peso",
-    "code": "CUP"
+    "code": "CUP",
+    "status": "active"
   },
   "SZL": {
     "symbol": "L",
     "decimal": "0",
     "name": "Swazi lilangeni",
-    "code": "SZL"
+    "code": "SZL",
+    "status": "active"
   },
   "KGS": {
     "symbol": "som",
     "decimal": "2",
     "name": "Kyrgyzstani som",
-    "code": "KGS"
+    "code": "KGS",
+    "status": "active"
   },
   "SSP": {
     "symbol": "£",
     "decimal": "2",
     "name": "South Sudanese pound",
-    "code": "SSP"
+    "code": "SSP",
+    "status": "active"
   },
   "SRD": {
     "symbol": "$",
     "decimal": "2",
     "name": "Surinamese dollar",
-    "code": "SRD"
+    "code": "SRD",
+    "status": "active"
   },
   "STD": {
     "symbol": "Db",
     "decimal": "2",
-    "name": "",
-    "code": "STD"
+    "name": "São Tomé and Príncipe dobra",
+    "code": "STD",
+    "status": "obsolete"
   },
   "KPW": {
     "symbol": "₩",
     "decimal": "2",
     "name": "North Korean won",
-    "code": "KPW"
+    "code": "KPW",
+    "status": "active"
   },
   "SLL": {
     "symbol": "Le",
     "decimal": "2",
     "name": "Sierra Leonean leone",
-    "code": "SLL"
+    "code": "SLL",
+    "status": "active"
   },
   "SCR": {
     "symbol": "SR",
     "decimal": "2",
     "name": "Seychellois rupee",
-    "code": "SCR"
+    "code": "SCR",
+    "status": "active"
   },
   "KYD": {
     "symbol": "CI$",
     "decimal": "2",
     "name": "Cayman Islands dollar",
-    "code": "KYD"
+    "code": "KYD",
+    "status": "active"
   },
   "LAK": {
     "symbol": "₭",
     "decimal": "2",
     "name": "Lao kip",
-    "code": "LAK"
+    "code": "LAK",
+    "status": "active"
   },
   "LRD": {
     "symbol": "L$",
     "decimal": "2",
     "name": "Liberian dollar",
-    "code": "LRD"
+    "code": "LRD",
+    "status": "active"
   },
   "LSL": {
     "symbol": "L",
     "decimal": "2",
     "name": "Lesotho loti",
-    "code": "LSL"
+    "code": "LSL",
+    "status": "active"
   },
   "AOA": {
     "symbol": "Kz",
     "decimal": "2",
     "name": "Angolan kwanza",
-    "code": "AOA"
+    "code": "AOA",
+    "status": "active"
   },
   "AWG": {
     "symbol": "Afl.",
     "decimal": "2",
     "name": "Aruban florin",
-    "code": "AWG"
+    "code": "AWG",
+    "status": "active"
+  },
+  "VES": {
+    "code": "VES",
+    "name": "Venezuelan bolívar soberano",
+    "symbol": "",
+    "decimal": "2",
+    "status": "active"
+  },
+  "STN": {
+    "code": "STN",
+    "name": "São Tomé and Príncipe dobra",
+    "symbol": "",
+    "decimal": "2",
+    "status": "active"
   }
 }
