@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [        
+
         {
             "type": "node",
             "request": "launch",
@@ -14,6 +15,16 @@
                 "debug"
             ],
             "port": 9229
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug eg",
+            "program": "${workspaceFolder}/eg",
+            "args": ["country", "AND"],
+            "cwd": "${workspaceFolder}",
+            "runtimeExecutable": "node",
+            "skipFiles": ["<node_internals>/**"]
         }
     ]
 }
