@@ -55,9 +55,49 @@ class Entity {
             })
         }
         if (opts.hydrate) {
+            function parseKey(k) {
+                return [
+                    k.replace(/y-codes$/, 'ies').replace(/-code/, ''),
+                    k.replace(/-codes?$/, '')
+                ]
+            }
+            function chkey(o, k, nk) {
+                o[nk] = o[k]
+                delete o[k]
+            }
+            function ho(o, levels) {
+                if (typeof o == 'string')
+                    return data[levels[0]][o]
+                else if (Array.isArray(o))
+                    return o.map(v => ho(v, levels))
+                else if (typeof o == 'object') {
+                    for (const k of Object.keys(o)) {
+                        ho(o[k], levels.slice(1))
+                        chkey(o, k, data[levels[0]][o[k]])
+                    }
+                }
+                return o
+            }
             for (var i = 0; i < ret.length; i++) {
-                for (const k of Object.keys(ret[i]))
-                    if (k in data) ret[i][k] = data[k][ret[i][k]]
+                Object.keys(ret[i]).filter(k => {
+                    var m = k.match(/(\w+)-codes?$/)
+                    return m && m[1] in data
+                }).forEach(k => {
+                    var [newKey, domain] = parseKey(k)
+                    var hasSchema = data[domain].schema
+                    var val = ret[i][k]
+                    if (typeof val == 'string') {
+                        val = data[domain][val]
+                    } else if (Array.isArray(val)) {
+                        val = val.map(v => data[domain][v])
+                    } else if (typeof val == 'object' && hasSchema) {
+                        val = ho(val, data[domain].schema)
+                    }
+                    ret[i][newKey] = val
+                    delete ret[i][k]
+                })
+                // for (const k of Object.keys(ret[i]))
+                //     if (k in data) ret[i][k] = data[k][ret[i][k]]
             }
         }
         if (opts.singleton) {

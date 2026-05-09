@@ -1,3 +1,0 @@
-#!/usr/bin/env node
-import { country } from './index.js'
-console.log(country.findByCode('ZW'))

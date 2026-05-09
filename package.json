@@ -63,6 +63,7 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
+    "commander": "^14.0.3",
     "micro": "^9.3.3",
     "remote-lib": "file:../../home/ekkis/.hermes/projects/remote-lib"
   }

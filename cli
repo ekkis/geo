@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+import { program } from 'commander'
+import geo from './index.js'
+import pkg from './package.json' with { type: "json" }
+program.version(pkg.version)
+	.argument('<domain>', 'Type of object to query')
+	.argument('<method>', 'Operation to execute')
+	.option('-c, --criteria <json>', 'Search object')
+	.option('-o, --opts <json>', 'Search options')
+	.parse(process.argv)
+
+const [domain, method] = program.args
+const opts = program.opts()
+
+var res = geo[domain][method](opts.criteria, JSON.parse(opts.opts))
+console.log(res)
+
+// console.log(geo[nm].find(val.split(',')))
+// console.log(geo[nm].find({lang: ['en'], regions: ['NAM']}))
+//var US = geo.country.find('US', {hydrate: true})
+//console.log(JSON.stringify(US, null, 2))
