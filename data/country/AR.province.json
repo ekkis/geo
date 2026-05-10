@@ -84,5 +84,9 @@
     "TD": {
       "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
     }
+  },
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   }
 }

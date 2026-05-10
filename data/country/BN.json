@@ -47,5 +47,9 @@
   "continent-code": "AS",
   "currency-codes": [
     "BND"
-  ]
+  ],
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
+  }
 }
