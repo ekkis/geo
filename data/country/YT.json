@@ -1,40 +1,42 @@
 {
-  "name": {
-    "common": "Mayotte",
-    "official": "Department of Mayotte"
-  },
-  "capital": {
-    "en": "Mamoudzou",
-    "myt": "Mamoudzou"
-  },
-  "iso3": "MYT",
-  "tld": ".yt",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 374,
-  "population": 320901,
-  "flag": "🇾🇹",
-  "demonym": {
-    "en": "Mahoran"
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "phone-code": "262",
-  "language-codes": [
-    "myt"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "EUR"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Mayotte",
+      "official": "Department of Mayotte"
+    },
+    "capital": {
+      "en": "Mamoudzou",
+      "myt": "Mamoudzou"
+    },
+    "iso3": "MYT",
+    "tld": ".yt",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 374,
+    "population": 320901,
+    "flag": "🇾🇹",
+    "demonym": {
+      "en": "Mahoran"
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "phone-code": "262",
+    "language-codes": [
+      "myt"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "EUR"
+    ]
   }
 }

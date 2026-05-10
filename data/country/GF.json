@@ -1,48 +1,50 @@
 {
-  "name": {
-    "common": "French Guiana",
-    "official": "Guiana"
-  },
-  "capital": {
-    "en": "Cayenne",
-    "guf": "Cayenne"
-  },
-  "iso3": "GUF",
-  "tld": ".gf",
-  "timezones": [
-    "UTC-03:00"
-  ],
-  "area": 83534,
-  "population": 292354,
-  "flag": "🇬🇫",
-  "demonym": {
-    "en": "Guianan"
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^((97|98)3\\d{2})$"
-  },
-  "phone-code": "594",
-  "neighbours": {
-    "SW": [
-      "BR"
-    ],
-    "W": [
-      "SR"
-    ]
-  },
-  "language-codes": [
-    "guf"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "EUR"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "French Guiana",
+      "official": "Guiana"
+    },
+    "capital": {
+      "en": "Cayenne",
+      "guf": "Cayenne"
+    },
+    "iso3": "GUF",
+    "tld": ".gf",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 83534,
+    "population": 292354,
+    "flag": "🇬🇫",
+    "demonym": {
+      "en": "Guianan"
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^((97|98)3\\d{2})$"
+    },
+    "phone-code": "594",
+    "neighbours": {
+      "SW": [
+        "BR"
+      ],
+      "W": [
+        "SR"
+      ]
+    },
+    "language-codes": [
+      "guf"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "EUR"
+    ]
   }
 }

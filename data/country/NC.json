@@ -1,44 +1,46 @@
 {
-  "name": {
-    "common": "New Caledonia",
-    "official": "New Caledonia"
-  },
-  "capital": {
-    "en": "Noumea",
-    "ncl": "Noumea"
-  },
-  "iso3": "NCL",
-  "tld": ".nc",
-  "timezones": [
-    "UTC+11:00"
-  ],
-  "area": 18575,
-  "population": 264596,
-  "flag": "🇳🇨",
-  "demonym": {
-    "en": "New Caledonian"
-  },
-  "gdp": {
-    "value": 9623318718.314594,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "phone-code": "687",
-  "language-codes": [
-    "ncl"
-  ],
-  "region-codes": [
-    "MEL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "XPF"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "New Caledonia",
+      "official": "New Caledonia"
+    },
+    "capital": {
+      "en": "Noumea",
+      "ncl": "Noumea"
+    },
+    "iso3": "NCL",
+    "tld": ".nc",
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "area": 18575,
+    "population": 264596,
+    "flag": "🇳🇨",
+    "demonym": {
+      "en": "New Caledonian"
+    },
+    "gdp": {
+      "value": 9623318718.314594,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "phone-code": "687",
+    "language-codes": [
+      "ncl"
+    ],
+    "region-codes": [
+      "MEL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "XPF"
+    ]
   }
 }

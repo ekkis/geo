@@ -1,40 +1,42 @@
 {
-  "name": {
-    "common": "Christmas Island",
-    "official": "Territory of Christmas Island"
-  },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Flying Fish Cove",
-    "cxr": "Flying Fish Cove"
-  },
-  "iso3": "CXR",
-  "tld": ".cx",
-  "timezones": [
-    "UTC+07:00"
-  ],
-  "area": 135,
-  "population": 1692,
-  "flag": "🇨🇽",
-  "demonym": {
-    "en": "Christmas Islander"
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "phone-code": "61",
-  "language-codes": [
-    "cxr"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "AUD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Christmas Island",
+      "official": "Territory of Christmas Island"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "Flying Fish Cove",
+      "cxr": "Flying Fish Cove"
+    },
+    "iso3": "CXR",
+    "tld": ".cx",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 135,
+    "population": 1692,
+    "flag": "🇨🇽",
+    "demonym": {
+      "en": "Christmas Islander"
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "phone-code": "61",
+    "language-codes": [
+      "cxr"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "AUD"
+    ]
   }
 }

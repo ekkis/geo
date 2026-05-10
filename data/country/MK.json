@@ -1,67 +1,69 @@
 {
-  "name": {
-    "common": "North Macedonia",
-    "official": "Republic of North Macedonia",
-    "mk": "Северна Македонија"
-  },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Skopje",
-    "mk": "Скопје"
-  },
-  "iso3": "MKD",
-  "tld": ".mk",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 25713,
-  "population": 1822612,
-  "flag": "🇲🇰",
-  "demonym": {
-    "en": "Macedonian",
-    "mk": "македонски"
-  },
-  "gdp": {
-    "value": 14761237042.205698,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "389",
-  "neighbours": {
-    "NE": [
-      "BG"
-    ],
-    "NW": [
-      "XK",
-      "RS"
-    ],
-    "SW": [
-      "AL"
-    ],
-    "S": [
-      "GR"
-    ]
-  },
-  "language-codes": [
-    "mk"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "MKD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia",
+      "mk": "Северна Македонија"
+    },
+    "region-codes": [
+      "BKS"
+    ],
+    "capital": {
+      "en": "Skopje",
+      "mk": "Скопје"
+    },
+    "iso3": "MKD",
+    "tld": ".mk",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 25713,
+    "population": 1822612,
+    "flag": "🇲🇰",
+    "demonym": {
+      "en": "Macedonian",
+      "mk": "македонски"
+    },
+    "gdp": {
+      "value": 14761237042.205698,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "389",
+    "neighbours": {
+      "NE": [
+        "BG"
+      ],
+      "NW": [
+        "XK",
+        "RS"
+      ],
+      "SW": [
+        "AL"
+      ],
+      "S": [
+        "GR"
+      ]
+    },
+    "language-codes": [
+      "mk"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "MKD"
+    ]
   }
 }

@@ -1,36 +1,38 @@
 {
-  "name": {
-    "common": "Pitcairn Islands",
-    "official": "Pitcairn Group of Islands"
-  },
-  "capital": {
-    "en": "Adamstown",
-    "pcn": "Adamstown"
-  },
-  "iso3": "PCN",
-  "tld": ".pn",
-  "timezones": [
-    "UTC-08:00"
-  ],
-  "area": 47,
-  "population": 35,
-  "flag": "🇵🇳",
-  "demonym": {
-    "en": "Pitcairn Islander"
-  },
-  "phone-code": "870",
-  "language-codes": [
-    "pcn"
-  ],
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "NZD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Pitcairn Islands",
+      "official": "Pitcairn Group of Islands"
+    },
+    "capital": {
+      "en": "Adamstown",
+      "pcn": "Adamstown"
+    },
+    "iso3": "PCN",
+    "tld": ".pn",
+    "timezones": [
+      "UTC-08:00"
+    ],
+    "area": 47,
+    "population": 35,
+    "flag": "🇵🇳",
+    "demonym": {
+      "en": "Pitcairn Islander"
+    },
+    "phone-code": "870",
+    "language-codes": [
+      "pcn"
+    ],
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "NZD"
+    ]
   }
 }

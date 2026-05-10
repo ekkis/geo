@@ -1,42 +1,44 @@
 {
-  "name": {
-    "common": "Antarctica",
-    "official": "Antarctica"
-  },
-  "region-codes": [
-    "ANT"
-  ],
-  "capital": "",
-  "iso3": "ATA",
-  "language_code": [
-    "ata",
-    "fq",
-    "nq"
-  ],
-  "tld": ".aq",
-  "timezones": [
-    "UTC-03:00",
-    "UTC+03:00",
-    "UTC+05:00",
-    "UTC+06:00",
-    "UTC+07:00",
-    "UTC+08:00",
-    "UTC+10:00",
-    "UTC+12:00"
-  ],
-  "area": 14000000,
-  "population": 1300,
-  "flag": "🇦🇶",
-  "demonym": {
-    "en": "Antarctican"
-  },
-  "phone-code": "",
-  "continent-code": "AN",
-  "currency-codes": [
-    "XCD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica"
+    },
+    "region-codes": [
+      "ANT"
+    ],
+    "capital": "",
+    "iso3": "ATA",
+    "language_code": [
+      "ata",
+      "fq",
+      "nq"
+    ],
+    "tld": ".aq",
+    "timezones": [
+      "UTC-03:00",
+      "UTC+03:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "area": 14000000,
+    "population": 1300,
+    "flag": "🇦🇶",
+    "demonym": {
+      "en": "Antarctican"
+    },
+    "phone-code": "",
+    "continent-code": "AN",
+    "currency-codes": [
+      "XCD"
+    ]
   }
 }

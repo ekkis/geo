@@ -1,40 +1,42 @@
 {
-  "name": {
-    "common": "Saint Helena, Ascension and Tristan da Cunha",
-    "official": "Saint Helena, Ascension and Tristan da Cunha"
-  },
-  "capital": {
-    "en": "Jamestown",
-    "shn": "Jamestown"
-  },
-  "iso3": "SHN",
-  "tld": ".sh",
-  "timezones": [
-    "UTC+00:00"
-  ],
-  "area": 394,
-  "population": 5651,
-  "flag": "🇸🇭",
-  "demonym": {
-    "en": "Saint Helenian"
-  },
-  "postal-code": {
-    "format": "STHL 1ZZ",
-    "regex": "^(STHL1ZZ)$"
-  },
-  "phone-code": "290",
-  "language-codes": [
-    "shn"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SHP"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Saint Helena, Ascension and Tristan da Cunha",
+      "official": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "capital": {
+      "en": "Jamestown",
+      "shn": "Jamestown"
+    },
+    "iso3": "SHN",
+    "tld": ".sh",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 394,
+    "population": 5651,
+    "flag": "🇸🇭",
+    "demonym": {
+      "en": "Saint Helenian"
+    },
+    "postal-code": {
+      "format": "STHL 1ZZ",
+      "regex": "^(STHL1ZZ)$"
+    },
+    "phone-code": "290",
+    "language-codes": [
+      "shn"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "SHP"
+    ]
   }
 }

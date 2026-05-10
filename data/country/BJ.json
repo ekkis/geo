@@ -1,61 +1,63 @@
 {
-  "name": {
-    "common": "Benin",
-    "official": "Republic of Benin",
-    "bn": "বেনিন"
-  },
-  "capital": {
-    "en": "Porto-Novo",
-    "bn": "পোর্তো-নভো",
-    "dy": "Porto-Novo"
-  },
-  "iso3": "BEN",
-  "tld": ".bj",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 112622,
-  "population": 13224860,
-  "flag": "🇧🇯",
-  "demonym": {
-    "en": "Beninese",
-    "bn": "বেনিনীজ"
-  },
-  "gdp": {
-    "value": 19673284686.00226,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "229",
-  "neighbours": {
-    "NE": [
-      "NG",
-      "NE"
-    ],
-    "NW": [
-      "BF"
-    ],
-    "SW": [
-      "TG"
-    ]
-  },
-  "language-codes": [
-    "bn",
-    "dy"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Benin",
+      "official": "Republic of Benin",
+      "bn": "বেনিন"
+    },
+    "capital": {
+      "en": "Porto-Novo",
+      "bn": "পোর্তো-নভো",
+      "dy": "Porto-Novo"
+    },
+    "iso3": "BEN",
+    "tld": ".bj",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 112622,
+    "population": 13224860,
+    "flag": "🇧🇯",
+    "demonym": {
+      "en": "Beninese",
+      "bn": "বেনিনীজ"
+    },
+    "gdp": {
+      "value": 19673284686.00226,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "229",
+    "neighbours": {
+      "NE": [
+        "NG",
+        "NE"
+      ],
+      "NW": [
+        "BF"
+      ],
+      "SW": [
+        "TG"
+      ]
+    },
+    "language-codes": [
+      "bn",
+      "dy"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
+    ]
   }
 }

@@ -1,40 +1,42 @@
 {
-  "name": {
-    "common": "Saint Pierre and Miquelon",
-    "official": "Saint Pierre and Miquelon"
-  },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Saint-Pierre",
-    "spm": "Saint-Pierre"
-  },
-  "iso3": "SPM",
-  "tld": ".pm",
-  "timezones": [
-    "UTC-03:00"
-  ],
-  "area": 242,
-  "population": 5819,
-  "flag": "🇵🇲",
-  "demonym": {
-    "en": "Saint-Pierrais, Miquelonnais"
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(97500)$"
-  },
-  "phone-code": "508",
-  "language-codes": [
-    "spm"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "EUR"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Saint Pierre and Miquelon",
+      "official": "Saint Pierre and Miquelon"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Saint-Pierre",
+      "spm": "Saint-Pierre"
+    },
+    "iso3": "SPM",
+    "tld": ".pm",
+    "timezones": [
+      "UTC-03:00"
+    ],
+    "area": 242,
+    "population": 5819,
+    "flag": "🇵🇲",
+    "demonym": {
+      "en": "Saint-Pierrais, Miquelonnais"
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(97500)$"
+    },
+    "phone-code": "508",
+    "language-codes": [
+      "spm"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "EUR"
+    ]
   }
 }

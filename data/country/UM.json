@@ -1,39 +1,41 @@
 {
-  "name": {
-    "common": "United States Minor Outlying Islands",
-    "official": "United States Minor Outlying Islands"
-  },
-  "capital": "",
-  "iso3": "UMI",
-  "language_code": [
-    "jt",
-    "mi",
-    "pu",
-    "umi",
-    "wk"
-  ],
-  "tld": ".us",
-  "timezones": [
-    "UTC-11:00",
-    "UTC-10:00",
-    "UTC+12:00"
-  ],
-  "area": 34.2,
-  "population": 0,
-  "flag": "🇺🇲",
-  "demonym": {
-    "en": "American Islander"
-  },
-  "phone-code": "1",
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "United States Minor Outlying Islands",
+      "official": "United States Minor Outlying Islands"
+    },
+    "capital": "",
+    "iso3": "UMI",
+    "language_code": [
+      "jt",
+      "mi",
+      "pu",
+      "umi",
+      "wk"
+    ],
+    "tld": ".us",
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ],
+    "area": 34.2,
+    "population": 0,
+    "flag": "🇺🇲",
+    "demonym": {
+      "en": "American Islander"
+    },
+    "phone-code": "1",
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
+    ]
   }
 }

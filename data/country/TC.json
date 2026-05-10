@@ -1,44 +1,46 @@
 {
-  "name": {
-    "common": "Turks and Caicos Islands",
-    "official": "Turks and Caicos Islands"
-  },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Cockburn Town",
-    "tca": "Cockburn Town"
-  },
-  "iso3": "TCA",
-  "tld": ".tc",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 948,
-  "population": 50828,
-  "flag": "🇹🇨",
-  "demonym": {
-    "en": "Turks and Caicos Islander"
-  },
-  "gdp": {
-    "value": 1402054390.94734,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "TKCA 1ZZ",
-    "regex": "^(TKCA 1ZZ)$"
-  },
-  "phone-code": "+1-649",
-  "language-codes": [
-    "tca"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "USD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Turks and Caicos Islands",
+      "official": "Turks and Caicos Islands"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Cockburn Town",
+      "tca": "Cockburn Town"
+    },
+    "iso3": "TCA",
+    "tld": ".tc",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 948,
+    "population": 50828,
+    "flag": "🇹🇨",
+    "demonym": {
+      "en": "Turks and Caicos Islander"
+    },
+    "gdp": {
+      "value": 1402054390.94734,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "TKCA 1ZZ",
+      "regex": "^(TKCA 1ZZ)$"
+    },
+    "phone-code": "+1-649",
+    "language-codes": [
+      "tca"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "USD"
+    ]
   }
 }

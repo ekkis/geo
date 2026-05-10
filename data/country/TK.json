@@ -1,33 +1,35 @@
 {
-  "name": {
-    "common": "Tokelau",
-    "official": "Tokelau"
-  },
-  "capital": "",
-  "iso3": "TKL",
-  "language_code": [
-    "tkl"
-  ],
-  "tld": ".tk",
-  "timezones": [
-    "UTC+13:00"
-  ],
-  "area": 12,
-  "population": 2608,
-  "flag": "🇹🇰",
-  "demonym": {
-    "en": "Tokelauan"
-  },
-  "phone-code": "690",
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "NZD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Tokelau",
+      "official": "Tokelau"
+    },
+    "capital": "",
+    "iso3": "TKL",
+    "language_code": [
+      "tkl"
+    ],
+    "tld": ".tk",
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "area": 12,
+    "population": 2608,
+    "flag": "🇹🇰",
+    "demonym": {
+      "en": "Tokelauan"
+    },
+    "phone-code": "690",
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "NZD"
+    ]
   }
 }

@@ -1,45 +1,47 @@
 {
-  "name": {
-    "common": "Sint Maarten",
-    "official": "Sint Maarten"
-  },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Philipsburg",
-    "sxm": "Philipsburg"
-  },
-  "iso3": "SXM",
-  "tld": ".sx",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 34,
-  "population": 41349,
-  "flag": "🇸🇽",
-  "demonym": {
-    "en": "St. Maartener"
-  },
-  "gdp": {
-    "value": 1623165683.1284916,
-    "year": 2023
-  },
-  "phone-code": "599",
-  "neighbours": {
-    "NW": [
-      "MF"
-    ]
-  },
-  "language-codes": [
-    "sxm"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "ANG"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Sint Maarten",
+      "official": "Sint Maarten"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Philipsburg",
+      "sxm": "Philipsburg"
+    },
+    "iso3": "SXM",
+    "tld": ".sx",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 34,
+    "population": 41349,
+    "flag": "🇸🇽",
+    "demonym": {
+      "en": "St. Maartener"
+    },
+    "gdp": {
+      "value": 1623165683.1284916,
+      "year": 2023
+    },
+    "phone-code": "599",
+    "neighbours": {
+      "NW": [
+        "MF"
+      ]
+    },
+    "language-codes": [
+      "sxm"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "ANG"
+    ]
   }
 }

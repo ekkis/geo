@@ -1,69 +1,71 @@
 {
-  "name": {
-    "common": "Saudi Arabia",
-    "official": "Kingdom of Saudi Arabia",
-    "ar": "المملكة العربية السعودية"
-  },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Riyadh",
-    "ar": "الرياض",
-    "nt": "Riyadh"
-  },
-  "iso3": "SAU",
-  "tld": ".sa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 2149690,
-  "population": 35300280,
-  "flag": "🇸🇦",
-  "demonym": {
-    "en": "Saudi Arabian",
-    "ar": "السعودية"
-  },
-  "gdp": {
-    "value": 1067582933333.3334,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "966",
-  "neighbours": {
-    "NE": [
-      "KW",
-      "QA"
-    ],
-    "NW": [
-      "IQ",
-      "JO"
-    ],
-    "SE": [
-      "OM",
-      "AE",
-      "YE"
-    ]
-  },
-  "language-codes": [
-    "ar",
-    "nt"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "SAR"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia",
+      "ar": "المملكة العربية السعودية"
+    },
+    "region-codes": [
+      "WAS"
+    ],
+    "capital": {
+      "en": "Riyadh",
+      "ar": "الرياض",
+      "nt": "Riyadh"
+    },
+    "iso3": "SAU",
+    "tld": ".sa",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 2149690,
+    "population": 35300280,
+    "flag": "🇸🇦",
+    "demonym": {
+      "en": "Saudi Arabian",
+      "ar": "السعودية"
+    },
+    "gdp": {
+      "value": 1067582933333.3334,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "966",
+    "neighbours": {
+      "NE": [
+        "KW",
+        "QA"
+      ],
+      "NW": [
+        "IQ",
+        "JO"
+      ],
+      "SE": [
+        "OM",
+        "AE",
+        "YE"
+      ]
+    },
+    "language-codes": [
+      "ar",
+      "nt"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "SAR"
+    ]
   }
 }

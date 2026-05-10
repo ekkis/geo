@@ -1,56 +1,58 @@
 {
-  "name": {
-    "common": "Malawi",
-    "official": "Republic of Malawi"
-  },
-  "capital": {
-    "en": "Lilongwe",
-    "mwi": "Lilongwe"
-  },
-  "iso3": "MWI",
-  "tld": ".mw",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 118484,
-  "population": 20734262,
-  "flag": "🇲🇼",
-  "demonym": {
-    "en": "Malawian"
-  },
-  "gdp": {
-    "value": 14084341062.367504,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "265",
-  "neighbours": {
-    "NE": [
-      "TZ"
-    ],
-    "SE": [
-      "MZ"
-    ],
-    "SW": [
-      "ZM"
-    ]
-  },
-  "language-codes": [
-    "mwi"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MWK"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Malawi",
+      "official": "Republic of Malawi"
+    },
+    "capital": {
+      "en": "Lilongwe",
+      "mwi": "Lilongwe"
+    },
+    "iso3": "MWI",
+    "tld": ".mw",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 118484,
+    "population": 20734262,
+    "flag": "🇲🇼",
+    "demonym": {
+      "en": "Malawian"
+    },
+    "gdp": {
+      "value": 14084341062.367504,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "265",
+    "neighbours": {
+      "NE": [
+        "TZ"
+      ],
+      "SE": [
+        "MZ"
+      ],
+      "SW": [
+        "ZM"
+      ]
+    },
+    "language-codes": [
+      "mwi"
+    ],
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MWK"
+    ]
   }
 }

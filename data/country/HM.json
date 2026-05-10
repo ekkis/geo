@@ -1,33 +1,35 @@
 {
-  "name": {
-    "common": "Heard Island and McDonald Islands",
-    "official": "Heard Island and McDonald Islands"
-  },
-  "region-codes": [
-    "ANT"
-  ],
-  "capital": "",
-  "iso3": "HMD",
-  "language_code": [
-    "hmd"
-  ],
-  "tld": ".hm",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "area": 412,
-  "population": 0,
-  "flag": "🇭🇲",
-  "demonym": {
-    "en": "Heard and McDonald Islander"
-  },
-  "phone-code": " ",
-  "continent-code": "AN",
-  "currency-codes": [
-    "AUD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Heard Island and McDonald Islands",
+      "official": "Heard Island and McDonald Islands"
+    },
+    "region-codes": [
+      "ANT"
+    ],
+    "capital": "",
+    "iso3": "HMD",
+    "language_code": [
+      "hmd"
+    ],
+    "tld": ".hm",
+    "timezones": [
+      "UTC+05:00"
+    ],
+    "area": 412,
+    "population": 0,
+    "flag": "🇭🇲",
+    "demonym": {
+      "en": "Heard and McDonald Islander"
+    },
+    "phone-code": " ",
+    "continent-code": "AN",
+    "currency-codes": [
+      "AUD"
+    ]
   }
 }

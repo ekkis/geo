@@ -1,36 +1,38 @@
 {
-  "name": {
-    "common": "British Virgin Islands",
-    "official": "Virgin Islands"
-  },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Road Town",
-    "vgb": "Road Town"
-  },
-  "iso3": "VGB",
-  "tld": ".vg",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 151,
-  "population": 39471,
-  "flag": "🇻🇬",
-  "demonym": {
-    "en": "Virgin Islander"
-  },
-  "phone-code": "+1-284",
-  "language-codes": [
-    "vgb"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "USD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "British Virgin Islands",
+      "official": "Virgin Islands"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Road Town",
+      "vgb": "Road Town"
+    },
+    "iso3": "VGB",
+    "tld": ".vg",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 151,
+    "population": 39471,
+    "flag": "🇻🇬",
+    "demonym": {
+      "en": "Virgin Islander"
+    },
+    "phone-code": "+1-284",
+    "language-codes": [
+      "vgb"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "USD"
+    ]
   }
 }

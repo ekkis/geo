@@ -1,40 +1,42 @@
 {
-  "name": {
-    "common": "American Samoa",
-    "official": "American Samoa"
-  },
-  "capital": {
-    "en": "Pago Pago",
-    "as": "Pago Pago"
-  },
-  "iso3": "ASM",
-  "tld": ".as",
-  "timezones": [
-    "UTC-11:00"
-  ],
-  "area": 199,
-  "population": 49710,
-  "flag": "🇦🇸",
-  "demonym": {
-    "en": "American Samoan"
-  },
-  "gdp": {
-    "value": 871000000,
-    "year": 2022
-  },
-  "phone-code": "+1-684",
-  "language-codes": [
-    "as"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "American Samoa",
+      "official": "American Samoa"
+    },
+    "capital": {
+      "en": "Pago Pago",
+      "as": "Pago Pago"
+    },
+    "iso3": "ASM",
+    "tld": ".as",
+    "timezones": [
+      "UTC-11:00"
+    ],
+    "area": 199,
+    "population": 49710,
+    "flag": "🇦🇸",
+    "demonym": {
+      "en": "American Samoan"
+    },
+    "gdp": {
+      "value": 871000000,
+      "year": 2022
+    },
+    "phone-code": "+1-684",
+    "language-codes": [
+      "as"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
+    ]
   }
 }

@@ -1,36 +1,38 @@
 {
-  "name": {
-    "common": "British Indian Ocean Territory",
-    "official": "British Indian Ocean Territory"
-  },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Diego Garcia",
-    "iot": "Diego Garcia"
-  },
-  "iso3": "IOT",
-  "tld": ".io",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "area": 60,
-  "population": 0,
-  "flag": "🇮🇴",
-  "demonym": {
-    "en": "Indian"
-  },
-  "phone-code": "246",
-  "language-codes": [
-    "iot"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "USD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "British Indian Ocean Territory",
+      "official": "British Indian Ocean Territory"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "Diego Garcia",
+      "iot": "Diego Garcia"
+    },
+    "iso3": "IOT",
+    "tld": ".io",
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "area": 60,
+    "population": 0,
+    "flag": "🇮🇴",
+    "demonym": {
+      "en": "Indian"
+    },
+    "phone-code": "246",
+    "language-codes": [
+      "iot"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "USD"
+    ]
   }
 }

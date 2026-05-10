@@ -1,36 +1,38 @@
 {
-  "name": {
-    "common": "Niue",
-    "official": "Niue"
-  },
-  "capital": {
-    "en": "Alofi",
-    "niu": "Alofi"
-  },
-  "iso3": "NIU",
-  "tld": ".nu",
-  "timezones": [
-    "UTC-11:00"
-  ],
-  "area": 260,
-  "population": 1681,
-  "flag": "🇳🇺",
-  "demonym": {
-    "en": "Niuean"
-  },
-  "phone-code": "683",
-  "language-codes": [
-    "niu"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "NZD"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Niue",
+      "official": "Niue"
+    },
+    "capital": {
+      "en": "Alofi",
+      "niu": "Alofi"
+    },
+    "iso3": "NIU",
+    "tld": ".nu",
+    "timezones": [
+      "UTC-11:00"
+    ],
+    "area": 260,
+    "population": 1681,
+    "flag": "🇳🇺",
+    "demonym": {
+      "en": "Niuean"
+    },
+    "phone-code": "683",
+    "language-codes": [
+      "niu"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "NZD"
+    ]
   }
 }

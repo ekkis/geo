@@ -1,38 +1,40 @@
 {
-  "name": {
-    "common": "Réunion",
-    "official": "Réunion Island"
-  },
-  "capital": {
-    "en": "Saint-Denis",
-    "reu": "Saint-Denis"
-  },
-  "iso3": "REU",
-  "tld": ".re",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 2511,
-  "population": 896175,
-  "flag": "🇷🇪",
-  "demonym": {
-    "en": "Réunionese"
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^((97|98)(4|7|8)\\d{2})$"
-  },
-  "phone-code": "262",
-  "language-codes": [
-    "reu"
-  ],
-  "region-codes": [],
-  "continent-code": "AF",
-  "currency-codes": [
-    "EUR"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Réunion",
+      "official": "Réunion Island"
+    },
+    "capital": {
+      "en": "Saint-Denis",
+      "reu": "Saint-Denis"
+    },
+    "iso3": "REU",
+    "tld": ".re",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 2511,
+    "population": 896175,
+    "flag": "🇷🇪",
+    "demonym": {
+      "en": "Réunionese"
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^((97|98)(4|7|8)\\d{2})$"
+    },
+    "phone-code": "262",
+    "language-codes": [
+      "reu"
+    ],
+    "region-codes": [],
+    "continent-code": "AF",
+    "currency-codes": [
+      "EUR"
+    ]
   }
 }

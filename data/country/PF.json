@@ -1,46 +1,48 @@
 {
-  "name": {
-    "common": "French Polynesia",
-    "official": "French Polynesia"
-  },
-  "capital": {
-    "en": "Papeete",
-    "pyf": "Papeete"
-  },
-  "iso3": "PYF",
-  "tld": ".pf",
-  "timezones": [
-    "UTC-10:00",
-    "UTC-09:30",
-    "UTC-09:00"
-  ],
-  "area": 4167,
-  "population": 279500,
-  "flag": "🇵🇫",
-  "demonym": {
-    "en": "French Polynesian"
-  },
-  "gdp": {
-    "value": 5814661208.905444,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^((97|98)7\\d{2})$"
-  },
-  "phone-code": "689",
-  "language-codes": [
-    "pyf"
-  ],
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "XPF"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "French Polynesia",
+      "official": "French Polynesia"
+    },
+    "capital": {
+      "en": "Papeete",
+      "pyf": "Papeete"
+    },
+    "iso3": "PYF",
+    "tld": ".pf",
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00"
+    ],
+    "area": 4167,
+    "population": 279500,
+    "flag": "🇵🇫",
+    "demonym": {
+      "en": "French Polynesian"
+    },
+    "gdp": {
+      "value": 5814661208.905444,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^((97|98)7\\d{2})$"
+    },
+    "phone-code": "689",
+    "language-codes": [
+      "pyf"
+    ],
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "XPF"
+    ]
   }
 }

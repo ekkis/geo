@@ -1,36 +1,38 @@
 {
-  "name": {
-    "common": "Falkland Islands",
-    "official": "Falkland Islands"
-  },
-  "capital": {
-    "en": "Stanley",
-    "flk": "Stanley"
-  },
-  "iso3": "FLK",
-  "tld": ".fk",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 12173,
-  "population": 3662,
-  "flag": "🇫🇰",
-  "demonym": {
-    "en": "Falkland Islander"
-  },
-  "phone-code": "500",
-  "language-codes": [
-    "flk"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "FKP"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Falkland Islands",
+      "official": "Falkland Islands"
+    },
+    "capital": {
+      "en": "Stanley",
+      "flk": "Stanley"
+    },
+    "iso3": "FLK",
+    "tld": ".fk",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 12173,
+    "population": 3662,
+    "flag": "🇫🇰",
+    "demonym": {
+      "en": "Falkland Islander"
+    },
+    "phone-code": "500",
+    "language-codes": [
+      "flk"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "FKP"
+    ]
   }
 }

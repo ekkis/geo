@@ -1,57 +1,59 @@
 {
-  "name": {
-    "common": "Eswatini",
-    "official": "Kingdom of Eswatini"
-  },
-  "capital": {
-    "en": "Mbabane",
-    "swz": "Mbabane"
-  },
-  "iso3": "SWZ",
-  "tld": ".sz",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 17364,
-  "population": 1235549,
-  "flag": "🇸🇿",
-  "demonym": {
-    "en": "Swazi"
-  },
-  "gdp": {
-    "value": 4597855845.042758,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@###",
-    "regex": "^([A-Z]\\d{3})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "268",
-  "neighbours": {
-    "NE": [
-      "MZ"
-    ],
-    "SW": [
-      "ZA"
-    ]
-  },
-  "language-codes": [
-    "swz"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SZL"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Eswatini",
+      "official": "Kingdom of Eswatini"
+    },
+    "capital": {
+      "en": "Mbabane",
+      "swz": "Mbabane"
+    },
+    "iso3": "SWZ",
+    "tld": ".sz",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 17364,
+    "population": 1235549,
+    "flag": "🇸🇿",
+    "demonym": {
+      "en": "Swazi"
+    },
+    "gdp": {
+      "value": 4597855845.042758,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@###",
+      "regex": "^([A-Z]\\d{3})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "268",
+    "neighbours": {
+      "NE": [
+        "MZ"
+      ],
+      "SW": [
+        "ZA"
+      ]
+    },
+    "language-codes": [
+      "swz"
+    ],
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "SZL"
+    ]
   }
 }

@@ -1,47 +1,49 @@
 {
-  "name": {
-    "common": "Greenland",
-    "official": "Greenland"
-  },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Nuuk",
-    "grl": "Nuuk"
-  },
-  "iso3": "GRL",
-  "tld": ".gl",
-  "timezones": [
-    "UTC-04:00",
-    "UTC-03:00",
-    "UTC-01:00",
-    "UTC+00:00"
-  ],
-  "area": 2166086,
-  "population": 56542,
-  "flag": "🇬🇱",
-  "demonym": {
-    "en": "Greenlandic"
-  },
-  "gdp": {
-    "value": 3235809504.298714,
-    "year": 2021
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "phone-code": "299",
-  "language-codes": [
-    "grl"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "DKK"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Greenland",
+      "official": "Greenland"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "Nuuk",
+      "grl": "Nuuk"
+    },
+    "iso3": "GRL",
+    "tld": ".gl",
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC+00:00"
+    ],
+    "area": 2166086,
+    "population": 56542,
+    "flag": "🇬🇱",
+    "demonym": {
+      "en": "Greenlandic"
+    },
+    "gdp": {
+      "value": 3235809504.298714,
+      "year": 2021
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "phone-code": "299",
+    "language-codes": [
+      "grl"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "DKK"
+    ]
   }
 }

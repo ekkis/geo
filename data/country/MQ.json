@@ -1,40 +1,42 @@
 {
-  "name": {
-    "common": "Martinique",
-    "official": "Martinique"
-  },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Fort-de-France",
-    "mtq": "Fort-de-France"
-  },
-  "iso3": "MTQ",
-  "tld": ".mq",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 1128,
-  "population": 349925,
-  "flag": "🇲🇶",
-  "demonym": {
-    "en": "Martinican"
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "phone-code": "596",
-  "language-codes": [
-    "mtq"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "EUR"
-  ],
   "meta": {
     "version": "1.0",
     "last-updated": "2026-05-10T06:50:19.116171Z"
+  },
+  "data": {
+    "name": {
+      "common": "Martinique",
+      "official": "Martinique"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Fort-de-France",
+      "mtq": "Fort-de-France"
+    },
+    "iso3": "MTQ",
+    "tld": ".mq",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 1128,
+    "population": 349925,
+    "flag": "🇲🇶",
+    "demonym": {
+      "en": "Martinican"
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "phone-code": "596",
+    "language-codes": [
+      "mtq"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "EUR"
+    ]
   }
 }
