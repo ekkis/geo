@@ -3,10 +3,7 @@
     "common": "Andorra",
     "official": "Principality of Andorra"
   },
-  "region-codes": [
-    "SEU",
-    "ME"
-  ],
+  "region-codes": [ "SEU" ],
   "capital": {
     "en": "Andorra la Vella",
     "and": "Andorra la Vella"
