@@ -20,8 +20,8 @@
             "type": "node",
             "request": "launch",
             "name": "Debug eg",
-            "program": "${workspaceFolder}/eg",
-            "args": ["country", "AND"],
+            "program": "${workspaceFolder}/cli",
+            "args": ["country", "find", "-cAD", "-h", "-n"],
             "cwd": "${workspaceFolder}",
             "runtimeExecutable": "node",
             "skipFiles": ["<node_internals>/**"]
