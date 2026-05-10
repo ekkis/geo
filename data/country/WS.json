@@ -1,40 +1,45 @@
 {
-  "name": {
-    "common": "Samoa",
-    "official": "Independent State of Samoa"
+  "meta": {
+    "division": "district"
   },
-  "capital": {
-    "en": "Apia",
-    "wsm": "Apia"
-  },
-  "iso3": "WSM",
-  "tld": ".ws",
-  "timezones": [
-    "UTC+13:00"
-  ],
-  "area": 2842,
-  "population": 205557,
-  "flag": "🇼🇸",
-  "demonym": {
-    "en": "Samoan"
-  },
-  "gdp": {
-    "value": 934100336.2756538,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "685",
-  "language-codes": [
-    "wsm"
-  ],
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "WST"
-  ]
+  "data": {
+    "name": {
+      "common": "Samoa",
+      "official": "Independent State of Samoa"
+    },
+    "capital": {
+      "en": "Apia",
+      "wsm": "Apia"
+    },
+    "iso3": "WSM",
+    "tld": ".ws",
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "area": 2842,
+    "population": 205557,
+    "flag": "🇼🇸",
+    "demonym": {
+      "en": "Samoan"
+    },
+    "gdp": {
+      "value": 934100336.2756538,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "685",
+    "language-codes": [
+      "wsm"
+    ],
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "WST"
+    ]
+  }
 }

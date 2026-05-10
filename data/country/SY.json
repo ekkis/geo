@@ -1,51 +1,56 @@
 {
-  "name": {
-    "common": "Syria",
-    "official": "Syrian Arab Republic",
-    "ar": "سوريا"
+  "meta": {
+    "division": "governorate"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Damascus",
-    "ar": "دمشق"
-  },
-  "iso3": "SYR",
-  "tld": ".sy",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 185180,
-  "population": 25620000,
-  "flag": "🇸🇾",
-  "demonym": {
-    "en": "Syrian",
-    "ar": "سوري"
-  },
-  "gdp": {
-    "value": 8980060818.721447,
-    "year": 2021
-  },
-  "phone-code": "963",
-  "neighbours": {
-    "NW": [
-      "TR"
+  "data": {
+    "name": {
+      "common": "Syria",
+      "official": "Syrian Arab Republic",
+      "ar": "سوريا"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SE": [
-      "IQ"
+    "capital": {
+      "en": "Damascus",
+      "ar": "دمشق"
+    },
+    "iso3": "SYR",
+    "tld": ".sy",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "IL",
-      "JO",
-      "LB"
+    "area": 185180,
+    "population": 25620000,
+    "flag": "🇸🇾",
+    "demonym": {
+      "en": "Syrian",
+      "ar": "سوري"
+    },
+    "gdp": {
+      "value": 8980060818.721447,
+      "year": 2021
+    },
+    "phone-code": "963",
+    "neighbours": {
+      "NW": [
+        "TR"
+      ],
+      "SE": [
+        "IQ"
+      ],
+      "SW": [
+        "IL",
+        "JO",
+        "LB"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "SYP"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "SYP"
-  ]
+  }
 }

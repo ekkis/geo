@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Morocco",
-    "official": "Kingdom of Morocco",
-    "mr": "मोरोक्को"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Rabat",
-    "mr": "राबत"
-  },
-  "iso3": "MAR",
-  "tld": ".ma",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 446550,
-  "population": 36828330,
-  "flag": "🇲🇦",
-  "demonym": {
-    "en": "Moroccan",
-    "mr": "मोरोक्कन"
-  },
-  "gdp": {
-    "value": 141109373209.41437,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "212",
-  "neighbours": {
-    "NE": [
-      "ES"
+  "data": {
+    "name": {
+      "common": "Morocco",
+      "official": "Kingdom of Morocco",
+      "mr": "मोरोक्को"
+    },
+    "capital": {
+      "en": "Rabat",
+      "mr": "राबत"
+    },
+    "iso3": "MAR",
+    "tld": ".ma",
+    "timezones": [
+      "UTC"
     ],
-    "SE": [
-      "DZ"
+    "area": 446550,
+    "population": 36828330,
+    "flag": "🇲🇦",
+    "demonym": {
+      "en": "Moroccan",
+      "mr": "मोरोक्कन"
+    },
+    "gdp": {
+      "value": 141109373209.41437,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "EH"
+    "phone-code": "212",
+    "neighbours": {
+      "NE": [
+        "ES"
+      ],
+      "SE": [
+        "DZ"
+      ],
+      "SW": [
+        "EH"
+      ]
+    },
+    "language-codes": [
+      "mr"
+    ],
+    "region-codes": [
+      "MAG"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MAD"
     ]
-  },
-  "language-codes": [
-    "mr"
-  ],
-  "region-codes": [
-    "MAG"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MAD"
-  ]
+  }
 }

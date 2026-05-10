@@ -1,64 +1,69 @@
 {
-  "name": {
-    "common": "Algeria",
-    "official": "People's Democratic Republic of Algeria",
-    "ar": "الجزائر"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Algiers",
-    "ar": "الجزائر العاصمة"
-  },
-  "iso3": "DZA",
-  "tld": ".dz",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 2381741,
-  "population": 47400000,
-  "flag": "🇩🇿",
-  "demonym": {
-    "en": "Algerian",
-    "ar": "جزائري"
-  },
-  "gdp": {
-    "value": 239899491127.74237,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "213",
-  "neighbours": {
-    "NE": [
-      "TN"
+  "data": {
+    "name": {
+      "common": "Algeria",
+      "official": "People's Democratic Republic of Algeria",
+      "ar": "الجزائر"
+    },
+    "capital": {
+      "en": "Algiers",
+      "ar": "الجزائر العاصمة"
+    },
+    "iso3": "DZA",
+    "tld": ".dz",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "MA"
+    "area": 2381741,
+    "population": 47400000,
+    "flag": "🇩🇿",
+    "demonym": {
+      "en": "Algerian",
+      "ar": "جزائري"
+    },
+    "gdp": {
+      "value": 239899491127.74237,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "NE",
-      "LY"
+    "phone-code": "213",
+    "neighbours": {
+      "NE": [
+        "TN"
+      ],
+      "NW": [
+        "MA"
+      ],
+      "SE": [
+        "NE",
+        "LY"
+      ],
+      "SW": [
+        "MR",
+        "EH",
+        "ML"
+      ]
+    },
+    "language-codes": [
+      "ar"
     ],
-    "SW": [
-      "MR",
-      "EH",
-      "ML"
+    "region-codes": [
+      "NAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "DZD"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "region-codes": [
-    "NAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "DZD"
-  ]
+  }
 }

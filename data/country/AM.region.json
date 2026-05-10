@@ -1,0 +1,37 @@
+{
+  "data": {
+    "AG": {
+      "name": "Aragatsotn"
+    },
+    "AR": {
+      "name": "Ararat"
+    },
+    "AV": {
+      "name": "Avan"
+    },
+    "ER": {
+      "name": "Erevan"
+    },
+    "GR": {
+      "name": "Gegharkunik"
+    },
+    "KT": {
+      "name": "Kotayk"
+    },
+    "LO": {
+      "name": "Lori"
+    },
+    "SH": {
+      "name": "Shushi"
+    },
+    "SY": {
+      "name": "Syunik"
+    },
+    "TV": {
+      "name": "Tavush"
+    },
+    "VD": {
+      "name": "Vayots Dzor"
+    }
+  }
+}

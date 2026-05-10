@@ -1,0 +1,127 @@
+{
+  "data": {
+    "BAL": {
+      "name": "Balé"
+    },
+    "BAM": {
+      "name": "Bam"
+    },
+    "BAN": {
+      "name": "Banwa"
+    },
+    "BAZ": {
+      "name": "Bazèga"
+    },
+    "BGR": {
+      "name": "Bougouriba"
+    },
+    "BLG": {
+      "name": "Boulgou"
+    },
+    "BLK": {
+      "name": "Boulkiemdé"
+    },
+    "COM": {
+      "name": "Comoé"
+    },
+    "GAN": {
+      "name": "Ganzourgou"
+    },
+    "GOU": {
+      "name": "Gourma"
+    },
+    "HOU": {
+      "name": "Houet"
+    },
+    "IOB": {
+      "name": "Ioba"
+    },
+    "KAD": {
+      "name": "Kadiogo"
+    },
+    "KEN": {
+      "name": "Kénédougou"
+    },
+    "KMD": {
+      "name": "Komondjari"
+    },
+    "KMP": {
+      "name": "Kompienga"
+    },
+    "KOP": {
+      "name": "Koulpélogo"
+    },
+    "KOS": {
+      "name": "Kossi"
+    },
+    "KOT": {
+      "name": "Kouritenga"
+    },
+    "KOW": {
+      "name": "Kourwéogo"
+    },
+    "LER": {
+      "name": "Léraba"
+    },
+    "LOR": {
+      "name": "Loroum"
+    },
+    "MOU": {
+      "name": "Mouhoun"
+    },
+    "NAM": {
+      "name": "Namentenga"
+    },
+    "NAO": {
+      "name": "Naouri"
+    },
+    "NAY": {
+      "name": "Nayala"
+    },
+    "OUB": {
+      "name": "Oubritenga"
+    },
+    "OUD": {
+      "name": "Oudalan"
+    },
+    "PAS": {
+      "name": "Passoré"
+    },
+    "PON": {
+      "name": "Poni"
+    },
+    "SEN": {
+      "name": "Séno"
+    },
+    "SIS": {
+      "name": "Sissili"
+    },
+    "SNG": {
+      "name": "Sourou"
+    },
+    "SOM": {
+      "name": "Soum"
+    },
+    "TAP": {
+      "name": "Tapoa"
+    },
+    "TUI": {
+      "name": "Tui"
+    },
+    "YAG": {
+      "name": "Yagha"
+    },
+    "YAT": {
+      "name": "Yatenga"
+    },
+    "ZIR": {
+      "name": "Ziro"
+    },
+    "ZON": {
+      "name": "Zondoma"
+    },
+    "ZOU": {
+      "name": "Zoundwéogo"
+    }
+  }
+}

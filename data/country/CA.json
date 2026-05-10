@@ -1,58 +1,63 @@
 {
-  "name": {
-    "common": "Canada",
-    "official": "Canada"
+  "meta": {
+    "division": "province"
   },
-  "region-codes": [
-    "NAM"
-  ],
-  "capital": {
-    "en": "Ottawa"
-  },
-  "iso3": "CAN",
-  "tld": ".ca",
-  "timezones": [
-    "UTC-08:00",
-    "UTC-07:00",
-    "UTC-06:00",
-    "UTC-05:00",
-    "UTC-04:00",
-    "UTC-03:30"
-  ],
-  "area": 9984670,
-  "population": 41651653,
-  "flag": "🇨🇦",
-  "demonym": {
-    "en": "Canadian"
-  },
-  "gdp": {
-    "value": 2140085567791.4514,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@#@ #@#",
-    "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "1",
-  "neighbours": {
-    "SW": [
-      "US"
+  "data": {
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
+    "region-codes": [
+      "NAM"
+    ],
+    "capital": {
+      "en": "Ottawa"
+    },
+    "iso3": "CAN",
+    "tld": ".ca",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "area": 9984670,
+    "population": 41651653,
+    "flag": "🇨🇦",
+    "demonym": {
+      "en": "Canadian"
+    },
+    "gdp": {
+      "value": 2140085567791.4514,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@#@ #@#",
+      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "1",
+    "neighbours": {
+      "SW": [
+        "US"
+      ]
+    },
+    "language-codes": [
+      "en"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "CAD"
     ]
-  },
-  "language-codes": [
-    "en"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "CAD"
-  ]
+  }
 }

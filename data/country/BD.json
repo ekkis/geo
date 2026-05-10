@@ -1,54 +1,59 @@
 {
-  "name": {
-    "common": "Bangladesh",
-    "official": "People's Republic of Bangladesh",
-    "bn": "বাংলাদেশ"
+  "meta": {
+    "division": "division"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Dhaka",
-    "bn": "ঢাকা"
-  },
-  "iso3": "BGD",
-  "tld": ".bd",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "area": 147570,
-  "population": 169828911,
-  "flag": "🇧🇩",
-  "demonym": {
-    "en": "Bangladeshi",
-    "bn": "বাংলাদেশী"
-  },
-  "gdp": {
-    "value": 437415331040.9943,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "880",
-  "neighbours": {
-    "SE": [
-      "MM"
+  "data": {
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh",
+      "bn": "বাংলাদেশ"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "SW": [
-      "IN"
+    "capital": {
+      "en": "Dhaka",
+      "bn": "ঢাকা"
+    },
+    "iso3": "BGD",
+    "tld": ".bd",
+    "timezones": [
+      "UTC+06:00"
+    ],
+    "area": 147570,
+    "population": 169828911,
+    "flag": "🇧🇩",
+    "demonym": {
+      "en": "Bangladeshi",
+      "bn": "বাংলাদেশী"
+    },
+    "gdp": {
+      "value": 437415331040.9943,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "880",
+    "neighbours": {
+      "SE": [
+        "MM"
+      ],
+      "SW": [
+        "IN"
+      ]
+    },
+    "language-codes": [
+      "bn"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "BDT"
     ]
-  },
-  "language-codes": [
-    "bn"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "BDT"
-  ]
+  }
 }

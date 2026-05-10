@@ -1,49 +1,54 @@
 {
-  "name": {
-    "common": "Japan",
-    "official": "Japan",
-    "ja": "日本"
+  "meta": {
+    "division": "prefecture"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Tokyo",
-    "ja": "東京"
-  },
-  "iso3": "JPN",
-  "tld": ".jp",
-  "timezones": [
-    "UTC+09:00"
-  ],
-  "area": 377930,
-  "population": 123210000,
-  "flag": "🇯🇵",
-  "demonym": {
-    "en": "Japanese",
-    "ja": "日本語"
-  },
-  "gdp": {
-    "value": 4212945159781.403,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###-####",
-    "regex": "^(\\d{7})$"
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "81",
-  "language-codes": [
-    "ja"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "JPY"
-  ]
+  "data": {
+    "name": {
+      "common": "Japan",
+      "official": "Japan",
+      "ja": "日本"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "Tokyo",
+      "ja": "東京"
+    },
+    "iso3": "JPN",
+    "tld": ".jp",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 377930,
+    "population": 123210000,
+    "flag": "🇯🇵",
+    "demonym": {
+      "en": "Japanese",
+      "ja": "日本語"
+    },
+    "gdp": {
+      "value": 4212945159781.403,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###-####",
+      "regex": "^(\\d{7})$"
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "81",
+    "language-codes": [
+      "ja"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "JPY"
+    ]
+  }
 }

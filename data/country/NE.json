@@ -1,66 +1,71 @@
 {
-  "name": {
-    "common": "Niger",
-    "official": "Republic of Niger",
-    "fr": "Niger"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Niamey",
-    "fr": "Niamey"
-  },
-  "iso3": "NER",
-  "tld": ".ne",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 1267000,
-  "population": 26312034,
-  "flag": "🇳🇪",
-  "demonym": {
-    "en": "Nigerien",
-    "fr": "Nigerien"
-  },
-  "gdp": {
-    "value": 16819170420.565317,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "227",
-  "neighbours": {
-    "NE": [
-      "LY"
+  "data": {
+    "name": {
+      "common": "Niger",
+      "official": "Republic of Niger",
+      "fr": "Niger"
+    },
+    "capital": {
+      "en": "Niamey",
+      "fr": "Niamey"
+    },
+    "iso3": "NER",
+    "tld": ".ne",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "DZ",
-      "ML"
+    "area": 1267000,
+    "population": 26312034,
+    "flag": "🇳🇪",
+    "demonym": {
+      "en": "Nigerien",
+      "fr": "Nigerien"
+    },
+    "gdp": {
+      "value": 16819170420.565317,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "TD"
+    "phone-code": "227",
+    "neighbours": {
+      "NE": [
+        "LY"
+      ],
+      "NW": [
+        "DZ",
+        "ML"
+      ],
+      "SE": [
+        "TD"
+      ],
+      "SW": [
+        "BJ",
+        "BF"
+      ],
+      "S": [
+        "NG"
+      ]
+    },
+    "language-codes": [
+      "fr"
     ],
-    "SW": [
-      "BJ",
-      "BF"
+    "region-codes": [
+      "WAF"
     ],
-    "S": [
-      "NG"
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ]
+  }
 }

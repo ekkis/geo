@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Malaysia",
-    "official": "Malaysia",
-    "ms": "Malaysia"
+  "meta": {
+    "division": "state_federal_territory"
   },
-  "region-codes": [
-    "SEA"
-  ],
-  "capital": {
-    "en": "Kuala Lumpur",
-    "ms": "Kuala Lumpur"
-  },
-  "iso3": "MYS",
-  "tld": ".my",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 330803,
-  "population": 34231700,
-  "flag": "🇲🇾",
-  "demonym": {
-    "en": "Malaysian",
-    "ms": "Malaysia"
-  },
-  "gdp": {
-    "value": 399648828546.5043,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "ASEAN",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "60",
-  "neighbours": {
-    "NE": [
-      "BN"
+  "data": {
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "ms": "Malaysia"
+    },
+    "region-codes": [
+      "SEA"
     ],
-    "NW": [
-      "TH"
+    "capital": {
+      "en": "Kuala Lumpur",
+      "ms": "Kuala Lumpur"
+    },
+    "iso3": "MYS",
+    "tld": ".my",
+    "timezones": [
+      "UTC+08:00"
     ],
-    "SE": [
-      "ID"
+    "area": 330803,
+    "population": 34231700,
+    "flag": "🇲🇾",
+    "demonym": {
+      "en": "Malaysian",
+      "ms": "Malaysia"
+    },
+    "gdp": {
+      "value": 399648828546.5043,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "ASEAN",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "60",
+    "neighbours": {
+      "NE": [
+        "BN"
+      ],
+      "NW": [
+        "TH"
+      ],
+      "SE": [
+        "ID"
+      ]
+    },
+    "language-codes": [
+      "ms"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "MYR"
     ]
-  },
-  "language-codes": [
-    "ms"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "MYR"
-  ]
+  }
 }

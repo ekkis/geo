@@ -1,54 +1,59 @@
 {
-  "name": {
-    "common": "Togo",
-    "official": "Togolese Republic",
-    "fr": "Aller"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Lome",
-    "fr": "Lomé"
-  },
-  "iso3": "TGO",
-  "tld": ".tg",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 56785,
-  "population": 8095498,
-  "flag": "🇹🇬",
-  "demonym": {
-    "en": "Togolese",
-    "fr": "togolais"
-  },
-  "gdp": {
-    "value": 9171261835.062641,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "228",
-  "neighbours": {
-    "NE": [
-      "BJ"
+  "data": {
+    "name": {
+      "common": "Togo",
+      "official": "Togolese Republic",
+      "fr": "Aller"
+    },
+    "capital": {
+      "en": "Lome",
+      "fr": "Lomé"
+    },
+    "iso3": "TGO",
+    "tld": ".tg",
+    "timezones": [
+      "UTC"
     ],
-    "NW": [
-      "BF"
+    "area": 56785,
+    "population": 8095498,
+    "flag": "🇹🇬",
+    "demonym": {
+      "en": "Togolese",
+      "fr": "togolais"
+    },
+    "gdp": {
+      "value": 9171261835.062641,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "W": [
-      "GH"
+    "phone-code": "228",
+    "neighbours": {
+      "NE": [
+        "BJ"
+      ],
+      "NW": [
+        "BF"
+      ],
+      "W": [
+        "GH"
+      ]
+    },
+    "language-codes": [
+      "fr"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ]
+  }
 }

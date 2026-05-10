@@ -1,60 +1,65 @@
 {
-  "name": {
-    "common": "Lithuania",
-    "official": "Republic of Lithuania"
+  "meta": {
+    "division": "county"
   },
-  "region-codes": [
-    "BAL"
-  ],
-  "capital": {
-    "en": "Vilnius",
-    "ltu": "Vilnius"
-  },
-  "iso3": "LTU",
-  "tld": ".lt",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 65300,
-  "population": 2894886,
-  "flag": "🇱🇹",
-  "demonym": {
-    "en": "Lithuanian"
-  },
-  "gdp": {
-    "value": 77836396962.77196,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "LT-#####",
-    "regex": "^(?:LT)*(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "370",
-  "neighbours": {
-    "NE": [
-      "RU",
-      "LV"
+  "data": {
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania"
+    },
+    "region-codes": [
+      "BAL"
     ],
-    "SE": [
-      "BY"
+    "capital": {
+      "en": "Vilnius",
+      "ltu": "Vilnius"
+    },
+    "iso3": "LTU",
+    "tld": ".lt",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "PL"
+    "area": 65300,
+    "population": 2894886,
+    "flag": "🇱🇹",
+    "demonym": {
+      "en": "Lithuanian"
+    },
+    "gdp": {
+      "value": 77836396962.77196,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "LT-#####",
+      "regex": "^(?:LT)*(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "370",
+    "neighbours": {
+      "NE": [
+        "RU",
+        "LV"
+      ],
+      "SE": [
+        "BY"
+      ],
+      "SW": [
+        "PL"
+      ]
+    },
+    "language-codes": [
+      "ltu"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "LTL"
     ]
-  },
-  "language-codes": [
-    "ltu"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "LTL"
-  ]
+  }
 }

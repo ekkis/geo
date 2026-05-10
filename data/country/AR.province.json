@@ -1,0 +1,88 @@
+{
+  "data": {
+    "Buenos Aires": {
+      "BA": {
+        "name": "Buenos Aires"
+      },
+      "CA": {
+        "name": "Ciudad Autónoma de Buenos Aires"
+      }
+    },
+    "Northwest": {
+      "CAT": {
+        "name": "Catamarca"
+      },
+      "JUJ": {
+        "name": "Jujuy"
+      },
+      "SAL": {
+        "name": "Salta"
+      },
+      "SD": {
+        "name": "Santiago del Estero"
+      },
+      "TUC": {
+        "name": "Tucumán"
+      }
+    },
+    "Northeast": {
+      "CHA": {
+        "name": "Chaco"
+      },
+      "COR": {
+        "name": "Corrientes"
+      },
+      "ER": {
+        "name": "Entre Ríos"
+      },
+      "FOR": {
+        "name": "Formosa"
+      },
+      "MIS": {
+        "name": "Misiones"
+      }
+    },
+    "Patagonia": {
+      "CHU": {
+        "name": "Chubut"
+      },
+      "LP": {
+        "name": "La Pampa"
+      },
+      "NEU": {
+        "name": "Neuquén"
+      },
+      "RN": {
+        "name": "Río Negro"
+      },
+      "SC": {
+        "name": "Santa Cruz"
+      }
+    },
+    "Pampas": {
+      "CÓR": {
+        "name": "Córdoba"
+      },
+      "SF": {
+        "name": "Santa Fe"
+      }
+    },
+    "Cuyo": {
+      "LR": {
+        "name": "La Rioja"
+      },
+      "MEN": {
+        "name": "Mendoza"
+      },
+      "SJ": {
+        "name": "San Juan"
+      },
+      "SL": {
+        "name": "San Luis"
+      }
+    },
+    "TD": {
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+    }
+  }
+}

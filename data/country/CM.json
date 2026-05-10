@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Cameroon",
-    "official": "Republic of Cameroon",
-    "fr": "Cameroun"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Yaounde",
-    "fr": "Yaoundé"
-  },
-  "iso3": "CMR",
-  "tld": ".cm",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 475442,
-  "population": 29442327,
-  "flag": "🇨🇲",
-  "demonym": {
-    "en": "Cameroonian",
-    "fr": "Camerounais"
-  },
-  "gdp": {
-    "value": 47945510090.05286,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "237",
-  "neighbours": {
-    "NE": [
-      "CF",
-      "TD"
+  "data": {
+    "name": {
+      "common": "Cameroon",
+      "official": "Republic of Cameroon",
+      "fr": "Cameroun"
+    },
+    "capital": {
+      "en": "Yaounde",
+      "fr": "Yaoundé"
+    },
+    "iso3": "CMR",
+    "tld": ".cm",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "NG"
+    "area": 475442,
+    "population": 29442327,
+    "flag": "🇨🇲",
+    "demonym": {
+      "en": "Cameroonian",
+      "fr": "Camerounais"
+    },
+    "gdp": {
+      "value": 47945510090.05286,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "CG"
+    "phone-code": "237",
+    "neighbours": {
+      "NE": [
+        "CF",
+        "TD"
+      ],
+      "NW": [
+        "NG"
+      ],
+      "SE": [
+        "CG"
+      ],
+      "SW": [
+        "GQ",
+        "GA"
+      ]
+    },
+    "language-codes": [
+      "fr"
     ],
-    "SW": [
-      "GQ",
-      "GA"
+    "region-codes": [
+      "CAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XAF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "CAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XAF"
-  ]
+  }
 }

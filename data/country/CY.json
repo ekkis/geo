@@ -1,47 +1,52 @@
 {
-  "name": {
-    "common": "Cyprus",
-    "official": "Republic of Cyprus",
-    "tr": "Kıbrıs"
+  "meta": {
+    "division": "district"
   },
-  "region-codes": [
-    "WEU"
-  ],
-  "capital": {
-    "en": "Nicosia",
-    "tr": "Lefkoşa"
-  },
-  "iso3": "CYP",
-  "tld": ".cy",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 9251,
-  "population": 1442614,
-  "flag": "🇨🇾",
-  "demonym": {
-    "en": "Cypriot",
-    "tr": "Kıbrıslı"
-  },
-  "gdp": {
-    "value": 32229622669.195114,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "357",
-  "language-codes": [
-    "tr"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  "data": {
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus",
+      "tr": "Kıbrıs"
+    },
+    "region-codes": [
+      "WEU"
+    ],
+    "capital": {
+      "en": "Nicosia",
+      "tr": "Lefkoşa"
+    },
+    "iso3": "CYP",
+    "tld": ".cy",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 9251,
+    "population": 1442614,
+    "flag": "🇨🇾",
+    "demonym": {
+      "en": "Cypriot",
+      "tr": "Kıbrıslı"
+    },
+    "gdp": {
+      "value": 32229622669.195114,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "357",
+    "language-codes": [
+      "tr"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
+    ]
+  }
 }

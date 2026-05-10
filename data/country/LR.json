@@ -1,54 +1,59 @@
 {
-  "name": {
-    "common": "Liberia",
-    "official": "Republic of Liberia"
+  "meta": {
+    "division": "county"
   },
-  "capital": {
-    "en": "Monrovia",
-    "lbr": "Monrovia"
-  },
-  "iso3": "LBR",
-  "tld": ".lr",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 111369,
-  "population": 5248621,
-  "flag": "🇱🇷",
-  "demonym": {
-    "en": "Liberian"
-  },
-  "gdp": {
-    "value": 4332000000,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "231",
-  "neighbours": {
-    "NE": [
-      "CI"
+  "data": {
+    "name": {
+      "common": "Liberia",
+      "official": "Republic of Liberia"
+    },
+    "capital": {
+      "en": "Monrovia",
+      "lbr": "Monrovia"
+    },
+    "iso3": "LBR",
+    "tld": ".lr",
+    "timezones": [
+      "UTC"
     ],
-    "NW": [
-      "GN",
-      "SL"
+    "area": 111369,
+    "population": 5248621,
+    "flag": "🇱🇷",
+    "demonym": {
+      "en": "Liberian"
+    },
+    "gdp": {
+      "value": 4332000000,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "231",
+    "neighbours": {
+      "NE": [
+        "CI"
+      ],
+      "NW": [
+        "GN",
+        "SL"
+      ]
+    },
+    "language-codes": [
+      "lbr"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "LRD"
     ]
-  },
-  "language-codes": [
-    "lbr"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "LRD"
-  ]
+  }
 }

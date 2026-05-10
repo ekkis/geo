@@ -1,0 +1,106 @@
+{
+  "data": {
+    "AA": {
+      "name": "Andaman and Nicobar Islands"
+    },
+    "AP": {
+      "name": "Arunachal Pradesh"
+    },
+    "ASS": {
+      "name": "Assam"
+    },
+    "BIH": {
+      "name": "Bihar"
+    },
+    "CHA": {
+      "name": "Chandigarh"
+    },
+    "CHH": {
+      "name": "Chhattisgarh"
+    },
+    "DA": {
+      "name": "Daman and Diu"
+    },
+    "GOA": {
+      "name": "Goa"
+    },
+    "GUJ": {
+      "name": "Gujarat"
+    },
+    "HAR": {
+      "name": "Haryana"
+    },
+    "HP": {
+      "name": "Himachal Pradesh"
+    },
+    "JA": {
+      "name": "Jammu and Kashmir"
+    },
+    "JHA": {
+      "name": "Jharkhand"
+    },
+    "KAR": {
+      "name": "Karnataka"
+    },
+    "KER": {
+      "name": "Kerala"
+    },
+    "LAK": {
+      "name": "Lakshadweep"
+    },
+    "MAH": {
+      "name": "Maharashtra"
+    },
+    "MAN": {
+      "name": "Manipur"
+    },
+    "MEG": {
+      "name": "Meghalaya"
+    },
+    "MIZ": {
+      "name": "Mizoram"
+    },
+    "MP": {
+      "name": "Madhya Pradesh"
+    },
+    "NAG": {
+      "name": "Nagaland"
+    },
+    "NC": {
+      "name": "National Capital Territory of Delhi"
+    },
+    "ODI": {
+      "name": "Odisha"
+    },
+    "PUD": {
+      "name": "Puducherry"
+    },
+    "PUN": {
+      "name": "Punjab"
+    },
+    "RAJ": {
+      "name": "Rajasthan"
+    },
+    "SIK": {
+      "name": "Sikkim"
+    },
+    "TEL": {
+      "name": "Telangana"
+    },
+    "TN": {
+      "name": "Tamil Nadu"
+    },
+    "TRI": {
+      "name": "Tripura"
+    },
+    "UP": {
+      "name": "Uttar Pradesh"
+    },
+    "UTT": {
+      "name": "Uttarakhand"
+    },
+    "WB": {
+      "name": "West Bengal"
+    }
+  }
+}

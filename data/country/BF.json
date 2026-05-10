@@ -1,63 +1,68 @@
 {
-  "name": {
-    "common": "Burkina Faso",
-    "official": "Burkina Faso",
-    "fr": "Burkina Faso"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Ouagadougou",
-    "fr": "Ouagadougou",
-    "hv": "Ouagadougou"
-  },
-  "iso3": "BFA",
-  "tld": ".bf",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 272967,
-  "population": 24070553,
-  "flag": "🇧🇫",
-  "demonym": {
-    "en": "Burkinabe",
-    "fr": "Burkinabe"
-  },
-  "gdp": {
-    "value": 20324617838.967648,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "226",
-  "neighbours": {
-    "NE": [
-      "NE"
+  "data": {
+    "name": {
+      "common": "Burkina Faso",
+      "official": "Burkina Faso",
+      "fr": "Burkina Faso"
+    },
+    "capital": {
+      "en": "Ouagadougou",
+      "fr": "Ouagadougou",
+      "hv": "Ouagadougou"
+    },
+    "iso3": "BFA",
+    "tld": ".bf",
+    "timezones": [
+      "UTC"
     ],
-    "NW": [
-      "ML"
+    "area": 272967,
+    "population": 24070553,
+    "flag": "🇧🇫",
+    "demonym": {
+      "en": "Burkinabe",
+      "fr": "Burkinabe"
+    },
+    "gdp": {
+      "value": 20324617838.967648,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "BJ",
-      "TG"
+    "phone-code": "226",
+    "neighbours": {
+      "NE": [
+        "NE"
+      ],
+      "NW": [
+        "ML"
+      ],
+      "SE": [
+        "BJ",
+        "TG"
+      ],
+      "SW": [
+        "CI"
+      ],
+      "S": [
+        "GH"
+      ]
+    },
+    "language-codes": [
+      "fr",
+      "hv"
     ],
-    "SW": [
-      "CI"
+    "region-codes": [
+      "WAF"
     ],
-    "S": [
-      "GH"
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
     ]
-  },
-  "language-codes": [
-    "fr",
-    "hv"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ]
+  }
 }

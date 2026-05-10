@@ -1,57 +1,62 @@
 {
-  "name": {
-    "common": "Denmark",
-    "official": "Kingdom of Denmark"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Copenhagen",
-    "dnk": "Copenhagen"
-  },
-  "iso3": "DNK",
-  "tld": ".dk",
-  "timezones": [
-    "UTC-04:00",
-    "UTC-03:00",
-    "UTC-01:00",
-    "UTC",
-    "UTC+01:00"
-  ],
-  "area": 43094,
-  "population": 6011488,
-  "flag": "🇩🇰",
-  "demonym": {
-    "en": "Danish"
-  },
-  "gdp": {
-    "value": 404198757537.9742,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "45",
-  "neighbours": {
-    "SW": [
-      "DE"
+  "data": {
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "Copenhagen",
+      "dnk": "Copenhagen"
+    },
+    "iso3": "DNK",
+    "tld": ".dk",
+    "timezones": [
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-01:00",
+      "UTC",
+      "UTC+01:00"
+    ],
+    "area": 43094,
+    "population": 6011488,
+    "flag": "🇩🇰",
+    "demonym": {
+      "en": "Danish"
+    },
+    "gdp": {
+      "value": 404198757537.9742,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "45",
+    "neighbours": {
+      "SW": [
+        "DE"
+      ]
+    },
+    "language-codes": [
+      "dnk"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "DKK"
     ]
-  },
-  "language-codes": [
-    "dnk"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "DKK"
-  ]
+  }
 }

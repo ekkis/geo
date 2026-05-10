@@ -1,74 +1,79 @@
 {
-  "name": {
-    "common": "Serbia",
-    "official": "Republic of Serbia",
-    "cs": "Srbsko"
+  "meta": {
+    "division": "district_autonomous_province"
   },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Belgrade",
-    "cs": "Bělehrad",
-    "scg": "Belgrade",
-    "srb": "Belgrade",
-    "yu": "Belgrade",
-    "yug": "Belgrade"
-  },
-  "iso3": "SRB",
-  "tld": ".rs",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 77589,
-  "population": 6567783,
-  "flag": "🇷🇸",
-  "demonym": {
-    "en": "Serbian",
-    "cs": "srbština"
-  },
-  "gdp": {
-    "value": 75187125426.73755,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "UN"
-  ],
-  "phone-code": "381",
-  "neighbours": {
-    "NE": [
-      "RO"
+  "data": {
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia",
+      "cs": "Srbsko"
+    },
+    "region-codes": [
+      "BKS"
     ],
-    "NW": [
-      "HR",
-      "HU"
+    "capital": {
+      "en": "Belgrade",
+      "cs": "Bělehrad",
+      "scg": "Belgrade",
+      "srb": "Belgrade",
+      "yu": "Belgrade",
+      "yug": "Belgrade"
+    },
+    "iso3": "SRB",
+    "tld": ".rs",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "BG",
-      "XK",
-      "MK"
+    "area": 77589,
+    "population": 6567783,
+    "flag": "🇷🇸",
+    "demonym": {
+      "en": "Serbian",
+      "cs": "srbština"
+    },
+    "gdp": {
+      "value": 75187125426.73755,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "UN"
     ],
-    "SW": [
-      "ME"
+    "phone-code": "381",
+    "neighbours": {
+      "NE": [
+        "RO"
+      ],
+      "NW": [
+        "HR",
+        "HU"
+      ],
+      "SE": [
+        "BG",
+        "XK",
+        "MK"
+      ],
+      "SW": [
+        "ME"
+      ],
+      "W": [
+        "BA"
+      ]
+    },
+    "language-codes": [
+      "cs",
+      "scg",
+      "srb",
+      "yu",
+      "yug"
     ],
-    "W": [
-      "BA"
+    "continent-code": "EU",
+    "currency-codes": [
+      "RSD"
     ]
-  },
-  "language-codes": [
-    "cs",
-    "scg",
-    "srb",
-    "yu",
-    "yug"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "RSD"
-  ]
+  }
 }

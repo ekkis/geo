@@ -1,39 +1,44 @@
 {
-  "name": {
-    "common": "Seychelles",
-    "official": "Republic of Seychelles"
+  "meta": {
+    "division": "district"
   },
-  "capital": {
-    "en": "Victoria",
-    "syc": "Victoria"
-  },
-  "iso3": "SYC",
-  "tld": ".sc",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 452,
-  "population": 122729,
-  "flag": "🇸🇨",
-  "demonym": {
-    "en": "Seychellois"
-  },
-  "gdp": {
-    "value": 2141450171.1393213,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "248",
-  "language-codes": [
-    "syc"
-  ],
-  "region-codes": [],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SCR"
-  ]
+  "data": {
+    "name": {
+      "common": "Seychelles",
+      "official": "Republic of Seychelles"
+    },
+    "capital": {
+      "en": "Victoria",
+      "syc": "Victoria"
+    },
+    "iso3": "SYC",
+    "tld": ".sc",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 452,
+    "population": 122729,
+    "flag": "🇸🇨",
+    "demonym": {
+      "en": "Seychellois"
+    },
+    "gdp": {
+      "value": 2141450171.1393213,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "248",
+    "language-codes": [
+      "syc"
+    ],
+    "region-codes": [],
+    "continent-code": "AF",
+    "currency-codes": [
+      "SCR"
+    ]
+  }
 }

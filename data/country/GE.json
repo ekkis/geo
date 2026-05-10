@@ -1,56 +1,61 @@
 {
-  "name": {
-    "common": "Georgia",
-    "official": "Georgia"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "CAUC"
-  ],
-  "capital": {
-    "en": "Tbilisi",
-    "geo": "Tbilisi"
-  },
-  "iso3": "GEO",
-  "tld": ".ge",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 69700,
-  "population": 4000921,
-  "flag": "🇬🇪",
-  "demonym": {
-    "en": "Georgian"
-  },
-  "gdp": {
-    "value": 30535530479.022663,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "995",
-  "neighbours": {
-    "NE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Georgia",
+      "official": "Georgia"
+    },
+    "region-codes": [
+      "CAUC"
     ],
-    "SE": [
-      "AM",
-      "AZ"
+    "capital": {
+      "en": "Tbilisi",
+      "geo": "Tbilisi"
+    },
+    "iso3": "GEO",
+    "tld": ".ge",
+    "timezones": [
+      "UTC+04:00"
     ],
-    "SW": [
-      "TR"
+    "area": 69700,
+    "population": 4000921,
+    "flag": "🇬🇪",
+    "demonym": {
+      "en": "Georgian"
+    },
+    "gdp": {
+      "value": 30535530479.022663,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "995",
+    "neighbours": {
+      "NE": [
+        "RU"
+      ],
+      "SE": [
+        "AM",
+        "AZ"
+      ],
+      "SW": [
+        "TR"
+      ]
+    },
+    "language-codes": [
+      "geo"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "GEL"
     ]
-  },
-  "language-codes": [
-    "geo"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "GEL"
-  ]
+  }
 }

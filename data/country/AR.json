@@ -1,58 +1,63 @@
 {
-  "name": {
-    "common": "Argentina",
-    "official": "Argentine Republic"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Buenos Aires",
-    "an": "Buenos Aires"
-  },
-  "iso3": "ARG",
-  "tld": ".ar",
-  "timezones": [
-    "UTC-03:00"
-  ],
-  "area": 2780400,
-  "population": 46735004,
-  "flag": "🇦🇷",
-  "demonym": {
-    "en": "Argentine"
-  },
-  "gdp": {
-    "value": 640591410663.8834,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@####@@@",
-    "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "54",
-  "neighbours": {
-    "NE": [
-      "BR",
-      "PY",
-      "UY"
+  "data": {
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic"
+    },
+    "capital": {
+      "en": "Buenos Aires",
+      "an": "Buenos Aires"
+    },
+    "iso3": "ARG",
+    "tld": ".ar",
+    "timezones": [
+      "UTC-03:00"
     ],
-    "NW": [
-      "BO",
-      "CL"
+    "area": 2780400,
+    "population": 46735004,
+    "flag": "🇦🇷",
+    "demonym": {
+      "en": "Argentine"
+    },
+    "gdp": {
+      "value": 640591410663.8834,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@####@@@",
+      "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "54",
+    "neighbours": {
+      "NE": [
+        "BR",
+        "PY",
+        "UY"
+      ],
+      "NW": [
+        "BO",
+        "CL"
+      ]
+    },
+    "language-codes": [
+      "an"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "ARS"
     ]
-  },
-  "language-codes": [
-    "an"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "ARS"
-  ]
+  }
 }

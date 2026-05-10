@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Norway",
-    "official": "Kingdom of Norway"
+  "meta": {
+    "division": "county"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Oslo"
-  },
-  "iso3": "NOR",
-  "tld": ".no",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 386224,
-  "population": 5606944,
-  "flag": "🇳🇴",
-  "demonym": {
-    "en": "Norwegian"
-  },
-  "gdp": {
-    "value": 485513316503.63043,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "47",
-  "neighbours": {
-    "NE": [
-      "FI"
+  "data": {
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway"
+    },
+    "region-codes": [
+      "NOR"
     ],
-    "SE": [
-      "RU"
+    "capital": {
+      "en": "Oslo"
+    },
+    "iso3": "NOR",
+    "tld": ".no",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "E": [
-      "SE"
+    "area": 386224,
+    "population": 5606944,
+    "flag": "🇳🇴",
+    "demonym": {
+      "en": "Norwegian"
+    },
+    "gdp": {
+      "value": 485513316503.63043,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "47",
+    "neighbours": {
+      "NE": [
+        "FI"
+      ],
+      "SE": [
+        "RU"
+      ],
+      "E": [
+        "SE"
+      ]
+    },
+    "language-codes": [],
+    "continent-code": "EU",
+    "currency-codes": [
+      "NOK"
     ]
-  },
-  "language-codes": [],
-  "continent-code": "EU",
-  "currency-codes": [
-    "NOK"
-  ]
+  }
 }

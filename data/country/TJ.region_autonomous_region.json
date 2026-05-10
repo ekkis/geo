@@ -1,0 +1,24 @@
+{
+  "data": {
+    "Dushanbe": {
+      "DUSH": {
+        "name": "Dushanbe"
+      }
+    },
+    "Gorno-Badakhshan": {
+      "GBAO": {
+        "name": "Gorno-Badakhshan"
+      }
+    },
+    "Khatlon": {
+      "KHAT": {
+        "name": "Khatlon"
+      }
+    },
+    "Sughd": {
+      "SUGH": {
+        "name": "Sughd"
+      }
+    }
+  }
+}

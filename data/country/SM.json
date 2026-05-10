@@ -1,50 +1,55 @@
 {
-  "name": {
-    "common": "San Marino",
-    "official": "Republic of San Marino",
-    "it": "San Marino"
+  "meta": {
+    "division": "municipality"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "San Marino",
-    "it": "San Marino"
-  },
-  "iso3": "SMR",
-  "tld": ".sm",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 61,
-  "population": 34132,
-  "flag": "🇸🇲",
-  "demonym": {
-    "en": "Sammarinese",
-    "it": "Sammarinese"
-  },
-  "gdp": {
-    "value": 1855382833.1164992,
-    "year": 2021
-  },
-  "postal-code": {
-    "format": "4789#",
-    "regex": "^(4789\\d)$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "378",
-  "neighbours": {
-    "SE": [
-      "IT"
+  "data": {
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino",
+      "it": "San Marino"
+    },
+    "region-codes": [
+      "CEU"
+    ],
+    "capital": {
+      "en": "San Marino",
+      "it": "San Marino"
+    },
+    "iso3": "SMR",
+    "tld": ".sm",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 61,
+    "population": 34132,
+    "flag": "🇸🇲",
+    "demonym": {
+      "en": "Sammarinese",
+      "it": "Sammarinese"
+    },
+    "gdp": {
+      "value": 1855382833.1164992,
+      "year": 2021
+    },
+    "postal-code": {
+      "format": "4789#",
+      "regex": "^(4789\\d)$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "378",
+    "neighbours": {
+      "SE": [
+        "IT"
+      ]
+    },
+    "language-codes": [
+      "it"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "it"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

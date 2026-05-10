@@ -1,52 +1,57 @@
 {
-  "name": {
-    "common": "Djibouti",
-    "official": "Republic of Djibouti"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Djibouti",
-    "dji": "Djibouti"
-  },
-  "iso3": "DJI",
-  "tld": ".dj",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 23200,
-  "population": 1066809,
-  "flag": "🇩🇯",
-  "demonym": {
-    "en": "Djibouti"
-  },
-  "gdp": {
-    "value": 4098530513.5577674,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "253",
-  "neighbours": {
-    "NW": [
-      "ER"
+  "data": {
+    "name": {
+      "common": "Djibouti",
+      "official": "Republic of Djibouti"
+    },
+    "capital": {
+      "en": "Djibouti",
+      "dji": "Djibouti"
+    },
+    "iso3": "DJI",
+    "tld": ".dj",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "SO"
+    "area": 23200,
+    "population": 1066809,
+    "flag": "🇩🇯",
+    "demonym": {
+      "en": "Djibouti"
+    },
+    "gdp": {
+      "value": 4098530513.5577674,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "ET"
+    "phone-code": "253",
+    "neighbours": {
+      "NW": [
+        "ER"
+      ],
+      "SE": [
+        "SO"
+      ],
+      "SW": [
+        "ET"
+      ]
+    },
+    "language-codes": [
+      "dji"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "DJF"
     ]
-  },
-  "language-codes": [
-    "dji"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "DJF"
-  ]
+  }
 }

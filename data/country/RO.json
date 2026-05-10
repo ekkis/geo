@@ -1,62 +1,67 @@
 {
-  "name": {
-    "common": "Romania",
-    "official": "Romania"
+  "meta": {
+    "division": "development_region"
   },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Bucharest",
-    "rou": "Bucharest"
-  },
-  "iso3": "ROU",
-  "tld": ".ro",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 238391,
-  "population": 19036031,
-  "flag": "🇷🇴",
-  "demonym": {
-    "en": "Romanian"
-  },
-  "gdp": {
-    "value": 351002579629.6701,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "40",
-  "neighbours": {
-    "NE": [
-      "MD",
-      "UA"
+  "data": {
+    "name": {
+      "common": "Romania",
+      "official": "Romania"
+    },
+    "region-codes": [
+      "BKS"
     ],
-    "NW": [
-      "HU"
+    "capital": {
+      "en": "Bucharest",
+      "rou": "Bucharest"
+    },
+    "iso3": "ROU",
+    "tld": ".ro",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "RS"
+    "area": 238391,
+    "population": 19036031,
+    "flag": "🇷🇴",
+    "demonym": {
+      "en": "Romanian"
+    },
+    "gdp": {
+      "value": 351002579629.6701,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "S": [
-      "BG"
+    "phone-code": "40",
+    "neighbours": {
+      "NE": [
+        "MD",
+        "UA"
+      ],
+      "NW": [
+        "HU"
+      ],
+      "SW": [
+        "RS"
+      ],
+      "S": [
+        "BG"
+      ]
+    },
+    "language-codes": [
+      "rou"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "RON"
     ]
-  },
-  "language-codes": [
-    "rou"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "RON"
-  ]
+  }
 }

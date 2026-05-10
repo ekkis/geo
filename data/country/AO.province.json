@@ -1,0 +1,43 @@
+{
+  "data": {
+    "BI": {
+      "name": "Bié"
+    },
+    "BN": {
+      "name": "Benguela"
+    },
+    "CC": {
+      "name": "Cuando Cubango"
+    },
+    "CN": {
+      "name": "Cunene"
+    },
+    "CNB": {
+      "name": "Cuanza Norte"
+    },
+    "CU": {
+      "name": "Cuanza Sul"
+    },
+    "HO": {
+      "name": "Huambo"
+    },
+    "HS": {
+      "name": "Huíla"
+    },
+    "LN": {
+      "name": "Lunda Norte"
+    },
+    "LS": {
+      "name": "Lunda Sul"
+    },
+    "LUA": {
+      "name": "Luanda"
+    },
+    "MX": {
+      "name": "Moxico"
+    },
+    "NO": {
+      "name": "Namibe"
+    }
+  }
+}

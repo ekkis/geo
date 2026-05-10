@@ -1,53 +1,58 @@
 {
-  "name": {
-    "common": "Namibia",
-    "official": "Republic of Namibia"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Windhoek",
-    "nam": "Windhoek"
-  },
-  "iso3": "NAM",
-  "tld": ".na",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 825615,
-  "population": 3022401,
-  "flag": "🇳🇦",
-  "demonym": {
-    "en": "Namibian"
-  },
-  "gdp": {
-    "value": 12351024843.746696,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "264",
-  "neighbours": {
-    "NE": [
-      "AO",
-      "ZM"
+  "data": {
+    "name": {
+      "common": "Namibia",
+      "official": "Republic of Namibia"
+    },
+    "capital": {
+      "en": "Windhoek",
+      "nam": "Windhoek"
+    },
+    "iso3": "NAM",
+    "tld": ".na",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "ZA"
+    "area": 825615,
+    "population": 3022401,
+    "flag": "🇳🇦",
+    "demonym": {
+      "en": "Namibian"
+    },
+    "gdp": {
+      "value": 12351024843.746696,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "E": [
-      "BW"
+    "phone-code": "264",
+    "neighbours": {
+      "NE": [
+        "AO",
+        "ZM"
+      ],
+      "SE": [
+        "ZA"
+      ],
+      "E": [
+        "BW"
+      ]
+    },
+    "language-codes": [
+      "nam"
+    ],
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "NAD"
     ]
-  },
-  "language-codes": [
-    "nam"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "NAD"
-  ]
+  }
 }

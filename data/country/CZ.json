@@ -1,58 +1,63 @@
 {
-  "name": {
-    "common": "Czechia",
-    "official": "Czech Republic"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Prague",
-    "cze": "Prague"
-  },
-  "iso3": "CZE",
-  "tld": ".cz",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 78865,
-  "population": 10882341,
-  "flag": "🇨🇿",
-  "demonym": {
-    "en": "Czech"
-  },
-  "gdp": {
-    "value": 330858339871.6861,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "### ##",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "EU",
-    "UN"
-  ],
-  "phone-code": "420",
-  "neighbours": {
-    "NE": [
-      "PL"
+  "data": {
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "NW": [
-      "DE"
+    "capital": {
+      "en": "Prague",
+      "cze": "Prague"
+    },
+    "iso3": "CZE",
+    "tld": ".cz",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "SK"
+    "area": 78865,
+    "population": 10882341,
+    "flag": "🇨🇿",
+    "demonym": {
+      "en": "Czech"
+    },
+    "gdp": {
+      "value": 330858339871.6861,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "### ##",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "EU",
+      "UN"
     ],
-    "SW": [
-      "AT"
+    "phone-code": "420",
+    "neighbours": {
+      "NE": [
+        "PL"
+      ],
+      "NW": [
+        "DE"
+      ],
+      "SE": [
+        "SK"
+      ],
+      "SW": [
+        "AT"
+      ]
+    },
+    "language-codes": [
+      "cze"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "CZK"
     ]
-  },
-  "language-codes": [
-    "cze"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "CZK"
-  ]
+  }
 }

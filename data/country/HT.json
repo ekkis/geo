@@ -1,50 +1,55 @@
 {
-  "name": {
-    "common": "Haiti",
-    "official": "Republic of Haiti"
+  "meta": {
+    "division": "department"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Port-au-Prince",
-    "hti": "Port-au-Prince"
-  },
-  "iso3": "HTI",
-  "tld": ".ht",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 27750,
-  "population": 11867032,
-  "flag": "🇭🇹",
-  "demonym": {
-    "en": "Haitian"
-  },
-  "gdp": {
-    "value": 19850829757.747147,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "HT####",
-    "regex": "^(?:HT)*(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "509",
-  "neighbours": {
-    "E": [
-      "DO"
+  "data": {
+    "name": {
+      "common": "Haiti",
+      "official": "Republic of Haiti"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Port-au-Prince",
+      "hti": "Port-au-Prince"
+    },
+    "iso3": "HTI",
+    "tld": ".ht",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 27750,
+    "population": 11867032,
+    "flag": "🇭🇹",
+    "demonym": {
+      "en": "Haitian"
+    },
+    "gdp": {
+      "value": 19850829757.747147,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "HT####",
+      "regex": "^(?:HT)*(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "509",
+    "neighbours": {
+      "E": [
+        "DO"
+      ]
+    },
+    "language-codes": [
+      "hti"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "HTG"
     ]
-  },
-  "language-codes": [
-    "hti"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "HTG"
-  ]
+  }
 }

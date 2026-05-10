@@ -1,49 +1,56 @@
 {
-  "name": {
-    "common": "Andorra",
-    "official": "Principality of Andorra"
+  "meta": {
+    "division": "parish"
   },
-  "region-codes": [ "SEU" ],
-  "capital": {
-    "en": "Andorra la Vella",
-    "and": "Andorra la Vella"
-  },
-  "iso3": "AND",
-  "tld": ".ad",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 468,
-  "population": 88406,
-  "flag": "🇦🇩",
-  "demonym": {
-    "en": "Andorran"
-  },
-  "gdp": {
-    "value": 3727673593.0192156,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "AD###",
-    "regex": "^(?:AD)*(\\d{3})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "376",
-  "neighbours": {
-    "NE": [
-      "FR"
+  "data": {
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra"
+    },
+    "region-codes": [
+      "SEU"
     ],
-    "SW": [
-      "ES"
+    "capital": {
+      "en": "Andorra la Vella",
+      "and": "Andorra la Vella"
+    },
+    "iso3": "AND",
+    "tld": ".ad",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 468,
+    "population": 88406,
+    "flag": "🇦🇩",
+    "demonym": {
+      "en": "Andorran"
+    },
+    "gdp": {
+      "value": 3727673593.0192156,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "AD###",
+      "regex": "^(?:AD)*(\\d{3})$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "376",
+    "neighbours": {
+      "NE": [
+        "FR"
+      ],
+      "SW": [
+        "ES"
+      ]
+    },
+    "language-codes": [
+      "and"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "and"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

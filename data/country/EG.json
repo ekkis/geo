@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Egypt",
-    "official": "Arab Republic of Egypt",
-    "ar": "مصر"
+  "meta": {
+    "division": "governorate"
   },
-  "capital": {
-    "en": "Cairo",
-    "ar": "القاهرة"
-  },
-  "iso3": "EGY",
-  "tld": ".eg",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 1002450,
-  "population": 107271260,
-  "flag": "🇪🇬",
-  "demonym": {
-    "en": "Egyptian",
-    "ar": "مصري"
-  },
-  "gdp": {
-    "value": 395926075163.0058,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "20",
-  "neighbours": {
-    "NE": [
-      "PS",
-      "IL"
+  "data": {
+    "name": {
+      "common": "Egypt",
+      "official": "Arab Republic of Egypt",
+      "ar": "مصر"
+    },
+    "capital": {
+      "en": "Cairo",
+      "ar": "القاهرة"
+    },
+    "iso3": "EGY",
+    "tld": ".eg",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "LY"
+    "area": 1002450,
+    "population": 107271260,
+    "flag": "🇪🇬",
+    "demonym": {
+      "en": "Egyptian",
+      "ar": "مصري"
+    },
+    "gdp": {
+      "value": 395926075163.0058,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "S": [
-      "SD"
+    "phone-code": "20",
+    "neighbours": {
+      "NE": [
+        "PS",
+        "IL"
+      ],
+      "SW": [
+        "LY"
+      ],
+      "S": [
+        "SD"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "region-codes": [
+      "NAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "EGP"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "region-codes": [
-    "NAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "EGP"
-  ]
+  }
 }

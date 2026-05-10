@@ -1,0 +1,99 @@
+{
+  "data": {
+    "Bács-Kiskun": {
+      "BAC": {
+        "name": "Bács-Kiskun"
+      }
+    },
+    "Baranya": {
+      "BAR": {
+        "name": "Baranya"
+      }
+    },
+    "Békés": {
+      "BEK": {
+        "name": "Békés"
+      }
+    },
+    "Borsod-Abaúj-Zemplén": {
+      "BOR": {
+        "name": "Borsod-Abaúj-Zemplén"
+      }
+    },
+    "Budapest": {
+      "BUD": {
+        "name": "Budapest"
+      }
+    },
+    "Fejér": {
+      "FEJ": {
+        "name": "Fejér"
+      }
+    },
+    "Győr-Moson-Sopron": {
+      "GYO": {
+        "name": "Győr-Moson-Sopron"
+      }
+    },
+    "Hajdú-Bihar": {
+      "HAJ": {
+        "name": "Hajdú-Bihar"
+      }
+    },
+    "Heves": {
+      "HEV": {
+        "name": "Heves"
+      }
+    },
+    "Jász-Nagykun-Szolnok": {
+      "JAS": {
+        "name": "Jász-Nagykun-Szolnok"
+      }
+    },
+    "Komárom-Esztergom": {
+      "KOM": {
+        "name": "Komárom-Esztergom"
+      }
+    },
+    "Nógrád": {
+      "NOG": {
+        "name": "Nógrád"
+      }
+    },
+    "Pest": {
+      "PES": {
+        "name": "Pest"
+      }
+    },
+    "Somogy": {
+      "SOM": {
+        "name": "Somogy"
+      }
+    },
+    "Szabolcs-Szatmár-Bereg": {
+      "SZA": {
+        "name": "Szabolcs-Szatmár-Bereg"
+      }
+    },
+    "Tolna": {
+      "TOL": {
+        "name": "Tolna"
+      }
+    },
+    "Vas": {
+      "VAS": {
+        "name": "Vas"
+      }
+    },
+    "Veszprém": {
+      "VES": {
+        "name": "Veszprém"
+      }
+    },
+    "Zala": {
+      "ZAL": {
+        "name": "Zala"
+      }
+    }
+  }
+}

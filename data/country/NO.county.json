@@ -1,0 +1,104 @@
+{
+  "data": {
+    "Akershus": {
+      "AKE": {
+        "name": "Akershus"
+      }
+    },
+    "Aust-Agder": {
+      "AUS": {
+        "name": "Aust-Agder"
+      }
+    },
+    "Buskerud": {
+      "BUS": {
+        "name": "Buskerud"
+      }
+    },
+    "Finnmark": {
+      "FIN": {
+        "name": "Finnmark"
+      }
+    },
+    "Hedmark": {
+      "HED": {
+        "name": "Hedmark"
+      }
+    },
+    "Hordaland": {
+      "HOR": {
+        "name": "Hordaland"
+      }
+    },
+    "Møre og Romsdal": {
+      "MREOG": {
+        "name": "Møre og Romsdal"
+      }
+    },
+    "Nord-Trøndelag": {
+      "NOR": {
+        "name": "Nord-Trøndelag"
+      }
+    },
+    "Nordland": {
+      "NOR1": {
+        "name": "Nordland"
+      }
+    },
+    "Oppland": {
+      "OPP": {
+        "name": "Oppland"
+      }
+    },
+    "Oslo": {
+      "OSL": {
+        "name": "Oslo"
+      }
+    },
+    "Rogaland": {
+      "ROG": {
+        "name": "Rogaland"
+      }
+    },
+    "Sogn og Fjordane": {
+      "SOGOG": {
+        "name": "Sogn og Fjordane"
+      }
+    },
+    "Sør-Trøndelag": {
+      "SR-": {
+        "name": "Sør-Trøndelag"
+      }
+    },
+    "Østfold": {
+      "STF": {
+        "name": "Østfold"
+      }
+    },
+    "Svalbard": {
+      "SVA": {
+        "name": "Svalbard"
+      }
+    },
+    "Telemark": {
+      "TEL": {
+        "name": "Telemark"
+      }
+    },
+    "Troms": {
+      "TRO": {
+        "name": "Troms"
+      }
+    },
+    "Vestfold": {
+      "VES": {
+        "name": "Vestfold"
+      }
+    },
+    "Vest-Agder": {
+      "VES1": {
+        "name": "Vest-Agder"
+      }
+    }
+  }
+}

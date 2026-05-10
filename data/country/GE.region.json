@@ -1,0 +1,64 @@
+{
+  "data": {
+    "Abkhazia": {
+      "ABKHAZ": {
+        "name": "Abkhazia"
+      }
+    },
+    "Adjara": {
+      "ADJARA": {
+        "name": "Adjara"
+      }
+    },
+    "Guria": {
+      "GURIA": {
+        "name": "Guria"
+      }
+    },
+    "Imereti": {
+      "IMERE": {
+        "name": "Imereti"
+      }
+    },
+    "Kakheti": {
+      "KAKHET": {
+        "name": "Kakheti"
+      }
+    },
+    "Kvemo Kartli": {
+      "KVEVKAR": {
+        "name": "Kvemo Kartli"
+      }
+    },
+    "Mtskheta-Mtianeti": {
+      "MTSKEH": {
+        "name": "Mtskheta-Mtianeti"
+      }
+    },
+    "Racha-Lechkhumi and Kvemo Svaneti": {
+      "RACHAL": {
+        "name": "Racha-Lechkhumi and Kvemo Svaneti"
+      }
+    },
+    "Samegrelo-Zemo Svaneti": {
+      "SAMEGRE": {
+        "name": "Samegrelo-Zemo Svaneti"
+      }
+    },
+    "Samtskhe-Javakheti": {
+      "SAMTSKH": {
+        "name": "Samtskhe-Javakheti"
+      }
+    },
+    "Shida Kartli": {
+      "SHIDKAR": {
+        "name": "Shida Kartli"
+      }
+    },
+    "Tbilisi": {
+      "TBILISI": {
+        "name": "Tbilisi"
+      }
+    }
+  }
+}

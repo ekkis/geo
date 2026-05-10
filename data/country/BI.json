@@ -1,52 +1,57 @@
 {
-  "name": {
-    "common": "Burundi",
-    "official": "Republic of Burundi"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Bujumbura",
-    "bdi": "Bujumbura"
-  },
-  "iso3": "BDI",
-  "tld": ".bi",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 27834,
-  "population": 12332788,
-  "flag": "🇧🇮",
-  "demonym": {
-    "en": "Burundian"
-  },
-  "gdp": {
-    "value": 2642161668.9275384,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "257",
-  "neighbours": {
-    "NW": [
-      "CD"
+  "data": {
+    "name": {
+      "common": "Burundi",
+      "official": "Republic of Burundi"
+    },
+    "capital": {
+      "en": "Bujumbura",
+      "bdi": "Bujumbura"
+    },
+    "iso3": "BDI",
+    "tld": ".bi",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SE": [
-      "TZ"
+    "area": 27834,
+    "population": 12332788,
+    "flag": "🇧🇮",
+    "demonym": {
+      "en": "Burundian"
+    },
+    "gdp": {
+      "value": 2642161668.9275384,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "N": [
-      "RW"
+    "phone-code": "257",
+    "neighbours": {
+      "NW": [
+        "CD"
+      ],
+      "SE": [
+        "TZ"
+      ],
+      "N": [
+        "RW"
+      ]
+    },
+    "language-codes": [
+      "bdi"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "BIF"
     ]
-  },
-  "language-codes": [
-    "bdi"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "BIF"
-  ]
+  }
 }

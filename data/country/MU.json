@@ -1,39 +1,44 @@
 {
-  "name": {
-    "common": "Mauritius",
-    "official": "Republic of Mauritius"
+  "meta": {
+    "division": "district"
   },
-  "capital": {
-    "en": "Port Louis",
-    "mus": "Port Louis"
-  },
-  "iso3": "MUS",
-  "tld": ".mu",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 2040,
-  "population": 1243741,
-  "flag": "🇲🇺",
-  "demonym": {
-    "en": "Mauritian"
-  },
-  "gdp": {
-    "value": 14397127281.382942,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "230",
-  "language-codes": [
-    "mus"
-  ],
-  "region-codes": [],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MUR"
-  ]
+  "data": {
+    "name": {
+      "common": "Mauritius",
+      "official": "Republic of Mauritius"
+    },
+    "capital": {
+      "en": "Port Louis",
+      "mus": "Port Louis"
+    },
+    "iso3": "MUS",
+    "tld": ".mu",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 2040,
+    "population": 1243741,
+    "flag": "🇲🇺",
+    "demonym": {
+      "en": "Mauritian"
+    },
+    "gdp": {
+      "value": 14397127281.382942,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "230",
+    "language-codes": [
+      "mus"
+    ],
+    "region-codes": [],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MUR"
+    ]
+  }
 }

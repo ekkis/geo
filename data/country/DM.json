@@ -1,41 +1,46 @@
 {
-  "name": {
-    "common": "Dominica",
-    "official": "Commonwealth of Dominica"
+  "meta": {
+    "division": "parish"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Roseau",
-    "dma": "Roseau"
-  },
-  "iso3": "DMA",
-  "tld": ".dm",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 751,
-  "population": 67408,
-  "flag": "🇩🇲",
-  "demonym": {
-    "en": "Dominican"
-  },
-  "gdp": {
-    "value": 653992592.5925926,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-767",
-  "language-codes": [
-    "dma"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Dominica",
+      "official": "Commonwealth of Dominica"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Roseau",
+      "dma": "Roseau"
+    },
+    "iso3": "DMA",
+    "tld": ".dm",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 751,
+    "population": 67408,
+    "flag": "🇩🇲",
+    "demonym": {
+      "en": "Dominican"
+    },
+    "gdp": {
+      "value": 653992592.5925926,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-767",
+    "language-codes": [
+      "dma"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

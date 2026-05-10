@@ -1,48 +1,53 @@
 {
-  "name": {
-    "common": "Philippines",
-    "official": "Republic of the Philippines",
-    "tl": "Pilipinas"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "SEA"
-  ],
-  "capital": {
-    "en": "Manila",
-    "tl": "Maynila"
-  },
-  "iso3": "PHL",
-  "tld": ".ph",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 342353,
-  "population": 114123600,
-  "flag": "🇵🇭",
-  "demonym": {
-    "en": "Filipino",
-    "tl": "Filipino"
-  },
-  "gdp": {
-    "value": 437146372729.94244,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "ASEAN",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "63",
-  "language-codes": [
-    "tl"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "PHP"
-  ]
+  "data": {
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines",
+      "tl": "Pilipinas"
+    },
+    "region-codes": [
+      "SEA"
+    ],
+    "capital": {
+      "en": "Manila",
+      "tl": "Maynila"
+    },
+    "iso3": "PHL",
+    "tld": ".ph",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 342353,
+    "population": 114123600,
+    "flag": "🇵🇭",
+    "demonym": {
+      "en": "Filipino",
+      "tl": "Filipino"
+    },
+    "gdp": {
+      "value": 437146372729.94244,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "ASEAN",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "63",
+    "language-codes": [
+      "tl"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "PHP"
+    ]
+  }
 }

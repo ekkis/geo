@@ -1,65 +1,70 @@
 {
-  "name": {
-    "common": "South Africa",
-    "official": "Republic of South Africa",
-    "af": "Suid-Afrika"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Pretoria",
-    "af": "Pretoria"
-  },
-  "iso3": "ZAF",
-  "tld": ".za",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 1221037,
-  "population": 63100945,
-  "flag": "🇿🇦",
-  "demonym": {
-    "en": "South African",
-    "af": "Suid-Afrikaans"
-  },
-  "gdp": {
-    "value": 377781600985.8731,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "27",
-  "neighbours": {
-    "NE": [
-      "MZ",
-      "SZ",
-      "ZW"
+  "data": {
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "af": "Suid-Afrika"
+    },
+    "capital": {
+      "en": "Pretoria",
+      "af": "Pretoria"
+    },
+    "iso3": "ZAF",
+    "tld": ".za",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "NW": [
-      "NA"
+    "area": 1221037,
+    "population": 63100945,
+    "flag": "🇿🇦",
+    "demonym": {
+      "en": "South African",
+      "af": "Suid-Afrikaans"
+    },
+    "gdp": {
+      "value": 377781600985.8731,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "LS"
+    "phone-code": "27",
+    "neighbours": {
+      "NE": [
+        "MZ",
+        "SZ",
+        "ZW"
+      ],
+      "NW": [
+        "NA"
+      ],
+      "SE": [
+        "LS"
+      ],
+      "N": [
+        "BW"
+      ]
+    },
+    "language-codes": [
+      "af"
     ],
-    "N": [
-      "BW"
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "ZAR"
     ]
-  },
-  "language-codes": [
-    "af"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "ZAR"
-  ]
+  }
 }

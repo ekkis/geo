@@ -1,49 +1,54 @@
 {
-  "name": {
-    "common": "Sierra Leone",
-    "official": "Republic of Sierra Leone"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Freetown",
-    "sle": "Freetown"
-  },
-  "iso3": "SLE",
-  "tld": ".sl",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 71740,
-  "population": 9077691,
-  "flag": "🇸🇱",
-  "demonym": {
-    "en": "Sierra Leonean"
-  },
-  "gdp": {
-    "value": 3809832236.9595933,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "232",
-  "neighbours": {
-    "NE": [
-      "GN"
+  "data": {
+    "name": {
+      "common": "Sierra Leone",
+      "official": "Republic of Sierra Leone"
+    },
+    "capital": {
+      "en": "Freetown",
+      "sle": "Freetown"
+    },
+    "iso3": "SLE",
+    "tld": ".sl",
+    "timezones": [
+      "UTC"
     ],
-    "SE": [
-      "LR"
+    "area": 71740,
+    "population": 9077691,
+    "flag": "🇸🇱",
+    "demonym": {
+      "en": "Sierra Leonean"
+    },
+    "gdp": {
+      "value": 3809832236.9595933,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "232",
+    "neighbours": {
+      "NE": [
+        "GN"
+      ],
+      "SE": [
+        "LR"
+      ]
+    },
+    "language-codes": [
+      "sle"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "SLL"
     ]
-  },
-  "language-codes": [
-    "sle"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SLL"
-  ]
+  }
 }

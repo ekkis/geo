@@ -1,62 +1,67 @@
 {
-  "name": {
-    "common": "Croatia",
-    "official": "Republic of Croatia",
-    "hr": "Hrvatska"
+  "meta": {
+    "division": "county"
   },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Zagreb",
-    "hr": "Zagreb"
-  },
-  "iso3": "HRV",
-  "tld": ".hr",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 56594,
-  "population": 3866233,
-  "flag": "🇭🇷",
-  "demonym": {
-    "en": "Croatian",
-    "hr": "hrvatski"
-  },
-  "gdp": {
-    "value": 82688842717.3926,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "HR-#####",
-    "regex": "^(?:HR)*(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "385",
-  "neighbours": {
-    "NE": [
-      "HU"
+  "data": {
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia",
+      "hr": "Hrvatska"
+    },
+    "region-codes": [
+      "BKS"
     ],
-    "NW": [
-      "SI"
+    "capital": {
+      "en": "Zagreb",
+      "hr": "Zagreb"
+    },
+    "iso3": "HRV",
+    "tld": ".hr",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "BA",
-      "ME",
-      "RS"
+    "area": 56594,
+    "population": 3866233,
+    "flag": "🇭🇷",
+    "demonym": {
+      "en": "Croatian",
+      "hr": "hrvatski"
+    },
+    "gdp": {
+      "value": 82688842717.3926,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "HR-#####",
+      "regex": "^(?:HR)*(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "385",
+    "neighbours": {
+      "NE": [
+        "HU"
+      ],
+      "NW": [
+        "SI"
+      ],
+      "SE": [
+        "BA",
+        "ME",
+        "RS"
+      ]
+    },
+    "language-codes": [
+      "hr"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "HRK"
     ]
-  },
-  "language-codes": [
-    "hr"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "HRK"
-  ]
+  }
 }

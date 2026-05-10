@@ -1,39 +1,44 @@
 {
-  "name": {
-    "common": "Solomon Islands",
-    "official": "Solomon Islands"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Honiara"
-  },
-  "iso3": "SLB",
-  "tld": ".sb",
-  "timezones": [
-    "UTC+11:00"
-  ],
-  "area": 28896,
-  "population": 750325,
-  "flag": "🇸🇧",
-  "demonym": {
-    "en": "Solomon Islander"
-  },
-  "gdp": {
-    "value": 1631286701.1151562,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "677",
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "MEL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "SBD"
-  ]
+  "data": {
+    "name": {
+      "common": "Solomon Islands",
+      "official": "Solomon Islands"
+    },
+    "capital": {
+      "en": "Honiara"
+    },
+    "iso3": "SLB",
+    "tld": ".sb",
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "area": 28896,
+    "population": 750325,
+    "flag": "🇸🇧",
+    "demonym": {
+      "en": "Solomon Islander"
+    },
+    "gdp": {
+      "value": 1631286701.1151562,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "677",
+    "language-codes": [
+      "en"
+    ],
+    "region-codes": [
+      "MEL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "SBD"
+    ]
+  }
 }

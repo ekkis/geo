@@ -1,46 +1,51 @@
 {
-  "name": {
-    "common": "Bahrain",
-    "official": "Kingdom of Bahrain",
-    "ar": "البحرين"
+  "meta": {
+    "division": "governorate"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Manama",
-    "ar": "المنامة"
-  },
-  "iso3": "BHR",
-  "tld": ".bh",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 765,
-  "population": 1594654,
-  "flag": "🇧🇭",
-  "demonym": {
-    "en": "Bahraini",
-    "ar": "بحريني"
-  },
-  "gdp": {
-    "value": 43205000000,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####|###",
-    "regex": "^(\\d{3}\\d?)$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "973",
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "BHD"
-  ]
+  "data": {
+    "name": {
+      "common": "Bahrain",
+      "official": "Kingdom of Bahrain",
+      "ar": "البحرين"
+    },
+    "region-codes": [
+      "WAS"
+    ],
+    "capital": {
+      "en": "Manama",
+      "ar": "المنامة"
+    },
+    "iso3": "BHR",
+    "tld": ".bh",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 765,
+    "population": 1594654,
+    "flag": "🇧🇭",
+    "demonym": {
+      "en": "Bahraini",
+      "ar": "بحريني"
+    },
+    "gdp": {
+      "value": 43205000000,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####|###",
+      "regex": "^(\\d{3}\\d?)$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "973",
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "BHD"
+    ]
+  }
 }

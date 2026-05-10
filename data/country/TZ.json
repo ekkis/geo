@@ -1,60 +1,65 @@
 {
-  "name": {
-    "common": "Tanzania",
-    "official": "United Republic of Tanzania",
-    "sw": "Tanzania"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Dodoma",
-    "sw": "Dodoma"
-  },
-  "iso3": "TZA",
-  "tld": ".tz",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 947303,
-  "population": 68153004,
-  "flag": "🇹🇿",
-  "demonym": {
-    "en": "Tanzanian",
-    "sw": "Mtanzania"
-  },
-  "gdp": {
-    "value": 79158286333.52399,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU"
-  ],
-  "phone-code": "255",
-  "neighbours": {
-    "NE": [
-      "KE"
+  "data": {
+    "name": {
+      "common": "Tanzania",
+      "official": "United Republic of Tanzania",
+      "sw": "Tanzania"
+    },
+    "capital": {
+      "en": "Dodoma",
+      "sw": "Dodoma"
+    },
+    "iso3": "TZA",
+    "tld": ".tz",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "NW": [
-      "BI",
-      "CD",
-      "RW",
-      "UG"
+    "area": 947303,
+    "population": 68153004,
+    "flag": "🇹🇿",
+    "demonym": {
+      "en": "Tanzanian",
+      "sw": "Mtanzania"
+    },
+    "gdp": {
+      "value": 79158286333.52399,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU"
     ],
-    "SW": [
-      "MW",
-      "ZM"
+    "phone-code": "255",
+    "neighbours": {
+      "NE": [
+        "KE"
+      ],
+      "NW": [
+        "BI",
+        "CD",
+        "RW",
+        "UG"
+      ],
+      "SW": [
+        "MW",
+        "ZM"
+      ],
+      "S": [
+        "MZ"
+      ]
+    },
+    "language-codes": [
+      "sw"
     ],
-    "S": [
-      "MZ"
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "TZS"
     ]
-  },
-  "language-codes": [
-    "sw"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "TZS"
-  ]
+  }
 }

@@ -1,72 +1,77 @@
 {
-  "name": {
-    "common": "Brazil",
-    "official": "Federative Republic of Brazil",
-    "pt": "Brasil"
+  "meta": {
+    "division": "state"
   },
-  "capital": {
-    "en": "Brasilia",
-    "pt": "Brasília"
-  },
-  "iso3": "BRA",
-  "tld": ".br",
-  "timezones": [
-    "UTC-05:00",
-    "UTC-04:00",
-    "UTC-03:00",
-    "UTC-02:00"
-  ],
-  "area": 8515767,
-  "population": 213421037,
-  "flag": "🇧🇷",
-  "demonym": {
-    "en": "Brazilian",
-    "pt": "Brazilian"
-  },
-  "gdp": {
-    "value": 2173665655937.2737,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####-###",
-    "regex": "^(\\d{8})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "55",
-  "neighbours": {
-    "NE": [
-      "GF"
+  "data": {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil",
+      "pt": "Brasil"
+    },
+    "capital": {
+      "en": "Brasilia",
+      "pt": "Brasília"
+    },
+    "iso3": "BRA",
+    "tld": ".br",
+    "timezones": [
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00"
     ],
-    "NW": [
-      "SR",
-      "CO",
-      "VE",
-      "GY"
+    "area": 8515767,
+    "population": 213421037,
+    "flag": "🇧🇷",
+    "demonym": {
+      "en": "Brazilian",
+      "pt": "Brazilian"
+    },
+    "gdp": {
+      "value": 2173665655937.2737,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####-###",
+      "regex": "^(\\d{8})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO",
+      "OAS",
+      "UN"
     ],
-    "SW": [
-      "AR",
-      "BO",
-      "PY",
-      "UY"
+    "phone-code": "55",
+    "neighbours": {
+      "NE": [
+        "GF"
+      ],
+      "NW": [
+        "SR",
+        "CO",
+        "VE",
+        "GY"
+      ],
+      "SW": [
+        "AR",
+        "BO",
+        "PY",
+        "UY"
+      ],
+      "W": [
+        "PE"
+      ]
+    },
+    "language-codes": [
+      "pt"
     ],
-    "W": [
-      "PE"
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "BRL"
     ]
-  },
-  "language-codes": [
-    "pt"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "BRL"
-  ]
+  }
 }

@@ -1,0 +1,89 @@
+{
+  "data": {
+    "Dalarna": {
+      "DAL": {
+        "name": "Dalarna"
+      }
+    },
+    "Gävleborg": {
+      "GAV": {
+        "name": "Gävleborg"
+      }
+    },
+    "Gotland": {
+      "GOT": {
+        "name": "Gotland"
+      }
+    },
+    "Halland": {
+      "HAL": {
+        "name": "Halland"
+      }
+    },
+    "Jönköping": {
+      "JON": {
+        "name": "Jönköping"
+      }
+    },
+    "Kalmar": {
+      "KAL": {
+        "name": "Kalmar"
+      }
+    },
+    "Kronoberg": {
+      "KRO": {
+        "name": "Kronoberg"
+      }
+    },
+    "Norrbotten": {
+      "NOR": {
+        "name": "Norrbotten"
+      }
+    },
+    "Örebro": {
+      "ORE": {
+        "name": "Örebro"
+      }
+    },
+    "Östergötland": {
+      "OST": {
+        "name": "Östergötland"
+      }
+    },
+    "Skåne": {
+      "SKA": {
+        "name": "Skåne"
+      }
+    },
+    "Södermanland": {
+      "SOD": {
+        "name": "Södermanland"
+      }
+    },
+    "Stockholm": {
+      "STO": {
+        "name": "Stockholm"
+      }
+    },
+    "Uppsala": {
+      "UPP": {
+        "name": "Uppsala"
+      }
+    },
+    "Värmland": {
+      "VAR": {
+        "name": "Värmland"
+      }
+    },
+    "Västernorrland": {
+      "VAS": {
+        "name": "Västernorrland"
+      }
+    },
+    "Västra Götaland": {
+      "VASGO": {
+        "name": "Västra Götaland"
+      }
+    }
+  }
+}

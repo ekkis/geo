@@ -1,65 +1,70 @@
 {
-  "name": {
-    "common": "Poland",
-    "official": "Republic of Poland",
-    "pl": "Polska"
+  "meta": {
+    "division": "voivodeship"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Warsaw",
-    "pl": "Warszawa"
-  },
-  "iso3": "POL",
-  "tld": ".pl",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 312679,
-  "population": 37392000,
-  "flag": "🇵🇱",
-  "demonym": {
-    "en": "Polish",
-    "pl": "Polski"
-  },
-  "gdp": {
-    "value": 811229100687.5663,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "##-###",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "48",
-  "neighbours": {
-    "NE": [
-      "BY",
-      "LT",
-      "RU"
+  "data": {
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland",
+      "pl": "Polska"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "SE": [
-      "UA"
+    "capital": {
+      "en": "Warsaw",
+      "pl": "Warszawa"
+    },
+    "iso3": "POL",
+    "tld": ".pl",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SW": [
-      "CZ",
-      "DE",
-      "SK"
+    "area": 312679,
+    "population": 37392000,
+    "flag": "🇵🇱",
+    "demonym": {
+      "en": "Polish",
+      "pl": "Polski"
+    },
+    "gdp": {
+      "value": 811229100687.5663,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "##-###",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "48",
+    "neighbours": {
+      "NE": [
+        "BY",
+        "LT",
+        "RU"
+      ],
+      "SE": [
+        "UA"
+      ],
+      "SW": [
+        "CZ",
+        "DE",
+        "SK"
+      ]
+    },
+    "language-codes": [
+      "pl"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "PLN"
     ]
-  },
-  "language-codes": [
-    "pl"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "PLN"
-  ]
+  }
 }

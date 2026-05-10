@@ -1,62 +1,67 @@
 {
-  "name": {
-    "common": "Bulgaria",
-    "official": "Republic of Bulgaria"
+  "meta": {
+    "division": "province"
   },
-  "region-codes": [
-    "SEU"
-  ],
-  "capital": {
-    "en": "Sofia",
-    "bgr": "Sofia"
-  },
-  "iso3": "BGR",
-  "tld": ".bg",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 110879,
-  "population": 6437360,
-  "flag": "🇧🇬",
-  "demonym": {
-    "en": "Bulgarian"
-  },
-  "gdp": {
-    "value": 101584384672.78587,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "359",
-  "neighbours": {
-    "NW": [
-      "RS"
+  "data": {
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria"
+    },
+    "region-codes": [
+      "SEU"
     ],
-    "SE": [
-      "TR"
+    "capital": {
+      "en": "Sofia",
+      "bgr": "Sofia"
+    },
+    "iso3": "BGR",
+    "tld": ".bg",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "MK",
-      "GR"
+    "area": 110879,
+    "population": 6437360,
+    "flag": "🇧🇬",
+    "demonym": {
+      "en": "Bulgarian"
+    },
+    "gdp": {
+      "value": 101584384672.78587,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "N": [
-      "RO"
+    "phone-code": "359",
+    "neighbours": {
+      "NW": [
+        "RS"
+      ],
+      "SE": [
+        "TR"
+      ],
+      "SW": [
+        "MK",
+        "GR"
+      ],
+      "N": [
+        "RO"
+      ]
+    },
+    "language-codes": [
+      "bgr"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "BGN"
     ]
-  },
-  "language-codes": [
-    "bgr"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "BGN"
-  ]
+  }
 }

@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Turkmenistan",
-    "official": "Turkmenistan"
+  "meta": {
+    "division": "province_capital_city"
   },
-  "region-codes": [
-    "CAS"
-  ],
-  "capital": {
-    "en": "Ashgabat",
-    "tk": "Ashgabat"
-  },
-  "iso3": "TKM",
-  "tld": ".tm",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "area": 488100,
-  "population": 7057841,
-  "flag": "🇹🇲",
-  "demonym": {
-    "en": "Turkmen"
-  },
-  "gdp": {
-    "value": 59887334844.06514,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "993",
-  "neighbours": {
-    "NE": [
-      "KZ",
-      "UZ"
+  "data": {
+    "name": {
+      "common": "Turkmenistan",
+      "official": "Turkmenistan"
+    },
+    "region-codes": [
+      "CAS"
     ],
-    "SE": [
-      "AF"
+    "capital": {
+      "en": "Ashgabat",
+      "tk": "Ashgabat"
+    },
+    "iso3": "TKM",
+    "tld": ".tm",
+    "timezones": [
+      "UTC+05:00"
     ],
-    "SW": [
-      "IR"
+    "area": 488100,
+    "population": 7057841,
+    "flag": "🇹🇲",
+    "demonym": {
+      "en": "Turkmen"
+    },
+    "gdp": {
+      "value": 59887334844.06514,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "993",
+    "neighbours": {
+      "NE": [
+        "KZ",
+        "UZ"
+      ],
+      "SE": [
+        "AF"
+      ],
+      "SW": [
+        "IR"
+      ]
+    },
+    "language-codes": [
+      "tk"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "TMT"
     ]
-  },
-  "language-codes": [
-    "tk"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "TMT"
-  ]
+  }
 }

@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Rwanda",
-    "official": "Republic of Rwanda"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Kigali",
-    "rwa": "Kigali"
-  },
-  "iso3": "RWA",
-  "tld": ".rw",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 26338,
-  "population": 14104969,
-  "flag": "🇷🇼",
-  "demonym": {
-    "en": "Rwandan"
-  },
-  "gdp": {
-    "value": 14097768647.66952,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "250",
-  "neighbours": {
-    "NE": [
-      "UG"
+  "data": {
+    "name": {
+      "common": "Rwanda",
+      "official": "Republic of Rwanda"
+    },
+    "capital": {
+      "en": "Kigali",
+      "rwa": "Kigali"
+    },
+    "iso3": "RWA",
+    "tld": ".rw",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SE": [
-      "TZ"
+    "area": 26338,
+    "population": 14104969,
+    "flag": "🇷🇼",
+    "demonym": {
+      "en": "Rwandan"
+    },
+    "gdp": {
+      "value": 14097768647.66952,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "S": [
-      "BI"
+    "phone-code": "250",
+    "neighbours": {
+      "NE": [
+        "UG"
+      ],
+      "SE": [
+        "TZ"
+      ],
+      "S": [
+        "BI"
+      ],
+      "NW": [
+        "CD"
+      ]
+    },
+    "language-codes": [
+      "rwa"
     ],
-    "NW": [
-      "CD"
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "RWF"
     ]
-  },
-  "language-codes": [
-    "rwa"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "RWF"
-  ]
+  }
 }

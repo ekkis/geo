@@ -1,41 +1,46 @@
 {
-  "name": {
-    "common": "Comoros",
-    "official": "Union of the Comoros"
+  "meta": {
+    "division": "island"
   },
-  "capital": {
-    "en": "Moroni",
-    "com": "Moroni"
-  },
-  "iso3": "COM",
-  "tld": ".km",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 1862,
-  "population": 919901,
-  "flag": "🇰🇲",
-  "demonym": {
-    "en": "Comoran"
-  },
-  "gdp": {
-    "value": 1352380972.1566217,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "269",
-  "language-codes": [
-    "com"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "KMF"
-  ]
+  "data": {
+    "name": {
+      "common": "Comoros",
+      "official": "Union of the Comoros"
+    },
+    "capital": {
+      "en": "Moroni",
+      "com": "Moroni"
+    },
+    "iso3": "COM",
+    "tld": ".km",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 1862,
+    "population": 919901,
+    "flag": "🇰🇲",
+    "demonym": {
+      "en": "Comoran"
+    },
+    "gdp": {
+      "value": 1352380972.1566217,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "269",
+    "language-codes": [
+      "com"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "KMF"
+    ]
+  }
 }

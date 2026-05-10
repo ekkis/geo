@@ -1,60 +1,65 @@
 {
-  "name": {
-    "common": "Mali",
-    "official": "Republic of Mali",
-    "fr": "Mali"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Bamako",
-    "fr": "Bamako"
-  },
-  "iso3": "MLI",
-  "tld": ".ml",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 1240192,
-  "population": 22395489,
-  "flag": "🇲🇱",
-  "demonym": {
-    "en": "Malian",
-    "fr": "Malien"
-  },
-  "gdp": {
-    "value": 20904898296.250145,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "223",
-  "neighbours": {
-    "NE": [
-      "DZ"
+  "data": {
+    "name": {
+      "common": "Mali",
+      "official": "Republic of Mali",
+      "fr": "Mali"
+    },
+    "capital": {
+      "en": "Bamako",
+      "fr": "Bamako"
+    },
+    "iso3": "MLI",
+    "tld": ".ml",
+    "timezones": [
+      "UTC"
     ],
-    "NW": [
-      "MR"
+    "area": 1240192,
+    "population": 22395489,
+    "flag": "🇲🇱",
+    "demonym": {
+      "en": "Malian",
+      "fr": "Malien"
+    },
+    "gdp": {
+      "value": 20904898296.250145,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "BF",
-      "NE"
+    "phone-code": "223",
+    "neighbours": {
+      "NE": [
+        "DZ"
+      ],
+      "NW": [
+        "MR"
+      ],
+      "SE": [
+        "BF",
+        "NE"
+      ],
+      "SW": [
+        "GN",
+        "CI",
+        "SN"
+      ]
+    },
+    "language-codes": [
+      "fr"
     ],
-    "SW": [
-      "GN",
-      "CI",
-      "SN"
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ]
+  }
 }

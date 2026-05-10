@@ -1,53 +1,58 @@
 {
-  "name": {
-    "common": "Panama",
-    "official": "Republic of Panama",
-    "pa": "ਪਨਾਮਾ"
+  "meta": {
+    "division": "province_indigenous_region"
   },
-  "region-codes": [
-    "CAM"
-  ],
-  "capital": {
-    "en": "Panama City",
-    "pa": "ਪਨਾਮਾ ਸਿਟੀ",
-    "pz": "Panama City"
-  },
-  "iso3": "PAN",
-  "tld": ".pa",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 75417,
-  "population": 4064780,
-  "flag": "🇵🇦",
-  "demonym": {
-    "en": "Panamanian",
-    "pa": "ਪਨਾਮੇਨੀਅਨ"
-  },
-  "gdp": {
-    "value": 83382400000,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "507",
-  "neighbours": {
-    "NW": [
-      "CR"
+  "data": {
+    "name": {
+      "common": "Panama",
+      "official": "Republic of Panama",
+      "pa": "ਪਨਾਮਾ"
+    },
+    "region-codes": [
+      "CAM"
     ],
-    "SE": [
-      "CO"
+    "capital": {
+      "en": "Panama City",
+      "pa": "ਪਨਾਮਾ ਸਿਟੀ",
+      "pz": "Panama City"
+    },
+    "iso3": "PAN",
+    "tld": ".pa",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 75417,
+    "population": 4064780,
+    "flag": "🇵🇦",
+    "demonym": {
+      "en": "Panamanian",
+      "pa": "ਪਨਾਮੇਨੀਅਨ"
+    },
+    "gdp": {
+      "value": 83382400000,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "507",
+    "neighbours": {
+      "NW": [
+        "CR"
+      ],
+      "SE": [
+        "CO"
+      ]
+    },
+    "language-codes": [
+      "pa",
+      "pz"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "PAB"
     ]
-  },
-  "language-codes": [
-    "pa",
-    "pz"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "PAB"
-  ]
+  }
 }

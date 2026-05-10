@@ -1,61 +1,66 @@
 {
-  "name": {
-    "common": "Nigeria",
-    "official": "Federal Republic of Nigeria",
-    "ha": "Najeriya"
+  "meta": {
+    "division": "state_FCT"
   },
-  "capital": {
-    "en": "Abuja",
-    "ha": "Abuja"
-  },
-  "iso3": "NGA",
-  "tld": ".ng",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 923768,
-  "population": 223800000,
-  "flag": "🇳🇬",
-  "demonym": {
-    "en": "Nigerian",
-    "ha": "Najeriya"
-  },
-  "gdp": {
-    "value": 362814951696.07275,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "234",
-  "neighbours": {
-    "NE": [
-      "TD"
+  "data": {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria",
+      "ha": "Najeriya"
+    },
+    "capital": {
+      "en": "Abuja",
+      "ha": "Abuja"
+    },
+    "iso3": "NGA",
+    "tld": ".ng",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "CM"
+    "area": 923768,
+    "population": 223800000,
+    "flag": "🇳🇬",
+    "demonym": {
+      "en": "Nigerian",
+      "ha": "Najeriya"
+    },
+    "gdp": {
+      "value": 362814951696.07275,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "BJ"
+    "phone-code": "234",
+    "neighbours": {
+      "NE": [
+        "TD"
+      ],
+      "SE": [
+        "CM"
+      ],
+      "SW": [
+        "BJ"
+      ],
+      "N": [
+        "NE"
+      ]
+    },
+    "language-codes": [
+      "ha"
     ],
-    "N": [
-      "NE"
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "NGN"
     ]
-  },
-  "language-codes": [
-    "ha"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "NGN"
-  ]
+  }
 }

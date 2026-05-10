@@ -1,45 +1,50 @@
 {
-  "name": {
-    "common": "Kiribati",
-    "official": "Independent and Sovereign Republic of Kiribati",
-    "ky": "Кирибати"
+  "meta": {
+    "division": "island_group"
   },
-  "capital": {
-    "en": "Tarawa",
-    "ct": "Tarawa",
-    "ky": "Тарава"
-  },
-  "iso3": "KIR",
-  "tld": ".ki",
-  "timezones": [
-    "UTC+12:00",
-    "UTC+13:00",
-    "UTC+14:00"
-  ],
-  "area": 811,
-  "population": 120740,
-  "flag": "🇰🇮",
-  "demonym": {
-    "en": "I-Kiribati",
-    "ky": "I-Кирибати"
-  },
-  "gdp": {
-    "value": 279034355.10842144,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "686",
-  "language-codes": [
-    "ct",
-    "ky"
-  ],
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "AUD"
-  ]
+  "data": {
+    "name": {
+      "common": "Kiribati",
+      "official": "Independent and Sovereign Republic of Kiribati",
+      "ky": "Кирибати"
+    },
+    "capital": {
+      "en": "Tarawa",
+      "ct": "Tarawa",
+      "ky": "Тарава"
+    },
+    "iso3": "KIR",
+    "tld": ".ki",
+    "timezones": [
+      "UTC+12:00",
+      "UTC+13:00",
+      "UTC+14:00"
+    ],
+    "area": 811,
+    "population": 120740,
+    "flag": "🇰🇮",
+    "demonym": {
+      "en": "I-Kiribati",
+      "ky": "I-Кирибати"
+    },
+    "gdp": {
+      "value": 279034355.10842144,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "686",
+    "language-codes": [
+      "ct",
+      "ky"
+    ],
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "AUD"
+    ]
+  }
 }

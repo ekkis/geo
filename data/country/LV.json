@@ -1,60 +1,65 @@
 {
-  "name": {
-    "common": "Latvia",
-    "official": "Republic of Latvia"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "BAL"
-  ],
-  "capital": {
-    "en": "Riga",
-    "lva": "Riga"
-  },
-  "iso3": "LVA",
-  "tld": ".lv",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 64559,
-  "population": 1829000,
-  "flag": "🇱🇻",
-  "demonym": {
-    "en": "Latvian"
-  },
-  "gdp": {
-    "value": 43627078481.28705,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "LV-####",
-    "regex": "^(?:LV)*(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "371",
-  "neighbours": {
-    "NE": [
-      "EE",
-      "RU"
+  "data": {
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia"
+    },
+    "region-codes": [
+      "BAL"
     ],
-    "SE": [
-      "BY"
+    "capital": {
+      "en": "Riga",
+      "lva": "Riga"
+    },
+    "iso3": "LVA",
+    "tld": ".lv",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "LT"
+    "area": 64559,
+    "population": 1829000,
+    "flag": "🇱🇻",
+    "demonym": {
+      "en": "Latvian"
+    },
+    "gdp": {
+      "value": 43627078481.28705,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "LV-####",
+      "regex": "^(?:LV)*(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "371",
+    "neighbours": {
+      "NE": [
+        "EE",
+        "RU"
+      ],
+      "SE": [
+        "BY"
+      ],
+      "SW": [
+        "LT"
+      ]
+    },
+    "language-codes": [
+      "lva"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "lva"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

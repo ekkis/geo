@@ -1,41 +1,46 @@
 {
-  "name": {
-    "common": "Saint Lucia",
-    "official": "Saint Lucia"
+  "meta": {
+    "division": "quarter"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Castries",
-    "lca": "Castries"
-  },
-  "iso3": "LCA",
-  "tld": ".lc",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 616,
-  "population": 184100,
-  "flag": "🇱🇨",
-  "demonym": {
-    "en": "Saint Lucian"
-  },
-  "gdp": {
-    "value": 2519925938.5244665,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-758",
-  "language-codes": [
-    "lca"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Saint Lucia",
+      "official": "Saint Lucia"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Castries",
+      "lca": "Castries"
+    },
+    "iso3": "LCA",
+    "tld": ".lc",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 616,
+    "population": 184100,
+    "flag": "🇱🇨",
+    "demonym": {
+      "en": "Saint Lucian"
+    },
+    "gdp": {
+      "value": 2519925938.5244665,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-758",
+    "language-codes": [
+      "lca"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Guatemala",
-    "official": "Republic of Guatemala",
-    "es": "Guatemala"
+  "meta": {
+    "division": "department"
   },
-  "region-codes": [
-    "CAM"
-  ],
-  "capital": {
-    "en": "Guatemala City",
-    "es": "Ciudad de Guatemala"
-  },
-  "iso3": "GTM",
-  "tld": ".gt",
-  "timezones": [
-    "UTC-06:00"
-  ],
-  "area": 108889,
-  "population": 18079810,
-  "flag": "🇬🇹",
-  "demonym": {
-    "en": "Guatemalan",
-    "es": "Guatemalan"
-  },
-  "gdp": {
-    "value": 102050473863.63637,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "502",
-  "neighbours": {
-    "NE": [
-      "BZ"
+  "data": {
+    "name": {
+      "common": "Guatemala",
+      "official": "Republic of Guatemala",
+      "es": "Guatemala"
+    },
+    "region-codes": [
+      "CAM"
     ],
-    "NW": [
-      "MX"
+    "capital": {
+      "en": "Guatemala City",
+      "es": "Ciudad de Guatemala"
+    },
+    "iso3": "GTM",
+    "tld": ".gt",
+    "timezones": [
+      "UTC-06:00"
     ],
-    "SE": [
-      "SV",
-      "HN"
+    "area": 108889,
+    "population": 18079810,
+    "flag": "🇬🇹",
+    "demonym": {
+      "en": "Guatemalan",
+      "es": "Guatemalan"
+    },
+    "gdp": {
+      "value": 102050473863.63637,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "502",
+    "neighbours": {
+      "NE": [
+        "BZ"
+      ],
+      "NW": [
+        "MX"
+      ],
+      "SE": [
+        "SV",
+        "HN"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "GTQ"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "GTQ"
-  ]
+  }
 }

@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Uganda",
-    "official": "Republic of Uganda"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Kampala"
-  },
-  "iso3": "UGA",
-  "tld": ".ug",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 241550,
-  "population": 45905417,
-  "flag": "🇺🇬",
-  "demonym": {
-    "en": "Ugandan"
-  },
-  "gdp": {
-    "value": 49272882213.623,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "256",
-  "neighbours": {
-    "NW": [
-      "SS"
+  "data": {
+    "name": {
+      "common": "Uganda",
+      "official": "Republic of Uganda"
+    },
+    "capital": {
+      "en": "Kampala"
+    },
+    "iso3": "UGA",
+    "tld": ".ug",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "TZ"
+    "area": 241550,
+    "population": 45905417,
+    "flag": "🇺🇬",
+    "demonym": {
+      "en": "Ugandan"
+    },
+    "gdp": {
+      "value": 49272882213.623,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "CD",
-      "RW"
+    "phone-code": "256",
+    "neighbours": {
+      "NW": [
+        "SS"
+      ],
+      "SE": [
+        "TZ"
+      ],
+      "SW": [
+        "CD",
+        "RW"
+      ],
+      "E": [
+        "KE"
+      ]
+    },
+    "language-codes": [
+      "en"
     ],
-    "E": [
-      "KE"
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "UGX"
     ]
-  },
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "UGX"
-  ]
+  }
 }

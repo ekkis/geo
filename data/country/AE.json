@@ -1,51 +1,56 @@
 {
-  "name": {
-    "common": "United Arab Emirates",
-    "official": "United Arab Emirates",
-    "ar": "الإمارات العربية المتحدة"
+  "meta": {
+    "division": "emirate"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Abu Dhabi",
-    "ar": "أبو ظبي"
-  },
-  "iso3": "ARE",
-  "tld": ".ae",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 83600,
-  "population": 11294243,
-  "flag": "🇦🇪",
-  "demonym": {
-    "en": "Emirati",
-    "ar": "اماراتي"
-  },
-  "gdp": {
-    "value": 504173451327.43365,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "971",
-  "neighbours": {
-    "NW": [
-      "SA"
+  "data": {
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "ar": "الإمارات العربية المتحدة"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SE": [
-      "OM"
+    "capital": {
+      "en": "Abu Dhabi",
+      "ar": "أبو ظبي"
+    },
+    "iso3": "ARE",
+    "tld": ".ae",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 83600,
+    "population": 11294243,
+    "flag": "🇦🇪",
+    "demonym": {
+      "en": "Emirati",
+      "ar": "اماراتي"
+    },
+    "gdp": {
+      "value": 504173451327.43365,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "971",
+    "neighbours": {
+      "NW": [
+        "SA"
+      ],
+      "SE": [
+        "OM"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "AED"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "AED"
-  ]
+  }
 }

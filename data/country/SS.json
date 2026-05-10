@@ -1,58 +1,63 @@
 {
-  "name": {
-    "common": "South Sudan",
-    "official": "Republic of South Sudan"
+  "meta": {
+    "division": "state"
   },
-  "capital": {
-    "en": "Juba",
-    "ssd": "Juba"
-  },
-  "iso3": "SSD",
-  "tld": ".ss",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 619745,
-  "population": 15786898,
-  "flag": "🇸🇸",
-  "demonym": {
-    "en": "South Sudanese"
-  },
-  "gdp": {
-    "value": 11997800760.224182,
-    "year": 2015
-  },
-  "organisation-codes": [
-    "AU",
-    "UN"
-  ],
-  "phone-code": "211",
-  "neighbours": {
-    "NE": [
-      "ET"
+  "data": {
+    "name": {
+      "common": "South Sudan",
+      "official": "Republic of South Sudan"
+    },
+    "capital": {
+      "en": "Juba",
+      "ssd": "Juba"
+    },
+    "iso3": "SSD",
+    "tld": ".ss",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "KE",
-      "UG"
+    "area": 619745,
+    "population": 15786898,
+    "flag": "🇸🇸",
+    "demonym": {
+      "en": "South Sudanese"
+    },
+    "gdp": {
+      "value": 11997800760.224182,
+      "year": 2015
+    },
+    "organisation-codes": [
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "CD"
+    "phone-code": "211",
+    "neighbours": {
+      "NE": [
+        "ET"
+      ],
+      "SE": [
+        "KE",
+        "UG"
+      ],
+      "SW": [
+        "CD"
+      ],
+      "W": [
+        "CF"
+      ],
+      "N": [
+        "SD"
+      ]
+    },
+    "language-codes": [
+      "ssd"
     ],
-    "W": [
-      "CF"
+    "region-codes": [
+      "EAF"
     ],
-    "N": [
-      "SD"
+    "continent-code": "AF",
+    "currency-codes": [
+      "SSP"
     ]
-  },
-  "language-codes": [
-    "ssd"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SSP"
-  ]
+  }
 }

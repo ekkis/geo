@@ -1,67 +1,72 @@
 {
-  "name": {
-    "common": "Hungary",
-    "official": "Hungary",
-    "hu": "Magyarország"
+  "meta": {
+    "division": "county"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Budapest",
-    "hu": "Budapest"
-  },
-  "iso3": "HUN",
-  "tld": ".hu",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 93028,
-  "population": 9539502,
-  "flag": "🇭🇺",
-  "demonym": {
-    "en": "Hungarian",
-    "hu": "magyar"
-  },
-  "gdp": {
-    "value": 212388906458.72394,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "36",
-  "neighbours": {
-    "NE": [
-      "UA"
+  "data": {
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary",
+      "hu": "Magyarország"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "NW": [
-      "AT",
-      "SK"
+    "capital": {
+      "en": "Budapest",
+      "hu": "Budapest"
+    },
+    "iso3": "HUN",
+    "tld": ".hu",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "RO",
-      "RS"
+    "area": 93028,
+    "population": 9539502,
+    "flag": "🇭🇺",
+    "demonym": {
+      "en": "Hungarian",
+      "hu": "magyar"
+    },
+    "gdp": {
+      "value": 212388906458.72394,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "SW": [
-      "HR",
-      "SI"
+    "phone-code": "36",
+    "neighbours": {
+      "NE": [
+        "UA"
+      ],
+      "NW": [
+        "AT",
+        "SK"
+      ],
+      "SE": [
+        "RO",
+        "RS"
+      ],
+      "SW": [
+        "HR",
+        "SI"
+      ]
+    },
+    "language-codes": [
+      "hu"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "HUF"
     ]
-  },
-  "language-codes": [
-    "hu"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "HUF"
-  ]
+  }
 }

@@ -1,63 +1,68 @@
 {
-  "name": {
-    "common": "India",
-    "official": "Republic of India",
-    "hi": "भारत"
+  "meta": {
+    "division": "state"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "New Delhi",
-    "hi": "नई दिल्ली"
-  },
-  "iso3": "IND",
-  "tld": ".in",
-  "timezones": [
-    "UTC+05:30"
-  ],
-  "area": 3287263,
-  "population": 1417492000,
-  "flag": "🇮🇳",
-  "demonym": {
-    "en": "Indian",
-    "hi": "भारतीय"
-  },
-  "gdp": {
-    "value": 3549918918777.5317,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "91",
-  "neighbours": {
-    "NE": [
-      "BD",
-      "BT",
-      "CN",
-      "NP",
-      "MM"
+  "data": {
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "hi": "भारत"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "NW": [
-      "PK"
+    "capital": {
+      "en": "New Delhi",
+      "hi": "नई दिल्ली"
+    },
+    "iso3": "IND",
+    "tld": ".in",
+    "timezones": [
+      "UTC+05:30"
     ],
-    "SE": [
-      "LK"
+    "area": 3287263,
+    "population": 1417492000,
+    "flag": "🇮🇳",
+    "demonym": {
+      "en": "Indian",
+      "hi": "भारतीय"
+    },
+    "gdp": {
+      "value": 3549918918777.5317,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "91",
+    "neighbours": {
+      "NE": [
+        "BD",
+        "BT",
+        "CN",
+        "NP",
+        "MM"
+      ],
+      "NW": [
+        "PK"
+      ],
+      "SE": [
+        "LK"
+      ]
+    },
+    "language-codes": [
+      "hi"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "INR"
     ]
-  },
-  "language-codes": [
-    "hi"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "INR"
-  ]
+  }
 }

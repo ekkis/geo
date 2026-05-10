@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "El Salvador",
-    "official": "Republic of El Salvador",
-    "sl": "El Salvador"
+  "meta": {
+    "division": "department"
   },
-  "region-codes": [
-    "CAM"
-  ],
-  "capital": {
-    "en": "San Salvador",
-    "sl": "San Salvador"
-  },
-  "iso3": "SLV",
-  "tld": ".sv",
-  "timezones": [
-    "UTC-06:00"
-  ],
-  "area": 21041,
-  "population": 6029976,
-  "flag": "🇸🇻",
-  "demonym": {
-    "en": "Salvadoran",
-    "sl": "salvadorski"
-  },
-  "gdp": {
-    "value": 34015620000.000004,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "CP ####",
-    "regex": "^(?:CP)*(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "503",
-  "neighbours": {
-    "NE": [
-      "HN"
+  "data": {
+    "name": {
+      "common": "El Salvador",
+      "official": "Republic of El Salvador",
+      "sl": "El Salvador"
+    },
+    "region-codes": [
+      "CAM"
     ],
-    "NW": [
-      "GT"
+    "capital": {
+      "en": "San Salvador",
+      "sl": "San Salvador"
+    },
+    "iso3": "SLV",
+    "tld": ".sv",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 21041,
+    "population": 6029976,
+    "flag": "🇸🇻",
+    "demonym": {
+      "en": "Salvadoran",
+      "sl": "salvadorski"
+    },
+    "gdp": {
+      "value": 34015620000.000004,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "CP ####",
+      "regex": "^(?:CP)*(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "503",
+    "neighbours": {
+      "NE": [
+        "HN"
+      ],
+      "NW": [
+        "GT"
+      ]
+    },
+    "language-codes": [
+      "sl"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "USD"
     ]
-  },
-  "language-codes": [
-    "sl"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "USD"
-  ]
+  }
 }

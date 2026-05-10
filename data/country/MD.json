@@ -1,51 +1,56 @@
 {
-  "name": {
-    "common": "Moldova",
-    "official": "Republic of Moldova"
+  "meta": {
+    "division": "district_municipality_autonomous_unit"
   },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Chisinau",
-    "mda": "Chisinau"
-  },
-  "iso3": "MDA",
-  "tld": ".md",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 33847,
-  "population": 2749076,
-  "flag": "🇲🇩",
-  "demonym": {
-    "en": "Moldovan"
-  },
-  "gdp": {
-    "value": 16539436547.294973,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "MD-####",
-    "regex": "^(?:MD)*(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO"
-  ],
-  "phone-code": "373",
-  "neighbours": {
-    "NE": [
-      "UA"
+  "data": {
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova"
+    },
+    "region-codes": [
+      "BKS"
     ],
-    "SW": [
-      "RO"
+    "capital": {
+      "en": "Chisinau",
+      "mda": "Chisinau"
+    },
+    "iso3": "MDA",
+    "tld": ".md",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 33847,
+    "population": 2749076,
+    "flag": "🇲🇩",
+    "demonym": {
+      "en": "Moldovan"
+    },
+    "gdp": {
+      "value": 16539436547.294973,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "MD-####",
+      "regex": "^(?:MD)*(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO"
+    ],
+    "phone-code": "373",
+    "neighbours": {
+      "NE": [
+        "UA"
+      ],
+      "SW": [
+        "RO"
+      ]
+    },
+    "language-codes": [
+      "mda"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "MDL"
     ]
-  },
-  "language-codes": [
-    "mda"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "MDL"
-  ]
+  }
 }

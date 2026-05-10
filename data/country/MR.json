@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Mauritania",
-    "official": "Islamic Republic of Mauritania"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Nouakchott",
-    "mrt": "Nouakchott"
-  },
-  "iso3": "MRT",
-  "tld": ".mr",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 1030700,
-  "population": 4927532,
-  "flag": "🇲🇷",
-  "demonym": {
-    "en": "Mauritanian"
-  },
-  "gdp": {
-    "value": 10452577062.75806,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "222",
-  "neighbours": {
-    "NE": [
-      "DZ"
+  "data": {
+    "name": {
+      "common": "Mauritania",
+      "official": "Islamic Republic of Mauritania"
+    },
+    "capital": {
+      "en": "Nouakchott",
+      "mrt": "Nouakchott"
+    },
+    "iso3": "MRT",
+    "tld": ".mr",
+    "timezones": [
+      "UTC"
     ],
-    "NW": [
-      "EH"
+    "area": 1030700,
+    "population": 4927532,
+    "flag": "🇲🇷",
+    "demonym": {
+      "en": "Mauritanian"
+    },
+    "gdp": {
+      "value": 10452577062.75806,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "ML"
+    "phone-code": "222",
+    "neighbours": {
+      "NE": [
+        "DZ"
+      ],
+      "NW": [
+        "EH"
+      ],
+      "SE": [
+        "ML"
+      ],
+      "SW": [
+        "SN"
+      ]
+    },
+    "language-codes": [
+      "mrt"
     ],
-    "SW": [
-      "SN"
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MRO"
     ]
-  },
-  "language-codes": [
-    "mrt"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MRO"
-  ]
+  }
 }

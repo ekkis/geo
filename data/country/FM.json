@@ -1,42 +1,47 @@
 {
-  "name": {
-    "common": "Micronesia",
-    "official": "Federated States of Micronesia"
+  "meta": {
+    "division": "state"
   },
-  "capital": {
-    "en": "Palikir",
-    "pc": "Palikir"
-  },
-  "iso3": "FSM",
-  "tld": ".fm",
-  "timezones": [
-    "UTC+10:00",
-    "UTC+11:00"
-  ],
-  "area": 702,
-  "population": 105564,
-  "flag": "🇫🇲",
-  "demonym": {
-    "en": "Micronesian"
-  },
-  "gdp": {
-    "value": 460000000,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "phone-code": "691",
-  "language-codes": [
-    "en",
-    "pc"
-  ],
-  "region-codes": [
-    "MIC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ]
+  "data": {
+    "name": {
+      "common": "Micronesia",
+      "official": "Federated States of Micronesia"
+    },
+    "capital": {
+      "en": "Palikir",
+      "pc": "Palikir"
+    },
+    "iso3": "FSM",
+    "tld": ".fm",
+    "timezones": [
+      "UTC+10:00",
+      "UTC+11:00"
+    ],
+    "area": 702,
+    "population": 105564,
+    "flag": "🇫🇲",
+    "demonym": {
+      "en": "Micronesian"
+    },
+    "gdp": {
+      "value": 460000000,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "phone-code": "691",
+    "language-codes": [
+      "en",
+      "pc"
+    ],
+    "region-codes": [
+      "MIC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
+    ]
+  }
 }

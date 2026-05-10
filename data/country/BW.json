@@ -1,53 +1,58 @@
 {
-  "name": {
-    "common": "Botswana",
-    "official": "Republic of Botswana"
+  "meta": {
+    "division": "district"
   },
-  "capital": {
-    "en": "Gaborone",
-    "bwa": "Gaborone"
-  },
-  "iso3": "BWA",
-  "tld": ".bw",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 582000,
-  "population": 2359609,
-  "flag": "🇧🇼",
-  "demonym": {
-    "en": "Motswana"
-  },
-  "gdp": {
-    "value": 19395765126.312748,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "267",
-  "neighbours": {
-    "NE": [
-      "ZW",
-      "ZM"
+  "data": {
+    "name": {
+      "common": "Botswana",
+      "official": "Republic of Botswana"
+    },
+    "capital": {
+      "en": "Gaborone",
+      "bwa": "Gaborone"
+    },
+    "iso3": "BWA",
+    "tld": ".bw",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "S": [
-      "ZA"
+    "area": 582000,
+    "population": 2359609,
+    "flag": "🇧🇼",
+    "demonym": {
+      "en": "Motswana"
+    },
+    "gdp": {
+      "value": 19395765126.312748,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "W": [
-      "NA"
+    "phone-code": "267",
+    "neighbours": {
+      "NE": [
+        "ZW",
+        "ZM"
+      ],
+      "S": [
+        "ZA"
+      ],
+      "W": [
+        "NA"
+      ]
+    },
+    "language-codes": [
+      "bwa"
+    ],
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "BWP"
     ]
-  },
-  "language-codes": [
-    "bwa"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "BWP"
-  ]
+  }
 }

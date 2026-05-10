@@ -1,62 +1,67 @@
 {
-  "name": {
-    "common": "Belgium",
-    "official": "Kingdom of Belgium",
-    "be": "Бельгія"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Brussels",
-    "be": "Брусэль"
-  },
-  "iso3": "BEL",
-  "tld": ".be",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 30528,
-  "population": 11825551,
-  "flag": "🇧🇪",
-  "demonym": {
-    "en": "Belgian",
-    "be": "Бельгійскі"
-  },
-  "gdp": {
-    "value": 632216577075.1093,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "32",
-  "neighbours": {
-    "NE": [
-      "NL",
-      "DE"
+  "data": {
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium",
+      "be": "Бельгія"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "SE": [
-      "LU"
+    "capital": {
+      "en": "Brussels",
+      "be": "Брусэль"
+    },
+    "iso3": "BEL",
+    "tld": ".be",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SW": [
-      "FR"
+    "area": 30528,
+    "population": 11825551,
+    "flag": "🇧🇪",
+    "demonym": {
+      "en": "Belgian",
+      "be": "Бельгійскі"
+    },
+    "gdp": {
+      "value": 632216577075.1093,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "32",
+    "neighbours": {
+      "NE": [
+        "NL",
+        "DE"
+      ],
+      "SE": [
+        "LU"
+      ],
+      "SW": [
+        "FR"
+      ]
+    },
+    "language-codes": [
+      "be"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "be"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

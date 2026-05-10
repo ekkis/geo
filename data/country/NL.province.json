@@ -1,0 +1,77 @@
+{
+  "data": {
+    "Drenthe": {
+      "DRE": {
+        "name": "Drenthe"
+      }
+    },
+    "Flevoland": {
+      "FLE": {
+        "name": "Flevoland"
+      }
+    },
+    "Friesland": {
+      "FRI": {
+        "name": "Friesland"
+      }
+    },
+    "Gelderland": {
+      "GEL": {
+        "name": "Gelderland"
+      }
+    },
+    "Groningen": {
+      "GRO": {
+        "name": "Groningen"
+      }
+    },
+    "Limburg": {
+      "LIM": {
+        "name": "Limburg"
+      }
+    },
+    "Noord-Holland": {
+      "NOO": {
+        "name": "Noord-Holland"
+      }
+    },
+    "Overijssel": {
+      "OVE": {
+        "name": "Overijssel"
+      }
+    },
+    "Utrecht": {
+      "UTR": {
+        "name": "Utrecht"
+      }
+    },
+    "Zeeland": {
+      "ZEE": {
+        "name": "Zeeland"
+      }
+    },
+    "Zuid-Holland": {
+      "ZUI": {
+        "name": "Zuid-Holland"
+      }
+    },
+    "ARU": {
+      "name": "Aruba"
+    },
+    "BON": {
+      "name": "Bonaire"
+    },
+    "CUR": {
+      "name": "Curaçao"
+    },
+    "SAB": {
+      "name": "Saba"
+    },
+    "SE": {
+      "name": "Sint Eustatius"
+    },
+    "SM": {
+      "name": "Sint Maarten"
+    }
+  }
+}

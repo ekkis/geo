@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Guinea",
-    "official": "Republic of Guinea",
-    "fr": "Guinée"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Conakry",
-    "fr": "Conakry"
-  },
-  "iso3": "GIN",
-  "tld": ".gn",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 245857,
-  "population": 14363931,
-  "flag": "🇬🇳",
-  "demonym": {
-    "en": "Guinean",
-    "fr": "guinéen"
-  },
-  "gdp": {
-    "value": 23612295818.096096,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "224",
-  "neighbours": {
-    "NE": [
-      "ML"
+  "data": {
+    "name": {
+      "common": "Guinea",
+      "official": "Republic of Guinea",
+      "fr": "Guinée"
+    },
+    "capital": {
+      "en": "Conakry",
+      "fr": "Conakry"
+    },
+    "iso3": "GIN",
+    "tld": ".gn",
+    "timezones": [
+      "UTC"
     ],
-    "NW": [
-      "SN",
-      "GW"
+    "area": 245857,
+    "population": 14363931,
+    "flag": "🇬🇳",
+    "demonym": {
+      "en": "Guinean",
+      "fr": "guinéen"
+    },
+    "gdp": {
+      "value": 23612295818.096096,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "CI",
-      "LR"
+    "phone-code": "224",
+    "neighbours": {
+      "NE": [
+        "ML"
+      ],
+      "NW": [
+        "SN",
+        "GW"
+      ],
+      "SE": [
+        "CI",
+        "LR"
+      ],
+      "SW": [
+        "SL"
+      ]
+    },
+    "language-codes": [
+      "fr"
     ],
-    "SW": [
-      "SL"
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "GNF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "GNF"
-  ]
+  }
 }

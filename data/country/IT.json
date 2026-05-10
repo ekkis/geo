@@ -1,65 +1,70 @@
 {
-  "name": {
-    "common": "Italy",
-    "official": "Italian Republic",
-    "it": "Italia"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Rome",
-    "it": "Roma"
-  },
-  "iso3": "ITA",
-  "tld": ".it",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 301336,
-  "population": 58927633,
-  "flag": "🇮🇹",
-  "demonym": {
-    "en": "Italian",
-    "it": "Italian"
-  },
-  "gdp": {
-    "value": 2254851212731.8047,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "39",
-  "neighbours": {
-    "NE": [
-      "AT",
-      "SI"
+  "data": {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "it": "Italia"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "NW": [
-      "FR",
-      "CH",
-      "SM"
+    "capital": {
+      "en": "Rome",
+      "it": "Roma"
+    },
+    "iso3": "ITA",
+    "tld": ".it",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SW": [
-      "VA"
+    "area": 301336,
+    "population": 58927633,
+    "flag": "🇮🇹",
+    "demonym": {
+      "en": "Italian",
+      "it": "Italian"
+    },
+    "gdp": {
+      "value": 2254851212731.8047,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "39",
+    "neighbours": {
+      "NE": [
+        "AT",
+        "SI"
+      ],
+      "NW": [
+        "FR",
+        "CH",
+        "SM"
+      ],
+      "SW": [
+        "VA"
+      ]
+    },
+    "language-codes": [
+      "it"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "it"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

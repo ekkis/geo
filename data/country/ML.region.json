@@ -1,0 +1,25 @@
+{
+  "data": {
+    "CM": {
+      "name": "Bamako Capital District"
+    },
+    "GA": {
+      "name": "Gao"
+    },
+    "KY": {
+      "name": "Kidal"
+    },
+    "MO": {
+      "name": "Mopti"
+    },
+    "SH": {
+      "name": "Ségou"
+    },
+    "SL": {
+      "name": "Sikasso"
+    },
+    "TB": {
+      "name": "Tombouctou"
+    }
+  }
+}

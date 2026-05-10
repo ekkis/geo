@@ -1,46 +1,51 @@
 {
-  "name": {
-    "common": "Gambia",
-    "official": "Republic of the Gambia"
+  "meta": {
+    "division": "division"
   },
-  "capital": {
-    "en": "Banjul",
-    "gmb": "Banjul"
-  },
-  "iso3": "GMB",
-  "tld": ".gm",
-  "timezones": [
-    "UTC+00:00"
-  ],
-  "area": 10689,
-  "population": 2422712,
-  "flag": "🇬🇲",
-  "demonym": {
-    "en": "Gambian"
-  },
-  "gdp": {
-    "value": 2339904156.792144,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "220",
-  "neighbours": {
-    "NE": [
-      "SN"
+  "data": {
+    "name": {
+      "common": "Gambia",
+      "official": "Republic of the Gambia"
+    },
+    "capital": {
+      "en": "Banjul",
+      "gmb": "Banjul"
+    },
+    "iso3": "GMB",
+    "tld": ".gm",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 10689,
+    "population": 2422712,
+    "flag": "🇬🇲",
+    "demonym": {
+      "en": "Gambian"
+    },
+    "gdp": {
+      "value": 2339904156.792144,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "220",
+    "neighbours": {
+      "NE": [
+        "SN"
+      ]
+    },
+    "language-codes": [
+      "gmb"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "GMD"
     ]
-  },
-  "language-codes": [
-    "gmb"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "GMD"
-  ]
+  }
 }

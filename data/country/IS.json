@@ -1,49 +1,54 @@
 {
-  "name": {
-    "common": "Iceland",
-    "official": "Iceland",
-    "is": "Ísland"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Reykjavik",
-    "is": "Reykjavík"
-  },
-  "iso3": "ISL",
-  "tld": ".is",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 103000,
-  "population": 391810,
-  "flag": "🇮🇸",
-  "demonym": {
-    "en": "Icelander",
-    "is": "Íslendingur"
-  },
-  "gdp": {
-    "value": 31020032583.197216,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###",
-    "regex": "^(\\d{3})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "354",
-  "language-codes": [
-    "is"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "ISK"
-  ]
+  "data": {
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland",
+      "is": "Ísland"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "Reykjavik",
+      "is": "Reykjavík"
+    },
+    "iso3": "ISL",
+    "tld": ".is",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 103000,
+    "population": 391810,
+    "flag": "🇮🇸",
+    "demonym": {
+      "en": "Icelander",
+      "is": "Íslendingur"
+    },
+    "gdp": {
+      "value": 31020032583.197216,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "354",
+    "language-codes": [
+      "is"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "ISK"
+    ]
+  }
 }

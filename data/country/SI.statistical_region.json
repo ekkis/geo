@@ -1,0 +1,49 @@
+{
+  "data": {
+    "Blago-Kras": {
+      "BLA": {
+        "name": "Blago-Kras"
+      }
+    },
+    "Gorenjska": {
+      "GOR": {
+        "name": "Gorenjska"
+      }
+    },
+    "Goriška": {
+      "GOR1": {
+        "name": "Goriška"
+      }
+    },
+    "Jugovzhodna Slovenija": {
+      "JUGSL": {
+        "name": "Jugovzhodna Slovenija"
+      }
+    },
+    "Koroška": {
+      "KOR": {
+        "name": "Koroška"
+      }
+    },
+    "Obalno-Kraška": {
+      "OBA": {
+        "name": "Obalno-Kraška"
+      }
+    },
+    "Osrednjeslovenska": {
+      "OSR": {
+        "name": "Osrednjeslovenska"
+      }
+    },
+    "Podravska": {
+      "POD": {
+        "name": "Podravska"
+      }
+    },
+    "Pomurska": {
+      "POM": {
+        "name": "Pomurska"
+      }
+    }
+  }
+}

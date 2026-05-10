@@ -1,42 +1,47 @@
 {
-  "name": {
-    "common": "Vanuatu",
-    "official": "Republic of Vanuatu"
+  "meta": {
+    "division": "province"
   },
-  "capital": {
-    "en": "Port Vila",
-    "bi": "Port Vila",
-    "nh": "Port Vila"
-  },
-  "iso3": "VUT",
-  "tld": ".vu",
-  "timezones": [
-    "UTC+11:00"
-  ],
-  "area": 12189,
-  "population": 321409,
-  "flag": "🇻🇺",
-  "demonym": {
-    "en": "Ni-Vanuatu"
-  },
-  "gdp": {
-    "value": 1126313359.2192256,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "678",
-  "language-codes": [
-    "bi",
-    "nh"
-  ],
-  "region-codes": [
-    "MEL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "VUV"
-  ]
+  "data": {
+    "name": {
+      "common": "Vanuatu",
+      "official": "Republic of Vanuatu"
+    },
+    "capital": {
+      "en": "Port Vila",
+      "bi": "Port Vila",
+      "nh": "Port Vila"
+    },
+    "iso3": "VUT",
+    "tld": ".vu",
+    "timezones": [
+      "UTC+11:00"
+    ],
+    "area": 12189,
+    "population": 321409,
+    "flag": "🇻🇺",
+    "demonym": {
+      "en": "Ni-Vanuatu"
+    },
+    "gdp": {
+      "value": 1126313359.2192256,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "678",
+    "language-codes": [
+      "bi",
+      "nh"
+    ],
+    "region-codes": [
+      "MEL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "VUV"
+    ]
+  }
 }

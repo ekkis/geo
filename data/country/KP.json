@@ -1,49 +1,54 @@
 {
-  "name": {
-    "common": "North Korea",
-    "official": "Democratic People's Republic of Korea",
-    "ko": "북한"
+  "meta": {
+    "division": "province_city"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Pyongyang",
-    "ko": "평양"
-  },
-  "iso3": "PRK",
-  "tld": ".kp",
-  "timezones": [
-    "UTC+09:00"
-  ],
-  "area": 120538,
-  "population": 25950000,
-  "flag": "🇰🇵",
-  "demonym": {
-    "en": "North Korean",
-    "ko": "북한 사람"
-  },
-  "postal-code": {
-    "format": "###-###",
-    "regex": "^(\\d{6})$"
-  },
-  "phone-code": "850",
-  "neighbours": {
-    "NW": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "North Korea",
+      "official": "Democratic People's Republic of Korea",
+      "ko": "북한"
+    },
+    "region-codes": [
+      "EAS"
     ],
-    "SE": [
-      "KR"
+    "capital": {
+      "en": "Pyongyang",
+      "ko": "평양"
+    },
+    "iso3": "PRK",
+    "tld": ".kp",
+    "timezones": [
+      "UTC+09:00"
     ],
-    "SW": [
-      "CN"
+    "area": 120538,
+    "population": 25950000,
+    "flag": "🇰🇵",
+    "demonym": {
+      "en": "North Korean",
+      "ko": "북한 사람"
+    },
+    "postal-code": {
+      "format": "###-###",
+      "regex": "^(\\d{6})$"
+    },
+    "phone-code": "850",
+    "neighbours": {
+      "NW": [
+        "RU"
+      ],
+      "SE": [
+        "KR"
+      ],
+      "SW": [
+        "CN"
+      ]
+    },
+    "language-codes": [
+      "ko"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "KPW"
     ]
-  },
-  "language-codes": [
-    "ko"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "KPW"
-  ]
+  }
 }

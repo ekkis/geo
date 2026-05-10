@@ -1,0 +1,39 @@
+{
+  "data": {
+    "Brest Region": {
+      "BREST": {
+        "name": "Brest Region"
+      }
+    },
+    "Gomel Region": {
+      "GOMEL": {
+        "name": "Gomel Region"
+      }
+    },
+    "Grodno Region": {
+      "GRODN": {
+        "name": "Grodno Region"
+      }
+    },
+    "Minsk City": {
+      "MINSK": {
+        "name": "Minsk City"
+      }
+    },
+    "Minsk Region": {
+      "MINSKREG": {
+        "name": "Minsk Region"
+      }
+    },
+    "Mogilev Region": {
+      "MOGIL": {
+        "name": "Mogilev Region"
+      }
+    },
+    "Vitebsk Region": {
+      "VITEB": {
+        "name": "Vitebsk Region"
+      }
+    }
+  }
+}

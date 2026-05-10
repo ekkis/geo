@@ -1,63 +1,68 @@
 {
-  "name": {
-    "common": "Tajikistan",
-    "official": "Republic of Tajikistan",
-    "tg": "Точикистон"
+  "meta": {
+    "division": "region_autonomous_region"
   },
-  "region-codes": [
-    "CAS"
-  ],
-  "capital": {
-    "en": "Dushanbe",
-    "tg": "Душанбе"
-  },
-  "iso3": "TJK",
-  "tld": ".tj",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "area": 143100,
-  "population": 10499000,
-  "flag": "🇹🇯",
-  "demonym": {
-    "en": "Tadzhik",
-    "tg": "точик"
-  },
-  "gdp": {
-    "value": 12060602008.847782,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "992",
-  "neighbours": {
-    "NE": [
-      "KG"
+  "data": {
+    "name": {
+      "common": "Tajikistan",
+      "official": "Republic of Tajikistan",
+      "tg": "Точикистон"
+    },
+    "region-codes": [
+      "CAS"
     ],
-    "NW": [
-      "UZ"
+    "capital": {
+      "en": "Dushanbe",
+      "tg": "Душанбе"
+    },
+    "iso3": "TJK",
+    "tld": ".tj",
+    "timezones": [
+      "UTC+05:00"
     ],
-    "SE": [
-      "CN"
+    "area": 143100,
+    "population": 10499000,
+    "flag": "🇹🇯",
+    "demonym": {
+      "en": "Tadzhik",
+      "tg": "точик"
+    },
+    "gdp": {
+      "value": 12060602008.847782,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
     ],
-    "SW": [
-      "AF"
+    "phone-code": "992",
+    "neighbours": {
+      "NE": [
+        "KG"
+      ],
+      "NW": [
+        "UZ"
+      ],
+      "SE": [
+        "CN"
+      ],
+      "SW": [
+        "AF"
+      ],
+      "W": [
+        "AF"
+      ]
+    },
+    "language-codes": [
+      "tg"
     ],
-    "W": [
-      "AF"
+    "continent-code": "AS",
+    "currency-codes": [
+      "TJS"
     ]
-  },
-  "language-codes": [
-    "tg"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "TJS"
-  ]
+  }
 }

@@ -1,40 +1,45 @@
 {
-  "name": {
-    "common": "Bahamas",
-    "official": "Commonwealth of the Bahamas"
+  "meta": {
+    "division": "district"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Nassau",
-    "bhs": "Nassau"
-  },
-  "iso3": "BHS",
-  "tld": ".bs",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 13943,
-  "population": 398165,
-  "flag": "🇧🇸",
-  "demonym": {
-    "en": "Bahamian"
-  },
-  "gdp": {
-    "value": 14338500000,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-242",
-  "language-codes": [
-    "bhs"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "BSD"
-  ]
+  "data": {
+    "name": {
+      "common": "Bahamas",
+      "official": "Commonwealth of the Bahamas"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Nassau",
+      "bhs": "Nassau"
+    },
+    "iso3": "BHS",
+    "tld": ".bs",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 13943,
+    "population": 398165,
+    "flag": "🇧🇸",
+    "demonym": {
+      "en": "Bahamian"
+    },
+    "gdp": {
+      "value": 14338500000,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-242",
+    "language-codes": [
+      "bhs"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "BSD"
+    ]
+  }
 }

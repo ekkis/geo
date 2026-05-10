@@ -1,53 +1,58 @@
 {
-  "name": {
-    "common": "Venezuela",
-    "official": "Bolivarian Republic of Venezuela"
+  "meta": {
+    "division": "state_capital_district_federal_dependency"
   },
-  "capital": {
-    "en": "Caracas",
-    "ve": "Caracas"
-  },
-  "iso3": "VEN",
-  "tld": ".ve",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 916445,
-  "population": 28517000,
-  "flag": "🇻🇪",
-  "demonym": {
-    "en": "Venezuelan"
-  },
-  "gdp": {
-    "value": 482359318767.7031,
-    "year": 2014
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS"
-  ],
-  "phone-code": "58",
-  "neighbours": {
-    "SE": [
-      "BR",
-      "GY"
+  "data": {
+    "name": {
+      "common": "Venezuela",
+      "official": "Bolivarian Republic of Venezuela"
+    },
+    "capital": {
+      "en": "Caracas",
+      "ve": "Caracas"
+    },
+    "iso3": "VEN",
+    "tld": ".ve",
+    "timezones": [
+      "UTC-04:00"
     ],
-    "SW": [
-      "CO"
+    "area": 916445,
+    "population": 28517000,
+    "flag": "🇻🇪",
+    "demonym": {
+      "en": "Venezuelan"
+    },
+    "gdp": {
+      "value": 482359318767.7031,
+      "year": 2014
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS"
+    ],
+    "phone-code": "58",
+    "neighbours": {
+      "SE": [
+        "BR",
+        "GY"
+      ],
+      "SW": [
+        "CO"
+      ]
+    },
+    "language-codes": [
+      "ve"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "VEF"
     ]
-  },
-  "language-codes": [
-    "ve"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "VEF"
-  ]
+  }
 }

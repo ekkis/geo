@@ -1,60 +1,65 @@
 {
-  "name": {
-    "common": "Kazakhstan",
-    "official": "Republic of Kazakhstan",
-    "kk": "Қазақстан"
+  "meta": {
+    "division": "region"
   },
-  "region-codes": [
-    "CAS"
-  ],
-  "capital": {
-    "en": "Astana",
-    "kk": "Астана"
-  },
-  "iso3": "KAZ",
-  "tld": ".kz",
-  "timezones": [
-    "UTC+05:00",
-    "UTC+06:00"
-  ],
-  "area": 2724900,
-  "population": 20426568,
-  "flag": "🇰🇿",
-  "demonym": {
-    "en": "Kazakhstani",
-    "kk": "қазақстандық"
-  },
-  "gdp": {
-    "value": 261421121085.57208,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "7",
-  "neighbours": {
-    "NE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Kazakhstan",
+      "official": "Republic of Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "region-codes": [
+      "CAS"
     ],
-    "SE": [
-      "CN",
-      "KG"
+    "capital": {
+      "en": "Astana",
+      "kk": "Астана"
+    },
+    "iso3": "KAZ",
+    "tld": ".kz",
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:00"
     ],
-    "SW": [
-      "TM",
-      "UZ"
+    "area": 2724900,
+    "population": 20426568,
+    "flag": "🇰🇿",
+    "demonym": {
+      "en": "Kazakhstani",
+      "kk": "қазақстандық"
+    },
+    "gdp": {
+      "value": 261421121085.57208,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "7",
+    "neighbours": {
+      "NE": [
+        "RU"
+      ],
+      "SE": [
+        "CN",
+        "KG"
+      ],
+      "SW": [
+        "TM",
+        "UZ"
+      ]
+    },
+    "language-codes": [
+      "kk"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "KZT"
     ]
-  },
-  "language-codes": [
-    "kk"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "KZT"
-  ]
+  }
 }

@@ -1,57 +1,62 @@
 {
-  "name": {
-    "common": "Republic of the Congo",
-    "official": "Republic of the Congo",
-    "fr": "République du Congo"
+  "meta": {
+    "division": "department"
   },
-  "capital": {
-    "en": "Brazzaville",
-    "fr": "Brazzaville"
-  },
-  "iso3": "COG",
-  "tld": ".cg",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 342000,
-  "population": 6142180,
-  "flag": "🇨🇬",
-  "demonym": {
-    "en": "Congolese",
-    "fr": "Congolais"
-  },
-  "gdp": {
-    "value": 15321055818.326313,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU"
-  ],
-  "phone-code": "242",
-  "neighbours": {
-    "NE": [
-      "CF",
-      "CD"
+  "data": {
+    "name": {
+      "common": "Republic of the Congo",
+      "official": "Republic of the Congo",
+      "fr": "République du Congo"
+    },
+    "capital": {
+      "en": "Brazzaville",
+      "fr": "Brazzaville"
+    },
+    "iso3": "COG",
+    "tld": ".cg",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "CM"
+    "area": 342000,
+    "population": 6142180,
+    "flag": "🇨🇬",
+    "demonym": {
+      "en": "Congolese",
+      "fr": "Congolais"
+    },
+    "gdp": {
+      "value": 15321055818.326313,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU"
     ],
-    "SE": [
-      "AO"
+    "phone-code": "242",
+    "neighbours": {
+      "NE": [
+        "CF",
+        "CD"
+      ],
+      "NW": [
+        "CM"
+      ],
+      "SE": [
+        "AO"
+      ],
+      "W": [
+        "GA"
+      ]
+    },
+    "language-codes": [
+      "fr"
     ],
-    "W": [
-      "GA"
+    "region-codes": [
+      "CAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XAF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "CAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XAF"
-  ]
+  }
 }

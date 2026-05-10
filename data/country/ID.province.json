@@ -1,0 +1,85 @@
+{
+  "data": {
+    "BAL": {
+      "name": "Bali"
+    },
+    "BAN": {
+      "name": "Banten"
+    },
+    "BEN": {
+      "name": "Bengkulu"
+    },
+    "BI": {
+      "name": "Bangka–Belitung Islands"
+    },
+    "CJ": {
+      "name": "Central Java"
+    },
+    "CK": {
+      "name": "Central Kalimantan"
+    },
+    "CS": {
+      "name": "Central Sulawesi"
+    },
+    "EJ": {
+      "name": "East Java"
+    },
+    "EK": {
+      "name": "East Kalimantan"
+    },
+    "EN": {
+      "name": "East Nusa Tenggara"
+    },
+    "GOR": {
+      "name": "Gorontalo"
+    },
+    "JAM": {
+      "name": "Jambi"
+    },
+    "JS": {
+      "name": "Jakarta Special Capital Region"
+    },
+    "LAM": {
+      "name": "Lampung"
+    },
+    "MAL": {
+      "name": "Maluku"
+    },
+    "NK": {
+      "name": "North Kalimantan"
+    },
+    "NM": {
+      "name": "North Maluku"
+    },
+    "NS": {
+      "name": "North Sumatra"
+    },
+    "RI": {
+      "name": "Riau Islands"
+    },
+    "RIA": {
+      "name": "Riau"
+    },
+    "SK": {
+      "name": "South Kalimantan"
+    },
+    "SR": {
+      "name": "Special Region of Yogyakarta"
+    },
+    "SS": {
+      "name": "South Sumatra"
+    },
+    "WJ": {
+      "name": "West Java"
+    },
+    "WK": {
+      "name": "West Kalimantan"
+    },
+    "WN": {
+      "name": "West Nusa Tenggara"
+    },
+    "WS": {
+      "name": "West Sumatra"
+    }
+  }
+}

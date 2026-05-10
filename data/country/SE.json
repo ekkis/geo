@@ -1,58 +1,63 @@
 {
-  "name": {
-    "common": "Sweden",
-    "official": "Kingdom of Sweden",
-    "sv": "Sverige"
+  "meta": {
+    "division": "county"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Stockholm",
-    "sv": "Stockholm"
-  },
-  "iso3": "SWE",
-  "tld": ".se",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 450295,
-  "population": 10605098,
-  "flag": "🇸🇪",
-  "demonym": {
-    "en": "Swedish",
-    "sv": "svenska"
-  },
-  "gdp": {
-    "value": 593267701033.4082,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "SE-### ##",
-    "regex": "^(?:SE)*(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "46",
-  "neighbours": {
-    "NE": [
-      "FI"
+  "data": {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden",
+      "sv": "Sverige"
+    },
+    "region-codes": [
+      "NOR"
     ],
-    "W": [
-      "NO"
+    "capital": {
+      "en": "Stockholm",
+      "sv": "Stockholm"
+    },
+    "iso3": "SWE",
+    "tld": ".se",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 450295,
+    "population": 10605098,
+    "flag": "🇸🇪",
+    "demonym": {
+      "en": "Swedish",
+      "sv": "svenska"
+    },
+    "gdp": {
+      "value": 593267701033.4082,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "SE-### ##",
+      "regex": "^(?:SE)*(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "46",
+    "neighbours": {
+      "NE": [
+        "FI"
+      ],
+      "W": [
+        "NO"
+      ]
+    },
+    "language-codes": [
+      "sv"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "SEK"
     ]
-  },
-  "language-codes": [
-    "sv"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "SEK"
-  ]
+  }
 }

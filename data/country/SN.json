@@ -1,60 +1,65 @@
 {
-  "name": {
-    "common": "Senegal",
-    "official": "Republic of Senegal",
-    "fr": "Sénégal"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Dakar",
-    "fr": "Dakar"
-  },
-  "iso3": "SEN",
-  "tld": ".sn",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 196722,
-  "population": 18593258,
-  "flag": "🇸🇳",
-  "demonym": {
-    "en": "Senegalese",
-    "fr": "Sénégalais"
-  },
-  "gdp": {
-    "value": 31013986429.186058,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "221",
-  "neighbours": {
-    "NE": [
-      "ML",
-      "MR"
+  "data": {
+    "name": {
+      "common": "Senegal",
+      "official": "Republic of Senegal",
+      "fr": "Sénégal"
+    },
+    "capital": {
+      "en": "Dakar",
+      "fr": "Dakar"
+    },
+    "iso3": "SEN",
+    "tld": ".sn",
+    "timezones": [
+      "UTC"
     ],
-    "SE": [
-      "GN"
+    "area": 196722,
+    "population": 18593258,
+    "flag": "🇸🇳",
+    "demonym": {
+      "en": "Senegalese",
+      "fr": "Sénégalais"
+    },
+    "gdp": {
+      "value": 31013986429.186058,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "GM",
-      "GW"
+    "phone-code": "221",
+    "neighbours": {
+      "NE": [
+        "ML",
+        "MR"
+      ],
+      "SE": [
+        "GN"
+      ],
+      "SW": [
+        "GM",
+        "GW"
+      ]
+    },
+    "language-codes": [
+      "fr"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ]
+  }
 }

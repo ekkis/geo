@@ -1,61 +1,66 @@
 {
-  "name": {
-    "common": "Chile",
-    "official": "Republic of Chile",
-    "es": "Chile"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Santiago",
-    "es": "santiago"
-  },
-  "iso3": "CHL",
-  "tld": ".cl",
-  "timezones": [
-    "UTC-06:00",
-    "UTC-04:00"
-  ],
-  "area": 756102,
-  "population": 20206953,
-  "flag": "🇨🇱",
-  "demonym": {
-    "en": "Chilean",
-    "es": "Chilean"
-  },
-  "gdp": {
-    "value": 335533331669.2191,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#######",
-    "regex": "^(\\d{7})$"
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "56",
-  "neighbours": {
-    "NE": [
-      "BO"
+  "data": {
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "es": "Chile"
+    },
+    "capital": {
+      "en": "Santiago",
+      "es": "santiago"
+    },
+    "iso3": "CHL",
+    "tld": ".cl",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-04:00"
     ],
-    "NW": [
-      "PE"
+    "area": 756102,
+    "population": 20206953,
+    "flag": "🇨🇱",
+    "demonym": {
+      "en": "Chilean",
+      "es": "Chilean"
+    },
+    "gdp": {
+      "value": 335533331669.2191,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#######",
+      "regex": "^(\\d{7})$"
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "WTO",
+      "OAS",
+      "UN"
     ],
-    "SE": [
-      "AR"
+    "phone-code": "56",
+    "neighbours": {
+      "NE": [
+        "BO"
+      ],
+      "NW": [
+        "PE"
+      ],
+      "SE": [
+        "AR"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "CLP"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "CLP"
-  ]
+  }
 }

@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Somalia",
-    "official": "Federal Republic of Somalia",
-    "so": "Soomaaliya"
+  "meta": {
+    "division": "federal_member_state"
   },
-  "capital": {
-    "en": "Mogadishu",
-    "so": "Muqdisho"
-  },
-  "iso3": "SOM",
-  "tld": ".so",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 637657,
-  "population": 19655000,
-  "flag": "🇸🇴",
-  "demonym": {
-    "en": "Somali",
-    "so": "Soomaali"
-  },
-  "gdp": {
-    "value": 11679800110.152267,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@@  #####",
-    "regex": "^([A-Z]{2}\\d{5})$"
-  },
-  "organisation-codes": [
-    "AU",
-    "UN"
-  ],
-  "phone-code": "252",
-  "neighbours": {
-    "NW": [
-      "DJ"
+  "data": {
+    "name": {
+      "common": "Somalia",
+      "official": "Federal Republic of Somalia",
+      "so": "Soomaaliya"
+    },
+    "capital": {
+      "en": "Mogadishu",
+      "so": "Muqdisho"
+    },
+    "iso3": "SOM",
+    "tld": ".so",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SW": [
-      "ET",
-      "KE"
+    "area": 637657,
+    "population": 19655000,
+    "flag": "🇸🇴",
+    "demonym": {
+      "en": "Somali",
+      "so": "Soomaali"
+    },
+    "gdp": {
+      "value": 11679800110.152267,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@@  #####",
+      "regex": "^([A-Z]{2}\\d{5})$"
+    },
+    "organisation-codes": [
+      "AU",
+      "UN"
+    ],
+    "phone-code": "252",
+    "neighbours": {
+      "NW": [
+        "DJ"
+      ],
+      "SW": [
+        "ET",
+        "KE"
+      ]
+    },
+    "language-codes": [
+      "so"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "SOS"
     ]
-  },
-  "language-codes": [
-    "so"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SOS"
-  ]
+  }
 }

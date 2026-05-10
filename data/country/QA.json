@@ -1,47 +1,52 @@
 {
-  "name": {
-    "common": "Qatar",
-    "official": "State of Qatar",
-    "ar": "قطر"
+  "meta": {
+    "division": "municipality"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Doha",
-    "ar": "الدوحة"
-  },
-  "iso3": "QAT",
-  "tld": ".qa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 11586,
-  "population": 3173024,
-  "flag": "🇶🇦",
-  "demonym": {
-    "en": "Qatari",
-    "ar": "قطري"
-  },
-  "gdp": {
-    "value": 235770403734.9,
-    "year": 2022
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "974",
-  "neighbours": {
-    "SW": [
-      "SA"
+  "data": {
+    "name": {
+      "common": "Qatar",
+      "official": "State of Qatar",
+      "ar": "قطر"
+    },
+    "region-codes": [
+      "WAS"
+    ],
+    "capital": {
+      "en": "Doha",
+      "ar": "الدوحة"
+    },
+    "iso3": "QAT",
+    "tld": ".qa",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 11586,
+    "population": 3173024,
+    "flag": "🇶🇦",
+    "demonym": {
+      "en": "Qatari",
+      "ar": "قطري"
+    },
+    "gdp": {
+      "value": 235770403734.9,
+      "year": 2022
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "974",
+    "neighbours": {
+      "SW": [
+        "SA"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "QAR"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "QAR"
-  ]
+  }
 }

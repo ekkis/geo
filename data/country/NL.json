@@ -1,58 +1,63 @@
 {
-  "name": {
-    "common": "Netherlands",
-    "official": "Kingdom of the Netherlands",
-    "nl": "Nederland"
+  "meta": {
+    "division": "province"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Amsterdam",
-    "nl": "Amsterdam"
-  },
-  "iso3": "NLD",
-  "tld": ".nl",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 41865,
-  "population": 18100436,
-  "flag": "🇳🇱",
-  "demonym": {
-    "en": "Dutch",
-    "nl": "Nederlands"
-  },
-  "gdp": {
-    "value": 1118124749886.2942,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#### @@",
-    "regex": "^(\\d{4}[A-Z]{2})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "31",
-  "neighbours": {
-    "SE": [
-      "DE"
+  "data": {
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands",
+      "nl": "Nederland"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "SW": [
-      "BE"
+    "capital": {
+      "en": "Amsterdam",
+      "nl": "Amsterdam"
+    },
+    "iso3": "NLD",
+    "tld": ".nl",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 41865,
+    "population": 18100436,
+    "flag": "🇳🇱",
+    "demonym": {
+      "en": "Dutch",
+      "nl": "Nederlands"
+    },
+    "gdp": {
+      "value": 1118124749886.2942,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#### @@",
+      "regex": "^(\\d{4}[A-Z]{2})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "31",
+    "neighbours": {
+      "SE": [
+        "DE"
+      ],
+      "SW": [
+        "BE"
+      ]
+    },
+    "language-codes": [
+      "nl"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "nl"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

@@ -1,67 +1,72 @@
 {
-  "name": {
-    "common": "Austria",
-    "official": "Republic of Austria",
-    "de": "Österreich"
+  "meta": {
+    "division": "state"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Vienna",
-    "de": "Wien"
-  },
-  "iso3": "AUT",
-  "tld": ".at",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 83871,
-  "population": 9200931,
-  "flag": "🇦🇹",
-  "demonym": {
-    "en": "Austrian",
-    "de": "österreichisch"
-  },
-  "gdp": {
-    "value": 516034144115.9503,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "43",
-  "neighbours": {
-    "NE": [
-      "CZ",
-      "SK"
+  "data": {
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria",
+      "de": "Österreich"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "NW": [
-      "DE"
+    "capital": {
+      "en": "Vienna",
+      "de": "Wien"
+    },
+    "iso3": "AUT",
+    "tld": ".at",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "SI",
-      "HU"
+    "area": 83871,
+    "population": 9200931,
+    "flag": "🇦🇹",
+    "demonym": {
+      "en": "Austrian",
+      "de": "österreichisch"
+    },
+    "gdp": {
+      "value": 516034144115.9503,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "SW": [
-      "LI",
-      "CH",
-      "IT"
+    "phone-code": "43",
+    "neighbours": {
+      "NE": [
+        "CZ",
+        "SK"
+      ],
+      "NW": [
+        "DE"
+      ],
+      "SE": [
+        "SI",
+        "HU"
+      ],
+      "SW": [
+        "LI",
+        "CH",
+        "IT"
+      ]
+    },
+    "language-codes": [
+      "de"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "de"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

@@ -1,52 +1,57 @@
 {
-  "name": {
-    "common": "Dominican Republic",
-    "official": "Dominican Republic",
-    "es": "República Dominicana"
+  "meta": {
+    "division": "province"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Santo Domingo",
-    "es": "santo domingo"
-  },
-  "iso3": "DOM",
-  "tld": ".do",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 48671,
-  "population": 10771504,
-  "flag": "🇩🇴",
-  "demonym": {
-    "en": "Dominican",
-    "es": "Dominican"
-  },
-  "gdp": {
-    "value": 121444279313.93079,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-809 and 1-829",
-  "neighbours": {
-    "W": [
-      "HT"
+  "data": {
+    "name": {
+      "common": "Dominican Republic",
+      "official": "Dominican Republic",
+      "es": "República Dominicana"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Santo Domingo",
+      "es": "santo domingo"
+    },
+    "iso3": "DOM",
+    "tld": ".do",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 48671,
+    "population": 10771504,
+    "flag": "🇩🇴",
+    "demonym": {
+      "en": "Dominican",
+      "es": "Dominican"
+    },
+    "gdp": {
+      "value": 121444279313.93079,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-809 and 1-829",
+    "neighbours": {
+      "W": [
+        "HT"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "DOP"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "DOP"
-  ]
+  }
 }

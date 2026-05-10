@@ -1,55 +1,60 @@
 {
-  "name": {
-    "common": "Guinea-Bissau",
-    "official": "Republic of Guinea-Bissau",
-    "pt": "Guiné-Bissau"
+  "meta": {
+    "division": "region"
   },
-  "capital": {
-    "en": "Bissau",
-    "pt": "Bissau"
-  },
-  "iso3": "GNB",
-  "tld": ".gw",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 36125,
-  "population": 1781308,
-  "flag": "🇬🇼",
-  "demonym": {
-    "en": "Guinea-Bissauan",
-    "pt": "Guiné-Bissau"
-  },
-  "gdp": {
-    "value": 1966461400.3583264,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "245",
-  "neighbours": {
-    "NE": [
-      "SN"
+  "data": {
+    "name": {
+      "common": "Guinea-Bissau",
+      "official": "Republic of Guinea-Bissau",
+      "pt": "Guiné-Bissau"
+    },
+    "capital": {
+      "en": "Bissau",
+      "pt": "Bissau"
+    },
+    "iso3": "GNB",
+    "tld": ".gw",
+    "timezones": [
+      "UTC"
     ],
-    "SE": [
-      "GN"
+    "area": 36125,
+    "population": 1781308,
+    "flag": "🇬🇼",
+    "demonym": {
+      "en": "Guinea-Bissauan",
+      "pt": "Guiné-Bissau"
+    },
+    "gdp": {
+      "value": 1966461400.3583264,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "245",
+    "neighbours": {
+      "NE": [
+        "SN"
+      ],
+      "SE": [
+        "GN"
+      ]
+    },
+    "language-codes": [
+      "pt"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XOF"
     ]
-  },
-  "language-codes": [
-    "pt"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XOF"
-  ]
+  }
 }

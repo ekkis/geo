@@ -1,59 +1,64 @@
 {
-  "name": {
-    "common": "Jordan",
-    "official": "Hashemite Kingdom of Jordan",
-    "ar": "الأردن"
+  "meta": {
+    "division": "governorate"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Amman",
-    "ar": "عمان"
-  },
-  "iso3": "JOR",
-  "tld": ".jo",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 89342,
-  "population": 11734000,
-  "flag": "🇯🇴",
-  "demonym": {
-    "en": "Jordanian",
-    "ar": "أردني"
-  },
-  "gdp": {
-    "value": 50813642348.674644,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "962",
-  "neighbours": {
-    "NE": [
-      "IQ",
-      "SY"
+  "data": {
+    "name": {
+      "common": "Jordan",
+      "official": "Hashemite Kingdom of Jordan",
+      "ar": "الأردن"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "NW": [
-      "IL",
-      "PS"
+    "capital": {
+      "en": "Amman",
+      "ar": "عمان"
+    },
+    "iso3": "JOR",
+    "tld": ".jo",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "SA"
+    "area": 89342,
+    "population": 11734000,
+    "flag": "🇯🇴",
+    "demonym": {
+      "en": "Jordanian",
+      "ar": "أردني"
+    },
+    "gdp": {
+      "value": 50813642348.674644,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "962",
+    "neighbours": {
+      "NE": [
+        "IQ",
+        "SY"
+      ],
+      "NW": [
+        "IL",
+        "PS"
+      ],
+      "SE": [
+        "SA"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "JOD"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "JOD"
-  ]
+  }
 }

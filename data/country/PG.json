@@ -1,49 +1,54 @@
 {
-  "name": {
-    "common": "Papua New Guinea",
-    "official": "Independent State of Papua New Guinea"
+  "meta": {
+    "division": "province_autonomous_region"
   },
-  "capital": {
-    "en": "Port Moresby",
-    "png": "Port Moresby"
-  },
-  "iso3": "PNG",
-  "tld": ".pg",
-  "timezones": [
-    "UTC+10:00"
-  ],
-  "area": 462840,
-  "population": 11781559,
-  "flag": "🇵🇬",
-  "demonym": {
-    "en": "Papua New Guinean"
-  },
-  "gdp": {
-    "value": 30932496249.791653,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###",
-    "regex": "^(\\d{3})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "675",
-  "neighbours": {
-    "NW": [
-      "ID"
+  "data": {
+    "name": {
+      "common": "Papua New Guinea",
+      "official": "Independent State of Papua New Guinea"
+    },
+    "capital": {
+      "en": "Port Moresby",
+      "png": "Port Moresby"
+    },
+    "iso3": "PNG",
+    "tld": ".pg",
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "area": 462840,
+    "population": 11781559,
+    "flag": "🇵🇬",
+    "demonym": {
+      "en": "Papua New Guinean"
+    },
+    "gdp": {
+      "value": 30932496249.791653,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "675",
+    "neighbours": {
+      "NW": [
+        "ID"
+      ]
+    },
+    "language-codes": [
+      "png"
+    ],
+    "region-codes": [
+      "MEL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "PGK"
     ]
-  },
-  "language-codes": [
-    "png"
-  ],
-  "region-codes": [
-    "MEL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "PGK"
-  ]
+  }
 }
