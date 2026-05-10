@@ -1,44 +1,38 @@
 {
-  "data": {
-    "AD": {
-      "name": "Adrar"
-    },
-    "AS": {
-      "name": "Assaba"
-    },
-    "BR": {
-      "name": "Brakna"
-    },
-    "DN": {
-      "name": "Dakhlet Nouadhibou"
-    },
-    "GM": {
-      "name": "Guidimaka"
-    },
-    "GO": {
-      "name": "Gorgol"
-    },
-    "HC": {
-      "name": "Hodh Ech Chargui"
-    },
-    "HD": {
-      "name": "Hodh El Gharbi"
-    },
-    "HI": {
-      "name": "Hodh El Gharbi"
-    },
-    "IN": {
-      "name": "Inchiri"
-    },
-    "NO": {
-      "name": "Nouakchott"
-    },
-    "TA": {
-      "name": "Tagant"
-    }
+  "AD": {
+    "name": "Adrar"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "AS": {
+    "name": "Assaba"
+  },
+  "BR": {
+    "name": "Brakna"
+  },
+  "DN": {
+    "name": "Dakhlet Nouadhibou"
+  },
+  "GM": {
+    "name": "Guidimaka"
+  },
+  "GO": {
+    "name": "Gorgol"
+  },
+  "HC": {
+    "name": "Hodh Ech Chargui"
+  },
+  "HD": {
+    "name": "Hodh El Gharbi"
+  },
+  "HI": {
+    "name": "Hodh El Gharbi"
+  },
+  "IN": {
+    "name": "Inchiri"
+  },
+  "NO": {
+    "name": "Nouakchott"
+  },
+  "TA": {
+    "name": "Tagant"
   }
 }

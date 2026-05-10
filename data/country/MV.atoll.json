@@ -1,32 +1,26 @@
 {
-  "data": {
-    "AAD": {
-      "name": "Addu"
-    },
-    "FUA": {
-      "name": "Fua Mulah"
-    },
-    "HA": {
-      "name": "Haa Dhaalu"
-    },
-    "K": {
-      "name": "Kolhumadulu"
-    },
-    "MUA": {
-      "name": "Muizzu"
-    },
-    "N": {
-      "name": "North Province"
-    },
-    "S": {
-      "name": "South Province"
-    },
-    "TH": {
-      "name": "Thiladhunmathi"
-    }
+  "AAD": {
+    "name": "Addu"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "FUA": {
+    "name": "Fua Mulah"
+  },
+  "HA": {
+    "name": "Haa Dhaalu"
+  },
+  "K": {
+    "name": "Kolhumadulu"
+  },
+  "MUA": {
+    "name": "Muizzu"
+  },
+  "N": {
+    "name": "North Province"
+  },
+  "S": {
+    "name": "South Province"
+  },
+  "TH": {
+    "name": "Thiladhunmathi"
   }
 }

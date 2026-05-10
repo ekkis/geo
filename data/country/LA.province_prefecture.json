@@ -1,98 +1,92 @@
 {
-  "data": {
-    "Attapeu": {
-      "ATTA": {
-        "name": "Attapeu"
-      }
-    },
-    "Bokeo": {
-      "BOKEO": {
-        "name": "Bokeo"
-      }
-    },
-    "Bolikhamsai": {
-      "BOLIKH": {
-        "name": "Bolikhamsai"
-      }
-    },
-    "Champasak": {
-      "CHAMPAS": {
-        "name": "Champasak"
-      }
-    },
-    "Houaphanh": {
-      "HOUAPH": {
-        "name": "Houaphanh"
-      }
-    },
-    "Khammouane": {
-      "KHAMMOU": {
-        "name": "Khammouane"
-      }
-    },
-    "Luang Prabang": {
-      "LUANGBP": {
-        "name": "Luang Prabang"
-      }
-    },
-    "Luang Namtha": {
-      "LUANGNAM": {
-        "name": "Luang Namtha"
-      }
-    },
-    "Oudomxay": {
-      "OUDOMX": {
-        "name": "Oudomxay"
-      }
-    },
-    "Phongsaly": {
-      "PHONGS": {
-        "name": "Phongsaly"
-      }
-    },
-    "Salavan": {
-      "SALAVAN": {
-        "name": "Salavan"
-      }
-    },
-    "Savannakhet": {
-      "SAVANNA": {
-        "name": "Savannakhet"
-      }
-    },
-    "Sekong": {
-      "SEKONG": {
-        "name": "Sekong"
-      }
-    },
-    "Vientiane": {
-      "VIENTJ": {
-        "name": "Vientiane Prefecture"
-      }
-    },
-    "Vientiane Province": {
-      "VIENTP": {
-        "name": "Vientiane Province"
-      }
-    },
-    "Xaisomboun": {
-      "XAI": {
-        "name": "Xaisomboun"
-      }
-    },
-    "Xayaburi": {
-      "XAYABUR": {
-        "name": "Xayaburi"
-      }
-    },
-    "Xieng Khouang": {
-      "XIENGK": {
-        "name": "Xieng Khouang"
-      }
+  "Attapeu": {
+    "ATTA": {
+      "name": "Attapeu"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Bokeo": {
+    "BOKEO": {
+      "name": "Bokeo"
+    }
+  },
+  "Bolikhamsai": {
+    "BOLIKH": {
+      "name": "Bolikhamsai"
+    }
+  },
+  "Champasak": {
+    "CHAMPAS": {
+      "name": "Champasak"
+    }
+  },
+  "Houaphanh": {
+    "HOUAPH": {
+      "name": "Houaphanh"
+    }
+  },
+  "Khammouane": {
+    "KHAMMOU": {
+      "name": "Khammouane"
+    }
+  },
+  "Luang Prabang": {
+    "LUANGBP": {
+      "name": "Luang Prabang"
+    }
+  },
+  "Luang Namtha": {
+    "LUANGNAM": {
+      "name": "Luang Namtha"
+    }
+  },
+  "Oudomxay": {
+    "OUDOMX": {
+      "name": "Oudomxay"
+    }
+  },
+  "Phongsaly": {
+    "PHONGS": {
+      "name": "Phongsaly"
+    }
+  },
+  "Salavan": {
+    "SALAVAN": {
+      "name": "Salavan"
+    }
+  },
+  "Savannakhet": {
+    "SAVANNA": {
+      "name": "Savannakhet"
+    }
+  },
+  "Sekong": {
+    "SEKONG": {
+      "name": "Sekong"
+    }
+  },
+  "Vientiane": {
+    "VIENTJ": {
+      "name": "Vientiane Prefecture"
+    }
+  },
+  "Vientiane Province": {
+    "VIENTP": {
+      "name": "Vientiane Province"
+    }
+  },
+  "Xaisomboun": {
+    "XAI": {
+      "name": "Xaisomboun"
+    }
+  },
+  "Xayaburi": {
+    "XAYABUR": {
+      "name": "Xayaburi"
+    }
+  },
+  "Xieng Khouang": {
+    "XIENGK": {
+      "name": "Xieng Khouang"
+    }
   }
 }

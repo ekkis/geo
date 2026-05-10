@@ -1,61 +1,55 @@
 {
-  "data": {
-    "Süddeutschland": {
-      "BAY": {
-        "name": "Bayern"
-      },
-      "BW": {
-        "name": "Baden-Württemberg"
-      }
+  "Süddeutschland": {
+    "BAY": {
+      "name": "Bayern"
     },
-    "Ostdeutschland": {
-      "BB": {
-        "name": "Brandenburg"
-      },
-      "BE": {
-        "name": "Berlin"
-      },
-      "SAC": {
-        "name": "Sachsen-Anhalt"
-      },
-      "THÜ": {
-        "name": "Thüringen"
-      }
-    },
-    "Norddeutschland": {
-      "HB": {
-        "name": "Bremen"
-      },
-      "HH": {
-        "name": "Hamburg"
-      },
-      "MV": {
-        "name": "Mecklenburg-Vorpommern"
-      },
-      "NIE": {
-        "name": "Niedersachsen"
-      },
-      "SH": {
-        "name": "Schleswig-Holstein"
-      }
-    },
-    "Westdeutschland": {
-      "HES": {
-        "name": "Hessen"
-      },
-      "NOR": {
-        "name": "Nordrhein-Westfalen"
-      },
-      "RHE": {
-        "name": "Rheinland-Pfalz"
-      },
-      "SL": {
-        "name": "Saarland"
-      }
+    "BW": {
+      "name": "Baden-Württemberg"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Ostdeutschland": {
+    "BB": {
+      "name": "Brandenburg"
+    },
+    "BE": {
+      "name": "Berlin"
+    },
+    "SAC": {
+      "name": "Sachsen-Anhalt"
+    },
+    "THÜ": {
+      "name": "Thüringen"
+    }
+  },
+  "Norddeutschland": {
+    "HB": {
+      "name": "Bremen"
+    },
+    "HH": {
+      "name": "Hamburg"
+    },
+    "MV": {
+      "name": "Mecklenburg-Vorpommern"
+    },
+    "NIE": {
+      "name": "Niedersachsen"
+    },
+    "SH": {
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "Westdeutschland": {
+    "HES": {
+      "name": "Hessen"
+    },
+    "NOR": {
+      "name": "Nordrhein-Westfalen"
+    },
+    "RHE": {
+      "name": "Rheinland-Pfalz"
+    },
+    "SL": {
+      "name": "Saarland"
+    }
   }
 }

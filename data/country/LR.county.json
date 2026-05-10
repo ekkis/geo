@@ -1,47 +1,41 @@
 {
-  "data": {
-    "BG": {
-      "name": "Bong"
-    },
-    "BI": {
-      "name": "Bomi"
-    },
-    "CM": {
-      "name": "Grand Cape Mount"
-    },
-    "GB": {
-      "name": "Grand Bassa"
-    },
-    "GG": {
-      "name": "Grand Gedeh"
-    },
-    "GK": {
-      "name": "Grand Kru"
-    },
-    "LO": {
-      "name": "Lofa"
-    },
-    "MG": {
-      "name": "Margibi"
-    },
-    "ML": {
-      "name": "Maryland"
-    },
-    "MS": {
-      "name": "Montserrado"
-    },
-    "NI": {
-      "name": "Nimba"
-    },
-    "RI": {
-      "name": "River Gee"
-    },
-    "SI": {
-      "name": "Sinoe"
-    }
+  "BG": {
+    "name": "Bong"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BI": {
+    "name": "Bomi"
+  },
+  "CM": {
+    "name": "Grand Cape Mount"
+  },
+  "GB": {
+    "name": "Grand Bassa"
+  },
+  "GG": {
+    "name": "Grand Gedeh"
+  },
+  "GK": {
+    "name": "Grand Kru"
+  },
+  "LO": {
+    "name": "Lofa"
+  },
+  "MG": {
+    "name": "Margibi"
+  },
+  "ML": {
+    "name": "Maryland"
+  },
+  "MS": {
+    "name": "Montserrado"
+  },
+  "NI": {
+    "name": "Nimba"
+  },
+  "RI": {
+    "name": "River Gee"
+  },
+  "SI": {
+    "name": "Sinoe"
   }
 }

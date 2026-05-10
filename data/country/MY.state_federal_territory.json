@@ -1,88 +1,82 @@
 {
-  "data": {
-    "Johor": {
-      "JOHOR": {
-        "name": "Johor"
-      }
-    },
-    "Kedah": {
-      "KEDAH": {
-        "name": "Kedah"
-      }
-    },
-    "Kelantan": {
-      "KELANTAN": {
-        "name": "Kelantan"
-      }
-    },
-    "Kuala Lumpur": {
-      "KL": {
-        "name": "Kuala Lumpur"
-      }
-    },
-    "Labuan": {
-      "LABUAN": {
-        "name": "Labuan"
-      }
-    },
-    "Malacca": {
-      "MELAKA": {
-        "name": "Malacca"
-      }
-    },
-    "Negeri Sembilan": {
-      "NSEM": {
-        "name": "Negeri Sembilan"
-      }
-    },
-    "Pahang": {
-      "PAHANG": {
-        "name": "Pahang"
-      }
-    },
-    "Penang": {
-      "PENANG": {
-        "name": "Penang"
-      }
-    },
-    "Perak": {
-      "PERAK": {
-        "name": "Perak"
-      }
-    },
-    "Perlis": {
-      "PERLIS": {
-        "name": "Perlis"
-      }
-    },
-    "Putrajaya": {
-      "PUTRAJAYA": {
-        "name": "Putrajaya"
-      }
-    },
-    "Sabah": {
-      "SABAH": {
-        "name": "Sabah"
-      }
-    },
-    "Sarawak": {
-      "SARAWAK": {
-        "name": "Sarawak"
-      }
-    },
-    "Selangor": {
-      "SELANGOR": {
-        "name": "Selangor"
-      }
-    },
-    "Terengganu": {
-      "TERENGGANU": {
-        "name": "Terengganu"
-      }
+  "Johor": {
+    "JOHOR": {
+      "name": "Johor"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Kedah": {
+    "KEDAH": {
+      "name": "Kedah"
+    }
+  },
+  "Kelantan": {
+    "KELANTAN": {
+      "name": "Kelantan"
+    }
+  },
+  "Kuala Lumpur": {
+    "KL": {
+      "name": "Kuala Lumpur"
+    }
+  },
+  "Labuan": {
+    "LABUAN": {
+      "name": "Labuan"
+    }
+  },
+  "Malacca": {
+    "MELAKA": {
+      "name": "Malacca"
+    }
+  },
+  "Negeri Sembilan": {
+    "NSEM": {
+      "name": "Negeri Sembilan"
+    }
+  },
+  "Pahang": {
+    "PAHANG": {
+      "name": "Pahang"
+    }
+  },
+  "Penang": {
+    "PENANG": {
+      "name": "Penang"
+    }
+  },
+  "Perak": {
+    "PERAK": {
+      "name": "Perak"
+    }
+  },
+  "Perlis": {
+    "PERLIS": {
+      "name": "Perlis"
+    }
+  },
+  "Putrajaya": {
+    "PUTRAJAYA": {
+      "name": "Putrajaya"
+    }
+  },
+  "Sabah": {
+    "SABAH": {
+      "name": "Sabah"
+    }
+  },
+  "Sarawak": {
+    "SARAWAK": {
+      "name": "Sarawak"
+    }
+  },
+  "Selangor": {
+    "SELANGOR": {
+      "name": "Selangor"
+    }
+  },
+  "Terengganu": {
+    "TERENGGANU": {
+      "name": "Terengganu"
+    }
   }
 }

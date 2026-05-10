@@ -1,50 +1,44 @@
 {
-  "data": {
-    "BA": {
-      "name": "Bagmati"
-    },
-    "BH": {
-      "name": "Bheri"
-    },
-    "DH": {
-      "name": "Dhawalagiri"
-    },
-    "GA": {
-      "name": "Gandaki"
-    },
-    "JA": {
-      "name": "Janakpur"
-    },
-    "KA": {
-      "name": "Karnali"
-    },
-    "KO": {
-      "name": "Kosi"
-    },
-    "LU": {
-      "name": "Lumbini"
-    },
-    "MA": {
-      "name": "Mahakali"
-    },
-    "ME": {
-      "name": "Mechi"
-    },
-    "NA": {
-      "name": "Narayani"
-    },
-    "RA": {
-      "name": "Rapti"
-    },
-    "SA": {
-      "name": "Sagarmatha"
-    },
-    "SE": {
-      "name": "Seti"
-    }
+  "BA": {
+    "name": "Bagmati"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BH": {
+    "name": "Bheri"
+  },
+  "DH": {
+    "name": "Dhawalagiri"
+  },
+  "GA": {
+    "name": "Gandaki"
+  },
+  "JA": {
+    "name": "Janakpur"
+  },
+  "KA": {
+    "name": "Karnali"
+  },
+  "KO": {
+    "name": "Kosi"
+  },
+  "LU": {
+    "name": "Lumbini"
+  },
+  "MA": {
+    "name": "Mahakali"
+  },
+  "ME": {
+    "name": "Mechi"
+  },
+  "NA": {
+    "name": "Narayani"
+  },
+  "RA": {
+    "name": "Rapti"
+  },
+  "SA": {
+    "name": "Sagarmatha"
+  },
+  "SE": {
+    "name": "Seti"
   }
 }

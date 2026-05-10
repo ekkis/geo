@@ -1,38 +1,32 @@
 {
-  "data": {
-    "AZ": {
-      "name": "Az Zawiyah"
-    },
-    "BA": {
-      "name": "Benghazi"
-    },
-    "BJ": {
-      "name": "Benghazi"
-    },
-    "BZ": {
-      "name": "Bazma"
-    },
-    "HA": {
-      "name": "Al Wahat"
-    },
-    "MI": {
-      "name": "Misrata"
-    },
-    "NQ": {
-      "name": "Nuqat al Khams"
-    },
-    "TB": {
-      "name": "Tobruk"
-    },
-    "TR": {
-      "name": "Tripoli"
-    },
-    "WD": {
-      "name": "Wadi al Hayaa"
-    }
+  "AZ": {
+    "name": "Az Zawiyah"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BA": {
+    "name": "Benghazi"
+  },
+  "BJ": {
+    "name": "Benghazi"
+  },
+  "BZ": {
+    "name": "Bazma"
+  },
+  "HA": {
+    "name": "Al Wahat"
+  },
+  "MI": {
+    "name": "Misrata"
+  },
+  "NQ": {
+    "name": "Nuqat al Khams"
+  },
+  "TB": {
+    "name": "Tobruk"
+  },
+  "TR": {
+    "name": "Tripoli"
+  },
+  "WD": {
+    "name": "Wadi al Hayaa"
   }
 }

@@ -1,88 +1,82 @@
 {
-  "data": {
-    "Akmola": {
-      "AKMO": {
-        "name": "Akmola"
-      }
-    },
-    "Aktobe": {
-      "AKTO": {
-        "name": "Aktobe"
-      }
-    },
-    "Almaty": {
-      "ALM": {
-        "name": "Almaty"
-      }
-    },
-    "Nur-Sultan": {
-      "AST": {
-        "name": "Nur-Sultan"
-      }
-    },
-    "Atyrau": {
-      "ATYR": {
-        "name": "Atyrau"
-      }
-    },
-    "Karaganda": {
-      "KARAG": {
-        "name": "Karaganda"
-      }
-    },
-    "Kostanay": {
-      "KOST": {
-        "name": "Kostanay"
-      }
-    },
-    "Kyzylorda": {
-      "KYZY": {
-        "name": "Kyzylorda"
-      }
-    },
-    "Mangystau": {
-      "MANGS": {
-        "name": "Mangystau"
-      }
-    },
-    "Pavlodar": {
-      "PAV": {
-        "name": "Pavlodar"
-      }
-    },
-    "North Kazakhstan": {
-      "SEVZ": {
-        "name": "North Kazakhstan"
-      }
-    },
-    "Shymkent": {
-      "SHYM": {
-        "name": "Shymkent"
-      }
-    },
-    "Turkestan": {
-      "TURK": {
-        "name": "Turkestan"
-      }
-    },
-    "East Kazakhstan": {
-      "VOST": {
-        "name": "East Kazakhstan"
-      }
-    },
-    "South Kazakhstan": {
-      "YUZH": {
-        "name": "South Kazakhstan"
-      }
-    },
-    "West Kazakhstan": {
-      "ZAPAD": {
-        "name": "West Kazakhstan"
-      }
+  "Akmola": {
+    "AKMO": {
+      "name": "Akmola"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Aktobe": {
+    "AKTO": {
+      "name": "Aktobe"
+    }
+  },
+  "Almaty": {
+    "ALM": {
+      "name": "Almaty"
+    }
+  },
+  "Nur-Sultan": {
+    "AST": {
+      "name": "Nur-Sultan"
+    }
+  },
+  "Atyrau": {
+    "ATYR": {
+      "name": "Atyrau"
+    }
+  },
+  "Karaganda": {
+    "KARAG": {
+      "name": "Karaganda"
+    }
+  },
+  "Kostanay": {
+    "KOST": {
+      "name": "Kostanay"
+    }
+  },
+  "Kyzylorda": {
+    "KYZY": {
+      "name": "Kyzylorda"
+    }
+  },
+  "Mangystau": {
+    "MANGS": {
+      "name": "Mangystau"
+    }
+  },
+  "Pavlodar": {
+    "PAV": {
+      "name": "Pavlodar"
+    }
+  },
+  "North Kazakhstan": {
+    "SEVZ": {
+      "name": "North Kazakhstan"
+    }
+  },
+  "Shymkent": {
+    "SHYM": {
+      "name": "Shymkent"
+    }
+  },
+  "Turkestan": {
+    "TURK": {
+      "name": "Turkestan"
+    }
+  },
+  "East Kazakhstan": {
+    "VOST": {
+      "name": "East Kazakhstan"
+    }
+  },
+  "South Kazakhstan": {
+    "YUZH": {
+      "name": "South Kazakhstan"
+    }
+  },
+  "West Kazakhstan": {
+    "ZAPAD": {
+      "name": "West Kazakhstan"
+    }
   }
 }

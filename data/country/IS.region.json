@@ -1,48 +1,42 @@
 {
-  "data": {
-    "Capital Region": {
-      "CAPITAL": {
-        "name": "Capital Region"
-      }
-    },
-    "East": {
-      "EAST": {
-        "name": "East"
-      }
-    },
-    "Northeast": {
-      "NE": {
-        "name": "Northeast"
-      }
-    },
-    "Northwest": {
-      "NW": {
-        "name": "Northwest"
-      }
-    },
-    "South": {
-      "SOUTH": {
-        "name": "South"
-      }
-    },
-    "Southern Peninsula": {
-      "SOUTHERNPEN": {
-        "name": "Southern Peninsula"
-      }
-    },
-    "West": {
-      "WEST": {
-        "name": "West"
-      }
-    },
-    "Westfjords": {
-      "WESTFJORD": {
-        "name": "Westfjords"
-      }
+  "Capital Region": {
+    "CAPITAL": {
+      "name": "Capital Region"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "East": {
+    "EAST": {
+      "name": "East"
+    }
+  },
+  "Northeast": {
+    "NE": {
+      "name": "Northeast"
+    }
+  },
+  "Northwest": {
+    "NW": {
+      "name": "Northwest"
+    }
+  },
+  "South": {
+    "SOUTH": {
+      "name": "South"
+    }
+  },
+  "Southern Peninsula": {
+    "SOUTHERNPEN": {
+      "name": "Southern Peninsula"
+    }
+  },
+  "West": {
+    "WEST": {
+      "name": "West"
+    }
+  },
+  "Westfjords": {
+    "WESTFJORD": {
+      "name": "Westfjords"
+    }
   }
 }

@@ -1,48 +1,42 @@
 {
-  "data": {
-    "Banská Bystrica": {
-      "BANBY": {
-        "name": "Banská Bystrica"
-      }
-    },
-    "Bratislava": {
-      "BRA": {
-        "name": "Bratislava"
-      }
-    },
-    "Košice": {
-      "KOS": {
-        "name": "Košice"
-      }
-    },
-    "Nitra": {
-      "NIT": {
-        "name": "Nitra"
-      }
-    },
-    "Prešov": {
-      "PRE": {
-        "name": "Prešov"
-      }
-    },
-    "Trenčín": {
-      "TRE": {
-        "name": "Trenčín"
-      }
-    },
-    "Trnava": {
-      "TRN": {
-        "name": "Trnava"
-      }
-    },
-    "Žilina": {
-      "ZIL": {
-        "name": "Žilina"
-      }
+  "Banská Bystrica": {
+    "BANBY": {
+      "name": "Banská Bystrica"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Bratislava": {
+    "BRA": {
+      "name": "Bratislava"
+    }
+  },
+  "Košice": {
+    "KOS": {
+      "name": "Košice"
+    }
+  },
+  "Nitra": {
+    "NIT": {
+      "name": "Nitra"
+    }
+  },
+  "Prešov": {
+    "PRE": {
+      "name": "Prešov"
+    }
+  },
+  "Trenčín": {
+    "TRE": {
+      "name": "Trenčín"
+    }
+  },
+  "Trnava": {
+    "TRN": {
+      "name": "Trnava"
+    }
+  },
+  "Žilina": {
+    "ZIL": {
+      "name": "Žilina"
+    }
   }
 }

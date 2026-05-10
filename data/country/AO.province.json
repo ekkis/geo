@@ -1,47 +1,41 @@
 {
-  "data": {
-    "BI": {
-      "name": "Bié"
-    },
-    "BN": {
-      "name": "Benguela"
-    },
-    "CC": {
-      "name": "Cuando Cubango"
-    },
-    "CN": {
-      "name": "Cunene"
-    },
-    "CNB": {
-      "name": "Cuanza Norte"
-    },
-    "CU": {
-      "name": "Cuanza Sul"
-    },
-    "HO": {
-      "name": "Huambo"
-    },
-    "HS": {
-      "name": "Huíla"
-    },
-    "LN": {
-      "name": "Lunda Norte"
-    },
-    "LS": {
-      "name": "Lunda Sul"
-    },
-    "LUA": {
-      "name": "Luanda"
-    },
-    "MX": {
-      "name": "Moxico"
-    },
-    "NO": {
-      "name": "Namibe"
-    }
+  "BI": {
+    "name": "Bié"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BN": {
+    "name": "Benguela"
+  },
+  "CC": {
+    "name": "Cuando Cubango"
+  },
+  "CN": {
+    "name": "Cunene"
+  },
+  "CNB": {
+    "name": "Cuanza Norte"
+  },
+  "CU": {
+    "name": "Cuanza Sul"
+  },
+  "HO": {
+    "name": "Huambo"
+  },
+  "HS": {
+    "name": "Huíla"
+  },
+  "LN": {
+    "name": "Lunda Norte"
+  },
+  "LS": {
+    "name": "Lunda Sul"
+  },
+  "LUA": {
+    "name": "Luanda"
+  },
+  "MX": {
+    "name": "Moxico"
+  },
+  "NO": {
+    "name": "Namibe"
   }
 }

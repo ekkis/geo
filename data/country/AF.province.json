@@ -1,53 +1,47 @@
 {
-  "data": {
-    "BAL": {
-      "name": "Balkh"
-    },
-    "FAO": {
-      "name": "Farah"
-    },
-    "GHA": {
-      "name": "Ghazni"
-    },
-    "HEL": {
-      "name": "Helmand"
-    },
-    "HER": {
-      "name": "Herat"
-    },
-    "KAB": {
-      "name": "Kabul"
-    },
-    "KAN": {
-      "name": "Kandahar"
-    },
-    "KND": {
-      "name": "Kunduz"
-    },
-    "LOG": {
-      "name": "Logar"
-    },
-    "NAN": {
-      "name": "Nangarhar"
-    },
-    "PAN": {
-      "name": "Panjshir"
-    },
-    "PAR": {
-      "name": "Parwan"
-    },
-    "SAM": {
-      "name": "Samangan"
-    },
-    "URA": {
-      "name": "Uruzgan"
-    },
-    "WAR": {
-      "name": "Wardak"
-    }
+  "BAL": {
+    "name": "Balkh"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "FAO": {
+    "name": "Farah"
+  },
+  "GHA": {
+    "name": "Ghazni"
+  },
+  "HEL": {
+    "name": "Helmand"
+  },
+  "HER": {
+    "name": "Herat"
+  },
+  "KAB": {
+    "name": "Kabul"
+  },
+  "KAN": {
+    "name": "Kandahar"
+  },
+  "KND": {
+    "name": "Kunduz"
+  },
+  "LOG": {
+    "name": "Logar"
+  },
+  "NAN": {
+    "name": "Nangarhar"
+  },
+  "PAN": {
+    "name": "Panjshir"
+  },
+  "PAR": {
+    "name": "Parwan"
+  },
+  "SAM": {
+    "name": "Samangan"
+  },
+  "URA": {
+    "name": "Uruzgan"
+  },
+  "WAR": {
+    "name": "Wardak"
   }
 }

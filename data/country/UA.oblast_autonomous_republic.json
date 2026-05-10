@@ -1,143 +1,137 @@
 {
-  "data": {
-    "Cherkasy Oblast": {
-      "CHER": {
-        "name": "Cherkasy Oblast"
-      }
-    },
-    "Chernihiv Oblast": {
-      "CHERN": {
-        "name": "Chernihiv Oblast"
-      }
-    },
-    "Chernivtsi Oblast": {
-      "CHERV": {
-        "name": "Chernivtsi Oblast"
-      }
-    },
-    "Autonomous Republic of Crimea": {
-      "CRIME": {
-        "name": "Autonomous Republic of Crimea"
-      }
-    },
-    "Dnipropetrovsk Oblast": {
-      "DNIPR": {
-        "name": "Dnipropetrovsk Oblast"
-      }
-    },
-    "Donetsk Oblast": {
-      "DONET": {
-        "name": "Donetsk Oblast"
-      }
-    },
-    "Ivano-Frankivsk Oblast": {
-      "IVANO": {
-        "name": "Ivano-Frankivsk Oblast"
-      }
-    },
-    "Kharkiv Oblast": {
-      "KHARK": {
-        "name": "Kharkiv Oblast"
-      }
-    },
-    "Kherson Oblast": {
-      "KHERS": {
-        "name": "Kherson Oblast"
-      }
-    },
-    "Khmelnytskyi Oblast": {
-      "KHMLT": {
-        "name": "Khmelnytskyi Oblast"
-      }
-    },
-    "Kiev Oblast": {
-      "KIEV": {
-        "name": "Kiev Oblast"
-      }
-    },
-    "Kiev": {
-      "KIEV-CITY": {
-        "name": "Kiev"
-      }
-    },
-    "Kirovohrad Oblast": {
-      "KIRO": {
-        "name": "Kirovohrad Oblast"
-      }
-    },
-    "Luhansk Oblast": {
-      "LUHAN": {
-        "name": "Luhansk Oblast"
-      }
-    },
-    "Lviv Oblast": {
-      "LVIV": {
-        "name": "Lviv Oblast"
-      }
-    },
-    "Mykolaiv Oblast": {
-      "MYKO": {
-        "name": "Mykolaiv Oblast"
-      }
-    },
-    "Odessa Oblast": {
-      "ODESS": {
-        "name": "Odessa Oblast"
-      }
-    },
-    "Poltava Oblast": {
-      "POLTA": {
-        "name": "Poltava Oblast"
-      }
-    },
-    "Rivne Oblast": {
-      "RIVN": {
-        "name": "Rivne Oblast"
-      }
-    },
-    "Sevastopol": {
-      "SEVAS": {
-        "name": "Sevastopol"
-      }
-    },
-    "Sumy Oblast": {
-      "SUMY": {
-        "name": "Sumy Oblast"
-      }
-    },
-    "Ternopil Oblast": {
-      "TERN": {
-        "name": "Ternopil Oblast"
-      }
-    },
-    "Vinnytsia Oblast": {
-      "VINNY": {
-        "name": "Vinnytsia Oblast"
-      }
-    },
-    "Volyn Oblast": {
-      "VOLYN": {
-        "name": "Volyn Oblast"
-      }
-    },
-    "Zakarpattia Oblast": {
-      "ZAKAR": {
-        "name": "Zakarpattia Oblast"
-      }
-    },
-    "Zaporizhzhia Oblast": {
-      "ZAPOR": {
-        "name": "Zaporizhzhia Oblast"
-      }
-    },
-    "Zhytomyr Oblast": {
-      "ZHYTO": {
-        "name": "Zhytomyr Oblast"
-      }
+  "Cherkasy Oblast": {
+    "CHER": {
+      "name": "Cherkasy Oblast"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Chernihiv Oblast": {
+    "CHERN": {
+      "name": "Chernihiv Oblast"
+    }
+  },
+  "Chernivtsi Oblast": {
+    "CHERV": {
+      "name": "Chernivtsi Oblast"
+    }
+  },
+  "Autonomous Republic of Crimea": {
+    "CRIME": {
+      "name": "Autonomous Republic of Crimea"
+    }
+  },
+  "Dnipropetrovsk Oblast": {
+    "DNIPR": {
+      "name": "Dnipropetrovsk Oblast"
+    }
+  },
+  "Donetsk Oblast": {
+    "DONET": {
+      "name": "Donetsk Oblast"
+    }
+  },
+  "Ivano-Frankivsk Oblast": {
+    "IVANO": {
+      "name": "Ivano-Frankivsk Oblast"
+    }
+  },
+  "Kharkiv Oblast": {
+    "KHARK": {
+      "name": "Kharkiv Oblast"
+    }
+  },
+  "Kherson Oblast": {
+    "KHERS": {
+      "name": "Kherson Oblast"
+    }
+  },
+  "Khmelnytskyi Oblast": {
+    "KHMLT": {
+      "name": "Khmelnytskyi Oblast"
+    }
+  },
+  "Kiev Oblast": {
+    "KIEV": {
+      "name": "Kiev Oblast"
+    }
+  },
+  "Kiev": {
+    "KIEV-CITY": {
+      "name": "Kiev"
+    }
+  },
+  "Kirovohrad Oblast": {
+    "KIRO": {
+      "name": "Kirovohrad Oblast"
+    }
+  },
+  "Luhansk Oblast": {
+    "LUHAN": {
+      "name": "Luhansk Oblast"
+    }
+  },
+  "Lviv Oblast": {
+    "LVIV": {
+      "name": "Lviv Oblast"
+    }
+  },
+  "Mykolaiv Oblast": {
+    "MYKO": {
+      "name": "Mykolaiv Oblast"
+    }
+  },
+  "Odessa Oblast": {
+    "ODESS": {
+      "name": "Odessa Oblast"
+    }
+  },
+  "Poltava Oblast": {
+    "POLTA": {
+      "name": "Poltava Oblast"
+    }
+  },
+  "Rivne Oblast": {
+    "RIVN": {
+      "name": "Rivne Oblast"
+    }
+  },
+  "Sevastopol": {
+    "SEVAS": {
+      "name": "Sevastopol"
+    }
+  },
+  "Sumy Oblast": {
+    "SUMY": {
+      "name": "Sumy Oblast"
+    }
+  },
+  "Ternopil Oblast": {
+    "TERN": {
+      "name": "Ternopil Oblast"
+    }
+  },
+  "Vinnytsia Oblast": {
+    "VINNY": {
+      "name": "Vinnytsia Oblast"
+    }
+  },
+  "Volyn Oblast": {
+    "VOLYN": {
+      "name": "Volyn Oblast"
+    }
+  },
+  "Zakarpattia Oblast": {
+    "ZAKAR": {
+      "name": "Zakarpattia Oblast"
+    }
+  },
+  "Zaporizhzhia Oblast": {
+    "ZAPOR": {
+      "name": "Zaporizhzhia Oblast"
+    }
+  },
+  "Zhytomyr Oblast": {
+    "ZHYTO": {
+      "name": "Zhytomyr Oblast"
+    }
   }
 }

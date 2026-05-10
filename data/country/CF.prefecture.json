@@ -1,53 +1,47 @@
 {
-  "data": {
-    "AC": {
-      "name": "Ouham"
-    },
-    "BB": {
-      "name": "Bamingui-Bangoran"
-    },
-    "BGF": {
-      "name": "Bangui"
-    },
-    "BK": {
-      "name": "Basse-Kotto"
-    },
-    "HK": {
-      "name": "Haute-Kotto"
-    },
-    "HM": {
-      "name": "Haut-Mbomou"
-    },
-    "KG": {
-      "name": "Kémo"
-    },
-    "LO": {
-      "name": "Lobaye"
-    },
-    "MB": {
-      "name": "Mbomou"
-    },
-    "MP": {
-      "name": "Ombella-M'Poko"
-    },
-    "NM": {
-      "name": "Nana-Mambéré"
-    },
-    "OP": {
-      "name": "Ouham Péndé"
-    },
-    "SE": {
-      "name": "Sangha-Mbaéré"
-    },
-    "UK": {
-      "name": "Ouaka"
-    },
-    "VK": {
-      "name": "Vakaga"
-    }
+  "AC": {
+    "name": "Ouham"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BB": {
+    "name": "Bamingui-Bangoran"
+  },
+  "BGF": {
+    "name": "Bangui"
+  },
+  "BK": {
+    "name": "Basse-Kotto"
+  },
+  "HK": {
+    "name": "Haute-Kotto"
+  },
+  "HM": {
+    "name": "Haut-Mbomou"
+  },
+  "KG": {
+    "name": "Kémo"
+  },
+  "LO": {
+    "name": "Lobaye"
+  },
+  "MB": {
+    "name": "Mbomou"
+  },
+  "MP": {
+    "name": "Ombella-M'Poko"
+  },
+  "NM": {
+    "name": "Nana-Mambéré"
+  },
+  "OP": {
+    "name": "Ouham Péndé"
+  },
+  "SE": {
+    "name": "Sangha-Mbaéré"
+  },
+  "UK": {
+    "name": "Ouaka"
+  },
+  "VK": {
+    "name": "Vakaga"
   }
 }

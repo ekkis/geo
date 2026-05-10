@@ -1,286 +1,280 @@
 {
-  "data": {
+  "BO": {
+    "AA": {
+      "name": "Aniceto Arce"
+    },
+    "ABU": {
+      "name": "Abuná"
+    },
+    "AD": {
+      "name": "Alonso de Ibáñez"
+    },
+    "AI": {
+      "name": "Andrés Ibáñez"
+    },
+    "AQ": {
+      "name": "Antonio Quijarro"
+    },
+    "ARA": {
+      "name": "Arani"
+    },
+    "ARO": {
+      "name": "Aroma"
+    },
+    "ARQ": {
+      "name": "Arque"
+    },
+    "ATA": {
+      "name": "Atahuallpa"
+    },
+    "AYO": {
+      "name": "Ayopaya"
+    },
+    "AZU": {
+      "name": "Azurduy"
+    },
+    "BB": {
+      "name": "Bernardino Bilbao"
+    },
     "BO": {
-      "AA": {
-        "name": "Aniceto Arce"
-      },
-      "ABU": {
-        "name": "Abuná"
-      },
-      "AD": {
-        "name": "Alonso de Ibáñez"
-      },
-      "AI": {
-        "name": "Andrés Ibáñez"
-      },
-      "AQ": {
-        "name": "Antonio Quijarro"
-      },
-      "ARA": {
-        "name": "Arani"
-      },
-      "ARO": {
-        "name": "Aroma"
-      },
-      "ARQ": {
-        "name": "Arque"
-      },
-      "ATA": {
-        "name": "Atahuallpa"
-      },
-      "AYO": {
-        "name": "Ayopaya"
-      },
-      "AZU": {
-        "name": "Azurduy"
-      },
-      "BB": {
-        "name": "Bernardino Bilbao"
-      },
-      "BO": {
-        "name": "Burnet O'Connor"
-      },
-      "BOL": {
-        "name": "Bolívar"
-      },
-      "BS": {
-        "name": "Bautista Saavedra"
-      },
-      "CAM": {
-        "name": "Campero"
-      },
-      "CAP": {
-        "name": "Capinota"
-      },
-      "CAR": {
-        "name": "Carangas"
-      },
-      "CER": {
-        "name": "Cercado"
-      },
-      "CHA": {
-        "name": "Chayanta"
-      },
-      "CHI": {
-        "name": "Chiquitos"
-      },
-      "COR": {
-        "name": "Cordillera"
-      },
-      "CS": {
-        "name": "Cornelio Saavedra"
-      },
-      "DC": {
-        "name": "Daniel Campos"
-      },
-      "EA": {
-        "name": "Eduardo Avaroa"
-      },
-      "EB": {
-        "name": "Enrique Baldivieso"
-      },
-      "EC": {
-        "name": "Eliodoro Camacho"
-      },
-      "EM": {
-        "name": "Eustaquio Méndez"
-      },
-      "FLO": {
-        "name": "Florida"
-      },
-      "FR": {
-        "name": "Federico Román"
-      },
-      "FT": {
-        "name": "Franz Tamayo"
-      },
-      "GB": {
-        "name": "Germán Busch"
-      },
-      "GC": {
-        "name": "Gran Chaco"
-      },
-      "GJ": {
-        "name": "Germán Jordán"
-      },
-      "GUA": {
-        "name": "Guarayos"
-      },
-      "GV": {
-        "name": "Gualberto Villarroel"
-      },
-      "HS": {
-        "name": "Hernando Siles"
-      },
-      "ICH": {
-        "name": "Ichilo"
-      },
-      "ING": {
-        "name": "Ingavi"
-      },
-      "INQ": {
-        "name": "Inquisivi"
-      },
-      "ITÉ": {
-        "name": "Iténez"
-      },
-      "IW": {
-        "name": "Ignacio Warnes"
-      },
-      "JB": {
-        "name": "José Ballivián"
-      },
-      "JM": {
-        "name": "José María Avilés"
-      },
-      "JZ": {
-        "name": "Jaime Zudáñez"
-      },
-      "LA": {
-        "name": "Los Andes"
-      },
-      "LAR": {
-        "name": "Larecaja"
-      },
-      "LC": {
-        "name": "Ladislao Cabrera"
-      },
-      "LIT": {
-        "name": "Litoral"
-      },
-      "LOA": {
-        "name": "Loayza"
-      },
-      "MAM": {
-        "name": "Mamoré"
-      },
-      "MAN": {
-        "name": "Manuripi"
-      },
-      "MAR": {
-        "name": "Marbán"
-      },
-      "MD": {
-        "name": "Madre de Dios"
-      },
-      "MIZ": {
-        "name": "Mizque"
-      },
-      "MK": {
-        "name": "Manco Kapac"
-      },
-      "MM": {
-        "name": "Manuel María Caballero"
-      },
-      "MO": {
-        "name": "Modesto Omiste"
-      },
-      "MOX": {
-        "name": "Moxos"
-      },
-      "MUR": {
-        "name": "Murillo"
-      },
-      "MUÑ": {
-        "name": "Muñecas"
-      },
-      "NC": {
-        "name": "Nor Chichas"
-      },
-      "NL": {
-        "name": "Nor Lípez"
-      },
-      "NS": {
-        "name": "Nicolás Suárez"
-      },
-      "NY": {
-        "name": "Nor Yungas"
-      },
-      "OMA": {
-        "name": "Omasuyos"
-      },
-      "ORO": {
-        "name": "Oropeza"
-      },
-      "OS": {
-        "name": "Obispo Santistevan"
-      },
-      "PAC": {
-        "name": "Pacajes"
-      },
-      "PD": {
-        "name": "Puerto de Mejillones"
-      },
-      "POO": {
-        "name": "Poopó"
-      },
-      "PUN": {
-        "name": "Punata"
-      },
-      "QUI": {
-        "name": "Quillacollo"
-      },
-      "RB": {
-        "name": "Rafael Bustillo"
-      },
-      "SAJ": {
-        "name": "Sajama"
-      },
-      "SAR": {
-        "name": "Sara"
-      },
-      "SAU": {
-        "name": "Saucarí"
-      },
-      "SC": {
-        "name": "Sur Chichas"
-      },
-      "SL": {
-        "name": "Sur Lípez"
-      },
-      "SP": {
-        "name": "Sebastián Pagador"
-      },
-      "SY": {
-        "name": "Sud Yungas"
-      },
-      "TAP": {
-        "name": "Tapacarí"
-      },
-      "TB": {
-        "name": "Tomas Barrón"
-      },
-      "TF": {
-        "name": "Tomás Frías"
-      },
-      "TIR": {
-        "name": "Tiraque"
-      },
-      "TOM": {
-        "name": "Tomina"
-      },
-      "VAL": {
-        "name": "Vallegrande"
-      },
-      "VD": {
-        "name": "Vaca Díez"
-      },
-      "YAC": {
-        "name": "Yacuma"
-      },
-      "YAM": {
-        "name": "Yamparáez"
-      },
-      "ÁS": {
-        "name": "Ángel Sandoval"
-      },
-      "ÑD": {
-        "name": "Ñuflo de Chávez"
-      }
+      "name": "Burnet O'Connor"
+    },
+    "BOL": {
+      "name": "Bolívar"
+    },
+    "BS": {
+      "name": "Bautista Saavedra"
+    },
+    "CAM": {
+      "name": "Campero"
+    },
+    "CAP": {
+      "name": "Capinota"
+    },
+    "CAR": {
+      "name": "Carangas"
+    },
+    "CER": {
+      "name": "Cercado"
+    },
+    "CHA": {
+      "name": "Chayanta"
+    },
+    "CHI": {
+      "name": "Chiquitos"
+    },
+    "COR": {
+      "name": "Cordillera"
+    },
+    "CS": {
+      "name": "Cornelio Saavedra"
+    },
+    "DC": {
+      "name": "Daniel Campos"
+    },
+    "EA": {
+      "name": "Eduardo Avaroa"
+    },
+    "EB": {
+      "name": "Enrique Baldivieso"
+    },
+    "EC": {
+      "name": "Eliodoro Camacho"
+    },
+    "EM": {
+      "name": "Eustaquio Méndez"
+    },
+    "FLO": {
+      "name": "Florida"
+    },
+    "FR": {
+      "name": "Federico Román"
+    },
+    "FT": {
+      "name": "Franz Tamayo"
+    },
+    "GB": {
+      "name": "Germán Busch"
+    },
+    "GC": {
+      "name": "Gran Chaco"
+    },
+    "GJ": {
+      "name": "Germán Jordán"
+    },
+    "GUA": {
+      "name": "Guarayos"
+    },
+    "GV": {
+      "name": "Gualberto Villarroel"
+    },
+    "HS": {
+      "name": "Hernando Siles"
+    },
+    "ICH": {
+      "name": "Ichilo"
+    },
+    "ING": {
+      "name": "Ingavi"
+    },
+    "INQ": {
+      "name": "Inquisivi"
+    },
+    "ITÉ": {
+      "name": "Iténez"
+    },
+    "IW": {
+      "name": "Ignacio Warnes"
+    },
+    "JB": {
+      "name": "José Ballivián"
+    },
+    "JM": {
+      "name": "José María Avilés"
+    },
+    "JZ": {
+      "name": "Jaime Zudáñez"
+    },
+    "LA": {
+      "name": "Los Andes"
+    },
+    "LAR": {
+      "name": "Larecaja"
+    },
+    "LC": {
+      "name": "Ladislao Cabrera"
+    },
+    "LIT": {
+      "name": "Litoral"
+    },
+    "LOA": {
+      "name": "Loayza"
+    },
+    "MAM": {
+      "name": "Mamoré"
+    },
+    "MAN": {
+      "name": "Manuripi"
+    },
+    "MAR": {
+      "name": "Marbán"
+    },
+    "MD": {
+      "name": "Madre de Dios"
+    },
+    "MIZ": {
+      "name": "Mizque"
+    },
+    "MK": {
+      "name": "Manco Kapac"
+    },
+    "MM": {
+      "name": "Manuel María Caballero"
+    },
+    "MO": {
+      "name": "Modesto Omiste"
+    },
+    "MOX": {
+      "name": "Moxos"
+    },
+    "MUR": {
+      "name": "Murillo"
+    },
+    "MUÑ": {
+      "name": "Muñecas"
+    },
+    "NC": {
+      "name": "Nor Chichas"
+    },
+    "NL": {
+      "name": "Nor Lípez"
+    },
+    "NS": {
+      "name": "Nicolás Suárez"
+    },
+    "NY": {
+      "name": "Nor Yungas"
+    },
+    "OMA": {
+      "name": "Omasuyos"
+    },
+    "ORO": {
+      "name": "Oropeza"
+    },
+    "OS": {
+      "name": "Obispo Santistevan"
+    },
+    "PAC": {
+      "name": "Pacajes"
+    },
+    "PD": {
+      "name": "Puerto de Mejillones"
+    },
+    "POO": {
+      "name": "Poopó"
+    },
+    "PUN": {
+      "name": "Punata"
+    },
+    "QUI": {
+      "name": "Quillacollo"
+    },
+    "RB": {
+      "name": "Rafael Bustillo"
+    },
+    "SAJ": {
+      "name": "Sajama"
+    },
+    "SAR": {
+      "name": "Sara"
+    },
+    "SAU": {
+      "name": "Saucarí"
+    },
+    "SC": {
+      "name": "Sur Chichas"
+    },
+    "SL": {
+      "name": "Sur Lípez"
+    },
+    "SP": {
+      "name": "Sebastián Pagador"
+    },
+    "SY": {
+      "name": "Sud Yungas"
+    },
+    "TAP": {
+      "name": "Tapacarí"
+    },
+    "TB": {
+      "name": "Tomas Barrón"
+    },
+    "TF": {
+      "name": "Tomás Frías"
+    },
+    "TIR": {
+      "name": "Tiraque"
+    },
+    "TOM": {
+      "name": "Tomina"
+    },
+    "VAL": {
+      "name": "Vallegrande"
+    },
+    "VD": {
+      "name": "Vaca Díez"
+    },
+    "YAC": {
+      "name": "Yacuma"
+    },
+    "YAM": {
+      "name": "Yamparáez"
+    },
+    "ÁS": {
+      "name": "Ángel Sandoval"
+    },
+    "ÑD": {
+      "name": "Ñuflo de Chávez"
     }
-  },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
   }
 }

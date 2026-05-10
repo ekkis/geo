@@ -1,29 +1,23 @@
 {
-  "data": {
-    "CE": {
-      "name": "Central"
-    },
-    "GH": {
-      "name": "Ghanzi"
-    },
-    "HH": {
-      "name": "Southern"
-    },
-    "KD": {
-      "name": "Kgalagadi"
-    },
-    "KE": {
-      "name": "Kweneng"
-    },
-    "KL": {
-      "name": "Kgatleng"
-    },
-    "NW": {
-      "name": "North-West"
-    }
+  "CE": {
+    "name": "Central"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "GH": {
+    "name": "Ghanzi"
+  },
+  "HH": {
+    "name": "Southern"
+  },
+  "KD": {
+    "name": "Kgalagadi"
+  },
+  "KE": {
+    "name": "Kweneng"
+  },
+  "KL": {
+    "name": "Kgatleng"
+  },
+  "NW": {
+    "name": "North-West"
   }
 }

@@ -1,43 +1,37 @@
 {
-  "data": {
-    "Borgo Maggiore": {
-      "BORMA": {
-        "name": "Borgo Maggiore"
-      }
-    },
-    "Domagnano": {
-      "DOM": {
-        "name": "Domagnano"
-      }
-    },
-    "Faetano": {
-      "FAE": {
-        "name": "Faetano"
-      }
-    },
-    "Fiorentino": {
-      "FIO": {
-        "name": "Fiorentino"
-      }
-    },
-    "Montegiardino": {
-      "MON": {
-        "name": "Montegiardino"
-      }
-    },
-    "San Marino": {
-      "SANMA": {
-        "name": "San Marino"
-      }
-    },
-    "Serravalle": {
-      "SER": {
-        "name": "Serravalle"
-      }
+  "Borgo Maggiore": {
+    "BORMA": {
+      "name": "Borgo Maggiore"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Domagnano": {
+    "DOM": {
+      "name": "Domagnano"
+    }
+  },
+  "Faetano": {
+    "FAE": {
+      "name": "Faetano"
+    }
+  },
+  "Fiorentino": {
+    "FIO": {
+      "name": "Fiorentino"
+    }
+  },
+  "Montegiardino": {
+    "MON": {
+      "name": "Montegiardino"
+    }
+  },
+  "San Marino": {
+    "SANMA": {
+      "name": "San Marino"
+    }
+  },
+  "Serravalle": {
+    "SER": {
+      "name": "Serravalle"
+    }
   }
 }

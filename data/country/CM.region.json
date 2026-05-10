@@ -1,38 +1,32 @@
 {
-  "data": {
-    "AD": {
-      "name": "Adamaoua"
-    },
-    "CE": {
-      "name": "Centre"
-    },
-    "EN": {
-      "name": "Far North"
-    },
-    "ES": {
-      "name": "East"
-    },
-    "LT": {
-      "name": "Littoral"
-    },
-    "NO": {
-      "name": "North"
-    },
-    "NW": {
-      "name": "North-West"
-    },
-    "OU": {
-      "name": "West"
-    },
-    "SU": {
-      "name": "South"
-    },
-    "SW": {
-      "name": "South-West"
-    }
+  "AD": {
+    "name": "Adamaoua"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "CE": {
+    "name": "Centre"
+  },
+  "EN": {
+    "name": "Far North"
+  },
+  "ES": {
+    "name": "East"
+  },
+  "LT": {
+    "name": "Littoral"
+  },
+  "NO": {
+    "name": "North"
+  },
+  "NW": {
+    "name": "North-West"
+  },
+  "OU": {
+    "name": "West"
+  },
+  "SU": {
+    "name": "South"
+  },
+  "SW": {
+    "name": "South-West"
   }
 }

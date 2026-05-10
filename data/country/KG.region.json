@@ -1,53 +1,47 @@
 {
-  "data": {
-    "Batken": {
-      "BATK": {
-        "name": "Batken"
-      }
-    },
-    "Bishkek": {
-      "BISH": {
-        "name": "Bishkek"
-      }
-    },
-    "Chuy": {
-      "CHUY": {
-        "name": "Chuy"
-      }
-    },
-    "Issyk-Kul": {
-      "ISSYK": {
-        "name": "Issyk-Kul"
-      }
-    },
-    "Jalal-Abad": {
-      "JALA": {
-        "name": "Jalal-Abad"
-      }
-    },
-    "Naryn": {
-      "NARY": {
-        "name": "Naryn"
-      }
-    },
-    "Osh": {
-      "OSH": {
-        "name": "Osh"
-      }
-    },
-    "Osh Region": {
-      "OSHREG": {
-        "name": "Osh Region"
-      }
-    },
-    "Talas": {
-      "TALAS": {
-        "name": "Talas"
-      }
+  "Batken": {
+    "BATK": {
+      "name": "Batken"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Bishkek": {
+    "BISH": {
+      "name": "Bishkek"
+    }
+  },
+  "Chuy": {
+    "CHUY": {
+      "name": "Chuy"
+    }
+  },
+  "Issyk-Kul": {
+    "ISSYK": {
+      "name": "Issyk-Kul"
+    }
+  },
+  "Jalal-Abad": {
+    "JALA": {
+      "name": "Jalal-Abad"
+    }
+  },
+  "Naryn": {
+    "NARY": {
+      "name": "Naryn"
+    }
+  },
+  "Osh": {
+    "OSH": {
+      "name": "Osh"
+    }
+  },
+  "Osh Region": {
+    "OSHREG": {
+      "name": "Osh Region"
+    }
+  },
+  "Talas": {
+    "TALAS": {
+      "name": "Talas"
+    }
   }
 }

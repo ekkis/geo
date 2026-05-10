@@ -1,58 +1,52 @@
 {
-  "data": {
-    "Alytus": {
-      "ALY": {
-        "name": "Alytus"
-      }
-    },
-    "Kaunas": {
-      "KAU": {
-        "name": "Kaunas"
-      }
-    },
-    "Klaipėda": {
-      "KLA": {
-        "name": "Klaipėda"
-      }
-    },
-    "Marijampolė": {
-      "MAR": {
-        "name": "Marijampolė"
-      }
-    },
-    "Panevėžys": {
-      "PAN": {
-        "name": "Panevėžys"
-      }
-    },
-    "Šiauliai": {
-      "SIA": {
-        "name": "Šiauliai"
-      }
-    },
-    "Tauragė": {
-      "TAU": {
-        "name": "Tauragė"
-      }
-    },
-    "Telšiai": {
-      "TEL": {
-        "name": "Telšiai"
-      }
-    },
-    "Utena": {
-      "UTE": {
-        "name": "Utena"
-      }
-    },
-    "Vilnius": {
-      "VIL": {
-        "name": "Vilnius"
-      }
+  "Alytus": {
+    "ALY": {
+      "name": "Alytus"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Kaunas": {
+    "KAU": {
+      "name": "Kaunas"
+    }
+  },
+  "Klaipėda": {
+    "KLA": {
+      "name": "Klaipėda"
+    }
+  },
+  "Marijampolė": {
+    "MAR": {
+      "name": "Marijampolė"
+    }
+  },
+  "Panevėžys": {
+    "PAN": {
+      "name": "Panevėžys"
+    }
+  },
+  "Šiauliai": {
+    "SIA": {
+      "name": "Šiauliai"
+    }
+  },
+  "Tauragė": {
+    "TAU": {
+      "name": "Tauragė"
+    }
+  },
+  "Telšiai": {
+    "TEL": {
+      "name": "Telšiai"
+    }
+  },
+  "Utena": {
+    "UTE": {
+      "name": "Utena"
+    }
+  },
+  "Vilnius": {
+    "VIL": {
+      "name": "Vilnius"
+    }
   }
 }

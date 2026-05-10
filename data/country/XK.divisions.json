@@ -1,44 +1,37 @@
 {
-  "meta": {
-    "divisions": [],
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Ferizaj": {
+    "FERIZAJ": {
+      "name": "Ferizaj"
+    }
   },
-  "data": {
-    "Ferizaj": {
-      "FERIZAJ": {
-        "name": "Ferizaj"
-      }
-    },
-    "Gjakova": {
-      "GJAKOVA": {
-        "name": "Gjakova"
-      }
-    },
-    "Gjilan": {
-      "GJILAN": {
-        "name": "Gjilan"
-      }
-    },
-    "Mitrovica": {
-      "MITROVICA": {
-        "name": "Mitrovica"
-      }
-    },
-    "Peja": {
-      "PEJA": {
-        "name": "Peja"
-      }
-    },
-    "Pristina": {
-      "PRISTINA": {
-        "name": "Pristina"
-      }
-    },
-    "Prizren": {
-      "PRIZREN": {
-        "name": "Prizren"
-      }
+  "Gjakova": {
+    "GJAKOVA": {
+      "name": "Gjakova"
+    }
+  },
+  "Gjilan": {
+    "GJILAN": {
+      "name": "Gjilan"
+    }
+  },
+  "Mitrovica": {
+    "MITROVICA": {
+      "name": "Mitrovica"
+    }
+  },
+  "Peja": {
+    "PEJA": {
+      "name": "Peja"
+    }
+  },
+  "Pristina": {
+    "PRISTINA": {
+      "name": "Pristina"
+    }
+  },
+  "Prizren": {
+    "PRIZREN": {
+      "name": "Prizren"
     }
   }
 }

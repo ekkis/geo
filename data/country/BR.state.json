@@ -1,81 +1,75 @@
 {
-  "data": {
-    "North": {
-      "ACR": {
-        "name": "Acre"
-      },
-      "AMA": {
-        "name": "Amazonas"
-      },
-      "RON": {
-        "name": "Rondônia"
-      },
-      "ROR": {
-        "name": "Roraima"
-      },
-      "TOC": {
-        "name": "Tocantins"
-      }
+  "North": {
+    "ACR": {
+      "name": "Acre"
     },
-    "Northeast": {
-      "ALA": {
-        "name": "Alagoas"
-      },
-      "BAH": {
-        "name": "Bahia"
-      },
-      "CEA": {
-        "name": "Ceará"
-      },
-      "MAR": {
-        "name": "Maranhão"
-      },
-      "PER": {
-        "name": "Pernambuco"
-      },
-      "PIA": {
-        "name": "Piauí"
-      },
-      "SER": {
-        "name": "Sergipe"
-      }
+    "AMA": {
+      "name": "Amazonas"
     },
-    "Central-West": {
-      "DF": {
-        "name": "Distrito Federal"
-      },
-      "GOI": {
-        "name": "Goiás"
-      }
+    "RON": {
+      "name": "Rondônia"
     },
-    "Southeast": {
-      "ES": {
-        "name": "Espírito Santo"
-      },
-      "MG": {
-        "name": "Minas Gerais"
-      },
-      "RD": {
-        "name": "Rio de Janeiro"
-      },
-      "SP": {
-        "name": "São Paulo"
-      }
+    "ROR": {
+      "name": "Roraima"
     },
-    "South": {
-      "PAR": {
-        "name": "Paraná"
-      },
-      "RG": {
-        "name": "Rio Grande do Sul"
-      },
-      "SC": {
-        "name": "Santa Catarina"
-      }
+    "TOC": {
+      "name": "Tocantins"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Northeast": {
+    "ALA": {
+      "name": "Alagoas"
+    },
+    "BAH": {
+      "name": "Bahia"
+    },
+    "CEA": {
+      "name": "Ceará"
+    },
+    "MAR": {
+      "name": "Maranhão"
+    },
+    "PER": {
+      "name": "Pernambuco"
+    },
+    "PIA": {
+      "name": "Piauí"
+    },
+    "SER": {
+      "name": "Sergipe"
+    }
+  },
+  "Central-West": {
+    "DF": {
+      "name": "Distrito Federal"
+    },
+    "GOI": {
+      "name": "Goiás"
+    }
+  },
+  "Southeast": {
+    "ES": {
+      "name": "Espírito Santo"
+    },
+    "MG": {
+      "name": "Minas Gerais"
+    },
+    "RD": {
+      "name": "Rio de Janeiro"
+    },
+    "SP": {
+      "name": "São Paulo"
+    }
+  },
+  "South": {
+    "PAR": {
+      "name": "Paraná"
+    },
+    "RG": {
+      "name": "Rio Grande do Sul"
+    },
+    "SC": {
+      "name": "Santa Catarina"
+    }
   }
 }

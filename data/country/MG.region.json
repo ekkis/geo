@@ -1,23 +1,17 @@
 {
-  "data": {
-    "FF": {
-      "name": "Antananarivo"
-    },
-    "MA": {
-      "name": "Antsirabe"
-    },
-    "ME": {
-      "name": "Toliara"
-    },
-    "TB": {
-      "name": "Taolagnaro"
-    },
-    "TM": {
-      "name": "Tamatave"
-    }
+  "FF": {
+    "name": "Antananarivo"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "MA": {
+    "name": "Antsirabe"
+  },
+  "ME": {
+    "name": "Toliara"
+  },
+  "TB": {
+    "name": "Taolagnaro"
+  },
+  "TM": {
+    "name": "Tamatave"
   }
 }

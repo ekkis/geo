@@ -1,68 +1,62 @@
 {
-  "data": {
-    "Berat": {
-      "BER": {
-        "name": "Berat"
-      }
-    },
-    "Dibër": {
-      "DIB": {
-        "name": "Dibër"
-      }
-    },
-    "Durrës": {
-      "DUR": {
-        "name": "Durrës"
-      }
-    },
-    "Elbasan": {
-      "ELB": {
-        "name": "Elbasan"
-      }
-    },
-    "Fier": {
-      "FIE": {
-        "name": "Fier"
-      }
-    },
-    "Gjirokastër": {
-      "GJI": {
-        "name": "Gjirokastër"
-      }
-    },
-    "Korçë": {
-      "KOR": {
-        "name": "Korçë"
-      }
-    },
-    "Kukës": {
-      "KUK": {
-        "name": "Kukës"
-      }
-    },
-    "Lezhë": {
-      "LEZ": {
-        "name": "Lezhë"
-      }
-    },
-    "Shkodër": {
-      "SHK": {
-        "name": "Shkodër"
-      }
-    },
-    "Tirana": {
-      "TIR": {
-        "name": "Tirana"
-      }
-    },
-    "Vlorë": {
-      "VLO": {
-        "name": "Vlorë"
-      }
+  "Berat": {
+    "BER": {
+      "name": "Berat"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Dibër": {
+    "DIB": {
+      "name": "Dibër"
+    }
+  },
+  "Durrës": {
+    "DUR": {
+      "name": "Durrës"
+    }
+  },
+  "Elbasan": {
+    "ELB": {
+      "name": "Elbasan"
+    }
+  },
+  "Fier": {
+    "FIE": {
+      "name": "Fier"
+    }
+  },
+  "Gjirokastër": {
+    "GJI": {
+      "name": "Gjirokastër"
+    }
+  },
+  "Korçë": {
+    "KOR": {
+      "name": "Korçë"
+    }
+  },
+  "Kukës": {
+    "KUK": {
+      "name": "Kukës"
+    }
+  },
+  "Lezhë": {
+    "LEZ": {
+      "name": "Lezhë"
+    }
+  },
+  "Shkodër": {
+    "SHK": {
+      "name": "Shkodër"
+    }
+  },
+  "Tirana": {
+    "TIR": {
+      "name": "Tirana"
+    }
+  },
+  "Vlorë": {
+    "VLO": {
+      "name": "Vlorë"
+    }
   }
 }

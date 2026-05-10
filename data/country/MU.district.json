@@ -1,35 +1,29 @@
 {
-  "data": {
-    "AG": {
-      "name": "Agalega"
-    },
-    "CC": {
-      "name": "Cargados Carajos"
-    },
-    "FL": {
-      "name": "Flacq"
-    },
-    "PA": {
-      "name": "Pamplemousses"
-    },
-    "PL": {
-      "name": "Plaines Wilhems"
-    },
-    "PU": {
-      "name": "Port Louis"
-    },
-    "RR": {
-      "name": "Rivière du Rempart"
-    },
-    "SA": {
-      "name": "Savanne"
-    },
-    "WO": {
-      "name": "Rodrigues"
-    }
+  "AG": {
+    "name": "Agalega"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "CC": {
+    "name": "Cargados Carajos"
+  },
+  "FL": {
+    "name": "Flacq"
+  },
+  "PA": {
+    "name": "Pamplemousses"
+  },
+  "PL": {
+    "name": "Plaines Wilhems"
+  },
+  "PU": {
+    "name": "Port Louis"
+  },
+  "RR": {
+    "name": "Rivière du Rempart"
+  },
+  "SA": {
+    "name": "Savanne"
+  },
+  "WO": {
+    "name": "Rodrigues"
   }
 }

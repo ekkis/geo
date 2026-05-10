@@ -1,29 +1,23 @@
 {
-  "data": {
-    "CM": {
-      "name": "Bamako Capital District"
-    },
-    "GA": {
-      "name": "Gao"
-    },
-    "KY": {
-      "name": "Kidal"
-    },
-    "MO": {
-      "name": "Mopti"
-    },
-    "SH": {
-      "name": "Ségou"
-    },
-    "SL": {
-      "name": "Sikasso"
-    },
-    "TB": {
-      "name": "Tombouctou"
-    }
+  "CM": {
+    "name": "Bamako Capital District"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "GA": {
+    "name": "Gao"
+  },
+  "KY": {
+    "name": "Kidal"
+  },
+  "MO": {
+    "name": "Mopti"
+  },
+  "SH": {
+    "name": "Ségou"
+  },
+  "SL": {
+    "name": "Sikasso"
+  },
+  "TB": {
+    "name": "Tombouctou"
   }
 }

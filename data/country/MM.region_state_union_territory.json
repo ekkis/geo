@@ -1,83 +1,77 @@
 {
-  "data": {
-    "Ayeyarwady": {
-      "AYEYAR": {
-        "name": "Ayeyarwady"
-      }
-    },
-    "Bago": {
-      "BAGO": {
-        "name": "Bago"
-      }
-    },
-    "Chin": {
-      "CHIN": {
-        "name": "Chin"
-      }
-    },
-    "Kachin": {
-      "KACHIN": {
-        "name": "Kachin"
-      }
-    },
-    "Kayah": {
-      "KAYAH": {
-        "name": "Kayah"
-      }
-    },
-    "Kayin": {
-      "KAYIN": {
-        "name": "Kayin"
-      }
-    },
-    "Magway": {
-      "MAGWAY": {
-        "name": "Magway"
-      }
-    },
-    "Mandalay": {
-      "MANDALAY": {
-        "name": "Mandalay"
-      }
-    },
-    "Mon": {
-      "MON": {
-        "name": "Mon"
-      }
-    },
-    "Naypyidaw": {
-      "NAYPYID": {
-        "name": "Naypyidaw"
-      }
-    },
-    "Rakhine": {
-      "RAKHINE": {
-        "name": "Rakhine"
-      }
-    },
-    "Sagaing": {
-      "SAGAING": {
-        "name": "Sagaing"
-      }
-    },
-    "Shan": {
-      "SHAN": {
-        "name": "Shan"
-      }
-    },
-    "Tanintharyi": {
-      "TANINTH": {
-        "name": "Tanintharyi"
-      }
-    },
-    "Yangon": {
-      "YANGON": {
-        "name": "Yangon"
-      }
+  "Ayeyarwady": {
+    "AYEYAR": {
+      "name": "Ayeyarwady"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Bago": {
+    "BAGO": {
+      "name": "Bago"
+    }
+  },
+  "Chin": {
+    "CHIN": {
+      "name": "Chin"
+    }
+  },
+  "Kachin": {
+    "KACHIN": {
+      "name": "Kachin"
+    }
+  },
+  "Kayah": {
+    "KAYAH": {
+      "name": "Kayah"
+    }
+  },
+  "Kayin": {
+    "KAYIN": {
+      "name": "Kayin"
+    }
+  },
+  "Magway": {
+    "MAGWAY": {
+      "name": "Magway"
+    }
+  },
+  "Mandalay": {
+    "MANDALAY": {
+      "name": "Mandalay"
+    }
+  },
+  "Mon": {
+    "MON": {
+      "name": "Mon"
+    }
+  },
+  "Naypyidaw": {
+    "NAYPYID": {
+      "name": "Naypyidaw"
+    }
+  },
+  "Rakhine": {
+    "RAKHINE": {
+      "name": "Rakhine"
+    }
+  },
+  "Sagaing": {
+    "SAGAING": {
+      "name": "Sagaing"
+    }
+  },
+  "Shan": {
+    "SHAN": {
+      "name": "Shan"
+    }
+  },
+  "Tanintharyi": {
+    "TANINTH": {
+      "name": "Tanintharyi"
+    }
+  },
+  "Yangon": {
+    "YANGON": {
+      "name": "Yangon"
+    }
   }
 }

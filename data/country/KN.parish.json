@@ -1,26 +1,20 @@
 {
-  "data": {
-    "SAINTANNE": {
-      "name": "Saint Anne Sandy Point"
-    },
-    "SAINTGEORGE": {
-      "name": "Saint George Basseterre"
-    },
-    "SAINTMARY": {
-      "name": "Saint Mary Cayon"
-    },
-    "SAINTPAUL": {
-      "name": "Saint Paul Capisterre"
-    },
-    "SAINTPETER": {
-      "name": "Saint Peter Basseterre"
-    },
-    "SAINTTRINITY": {
-      "name": "Saint Trinity Palmetto Point"
-    }
+  "SAINTANNE": {
+    "name": "Saint Anne Sandy Point"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "SAINTGEORGE": {
+    "name": "Saint George Basseterre"
+  },
+  "SAINTMARY": {
+    "name": "Saint Mary Cayon"
+  },
+  "SAINTPAUL": {
+    "name": "Saint Paul Capisterre"
+  },
+  "SAINTPETER": {
+    "name": "Saint Peter Basseterre"
+  },
+  "SAINTTRINITY": {
+    "name": "Saint Trinity Palmetto Point"
   }
 }

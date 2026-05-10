@@ -1,35 +1,29 @@
 {
-  "data": {
-    "AN": {
-      "name": "Anabar"
-    },
-    "BA": {
-      "name": "Baiti"
-    },
-    "BO": {
-      "name": "Boe"
-    },
-    "CI": {
-      "name": "Buada"
-    },
-    "DE": {
-      "name": "Denigomodu"
-    },
-    "MA": {
-      "name": "Meneng"
-    },
-    "NB": {
-      "name": "Nibok"
-    },
-    "UA": {
-      "name": "Uaboe"
-    },
-    "YAR": {
-      "name": "Yaren"
-    }
+  "AN": {
+    "name": "Anabar"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BA": {
+    "name": "Baiti"
+  },
+  "BO": {
+    "name": "Boe"
+  },
+  "CI": {
+    "name": "Buada"
+  },
+  "DE": {
+    "name": "Denigomodu"
+  },
+  "MA": {
+    "name": "Meneng"
+  },
+  "NB": {
+    "name": "Nibok"
+  },
+  "UA": {
+    "name": "Uaboe"
+  },
+  "YAR": {
+    "name": "Yaren"
   }
 }

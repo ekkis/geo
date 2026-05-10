@@ -1,47 +1,41 @@
 {
-  "data": {
-    "AB": {
-      "name": "Alberta"
-    },
-    "BC": {
-      "name": "British Columbia"
-    },
-    "MB": {
-      "name": "Manitoba"
-    },
-    "NB": {
-      "name": "New Brunswick"
-    },
-    "NL": {
-      "name": "Newfoundland and Labrador"
-    },
-    "NS": {
-      "name": "Nova Scotia"
-    },
-    "NT": {
-      "name": "Northwest Territories"
-    },
-    "NU": {
-      "name": "Nunavut"
-    },
-    "ON": {
-      "name": "Ontario"
-    },
-    "PE": {
-      "name": "Prince Edward Island"
-    },
-    "QC": {
-      "name": "Quebec"
-    },
-    "SK": {
-      "name": "Saskatchewan"
-    },
-    "YT": {
-      "name": "Yukon"
-    }
+  "AB": {
+    "name": "Alberta"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BC": {
+    "name": "British Columbia"
+  },
+  "MB": {
+    "name": "Manitoba"
+  },
+  "NB": {
+    "name": "New Brunswick"
+  },
+  "NL": {
+    "name": "Newfoundland and Labrador"
+  },
+  "NS": {
+    "name": "Nova Scotia"
+  },
+  "NT": {
+    "name": "Northwest Territories"
+  },
+  "NU": {
+    "name": "Nunavut"
+  },
+  "ON": {
+    "name": "Ontario"
+  },
+  "PE": {
+    "name": "Prince Edward Island"
+  },
+  "QC": {
+    "name": "Quebec"
+  },
+  "SK": {
+    "name": "Saskatchewan"
+  },
+  "YT": {
+    "name": "Yukon"
   }
 }

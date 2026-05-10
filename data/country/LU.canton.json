@@ -1,68 +1,62 @@
 {
-  "data": {
+  "Capellen": {
     "Capellen": {
-      "Capellen": {
-        "name": "Capellen"
-      }
-    },
-    "Clervaux": {
-      "Clervaux": {
-        "name": "Clervaux"
-      }
-    },
-    "Diekirch": {
-      "Diekirch": {
-        "name": "Diekirch"
-      }
-    },
-    "Echternach": {
-      "Echternach": {
-        "name": "Echternach"
-      }
-    },
-    "Esch-sur-Alzette": {
-      "Esch-sur-Alzette": {
-        "name": "Esch-sur-Alzette"
-      }
-    },
-    "Grevenmacher": {
-      "Grevenmacher": {
-        "name": "Grevenmacher"
-      }
-    },
-    "Luxembourg": {
-      "Luxembourg": {
-        "name": "Luxembourg"
-      }
-    },
-    "Mersch": {
-      "Mersch": {
-        "name": "Mersch"
-      }
-    },
-    "Redange": {
-      "Redange": {
-        "name": "Redange"
-      }
-    },
-    "Remich": {
-      "Remich": {
-        "name": "Remich"
-      }
-    },
-    "Vianden": {
-      "Vianden": {
-        "name": "Vianden"
-      }
-    },
-    "Wiltz": {
-      "Wiltz": {
-        "name": "Wiltz"
-      }
+      "name": "Capellen"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Clervaux": {
+    "Clervaux": {
+      "name": "Clervaux"
+    }
+  },
+  "Diekirch": {
+    "Diekirch": {
+      "name": "Diekirch"
+    }
+  },
+  "Echternach": {
+    "Echternach": {
+      "name": "Echternach"
+    }
+  },
+  "Esch-sur-Alzette": {
+    "Esch-sur-Alzette": {
+      "name": "Esch-sur-Alzette"
+    }
+  },
+  "Grevenmacher": {
+    "Grevenmacher": {
+      "name": "Grevenmacher"
+    }
+  },
+  "Luxembourg": {
+    "Luxembourg": {
+      "name": "Luxembourg"
+    }
+  },
+  "Mersch": {
+    "Mersch": {
+      "name": "Mersch"
+    }
+  },
+  "Redange": {
+    "Redange": {
+      "name": "Redange"
+    }
+  },
+  "Remich": {
+    "Remich": {
+      "name": "Remich"
+    }
+  },
+  "Vianden": {
+    "Vianden": {
+      "name": "Vianden"
+    }
+  },
+  "Wiltz": {
+    "Wiltz": {
+      "name": "Wiltz"
+    }
   }
 }

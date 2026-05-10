@@ -1,53 +1,47 @@
 {
-  "data": {
-    "Bosnian Podrinje": {
-      "BOSPO": {
-        "name": "Bosnian Podrinje"
-      }
-    },
-    "Central Bosnia": {
-      "CENBO": {
-        "name": "Central Bosnia"
-      }
-    },
-    "Herzegovina-Neretva": {
-      "HER": {
-        "name": "Herzegovina-Neretva"
-      }
-    },
-    "Posavina": {
-      "POS": {
-        "name": "Posavina"
-      }
-    },
-    "Republika Srpska": {
-      "REPSR": {
-        "name": "Republika Srpska"
-      }
-    },
-    "Tuzla": {
-      "TUZ": {
-        "name": "Tuzla"
-      }
-    },
-    "Una-Sana": {
-      "UNA": {
-        "name": "Una-Sana"
-      }
-    },
-    "West Herzegovina": {
-      "WESHE": {
-        "name": "West Herzegovina"
-      }
-    },
-    "Zenica-Doboj": {
-      "ZEN": {
-        "name": "Zenica-Doboj"
-      }
+  "Bosnian Podrinje": {
+    "BOSPO": {
+      "name": "Bosnian Podrinje"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Central Bosnia": {
+    "CENBO": {
+      "name": "Central Bosnia"
+    }
+  },
+  "Herzegovina-Neretva": {
+    "HER": {
+      "name": "Herzegovina-Neretva"
+    }
+  },
+  "Posavina": {
+    "POS": {
+      "name": "Posavina"
+    }
+  },
+  "Republika Srpska": {
+    "REPSR": {
+      "name": "Republika Srpska"
+    }
+  },
+  "Tuzla": {
+    "TUZ": {
+      "name": "Tuzla"
+    }
+  },
+  "Una-Sana": {
+    "UNA": {
+      "name": "Una-Sana"
+    }
+  },
+  "West Herzegovina": {
+    "WESHE": {
+      "name": "West Herzegovina"
+    }
+  },
+  "Zenica-Doboj": {
+    "ZEN": {
+      "name": "Zenica-Doboj"
+    }
   }
 }

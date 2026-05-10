@@ -1,53 +1,47 @@
 {
-  "data": {
-    "BA": {
-      "name": "Batha"
-    },
-    "BE": {
-      "name": "Borkou-Ennedi-Tibesti"
-    },
-    "BI": {
-      "name": "Biltine"
-    },
-    "CH": {
-      "name": "Chari-Baguirmi"
-    },
-    "GC": {
-      "name": "Guéra"
-    },
-    "KA": {
-      "name": "Kanem"
-    },
-    "LA": {
-      "name": "Lac"
-    },
-    "LC": {
-      "name": "Logone Occidental"
-    },
-    "LE": {
-      "name": "Logone Oriental"
-    },
-    "MA": {
-      "name": "Mandoul"
-    },
-    "ME": {
-      "name": "Mayo-Kébbi Est"
-    },
-    "MO": {
-      "name": "Moyen-Chari"
-    },
-    "OA": {
-      "name": "Ouaddaï"
-    },
-    "SA": {
-      "name": "Salamat"
-    },
-    "TA": {
-      "name": "Tandjilé"
-    }
+  "BA": {
+    "name": "Batha"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BE": {
+    "name": "Borkou-Ennedi-Tibesti"
+  },
+  "BI": {
+    "name": "Biltine"
+  },
+  "CH": {
+    "name": "Chari-Baguirmi"
+  },
+  "GC": {
+    "name": "Guéra"
+  },
+  "KA": {
+    "name": "Kanem"
+  },
+  "LA": {
+    "name": "Lac"
+  },
+  "LC": {
+    "name": "Logone Occidental"
+  },
+  "LE": {
+    "name": "Logone Oriental"
+  },
+  "MA": {
+    "name": "Mandoul"
+  },
+  "ME": {
+    "name": "Mayo-Kébbi Est"
+  },
+  "MO": {
+    "name": "Moyen-Chari"
+  },
+  "OA": {
+    "name": "Ouaddaï"
+  },
+  "SA": {
+    "name": "Salamat"
+  },
+  "TA": {
+    "name": "Tandjilé"
   }
 }

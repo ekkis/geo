@@ -1,42 +1,36 @@
 {
-  "data": {
-    "Flanders": {
-      "ANT": {
-        "name": "Antwerpen"
-      },
-      "LIM": {
-        "name": "Limburg"
-      },
-      "OOS": {
-        "name": "Oost-Vlaanderen"
-      },
-      "VLA": {
-        "name": "Vlaams-Brabant"
-      },
-      "WES": {
-        "name": "West-Vlaanderen"
-      }
+  "Flanders": {
+    "ANT": {
+      "name": "Antwerpen"
     },
-    "Wallonia": {
-      "HEN": {
-        "name": "Henegouwen"
-      },
-      "LUI": {
-        "name": "Luik"
-      },
-      "LUX": {
-        "name": "Luxemburg"
-      },
-      "NAM": {
-        "name": "Namen"
-      },
-      "WAA": {
-        "name": "Waals-Brabant"
-      }
+    "LIM": {
+      "name": "Limburg"
+    },
+    "OOS": {
+      "name": "Oost-Vlaanderen"
+    },
+    "VLA": {
+      "name": "Vlaams-Brabant"
+    },
+    "WES": {
+      "name": "West-Vlaanderen"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Wallonia": {
+    "HEN": {
+      "name": "Henegouwen"
+    },
+    "LUI": {
+      "name": "Luik"
+    },
+    "LUX": {
+      "name": "Luxemburg"
+    },
+    "NAM": {
+      "name": "Namen"
+    },
+    "WAA": {
+      "name": "Waals-Brabant"
+    }
   }
 }

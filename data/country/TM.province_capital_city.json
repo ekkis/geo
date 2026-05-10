@@ -1,38 +1,32 @@
 {
-  "data": {
-    "Ahal": {
-      "AHAL": {
-        "name": "Ahal"
-      }
-    },
-    "Ashgabat": {
-      "ASH": {
-        "name": "Ashgabat"
-      }
-    },
-    "Balkan": {
-      "BALK": {
-        "name": "Balkan"
-      }
-    },
-    "Dashoguz": {
-      "DASH": {
-        "name": "Dashoguz"
-      }
-    },
-    "Lebap": {
-      "LEBA": {
-        "name": "Lebap"
-      }
-    },
-    "Mary": {
-      "MARY": {
-        "name": "Mary"
-      }
+  "Ahal": {
+    "AHAL": {
+      "name": "Ahal"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Ashgabat": {
+    "ASH": {
+      "name": "Ashgabat"
+    }
+  },
+  "Balkan": {
+    "BALK": {
+      "name": "Balkan"
+    }
+  },
+  "Dashoguz": {
+    "DASH": {
+      "name": "Dashoguz"
+    }
+  },
+  "Lebap": {
+    "LEBA": {
+      "name": "Lebap"
+    }
+  },
+  "Mary": {
+    "MARY": {
+      "name": "Mary"
+    }
   }
 }

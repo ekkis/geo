@@ -1,73 +1,67 @@
 {
-  "data": {
-    "Attica": {
-      "ATT": {
-        "name": "Attica"
-      }
-    },
-    "Central Greece": {
-      "CENGR": {
-        "name": "Central Greece"
-      }
-    },
-    "Central Macedonia": {
-      "CENMA": {
-        "name": "Central Macedonia"
-      }
-    },
-    "Crete": {
-      "CRE": {
-        "name": "Crete"
-      }
-    },
-    "East Macedonia and Thrace": {
-      "EASMA": {
-        "name": "East Macedonia and Thrace"
-      }
-    },
-    "Epirus": {
-      "EPI": {
-        "name": "Epirus"
-      }
-    },
-    "Ionian Islands": {
-      "IONIS": {
-        "name": "Ionian Islands"
-      }
-    },
-    "North Aegean": {
-      "NORAE": {
-        "name": "North Aegean"
-      }
-    },
-    "Peloponnese": {
-      "PEL": {
-        "name": "Peloponnese"
-      }
-    },
-    "South Aegean": {
-      "SOUAE": {
-        "name": "South Aegean"
-      }
-    },
-    "Thessaly": {
-      "THE": {
-        "name": "Thessaly"
-      }
-    },
-    "West Greece": {
-      "WESGR": {
-        "name": "West Greece"
-      }
-    },
-    "West Macedonia": {
-      "WESMA": {
-        "name": "West Macedonia"
-      }
+  "Attica": {
+    "ATT": {
+      "name": "Attica"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Central Greece": {
+    "CENGR": {
+      "name": "Central Greece"
+    }
+  },
+  "Central Macedonia": {
+    "CENMA": {
+      "name": "Central Macedonia"
+    }
+  },
+  "Crete": {
+    "CRE": {
+      "name": "Crete"
+    }
+  },
+  "East Macedonia and Thrace": {
+    "EASMA": {
+      "name": "East Macedonia and Thrace"
+    }
+  },
+  "Epirus": {
+    "EPI": {
+      "name": "Epirus"
+    }
+  },
+  "Ionian Islands": {
+    "IONIS": {
+      "name": "Ionian Islands"
+    }
+  },
+  "North Aegean": {
+    "NORAE": {
+      "name": "North Aegean"
+    }
+  },
+  "Peloponnese": {
+    "PEL": {
+      "name": "Peloponnese"
+    }
+  },
+  "South Aegean": {
+    "SOUAE": {
+      "name": "South Aegean"
+    }
+  },
+  "Thessaly": {
+    "THE": {
+      "name": "Thessaly"
+    }
+  },
+  "West Greece": {
+    "WESGR": {
+      "name": "West Greece"
+    }
+  },
+  "West Macedonia": {
+    "WESMA": {
+      "name": "West Macedonia"
+    }
   }
 }

@@ -1,78 +1,72 @@
 {
-  "data": {
-    "Greater Poland": {
-      "GREPO": {
-        "name": "Greater Poland"
-      }
-    },
-    "Kuyavian-Pomeranian": {
-      "KUY": {
-        "name": "Kuyavian-Pomeranian"
-      }
-    },
-    "Lesser Poland": {
-      "LESPO": {
-        "name": "Lesser Poland"
-      }
-    },
-    "Lower Silesian": {
-      "LOWSI": {
-        "name": "Lower Silesian"
-      }
-    },
-    "Lublin": {
-      "LUB": {
-        "name": "Lublin"
-      }
-    },
-    "Lubusz": {
-      "LUB1": {
-        "name": "Lubusz"
-      }
-    },
-    "Masovian": {
-      "MAS": {
-        "name": "Masovian"
-      }
-    },
-    "Łódź": {
-      "ODZ": {
-        "name": "Łódź"
-      }
-    },
-    "Opole": {
-      "OPO": {
-        "name": "Opole"
-      }
-    },
-    "Podlaskie": {
-      "POD": {
-        "name": "Podlaskie"
-      }
-    },
-    "Pomeranian": {
-      "POM": {
-        "name": "Pomeranian"
-      }
-    },
-    "Świętokrzyskie": {
-      "SWI": {
-        "name": "Świętokrzyskie"
-      }
-    },
-    "Warmian-Masurian": {
-      "WAR": {
-        "name": "Warmian-Masurian"
-      }
-    },
-    "West Pomeranian": {
-      "WESPO": {
-        "name": "West Pomeranian"
-      }
+  "Greater Poland": {
+    "GREPO": {
+      "name": "Greater Poland"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Kuyavian-Pomeranian": {
+    "KUY": {
+      "name": "Kuyavian-Pomeranian"
+    }
+  },
+  "Lesser Poland": {
+    "LESPO": {
+      "name": "Lesser Poland"
+    }
+  },
+  "Lower Silesian": {
+    "LOWSI": {
+      "name": "Lower Silesian"
+    }
+  },
+  "Lublin": {
+    "LUB": {
+      "name": "Lublin"
+    }
+  },
+  "Lubusz": {
+    "LUB1": {
+      "name": "Lubusz"
+    }
+  },
+  "Masovian": {
+    "MAS": {
+      "name": "Masovian"
+    }
+  },
+  "Łódź": {
+    "ODZ": {
+      "name": "Łódź"
+    }
+  },
+  "Opole": {
+    "OPO": {
+      "name": "Opole"
+    }
+  },
+  "Podlaskie": {
+    "POD": {
+      "name": "Podlaskie"
+    }
+  },
+  "Pomeranian": {
+    "POM": {
+      "name": "Pomeranian"
+    }
+  },
+  "Świętokrzyskie": {
+    "SWI": {
+      "name": "Świętokrzyskie"
+    }
+  },
+  "Warmian-Masurian": {
+    "WAR": {
+      "name": "Warmian-Masurian"
+    }
+  },
+  "West Pomeranian": {
+    "WESPO": {
+      "name": "West Pomeranian"
+    }
   }
 }

@@ -1,44 +1,38 @@
 {
-  "data": {
-    "ABS": {
-      "name": "Absheron"
-    },
-    "BA": {
-      "name": "Baku"
-    },
-    "KAL": {
-      "name": "Kalbajar-Lachin"
-    },
-    "LAC": {
-      "name": "Lachin"
-    },
-    "LEN": {
-      "name": "Lankaran"
-    },
-    "MQ": {
-      "name": "Mingachevir"
-    },
-    "NX": {
-      "name": "Nakhchivan"
-    },
-    "QOB": {
-      "name": "Qobustan"
-    },
-    "SAR": {
-      "name": "Saratov"
-    },
-    "SAT": {
-      "name": "Shamakhi"
-    },
-    "SM": {
-      "name": "Sumgait"
-    },
-    "SMI": {
-      "name": "Samukh"
-    }
+  "ABS": {
+    "name": "Absheron"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BA": {
+    "name": "Baku"
+  },
+  "KAL": {
+    "name": "Kalbajar-Lachin"
+  },
+  "LAC": {
+    "name": "Lachin"
+  },
+  "LEN": {
+    "name": "Lankaran"
+  },
+  "MQ": {
+    "name": "Mingachevir"
+  },
+  "NX": {
+    "name": "Nakhchivan"
+  },
+  "QOB": {
+    "name": "Qobustan"
+  },
+  "SAR": {
+    "name": "Saratov"
+  },
+  "SAT": {
+    "name": "Shamakhi"
+  },
+  "SM": {
+    "name": "Sumgait"
+  },
+  "SMI": {
+    "name": "Samukh"
   }
 }

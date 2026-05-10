@@ -1,28 +1,22 @@
 {
-  "data": {
-    "Fontvieille": {
-      "FON": {
-        "name": "Fontvieille"
-      }
-    },
-    "La Condamine": {
-      "LACON": {
-        "name": "La Condamine"
-      }
-    },
-    "Monaco-Ville": {
-      "MON": {
-        "name": "Monaco-Ville"
-      }
-    },
-    "Monte Carlo": {
-      "MONCA": {
-        "name": "Monte Carlo"
-      }
+  "Fontvieille": {
+    "FON": {
+      "name": "Fontvieille"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "La Condamine": {
+    "LACON": {
+      "name": "La Condamine"
+    }
+  },
+  "Monaco-Ville": {
+    "MON": {
+      "name": "Monaco-Ville"
+    }
+  },
+  "Monte Carlo": {
+    "MONCA": {
+      "name": "Monte Carlo"
+    }
   }
 }

@@ -1,59 +1,53 @@
 {
-  "data": {
-    "AN": {
-      "name": "Atlántico Norte"
-    },
-    "AS": {
-      "name": "Atlántico Sur"
-    },
-    "BO": {
-      "name": "Boaco"
-    },
-    "CA": {
-      "name": "Carazo"
-    },
-    "CI": {
-      "name": "Chinandega"
-    },
-    "CO": {
-      "name": "Chontales"
-    },
-    "ES": {
-      "name": "Estelí"
-    },
-    "GR": {
-      "name": "Granada"
-    },
-    "JI": {
-      "name": "Jinotega"
-    },
-    "LE": {
-      "name": "León"
-    },
-    "MD": {
-      "name": "Madriz"
-    },
-    "MN": {
-      "name": "Managua"
-    },
-    "MS": {
-      "name": "Masaya"
-    },
-    "MT": {
-      "name": "Matagalpa"
-    },
-    "NS": {
-      "name": "Nueva Segovia"
-    },
-    "RS": {
-      "name": "Rivas"
-    },
-    "SJ": {
-      "name": "San José"
-    }
+  "AN": {
+    "name": "Atlántico Norte"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "AS": {
+    "name": "Atlántico Sur"
+  },
+  "BO": {
+    "name": "Boaco"
+  },
+  "CA": {
+    "name": "Carazo"
+  },
+  "CI": {
+    "name": "Chinandega"
+  },
+  "CO": {
+    "name": "Chontales"
+  },
+  "ES": {
+    "name": "Estelí"
+  },
+  "GR": {
+    "name": "Granada"
+  },
+  "JI": {
+    "name": "Jinotega"
+  },
+  "LE": {
+    "name": "León"
+  },
+  "MD": {
+    "name": "Madriz"
+  },
+  "MN": {
+    "name": "Managua"
+  },
+  "MS": {
+    "name": "Masaya"
+  },
+  "MT": {
+    "name": "Matagalpa"
+  },
+  "NS": {
+    "name": "Nueva Segovia"
+  },
+  "RS": {
+    "name": "Rivas"
+  },
+  "SJ": {
+    "name": "San José"
   }
 }

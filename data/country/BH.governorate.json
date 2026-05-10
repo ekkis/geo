@@ -1,23 +1,17 @@
 {
-  "data": {
-    "CAP": {
-      "name": "Capital"
-    },
-    "CEN": {
-      "name": "Central"
-    },
-    "HAW": {
-      "name": "Hawar"
-    },
-    "NOR": {
-      "name": "Northern"
-    },
-    "SOU": {
-      "name": "Southern"
-    }
+  "CAP": {
+    "name": "Capital"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "CEN": {
+    "name": "Central"
+  },
+  "HAW": {
+    "name": "Hawar"
+  },
+  "NOR": {
+    "name": "Northern"
+  },
+  "SOU": {
+    "name": "Southern"
   }
 }

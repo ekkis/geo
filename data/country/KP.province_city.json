@@ -1,68 +1,62 @@
 {
-  "data": {
-    "Chagang": {
-      "CHAGANG": {
-        "name": "Chagang"
-      }
-    },
-    "North Hamgyong": {
-      "HAMPNORTH": {
-        "name": "North Hamgyong"
-      }
-    },
-    "South Hamgyong": {
-      "HAMSOUTH": {
-        "name": "South Hamgyong"
-      }
-    },
-    "North Hwanghae": {
-      "HWABONORTH": {
-        "name": "North Hwanghae"
-      }
-    },
-    "South Hwanghae": {
-      "HWABOSOUTH": {
-        "name": "South Hwanghae"
-      }
-    },
-    "Kangwon": {
-      "KANGWON": {
-        "name": "Kangwon"
-      }
-    },
-    "Nampo": {
-      "NAMPO": {
-        "name": "Nampo"
-      }
-    },
-    "North Pyongan": {
-      "PYONGBONORTH": {
-        "name": "North Pyongan"
-      }
-    },
-    "South Pyongan": {
-      "PYONGBOSOUTH": {
-        "name": "South Pyongan"
-      }
-    },
-    "Pyongyang": {
-      "PYONGYANG": {
-        "name": "Pyongyang"
-      }
-    },
-    "Rason": {
-      "RASON": {
-        "name": "Rason"
-      }
-    },
-    "Ryanggang": {
-      "RYANGANG": {
-        "name": "Ryanggang"
-      }
+  "Chagang": {
+    "CHAGANG": {
+      "name": "Chagang"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "North Hamgyong": {
+    "HAMPNORTH": {
+      "name": "North Hamgyong"
+    }
+  },
+  "South Hamgyong": {
+    "HAMSOUTH": {
+      "name": "South Hamgyong"
+    }
+  },
+  "North Hwanghae": {
+    "HWABONORTH": {
+      "name": "North Hwanghae"
+    }
+  },
+  "South Hwanghae": {
+    "HWABOSOUTH": {
+      "name": "South Hwanghae"
+    }
+  },
+  "Kangwon": {
+    "KANGWON": {
+      "name": "Kangwon"
+    }
+  },
+  "Nampo": {
+    "NAMPO": {
+      "name": "Nampo"
+    }
+  },
+  "North Pyongan": {
+    "PYONGBONORTH": {
+      "name": "North Pyongan"
+    }
+  },
+  "South Pyongan": {
+    "PYONGBOSOUTH": {
+      "name": "South Pyongan"
+    }
+  },
+  "Pyongyang": {
+    "PYONGYANG": {
+      "name": "Pyongyang"
+    }
+  },
+  "Rason": {
+    "RASON": {
+      "name": "Rason"
+    }
+  },
+  "Ryanggang": {
+    "RYANGANG": {
+      "name": "Ryanggang"
+    }
   }
 }

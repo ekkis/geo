@@ -1,98 +1,92 @@
 {
-  "data": {
-    "Auvergne-Rhône-Alpes": {
-      "AUV": {
-        "name": "Auvergne-Rhône-Alpes"
-      }
-    },
-    "Bourgogne-Franche-Comté": {
-      "BOU": {
-        "name": "Bourgogne-Franche-Comté"
-      }
-    },
-    "Brittany": {
-      "BRI": {
-        "name": "Brittany"
-      }
-    },
-    "Centre-Val de Loire": {
-      "CENDE": {
-        "name": "Centre-Val de Loire"
-      }
-    },
-    "Corsica": {
-      "COR": {
-        "name": "Corsica"
-      }
-    },
-    "French Guiana": {
-      "FREGU": {
-        "name": "French Guiana"
-      }
-    },
-    "Grand Est": {
-      "GRAES": {
-        "name": "Grand Est"
-      }
-    },
-    "Guadeloupe": {
-      "GUA": {
-        "name": "Guadeloupe"
-      }
-    },
-    "Hauts-de-France": {
-      "HAU": {
-        "name": "Hauts-de-France"
-      }
-    },
-    "Île-de-France": {
-      "ILE": {
-        "name": "Île-de-France"
-      }
-    },
-    "Martinique": {
-      "MAR": {
-        "name": "Martinique"
-      }
-    },
-    "Mayotte": {
-      "MAY": {
-        "name": "Mayotte"
-      }
-    },
-    "Normandy": {
-      "NOR": {
-        "name": "Normandy"
-      }
-    },
-    "Nouvelle-Aquitaine": {
-      "NOU": {
-        "name": "Nouvelle-Aquitaine"
-      }
-    },
-    "Occitanie": {
-      "OCC": {
-        "name": "Occitanie"
-      }
-    },
-    "Pays de la Loire": {
-      "PAYDE": {
-        "name": "Pays de la Loire"
-      }
-    },
-    "Provence-Alpes-Côte d'Azur": {
-      "PROD'": {
-        "name": "Provence-Alpes-Côte d'Azur"
-      }
-    },
-    "Réunion": {
-      "REU": {
-        "name": "Réunion"
-      }
+  "Auvergne-Rhône-Alpes": {
+    "AUV": {
+      "name": "Auvergne-Rhône-Alpes"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Bourgogne-Franche-Comté": {
+    "BOU": {
+      "name": "Bourgogne-Franche-Comté"
+    }
+  },
+  "Brittany": {
+    "BRI": {
+      "name": "Brittany"
+    }
+  },
+  "Centre-Val de Loire": {
+    "CENDE": {
+      "name": "Centre-Val de Loire"
+    }
+  },
+  "Corsica": {
+    "COR": {
+      "name": "Corsica"
+    }
+  },
+  "French Guiana": {
+    "FREGU": {
+      "name": "French Guiana"
+    }
+  },
+  "Grand Est": {
+    "GRAES": {
+      "name": "Grand Est"
+    }
+  },
+  "Guadeloupe": {
+    "GUA": {
+      "name": "Guadeloupe"
+    }
+  },
+  "Hauts-de-France": {
+    "HAU": {
+      "name": "Hauts-de-France"
+    }
+  },
+  "Île-de-France": {
+    "ILE": {
+      "name": "Île-de-France"
+    }
+  },
+  "Martinique": {
+    "MAR": {
+      "name": "Martinique"
+    }
+  },
+  "Mayotte": {
+    "MAY": {
+      "name": "Mayotte"
+    }
+  },
+  "Normandy": {
+    "NOR": {
+      "name": "Normandy"
+    }
+  },
+  "Nouvelle-Aquitaine": {
+    "NOU": {
+      "name": "Nouvelle-Aquitaine"
+    }
+  },
+  "Occitanie": {
+    "OCC": {
+      "name": "Occitanie"
+    }
+  },
+  "Pays de la Loire": {
+    "PAYDE": {
+      "name": "Pays de la Loire"
+    }
+  },
+  "Provence-Alpes-Côte d'Azur": {
+    "PROD'": {
+      "name": "Provence-Alpes-Côte d'Azur"
+    }
+  },
+  "Réunion": {
+    "REU": {
+      "name": "Réunion"
+    }
   }
 }

@@ -1,41 +1,35 @@
 {
-  "data": {
-    "AG": {
-      "name": "Aragatsotn"
-    },
-    "AR": {
-      "name": "Ararat"
-    },
-    "AV": {
-      "name": "Avan"
-    },
-    "ER": {
-      "name": "Erevan"
-    },
-    "GR": {
-      "name": "Gegharkunik"
-    },
-    "KT": {
-      "name": "Kotayk"
-    },
-    "LO": {
-      "name": "Lori"
-    },
-    "SH": {
-      "name": "Shushi"
-    },
-    "SY": {
-      "name": "Syunik"
-    },
-    "TV": {
-      "name": "Tavush"
-    },
-    "VD": {
-      "name": "Vayots Dzor"
-    }
+  "AG": {
+    "name": "Aragatsotn"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "AR": {
+    "name": "Ararat"
+  },
+  "AV": {
+    "name": "Avan"
+  },
+  "ER": {
+    "name": "Erevan"
+  },
+  "GR": {
+    "name": "Gegharkunik"
+  },
+  "KT": {
+    "name": "Kotayk"
+  },
+  "LO": {
+    "name": "Lori"
+  },
+  "SH": {
+    "name": "Shushi"
+  },
+  "SY": {
+    "name": "Syunik"
+  },
+  "TV": {
+    "name": "Tavush"
+  },
+  "VD": {
+    "name": "Vayots Dzor"
   }
 }

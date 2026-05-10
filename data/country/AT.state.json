@@ -1,41 +1,35 @@
 {
-  "data": {
-    "Ostösterreich": {
-      "BUR": {
-        "name": "Burgenland"
-      },
-      "NIE": {
-        "name": "Niederösterreich"
-      },
-      "WIE": {
-        "name": "Wien"
-      }
+  "Ostösterreich": {
+    "BUR": {
+      "name": "Burgenland"
     },
-    "Südösterreich": {
-      "KÄR": {
-        "name": "Kärnten"
-      },
-      "STE": {
-        "name": "Steiermark"
-      }
+    "NIE": {
+      "name": "Niederösterreich"
     },
-    "Westösterreich": {
-      "OBE": {
-        "name": "Oberösterreich"
-      },
-      "SAL": {
-        "name": "Salzburg"
-      },
-      "TIR": {
-        "name": "Tirol"
-      },
-      "VOR": {
-        "name": "Vorarlberg"
-      }
+    "WIE": {
+      "name": "Wien"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Südösterreich": {
+    "KÄR": {
+      "name": "Kärnten"
+    },
+    "STE": {
+      "name": "Steiermark"
+    }
+  },
+  "Westösterreich": {
+    "OBE": {
+      "name": "Oberösterreich"
+    },
+    "SAL": {
+      "name": "Salzburg"
+    },
+    "TIR": {
+      "name": "Tirol"
+    },
+    "VOR": {
+      "name": "Vorarlberg"
+    }
   }
 }

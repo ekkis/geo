@@ -1,53 +1,47 @@
 {
-  "data": {
-    "Blago-Kras": {
-      "BLA": {
-        "name": "Blago-Kras"
-      }
-    },
-    "Gorenjska": {
-      "GOR": {
-        "name": "Gorenjska"
-      }
-    },
-    "Goriška": {
-      "GOR1": {
-        "name": "Goriška"
-      }
-    },
-    "Jugovzhodna Slovenija": {
-      "JUGSL": {
-        "name": "Jugovzhodna Slovenija"
-      }
-    },
-    "Koroška": {
-      "KOR": {
-        "name": "Koroška"
-      }
-    },
-    "Obalno-Kraška": {
-      "OBA": {
-        "name": "Obalno-Kraška"
-      }
-    },
-    "Osrednjeslovenska": {
-      "OSR": {
-        "name": "Osrednjeslovenska"
-      }
-    },
-    "Podravska": {
-      "POD": {
-        "name": "Podravska"
-      }
-    },
-    "Pomurska": {
-      "POM": {
-        "name": "Pomurska"
-      }
+  "Blago-Kras": {
+    "BLA": {
+      "name": "Blago-Kras"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Gorenjska": {
+    "GOR": {
+      "name": "Gorenjska"
+    }
+  },
+  "Goriška": {
+    "GOR1": {
+      "name": "Goriška"
+    }
+  },
+  "Jugovzhodna Slovenija": {
+    "JUGSL": {
+      "name": "Jugovzhodna Slovenija"
+    }
+  },
+  "Koroška": {
+    "KOR": {
+      "name": "Koroška"
+    }
+  },
+  "Obalno-Kraška": {
+    "OBA": {
+      "name": "Obalno-Kraška"
+    }
+  },
+  "Osrednjeslovenska": {
+    "OSR": {
+      "name": "Osrednjeslovenska"
+    }
+  },
+  "Podravska": {
+    "POD": {
+      "name": "Podravska"
+    }
+  },
+  "Pomurska": {
+    "POM": {
+      "name": "Pomurska"
+    }
   }
 }

@@ -1,28 +1,22 @@
 {
-  "data": {
-    "Connacht": {
-      "CON": {
-        "name": "Connacht"
-      }
-    },
-    "Leinster": {
-      "LEI": {
-        "name": "Leinster"
-      }
-    },
-    "Munster": {
-      "MUN": {
-        "name": "Munster"
-      }
-    },
-    "Ulster": {
-      "ULS": {
-        "name": "Ulster"
-      }
+  "Connacht": {
+    "CON": {
+      "name": "Connacht"
     }
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "Leinster": {
+    "LEI": {
+      "name": "Leinster"
+    }
+  },
+  "Munster": {
+    "MUN": {
+      "name": "Munster"
+    }
+  },
+  "Ulster": {
+    "ULS": {
+      "name": "Ulster"
+    }
   }
 }

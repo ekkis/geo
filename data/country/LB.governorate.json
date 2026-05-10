@@ -1,32 +1,26 @@
 {
-  "data": {
-    "AH": {
-      "name": "Akkar"
-    },
-    "BA": {
-      "name": "Beqaa"
-    },
-    "BH": {
-      "name": "Baalbek-Hermel"
-    },
-    "BT": {
-      "name": "Beirut"
-    },
-    "JK": {
-      "name": "Jabal Amil"
-    },
-    "JL": {
-      "name": "Jabal Amel"
-    },
-    "NL": {
-      "name": "North Lebanon"
-    },
-    "SA": {
-      "name": "South Lebanon"
-    }
+  "AH": {
+    "name": "Akkar"
   },
-  "meta": {
-    "version": "1.0",
-    "last-updated": "2026-05-10T06:50:19.116171Z"
+  "BA": {
+    "name": "Beqaa"
+  },
+  "BH": {
+    "name": "Baalbek-Hermel"
+  },
+  "BT": {
+    "name": "Beirut"
+  },
+  "JK": {
+    "name": "Jabal Amil"
+  },
+  "JL": {
+    "name": "Jabal Amel"
+  },
+  "NL": {
+    "name": "North Lebanon"
+  },
+  "SA": {
+    "name": "South Lebanon"
   }
 }
