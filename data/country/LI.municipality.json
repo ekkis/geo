@@ -1,0 +1,57 @@
+{
+  "Balzers": {
+    "BAL": {
+      "name": "Balzers"
+    }
+  },
+  "Eschen": {
+    "ESC": {
+      "name": "Eschen"
+    }
+  },
+  "Gamprin": {
+    "GAM": {
+      "name": "Gamprin"
+    }
+  },
+  "Mauren": {
+    "MAU": {
+      "name": "Mauren"
+    }
+  },
+  "Planken": {
+    "PLA": {
+      "name": "Planken"
+    }
+  },
+  "Ruggell": {
+    "RUG": {
+      "name": "Ruggell"
+    }
+  },
+  "Schaan": {
+    "SCH": {
+      "name": "Schaan"
+    }
+  },
+  "Schellenberg": {
+    "SCH1": {
+      "name": "Schellenberg"
+    }
+  },
+  "Triesen": {
+    "TRI": {
+      "name": "Triesen"
+    }
+  },
+  "Triesenberg": {
+    "TRI1": {
+      "name": "Triesenberg"
+    }
+  },
+  "Vaduz": {
+    "VAD": {
+      "name": "Vaduz"
+    }
+  }
+}

@@ -1,47 +1,54 @@
 {
-  "name": {
-    "common": "Malta",
-    "official": "Republic of Malta",
-    "mt": "Malta"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Valletta",
-    "mt": "Valletta"
-  },
-  "iso3": "MLT",
-  "tld": ".mt",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 316,
-  "population": 574250,
-  "flag": "🇲🇹",
-  "demonym": {
-    "en": "Maltese",
-    "mt": "Malti"
-  },
-  "gdp": {
-    "value": 20956999452.431664,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@@@ ###|@@@ ##",
-    "regex": "^([A-Z]{3}\\d{2}\\d?)$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "356",
-  "language-codes": [
-    "mt"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  "data": {
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta",
+      "mt": "Malta"
+    },
+    "region-codes": [
+      "CEU"
+    ],
+    "capital": {
+      "en": "Valletta",
+      "mt": "Valletta"
+    },
+    "iso3": "MLT",
+    "tld": ".mt",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 316,
+    "population": 574250,
+    "flag": "🇲🇹",
+    "demonym": {
+      "en": "Maltese",
+      "mt": "Malti"
+    },
+    "gdp": {
+      "value": 20956999452.431664,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@@@ ###|@@@ ##",
+      "regex": "^([A-Z]{3}\\d{2}\\d?)$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "356",
+    "language-codes": [
+      "mt"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
+    ]
+  }
 }

@@ -1,69 +1,76 @@
 {
-  "name": {
-    "common": "Sudan",
-    "official": "Republic of the Sudan",
-    "ar": "السودان"
+  "meta": {
+    "division": "state",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Khartoum",
-    "ar": "الخرطوم"
-  },
-  "iso3": "SDN",
-  "tld": ".sd",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 1886068,
-  "population": 51662000,
-  "flag": "🇸🇩",
-  "demonym": {
-    "en": "Sudanese",
-    "ar": "سوداني"
-  },
-  "gdp": {
-    "value": 109327023588.73239,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "AU",
-    "UN"
-  ],
-  "phone-code": "249",
-  "neighbours": {
-    "NW": [
-      "LY"
+  "data": {
+    "name": {
+      "common": "Sudan",
+      "official": "Republic of the Sudan",
+      "ar": "السودان"
+    },
+    "capital": {
+      "en": "Khartoum",
+      "ar": "الخرطوم"
+    },
+    "iso3": "SDN",
+    "tld": ".sd",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "ET"
+    "area": 1886068,
+    "population": 51662000,
+    "flag": "🇸🇩",
+    "demonym": {
+      "en": "Sudanese",
+      "ar": "سوداني"
+    },
+    "gdp": {
+      "value": 109327023588.73239,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "CF"
+    "phone-code": "249",
+    "neighbours": {
+      "NW": [
+        "LY"
+      ],
+      "SE": [
+        "ET"
+      ],
+      "SW": [
+        "CF"
+      ],
+      "N": [
+        "EG"
+      ],
+      "E": [
+        "ER"
+      ],
+      "W": [
+        "TD"
+      ],
+      "S": [
+        "SS"
+      ]
+    },
+    "language-codes": [
+      "ar"
     ],
-    "N": [
-      "EG"
+    "region-codes": [
+      "NAF"
     ],
-    "E": [
-      "ER"
-    ],
-    "W": [
-      "TD"
-    ],
-    "S": [
-      "SS"
+    "continent-code": "AF",
+    "currency-codes": [
+      "SDG"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "region-codes": [
-    "NAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "SDG"
-  ]
+  }
 }

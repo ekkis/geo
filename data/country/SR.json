@@ -1,52 +1,59 @@
 {
-  "name": {
-    "common": "Suriname",
-    "official": "Republic of Suriname"
+  "meta": {
+    "division": "district",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Paramaribo",
-    "sur": "Paramaribo"
-  },
-  "iso3": "SUR",
-  "tld": ".sr",
-  "timezones": [
-    "UTC-03:00"
-  ],
-  "area": 163820,
-  "population": 616500,
-  "flag": "🇸🇷",
-  "demonym": {
-    "en": "Surinamer"
-  },
-  "gdp": {
-    "value": 3782437296.0432286,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "597",
-  "neighbours": {
-    "NW": [
-      "GY"
+  "data": {
+    "name": {
+      "common": "Suriname",
+      "official": "Republic of Suriname"
+    },
+    "capital": {
+      "en": "Paramaribo",
+      "sur": "Paramaribo"
+    },
+    "iso3": "SUR",
+    "tld": ".sr",
+    "timezones": [
+      "UTC-03:00"
     ],
-    "SE": [
-      "BR"
+    "area": 163820,
+    "population": 616500,
+    "flag": "🇸🇷",
+    "demonym": {
+      "en": "Surinamer"
+    },
+    "gdp": {
+      "value": 3782437296.0432286,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
     ],
-    "E": [
-      "GF"
+    "phone-code": "597",
+    "neighbours": {
+      "NW": [
+        "GY"
+      ],
+      "SE": [
+        "BR"
+      ],
+      "E": [
+        "GF"
+      ]
+    },
+    "language-codes": [
+      "sur"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "SRD"
     ]
-  },
-  "language-codes": [
-    "sur"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "SRD"
-  ]
+  }
 }

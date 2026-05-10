@@ -1,42 +1,49 @@
 {
-  "name": {
-    "common": "Palau",
-    "official": "Republic of Palau"
+  "meta": {
+    "division": "state",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Melekeok"
-  },
-  "iso3": "PLW",
-  "tld": ".pw",
-  "timezones": [
-    "UTC+09:00"
-  ],
-  "area": 459,
-  "population": 16733,
-  "flag": "🇵🇼",
-  "demonym": {
-    "en": "Palauan"
-  },
-  "gdp": {
-    "value": 263020733.717011,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "96940",
-    "regex": "^(96940)$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "680",
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "MIC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ]
+  "data": {
+    "name": {
+      "common": "Palau",
+      "official": "Republic of Palau"
+    },
+    "capital": {
+      "en": "Melekeok"
+    },
+    "iso3": "PLW",
+    "tld": ".pw",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 459,
+    "population": 16733,
+    "flag": "🇵🇼",
+    "demonym": {
+      "en": "Palauan"
+    },
+    "gdp": {
+      "value": 263020733.717011,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "96940",
+      "regex": "^(96940)$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "680",
+    "language-codes": [
+      "en"
+    ],
+    "region-codes": [
+      "MIC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
+    ]
+  }
 }

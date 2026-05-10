@@ -1,0 +1,96 @@
+{
+  "Belgrade": {
+    "BEL": {
+      "name": "Belgrade"
+    }
+  },
+  "Bor": {
+    "BOR": {
+      "name": "Bor"
+    }
+  },
+  "Braničevo": {
+    "BRA": {
+      "name": "Braničevo"
+    },
+    "BRA1": {
+      "name": "Braničevo"
+    }
+  },
+  "Jablanica": {
+    "JAB": {
+      "name": "Jablanica"
+    }
+  },
+  "Kolubara": {
+    "KOL": {
+      "name": "Kolubara"
+    }
+  },
+  "Mačva": {
+    "MAC": {
+      "name": "Mačva"
+    }
+  },
+  "Moravica": {
+    "MOR": {
+      "name": "Moravica"
+    }
+  },
+  "Nišava": {
+    "NIS": {
+      "name": "Nišava"
+    }
+  },
+  "Pčinja": {
+    "PCI": {
+      "name": "Pčinja"
+    },
+    "PCI1": {
+      "name": "Pčinja"
+    }
+  },
+  "Podunavlje": {
+    "POD": {
+      "name": "Podunavlje"
+    }
+  },
+  "Pomoravlje": {
+    "POM": {
+      "name": "Pomoravlje"
+    }
+  },
+  "Rasina": {
+    "RAS": {
+      "name": "Rasina"
+    }
+  },
+  "Raska": {
+    "RAS1": {
+      "name": "Raska"
+    }
+  },
+  "Southern and Eastern Serbia": {
+    "SOUAN": {
+      "name": "Southern and Eastern Serbia"
+    }
+  },
+  "Šumadija and Western Serbia": {
+    "SUMAN": {
+      "name": "Šumadija and Western Serbia"
+    }
+  },
+  "Vojvodina": {
+    "VOJ": {
+      "name": "Vojvodina"
+    }
+  },
+  "Zlatibor": {
+    "ZLA": {
+      "name": "Zlatibor"
+    },
+    "ZLA1": {
+      "name": "Zlatibor"
+    }
+  }
+}

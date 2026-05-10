@@ -1,13 +1,8 @@
 {
-  "meta": {
-    "divisions": []
+  "AL": {
+    "name": "Alofi"
   },
-  "data": {
-    "AL": {
-      "name": "Alofi"
-    },
-    "TU": {
-      "name": "Tuapa"
-    }
+  "TU": {
+    "name": "Tuapa"
   }
 }

@@ -1,53 +1,60 @@
 {
-  "name": {
-    "common": "Lebanon",
-    "official": "Lebanese Republic",
-    "ar": "لبنان"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Beirut",
-    "ar": "بيروت"
-  },
-  "iso3": "LBN",
-  "tld": ".lb",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 10452,
-  "population": 5490000,
-  "flag": "🇱🇧",
-  "demonym": {
-    "en": "Lebanese",
-    "ar": "لبناني"
-  },
-  "gdp": {
-    "value": 20992421948.808086,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "#### ####|####",
-    "regex": "^(\\d{4}(\\d{4})?)$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "961",
-  "neighbours": {
-    "NE": [
-      "SY"
+  "data": {
+    "name": {
+      "common": "Lebanon",
+      "official": "Lebanese Republic",
+      "ar": "لبنان"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SW": [
-      "IL"
+    "capital": {
+      "en": "Beirut",
+      "ar": "بيروت"
+    },
+    "iso3": "LBN",
+    "tld": ".lb",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 10452,
+    "population": 5490000,
+    "flag": "🇱🇧",
+    "demonym": {
+      "en": "Lebanese",
+      "ar": "لبناني"
+    },
+    "gdp": {
+      "value": 20992421948.808086,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "#### ####|####",
+      "regex": "^(\\d{4}(\\d{4})?)$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "961",
+    "neighbours": {
+      "NE": [
+        "SY"
+      ],
+      "SW": [
+        "IL"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "LBP"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "LBP"
-  ]
+  }
 }

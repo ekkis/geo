@@ -1,0 +1,32 @@
+{
+  "Famagusta": {
+    "FAM": {
+      "name": "Famagusta"
+    }
+  },
+  "Kyrenia": {
+    "KYR": {
+      "name": "Kyrenia"
+    }
+  },
+  "Larnaca": {
+    "LAR": {
+      "name": "Larnaca"
+    }
+  },
+  "Limassol": {
+    "LIM": {
+      "name": "Limassol"
+    }
+  },
+  "Nicosia": {
+    "NIC": {
+      "name": "Nicosia"
+    }
+  },
+  "Paphos": {
+    "PAP": {
+      "name": "Paphos"
+    }
+  }
+}

@@ -1,32 +1,38 @@
 {
-  "name": {
-    "common": "Cook Islands",
-    "official": "Cook Islands"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Avarua",
-    "cok": "Avarua"
-  },
-  "iso3": "COK",
-  "tld": ".ck",
-  "timezones": [
-    "UTC-10:00"
-  ],
-  "area": 236,
-  "population": 15040,
-  "flag": "🇨🇰",
-  "demonym": {
-    "en": "Cook Islander"
-  },
-  "phone-code": "682",
-  "language-codes": [
-    "cok"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "NZD"
-  ]
+  "data": {
+    "name": {
+      "common": "Cook Islands",
+      "official": "Cook Islands"
+    },
+    "capital": {
+      "en": "Avarua",
+      "cok": "Avarua"
+    },
+    "iso3": "COK",
+    "tld": ".ck",
+    "timezones": [
+      "UTC-10:00"
+    ],
+    "area": 236,
+    "population": 15040,
+    "flag": "🇨🇰",
+    "demonym": {
+      "en": "Cook Islander"
+    },
+    "phone-code": "682",
+    "language-codes": [
+      "cok"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "NZD"
+    ]
+  }
 }

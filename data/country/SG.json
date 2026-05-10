@@ -1,46 +1,53 @@
 {
-  "name": {
-    "common": "Singapore",
-    "official": "Republic of Singapore"
+  "meta": {
+    "division": "planning_area",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SEA"
-  ],
-  "capital": {
-    "en": "Singapur",
-    "zh": "Singapur"
-  },
-  "iso3": "SGP",
-  "tld": ".sg",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 710,
-  "population": 6110200,
-  "flag": "🇸🇬",
-  "demonym": {
-    "en": "Singaporean"
-  },
-  "gdp": {
-    "value": 501427500080.05853,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "ASEAN",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "65",
-  "language-codes": [
-    "zh"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "SGD"
-  ]
+  "data": {
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore"
+    },
+    "region-codes": [
+      "SEA"
+    ],
+    "capital": {
+      "en": "Singapur",
+      "zh": "Singapur"
+    },
+    "iso3": "SGP",
+    "tld": ".sg",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 710,
+    "population": 6110200,
+    "flag": "🇸🇬",
+    "demonym": {
+      "en": "Singaporean"
+    },
+    "gdp": {
+      "value": 501427500080.05853,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "ASEAN",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "65",
+    "language-codes": [
+      "zh"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "SGD"
+    ]
+  }
 }

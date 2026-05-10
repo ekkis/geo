@@ -1,40 +1,46 @@
 {
-  "name": {
-    "common": "Guam",
-    "official": "Guam"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Hagatna",
-    "gum": "Hagatna"
-  },
-  "iso3": "GUM",
-  "tld": ".gu",
-  "timezones": [
-    "UTC+10:00"
-  ],
-  "area": 549,
-  "population": 153836,
-  "flag": "🇬🇺",
-  "demonym": {
-    "en": "Guamanian"
-  },
-  "gdp": {
-    "value": 6910000000,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "969##",
-    "regex": "^(969\\d{2})$"
-  },
-  "phone-code": "+1-671",
-  "language-codes": [
-    "gum"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ]
+  "data": {
+    "name": {
+      "common": "Guam",
+      "official": "Guam"
+    },
+    "capital": {
+      "en": "Hagatna",
+      "gum": "Hagatna"
+    },
+    "iso3": "GUM",
+    "tld": ".gu",
+    "timezones": [
+      "UTC+10:00"
+    ],
+    "area": 549,
+    "population": 153836,
+    "flag": "🇬🇺",
+    "demonym": {
+      "en": "Guamanian"
+    },
+    "gdp": {
+      "value": 6910000000,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "969##",
+      "regex": "^(969\\d{2})$"
+    },
+    "phone-code": "+1-671",
+    "language-codes": [
+      "gum"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
+    ]
+  }
 }

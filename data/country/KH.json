@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Cambodia",
-    "official": "Kingdom of Cambodia",
-    "km": "កម្ពុជា។"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SEA"
-  ],
-  "capital": {
-    "en": "Phnom Penh",
-    "km": "ភ្នំពេញ"
-  },
-  "iso3": "KHM",
-  "tld": ".kh",
-  "timezones": [
-    "UTC+07:00"
-  ],
-  "area": 181035,
-  "population": 17577760,
-  "flag": "🇰🇭",
-  "demonym": {
-    "en": "Cambodian",
-    "km": "កម្ពុជា។"
-  },
-  "gdp": {
-    "value": 31772759998.85713,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "ASEAN",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "855",
-  "neighbours": {
-    "NE": [
-      "VN"
+  "data": {
+    "name": {
+      "common": "Cambodia",
+      "official": "Kingdom of Cambodia",
+      "km": "កម្ពុជា។"
+    },
+    "region-codes": [
+      "SEA"
     ],
-    "NW": [
-      "TH"
+    "capital": {
+      "en": "Phnom Penh",
+      "km": "ភ្នំពេញ"
+    },
+    "iso3": "KHM",
+    "tld": ".kh",
+    "timezones": [
+      "UTC+07:00"
     ],
-    "N": [
-      "LA"
+    "area": 181035,
+    "population": 17577760,
+    "flag": "🇰🇭",
+    "demonym": {
+      "en": "Cambodian",
+      "km": "កម្ពុជា។"
+    },
+    "gdp": {
+      "value": 31772759998.85713,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "ASEAN",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "855",
+    "neighbours": {
+      "NE": [
+        "VN"
+      ],
+      "NW": [
+        "TH"
+      ],
+      "N": [
+        "LA"
+      ]
+    },
+    "language-codes": [
+      "km"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "KHR"
     ]
-  },
-  "language-codes": [
-    "km"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "KHR"
-  ]
+  }
 }

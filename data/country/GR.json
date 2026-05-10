@@ -1,62 +1,69 @@
 {
-  "name": {
-    "common": "Greece",
-    "official": "Hellenic Republic"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SEU"
-  ],
-  "capital": {
-    "en": "Athens",
-    "grc": "Athens"
-  },
-  "iso3": "GRC",
-  "tld": ".gr",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 131990,
-  "population": 10400720,
-  "flag": "🇬🇷",
-  "demonym": {
-    "en": "Greek"
-  },
-  "gdp": {
-    "value": 238206312632.52774,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "### ##",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "30",
-  "neighbours": {
-    "NE": [
-      "BG"
+  "data": {
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic"
+    },
+    "region-codes": [
+      "SEU"
     ],
-    "NW": [
-      "AL"
+    "capital": {
+      "en": "Athens",
+      "grc": "Athens"
+    },
+    "iso3": "GRC",
+    "tld": ".gr",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "N": [
-      "MK"
+    "area": 131990,
+    "population": 10400720,
+    "flag": "🇬🇷",
+    "demonym": {
+      "en": "Greek"
+    },
+    "gdp": {
+      "value": 238206312632.52774,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "### ##",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "E": [
-      "TR"
+    "phone-code": "30",
+    "neighbours": {
+      "NE": [
+        "BG"
+      ],
+      "NW": [
+        "AL"
+      ],
+      "N": [
+        "MK"
+      ],
+      "E": [
+        "TR"
+      ]
+    },
+    "language-codes": [
+      "grc"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "grc"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

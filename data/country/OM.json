@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Oman",
-    "official": "Sultanate of Oman",
-    "ar": "عمان"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Muscat",
-    "ar": "المسكات عنب طيب الشذا"
-  },
-  "iso3": "OMN",
-  "tld": ".om",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 309500,
-  "population": 5343630,
-  "flag": "🇴🇲",
-  "demonym": {
-    "en": "Omani",
-    "ar": "عمانية"
-  },
-  "gdp": {
-    "value": 108192457737.3212,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###",
-    "regex": "^(\\d{3})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "968",
-  "neighbours": {
-    "NW": [
-      "AE",
-      "SA"
+  "data": {
+    "name": {
+      "common": "Oman",
+      "official": "Sultanate of Oman",
+      "ar": "عمان"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SW": [
-      "YE"
+    "capital": {
+      "en": "Muscat",
+      "ar": "المسكات عنب طيب الشذا"
+    },
+    "iso3": "OMN",
+    "tld": ".om",
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "area": 309500,
+    "population": 5343630,
+    "flag": "🇴🇲",
+    "demonym": {
+      "en": "Omani",
+      "ar": "عمانية"
+    },
+    "gdp": {
+      "value": 108192457737.3212,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "968",
+    "neighbours": {
+      "NW": [
+        "AE",
+        "SA"
+      ],
+      "SW": [
+        "YE"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "OMR"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "OMR"
-  ]
+  }
 }

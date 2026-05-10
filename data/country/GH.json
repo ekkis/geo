@@ -1,52 +1,59 @@
 {
-  "name": {
-    "common": "Ghana",
-    "official": "Republic of Ghana"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Accra",
-    "ak": "Accra"
-  },
-  "iso3": "GHA",
-  "tld": ".gh",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 238533,
-  "population": 33742380,
-  "flag": "🇬🇭",
-  "demonym": {
-    "en": "Ghanaian"
-  },
-  "gdp": {
-    "value": 76370394412.41626,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "233",
-  "neighbours": {
-    "N": [
-      "BF"
+  "data": {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana"
+    },
+    "capital": {
+      "en": "Accra",
+      "ak": "Accra"
+    },
+    "iso3": "GHA",
+    "tld": ".gh",
+    "timezones": [
+      "UTC"
     ],
-    "W": [
-      "CI"
+    "area": 238533,
+    "population": 33742380,
+    "flag": "🇬🇭",
+    "demonym": {
+      "en": "Ghanaian"
+    },
+    "gdp": {
+      "value": 76370394412.41626,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "E": [
-      "TG"
+    "phone-code": "233",
+    "neighbours": {
+      "N": [
+        "BF"
+      ],
+      "W": [
+        "CI"
+      ],
+      "E": [
+        "TG"
+      ]
+    },
+    "language-codes": [
+      "ak"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "GHS"
     ]
-  },
-  "language-codes": [
-    "ak"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "GHS"
-  ]
+  }
 }

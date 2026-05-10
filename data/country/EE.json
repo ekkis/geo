@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Estonia",
-    "official": "Republic of Estonia",
-    "et": "Eesti"
+  "meta": {
+    "division": "county",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "BAL"
-  ],
-  "capital": {
-    "en": "Tallinn",
-    "et": "Tallinn"
-  },
-  "iso3": "EST",
-  "tld": ".ee",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 45227,
-  "population": 1369995,
-  "flag": "🇪🇪",
-  "demonym": {
-    "en": "Estonian",
-    "et": "eesti keel"
-  },
-  "gdp": {
-    "value": 40744848827.95366,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "372",
-  "neighbours": {
-    "NE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Estonia",
+      "official": "Republic of Estonia",
+      "et": "Eesti"
+    },
+    "region-codes": [
+      "BAL"
     ],
-    "SW": [
-      "LV"
+    "capital": {
+      "en": "Tallinn",
+      "et": "Tallinn"
+    },
+    "iso3": "EST",
+    "tld": ".ee",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 45227,
+    "population": 1369995,
+    "flag": "🇪🇪",
+    "demonym": {
+      "en": "Estonian",
+      "et": "eesti keel"
+    },
+    "gdp": {
+      "value": 40744848827.95366,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "372",
+    "neighbours": {
+      "NE": [
+        "RU"
+      ],
+      "SW": [
+        "LV"
+      ]
+    },
+    "language-codes": [
+      "et"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "et"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

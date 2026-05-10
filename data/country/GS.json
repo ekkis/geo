@@ -1,32 +1,38 @@
 {
-  "name": {
-    "common": "South Georgia",
-    "official": "South Georgia and the South Sandwich Islands"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "ANT"
-  ],
-  "capital": {
-    "en": "Grytviken",
-    "sgs": "Grytviken"
-  },
-  "iso3": "SGS",
-  "tld": ".gs",
-  "timezones": [
-    "UTC-02:00"
-  ],
-  "area": 3903,
-  "population": 0,
-  "flag": "🇬🇸",
-  "demonym": {
-    "en": "South Georgian South Sandwich Islander"
-  },
-  "phone-code": "",
-  "language-codes": [
-    "sgs"
-  ],
-  "continent-code": "AN",
-  "currency-codes": [
-    "GBP"
-  ]
+  "data": {
+    "name": {
+      "common": "South Georgia",
+      "official": "South Georgia and the South Sandwich Islands"
+    },
+    "region-codes": [
+      "ANT"
+    ],
+    "capital": {
+      "en": "Grytviken",
+      "sgs": "Grytviken"
+    },
+    "iso3": "SGS",
+    "tld": ".gs",
+    "timezones": [
+      "UTC-02:00"
+    ],
+    "area": 3903,
+    "population": 0,
+    "flag": "🇬🇸",
+    "demonym": {
+      "en": "South Georgian South Sandwich Islander"
+    },
+    "phone-code": "",
+    "language-codes": [
+      "sgs"
+    ],
+    "continent-code": "AN",
+    "currency-codes": [
+      "GBP"
+    ]
+  }
 }

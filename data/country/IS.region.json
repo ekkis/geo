@@ -1,0 +1,42 @@
+{
+  "Capital Region": {
+    "CAPITAL": {
+      "name": "Capital Region"
+    }
+  },
+  "East": {
+    "EAST": {
+      "name": "East"
+    }
+  },
+  "Northeast": {
+    "NE": {
+      "name": "Northeast"
+    }
+  },
+  "Northwest": {
+    "NW": {
+      "name": "Northwest"
+    }
+  },
+  "South": {
+    "SOUTH": {
+      "name": "South"
+    }
+  },
+  "Southern Peninsula": {
+    "SOUTHERNPEN": {
+      "name": "Southern Peninsula"
+    }
+  },
+  "West": {
+    "WEST": {
+      "name": "West"
+    }
+  },
+  "Westfjords": {
+    "WESTFJORD": {
+      "name": "Westfjords"
+    }
+  }
+}

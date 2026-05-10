@@ -1,27 +1,22 @@
 {
-  "meta": {
-    "divisions": []
+  "Belait": {
+    "BELAIT": {
+      "name": "Belait"
+    }
   },
-  "data": {
-    "Belait": {
-      "BELAIT": {
-        "name": "Belait"
-      }
-    },
-    "Brunei-Muara": {
-      "BRUNEM": {
-        "name": "Brunei-Muara"
-      }
-    },
-    "Temburong": {
-      "TEMBUR": {
-        "name": "Temburong"
-      }
-    },
-    "Tutong": {
-      "TUTONG": {
-        "name": "Tutong"
-      }
+  "Brunei-Muara": {
+    "BRUNEM": {
+      "name": "Brunei-Muara"
+    }
+  },
+  "Temburong": {
+    "TEMBUR": {
+      "name": "Temburong"
+    }
+  },
+  "Tutong": {
+    "TUTONG": {
+      "name": "Tutong"
     }
   }
 }

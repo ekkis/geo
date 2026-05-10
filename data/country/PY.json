@@ -1,56 +1,63 @@
 {
-  "name": {
-    "common": "Paraguay",
-    "official": "Republic of Paraguay"
+  "meta": {
+    "division": "department_capital_district",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Asuncion",
-    "gn": "Asuncion"
-  },
-  "iso3": "PRY",
-  "tld": ".py",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 406752,
-  "population": 6109644,
-  "flag": "🇵🇾",
-  "demonym": {
-    "en": "Paraguayan"
-  },
-  "gdp": {
-    "value": 42956263543.948166,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "595",
-  "neighbours": {
-    "NE": [
-      "BR"
+  "data": {
+    "name": {
+      "common": "Paraguay",
+      "official": "Republic of Paraguay"
+    },
+    "capital": {
+      "en": "Asuncion",
+      "gn": "Asuncion"
+    },
+    "iso3": "PRY",
+    "tld": ".py",
+    "timezones": [
+      "UTC-04:00"
     ],
-    "NW": [
-      "BO"
+    "area": 406752,
+    "population": 6109644,
+    "flag": "🇵🇾",
+    "demonym": {
+      "en": "Paraguayan"
+    },
+    "gdp": {
+      "value": 42956263543.948166,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
     ],
-    "SW": [
-      "AR"
+    "phone-code": "595",
+    "neighbours": {
+      "NE": [
+        "BR"
+      ],
+      "NW": [
+        "BO"
+      ],
+      "SW": [
+        "AR"
+      ]
+    },
+    "language-codes": [
+      "gn"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "PYG"
     ]
-  },
-  "language-codes": [
-    "gn"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "PYG"
-  ]
+  }
 }

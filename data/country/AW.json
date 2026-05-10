@@ -1,36 +1,42 @@
 {
-  "name": {
-    "common": "Aruba",
-    "official": "Aruba"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Oranjestad",
-    "abw": "Oranjestad"
-  },
-  "iso3": "ABW",
-  "tld": ".aw",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 180,
-  "population": 107566,
-  "flag": "🇦🇼",
-  "demonym": {
-    "en": "Aruban"
-  },
-  "gdp": {
-    "value": 3544707788.0566425,
-    "year": 2022
-  },
-  "phone-code": "297",
-  "language-codes": [
-    "abw"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "AWG"
-  ]
+  "data": {
+    "name": {
+      "common": "Aruba",
+      "official": "Aruba"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Oranjestad",
+      "abw": "Oranjestad"
+    },
+    "iso3": "ABW",
+    "tld": ".aw",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 180,
+    "population": 107566,
+    "flag": "🇦🇼",
+    "demonym": {
+      "en": "Aruban"
+    },
+    "gdp": {
+      "value": 3544707788.0566425,
+      "year": 2022
+    },
+    "phone-code": "297",
+    "language-codes": [
+      "abw"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "AWG"
+    ]
+  }
 }

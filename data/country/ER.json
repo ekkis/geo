@@ -1,51 +1,57 @@
 {
-  "name": {
-    "common": "Eritrea",
-    "official": "State of Eritrea"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Asmara",
-    "eri": "Asmara"
-  },
-  "iso3": "ERI",
-  "tld": ".er",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 117600,
-  "population": 3607000,
-  "flag": "🇪🇷",
-  "demonym": {
-    "en": "Eritrean"
-  },
-  "gdp": {
-    "value": 2065001626.0162601,
-    "year": 2011
-  },
-  "organisation-codes": [
-    "AU",
-    "UN"
-  ],
-  "phone-code": "291",
-  "neighbours": {
-    "SE": [
-      "DJ"
+  "data": {
+    "name": {
+      "common": "Eritrea",
+      "official": "State of Eritrea"
+    },
+    "capital": {
+      "en": "Asmara",
+      "eri": "Asmara"
+    },
+    "iso3": "ERI",
+    "tld": ".er",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SW": [
-      "ET"
+    "area": 117600,
+    "population": 3607000,
+    "flag": "🇪🇷",
+    "demonym": {
+      "en": "Eritrean"
+    },
+    "gdp": {
+      "value": 2065001626.0162601,
+      "year": 2011
+    },
+    "organisation-codes": [
+      "AU",
+      "UN"
     ],
-    "W": [
-      "SD"
+    "phone-code": "291",
+    "neighbours": {
+      "SE": [
+        "DJ"
+      ],
+      "SW": [
+        "ET"
+      ],
+      "W": [
+        "SD"
+      ]
+    },
+    "language-codes": [
+      "eri"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "ERN"
     ]
-  },
-  "language-codes": [
-    "eri"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "ERN"
-  ]
+  }
 }

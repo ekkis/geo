@@ -1,352 +1,347 @@
 {
-  "meta": {
-    "divisions": []
+  "Aerodrom": {
+    "AER": {
+      "name": "Aerodrom"
+    }
   },
-  "data": {
-    "Aerodrom": {
-      "AER": {
-        "name": "Aerodrom"
-      }
-    },
-    "Aračinovo": {
-      "ARA": {
-        "name": "Aračinovo"
-      }
-    },
-    "Berovo": {
-      "BER": {
-        "name": "Berovo"
-      }
-    },
-    "Bitola": {
-      "BIT": {
-        "name": "Bitola"
-      }
-    },
-    "Bogdanci": {
-      "BOG": {
-        "name": "Bogdanci"
-      }
-    },
-    "Bogovinje": {
-      "BOG1": {
-        "name": "Bogovinje"
-      }
-    },
-    "Bosilovo": {
-      "BOS": {
-        "name": "Bosilovo"
-      }
-    },
-    "Brvenica": {
-      "BRV": {
-        "name": "Brvenica"
-      }
-    },
-    "Butel": {
-      "BUT": {
-        "name": "Butel"
-      }
-    },
-    "Čair": {
-      "CAI": {
-        "name": "Čair"
-      }
-    },
-    "Čaška": {
-      "CAS": {
-        "name": "Čaška"
-      }
-    },
-    "Centar": {
-      "CEN": {
-        "name": "Centar"
-      }
-    },
-    "Centar Župa": {
-      "CENZU": {
-        "name": "Centar Župa"
-      }
-    },
-    "Čučer-Sandevo": {
-      "CUC": {
-        "name": "Čučer-Sandevo"
-      }
-    },
-    "Debar": {
-      "DEB": {
-        "name": "Debar"
-      }
-    },
-    "Debarca": {
-      "DEB1": {
-        "name": "Debarca"
-      }
-    },
-    "Delčevo": {
-      "DEL": {
-        "name": "Delčevo"
-      }
-    },
-    "Demir Hisar": {
-      "DEMHI": {
-        "name": "Demir Hisar"
-      }
-    },
-    "Demir Kapija": {
-      "DEMKA": {
-        "name": "Demir Kapija"
-      }
-    },
-    "Dojran": {
-      "DOJ": {
-        "name": "Dojran"
-      }
-    },
-    "Dolneni": {
-      "DOL": {
-        "name": "Dolneni"
-      }
-    },
-    "Drugovo": {
-      "DRU": {
-        "name": "Drugovo"
-      }
-    },
-    "Gazi Baba": {
-      "GAZBA": {
-        "name": "Gazi Baba"
-      }
-    },
-    "Gevgelija": {
-      "GEV": {
-        "name": "Gevgelija"
-      }
-    },
-    "Gjorče Petrov": {
-      "GJOPE": {
-        "name": "Gjorče Petrov"
-      }
-    },
-    "Gostivar": {
-      "GOS": {
-        "name": "Gostivar"
-      }
-    },
-    "Gradsko": {
-      "GRA": {
-        "name": "Gradsko"
-      }
-    },
-    "Ilinden": {
-      "ILI": {
-        "name": "Ilinden"
-      }
-    },
-    "Jegunovce": {
-      "JEG": {
-        "name": "Jegunovce"
-      }
-    },
-    "Karbinci": {
-      "KAR": {
-        "name": "Karbinci"
-      }
-    },
-    "Kavadarci": {
-      "KAV": {
-        "name": "Kavadarci"
-      }
-    },
-    "Kičevo": {
-      "KIC": {
-        "name": "Kičevo"
-      }
-    },
-    "Kisela Voda": {
-      "KISVO": {
-        "name": "Kisela Voda"
-      }
-    },
-    "Kočani": {
-      "KOC": {
-        "name": "Kočani"
-      }
-    },
-    "Konče": {
-      "KON": {
-        "name": "Konče"
-      }
-    },
-    "Kratovo": {
-      "KRA": {
-        "name": "Kratovo"
-      }
-    },
-    "Kriva Palanka": {
-      "KRIPA": {
-        "name": "Kriva Palanka"
-      }
-    },
-    "Kruševo": {
-      "KRU": {
-        "name": "Kruševo"
-      }
-    },
-    "Kumanovo": {
-      "KUM": {
-        "name": "Kumanovo"
-      }
-    },
-    "Lipkovo": {
-      "LIP": {
-        "name": "Lipkovo"
-      }
-    },
-    "Makedonski Brod": {
-      "MAKBR": {
-        "name": "Makedonski Brod"
-      }
-    },
-    "Makedonska Kamenica": {
-      "MAKKA": {
-        "name": "Makedonska Kamenica"
-      }
-    },
-    "Mavrovo and Rostuša": {
-      "MAVAN": {
-        "name": "Mavrovo and Rostuša"
-      }
-    },
-    "Mogila": {
-      "MOG": {
-        "name": "Mogila"
-      }
-    },
-    "Negotino": {
-      "NEG": {
-        "name": "Negotino"
-      }
-    },
-    "Novaci": {
-      "NOV": {
-        "name": "Novaci"
-      }
-    },
-    "Novo Selo": {
-      "NOVSE": {
-        "name": "Novo Selo"
-      }
-    },
-    "Ohrid": {
-      "OHR": {
-        "name": "Ohrid"
-      }
-    },
-    "Pehčevo": {
-      "PEH": {
-        "name": "Pehčevo"
-      }
-    },
-    "Petrovec": {
-      "PET": {
-        "name": "Petrovec"
-      }
-    },
-    "Plasnica": {
-      "PLA": {
-        "name": "Plasnica"
-      }
-    },
-    "Prilep": {
-      "PRI": {
-        "name": "Prilep"
-      }
-    },
-    "Probištip": {
-      "PRO": {
-        "name": "Probištip"
-      }
-    },
-    "Radoviš": {
-      "RAD": {
-        "name": "Radoviš"
-      }
-    },
-    "Rankovce": {
-      "RAN": {
-        "name": "Rankovce"
-      }
-    },
-    "Resen": {
-      "RES": {
-        "name": "Resen"
-      }
-    },
-    "Rosoman": {
-      "ROS": {
-        "name": "Rosoman"
-      }
-    },
-    "Saraj": {
-      "SAR": {
-        "name": "Saraj"
-      }
-    },
-    "Sopište": {
-      "SOP": {
-        "name": "Sopište"
-      }
-    },
-    "Staro Nagoričane": {
-      "STANA": {
-        "name": "Staro Nagoričane"
-      }
-    },
-    "Štip": {
-      "STI": {
-        "name": "Štip"
-      }
-    },
-    "Struga": {
-      "STR": {
-        "name": "Struga"
-      }
-    },
-    "Strumica": {
-      "STR1": {
-        "name": "Strumica"
-      }
-    },
-    "Studeničani": {
-      "STU": {
-        "name": "Studeničani"
-      }
-    },
-    "Tetovo": {
-      "TET": {
-        "name": "Tetovo"
-      }
-    },
-    "Valandovo": {
-      "VAL": {
-        "name": "Valandovo"
-      }
-    },
-    "Vasilevo": {
-      "VAS": {
-        "name": "Vasilevo"
-      }
-    },
-    "Veles": {
-      "VEL": {
-        "name": "Veles"
-      }
-    },
-    "Vrapčište": {
-      "VRA": {
-        "name": "Vrapčište"
-      }
+  "Aračinovo": {
+    "ARA": {
+      "name": "Aračinovo"
+    }
+  },
+  "Berovo": {
+    "BER": {
+      "name": "Berovo"
+    }
+  },
+  "Bitola": {
+    "BIT": {
+      "name": "Bitola"
+    }
+  },
+  "Bogdanci": {
+    "BOG": {
+      "name": "Bogdanci"
+    }
+  },
+  "Bogovinje": {
+    "BOG1": {
+      "name": "Bogovinje"
+    }
+  },
+  "Bosilovo": {
+    "BOS": {
+      "name": "Bosilovo"
+    }
+  },
+  "Brvenica": {
+    "BRV": {
+      "name": "Brvenica"
+    }
+  },
+  "Butel": {
+    "BUT": {
+      "name": "Butel"
+    }
+  },
+  "Čair": {
+    "CAI": {
+      "name": "Čair"
+    }
+  },
+  "Čaška": {
+    "CAS": {
+      "name": "Čaška"
+    }
+  },
+  "Centar": {
+    "CEN": {
+      "name": "Centar"
+    }
+  },
+  "Centar Župa": {
+    "CENZU": {
+      "name": "Centar Župa"
+    }
+  },
+  "Čučer-Sandevo": {
+    "CUC": {
+      "name": "Čučer-Sandevo"
+    }
+  },
+  "Debar": {
+    "DEB": {
+      "name": "Debar"
+    }
+  },
+  "Debarca": {
+    "DEB1": {
+      "name": "Debarca"
+    }
+  },
+  "Delčevo": {
+    "DEL": {
+      "name": "Delčevo"
+    }
+  },
+  "Demir Hisar": {
+    "DEMHI": {
+      "name": "Demir Hisar"
+    }
+  },
+  "Demir Kapija": {
+    "DEMKA": {
+      "name": "Demir Kapija"
+    }
+  },
+  "Dojran": {
+    "DOJ": {
+      "name": "Dojran"
+    }
+  },
+  "Dolneni": {
+    "DOL": {
+      "name": "Dolneni"
+    }
+  },
+  "Drugovo": {
+    "DRU": {
+      "name": "Drugovo"
+    }
+  },
+  "Gazi Baba": {
+    "GAZBA": {
+      "name": "Gazi Baba"
+    }
+  },
+  "Gevgelija": {
+    "GEV": {
+      "name": "Gevgelija"
+    }
+  },
+  "Gjorče Petrov": {
+    "GJOPE": {
+      "name": "Gjorče Petrov"
+    }
+  },
+  "Gostivar": {
+    "GOS": {
+      "name": "Gostivar"
+    }
+  },
+  "Gradsko": {
+    "GRA": {
+      "name": "Gradsko"
+    }
+  },
+  "Ilinden": {
+    "ILI": {
+      "name": "Ilinden"
+    }
+  },
+  "Jegunovce": {
+    "JEG": {
+      "name": "Jegunovce"
+    }
+  },
+  "Karbinci": {
+    "KAR": {
+      "name": "Karbinci"
+    }
+  },
+  "Kavadarci": {
+    "KAV": {
+      "name": "Kavadarci"
+    }
+  },
+  "Kičevo": {
+    "KIC": {
+      "name": "Kičevo"
+    }
+  },
+  "Kisela Voda": {
+    "KISVO": {
+      "name": "Kisela Voda"
+    }
+  },
+  "Kočani": {
+    "KOC": {
+      "name": "Kočani"
+    }
+  },
+  "Konče": {
+    "KON": {
+      "name": "Konče"
+    }
+  },
+  "Kratovo": {
+    "KRA": {
+      "name": "Kratovo"
+    }
+  },
+  "Kriva Palanka": {
+    "KRIPA": {
+      "name": "Kriva Palanka"
+    }
+  },
+  "Kruševo": {
+    "KRU": {
+      "name": "Kruševo"
+    }
+  },
+  "Kumanovo": {
+    "KUM": {
+      "name": "Kumanovo"
+    }
+  },
+  "Lipkovo": {
+    "LIP": {
+      "name": "Lipkovo"
+    }
+  },
+  "Makedonski Brod": {
+    "MAKBR": {
+      "name": "Makedonski Brod"
+    }
+  },
+  "Makedonska Kamenica": {
+    "MAKKA": {
+      "name": "Makedonska Kamenica"
+    }
+  },
+  "Mavrovo and Rostuša": {
+    "MAVAN": {
+      "name": "Mavrovo and Rostuša"
+    }
+  },
+  "Mogila": {
+    "MOG": {
+      "name": "Mogila"
+    }
+  },
+  "Negotino": {
+    "NEG": {
+      "name": "Negotino"
+    }
+  },
+  "Novaci": {
+    "NOV": {
+      "name": "Novaci"
+    }
+  },
+  "Novo Selo": {
+    "NOVSE": {
+      "name": "Novo Selo"
+    }
+  },
+  "Ohrid": {
+    "OHR": {
+      "name": "Ohrid"
+    }
+  },
+  "Pehčevo": {
+    "PEH": {
+      "name": "Pehčevo"
+    }
+  },
+  "Petrovec": {
+    "PET": {
+      "name": "Petrovec"
+    }
+  },
+  "Plasnica": {
+    "PLA": {
+      "name": "Plasnica"
+    }
+  },
+  "Prilep": {
+    "PRI": {
+      "name": "Prilep"
+    }
+  },
+  "Probištip": {
+    "PRO": {
+      "name": "Probištip"
+    }
+  },
+  "Radoviš": {
+    "RAD": {
+      "name": "Radoviš"
+    }
+  },
+  "Rankovce": {
+    "RAN": {
+      "name": "Rankovce"
+    }
+  },
+  "Resen": {
+    "RES": {
+      "name": "Resen"
+    }
+  },
+  "Rosoman": {
+    "ROS": {
+      "name": "Rosoman"
+    }
+  },
+  "Saraj": {
+    "SAR": {
+      "name": "Saraj"
+    }
+  },
+  "Sopište": {
+    "SOP": {
+      "name": "Sopište"
+    }
+  },
+  "Staro Nagoričane": {
+    "STANA": {
+      "name": "Staro Nagoričane"
+    }
+  },
+  "Štip": {
+    "STI": {
+      "name": "Štip"
+    }
+  },
+  "Struga": {
+    "STR": {
+      "name": "Struga"
+    }
+  },
+  "Strumica": {
+    "STR1": {
+      "name": "Strumica"
+    }
+  },
+  "Studeničani": {
+    "STU": {
+      "name": "Studeničani"
+    }
+  },
+  "Tetovo": {
+    "TET": {
+      "name": "Tetovo"
+    }
+  },
+  "Valandovo": {
+    "VAL": {
+      "name": "Valandovo"
+    }
+  },
+  "Vasilevo": {
+    "VAS": {
+      "name": "Vasilevo"
+    }
+  },
+  "Veles": {
+    "VEL": {
+      "name": "Veles"
+    }
+  },
+  "Vrapčište": {
+    "VRA": {
+      "name": "Vrapčište"
     }
   }
 }

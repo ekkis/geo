@@ -1,0 +1,44 @@
+{
+  "North": {
+    "AJL": {
+      "name": "Ajloun"
+    },
+    "IRB": {
+      "name": "Irbid"
+    },
+    "JER": {
+      "name": "Jerash"
+    },
+    "MAF": {
+      "name": "Mafraq"
+    }
+  },
+  "Central": {
+    "AMM": {
+      "name": "Amman"
+    },
+    "BAL": {
+      "name": "Balqa"
+    },
+    "MAD": {
+      "name": "Madaba"
+    },
+    "ZAR": {
+      "name": "Zarqa"
+    }
+  },
+  "South": {
+    "AQA": {
+      "name": "Aqaba"
+    },
+    "KAR": {
+      "name": "Karak"
+    },
+    "MA'": {
+      "name": "Ma'an"
+    },
+    "TAF": {
+      "name": "Tafilah"
+    }
+  }
+}

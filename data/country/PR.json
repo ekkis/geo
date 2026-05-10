@@ -1,42 +1,48 @@
 {
-  "name": {
-    "common": "Puerto Rico",
-    "official": "Commonwealth of Puerto Rico",
-    "es": "Puerto Rico"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "San Juan",
-    "es": "san juan"
-  },
-  "iso3": "PRI",
-  "tld": ".pr",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 8870,
-  "population": 3203295,
-  "flag": "🇵🇷",
-  "demonym": {
-    "en": "Puerto Rican",
-    "es": "Puerto Rican"
-  },
-  "gdp": {
-    "value": 117902300000,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####-####",
-    "regex": "^(\\d{9})$"
-  },
-  "phone-code": "+1-787 and 1-939",
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "USD"
-  ]
+  "data": {
+    "name": {
+      "common": "Puerto Rico",
+      "official": "Commonwealth of Puerto Rico",
+      "es": "Puerto Rico"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "San Juan",
+      "es": "san juan"
+    },
+    "iso3": "PRI",
+    "tld": ".pr",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 8870,
+    "population": 3203295,
+    "flag": "🇵🇷",
+    "demonym": {
+      "en": "Puerto Rican",
+      "es": "Puerto Rican"
+    },
+    "gdp": {
+      "value": 117902300000,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####-####",
+      "regex": "^(\\d{9})$"
+    },
+    "phone-code": "+1-787 and 1-939",
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "USD"
+    ]
+  }
 }

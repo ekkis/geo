@@ -1,61 +1,68 @@
 {
-  "name": {
-    "common": "Central African Republic",
-    "official": "Central African Republic",
-    "fr": "République centrafricaine"
+  "meta": {
+    "division": "prefecture",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Bangui",
-    "fr": "Bangui"
-  },
-  "iso3": "CAF",
-  "tld": ".cf",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 622984,
-  "population": 6470307,
-  "flag": "🇨🇫",
-  "demonym": {
-    "en": "Central African",
-    "fr": "Centrafricain"
-  },
-  "gdp": {
-    "value": 2555492085.2483063,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "236",
-  "neighbours": {
-    "NE": [
-      "SD"
+  "data": {
+    "name": {
+      "common": "Central African Republic",
+      "official": "Central African Republic",
+      "fr": "République centrafricaine"
+    },
+    "capital": {
+      "en": "Bangui",
+      "fr": "Bangui"
+    },
+    "iso3": "CAF",
+    "tld": ".cf",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "TD"
+    "area": 622984,
+    "population": 6470307,
+    "flag": "🇨🇫",
+    "demonym": {
+      "en": "Central African",
+      "fr": "Centrafricain"
+    },
+    "gdp": {
+      "value": 2555492085.2483063,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "CD"
+    "phone-code": "236",
+    "neighbours": {
+      "NE": [
+        "SD"
+      ],
+      "NW": [
+        "TD"
+      ],
+      "SE": [
+        "CD"
+      ],
+      "SW": [
+        "CM",
+        "CG"
+      ],
+      "E": [
+        "SS"
+      ]
+    },
+    "language-codes": [
+      "fr"
     ],
-    "SW": [
-      "CM",
-      "CG"
+    "region-codes": [
+      "CAF"
     ],
-    "E": [
-      "SS"
+    "continent-code": "AF",
+    "currency-codes": [
+      "XAF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "CAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XAF"
-  ]
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "Fontvieille": {
+    "FON": {
+      "name": "Fontvieille"
+    }
+  },
+  "La Condamine": {
+    "LACON": {
+      "name": "La Condamine"
+    }
+  },
+  "Monaco-Ville": {
+    "MON": {
+      "name": "Monaco-Ville"
+    }
+  },
+  "Monte Carlo": {
+    "MONCA": {
+      "name": "Monte Carlo"
+    }
+  }
+}

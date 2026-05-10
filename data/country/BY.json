@@ -1,60 +1,67 @@
 {
-  "name": {
-    "common": "Belarus",
-    "official": "Republic of Belarus",
-    "be": "Беларусь"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EEU"
-  ],
-  "capital": {
-    "en": "Minsk",
-    "be": "Мінск"
-  },
-  "iso3": "BLR",
-  "tld": ".by",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 207600,
-  "population": 9109280,
-  "flag": "🇧🇾",
-  "demonym": {
-    "en": "Belarusian",
-    "be": "беларускі"
-  },
-  "gdp": {
-    "value": 71857382745.6066,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "375",
-  "neighbours": {
-    "NE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus",
+      "be": "Беларусь"
+    },
+    "region-codes": [
+      "EEU"
     ],
-    "NW": [
-      "LT",
-      "LV"
+    "capital": {
+      "en": "Minsk",
+      "be": "Мінск"
+    },
+    "iso3": "BLR",
+    "tld": ".by",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "UA"
+    "area": 207600,
+    "population": 9109280,
+    "flag": "🇧🇾",
+    "demonym": {
+      "en": "Belarusian",
+      "be": "беларускі"
+    },
+    "gdp": {
+      "value": 71857382745.6066,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "UN"
     ],
-    "SW": [
-      "PL"
+    "phone-code": "375",
+    "neighbours": {
+      "NE": [
+        "RU"
+      ],
+      "NW": [
+        "LT",
+        "LV"
+      ],
+      "SE": [
+        "UA"
+      ],
+      "SW": [
+        "PL"
+      ]
+    },
+    "language-codes": [
+      "be"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "BYN"
     ]
-  },
-  "language-codes": [
-    "be"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "BYN"
-  ]
+  }
 }

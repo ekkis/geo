@@ -1,29 +1,35 @@
 {
-  "name": {
-    "common": "Bouvet Island",
-    "official": "Bouvet Island"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "ANT"
-  ],
-  "capital": "",
-  "iso3": "BVT",
-  "language_code": [
-    "bvt"
-  ],
-  "tld": ".bv",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 49,
-  "population": 0,
-  "flag": "🇧🇻",
-  "demonym": {
-    "en": "Bouvet Islandese"
-  },
-  "phone-code": "",
-  "continent-code": "AN",
-  "currency-codes": [
-    "NOK"
-  ]
+  "data": {
+    "name": {
+      "common": "Bouvet Island",
+      "official": "Bouvet Island"
+    },
+    "region-codes": [
+      "ANT"
+    ],
+    "capital": "",
+    "iso3": "BVT",
+    "language_code": [
+      "bvt"
+    ],
+    "tld": ".bv",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 49,
+    "population": 0,
+    "flag": "🇧🇻",
+    "demonym": {
+      "en": "Bouvet Islandese"
+    },
+    "phone-code": "",
+    "continent-code": "AN",
+    "currency-codes": [
+      "NOK"
+    ]
+  }
 }

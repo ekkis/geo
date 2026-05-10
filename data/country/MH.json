@@ -1,38 +1,45 @@
 {
-  "name": {
-    "common": "Marshall Islands",
-    "official": "Republic of the Marshall Islands"
+  "meta": {
+    "division": "atoll_island",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Majuro"
-  },
-  "iso3": "MHL",
-  "tld": ".mh",
-  "timezones": [
-    "UTC+12:00"
-  ],
-  "area": 181,
-  "population": 42418,
-  "flag": "🇲🇭",
-  "demonym": {
-    "en": "Marshallese"
-  },
-  "gdp": {
-    "value": 284000000,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "692",
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "MIC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ]
+  "data": {
+    "name": {
+      "common": "Marshall Islands",
+      "official": "Republic of the Marshall Islands"
+    },
+    "capital": {
+      "en": "Majuro"
+    },
+    "iso3": "MHL",
+    "tld": ".mh",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 181,
+    "population": 42418,
+    "flag": "🇲🇭",
+    "demonym": {
+      "en": "Marshallese"
+    },
+    "gdp": {
+      "value": 284000000,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "692",
+    "language-codes": [
+      "en"
+    ],
+    "region-codes": [
+      "MIC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
+    ]
+  }
 }

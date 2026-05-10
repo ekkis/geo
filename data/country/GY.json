@@ -1,50 +1,57 @@
 {
-  "name": {
-    "common": "Guyana",
-    "official": "Co-operative Republic of Guyana"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Georgetown",
-    "guy": "Georgetown"
-  },
-  "iso3": "GUY",
-  "tld": ".gy",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 214969,
-  "population": 772975,
-  "flag": "🇬🇾",
-  "demonym": {
-    "en": "Guyanese"
-  },
-  "gdp": {
-    "value": 16786302158.273382,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "592",
-  "neighbours": {
-    "NW": [
-      "VE"
+  "data": {
+    "name": {
+      "common": "Guyana",
+      "official": "Co-operative Republic of Guyana"
+    },
+    "capital": {
+      "en": "Georgetown",
+      "guy": "Georgetown"
+    },
+    "iso3": "GUY",
+    "tld": ".gy",
+    "timezones": [
+      "UTC-04:00"
     ],
-    "SE": [
-      "BR",
-      "SR"
+    "area": 214969,
+    "population": 772975,
+    "flag": "🇬🇾",
+    "demonym": {
+      "en": "Guyanese"
+    },
+    "gdp": {
+      "value": 16786302158.273382,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "592",
+    "neighbours": {
+      "NW": [
+        "VE"
+      ],
+      "SE": [
+        "BR",
+        "SR"
+      ]
+    },
+    "language-codes": [
+      "guy"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "GYD"
     ]
-  },
-  "language-codes": [
-    "guy"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "GYD"
-  ]
+  }
 }

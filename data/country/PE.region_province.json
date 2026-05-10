@@ -1,0 +1,77 @@
+{
+  "AMA": {
+    "name": "Amazonas"
+  },
+  "ANC": {
+    "name": "Ancash"
+  },
+  "APU": {
+    "name": "Apurímac"
+  },
+  "ARE": {
+    "name": "Arequipa"
+  },
+  "AYA": {
+    "name": "Ayacucho"
+  },
+  "CAJ": {
+    "name": "Cajamarca"
+  },
+  "CAL": {
+    "name": "Callao"
+  },
+  "CUS": {
+    "name": "Cusco"
+  },
+  "HUC": {
+    "name": "Huánuco"
+  },
+  "HUV": {
+    "name": "Huancavelica"
+  },
+  "ICA": {
+    "name": "Ica"
+  },
+  "JUN": {
+    "name": "Junín"
+  },
+  "LAL": {
+    "name": "La Libertad"
+  },
+  "LAM": {
+    "name": "Lambayeque"
+  },
+  "LIM": {
+    "name": "Lima"
+  },
+  "LOR": {
+    "name": "Loreto"
+  },
+  "MDD": {
+    "name": "Madre de Dios"
+  },
+  "MOQ": {
+    "name": "Moquegua"
+  },
+  "PAS": {
+    "name": "Pasco"
+  },
+  "PIU": {
+    "name": "Piura"
+  },
+  "PUN": {
+    "name": "Puno"
+  },
+  "SAM": {
+    "name": "San Martín"
+  },
+  "TAC": {
+    "name": "Tacna"
+  },
+  "TUM": {
+    "name": "Tumbes"
+  },
+  "UCA": {
+    "name": "Ucayali"
+  }
+}

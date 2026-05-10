@@ -1,40 +1,46 @@
 {
-  "name": {
-    "common": "Curaçao",
-    "official": "Country of Curaçao"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Willemstad",
-    "an": "Willemstad",
-    "ant": "Willemstad",
-    "cuw": "Willemstad"
-  },
-  "iso3": "CUW",
-  "tld": ".cw",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 444,
-  "population": 156115,
-  "flag": "🇨🇼",
-  "demonym": {
-    "en": "Curaçaoan"
-  },
-  "gdp": {
-    "value": 3073840325.4328494,
-    "year": 2022
-  },
-  "phone-code": "599",
-  "language-codes": [
-    "an",
-    "ant",
-    "cuw"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "ANG"
-  ]
+  "data": {
+    "name": {
+      "common": "Curaçao",
+      "official": "Country of Curaçao"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Willemstad",
+      "an": "Willemstad",
+      "ant": "Willemstad",
+      "cuw": "Willemstad"
+    },
+    "iso3": "CUW",
+    "tld": ".cw",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 444,
+    "population": 156115,
+    "flag": "🇨🇼",
+    "demonym": {
+      "en": "Curaçaoan"
+    },
+    "gdp": {
+      "value": 3073840325.4328494,
+      "year": 2022
+    },
+    "phone-code": "599",
+    "language-codes": [
+      "an",
+      "ant",
+      "cuw"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "ANG"
+    ]
+  }
 }

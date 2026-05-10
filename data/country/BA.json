@@ -1,52 +1,59 @@
 {
-  "name": {
-    "common": "Bosnia and Herzegovina",
-    "official": "Bosnia and Herzegovina"
+  "meta": {
+    "division": "entity",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Sarajevo"
-  },
-  "iso3": "BIH",
-  "tld": ".ba",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 51209,
-  "population": 3422000,
-  "flag": "🇧🇦",
-  "demonym": {
-    "en": "Bosnian, Herzegovinian"
-  },
-  "gdp": {
-    "value": 27054889362.885204,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "UN"
-  ],
-  "phone-code": "387",
-  "neighbours": {
-    "NW": [
-      "HR"
+  "data": {
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina"
+    },
+    "region-codes": [
+      "BKS"
     ],
-    "SE": [
-      "ME"
+    "capital": {
+      "en": "Sarajevo"
+    },
+    "iso3": "BIH",
+    "tld": ".ba",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "E": [
-      "RS"
+    "area": 51209,
+    "population": 3422000,
+    "flag": "🇧🇦",
+    "demonym": {
+      "en": "Bosnian, Herzegovinian"
+    },
+    "gdp": {
+      "value": 27054889362.885204,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "UN"
+    ],
+    "phone-code": "387",
+    "neighbours": {
+      "NW": [
+        "HR"
+      ],
+      "SE": [
+        "ME"
+      ],
+      "E": [
+        "RS"
+      ]
+    },
+    "language-codes": [],
+    "continent-code": "EU",
+    "currency-codes": [
+      "BAM"
     ]
-  },
-  "language-codes": [],
-  "continent-code": "EU",
-  "currency-codes": [
-    "BAM"
-  ]
+  }
 }

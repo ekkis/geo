@@ -1,82 +1,89 @@
 {
-  "name": {
-    "common": "Russia",
-    "official": "Russian Federation",
-    "ru": "Россия",
-    "su": "Rusia"
+  "meta": {
+    "division": "federal_subject",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EEU",
-    "WEU"
-  ],
-  "capital": {
-    "en": "Moscow",
-    "ru": "Москва",
-    "su": "Moskow"
-  },
-  "iso3": "RUS",
-  "tld": ".ru",
-  "timezones": [
-    "UTC+03:00",
-    "UTC+04:00",
-    "UTC+06:00",
-    "UTC+07:00",
-    "UTC+08:00",
-    "UTC+09:00",
-    "UTC+10:00",
-    "UTC+11:00",
-    "UTC+12:00"
-  ],
-  "area": 17098246,
-  "population": 146028325,
-  "flag": "🇷🇺",
-  "demonym": {
-    "en": "Russian",
-    "ru": "Русский",
-    "su": "Rusia"
-  },
-  "gdp": {
-    "value": 2021421476035.417,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO"
-  ],
-  "phone-code": "7",
-  "neighbours": {
-    "NW": [
-      "FI",
-      "NO"
+  "data": {
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation",
+      "ru": "Россия",
+      "su": "Rusia"
+    },
+    "region-codes": [
+      "EEU",
+      "WEU"
     ],
-    "SE": [
-      "CN",
-      "KP",
-      "MN"
+    "capital": {
+      "en": "Moscow",
+      "ru": "Москва",
+      "su": "Moskow"
+    },
+    "iso3": "RUS",
+    "tld": ".ru",
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
     ],
-    "SW": [
-      "AZ",
-      "BY",
-      "EE",
-      "GE",
-      "KZ",
-      "LV",
-      "LT",
-      "PL",
-      "UA"
+    "area": 17098246,
+    "population": 146028325,
+    "flag": "🇷🇺",
+    "demonym": {
+      "en": "Russian",
+      "ru": "Русский",
+      "su": "Rusia"
+    },
+    "gdp": {
+      "value": 2021421476035.417,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO"
+    ],
+    "phone-code": "7",
+    "neighbours": {
+      "NW": [
+        "FI",
+        "NO"
+      ],
+      "SE": [
+        "CN",
+        "KP",
+        "MN"
+      ],
+      "SW": [
+        "AZ",
+        "BY",
+        "EE",
+        "GE",
+        "KZ",
+        "LV",
+        "LT",
+        "PL",
+        "UA"
+      ]
+    },
+    "language-codes": [
+      "ru",
+      "su"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "RUB"
     ]
-  },
-  "language-codes": [
-    "ru",
-    "su"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "RUB"
-  ]
+  }
 }

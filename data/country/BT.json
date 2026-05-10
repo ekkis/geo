@@ -1,50 +1,57 @@
 {
-  "name": {
-    "common": "Bhutan",
-    "official": "Kingdom of Bhutan"
+  "meta": {
+    "division": "district",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Thimphu",
-    "btn": "Thimphu"
-  },
-  "iso3": "BTN",
-  "tld": ".bt",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "area": 38394,
-  "population": 784043,
-  "flag": "🇧🇹",
-  "demonym": {
-    "en": "Bhutanese"
-  },
-  "gdp": {
-    "value": 2898227713.223154,
-    "year": 2022
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "975",
-  "neighbours": {
-    "NE": [
-      "CN"
+  "data": {
+    "name": {
+      "common": "Bhutan",
+      "official": "Kingdom of Bhutan"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "SW": [
-      "IN"
+    "capital": {
+      "en": "Thimphu",
+      "btn": "Thimphu"
+    },
+    "iso3": "BTN",
+    "tld": ".bt",
+    "timezones": [
+      "UTC+06:00"
     ],
-    "E": [
-      "CN"
+    "area": 38394,
+    "population": 784043,
+    "flag": "🇧🇹",
+    "demonym": {
+      "en": "Bhutanese"
+    },
+    "gdp": {
+      "value": 2898227713.223154,
+      "year": 2022
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "975",
+    "neighbours": {
+      "NE": [
+        "CN"
+      ],
+      "SW": [
+        "IN"
+      ],
+      "E": [
+        "CN"
+      ]
+    },
+    "language-codes": [
+      "btn"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "BTN"
     ]
-  },
-  "language-codes": [
-    "btn"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "BTN"
-  ]
+  }
 }

@@ -1,52 +1,59 @@
 {
-  "name": {
-    "common": "Yemen",
-    "official": "Republic of Yemen",
-    "ar": "اليمن"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Sanaa",
-    "ar": "صنعاء",
-    "yd": "Sanaa"
-  },
-  "iso3": "YEM",
-  "tld": ".ye",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 527968,
-  "population": 32684503,
-  "flag": "🇾🇪",
-  "demonym": {
-    "en": "Yemeni",
-    "ar": "يمني"
-  },
-  "gdp": {
-    "value": 21606160663.03177,
-    "year": 2018
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "967",
-  "neighbours": {
-    "NE": [
-      "OM"
+  "data": {
+    "name": {
+      "common": "Yemen",
+      "official": "Republic of Yemen",
+      "ar": "اليمن"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "NW": [
-      "SA"
+    "capital": {
+      "en": "Sanaa",
+      "ar": "صنعاء",
+      "yd": "Sanaa"
+    },
+    "iso3": "YEM",
+    "tld": ".ye",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 527968,
+    "population": 32684503,
+    "flag": "🇾🇪",
+    "demonym": {
+      "en": "Yemeni",
+      "ar": "يمني"
+    },
+    "gdp": {
+      "value": 21606160663.03177,
+      "year": 2018
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "967",
+    "neighbours": {
+      "NE": [
+        "OM"
+      ],
+      "NW": [
+        "SA"
+      ]
+    },
+    "language-codes": [
+      "ar",
+      "yd"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "YER"
     ]
-  },
-  "language-codes": [
-    "ar",
-    "yd"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "YER"
-  ]
+  }
 }

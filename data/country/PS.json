@@ -1,47 +1,53 @@
 {
-  "name": {
-    "common": "Palestine",
-    "official": "State of Palestine",
-    "ar": "فلسطين"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "East Jerusalem",
-    "ar": "القدس الشرقية"
-  },
-  "iso3": "PSE",
-  "tld": ".ps",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 6220,
-  "population": 5483450,
-  "flag": "🇵🇸",
-  "demonym": {
-    "en": "Palestinian",
-    "ar": "فلسطيني"
-  },
-  "gdp": {
-    "value": 17396300000,
-    "year": 2023
-  },
-  "phone-code": "970",
-  "neighbours": {
-    "SE": [
-      "JO"
+  "data": {
+    "name": {
+      "common": "Palestine",
+      "official": "State of Palestine",
+      "ar": "فلسطين"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SW": [
-      "IL",
-      "EG"
+    "capital": {
+      "en": "East Jerusalem",
+      "ar": "القدس الشرقية"
+    },
+    "iso3": "PSE",
+    "tld": ".ps",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 6220,
+    "population": 5483450,
+    "flag": "🇵🇸",
+    "demonym": {
+      "en": "Palestinian",
+      "ar": "فلسطيني"
+    },
+    "gdp": {
+      "value": 17396300000,
+      "year": 2023
+    },
+    "phone-code": "970",
+    "neighbours": {
+      "SE": [
+        "JO"
+      ],
+      "SW": [
+        "IL",
+        "EG"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "ILS"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "ILS"
-  ]
+  }
 }

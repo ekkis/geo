@@ -1,63 +1,70 @@
 {
-  "name": {
-    "common": "Peru",
-    "official": "Republic of Peru",
-    "es": "Perú"
+  "meta": {
+    "division": "region_province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Lima",
-    "es": "Lima"
-  },
-  "iso3": "PER",
-  "tld": ".pe",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 1285216,
-  "population": 34350244,
-  "flag": "🇵🇪",
-  "demonym": {
-    "en": "Peruvian",
-    "es": "Peruvian"
-  },
-  "gdp": {
-    "value": 267603248655.2527,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "51",
-  "neighbours": {
-    "NE": [
-      "CO"
+  "data": {
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "es": "Perú"
+    },
+    "capital": {
+      "en": "Lima",
+      "es": "Lima"
+    },
+    "iso3": "PER",
+    "tld": ".pe",
+    "timezones": [
+      "UTC-05:00"
     ],
-    "NW": [
-      "EC"
+    "area": 1285216,
+    "population": 34350244,
+    "flag": "🇵🇪",
+    "demonym": {
+      "en": "Peruvian",
+      "es": "Peruvian"
+    },
+    "gdp": {
+      "value": 267603248655.2527,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "WTO",
+      "OAS",
+      "UN"
     ],
-    "SE": [
-      "BO",
-      "CL"
+    "phone-code": "51",
+    "neighbours": {
+      "NE": [
+        "CO"
+      ],
+      "NW": [
+        "EC"
+      ],
+      "SE": [
+        "BO",
+        "CL"
+      ],
+      "E": [
+        "BR"
+      ]
+    },
+    "language-codes": [
+      "es"
     ],
-    "E": [
-      "BR"
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "PEN"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "PEN"
-  ]
+  }
 }

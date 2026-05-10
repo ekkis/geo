@@ -1,36 +1,42 @@
 {
-  "name": {
-    "common": "Guernsey",
-    "official": "Bailiwick of Guernsey"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "St Peter Port",
-    "ggy": "St Peter Port"
-  },
-  "iso3": "GGY",
-  "tld": ".gg",
-  "timezones": [
-    "UTC+00:00"
-  ],
-  "area": 78,
-  "population": 64781,
-  "flag": "🇬🇬",
-  "demonym": {
-    "en": "Channel Islander"
-  },
-  "postal-code": {
-    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-    "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
-  },
-  "phone-code": "+44-1481",
-  "language-codes": [
-    "ggy"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "GBP"
-  ]
+  "data": {
+    "name": {
+      "common": "Guernsey",
+      "official": "Bailiwick of Guernsey"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "St Peter Port",
+      "ggy": "St Peter Port"
+    },
+    "iso3": "GGY",
+    "tld": ".gg",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 78,
+    "population": 64781,
+    "flag": "🇬🇬",
+    "demonym": {
+      "en": "Channel Islander"
+    },
+    "postal-code": {
+      "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+      "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+    },
+    "phone-code": "+44-1481",
+    "language-codes": [
+      "ggy"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "GBP"
+    ]
+  }
 }

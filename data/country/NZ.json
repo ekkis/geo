@@ -1,49 +1,56 @@
 {
-  "name": {
-    "common": "New Zealand",
-    "official": "New Zealand"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Wellington"
-  },
-  "iso3": "NZL",
-  "tld": ".nz",
-  "timezones": [
-    "UTC-11:00",
-    "UTC-10:00",
-    "UTC+12:00",
-    "UTC+12:45",
-    "UTC+13:00"
-  ],
-  "area": 268838,
-  "population": 5324700,
-  "flag": "🇳🇿",
-  "demonym": {
-    "en": "New Zealander"
-  },
-  "gdp": {
-    "value": 253465703232.14594,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "64",
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "NZD"
-  ]
+  "data": {
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand"
+    },
+    "capital": {
+      "en": "Wellington"
+    },
+    "iso3": "NZL",
+    "tld": ".nz",
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ],
+    "area": 268838,
+    "population": 5324700,
+    "flag": "🇳🇿",
+    "demonym": {
+      "en": "New Zealander"
+    },
+    "gdp": {
+      "value": 253465703232.14594,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "64",
+    "language-codes": [
+      "en"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "NZD"
+    ]
+  }
 }

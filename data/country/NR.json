@@ -1,39 +1,46 @@
 {
-  "name": {
-    "common": "Nauru",
-    "official": "Republic of Nauru"
+  "meta": {
+    "division": "district",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Yaren",
-    "nru": "Yaren"
-  },
-  "iso3": "NRU",
-  "tld": ".nr",
-  "timezones": [
-    "UTC+12:00"
-  ],
-  "area": 21,
-  "population": 11680,
-  "flag": "🇳🇷",
-  "demonym": {
-    "en": "Nauruan"
-  },
-  "gdp": {
-    "value": 154127798.19354144,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "674",
-  "language-codes": [
-    "nru"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "AUD"
-  ]
+  "data": {
+    "name": {
+      "common": "Nauru",
+      "official": "Republic of Nauru"
+    },
+    "capital": {
+      "en": "Yaren",
+      "nru": "Yaren"
+    },
+    "iso3": "NRU",
+    "tld": ".nr",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 21,
+    "population": 11680,
+    "flag": "🇳🇷",
+    "demonym": {
+      "en": "Nauruan"
+    },
+    "gdp": {
+      "value": 154127798.19354144,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "674",
+    "language-codes": [
+      "nru"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "AUD"
+    ]
+  }
 }

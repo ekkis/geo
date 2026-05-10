@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Vietnam",
-    "official": "Socialist Republic of Vietnam",
-    "vi": "Việt Nam"
+  "meta": {
+    "division": "province_municipality",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SEA"
-  ],
-  "capital": {
-    "en": "Hanoi",
-    "vd": "Hanoi",
-    "vi": "Hà Nội"
-  },
-  "iso3": "VNM",
-  "tld": ".vn",
-  "timezones": [
-    "UTC+07:00"
-  ],
-  "area": 331212,
-  "population": 101343800,
-  "flag": "🇻🇳",
-  "demonym": {
-    "en": "Vietnamese",
-    "vi": "Tiếng Việt"
-  },
-  "gdp": {
-    "value": 429716969049.5928,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "ASEAN",
-    "BIS",
-    "WTO"
-  ],
-  "phone-code": "84",
-  "neighbours": {
-    "NW": [
-      "CN",
-      "LA"
+  "data": {
+    "name": {
+      "common": "Vietnam",
+      "official": "Socialist Republic of Vietnam",
+      "vi": "Việt Nam"
+    },
+    "region-codes": [
+      "SEA"
     ],
-    "SW": [
-      "KH"
+    "capital": {
+      "en": "Hanoi",
+      "vd": "Hanoi",
+      "vi": "Hà Nội"
+    },
+    "iso3": "VNM",
+    "tld": ".vn",
+    "timezones": [
+      "UTC+07:00"
+    ],
+    "area": 331212,
+    "population": 101343800,
+    "flag": "🇻🇳",
+    "demonym": {
+      "en": "Vietnamese",
+      "vi": "Tiếng Việt"
+    },
+    "gdp": {
+      "value": 429716969049.5928,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "ASEAN",
+      "BIS",
+      "WTO"
+    ],
+    "phone-code": "84",
+    "neighbours": {
+      "NW": [
+        "CN",
+        "LA"
+      ],
+      "SW": [
+        "KH"
+      ]
+    },
+    "language-codes": [
+      "vd",
+      "vi"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "VND"
     ]
-  },
-  "language-codes": [
-    "vd",
-    "vi"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "VND"
-  ]
+  }
 }

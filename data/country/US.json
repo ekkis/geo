@@ -1,65 +1,72 @@
 {
-  "name": {
-    "common": "United States",
-    "official": "United States of America"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "NAM"
-  ],
-  "capital": {
-    "en": "Washington"
-  },
-  "iso3": "USA",
-  "tld": ".us",
-  "timezones": [
-    "UTC-12:00",
-    "UTC-11:00",
-    "UTC-10:00",
-    "UTC-09:00",
-    "UTC-08:00",
-    "UTC-07:00",
-    "UTC-06:00",
-    "UTC-05:00",
-    "UTC-04:00",
-    "UTC+10:00",
-    "UTC+12:00"
-  ],
-  "area": 9525067,
-  "population": 340110988,
-  "flag": "🇺🇸",
-  "demonym": {
-    "en": "American"
-  },
-  "gdp": {
-    "value": 27360935000000,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####-####",
-    "regex": "^\\d{5}(-\\d{4})?$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "OAS"
-  ],
-  "phone-code": "1",
-  "neighbour-codes": {
-    "NE": [
-      "CA"
+  "data": {
+    "name": {
+      "common": "United States",
+      "official": "United States of America"
+    },
+    "region-codes": [
+      "NAM"
     ],
-    "SW": [
-      "MX"
+    "capital": {
+      "en": "Washington"
+    },
+    "iso3": "USA",
+    "tld": ".us",
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "area": 9525067,
+    "population": 340110988,
+    "flag": "🇺🇸",
+    "demonym": {
+      "en": "American"
+    },
+    "gdp": {
+      "value": 27360935000000,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####-####",
+      "regex": "^\\d{5}(-\\d{4})?$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "OAS"
+    ],
+    "phone-code": "1",
+    "neighbour-codes": {
+      "NE": [
+        "CA"
+      ],
+      "SW": [
+        "MX"
+      ]
+    },
+    "language-codes": [
+      "en"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "USD"
     ]
-  },
-  "language-codes": [
-    "en"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "USD"
-  ]
+  }
 }

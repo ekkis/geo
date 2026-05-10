@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Kuwait",
-    "official": "State of Kuwait",
-    "ar": "الكويت"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Kuwait City",
-    "ar": "مدينة الكويت"
-  },
-  "iso3": "KWT",
-  "tld": ".kw",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 17818,
-  "population": 4881254,
-  "flag": "🇰🇼",
-  "demonym": {
-    "en": "Kuwaiti",
-    "ar": "كويتي"
-  },
-  "gdp": {
-    "value": 161772221950.94162,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "965",
-  "neighbours": {
-    "NW": [
-      "IQ"
+  "data": {
+    "name": {
+      "common": "Kuwait",
+      "official": "State of Kuwait",
+      "ar": "الكويت"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SW": [
-      "SA"
+    "capital": {
+      "en": "Kuwait City",
+      "ar": "مدينة الكويت"
+    },
+    "iso3": "KWT",
+    "tld": ".kw",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 17818,
+    "population": 4881254,
+    "flag": "🇰🇼",
+    "demonym": {
+      "en": "Kuwaiti",
+      "ar": "كويتي"
+    },
+    "gdp": {
+      "value": 161772221950.94162,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "965",
+    "neighbours": {
+      "NW": [
+        "IQ"
+      ],
+      "SW": [
+        "SA"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "KWD"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "KWD"
-  ]
+  }
 }

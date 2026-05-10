@@ -1,41 +1,47 @@
 {
-  "name": {
-    "common": "Western Sahara",
-    "official": "Sahrawi Arab Democratic Republic"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "El-Aaiun",
-    "esh": "El-Aaiun"
-  },
-  "iso3": "ESH",
-  "tld": ".eh",
-  "timezones": [
-    "UTC+00:00"
-  ],
-  "area": 266000,
-  "population": 600904,
-  "flag": "🇪🇭",
-  "demonym": {
-    "en": "Sahrawi"
-  },
-  "phone-code": "212",
-  "neighbours": {
-    "NE": [
-      "DZ",
-      "MA"
+  "data": {
+    "name": {
+      "common": "Western Sahara",
+      "official": "Sahrawi Arab Democratic Republic"
+    },
+    "capital": {
+      "en": "El-Aaiun",
+      "esh": "El-Aaiun"
+    },
+    "iso3": "ESH",
+    "tld": ".eh",
+    "timezones": [
+      "UTC+00:00"
     ],
-    "SE": [
-      "MR"
+    "area": 266000,
+    "population": 600904,
+    "flag": "🇪🇭",
+    "demonym": {
+      "en": "Sahrawi"
+    },
+    "phone-code": "212",
+    "neighbours": {
+      "NE": [
+        "DZ",
+        "MA"
+      ],
+      "SE": [
+        "MR"
+      ]
+    },
+    "language-codes": [
+      "esh"
+    ],
+    "region-codes": [
+      "WAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MAD"
     ]
-  },
-  "language-codes": [
-    "esh"
-  ],
-  "region-codes": [
-    "WAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MAD"
-  ]
+  }
 }

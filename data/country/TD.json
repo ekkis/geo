@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Chad",
-    "official": "Republic of Chad"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "N'Djamena",
-    "tcd": "N'Djamena"
-  },
-  "iso3": "TCD",
-  "tld": ".td",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 1284000,
-  "population": 19340757,
-  "flag": "🇹🇩",
-  "demonym": {
-    "en": "Chadian"
-  },
-  "gdp": {
-    "value": 13149325358.73826,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "235",
-  "neighbours": {
-    "NW": [
-      "LY",
-      "NE"
+  "data": {
+    "name": {
+      "common": "Chad",
+      "official": "Republic of Chad"
+    },
+    "capital": {
+      "en": "N'Djamena",
+      "tcd": "N'Djamena"
+    },
+    "iso3": "TCD",
+    "tld": ".td",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "CF"
+    "area": 1284000,
+    "population": 19340757,
+    "flag": "🇹🇩",
+    "demonym": {
+      "en": "Chadian"
+    },
+    "gdp": {
+      "value": 13149325358.73826,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "CM",
-      "NG"
+    "phone-code": "235",
+    "neighbours": {
+      "NW": [
+        "LY",
+        "NE"
+      ],
+      "SE": [
+        "CF"
+      ],
+      "SW": [
+        "CM",
+        "NG"
+      ],
+      "E": [
+        "SD"
+      ]
+    },
+    "language-codes": [
+      "tcd"
     ],
-    "E": [
-      "SD"
+    "region-codes": [],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XAF"
     ]
-  },
-  "language-codes": [
-    "tcd"
-  ],
-  "region-codes": [],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XAF"
-  ]
+  }
 }

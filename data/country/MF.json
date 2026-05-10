@@ -1,44 +1,50 @@
 {
-  "name": {
-    "common": "Saint Martin",
-    "official": "Saint Martin"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Marigot",
-    "maf": "Marigot"
-  },
-  "iso3": "MAF",
-  "tld": ".fr",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 53,
-  "population": 31496,
-  "flag": "🇲🇫",
-  "demonym": {
-    "en": "Saint Martin Islander"
-  },
-  "gdp": {
-    "value": 649206262.8475188,
-    "year": 2021
-  },
-  "postal-code": {
-    "format": "### ###"
-  },
-  "phone-code": "590",
-  "neighbours": {
-    "SE": [
-      "SX"
+  "data": {
+    "name": {
+      "common": "Saint Martin",
+      "official": "Saint Martin"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Marigot",
+      "maf": "Marigot"
+    },
+    "iso3": "MAF",
+    "tld": ".fr",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 53,
+    "population": 31496,
+    "flag": "🇲🇫",
+    "demonym": {
+      "en": "Saint Martin Islander"
+    },
+    "gdp": {
+      "value": 649206262.8475188,
+      "year": 2021
+    },
+    "postal-code": {
+      "format": "### ###"
+    },
+    "phone-code": "590",
+    "neighbours": {
+      "SE": [
+        "SX"
+      ]
+    },
+    "language-codes": [
+      "maf"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "maf"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

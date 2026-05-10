@@ -1,82 +1,89 @@
 {
-  "name": {
-    "common": "France",
-    "official": "French Republic",
-    "fr": "France"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Paris",
-    "fr": "Paris",
-    "fx": "Paris"
-  },
-  "iso3": "FRA",
-  "tld": ".fr",
-  "timezones": [
-    "UTC-10:00",
-    "UTC-09:30",
-    "UTC-09:00",
-    "UTC-08:00",
-    "UTC-04:00",
-    "UTC-03:00",
-    "UTC+01:00",
-    "UTC+02:00",
-    "UTC+03:00",
-    "UTC+04:00",
-    "UTC+05:00",
-    "UTC+10:00",
-    "UTC+11:00",
-    "UTC+12:00"
-  ],
-  "area": 543908,
-  "population": 66351959,
-  "flag": "🇫🇷",
-  "demonym": {
-    "en": "French",
-    "fr": "Français"
-  },
-  "gdp": {
-    "value": 3030904089607.8965,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "33",
-  "neighbours": {
-    "NE": [
-      "BE",
-      "DE",
-      "CH",
-      "LU"
+  "data": {
+    "name": {
+      "common": "France",
+      "official": "French Republic",
+      "fr": "France"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "SE": [
-      "IT",
-      "MC"
+    "capital": {
+      "en": "Paris",
+      "fr": "Paris",
+      "fx": "Paris"
+    },
+    "iso3": "FRA",
+    "tld": ".fr",
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
     ],
-    "SW": [
-      "AD",
-      "ES"
+    "area": 543908,
+    "population": 66351959,
+    "flag": "🇫🇷",
+    "demonym": {
+      "en": "French",
+      "fr": "Français"
+    },
+    "gdp": {
+      "value": 3030904089607.8965,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "33",
+    "neighbours": {
+      "NE": [
+        "BE",
+        "DE",
+        "CH",
+        "LU"
+      ],
+      "SE": [
+        "IT",
+        "MC"
+      ],
+      "SW": [
+        "AD",
+        "ES"
+      ]
+    },
+    "language-codes": [
+      "fr",
+      "fx"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "fr",
-    "fx"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

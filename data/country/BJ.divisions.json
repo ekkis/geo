@@ -1,43 +1,38 @@
 {
-  "meta": {
-    "divisions": []
+  "AK": {
+    "name": "Atakora"
   },
-  "data": {
-    "AK": {
-      "name": "Atakora"
-    },
-    "AL": {
-      "name": "Alibori"
-    },
-    "AQ": {
-      "name": "Atlantique"
-    },
-    "BO": {
-      "name": "Borgou"
-    },
-    "CO": {
-      "name": "Collines"
-    },
-    "DO": {
-      "name": "Donga"
-    },
-    "KO": {
-      "name": "Kouffo"
-    },
-    "LI": {
-      "name": "Littoral"
-    },
-    "MO": {
-      "name": "Mono"
-    },
-    "OU": {
-      "name": "Ouémé"
-    },
-    "PL": {
-      "name": "Plateau"
-    },
-    "ZO": {
-      "name": "Zou"
-    }
+  "AL": {
+    "name": "Alibori"
+  },
+  "AQ": {
+    "name": "Atlantique"
+  },
+  "BO": {
+    "name": "Borgou"
+  },
+  "CO": {
+    "name": "Collines"
+  },
+  "DO": {
+    "name": "Donga"
+  },
+  "KO": {
+    "name": "Kouffo"
+  },
+  "LI": {
+    "name": "Littoral"
+  },
+  "MO": {
+    "name": "Mono"
+  },
+  "OU": {
+    "name": "Ouémé"
+  },
+  "PL": {
+    "name": "Plateau"
+  },
+  "ZO": {
+    "name": "Zou"
   }
 }

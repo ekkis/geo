@@ -1,60 +1,67 @@
 {
-  "name": {
-    "common": "Iran",
-    "official": "Islamic Republic of Iran",
-    "fa": "ایران"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Tehran",
-    "fa": "تهران"
-  },
-  "iso3": "IRN",
-  "tld": ".ir",
-  "timezones": [
-    "UTC+03:30"
-  ],
-  "area": 1648195,
-  "population": 85961000,
-  "flag": "🇮🇷",
-  "demonym": {
-    "en": "Iranian",
-    "fa": "ایرانی"
-  },
-  "gdp": {
-    "value": 401504514718.7182,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "##########",
-    "regex": "^(\\d{10})$"
-  },
-  "phone-code": "98",
-  "neighbours": {
-    "NE": [
-      "AF",
-      "TM"
+  "data": {
+    "name": {
+      "common": "Iran",
+      "official": "Islamic Republic of Iran",
+      "fa": "ایران"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "NW": [
-      "AM",
-      "AZ",
-      "TR",
-      "IQ"
+    "capital": {
+      "en": "Tehran",
+      "fa": "تهران"
+    },
+    "iso3": "IRN",
+    "tld": ".ir",
+    "timezones": [
+      "UTC+03:30"
     ],
-    "SE": [
-      "PK"
+    "area": 1648195,
+    "population": 85961000,
+    "flag": "🇮🇷",
+    "demonym": {
+      "en": "Iranian",
+      "fa": "ایرانی"
+    },
+    "gdp": {
+      "value": 401504514718.7182,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "##########",
+      "regex": "^(\\d{10})$"
+    },
+    "phone-code": "98",
+    "neighbours": {
+      "NE": [
+        "AF",
+        "TM"
+      ],
+      "NW": [
+        "AM",
+        "AZ",
+        "TR",
+        "IQ"
+      ],
+      "SE": [
+        "PK"
+      ],
+      "E": [
+        "AF"
+      ]
+    },
+    "language-codes": [
+      "fa"
     ],
-    "E": [
-      "AF"
+    "continent-code": "AS",
+    "currency-codes": [
+      "IRR"
     ]
-  },
-  "language-codes": [
-    "fa"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "IRR"
-  ]
+  }
 }

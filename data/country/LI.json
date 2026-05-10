@@ -1,52 +1,59 @@
 {
-  "name": {
-    "common": "Liechtenstein",
-    "official": "Principality of Liechtenstein"
+  "meta": {
+    "division": "municipality",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Vaduz",
-    "lie": "Vaduz"
-  },
-  "iso3": "LIE",
-  "tld": ".li",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 160,
-  "population": 40900,
-  "flag": "🇱🇮",
-  "demonym": {
-    "en": "Liechtensteiner"
-  },
-  "gdp": {
-    "value": 7364654515.139836,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "423",
-  "neighbours": {
-    "NE": [
-      "AT"
+  "data": {
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "SW": [
-      "CH"
+    "capital": {
+      "en": "Vaduz",
+      "lie": "Vaduz"
+    },
+    "iso3": "LIE",
+    "tld": ".li",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 160,
+    "population": 40900,
+    "flag": "🇱🇮",
+    "demonym": {
+      "en": "Liechtensteiner"
+    },
+    "gdp": {
+      "value": 7364654515.139836,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "423",
+    "neighbours": {
+      "NE": [
+        "AT"
+      ],
+      "SW": [
+        "CH"
+      ]
+    },
+    "language-codes": [
+      "lie"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "CHF"
     ]
-  },
-  "language-codes": [
-    "lie"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "CHF"
-  ]
+  }
 }

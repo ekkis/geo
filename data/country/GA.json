@@ -1,54 +1,61 @@
 {
-  "name": {
-    "common": "Gabon",
-    "official": "Gabonese Republic",
-    "fr": "Gabon"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Libreville",
-    "fr": "Libreville"
-  },
-  "iso3": "GAB",
-  "tld": ".ga",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 267668,
-  "population": 2469296,
-  "flag": "🇬🇦",
-  "demonym": {
-    "en": "Gabonese",
-    "fr": "gabonais"
-  },
-  "gdp": {
-    "value": 20516134388.66078,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "241",
-  "neighbours": {
-    "NE": [
-      "CM"
+  "data": {
+    "name": {
+      "common": "Gabon",
+      "official": "Gabonese Republic",
+      "fr": "Gabon"
+    },
+    "capital": {
+      "en": "Libreville",
+      "fr": "Libreville"
+    },
+    "iso3": "GAB",
+    "tld": ".ga",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "GQ"
+    "area": 267668,
+    "population": 2469296,
+    "flag": "🇬🇦",
+    "demonym": {
+      "en": "Gabonese",
+      "fr": "gabonais"
+    },
+    "gdp": {
+      "value": 20516134388.66078,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "E": [
-      "CG"
+    "phone-code": "241",
+    "neighbours": {
+      "NE": [
+        "CM"
+      ],
+      "NW": [
+        "GQ"
+      ],
+      "E": [
+        "CG"
+      ]
+    },
+    "language-codes": [
+      "fr"
+    ],
+    "region-codes": [
+      "CAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "XAF"
     ]
-  },
-  "language-codes": [
-    "fr"
-  ],
-  "region-codes": [
-    "CAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "XAF"
-  ]
+  }
 }

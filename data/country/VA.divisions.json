@@ -1,12 +1,7 @@
 {
-  "meta": {
-    "divisions": []
-  },
-  "data": {
-    "Vatican City": {
-      "VATCI": {
-        "name": "Vatican City"
-      }
+  "Vatican City": {
+    "VATCI": {
+      "name": "Vatican City"
     }
   }
 }

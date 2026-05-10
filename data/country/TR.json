@@ -1,68 +1,75 @@
 {
-  "name": {
-    "common": "Turkey",
-    "official": "Republic of Turkey",
-    "tr": "Türkiye"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "BKS",
-    "SEU"
-  ],
-  "capital": {
-    "en": "Ankara",
-    "tr": "Ankara"
-  },
-  "iso3": "TUR",
-  "tld": ".tr",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 783562,
-  "population": 85664944,
-  "flag": "🇹🇷",
-  "demonym": {
-    "en": "Turkish",
-    "tr": "Türkçe"
-  },
-  "gdp": {
-    "value": 1108022373259.511,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO"
-  ],
-  "phone-code": "90",
-  "neighbours": {
-    "NE": [
-      "AM",
-      "AZ",
-      "GE"
+  "data": {
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey",
+      "tr": "Türkiye"
+    },
+    "region-codes": [
+      "BKS",
+      "SEU"
     ],
-    "NW": [
-      "BG"
+    "capital": {
+      "en": "Ankara",
+      "tr": "Ankara"
+    },
+    "iso3": "TUR",
+    "tld": ".tr",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SE": [
-      "IR",
-      "IQ",
-      "SY"
+    "area": 783562,
+    "population": 85664944,
+    "flag": "🇹🇷",
+    "demonym": {
+      "en": "Turkish",
+      "tr": "Türkçe"
+    },
+    "gdp": {
+      "value": 1108022373259.511,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO"
     ],
-    "W": [
-      "GR"
+    "phone-code": "90",
+    "neighbours": {
+      "NE": [
+        "AM",
+        "AZ",
+        "GE"
+      ],
+      "NW": [
+        "BG"
+      ],
+      "SE": [
+        "IR",
+        "IQ",
+        "SY"
+      ],
+      "W": [
+        "GR"
+      ]
+    },
+    "language-codes": [
+      "tr"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "TRY"
     ]
-  },
-  "language-codes": [
-    "tr"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "TRY"
-  ]
+  }
 }

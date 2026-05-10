@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Armenia",
-    "official": "Republic of Armenia"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAUC"
-  ],
-  "capital": {
-    "en": "Yerevan",
-    "arm": "Yerevan"
-  },
-  "iso3": "ARM",
-  "tld": ".am",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 29743,
-  "population": 3076200,
-  "flag": "🇦🇲",
-  "demonym": {
-    "en": "Armenian"
-  },
-  "gdp": {
-    "value": 24212134631.064003,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "374",
-  "neighbours": {
-    "NE": [
-      "AZ"
+  "data": {
+    "name": {
+      "common": "Armenia",
+      "official": "Republic of Armenia"
+    },
+    "region-codes": [
+      "CAUC"
     ],
-    "NW": [
-      "GE"
+    "capital": {
+      "en": "Yerevan",
+      "arm": "Yerevan"
+    },
+    "iso3": "ARM",
+    "tld": ".am",
+    "timezones": [
+      "UTC+04:00"
     ],
-    "SE": [
-      "IR"
+    "area": 29743,
+    "population": 3076200,
+    "flag": "🇦🇲",
+    "demonym": {
+      "en": "Armenian"
+    },
+    "gdp": {
+      "value": 24212134631.064003,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
     ],
-    "SW": [
-      "TR"
+    "phone-code": "374",
+    "neighbours": {
+      "NE": [
+        "AZ"
+      ],
+      "NW": [
+        "GE"
+      ],
+      "SE": [
+        "IR"
+      ],
+      "SW": [
+        "TR"
+      ]
+    },
+    "language-codes": [
+      "arm"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "AMD"
     ]
-  },
-  "language-codes": [
-    "arm"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "AMD"
-  ]
+  }
 }

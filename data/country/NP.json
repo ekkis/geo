@@ -1,54 +1,61 @@
 {
-  "name": {
-    "common": "Nepal",
-    "official": "Federal Democratic Republic of Nepal",
-    "ne": "नेपाल"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Kathmandu",
-    "ne": "काठमाडौं ।"
-  },
-  "iso3": "NPL",
-  "tld": ".np",
-  "timezones": [
-    "UTC+05:45"
-  ],
-  "area": 147181,
-  "population": 29911840,
-  "flag": "🇳🇵",
-  "demonym": {
-    "en": "Nepalese",
-    "ne": "नेपाली"
-  },
-  "gdp": {
-    "value": 40908073366.84552,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "977",
-  "neighbours": {
-    "NE": [
-      "CN"
+  "data": {
+    "name": {
+      "common": "Nepal",
+      "official": "Federal Democratic Republic of Nepal",
+      "ne": "नेपाल"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "SW": [
-      "IN"
+    "capital": {
+      "en": "Kathmandu",
+      "ne": "काठमाडौं ।"
+    },
+    "iso3": "NPL",
+    "tld": ".np",
+    "timezones": [
+      "UTC+05:45"
+    ],
+    "area": 147181,
+    "population": 29911840,
+    "flag": "🇳🇵",
+    "demonym": {
+      "en": "Nepalese",
+      "ne": "नेपाली"
+    },
+    "gdp": {
+      "value": 40908073366.84552,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "977",
+    "neighbours": {
+      "NE": [
+        "CN"
+      ],
+      "SW": [
+        "IN"
+      ]
+    },
+    "language-codes": [
+      "ne"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "NPR"
     ]
-  },
-  "language-codes": [
-    "ne"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "NPR"
-  ]
+  }
 }

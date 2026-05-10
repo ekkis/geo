@@ -1,39 +1,45 @@
 {
-  "name": {
-    "common": "Vatican City",
-    "official": "Vatican City State",
-    "it": "Città del Vaticano"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Vatican City",
-    "it": "Città del Vaticano"
-  },
-  "iso3": "VAT",
-  "tld": ".va",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 0.49,
-  "population": 882,
-  "flag": "🇻🇦",
-  "demonym": {
-    "en": "Vatican",
-    "it": "Vaticano"
-  },
-  "phone-code": "379",
-  "neighbours": {
-    "NE": [
-      "IT"
+  "data": {
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State",
+      "it": "Città del Vaticano"
+    },
+    "region-codes": [
+      "CEU"
+    ],
+    "capital": {
+      "en": "Vatican City",
+      "it": "Città del Vaticano"
+    },
+    "iso3": "VAT",
+    "tld": ".va",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 0.49,
+    "population": 882,
+    "flag": "🇻🇦",
+    "demonym": {
+      "en": "Vatican",
+      "it": "Vaticano"
+    },
+    "phone-code": "379",
+    "neighbours": {
+      "NE": [
+        "IT"
+      ]
+    },
+    "language-codes": [
+      "it"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "it"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

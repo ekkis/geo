@@ -1,62 +1,69 @@
 {
-  "name": {
-    "common": "Spain",
-    "official": "Kingdom of Spain",
-    "es": "España"
+  "meta": {
+    "division": "autonomous_community",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Madrid",
-    "es": "Madrid"
-  },
-  "iso3": "ESP",
-  "tld": ".es",
-  "timezones": [
-    "UTC",
-    "UTC+01:00"
-  ],
-  "area": 505992,
-  "population": 49315949,
-  "flag": "🇪🇸",
-  "demonym": {
-    "en": "Spanish",
-    "es": "Spanish"
-  },
-  "gdp": {
-    "value": 1580694712515.714,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "34",
-  "neighbours": {
-    "NE": [
-      "AD",
-      "FR"
+  "data": {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "es": "España"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "SW": [
-      "MA",
-      "PT",
-      "GI"
+    "capital": {
+      "en": "Madrid",
+      "es": "Madrid"
+    },
+    "iso3": "ESP",
+    "tld": ".es",
+    "timezones": [
+      "UTC",
+      "UTC+01:00"
+    ],
+    "area": 505992,
+    "population": 49315949,
+    "flag": "🇪🇸",
+    "demonym": {
+      "en": "Spanish",
+      "es": "Spanish"
+    },
+    "gdp": {
+      "value": 1580694712515.714,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "34",
+    "neighbours": {
+      "NE": [
+        "AD",
+        "FR"
+      ],
+      "SW": [
+        "MA",
+        "PT",
+        "GI"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

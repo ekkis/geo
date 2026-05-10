@@ -1,61 +1,68 @@
 {
-  "name": {
-    "common": "Mexico",
-    "official": "United Mexican States",
-    "es": "México"
+  "meta": {
+    "division": "state_federal_entity",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAM"
-  ],
-  "capital": {
-    "en": "Mexico City",
-    "es": "Ciudad de México"
-  },
-  "iso3": "MEX",
-  "tld": ".mx",
-  "timezones": [
-    "UTC-08:00",
-    "UTC-07:00",
-    "UTC-06:00"
-  ],
-  "area": 1964375,
-  "population": 130575786,
-  "flag": "🇲🇽",
-  "demonym": {
-    "en": "Mexican",
-    "es": "Mexican"
-  },
-  "gdp": {
-    "value": 1788886821046.8132,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "52",
-  "neighbours": {
-    "SE": [
-      "BZ",
-      "GT"
+  "data": {
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "es": "México"
+    },
+    "region-codes": [
+      "CAM"
     ],
-    "NE": [
-      "US"
+    "capital": {
+      "en": "Mexico City",
+      "es": "Ciudad de México"
+    },
+    "iso3": "MEX",
+    "tld": ".mx",
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00"
+    ],
+    "area": 1964375,
+    "population": 130575786,
+    "flag": "🇲🇽",
+    "demonym": {
+      "en": "Mexican",
+      "es": "Mexican"
+    },
+    "gdp": {
+      "value": 1788886821046.8132,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "52",
+    "neighbours": {
+      "SE": [
+        "BZ",
+        "GT"
+      ],
+      "NE": [
+        "US"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "MXN"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "MXN"
-  ]
+  }
 }

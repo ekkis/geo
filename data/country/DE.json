@@ -1,72 +1,79 @@
 {
-  "name": {
-    "common": "Germany",
-    "official": "Federal Republic of Germany",
-    "de": "Deutschland"
+  "meta": {
+    "division": "state",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Berlin",
-    "dd": "Berlin",
-    "de": "Berlin"
-  },
-  "iso3": "DEU",
-  "tld": ".de",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 357114,
-  "population": 83491249,
-  "flag": "🇩🇪",
-  "demonym": {
-    "en": "German",
-    "de": "Deutsch"
-  },
-  "gdp": {
-    "value": 4456081016705.961,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "G20",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "49",
-  "neighbours": {
-    "NE": [
-      "DK",
-      "PL"
+  "data": {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "de": "Deutschland"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "NW": [
-      "NL"
+    "capital": {
+      "en": "Berlin",
+      "dd": "Berlin",
+      "de": "Berlin"
+    },
+    "iso3": "DEU",
+    "tld": ".de",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "AT",
-      "CZ"
+    "area": 357114,
+    "population": 83491249,
+    "flag": "🇩🇪",
+    "demonym": {
+      "en": "German",
+      "de": "Deutsch"
+    },
+    "gdp": {
+      "value": 4456081016705.961,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "G20",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "SW": [
-      "BE",
-      "CH",
-      "FR",
-      "LU"
+    "phone-code": "49",
+    "neighbours": {
+      "NE": [
+        "DK",
+        "PL"
+      ],
+      "NW": [
+        "NL"
+      ],
+      "SE": [
+        "AT",
+        "CZ"
+      ],
+      "SW": [
+        "BE",
+        "CH",
+        "FR",
+        "LU"
+      ]
+    },
+    "language-codes": [
+      "dd",
+      "de"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "dd",
-    "de"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

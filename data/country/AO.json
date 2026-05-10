@@ -1,57 +1,64 @@
 {
-  "name": {
-    "common": "Angola",
-    "official": "Republic of Angola",
-    "pt": "Angola"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Luanda",
-    "pt": "Luanda"
-  },
-  "iso3": "AGO",
-  "tld": ".ao",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 1246700,
-  "population": 36170961,
-  "flag": "🇦🇴",
-  "demonym": {
-    "en": "Angolan",
-    "pt": "Angolan"
-  },
-  "gdp": {
-    "value": 84722957642.37566,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "244",
-  "neighbours": {
-    "NW": [
-      "CG"
+  "data": {
+    "name": {
+      "common": "Angola",
+      "official": "Republic of Angola",
+      "pt": "Angola"
+    },
+    "capital": {
+      "en": "Luanda",
+      "pt": "Luanda"
+    },
+    "iso3": "AGO",
+    "tld": ".ao",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "ZM"
+    "area": 1246700,
+    "population": 36170961,
+    "flag": "🇦🇴",
+    "demonym": {
+      "en": "Angolan",
+      "pt": "Angolan"
+    },
+    "gdp": {
+      "value": 84722957642.37566,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "NA"
+    "phone-code": "244",
+    "neighbours": {
+      "NW": [
+        "CG"
+      ],
+      "SE": [
+        "ZM"
+      ],
+      "SW": [
+        "NA"
+      ],
+      "NE": [
+        "CD"
+      ]
+    },
+    "language-codes": [
+      "pt"
     ],
-    "NE": [
-      "CD"
+    "region-codes": [
+      "CAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "AOA"
     ]
-  },
-  "language-codes": [
-    "pt"
-  ],
-  "region-codes": [
-    "CAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "AOA"
-  ]
+  }
 }

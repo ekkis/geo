@@ -1,40 +1,46 @@
 {
-  "name": {
-    "common": "Isle of Man",
-    "official": "Isle of Man"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Douglas, Isle of Man",
-    "imn": "Douglas, Isle of Man"
-  },
-  "iso3": "IMN",
-  "tld": ".im",
-  "timezones": [
-    "UTC+00:00"
-  ],
-  "area": 572,
-  "population": 84530,
-  "flag": "🇮🇲",
-  "demonym": {
-    "en": "Manx"
-  },
-  "gdp": {
-    "value": 7931193222.064053,
-    "year": 2021
-  },
-  "postal-code": {
-    "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-    "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
-  },
-  "phone-code": "+44-1624",
-  "language-codes": [
-    "imn"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "GBP"
-  ]
+  "data": {
+    "name": {
+      "common": "Isle of Man",
+      "official": "Isle of Man"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "Douglas, Isle of Man",
+      "imn": "Douglas, Isle of Man"
+    },
+    "iso3": "IMN",
+    "tld": ".im",
+    "timezones": [
+      "UTC+00:00"
+    ],
+    "area": 572,
+    "population": 84530,
+    "flag": "🇮🇲",
+    "demonym": {
+      "en": "Manx"
+    },
+    "gdp": {
+      "value": 7931193222.064053,
+      "year": 2021
+    },
+    "postal-code": {
+      "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+      "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+    },
+    "phone-code": "+44-1624",
+    "language-codes": [
+      "imn"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "GBP"
+    ]
+  }
 }

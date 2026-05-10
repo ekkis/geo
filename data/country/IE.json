@@ -1,47 +1,54 @@
 {
-  "name": {
-    "common": "Ireland",
-    "official": "Republic of Ireland"
+  "meta": {
+    "division": "county",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Dublin"
-  },
-  "iso3": "IRL",
-  "tld": ".ie",
-  "timezones": [
-    "UTC"
-  ],
-  "area": 70273,
-  "population": 5458600,
-  "flag": "🇮🇪",
-  "demonym": {
-    "en": "Irish"
-  },
-  "gdp": {
-    "value": 545629450403.7351,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "353",
-  "neighbours": {
-    "NE": [
-      "GB"
+  "data": {
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "Dublin"
+    },
+    "iso3": "IRL",
+    "tld": ".ie",
+    "timezones": [
+      "UTC"
+    ],
+    "area": 70273,
+    "population": 5458600,
+    "flag": "🇮🇪",
+    "demonym": {
+      "en": "Irish"
+    },
+    "gdp": {
+      "value": 545629450403.7351,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "353",
+    "neighbours": {
+      "NE": [
+        "GB"
+      ]
+    },
+    "language-codes": [
+      "en"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "en"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

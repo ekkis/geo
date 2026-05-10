@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Montenegro",
-    "official": "Montenegro"
+  "meta": {
+    "division": "municipality",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SEU"
-  ],
-  "capital": {
-    "en": "Podgorica",
-    "mne": "Podgorica"
-  },
-  "iso3": "MNE",
-  "tld": ".me",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 13812,
-  "population": 623327,
-  "flag": "🇲🇪",
-  "demonym": {
-    "en": "Montenegrin"
-  },
-  "gdp": {
-    "value": 7404541964.5077915,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "382",
-  "neighbours": {
-    "NE": [
-      "XK",
-      "RS"
+  "data": {
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro"
+    },
+    "region-codes": [
+      "SEU"
     ],
-    "NW": [
-      "BA",
-      "HR"
+    "capital": {
+      "en": "Podgorica",
+      "mne": "Podgorica"
+    },
+    "iso3": "MNE",
+    "tld": ".me",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "AL"
+    "area": 13812,
+    "population": 623327,
+    "flag": "🇲🇪",
+    "demonym": {
+      "en": "Montenegrin"
+    },
+    "gdp": {
+      "value": 7404541964.5077915,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "382",
+    "neighbours": {
+      "NE": [
+        "XK",
+        "RS"
+      ],
+      "NW": [
+        "BA",
+        "HR"
+      ],
+      "SE": [
+        "AL"
+      ]
+    },
+    "language-codes": [
+      "mne"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "mne"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

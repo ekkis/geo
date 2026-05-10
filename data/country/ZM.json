@@ -1,65 +1,72 @@
 {
-  "name": {
-    "common": "Zambia",
-    "official": "Republic of Zambia"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Lusaka",
-    "zmb": "Lusaka"
-  },
-  "iso3": "ZMB",
-  "tld": ".zm",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 752612,
-  "population": 19693423,
-  "flag": "🇿🇲",
-  "demonym": {
-    "en": "Zambian"
-  },
-  "gdp": {
-    "value": 28162630953.9285,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "260",
-  "neighbours": {
-    "NE": [
-      "MW",
-      "TZ"
+  "data": {
+    "name": {
+      "common": "Zambia",
+      "official": "Republic of Zambia"
+    },
+    "capital": {
+      "en": "Lusaka",
+      "zmb": "Lusaka"
+    },
+    "iso3": "ZMB",
+    "tld": ".zm",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "NW": [
-      "AO",
-      "CD"
+    "area": 752612,
+    "population": 19693423,
+    "flag": "🇿🇲",
+    "demonym": {
+      "en": "Zambian"
+    },
+    "gdp": {
+      "value": 28162630953.9285,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "MZ"
+    "phone-code": "260",
+    "neighbours": {
+      "NE": [
+        "MW",
+        "TZ"
+      ],
+      "NW": [
+        "AO",
+        "CD"
+      ],
+      "SE": [
+        "MZ"
+      ],
+      "SW": [
+        "BW",
+        "NA"
+      ],
+      "S": [
+        "ZW"
+      ]
+    },
+    "language-codes": [
+      "zmb"
     ],
-    "SW": [
-      "BW",
-      "NA"
+    "region-codes": [
+      "EAF"
     ],
-    "S": [
-      "ZW"
+    "continent-code": "AF",
+    "currency-codes": [
+      "ZMK"
     ]
-  },
-  "language-codes": [
-    "zmb"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "ZMK"
-  ]
+  }
 }

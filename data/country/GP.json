@@ -1,36 +1,42 @@
 {
-  "name": {
-    "common": "Guadeloupe",
-    "official": "Guadeloupe"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Basse-Terre",
-    "glp": "Basse-Terre"
-  },
-  "iso3": "GLP",
-  "tld": ".gp",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 1628,
-  "population": 378561,
-  "flag": "🇬🇵",
-  "demonym": {
-    "en": "Guadeloupian"
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^((97|98)\\d{3})$"
-  },
-  "phone-code": "590",
-  "language-codes": [
-    "glp"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "EUR"
-  ]
+  "data": {
+    "name": {
+      "common": "Guadeloupe",
+      "official": "Guadeloupe"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Basse-Terre",
+      "glp": "Basse-Terre"
+    },
+    "iso3": "GLP",
+    "tld": ".gp",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 1628,
+    "population": 378561,
+    "flag": "🇬🇵",
+    "demonym": {
+      "en": "Guadeloupian"
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^((97|98)\\d{3})$"
+    },
+    "phone-code": "590",
+    "language-codes": [
+      "glp"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "EUR"
+    ]
+  }
 }

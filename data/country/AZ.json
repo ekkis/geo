@@ -1,60 +1,67 @@
 {
-  "name": {
-    "common": "Azerbaijan",
-    "official": "Republic of Azerbaijan",
-    "az": "Azərbaycan"
+  "meta": {
+    "division": "economic_region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAUC"
-  ],
-  "capital": {
-    "en": "Baku",
-    "az": "Bakı"
-  },
-  "iso3": "AZE",
-  "tld": ".az",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "area": 86600,
-  "population": 10241722,
-  "flag": "🇦🇿",
-  "demonym": {
-    "en": "Azerbaijani",
-    "az": "Azərbaycan"
-  },
-  "gdp": {
-    "value": 72356176470.58824,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "AZ ####",
-    "regex": "^(?:AZ)*(\\d{4})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "994",
-  "neighbours": {
-    "NE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Azerbaijan",
+      "official": "Republic of Azerbaijan",
+      "az": "Azərbaycan"
+    },
+    "region-codes": [
+      "CAUC"
     ],
-    "NW": [
-      "GE"
+    "capital": {
+      "en": "Baku",
+      "az": "Bakı"
+    },
+    "iso3": "AZE",
+    "tld": ".az",
+    "timezones": [
+      "UTC+04:00"
     ],
-    "SE": [
-      "IR"
+    "area": 86600,
+    "population": 10241722,
+    "flag": "🇦🇿",
+    "demonym": {
+      "en": "Azerbaijani",
+      "az": "Azərbaycan"
+    },
+    "gdp": {
+      "value": 72356176470.58824,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "AZ ####",
+      "regex": "^(?:AZ)*(\\d{4})$"
+    },
+    "organisation-codes": [
+      "UN"
     ],
-    "SW": [
-      "AM",
-      "TR"
+    "phone-code": "994",
+    "neighbours": {
+      "NE": [
+        "RU"
+      ],
+      "NW": [
+        "GE"
+      ],
+      "SE": [
+        "IR"
+      ],
+      "SW": [
+        "AM",
+        "TR"
+      ]
+    },
+    "language-codes": [
+      "az"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "AZN"
     ]
-  },
-  "language-codes": [
-    "az"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "AZN"
-  ]
+  }
 }

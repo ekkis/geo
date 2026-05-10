@@ -1,0 +1,89 @@
+{
+  "ANH": {
+    "name": "Anhui"
+  },
+  "BEI": {
+    "name": "Beijing"
+  },
+  "CHO": {
+    "name": "Chongqing"
+  },
+  "FUJ": {
+    "name": "Fujian"
+  },
+  "GAN": {
+    "name": "Gansu"
+  },
+  "GUA": {
+    "name": "Guangdong"
+  },
+  "GUI": {
+    "name": "Guizhou"
+  },
+  "HAI": {
+    "name": "Hainan"
+  },
+  "HEB": {
+    "name": "Hebei"
+  },
+  "HEI": {
+    "name": "Heilongjiang"
+  },
+  "HEN": {
+    "name": "Henan"
+  },
+  "HK": {
+    "name": "Hong Kong"
+  },
+  "HUB": {
+    "name": "Hubei"
+  },
+  "HUN": {
+    "name": "Hunan"
+  },
+  "IM": {
+    "name": "Inner Mongolia"
+  },
+  "JIA": {
+    "name": "Jiangxi"
+  },
+  "JIL": {
+    "name": "Jilin"
+  },
+  "LIA": {
+    "name": "Liaoning"
+  },
+  "MAC": {
+    "name": "Macau"
+  },
+  "NIN": {
+    "name": "Ningxia"
+  },
+  "QIN": {
+    "name": "Qinghai"
+  },
+  "SHA": {
+    "name": "Shanghai"
+  },
+  "SIC": {
+    "name": "Sichuan"
+  },
+  "TAI": {
+    "name": "Taiwan"
+  },
+  "TIA": {
+    "name": "Tianjin"
+  },
+  "TIB": {
+    "name": "Tibet"
+  },
+  "XIN": {
+    "name": "Xinjiang"
+  },
+  "YUN": {
+    "name": "Yunnan"
+  },
+  "ZHE": {
+    "name": "Zhejiang"
+  }
+}

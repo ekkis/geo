@@ -1,51 +1,57 @@
 {
-  "name": {
-    "common": "Brunei",
-    "official": "Nation of Brunei, Abode of Peace",
-    "ms": "Brunei"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Bandar Seri Begawan",
-    "ms": "Bandar Seri Begawan"
-  },
-  "iso3": "BRN",
-  "tld": ".bn",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 5765,
-  "population": 455500,
-  "flag": "🇧🇳",
-  "demonym": {
-    "en": "Bruneian",
-    "ms": "orang Brunei"
-  },
-  "gdp": {
-    "value": 15128292953.509842,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@@####",
-    "regex": "^([A-Z]{2}\\d{4})$"
-  },
-  "organisation-codes": [
-    "ASEAN",
-    "WTO"
-  ],
-  "phone-code": "673",
-  "neighbours": {
-    "SW": [
-      "MY"
+  "data": {
+    "name": {
+      "common": "Brunei",
+      "official": "Nation of Brunei, Abode of Peace",
+      "ms": "Brunei"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "Bandar Seri Begawan",
+      "ms": "Bandar Seri Begawan"
+    },
+    "iso3": "BRN",
+    "tld": ".bn",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 5765,
+    "population": 455500,
+    "flag": "🇧🇳",
+    "demonym": {
+      "en": "Bruneian",
+      "ms": "orang Brunei"
+    },
+    "gdp": {
+      "value": 15128292953.509842,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@@####",
+      "regex": "^([A-Z]{2}\\d{4})$"
+    },
+    "organisation-codes": [
+      "ASEAN",
+      "WTO"
+    ],
+    "phone-code": "673",
+    "neighbours": {
+      "SW": [
+        "MY"
+      ]
+    },
+    "language-codes": [
+      "ms"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "BND"
     ]
-  },
-  "language-codes": [
-    "ms"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "BND"
-  ]
+  }
 }

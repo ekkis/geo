@@ -1,39 +1,46 @@
 {
-  "name": {
-    "common": "Fiji",
-    "official": "Republic of Fiji"
+  "meta": {
+    "division": "division",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Suva"
-  },
-  "iso3": "FJI",
-  "tld": ".fj",
-  "timezones": [
-    "UTC+12:00"
-  ],
-  "area": 18272,
-  "population": 900869,
-  "flag": "🇫🇯",
-  "demonym": {
-    "en": "Fijian"
-  },
-  "gdp": {
-    "value": 5494797540.733647,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "679",
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "OC"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "FJD"
-  ]
+  "data": {
+    "name": {
+      "common": "Fiji",
+      "official": "Republic of Fiji"
+    },
+    "capital": {
+      "en": "Suva"
+    },
+    "iso3": "FJI",
+    "tld": ".fj",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 18272,
+    "population": 900869,
+    "flag": "🇫🇯",
+    "demonym": {
+      "en": "Fijian"
+    },
+    "gdp": {
+      "value": 5494797540.733647,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "679",
+    "language-codes": [
+      "en"
+    ],
+    "region-codes": [
+      "OC"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "FJD"
+    ]
+  }
 }

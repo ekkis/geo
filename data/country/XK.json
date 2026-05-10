@@ -1,25 +1,31 @@
 {
-  "name": {
-    "common": "Kosovo",
-    "official": "Republic of Kosovo"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "BKS"
-  ],
-  "capital": {
-    "en": "Pristina",
-    "xkk": "Pristina"
-  },
-  "iso3": "XKX",
-  "demonym": {
-    "en": "Kosovar"
-  },
-  "phone-code": "",
-  "language-codes": [
-    "xkk"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  "data": {
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo"
+    },
+    "region-codes": [
+      "BKS"
+    ],
+    "capital": {
+      "en": "Pristina",
+      "xkk": "Pristina"
+    },
+    "iso3": "XKX",
+    "demonym": {
+      "en": "Kosovar"
+    },
+    "phone-code": "",
+    "language-codes": [
+      "xkk"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
+    ]
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "B": {
+    "name": "Berea"
+  },
+  "C": {
+    "name": "Butha-Buthe"
+  },
+  "G": {
+    "name": "Leribe"
+  },
+  "H": {
+    "name": "Mafeteng"
+  },
+  "K": {
+    "name": "Thaba-Tseka"
+  },
+  "M": {
+    "name": "Maseru"
+  },
+  "N": {
+    "name": "Mohale's Hoek"
+  },
+  "P": {
+    "name": "Mokhotlong"
+  },
+  "S": {
+    "name": "Qacha's Nek"
+  },
+  "T": {
+    "name": "Quthing"
+  }
+}

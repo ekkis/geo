@@ -1,41 +1,47 @@
 {
-  "name": {
-    "common": "Antigua and Barbuda",
-    "official": "Antigua and Barbuda"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "St. John's",
-    "atg": "St. John's"
-  },
-  "iso3": "ATG",
-  "tld": ".ag",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 442,
-  "population": 103603,
-  "flag": "🇦🇬",
-  "demonym": {
-    "en": "Antiguan, Barbudan"
-  },
-  "gdp": {
-    "value": 2033085185.185185,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-268",
-  "language-codes": [
-    "atg"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Antigua and Barbuda",
+      "official": "Antigua and Barbuda"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "St. John's",
+      "atg": "St. John's"
+    },
+    "iso3": "ATG",
+    "tld": ".ag",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 442,
+    "population": 103603,
+    "flag": "🇦🇬",
+    "demonym": {
+      "en": "Antiguan, Barbudan"
+    },
+    "gdp": {
+      "value": 2033085185.185185,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-268",
+    "language-codes": [
+      "atg"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

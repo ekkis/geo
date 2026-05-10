@@ -1,41 +1,48 @@
 {
-  "name": {
-    "common": "Grenada",
-    "official": "Grenada"
+  "meta": {
+    "division": "parish",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "St. George's",
-    "grd": "St. George's"
-  },
-  "iso3": "GRD",
-  "tld": ".gd",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 344,
-  "population": 109021,
-  "flag": "🇬🇩",
-  "demonym": {
-    "en": "Grenadian"
-  },
-  "gdp": {
-    "value": 1320334235.588974,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-473",
-  "language-codes": [
-    "grd"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Grenada",
+      "official": "Grenada"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "St. George's",
+      "grd": "St. George's"
+    },
+    "iso3": "GRD",
+    "tld": ".gd",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 344,
+    "population": 109021,
+    "flag": "🇬🇩",
+    "demonym": {
+      "en": "Grenadian"
+    },
+    "gdp": {
+      "value": 1320334235.588974,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-473",
+    "language-codes": [
+      "grd"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

@@ -1,80 +1,87 @@
 {
-  "name": {
-    "common": "China",
-    "official": "People's Republic of China"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Beijing",
-    "zh": "Beijing"
-  },
-  "iso3": "CHN",
-  "tld": ".cn",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 9706961,
-  "population": 1408280000,
-  "flag": "🇨🇳",
-  "demonym": {
-    "en": "Chinese"
-  },
-  "gdp": {
-    "value": 17794781986104.457,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "BIS",
-    "G20",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "86",
-  "neighbours": {
-    "NE": [
-      "KP"
+  "data": {
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China"
+    },
+    "region-codes": [
+      "EAS"
     ],
-    "NW": [
-      "TJ",
-      "KG",
-      "RU",
-      "KZ"
+    "capital": {
+      "en": "Beijing",
+      "zh": "Beijing"
+    },
+    "iso3": "CHN",
+    "tld": ".cn",
+    "timezones": [
+      "UTC+08:00"
     ],
-    "SE": [
-      "HK",
-      "VN",
-      "MO"
+    "area": 9706961,
+    "population": 1408280000,
+    "flag": "🇨🇳",
+    "demonym": {
+      "en": "Chinese"
+    },
+    "gdp": {
+      "value": 17794781986104.457,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "BIS",
+      "G20",
+      "WTO",
+      "UN"
     ],
-    "SW": [
-      "AF",
-      "BT",
-      "PK",
-      "IN",
-      "NP",
-      "MM"
+    "phone-code": "86",
+    "neighbours": {
+      "NE": [
+        "KP"
+      ],
+      "NW": [
+        "TJ",
+        "KG",
+        "RU",
+        "KZ"
+      ],
+      "SE": [
+        "HK",
+        "VN",
+        "MO"
+      ],
+      "SW": [
+        "AF",
+        "BT",
+        "PK",
+        "IN",
+        "NP",
+        "MM"
+      ],
+      "W": [
+        "AF",
+        "BT"
+      ],
+      "N": [
+        "MN"
+      ],
+      "S": [
+        "LA"
+      ]
+    },
+    "language-codes": [
+      "zh"
     ],
-    "W": [
-      "AF",
-      "BT"
-    ],
-    "N": [
-      "MN"
-    ],
-    "S": [
-      "LA"
+    "continent-code": "AS",
+    "currency-codes": [
+      "CNY"
     ]
-  },
-  "language-codes": [
-    "zh"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "CNY"
-  ]
+  }
 }

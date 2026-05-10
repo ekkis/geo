@@ -1,32 +1,38 @@
 {
-  "name": {
-    "common": "Cocos (Keeling) Islands",
-    "official": "Territory of the Cocos (Keeling) Islands"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "West Island",
-    "cck": "West Island"
-  },
-  "iso3": "CCK",
-  "tld": ".cc",
-  "timezones": [
-    "UTC+06:30"
-  ],
-  "area": 14,
-  "population": 593,
-  "flag": "🇨🇨",
-  "demonym": {
-    "en": "Cocos Islander"
-  },
-  "phone-code": "61",
-  "language-codes": [
-    "cck"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "AUD"
-  ]
+  "data": {
+    "name": {
+      "common": "Cocos (Keeling) Islands",
+      "official": "Territory of the Cocos (Keeling) Islands"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "West Island",
+      "cck": "West Island"
+    },
+    "iso3": "CCK",
+    "tld": ".cc",
+    "timezones": [
+      "UTC+06:30"
+    ],
+    "area": 14,
+    "population": 593,
+    "flag": "🇨🇨",
+    "demonym": {
+      "en": "Cocos Islander"
+    },
+    "phone-code": "61",
+    "language-codes": [
+      "cck"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "AUD"
+    ]
+  }
 }

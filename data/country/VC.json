@@ -1,41 +1,48 @@
 {
-  "name": {
-    "common": "Saint Vincent and the Grenadines",
-    "official": "Saint Vincent and the Grenadines"
+  "meta": {
+    "division": "parish",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Kingstown",
-    "vct": "Kingstown"
-  },
-  "iso3": "VCT",
-  "tld": ".vc",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 389,
-  "population": 110872,
-  "flag": "🇻🇨",
-  "demonym": {
-    "en": "Saint Vincentian"
-  },
-  "gdp": {
-    "value": 1065962962.9629629,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-784",
-  "language-codes": [
-    "vct"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Saint Vincent and the Grenadines",
+      "official": "Saint Vincent and the Grenadines"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Kingstown",
+      "vct": "Kingstown"
+    },
+    "iso3": "VCT",
+    "tld": ".vc",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 389,
+    "population": 110872,
+    "flag": "🇻🇨",
+    "demonym": {
+      "en": "Saint Vincentian"
+    },
+    "gdp": {
+      "value": 1065962962.9629629,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-784",
+    "language-codes": [
+      "vct"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

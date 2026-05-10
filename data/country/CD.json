@@ -1,41 +1,47 @@
 {
-  "name": {
-    "common": "DR Congo",
-    "official": "Democratic Republic of the Congo",
-    "fr": "RD Congo"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Kinshasa",
-    "fr": "Kinshasa",
-    "zr": "Kinshasa"
-  },
-  "iso3": "COD",
-  "tld": ".cd",
-  "timezones": [
-    "UTC+01:00",
-    "UTC+02:00"
-  ],
-  "area": 2344858,
-  "population": 112832000,
-  "flag": "🇨🇩",
-  "demonym": {
-    "en": "Congolese",
-    "fr": "Congolais"
-  },
-  "gdp": {
-    "value": 66383287002.996895,
-    "year": 2023
-  },
-  "phone-code": "243",
-  "language-codes": [
-    "fr",
-    "zr"
-  ],
-  "region-codes": [
-    "CAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "CDF"
-  ]
+  "data": {
+    "name": {
+      "common": "DR Congo",
+      "official": "Democratic Republic of the Congo",
+      "fr": "RD Congo"
+    },
+    "capital": {
+      "en": "Kinshasa",
+      "fr": "Kinshasa",
+      "zr": "Kinshasa"
+    },
+    "iso3": "COD",
+    "tld": ".cd",
+    "timezones": [
+      "UTC+01:00",
+      "UTC+02:00"
+    ],
+    "area": 2344858,
+    "population": 112832000,
+    "flag": "🇨🇩",
+    "demonym": {
+      "en": "Congolese",
+      "fr": "Congolais"
+    },
+    "gdp": {
+      "value": 66383287002.996895,
+      "year": 2023
+    },
+    "phone-code": "243",
+    "language-codes": [
+      "fr",
+      "zr"
+    ],
+    "region-codes": [
+      "CAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "CDF"
+    ]
+  }
 }

@@ -1,40 +1,47 @@
 {
-  "name": {
-    "common": "Tonga",
-    "official": "Kingdom of Tonga"
+  "meta": {
+    "division": "division",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Nuku'alofa",
-    "to": "Nuku'alofa"
-  },
-  "iso3": "TON",
-  "tld": ".to",
-  "timezones": [
-    "UTC+13:00"
-  ],
-  "area": 747,
-  "population": 100179,
-  "flag": "🇹🇴",
-  "demonym": {
-    "en": "Tongan"
-  },
-  "gdp": {
-    "value": 500274898.08522147,
-    "year": 2022
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "676",
-  "language-codes": [
-    "to"
-  ],
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "TOP"
-  ]
+  "data": {
+    "name": {
+      "common": "Tonga",
+      "official": "Kingdom of Tonga"
+    },
+    "capital": {
+      "en": "Nuku'alofa",
+      "to": "Nuku'alofa"
+    },
+    "iso3": "TON",
+    "tld": ".to",
+    "timezones": [
+      "UTC+13:00"
+    ],
+    "area": 747,
+    "population": 100179,
+    "flag": "🇹🇴",
+    "demonym": {
+      "en": "Tongan"
+    },
+    "gdp": {
+      "value": 500274898.08522147,
+      "year": 2022
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "676",
+    "language-codes": [
+      "to"
+    ],
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "TOP"
+    ]
+  }
 }

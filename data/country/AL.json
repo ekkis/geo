@@ -1,53 +1,60 @@
 {
-  "name": {
-    "common": "Albania",
-    "official": "Republic of Albania"
+  "meta": {
+    "division": "county",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SEU"
-  ],
-  "capital": {
-    "en": "Tirana",
-    "alb": "Tirana"
-  },
-  "iso3": "ALB",
-  "tld": ".al",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 28748,
-  "population": 2363314,
-  "flag": "🇦🇱",
-  "demonym": {
-    "en": "Albanian"
-  },
-  "gdp": {
-    "value": 22977677860.797855,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "NATO",
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "355",
-  "neighbours": {
-    "NE": [
-      "MK",
-      "XK"
+  "data": {
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania"
+    },
+    "region-codes": [
+      "SEU"
     ],
-    "NW": [
-      "ME"
+    "capital": {
+      "en": "Tirana",
+      "alb": "Tirana"
+    },
+    "iso3": "ALB",
+    "tld": ".al",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "GR"
+    "area": 28748,
+    "population": 2363314,
+    "flag": "🇦🇱",
+    "demonym": {
+      "en": "Albanian"
+    },
+    "gdp": {
+      "value": 22977677860.797855,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "NATO",
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "355",
+    "neighbours": {
+      "NE": [
+        "MK",
+        "XK"
+      ],
+      "NW": [
+        "ME"
+      ],
+      "SE": [
+        "GR"
+      ]
+    },
+    "language-codes": [
+      "alb"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "ALL"
     ]
-  },
-  "language-codes": [
-    "alb"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "ALL"
-  ]
+  }
 }

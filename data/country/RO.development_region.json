@@ -1,0 +1,207 @@
+{
+  "Alba": {
+    "ALB": {
+      "name": "Alba"
+    }
+  },
+  "Arad": {
+    "ARA": {
+      "name": "Arad"
+    }
+  },
+  "Argeș": {
+    "ARG": {
+      "name": "Argeș"
+    }
+  },
+  "Bacău": {
+    "BAC": {
+      "name": "Bacău"
+    }
+  },
+  "Bihor": {
+    "BIH": {
+      "name": "Bihor"
+    }
+  },
+  "Bistrița-Năsăud": {
+    "BIS": {
+      "name": "Bistrița-Năsăud"
+    }
+  },
+  "Botoșani": {
+    "BOT": {
+      "name": "Botoșani"
+    }
+  },
+  "Brașov": {
+    "BRA": {
+      "name": "Brașov"
+    }
+  },
+  "Brăila": {
+    "BRA1": {
+      "name": "Brăila"
+    }
+  },
+  "Buzău": {
+    "BUZ": {
+      "name": "Buzău"
+    }
+  },
+  "Călărași": {
+    "CAL": {
+      "name": "Călărași"
+    }
+  },
+  "Caraș-Severin": {
+    "CAR": {
+      "name": "Caraș-Severin"
+    }
+  },
+  "Cluj": {
+    "CLU": {
+      "name": "Cluj"
+    }
+  },
+  "Constanța": {
+    "CON": {
+      "name": "Constanța"
+    }
+  },
+  "Covasna": {
+    "COV": {
+      "name": "Covasna"
+    }
+  },
+  "Dâmbovița": {
+    "DAM": {
+      "name": "Dâmbovița"
+    }
+  },
+  "Dolj": {
+    "DOL": {
+      "name": "Dolj"
+    }
+  },
+  "Galați": {
+    "GAL": {
+      "name": "Galați"
+    }
+  },
+  "Giurgiu": {
+    "GIU": {
+      "name": "Giurgiu"
+    }
+  },
+  "Gorj": {
+    "GOR": {
+      "name": "Gorj"
+    }
+  },
+  "Harghita": {
+    "HAR": {
+      "name": "Harghita"
+    }
+  },
+  "Hunedoara": {
+    "HUN": {
+      "name": "Hunedoara"
+    }
+  },
+  "Ialomița": {
+    "IAL": {
+      "name": "Ialomița"
+    }
+  },
+  "Iași": {
+    "IAS": {
+      "name": "Iași"
+    }
+  },
+  "Ilfov": {
+    "ILF": {
+      "name": "Ilfov"
+    }
+  },
+  "Maramureș": {
+    "MAR": {
+      "name": "Maramureș"
+    }
+  },
+  "Mehedinți": {
+    "MEH": {
+      "name": "Mehedinți"
+    }
+  },
+  "Mureș": {
+    "MUR": {
+      "name": "Mureș"
+    }
+  },
+  "Neamț": {
+    "NEA": {
+      "name": "Neamț"
+    }
+  },
+  "Olt": {
+    "OLT": {
+      "name": "Olt"
+    }
+  },
+  "Prahova": {
+    "PRA": {
+      "name": "Prahova"
+    }
+  },
+  "Sălaj": {
+    "SAL": {
+      "name": "Sălaj"
+    }
+  },
+  "Satu Mare": {
+    "SATMA": {
+      "name": "Satu Mare"
+    }
+  },
+  "Sibiu": {
+    "SIB": {
+      "name": "Sibiu"
+    }
+  },
+  "Suceava": {
+    "SUC": {
+      "name": "Suceava"
+    }
+  },
+  "Teleorman": {
+    "TEL": {
+      "name": "Teleorman"
+    }
+  },
+  "Timiș": {
+    "TIM": {
+      "name": "Timiș"
+    }
+  },
+  "Tulcea": {
+    "TUL": {
+      "name": "Tulcea"
+    }
+  },
+  "Vâlcea": {
+    "VAL": {
+      "name": "Vâlcea"
+    }
+  },
+  "Vaslui": {
+    "VAS": {
+      "name": "Vaslui"
+    }
+  },
+  "Vrancea": {
+    "VRA": {
+      "name": "Vrancea"
+    }
+  }
+}

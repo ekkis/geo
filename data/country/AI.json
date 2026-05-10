@@ -1,32 +1,38 @@
 {
-  "name": {
-    "common": "Anguilla",
-    "official": "Anguilla"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "The Valley",
-    "aia": "The Valley"
-  },
-  "iso3": "AIA",
-  "tld": ".ai",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 91,
-  "population": 16010,
-  "flag": "🇦🇮",
-  "demonym": {
-    "en": "Anguillian"
-  },
-  "phone-code": "+1-264",
-  "language-codes": [
-    "aia"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Anguilla",
+      "official": "Anguilla"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "The Valley",
+      "aia": "The Valley"
+    },
+    "iso3": "AIA",
+    "tld": ".ai",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 91,
+    "population": 16010,
+    "flag": "🇦🇮",
+    "demonym": {
+      "en": "Anguillian"
+    },
+    "phone-code": "+1-264",
+    "language-codes": [
+      "aia"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

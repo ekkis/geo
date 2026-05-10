@@ -1,32 +1,38 @@
 {
-  "name": {
-    "common": "Montserrat",
-    "official": "Montserrat"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Plymouth",
-    "msr": "Plymouth"
-  },
-  "iso3": "MSR",
-  "tld": ".ms",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 102,
-  "population": 4386,
-  "flag": "🇲🇸",
-  "demonym": {
-    "en": "Montserratian"
-  },
-  "phone-code": "+1-664",
-  "language-codes": [
-    "msr"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "XCD"
-  ]
+  "data": {
+    "name": {
+      "common": "Montserrat",
+      "official": "Montserrat"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Plymouth",
+      "msr": "Plymouth"
+    },
+    "iso3": "MSR",
+    "tld": ".ms",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 102,
+    "population": 4386,
+    "flag": "🇲🇸",
+    "demonym": {
+      "en": "Montserratian"
+    },
+    "phone-code": "+1-664",
+    "language-codes": [
+      "msr"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "XCD"
+    ]
+  }
 }

@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Libya",
-    "official": "State of Libya",
-    "ar": "ليبيا"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Tripolis",
-    "ar": "تريبوليس"
-  },
-  "iso3": "LBY",
-  "tld": ".ly",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 1759540,
-  "population": 7459000,
-  "flag": "🇱🇾",
-  "demonym": {
-    "en": "Libyan",
-    "ar": "ليبي"
-  },
-  "gdp": {
-    "value": 50491722445.7773,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "AU",
-    "UN"
-  ],
-  "phone-code": "218",
-  "neighbours": {
-    "NE": [
-      "EG"
+  "data": {
+    "name": {
+      "common": "Libya",
+      "official": "State of Libya",
+      "ar": "ليبيا"
+    },
+    "capital": {
+      "en": "Tripolis",
+      "ar": "تريبوليس"
+    },
+    "iso3": "LBY",
+    "tld": ".ly",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "NW": [
-      "DZ",
-      "TN"
+    "area": 1759540,
+    "population": 7459000,
+    "flag": "🇱🇾",
+    "demonym": {
+      "en": "Libyan",
+      "ar": "ليبي"
+    },
+    "gdp": {
+      "value": 50491722445.7773,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "AU",
+      "UN"
     ],
-    "SE": [
-      "TD",
-      "SD"
+    "phone-code": "218",
+    "neighbours": {
+      "NE": [
+        "EG"
+      ],
+      "NW": [
+        "DZ",
+        "TN"
+      ],
+      "SE": [
+        "TD",
+        "SD"
+      ],
+      "SW": [
+        "NE"
+      ]
+    },
+    "language-codes": [
+      "ar"
     ],
-    "SW": [
-      "NE"
+    "region-codes": [
+      "NAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "LYD"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "region-codes": [
-    "NAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "LYD"
-  ]
+  }
 }

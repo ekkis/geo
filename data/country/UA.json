@@ -1,61 +1,68 @@
 {
-  "name": {
-    "common": "Ukraine",
-    "official": "Ukraine",
-    "uk": "Україна"
+  "meta": {
+    "division": "oblast_autonomous_republic",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EEU"
-  ],
-  "capital": {
-    "en": "Kiev",
-    "uk": "Київ"
-  },
-  "iso3": "UKR",
-  "tld": ".ua",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 603550,
-  "population": 32862000,
-  "flag": "🇺🇦",
-  "demonym": {
-    "en": "Ukrainian",
-    "uk": "українська"
-  },
-  "gdp": {
-    "value": 178757021386.80896,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "380",
-  "neighbours": {
-    "NE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "uk": "Україна"
+    },
+    "region-codes": [
+      "EEU"
     ],
-    "NW": [
-      "BY",
-      "PL"
+    "capital": {
+      "en": "Kiev",
+      "uk": "Київ"
+    },
+    "iso3": "UKR",
+    "tld": ".ua",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "HU",
-      "MD",
-      "RO",
-      "SK"
+    "area": 603550,
+    "population": 32862000,
+    "flag": "🇺🇦",
+    "demonym": {
+      "en": "Ukrainian",
+      "uk": "українська"
+    },
+    "gdp": {
+      "value": 178757021386.80896,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "380",
+    "neighbours": {
+      "NE": [
+        "RU"
+      ],
+      "NW": [
+        "BY",
+        "PL"
+      ],
+      "SW": [
+        "HU",
+        "MD",
+        "RO",
+        "SK"
+      ]
+    },
+    "language-codes": [
+      "uk"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "UAH"
     ]
-  },
-  "language-codes": [
-    "uk"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "UAH"
-  ]
+  }
 }

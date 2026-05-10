@@ -1,0 +1,177 @@
+{
+  "Anenii Noi": {
+    "ANENI": {
+      "name": "Anenii Noi"
+    }
+  },
+  "Bălți": {
+    "BALT": {
+      "name": "Bălți"
+    }
+  },
+  "Basarabeasca": {
+    "BASAR": {
+      "name": "Basarabeasca"
+    }
+  },
+  "Bender": {
+    "BENDER": {
+      "name": "Bender"
+    }
+  },
+  "Briceni": {
+    "BRICE": {
+      "name": "Briceni"
+    }
+  },
+  "Cahul": {
+    "CAHUL": {
+      "name": "Cahul"
+    }
+  },
+  "Călărași": {
+    "CALAR": {
+      "name": "Călărași"
+    }
+  },
+  "Cantemir": {
+    "CANTEM": {
+      "name": "Cantemir"
+    }
+  },
+  "Căușeni": {
+    "CAUSEN": {
+      "name": "Căușeni"
+    }
+  },
+  "Chișinău": {
+    "CHISIN": {
+      "name": "Chișinău"
+    }
+  },
+  "Cimișlia": {
+    "CIMIS": {
+      "name": "Cimișlia"
+    }
+  },
+  "Criuleni": {
+    "CRIUL": {
+      "name": "Criuleni"
+    }
+  },
+  "Dondușeni": {
+    "DONDU": {
+      "name": "Dondușeni"
+    }
+  },
+  "Drochia": {
+    "DROCH": {
+      "name": "Drochia"
+    }
+  },
+  "Dubăsari": {
+    "DUBAS": {
+      "name": "Dubăsari"
+    }
+  },
+  "Edineț": {
+    "EDINE": {
+      "name": "Edineț"
+    }
+  },
+  "Fălești": {
+    "FALEST": {
+      "name": "Fălești"
+    }
+  },
+  "Florești": {
+    "FLORE": {
+      "name": "Florești"
+    }
+  },
+  "Gagauzia": {
+    "GAGAU": {
+      "name": "Gagauzia"
+    }
+  },
+  "Glodeni": {
+    "GLoden": {
+      "name": "Glodeni"
+    }
+  },
+  "Hîncești": {
+    "HINC": {
+      "name": "Hîncești"
+    }
+  },
+  "Ialoveni": {
+    "IALOV": {
+      "name": "Ialoveni"
+    }
+  },
+  "Leova": {
+    "LEOVA": {
+      "name": "Leova"
+    }
+  },
+  "Nisporeni": {
+    "NISPO": {
+      "name": "Nisporeni"
+    }
+  },
+  "Ocnița": {
+    "OCNIT": {
+      "name": "Ocnița"
+    }
+  },
+  "Orhei": {
+    "ORHEI": {
+      "name": "Orhei"
+    }
+  },
+  "Rezina": {
+    "REZIN": {
+      "name": "Rezina"
+    }
+  },
+  "Rîșcani": {
+    "RISC": {
+      "name": "Rîșcani"
+    }
+  },
+  "Sîngerei": {
+    "SING": {
+      "name": "Sîngerei"
+    }
+  },
+  "Soroca": {
+    "SOROC": {
+      "name": "Soroca"
+    }
+  },
+  "Stîrcea": {
+    "STIR": {
+      "name": "Stîrcea"
+    }
+  },
+  "Strășeni": {
+    "STRAS": {
+      "name": "Strășeni"
+    }
+  },
+  "Telenești": {
+    "TELEN": {
+      "name": "Telenești"
+    }
+  },
+  "Transnistria": {
+    "TRANS": {
+      "name": "Transnistria"
+    }
+  },
+  "Ungheni": {
+    "UNGHE": {
+      "name": "Ungheni"
+    }
+  }
+}

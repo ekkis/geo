@@ -1,29 +1,35 @@
 {
-  "name": {
-    "common": "Caribbean Netherlands",
-    "official": "Bonaire, Sint Eustatius and Saba"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": "",
-  "iso3": "BES",
-  "language_code": [
-    "bes"
-  ],
-  "tld": ".bq",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 328,
-  "population": 31980,
-  "flag": "🇧🇶",
-  "demonym": {
-    "en": "Dutch"
-  },
-  "phone-code": "599",
-  "continent-code": "NA",
-  "currency-codes": [
-    "USD"
-  ]
+  "data": {
+    "name": {
+      "common": "Caribbean Netherlands",
+      "official": "Bonaire, Sint Eustatius and Saba"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": "",
+    "iso3": "BES",
+    "language_code": [
+      "bes"
+    ],
+    "tld": ".bq",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 328,
+    "population": 31980,
+    "flag": "🇧🇶",
+    "demonym": {
+      "en": "Dutch"
+    },
+    "phone-code": "599",
+    "continent-code": "NA",
+    "currency-codes": [
+      "USD"
+    ]
+  }
 }

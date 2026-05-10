@@ -1,0 +1,36 @@
+{
+  "Flanders": {
+    "ANT": {
+      "name": "Antwerpen"
+    },
+    "LIM": {
+      "name": "Limburg"
+    },
+    "OOS": {
+      "name": "Oost-Vlaanderen"
+    },
+    "VLA": {
+      "name": "Vlaams-Brabant"
+    },
+    "WES": {
+      "name": "West-Vlaanderen"
+    }
+  },
+  "Wallonia": {
+    "HEN": {
+      "name": "Henegouwen"
+    },
+    "LUI": {
+      "name": "Luik"
+    },
+    "LUX": {
+      "name": "Luxemburg"
+    },
+    "NAM": {
+      "name": "Namen"
+    },
+    "WAA": {
+      "name": "Waals-Brabant"
+    }
+  }
+}

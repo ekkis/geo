@@ -1,37 +1,43 @@
 {
-  "name": {
-    "common": "Gibraltar",
-    "official": "Gibraltar"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Gibraltar",
-    "gib": "Gibraltar"
-  },
-  "iso3": "GIB",
-  "tld": ".gi",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 6,
-  "population": 38000,
-  "flag": "🇬🇮",
-  "demonym": {
-    "en": "Gibraltar"
-  },
-  "phone-code": "350",
-  "neighbours": {
-    "NE": [
-      "ES"
+  "data": {
+    "name": {
+      "common": "Gibraltar",
+      "official": "Gibraltar"
+    },
+    "region-codes": [
+      "CEU"
+    ],
+    "capital": {
+      "en": "Gibraltar",
+      "gib": "Gibraltar"
+    },
+    "iso3": "GIB",
+    "tld": ".gi",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 6,
+    "population": 38000,
+    "flag": "🇬🇮",
+    "demonym": {
+      "en": "Gibraltar"
+    },
+    "phone-code": "350",
+    "neighbours": {
+      "NE": [
+        "ES"
+      ]
+    },
+    "language-codes": [
+      "gib"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "GIP"
     ]
-  },
-  "language-codes": [
-    "gib"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "GIP"
-  ]
+  }
 }

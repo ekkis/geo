@@ -1,60 +1,67 @@
 {
-  "name": {
-    "common": "Kyrgyzstan",
-    "official": "Kyrgyz Republic",
-    "ky": "Кыргызстан"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAS"
-  ],
-  "capital": {
-    "en": "Bishkek",
-    "ky": "Бишкек"
-  },
-  "iso3": "KGZ",
-  "tld": ".kg",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "area": 199951,
-  "population": 7281800,
-  "flag": "🇰🇬",
-  "demonym": {
-    "en": "Kirghiz",
-    "ky": "Киргиз"
-  },
-  "gdp": {
-    "value": 13987627908.838139,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "996",
-  "neighbours": {
-    "NW": [
-      "KZ"
+  "data": {
+    "name": {
+      "common": "Kyrgyzstan",
+      "official": "Kyrgyz Republic",
+      "ky": "Кыргызстан"
+    },
+    "region-codes": [
+      "CAS"
     ],
-    "SE": [
-      "CN"
+    "capital": {
+      "en": "Bishkek",
+      "ky": "Бишкек"
+    },
+    "iso3": "KGZ",
+    "tld": ".kg",
+    "timezones": [
+      "UTC+06:00"
     ],
-    "SW": [
-      "TJ"
+    "area": 199951,
+    "population": 7281800,
+    "flag": "🇰🇬",
+    "demonym": {
+      "en": "Kirghiz",
+      "ky": "Киргиз"
+    },
+    "gdp": {
+      "value": 13987627908.838139,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
     ],
-    "W": [
-      "UZ"
+    "phone-code": "996",
+    "neighbours": {
+      "NW": [
+        "KZ"
+      ],
+      "SE": [
+        "CN"
+      ],
+      "SW": [
+        "TJ"
+      ],
+      "W": [
+        "UZ"
+      ]
+    },
+    "language-codes": [
+      "ky"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "KGS"
     ]
-  },
-  "language-codes": [
-    "ky"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "KGS"
-  ]
+  }
 }

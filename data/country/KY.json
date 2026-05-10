@@ -1,38 +1,44 @@
 {
-  "name": {
-    "common": "Cayman Islands",
-    "official": "Cayman Islands",
-    "cy": "Ynysoedd y Cayman"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "George Town",
-    "cy": "George Town"
-  },
-  "iso3": "CYM",
-  "tld": ".ky",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 264,
-  "population": 84738,
-  "flag": "🇰🇾",
-  "demonym": {
-    "en": "Caymanian",
-    "cy": "Caymanaidd"
-  },
-  "gdp": {
-    "value": 6600844001.537206,
-    "year": 2022
-  },
-  "phone-code": "+1-345",
-  "language-codes": [
-    "cy"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "KYD"
-  ]
+  "data": {
+    "name": {
+      "common": "Cayman Islands",
+      "official": "Cayman Islands",
+      "cy": "Ynysoedd y Cayman"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "George Town",
+      "cy": "George Town"
+    },
+    "iso3": "CYM",
+    "tld": ".ky",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 264,
+    "population": 84738,
+    "flag": "🇰🇾",
+    "demonym": {
+      "en": "Caymanian",
+      "cy": "Caymanaidd"
+    },
+    "gdp": {
+      "value": 6600844001.537206,
+      "year": 2022
+    },
+    "phone-code": "+1-345",
+    "language-codes": [
+      "cy"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "KYD"
+    ]
+  }
 }

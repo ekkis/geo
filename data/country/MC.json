@@ -1,48 +1,55 @@
 {
-  "name": {
-    "common": "Monaco",
-    "official": "Principality of Monaco"
+  "meta": {
+    "division": "ward",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Monaco",
-    "mco": "Monaco"
-  },
-  "iso3": "MCO",
-  "tld": ".mc",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 2.02,
-  "population": 38423,
-  "flag": "🇲🇨",
-  "demonym": {
-    "en": "Monegasque"
-  },
-  "gdp": {
-    "value": 8784002931.686646,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "377",
-  "neighbours": {
-    "NW": [
-      "FR"
+  "data": {
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco"
+    },
+    "region-codes": [
+      "CEU"
+    ],
+    "capital": {
+      "en": "Monaco",
+      "mco": "Monaco"
+    },
+    "iso3": "MCO",
+    "tld": ".mc",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 2.02,
+    "population": 38423,
+    "flag": "🇲🇨",
+    "demonym": {
+      "en": "Monegasque"
+    },
+    "gdp": {
+      "value": 8784002931.686646,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "377",
+    "neighbours": {
+      "NW": [
+        "FR"
+      ]
+    },
+    "language-codes": [
+      "mco"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "mco"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

@@ -1,44 +1,51 @@
 {
-  "name": {
-    "common": "Sri Lanka",
-    "official": "Democratic Socialist Republic of Sri Lanka"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Colombo",
-    "lka": "Colombo"
-  },
-  "iso3": "LKA",
-  "tld": ".lk",
-  "timezones": [
-    "UTC+05:30"
-  ],
-  "area": 65610,
-  "population": 21763170,
-  "flag": "🇱🇰",
-  "demonym": {
-    "en": "Sri Lankan"
-  },
-  "gdp": {
-    "value": 84356860421.12996,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "94",
-  "language-codes": [
-    "lka"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "LKR"
-  ]
+  "data": {
+    "name": {
+      "common": "Sri Lanka",
+      "official": "Democratic Socialist Republic of Sri Lanka"
+    },
+    "region-codes": [
+      "SAS"
+    ],
+    "capital": {
+      "en": "Colombo",
+      "lka": "Colombo"
+    },
+    "iso3": "LKA",
+    "tld": ".lk",
+    "timezones": [
+      "UTC+05:30"
+    ],
+    "area": 65610,
+    "population": 21763170,
+    "flag": "🇱🇰",
+    "demonym": {
+      "en": "Sri Lankan"
+    },
+    "gdp": {
+      "value": 84356860421.12996,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "94",
+    "language-codes": [
+      "lka"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "LKR"
+    ]
+  }
 }

@@ -1,56 +1,63 @@
 {
-  "name": {
-    "common": "Portugal",
-    "official": "Portuguese Republic",
-    "pt": "Portugal"
+  "meta": {
+    "division": "district_autonomous_region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Lisbon",
-    "pt": "Lisboa"
-  },
-  "iso3": "PRT",
-  "tld": ".pt",
-  "timezones": [
-    "UTC-01:00",
-    "UTC"
-  ],
-  "area": 92090,
-  "population": 10749635,
-  "flag": "🇵🇹",
-  "demonym": {
-    "en": "Portuguese",
-    "pt": "Português"
-  },
-  "gdp": {
-    "value": 287080013574.4972,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####-###",
-    "regex": "^(\\d{7})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "351",
-  "neighbours": {
-    "NE": [
-      "ES"
+  "data": {
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic",
+      "pt": "Portugal"
+    },
+    "region-codes": [
+      "CEU"
+    ],
+    "capital": {
+      "en": "Lisbon",
+      "pt": "Lisboa"
+    },
+    "iso3": "PRT",
+    "tld": ".pt",
+    "timezones": [
+      "UTC-01:00",
+      "UTC"
+    ],
+    "area": 92090,
+    "population": 10749635,
+    "flag": "🇵🇹",
+    "demonym": {
+      "en": "Portuguese",
+      "pt": "Português"
+    },
+    "gdp": {
+      "value": 287080013574.4972,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####-###",
+      "regex": "^(\\d{7})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "351",
+    "neighbours": {
+      "NE": [
+        "ES"
+      ]
+    },
+    "language-codes": [
+      "pt"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "pt"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

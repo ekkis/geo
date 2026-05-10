@@ -1,12 +1,7 @@
 {
-  "meta": {
-    "divisions": []
-  },
-  "data": {
-    "Gibraltar": {
-      "GIBRALT": {
-        "name": "Gibraltar"
-      }
+  "Gibraltar": {
+    "GIBRALT": {
+      "name": "Gibraltar"
     }
   }
 }

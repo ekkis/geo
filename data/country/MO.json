@@ -1,41 +1,47 @@
 {
-  "name": {
-    "common": "Macau",
-    "official": "Macao Special Administrative Region of the People's Republic of China"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Macao",
-    "zh": "Macao"
-  },
-  "iso3": "MAC",
-  "tld": ".mo",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 30,
-  "population": 685900,
-  "flag": "🇲🇴",
-  "demonym": {
-    "en": "Macanese"
-  },
-  "gdp": {
-    "value": 47061843715.85648,
-    "year": 2023
-  },
-  "phone-code": "853",
-  "neighbours": {
-    "NW": [
-      "CN"
+  "data": {
+    "name": {
+      "common": "Macau",
+      "official": "Macao Special Administrative Region of the People's Republic of China"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "Macao",
+      "zh": "Macao"
+    },
+    "iso3": "MAC",
+    "tld": ".mo",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 30,
+    "population": 685900,
+    "flag": "🇲🇴",
+    "demonym": {
+      "en": "Macanese"
+    },
+    "gdp": {
+      "value": 47061843715.85648,
+      "year": 2023
+    },
+    "phone-code": "853",
+    "neighbours": {
+      "NW": [
+        "CN"
+      ]
+    },
+    "language-codes": [
+      "zh"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "MOP"
     ]
-  },
-  "language-codes": [
-    "zh"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "MOP"
-  ]
+  }
 }

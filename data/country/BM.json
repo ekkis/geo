@@ -1,40 +1,46 @@
 {
-  "name": {
-    "common": "Bermuda",
-    "official": "Bermuda"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Hamilton",
-    "bmu": "Hamilton"
-  },
-  "iso3": "BMU",
-  "tld": ".bm",
-  "timezones": [
-    "UTC-04:00"
-  ],
-  "area": 54,
-  "population": 64055,
-  "flag": "🇧🇲",
-  "demonym": {
-    "en": "Bermudian"
-  },
-  "gdp": {
-    "value": 7827980000,
-    "year": 2022
-  },
-  "postal-code": {
-    "format": "@@ ##",
-    "regex": "^([A-Z]{2}\\d{2})$"
-  },
-  "phone-code": "+1-441",
-  "language-codes": [
-    "bmu"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "BMD"
-  ]
+  "data": {
+    "name": {
+      "common": "Bermuda",
+      "official": "Bermuda"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Hamilton",
+      "bmu": "Hamilton"
+    },
+    "iso3": "BMU",
+    "tld": ".bm",
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "area": 54,
+    "population": 64055,
+    "flag": "🇧🇲",
+    "demonym": {
+      "en": "Bermudian"
+    },
+    "gdp": {
+      "value": 7827980000,
+      "year": 2022
+    },
+    "postal-code": {
+      "format": "@@ ##",
+      "regex": "^([A-Z]{2}\\d{2})$"
+    },
+    "phone-code": "+1-441",
+    "language-codes": [
+      "bmu"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "BMD"
+    ]
+  }
 }

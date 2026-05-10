@@ -1,0 +1,35 @@
+{
+  "Ostösterreich": {
+    "BUR": {
+      "name": "Burgenland"
+    },
+    "NIE": {
+      "name": "Niederösterreich"
+    },
+    "WIE": {
+      "name": "Wien"
+    }
+  },
+  "Südösterreich": {
+    "KÄR": {
+      "name": "Kärnten"
+    },
+    "STE": {
+      "name": "Steiermark"
+    }
+  },
+  "Westösterreich": {
+    "OBE": {
+      "name": "Oberösterreich"
+    },
+    "SAL": {
+      "name": "Salzburg"
+    },
+    "TIR": {
+      "name": "Tirol"
+    },
+    "VOR": {
+      "name": "Vorarlberg"
+    }
+  }
+}

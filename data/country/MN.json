@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Mongolia",
-    "official": "Mongolia",
-    "mn": "Монгол"
+  "meta": {
+    "division": "aimag_sum",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAS"
-  ],
-  "capital": {
-    "en": "Ulan Bator",
-    "mn": "Улаанбаатар"
-  },
-  "iso3": "MNG",
-  "tld": ".mn",
-  "timezones": [
-    "UTC+07:00",
-    "UTC+08:00"
-  ],
-  "area": 1564110,
-  "population": 3544835,
-  "flag": "🇲🇳",
-  "demonym": {
-    "en": "Mongolian",
-    "mn": "Монгол"
-  },
-  "gdp": {
-    "value": 19872180369.6275,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "976",
-  "neighbours": {
-    "NW": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Mongolia",
+      "official": "Mongolia",
+      "mn": "Монгол"
+    },
+    "region-codes": [
+      "CAS"
     ],
-    "S": [
-      "CN"
+    "capital": {
+      "en": "Ulan Bator",
+      "mn": "Улаанбаатар"
+    },
+    "iso3": "MNG",
+    "tld": ".mn",
+    "timezones": [
+      "UTC+07:00",
+      "UTC+08:00"
+    ],
+    "area": 1564110,
+    "population": 3544835,
+    "flag": "🇲🇳",
+    "demonym": {
+      "en": "Mongolian",
+      "mn": "Монгол"
+    },
+    "gdp": {
+      "value": 19872180369.6275,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "976",
+    "neighbours": {
+      "NW": [
+        "RU"
+      ],
+      "S": [
+        "CN"
+      ]
+    },
+    "language-codes": [
+      "mn"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "MNT"
     ]
-  },
-  "language-codes": [
-    "mn"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "MNT"
-  ]
+  }
 }

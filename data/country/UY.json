@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Uruguay",
-    "official": "Oriental Republic of Uruguay",
-    "es": "Uruguay"
+  "meta": {
+    "division": "department",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Montevideo",
-    "es": "montevideo"
-  },
-  "iso3": "URY",
-  "tld": ".uy",
-  "timezones": [
-    "UTC-03:00"
-  ],
-  "area": 181034,
-  "population": 3499451,
-  "flag": "🇺🇾",
-  "demonym": {
-    "en": "Uruguayan",
-    "es": "Uruguayan"
-  },
-  "gdp": {
-    "value": 77240831587.16696,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "598",
-  "neighbours": {
-    "NE": [
-      "BR"
+  "data": {
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay",
+      "es": "Uruguay"
+    },
+    "capital": {
+      "en": "Montevideo",
+      "es": "montevideo"
+    },
+    "iso3": "URY",
+    "tld": ".uy",
+    "timezones": [
+      "UTC-03:00"
     ],
-    "SW": [
-      "AR"
+    "area": 181034,
+    "population": 3499451,
+    "flag": "🇺🇾",
+    "demonym": {
+      "en": "Uruguayan",
+      "es": "Uruguayan"
+    },
+    "gdp": {
+      "value": 77240831587.16696,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "598",
+    "neighbours": {
+      "NE": [
+        "BR"
+      ],
+      "SW": [
+        "AR"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "UYU"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "UYU"
-  ]
+  }
 }

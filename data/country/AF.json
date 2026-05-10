@@ -1,65 +1,72 @@
 {
-  "name": {
-    "common": "Afghanistan",
-    "official": "Islamic Republic of Afghanistan",
-    "ps": "افغانستان"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Kabul",
-    "ps": "کابل"
-  },
-  "iso3": "AFG",
-  "tld": ".af",
-  "timezones": [
-    "UTC+04:30"
-  ],
-  "area": 652230,
-  "population": 43844000,
-  "flag": "🇦🇫",
-  "demonym": {
-    "en": "Afghan",
-    "ps": "افغان"
-  },
-  "gdp": {
-    "value": 14502158192.090395,
-    "year": 2022
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "93",
-  "neighbours": {
-    "NE": [
-      "CN",
-      "TJ"
+  "data": {
+    "name": {
+      "common": "Afghanistan",
+      "official": "Islamic Republic of Afghanistan",
+      "ps": "افغانستان"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "NW": [
-      "TM",
-      "UZ"
+    "capital": {
+      "en": "Kabul",
+      "ps": "کابل"
+    },
+    "iso3": "AFG",
+    "tld": ".af",
+    "timezones": [
+      "UTC+04:30"
     ],
-    "SE": [
-      "PK"
+    "area": 652230,
+    "population": 43844000,
+    "flag": "🇦🇫",
+    "demonym": {
+      "en": "Afghan",
+      "ps": "افغان"
+    },
+    "gdp": {
+      "value": 14502158192.090395,
+      "year": 2022
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
     ],
-    "SW": [
-      "IR"
+    "phone-code": "93",
+    "neighbours": {
+      "NE": [
+        "CN",
+        "TJ"
+      ],
+      "NW": [
+        "TM",
+        "UZ"
+      ],
+      "SE": [
+        "PK"
+      ],
+      "SW": [
+        "IR"
+      ],
+      "E": [
+        "CN",
+        "TJ"
+      ],
+      "W": [
+        "IR"
+      ]
+    },
+    "language-codes": [
+      "ps"
     ],
-    "E": [
-      "CN",
-      "TJ"
-    ],
-    "W": [
-      "IR"
+    "continent-code": "AS",
+    "currency-codes": [
+      "AFN"
     ]
-  },
-  "language-codes": [
-    "ps"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "AFN"
-  ]
+  }
 }

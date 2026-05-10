@@ -1,0 +1,101 @@
+{
+  "Bjelovar-Bilogora": {
+    "BJE": {
+      "name": "Bjelovar-Bilogora"
+    }
+  },
+  " Brod-Posavina": {
+    "BRO": {
+      "name": " Brod-Posavina"
+    }
+  },
+  "Dubrovnik-Neretva": {
+    "DUB": {
+      "name": "Dubrovnik-Neretva"
+    },
+    "DUB1": {
+      "name": "Dubrovnik-Neretva"
+    }
+  },
+  "Istria": {
+    "IST": {
+      "name": "Istria"
+    }
+  },
+  "Koprivnica-Križevci": {
+    "KOP": {
+      "name": "Koprivnica-Križevci"
+    }
+  },
+  "Krapina-Zagorje": {
+    "KRA": {
+      "name": "Krapina-Zagorje"
+    }
+  },
+  "Lika-Senj": {
+    "LIK": {
+      "name": "Lika-Senj"
+    }
+  },
+  "Međimurje": {
+    "MEI": {
+      "name": "Međimurje"
+    }
+  },
+  "Osijek-Baranja": {
+    "OSI": {
+      "name": "Osijek-Baranja"
+    }
+  },
+  "Požega-Slavonia": {
+    "POZ": {
+      "name": "Požega-Slavonia"
+    },
+    "POZ1": {
+      "name": "Požega-Slavonia"
+    }
+  },
+  "Primorje-Gorski Kotar": {
+    "PRIKO": {
+      "name": "Primorje-Gorski Kotar"
+    }
+  },
+  "Šibenik-Knin": {
+    "SIB": {
+      "name": "Šibenik-Knin"
+    }
+  },
+  "Sisak-Moslavina": {
+    "SIS": {
+      "name": "Sisak-Moslavina"
+    }
+  },
+  "Split-Dalmatia": {
+    "SPL": {
+      "name": "Split-Dalmatia"
+    }
+  },
+  "Virovitica-Podravina": {
+    "VIR": {
+      "name": "Virovitica-Podravina"
+    },
+    "VIR1": {
+      "name": "Virovitica-Podravina"
+    }
+  },
+  "Vukovar-Srijem": {
+    "VUK": {
+      "name": "Vukovar-Srijem"
+    }
+  },
+  "Zadar": {
+    "ZAD": {
+      "name": "Zadar"
+    }
+  },
+  "Zagreb": {
+    "ZAG": {
+      "name": "Zagreb"
+    }
+  }
+}

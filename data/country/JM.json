@@ -1,41 +1,48 @@
 {
-  "name": {
-    "common": "Jamaica",
-    "official": "Jamaica"
+  "meta": {
+    "division": "parish",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Kingston",
-    "jam": "Kingston"
-  },
-  "iso3": "JAM",
-  "tld": ".jm",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 10991,
-  "population": 2825544,
-  "flag": "🇯🇲",
-  "demonym": {
-    "en": "Jamaican"
-  },
-  "gdp": {
-    "value": 19423355367.23718,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "+1-876",
-  "language-codes": [
-    "jam"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "JMD"
-  ]
+  "data": {
+    "name": {
+      "common": "Jamaica",
+      "official": "Jamaica"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Kingston",
+      "jam": "Kingston"
+    },
+    "iso3": "JAM",
+    "tld": ".jm",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 10991,
+    "population": 2825544,
+    "flag": "🇯🇲",
+    "demonym": {
+      "en": "Jamaican"
+    },
+    "gdp": {
+      "value": 19423355367.23718,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "+1-876",
+    "language-codes": [
+      "jam"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "JMD"
+    ]
+  }
 }

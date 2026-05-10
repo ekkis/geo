@@ -1,63 +1,70 @@
 {
-  "name": {
-    "common": "Slovakia",
-    "official": "Slovak Republic"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CEU"
-  ],
-  "capital": {
-    "en": "Bratislava",
-    "svk": "Bratislava"
-  },
-  "iso3": "SVK",
-  "tld": ".sk",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 49037,
-  "population": 5413813,
-  "flag": "🇸🇰",
-  "demonym": {
-    "en": "Slovak"
-  },
-  "gdp": {
-    "value": 132793622283.07097,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###  ##",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "421",
-  "neighbours": {
-    "NE": [
-      "PL",
-      "UA"
+  "data": {
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic"
+    },
+    "region-codes": [
+      "CEU"
     ],
-    "NW": [
-      "CZ"
+    "capital": {
+      "en": "Bratislava",
+      "svk": "Bratislava"
+    },
+    "iso3": "SVK",
+    "tld": ".sk",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SE": [
-      "HU"
+    "area": 49037,
+    "population": 5413813,
+    "flag": "🇸🇰",
+    "demonym": {
+      "en": "Slovak"
+    },
+    "gdp": {
+      "value": 132793622283.07097,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###  ##",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
     ],
-    "SW": [
-      "AT"
+    "phone-code": "421",
+    "neighbours": {
+      "NE": [
+        "PL",
+        "UA"
+      ],
+      "NW": [
+        "CZ"
+      ],
+      "SE": [
+        "HU"
+      ],
+      "SW": [
+        "AT"
+      ]
+    },
+    "language-codes": [
+      "svk"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "svk"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

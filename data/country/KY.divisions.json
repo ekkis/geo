@@ -1,25 +1,20 @@
 {
-  "meta": {
-    "divisions": []
+  "CR": {
+    "name": "Cayman Brac"
   },
-  "data": {
-    "CR": {
-      "name": "Cayman Brac"
-    },
-    "EI": {
-      "name": "East End"
-    },
-    "SC": {
-      "name": "South Town"
-    },
-    "SP": {
-      "name": "Spot Bay"
-    },
-    "WD": {
-      "name": "West Bay"
-    },
-    "WI": {
-      "name": "Western"
-    }
+  "EI": {
+    "name": "East End"
+  },
+  "SC": {
+    "name": "South Town"
+  },
+  "SP": {
+    "name": "Spot Bay"
+  },
+  "WD": {
+    "name": "West Bay"
+  },
+  "WI": {
+    "name": "Western"
   }
 }

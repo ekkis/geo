@@ -1,56 +1,63 @@
 {
-  "name": {
-    "common": "Ecuador",
-    "official": "Republic of Ecuador",
-    "es": "Ecuador"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Quito",
-    "es": "Quito"
-  },
-  "iso3": "ECU",
-  "tld": ".ec",
-  "timezones": [
-    "UTC-06:00",
-    "UTC-05:00"
-  ],
-  "area": 276841,
-  "population": 18103660,
-  "flag": "🇪🇨",
-  "demonym": {
-    "en": "Ecuadorean",
-    "es": "Ecuadorean"
-  },
-  "gdp": {
-    "value": 118844826000,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "@####@",
-    "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "593",
-  "neighbours": {
-    "NE": [
-      "CO"
+  "data": {
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "es": "Ecuador"
+    },
+    "capital": {
+      "en": "Quito",
+      "es": "Quito"
+    },
+    "iso3": "ECU",
+    "tld": ".ec",
+    "timezones": [
+      "UTC-06:00",
+      "UTC-05:00"
     ],
-    "SE": [
-      "PE"
+    "area": 276841,
+    "population": 18103660,
+    "flag": "🇪🇨",
+    "demonym": {
+      "en": "Ecuadorean",
+      "es": "Ecuadorean"
+    },
+    "gdp": {
+      "value": 118844826000,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "@####@",
+      "regex": "^([a-zA-Z]\\d{4}[a-zA-Z])$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "593",
+    "neighbours": {
+      "NE": [
+        "CO"
+      ],
+      "SE": [
+        "PE"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "USD"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "USD"
-  ]
+  }
 }

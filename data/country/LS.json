@@ -1,50 +1,57 @@
 {
-  "name": {
-    "common": "Lesotho",
-    "official": "Kingdom of Lesotho"
+  "meta": {
+    "division": "district",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Maseru",
-    "lso": "Maseru"
-  },
-  "iso3": "LSO",
-  "tld": ".ls",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 30355,
-  "population": 2116427,
-  "flag": "🇱🇸",
-  "demonym": {
-    "en": "Mosotho"
-  },
-  "gdp": {
-    "value": 2046039024.4585402,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###",
-    "regex": "^(\\d{3})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "266",
-  "neighbours": {
-    "NW": [
-      "ZA"
+  "data": {
+    "name": {
+      "common": "Lesotho",
+      "official": "Kingdom of Lesotho"
+    },
+    "capital": {
+      "en": "Maseru",
+      "lso": "Maseru"
+    },
+    "iso3": "LSO",
+    "tld": ".ls",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 30355,
+    "population": 2116427,
+    "flag": "🇱🇸",
+    "demonym": {
+      "en": "Mosotho"
+    },
+    "gdp": {
+      "value": 2046039024.4585402,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "266",
+    "neighbours": {
+      "NW": [
+        "ZA"
+      ]
+    },
+    "language-codes": [
+      "lso"
+    ],
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "LSL"
     ]
-  },
-  "language-codes": [
-    "lso"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "LSL"
-  ]
+  }
 }

@@ -1,59 +1,66 @@
 {
-  "name": {
-    "common": "Finland",
-    "official": "Republic of Finland",
-    "fi": "Suomi"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Helsinki",
-    "fi": "Helsinki"
-  },
-  "iso3": "FIN",
-  "tld": ".fi",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 338455,
-  "population": 5650325,
-  "flag": "🇫🇮",
-  "demonym": {
-    "en": "Finnish",
-    "fi": "suomalainen"
-  },
-  "gdp": {
-    "value": 300187202696.08374,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(?:FI)*(\\d{5})$"
-  },
-  "organisation-codes": [
-    "NATO",
-    "OECD",
-    "BIS",
-    "WTO",
-    "EU",
-    "UN"
-  ],
-  "phone-code": "358",
-  "neighbours": {
-    "SE": [
-      "RU"
+  "data": {
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "fi": "Suomi"
+    },
+    "region-codes": [
+      "NOR"
     ],
-    "SW": [
-      "SE",
-      "NO"
+    "capital": {
+      "en": "Helsinki",
+      "fi": "Helsinki"
+    },
+    "iso3": "FIN",
+    "tld": ".fi",
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "area": 338455,
+    "population": 5650325,
+    "flag": "🇫🇮",
+    "demonym": {
+      "en": "Finnish",
+      "fi": "suomalainen"
+    },
+    "gdp": {
+      "value": 300187202696.08374,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(?:FI)*(\\d{5})$"
+    },
+    "organisation-codes": [
+      "NATO",
+      "OECD",
+      "BIS",
+      "WTO",
+      "EU",
+      "UN"
+    ],
+    "phone-code": "358",
+    "neighbours": {
+      "SE": [
+        "RU"
+      ],
+      "SW": [
+        "SE",
+        "NO"
+      ]
+    },
+    "language-codes": [
+      "fi"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "EUR"
     ]
-  },
-  "language-codes": [
-    "fi"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "EUR"
-  ]
+  }
 }

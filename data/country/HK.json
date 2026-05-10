@@ -1,44 +1,50 @@
 {
-  "name": {
-    "common": "Hong Kong",
-    "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "EAS"
-  ],
-  "capital": {
-    "en": "Hong Kong",
-    "zh": "Hong Kong"
-  },
-  "iso3": "HKG",
-  "tld": ".hk",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "area": 1104,
-  "population": 7527500,
-  "flag": "🇭🇰",
-  "demonym": {
-    "en": "Hong Konger"
-  },
-  "gdp": {
-    "value": 382054574298.52905,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "BIS"
-  ],
-  "phone-code": "852",
-  "neighbours": {
-    "NW": [
-      "CN"
+  "data": {
+    "name": {
+      "common": "Hong Kong",
+      "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+    },
+    "region-codes": [
+      "EAS"
+    ],
+    "capital": {
+      "en": "Hong Kong",
+      "zh": "Hong Kong"
+    },
+    "iso3": "HKG",
+    "tld": ".hk",
+    "timezones": [
+      "UTC+08:00"
+    ],
+    "area": 1104,
+    "population": 7527500,
+    "flag": "🇭🇰",
+    "demonym": {
+      "en": "Hong Konger"
+    },
+    "gdp": {
+      "value": 382054574298.52905,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "BIS"
+    ],
+    "phone-code": "852",
+    "neighbours": {
+      "NW": [
+        "CN"
+      ]
+    },
+    "language-codes": [
+      "zh"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "HKD"
     ]
-  },
-  "language-codes": [
-    "zh"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "HKD"
-  ]
+  }
 }

@@ -1,61 +1,68 @@
 {
-  "name": {
-    "common": "Mozambique",
-    "official": "Republic of Mozambique",
-    "pt": "Moçambique"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Maputo",
-    "pt": "Maputo"
-  },
-  "iso3": "MOZ",
-  "tld": ".mz",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 801590,
-  "population": 34090466,
-  "flag": "🇲🇿",
-  "demonym": {
-    "en": "Mozambican",
-    "pt": "Mozambican"
-  },
-  "gdp": {
-    "value": 20624597846.549507,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "258",
-  "neighbours": {
-    "NW": [
-      "ZM",
-      "MW"
+  "data": {
+    "name": {
+      "common": "Mozambique",
+      "official": "Republic of Mozambique",
+      "pt": "Moçambique"
+    },
+    "capital": {
+      "en": "Maputo",
+      "pt": "Maputo"
+    },
+    "iso3": "MOZ",
+    "tld": ".mz",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "ZW",
-      "ZA",
-      "SZ"
+    "area": 801590,
+    "population": 34090466,
+    "flag": "🇲🇿",
+    "demonym": {
+      "en": "Mozambican",
+      "pt": "Mozambican"
+    },
+    "gdp": {
+      "value": 20624597846.549507,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "N": [
-      "TZ"
+    "phone-code": "258",
+    "neighbours": {
+      "NW": [
+        "ZM",
+        "MW"
+      ],
+      "SW": [
+        "ZW",
+        "ZA",
+        "SZ"
+      ],
+      "N": [
+        "TZ"
+      ]
+    },
+    "language-codes": [
+      "pt"
+    ],
+    "region-codes": [
+      "SAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MZN"
     ]
-  },
-  "language-codes": [
-    "pt"
-  ],
-  "region-codes": [
-    "SAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MZN"
-  ]
+  }
 }

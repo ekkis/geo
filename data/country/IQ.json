@@ -1,59 +1,66 @@
 {
-  "name": {
-    "common": "Iraq",
-    "official": "Republic of Iraq",
-    "ar": "العراق"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "WAS"
-  ],
-  "capital": {
-    "en": "Baghdad",
-    "ar": "بغداد"
-  },
-  "iso3": "IRQ",
-  "tld": ".iq",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 438317,
-  "population": 46118793,
-  "flag": "🇮🇶",
-  "demonym": {
-    "en": "Iraqi",
-    "ar": "عراقي"
-  },
-  "gdp": {
-    "value": 250842782139.46417,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "964",
-  "neighbours": {
-    "NW": [
-      "SY",
-      "TR"
+  "data": {
+    "name": {
+      "common": "Iraq",
+      "official": "Republic of Iraq",
+      "ar": "العراق"
+    },
+    "region-codes": [
+      "WAS"
     ],
-    "SE": [
-      "IR",
-      "KW",
-      "SA"
+    "capital": {
+      "en": "Baghdad",
+      "ar": "بغداد"
+    },
+    "iso3": "IRQ",
+    "tld": ".iq",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "SW": [
-      "JO"
+    "area": 438317,
+    "population": 46118793,
+    "flag": "🇮🇶",
+    "demonym": {
+      "en": "Iraqi",
+      "ar": "عراقي"
+    },
+    "gdp": {
+      "value": 250842782139.46417,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "964",
+    "neighbours": {
+      "NW": [
+        "SY",
+        "TR"
+      ],
+      "SE": [
+        "IR",
+        "KW",
+        "SA"
+      ],
+      "SW": [
+        "JO"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "IQD"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "IQD"
-  ]
+  }
 }

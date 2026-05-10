@@ -1,58 +1,65 @@
 {
-  "name": {
-    "common": "Pakistan",
-    "official": "Islamic Republic of Pakistan",
-    "ur": "پاکستان"
+  "meta": {
+    "division": "province_federal_territory_capital_territory",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "SAS"
-  ],
-  "capital": {
-    "en": "Islamabad",
-    "ur": "اسلام آباد"
-  },
-  "iso3": "PAK",
-  "tld": ".pk",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "area": 796095,
-  "population": 241499431,
-  "flag": "🇵🇰",
-  "demonym": {
-    "en": "Pakistani",
-    "ur": "پاکستانی"
-  },
-  "gdp": {
-    "value": 338368455317.8758,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "92",
-  "neighbours": {
-    "NE": [
-      "CN"
+  "data": {
+    "name": {
+      "common": "Pakistan",
+      "official": "Islamic Republic of Pakistan",
+      "ur": "پاکستان"
+    },
+    "region-codes": [
+      "SAS"
     ],
-    "NW": [
-      "AF",
-      "IR"
+    "capital": {
+      "en": "Islamabad",
+      "ur": "اسلام آباد"
+    },
+    "iso3": "PAK",
+    "tld": ".pk",
+    "timezones": [
+      "UTC+05:00"
     ],
-    "SE": [
-      "IN"
+    "area": 796095,
+    "population": 241499431,
+    "flag": "🇵🇰",
+    "demonym": {
+      "en": "Pakistani",
+      "ur": "پاکستانی"
+    },
+    "gdp": {
+      "value": 338368455317.8758,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "92",
+    "neighbours": {
+      "NE": [
+        "CN"
+      ],
+      "NW": [
+        "AF",
+        "IR"
+      ],
+      "SE": [
+        "IN"
+      ]
+    },
+    "language-codes": [
+      "ur"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "PKR"
     ]
-  },
-  "language-codes": [
-    "ur"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "PKR"
-  ]
+  }
 }

@@ -1,0 +1,17 @@
+{
+  "CAP": {
+    "name": "Capital"
+  },
+  "CEN": {
+    "name": "Central"
+  },
+  "HAW": {
+    "name": "Hawar"
+  },
+  "NOR": {
+    "name": "Northern"
+  },
+  "SOU": {
+    "name": "Southern"
+  }
+}

@@ -1,43 +1,50 @@
 {
-  "name": {
-    "common": "Madagascar",
-    "official": "Republic of Madagascar"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Antananarivo",
-    "mdg": "Antananarivo"
-  },
-  "iso3": "MDG",
-  "tld": ".mg",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 587041,
-  "population": 31727042,
-  "flag": "🇲🇬",
-  "demonym": {
-    "en": "Malagasy"
-  },
-  "gdp": {
-    "value": 16031702914.91953,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###",
-    "regex": "^(\\d{3})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "261",
-  "language-codes": [
-    "mdg"
-  ],
-  "region-codes": [],
-  "continent-code": "AF",
-  "currency-codes": [
-    "MGA"
-  ]
+  "data": {
+    "name": {
+      "common": "Madagascar",
+      "official": "Republic of Madagascar"
+    },
+    "capital": {
+      "en": "Antananarivo",
+      "mdg": "Antananarivo"
+    },
+    "iso3": "MDG",
+    "tld": ".mg",
+    "timezones": [
+      "UTC+03:00"
+    ],
+    "area": 587041,
+    "population": 31727042,
+    "flag": "🇲🇬",
+    "demonym": {
+      "en": "Malagasy"
+    },
+    "gdp": {
+      "value": 16031702914.91953,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###",
+      "regex": "^(\\d{3})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "261",
+    "language-codes": [
+      "mdg"
+    ],
+    "region-codes": [],
+    "continent-code": "AF",
+    "currency-codes": [
+      "MGA"
+    ]
+  }
 }

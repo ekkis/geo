@@ -1,60 +1,67 @@
 {
-  "name": {
-    "common": "Uzbekistan",
-    "official": "Republic of Uzbekistan",
-    "uz": "O'zbekiston"
+  "meta": {
+    "division": "region_autonomous_republic",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAS"
-  ],
-  "capital": {
-    "en": "Tashkent",
-    "uz": "Toshkent"
-  },
-  "iso3": "UZB",
-  "tld": ".uz",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "area": 447400,
-  "population": 37859698,
-  "flag": "🇺🇿",
-  "demonym": {
-    "en": "Uzbekistani",
-    "uz": "O'zbekistonlik"
-  },
-  "gdp": {
-    "value": 90889149306.73126,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "######",
-    "regex": "^(\\d{6})$"
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "998",
-  "neighbours": {
-    "NE": [
-      "KZ"
+  "data": {
+    "name": {
+      "common": "Uzbekistan",
+      "official": "Republic of Uzbekistan",
+      "uz": "O'zbekiston"
+    },
+    "region-codes": [
+      "CAS"
     ],
-    "SE": [
-      "AF",
-      "TJ"
+    "capital": {
+      "en": "Tashkent",
+      "uz": "Toshkent"
+    },
+    "iso3": "UZB",
+    "tld": ".uz",
+    "timezones": [
+      "UTC+05:00"
     ],
-    "SW": [
-      "TM"
+    "area": 447400,
+    "population": 37859698,
+    "flag": "🇺🇿",
+    "demonym": {
+      "en": "Uzbekistani",
+      "uz": "O'zbekistonlik"
+    },
+    "gdp": {
+      "value": 90889149306.73126,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "######",
+      "regex": "^(\\d{6})$"
+    },
+    "organisation-codes": [
+      "UN"
     ],
-    "E": [
-      "KG"
+    "phone-code": "998",
+    "neighbours": {
+      "NE": [
+        "KZ"
+      ],
+      "SE": [
+        "AF",
+        "TJ"
+      ],
+      "SW": [
+        "TM"
+      ],
+      "E": [
+        "KG"
+      ]
+    },
+    "language-codes": [
+      "uz"
+    ],
+    "continent-code": "AS",
+    "currency-codes": [
+      "UZS"
     ]
-  },
-  "language-codes": [
-    "uz"
-  ],
-  "continent-code": "AS",
-  "currency-codes": [
-    "UZS"
-  ]
+  }
 }

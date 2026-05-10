@@ -1,49 +1,56 @@
 {
-  "name": {
-    "common": "Belize",
-    "official": "Belize"
+  "meta": {
+    "division": "district",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAM"
-  ],
-  "capital": {
-    "en": "Belmopan",
-    "blz": "Belmopan"
-  },
-  "iso3": "BLZ",
-  "tld": ".bz",
-  "timezones": [
-    "UTC-06:00"
-  ],
-  "area": 22966,
-  "population": 417634,
-  "flag": "🇧🇿",
-  "demonym": {
-    "en": "Belizean"
-  },
-  "gdp": {
-    "value": 3281500000,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "501",
-  "neighbours": {
-    "NW": [
-      "MX"
+  "data": {
+    "name": {
+      "common": "Belize",
+      "official": "Belize"
+    },
+    "region-codes": [
+      "CAM"
     ],
-    "SW": [
-      "GT"
+    "capital": {
+      "en": "Belmopan",
+      "blz": "Belmopan"
+    },
+    "iso3": "BLZ",
+    "tld": ".bz",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 22966,
+    "population": 417634,
+    "flag": "🇧🇿",
+    "demonym": {
+      "en": "Belizean"
+    },
+    "gdp": {
+      "value": 3281500000,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "501",
+    "neighbours": {
+      "NW": [
+        "MX"
+      ],
+      "SW": [
+        "GT"
+      ]
+    },
+    "language-codes": [
+      "blz"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "BZD"
     ]
-  },
-  "language-codes": [
-    "blz"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "BZD"
-  ]
+  }
 }

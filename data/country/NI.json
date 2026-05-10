@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Nicaragua",
-    "official": "Republic of Nicaragua",
-    "es": "Nicaragua"
+  "meta": {
+    "division": "department_autonomous_region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAM"
-  ],
-  "capital": {
-    "en": "Managua",
-    "es": "Managua"
-  },
-  "iso3": "NIC",
-  "tld": ".ni",
-  "timezones": [
-    "UTC-06:00"
-  ],
-  "area": 130373,
-  "population": 6803886,
-  "flag": "🇳🇮",
-  "demonym": {
-    "en": "Nicaraguan",
-    "es": "nicaragüense"
-  },
-  "gdp": {
-    "value": 17829215283.799656,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "###-###-#",
-    "regex": "^(\\d{7})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "505",
-  "neighbours": {
-    "NW": [
-      "HN"
+  "data": {
+    "name": {
+      "common": "Nicaragua",
+      "official": "Republic of Nicaragua",
+      "es": "Nicaragua"
+    },
+    "region-codes": [
+      "CAM"
     ],
-    "SE": [
-      "CR"
+    "capital": {
+      "en": "Managua",
+      "es": "Managua"
+    },
+    "iso3": "NIC",
+    "tld": ".ni",
+    "timezones": [
+      "UTC-06:00"
+    ],
+    "area": 130373,
+    "population": 6803886,
+    "flag": "🇳🇮",
+    "demonym": {
+      "en": "Nicaraguan",
+      "es": "nicaragüense"
+    },
+    "gdp": {
+      "value": 17829215283.799656,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "###-###-#",
+      "regex": "^(\\d{7})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "505",
+    "neighbours": {
+      "NW": [
+        "HN"
+      ],
+      "SE": [
+        "CR"
+      ]
+    },
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "NIO"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "NIO"
-  ]
+  }
 }

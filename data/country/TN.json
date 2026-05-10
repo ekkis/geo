@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Tunisia",
-    "official": "Tunisian Republic",
-    "ar": "تونس"
+  "meta": {
+    "division": "governorate",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Tunis",
-    "ar": "تونس"
-  },
-  "iso3": "TUN",
-  "tld": ".tn",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 163610,
-  "population": 11972169,
-  "flag": "🇹🇳",
-  "demonym": {
-    "en": "Tunisian",
-    "ar": "تونسي"
-  },
-  "gdp": {
-    "value": 48529595416.65326,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "216",
-  "neighbours": {
-    "SE": [
-      "LY"
+  "data": {
+    "name": {
+      "common": "Tunisia",
+      "official": "Tunisian Republic",
+      "ar": "تونس"
+    },
+    "capital": {
+      "en": "Tunis",
+      "ar": "تونس"
+    },
+    "iso3": "TUN",
+    "tld": ".tn",
+    "timezones": [
+      "UTC+01:00"
     ],
-    "SW": [
-      "DZ"
+    "area": 163610,
+    "population": 11972169,
+    "flag": "🇹🇳",
+    "demonym": {
+      "en": "Tunisian",
+      "ar": "تونسي"
+    },
+    "gdp": {
+      "value": 48529595416.65326,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
+    ],
+    "phone-code": "216",
+    "neighbours": {
+      "SE": [
+        "LY"
+      ],
+      "SW": [
+        "DZ"
+      ]
+    },
+    "language-codes": [
+      "ar"
+    ],
+    "region-codes": [
+      "MAG"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "TND"
     ]
-  },
-  "language-codes": [
-    "ar"
-  ],
-  "region-codes": [
-    "MAG"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "TND"
-  ]
+  }
 }

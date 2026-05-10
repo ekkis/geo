@@ -1,49 +1,56 @@
 {
-  "name": {
-    "common": "Timor-Leste",
-    "official": "Democratic Republic of Timor-Leste",
-    "pt": "Timor-Leste"
+  "meta": {
+    "division": "municipality",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Dili",
-    "pt": "Díli",
-    "tp": "Dili"
-  },
-  "iso3": "TLS",
-  "tld": ".tl",
-  "timezones": [
-    "UTC+09:00"
-  ],
-  "area": 14874,
-  "population": 1391221,
-  "flag": "🇹🇱",
-  "demonym": {
-    "en": "East Timorese",
-    "pt": "timorenses"
-  },
-  "gdp": {
-    "value": 2243142908.4616103,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "UN"
-  ],
-  "phone-code": "670",
-  "neighbours": {
-    "NW": [
-      "ID"
+  "data": {
+    "name": {
+      "common": "Timor-Leste",
+      "official": "Democratic Republic of Timor-Leste",
+      "pt": "Timor-Leste"
+    },
+    "capital": {
+      "en": "Dili",
+      "pt": "Díli",
+      "tp": "Dili"
+    },
+    "iso3": "TLS",
+    "tld": ".tl",
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "area": 14874,
+    "population": 1391221,
+    "flag": "🇹🇱",
+    "demonym": {
+      "en": "East Timorese",
+      "pt": "timorenses"
+    },
+    "gdp": {
+      "value": 2243142908.4616103,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "UN"
+    ],
+    "phone-code": "670",
+    "neighbours": {
+      "NW": [
+        "ID"
+      ]
+    },
+    "language-codes": [
+      "pt",
+      "tp"
+    ],
+    "region-codes": [
+      "SEA"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "USD"
     ]
-  },
-  "language-codes": [
-    "pt",
-    "tp"
-  ],
-  "region-codes": [
-    "SEA"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "USD"
-  ]
+  }
 }

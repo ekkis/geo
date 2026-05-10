@@ -1,55 +1,62 @@
 {
-  "name": {
-    "common": "Zimbabwe",
-    "official": "Republic of Zimbabwe"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Harare",
-    "rh": "Harare",
-    "zwe": "Harare"
-  },
-  "iso3": "ZWE",
-  "tld": ".zw",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "area": 390757,
-  "population": 17073087,
-  "flag": "🇿🇼",
-  "demonym": {
-    "en": "Zimbabwean"
-  },
-  "gdp": {
-    "value": 26538273498.84614,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "263",
-  "neighbours": {
-    "NE": [
-      "MZ"
+  "data": {
+    "name": {
+      "common": "Zimbabwe",
+      "official": "Republic of Zimbabwe"
+    },
+    "capital": {
+      "en": "Harare",
+      "rh": "Harare",
+      "zwe": "Harare"
+    },
+    "iso3": "ZWE",
+    "tld": ".zw",
+    "timezones": [
+      "UTC+02:00"
     ],
-    "SW": [
-      "BW",
-      "ZA"
+    "area": 390757,
+    "population": 17073087,
+    "flag": "🇿🇼",
+    "demonym": {
+      "en": "Zimbabwean"
+    },
+    "gdp": {
+      "value": 26538273498.84614,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "N": [
-      "ZM"
+    "phone-code": "263",
+    "neighbours": {
+      "NE": [
+        "MZ"
+      ],
+      "SW": [
+        "BW",
+        "ZA"
+      ],
+      "N": [
+        "ZM"
+      ]
+    },
+    "language-codes": [
+      "rh",
+      "zwe"
+    ],
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "ZWL"
     ]
-  },
-  "language-codes": [
-    "rh",
-    "zwe"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "ZWL"
-  ]
+  }
 }

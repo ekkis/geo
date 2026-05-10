@@ -1,62 +1,69 @@
 {
-  "name": {
-    "common": "Ethiopia",
-    "official": "Federal Democratic Republic of Ethiopia",
-    "am": "ኢትዮጵያ"
+  "meta": {
+    "division": "region",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Addis Ababa",
-    "am": "አዲስ አበባ"
-  },
-  "iso3": "ETH",
-  "tld": ".et",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 1104300,
-  "population": 111652998,
-  "flag": "🇪🇹",
-  "demonym": {
-    "en": "Ethiopian",
-    "am": "ኢትዮጵያዊ"
-  },
-  "gdp": {
-    "value": 163697927593.98236,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "####",
-    "regex": "^(\\d{4})$"
-  },
-  "organisation-codes": [
-    "AU",
-    "UN"
-  ],
-  "phone-code": "251",
-  "neighbours": {
-    "NE": [
-      "DJ",
-      "ER",
-      "SO"
+  "data": {
+    "name": {
+      "common": "Ethiopia",
+      "official": "Federal Democratic Republic of Ethiopia",
+      "am": "ኢትዮጵያ"
+    },
+    "capital": {
+      "en": "Addis Ababa",
+      "am": "አዲስ አበባ"
+    },
+    "iso3": "ETH",
+    "tld": ".et",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "NW": [
-      "SD"
+    "area": 1104300,
+    "population": 111652998,
+    "flag": "🇪🇹",
+    "demonym": {
+      "en": "Ethiopian",
+      "am": "ኢትዮጵያዊ"
+    },
+    "gdp": {
+      "value": 163697927593.98236,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "####",
+      "regex": "^(\\d{4})$"
+    },
+    "organisation-codes": [
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "SS"
+    "phone-code": "251",
+    "neighbours": {
+      "NE": [
+        "DJ",
+        "ER",
+        "SO"
+      ],
+      "NW": [
+        "SD"
+      ],
+      "SW": [
+        "SS"
+      ],
+      "S": [
+        "KE"
+      ]
+    },
+    "language-codes": [
+      "am"
     ],
-    "S": [
-      "KE"
+    "region-codes": [
+      "EAF"
+    ],
+    "continent-code": "AF",
+    "currency-codes": [
+      "ETB"
     ]
-  },
-  "language-codes": [
-    "am"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "ETB"
-  ]
+  }
 }

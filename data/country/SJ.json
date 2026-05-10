@@ -1,32 +1,38 @@
 {
-  "name": {
-    "common": "Svalbard and Jan Mayen",
-    "official": "Svalbard og Jan Mayen"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "NOR"
-  ],
-  "capital": {
-    "en": "Longyearbyen",
-    "sjm": "Longyearbyen"
-  },
-  "iso3": "SJM",
-  "tld": ".sj",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "area": 61399,
-  "population": 2530,
-  "flag": "🇸🇯",
-  "demonym": {
-    "en": "Norwegian"
-  },
-  "phone-code": "47",
-  "language-codes": [
-    "sjm"
-  ],
-  "continent-code": "EU",
-  "currency-codes": [
-    "NOK"
-  ]
+  "data": {
+    "name": {
+      "common": "Svalbard and Jan Mayen",
+      "official": "Svalbard og Jan Mayen"
+    },
+    "region-codes": [
+      "NOR"
+    ],
+    "capital": {
+      "en": "Longyearbyen",
+      "sjm": "Longyearbyen"
+    },
+    "iso3": "SJM",
+    "tld": ".sj",
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "area": 61399,
+    "population": 2530,
+    "flag": "🇸🇯",
+    "demonym": {
+      "en": "Norwegian"
+    },
+    "phone-code": "47",
+    "language-codes": [
+      "sjm"
+    ],
+    "continent-code": "EU",
+    "currency-codes": [
+      "NOK"
+    ]
+  }
 }

@@ -1,47 +1,54 @@
 {
-  "name": {
-    "common": "Cuba",
-    "official": "Republic of Cuba",
-    "es": "Cuba"
+  "meta": {
+    "division": "province",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "region-codes": [
-    "CAR"
-  ],
-  "capital": {
-    "en": "Havana",
-    "es": "la Habana"
-  },
-  "iso3": "CUB",
-  "tld": ".cu",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 109884,
-  "population": 9748007,
-  "flag": "🇨🇺",
-  "demonym": {
-    "en": "Cuban",
-    "es": "Cuban"
-  },
-  "gdp": {
-    "value": 107351800000,
-    "year": 2020
-  },
-  "postal-code": {
-    "format": "CP #####",
-    "regex": "^(?:CP)*(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "53",
-  "language-codes": [
-    "es"
-  ],
-  "continent-code": "NA",
-  "currency-codes": [
-    "CUP"
-  ]
+  "data": {
+    "name": {
+      "common": "Cuba",
+      "official": "Republic of Cuba",
+      "es": "Cuba"
+    },
+    "region-codes": [
+      "CAR"
+    ],
+    "capital": {
+      "en": "Havana",
+      "es": "la Habana"
+    },
+    "iso3": "CUB",
+    "tld": ".cu",
+    "timezones": [
+      "UTC-05:00"
+    ],
+    "area": 109884,
+    "population": 9748007,
+    "flag": "🇨🇺",
+    "demonym": {
+      "en": "Cuban",
+      "es": "Cuban"
+    },
+    "gdp": {
+      "value": 107351800000,
+      "year": 2020
+    },
+    "postal-code": {
+      "format": "CP #####",
+      "regex": "^(?:CP)*(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "OAS",
+      "UN"
+    ],
+    "phone-code": "53",
+    "language-codes": [
+      "es"
+    ],
+    "continent-code": "NA",
+    "currency-codes": [
+      "CUP"
+    ]
+  }
 }

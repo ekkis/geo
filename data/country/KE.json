@@ -1,61 +1,68 @@
 {
-  "name": {
-    "common": "Kenya",
-    "official": "Republic of Kenya"
+  "meta": {
+    "division": "county",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Nairobi"
-  },
-  "iso3": "KEN",
-  "tld": ".ke",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "area": 580367,
-  "population": 53330978,
-  "flag": "🇰🇪",
-  "demonym": {
-    "en": "Kenyan"
-  },
-  "gdp": {
-    "value": 107440575838.04752,
-    "year": 2023
-  },
-  "postal-code": {
-    "format": "#####",
-    "regex": "^(\\d{5})$"
-  },
-  "organisation-codes": [
-    "WTO",
-    "AU",
-    "UN"
-  ],
-  "phone-code": "254",
-  "neighbours": {
-    "NE": [
-      "SO"
+  "data": {
+    "name": {
+      "common": "Kenya",
+      "official": "Republic of Kenya"
+    },
+    "capital": {
+      "en": "Nairobi"
+    },
+    "iso3": "KEN",
+    "tld": ".ke",
+    "timezones": [
+      "UTC+03:00"
     ],
-    "NW": [
-      "SS"
+    "area": 580367,
+    "population": 53330978,
+    "flag": "🇰🇪",
+    "demonym": {
+      "en": "Kenyan"
+    },
+    "gdp": {
+      "value": 107440575838.04752,
+      "year": 2023
+    },
+    "postal-code": {
+      "format": "#####",
+      "regex": "^(\\d{5})$"
+    },
+    "organisation-codes": [
+      "WTO",
+      "AU",
+      "UN"
     ],
-    "SW": [
-      "TZ"
+    "phone-code": "254",
+    "neighbours": {
+      "NE": [
+        "SO"
+      ],
+      "NW": [
+        "SS"
+      ],
+      "SW": [
+        "TZ"
+      ],
+      "N": [
+        "ET"
+      ],
+      "W": [
+        "UG"
+      ]
+    },
+    "language-codes": [
+      "en"
     ],
-    "N": [
-      "ET"
+    "region-codes": [
+      "EAF"
     ],
-    "W": [
-      "UG"
+    "continent-code": "AF",
+    "currency-codes": [
+      "KES"
     ]
-  },
-  "language-codes": [
-    "en"
-  ],
-  "region-codes": [
-    "EAF"
-  ],
-  "continent-code": "AF",
-  "currency-codes": [
-    "KES"
-  ]
+  }
 }

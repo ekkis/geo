@@ -1,0 +1,154 @@
+{
+  "CL": {
+    "AC": {
+      "name": "Antártica Chilena"
+    },
+    "AIS": {
+      "name": "Aisén"
+    },
+    "ANT": {
+      "name": "Antofagasta"
+    },
+    "ARA": {
+      "name": "Arauco"
+    },
+    "ARI": {
+      "name": "Arica"
+    },
+    "BIO": {
+      "name": "Biobío"
+    },
+    "CAC": {
+      "name": "Cachapoal"
+    },
+    "CAU": {
+      "name": "Cautin"
+    },
+    "CC": {
+      "name": "Cardenal Caro"
+    },
+    "CHA": {
+      "name": "Chacabuco"
+    },
+    "CHI": {
+      "name": "Chiloe"
+    },
+    "CHO": {
+      "name": "Choapa"
+    },
+    "COI": {
+      "name": "Coihaique"
+    },
+    "COL": {
+      "name": "Colchagua"
+    },
+    "CON": {
+      "name": "Concepción"
+    },
+    "COP": {
+      "name": "Copiapó"
+    },
+    "COR": {
+      "name": "Cordillera"
+    },
+    "CP": {
+      "name": "Capitan Prat"
+    },
+    "CUR": {
+      "name": "Curicó"
+    },
+    "EL": {
+      "name": "El Loa"
+    },
+    "ELQ": {
+      "name": "Elqui"
+    },
+    "GC": {
+      "name": "General Carrera"
+    },
+    "HUA": {
+      "name": "Huasco"
+    },
+    "ID": {
+      "name": "Isla de Pascua"
+    },
+    "IQU": {
+      "name": "Iquique"
+    },
+    "LA": {
+      "name": "Los Andes"
+    },
+    "LIM": {
+      "name": "Limarí"
+    },
+    "LIN": {
+      "name": "Linares"
+    },
+    "LLA": {
+      "name": "Llanquihue"
+    },
+    "MAG": {
+      "name": "Magallanes"
+    },
+    "MAI": {
+      "name": "Maipo"
+    },
+    "MAL": {
+      "name": "Malleco"
+    },
+    "MEL": {
+      "name": "Melipilla"
+    },
+    "MM": {
+      "name": "Marga Marga"
+    },
+    "OSO": {
+      "name": "Osorno"
+    },
+    "PAL": {
+      "name": "Palena"
+    },
+    "PAR": {
+      "name": "Parinacota"
+    },
+    "PET": {
+      "name": "Petorca"
+    },
+    "QUI": {
+      "name": "Quillota"
+    },
+    "RAN": {
+      "name": "Ranco"
+    },
+    "SA": {
+      "name": "San Antonio"
+    },
+    "SAN": {
+      "name": "Santiago"
+    },
+    "SF": {
+      "name": "San Felipe de Aconcagua"
+    },
+    "TAL": {
+      "name": "Talagante"
+    },
+    "TAM": {
+      "name": "Tamarugal"
+    },
+    "TD": {
+      "name": "Tierra del Fuego"
+    },
+    "TOC": {
+      "name": "Tocopilla"
+    },
+    "UE": {
+      "name": "Ultima Esperanza"
+    },
+    "VAL": {
+      "name": "Valdivia"
+    },
+    "ÑUB": {
+      "name": "Ñuble"
+    }
+  }
+}

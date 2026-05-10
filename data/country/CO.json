@@ -1,60 +1,67 @@
 {
-  "name": {
-    "common": "Colombia",
-    "official": "Republic of Colombia",
-    "es": "Colombia"
+  "meta": {
+    "division": "department",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Bogota",
-    "es": "Bogotá"
-  },
-  "iso3": "COL",
-  "tld": ".co",
-  "timezones": [
-    "UTC-05:00"
-  ],
-  "area": 1141748,
-  "population": 53057212,
-  "flag": "🇨🇴",
-  "demonym": {
-    "en": "Colombian",
-    "es": "Colombian"
-  },
-  "gdp": {
-    "value": 363540156234.86835,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "OECD",
-    "BIS",
-    "WTO",
-    "OAS",
-    "UN"
-  ],
-  "phone-code": "57",
-  "neighbours": {
-    "NE": [
-      "VE"
+  "data": {
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "es": "Colombia"
+    },
+    "capital": {
+      "en": "Bogota",
+      "es": "Bogotá"
+    },
+    "iso3": "COL",
+    "tld": ".co",
+    "timezones": [
+      "UTC-05:00"
     ],
-    "NW": [
-      "PA"
+    "area": 1141748,
+    "population": 53057212,
+    "flag": "🇨🇴",
+    "demonym": {
+      "en": "Colombian",
+      "es": "Colombian"
+    },
+    "gdp": {
+      "value": 363540156234.86835,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "OECD",
+      "BIS",
+      "WTO",
+      "OAS",
+      "UN"
     ],
-    "SE": [
-      "BR"
+    "phone-code": "57",
+    "neighbours": {
+      "NE": [
+        "VE"
+      ],
+      "NW": [
+        "PA"
+      ],
+      "SE": [
+        "BR"
+      ],
+      "SW": [
+        "PE",
+        "EC"
+      ]
+    },
+    "language-codes": [
+      "es"
     ],
-    "SW": [
-      "PE",
-      "EC"
+    "region-codes": [
+      "SAM"
+    ],
+    "continent-code": "SA",
+    "currency-codes": [
+      "COP"
     ]
-  },
-  "language-codes": [
-    "es"
-  ],
-  "region-codes": [
-    "SAM"
-  ],
-  "continent-code": "SA",
-  "currency-codes": [
-    "COP"
-  ]
+  }
 }

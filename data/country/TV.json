@@ -1,39 +1,46 @@
 {
-  "name": {
-    "common": "Tuvalu",
-    "official": "Tuvalu"
+  "meta": {
+    "division": "island",
+    "version": "1.0",
+    "last-updated": "2026-05-10T06:50:19.116171Z"
   },
-  "capital": {
-    "en": "Funafuti",
-    "tuv": "Funafuti"
-  },
-  "iso3": "TUV",
-  "tld": ".tv",
-  "timezones": [
-    "UTC+12:00"
-  ],
-  "area": 26,
-  "population": 10643,
-  "flag": "🇹🇻",
-  "demonym": {
-    "en": "Tuvaluan"
-  },
-  "gdp": {
-    "value": 62280311.585217156,
-    "year": 2023
-  },
-  "organisation-codes": [
-    "UN"
-  ],
-  "phone-code": "688",
-  "language-codes": [
-    "tuv"
-  ],
-  "region-codes": [
-    "POL"
-  ],
-  "continent-code": "OC",
-  "currency-codes": [
-    "AUD"
-  ]
+  "data": {
+    "name": {
+      "common": "Tuvalu",
+      "official": "Tuvalu"
+    },
+    "capital": {
+      "en": "Funafuti",
+      "tuv": "Funafuti"
+    },
+    "iso3": "TUV",
+    "tld": ".tv",
+    "timezones": [
+      "UTC+12:00"
+    ],
+    "area": 26,
+    "population": 10643,
+    "flag": "🇹🇻",
+    "demonym": {
+      "en": "Tuvaluan"
+    },
+    "gdp": {
+      "value": 62280311.585217156,
+      "year": 2023
+    },
+    "organisation-codes": [
+      "UN"
+    ],
+    "phone-code": "688",
+    "language-codes": [
+      "tuv"
+    ],
+    "region-codes": [
+      "POL"
+    ],
+    "continent-code": "OC",
+    "currency-codes": [
+      "AUD"
+    ]
+  }
 }
