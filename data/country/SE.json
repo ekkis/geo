@@ -40,10 +40,6 @@
     "UN"
   ],
   "phone-code": "46",
-  "division-levels": [
-    "county",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "FI"

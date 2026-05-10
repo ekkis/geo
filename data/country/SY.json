@@ -28,11 +28,6 @@
     "year": 2021
   },
   "phone-code": "963",
-  "division-levels": [
-    "governorate",
-    "district",
-    "subdistrict"
-  ],
   "neighbours": {
     "NW": [
       "TR"

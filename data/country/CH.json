@@ -36,11 +36,6 @@
     "UN"
   ],
   "phone-code": "41",
-  "division-levels": [
-    "canton",
-    "district",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "AT",

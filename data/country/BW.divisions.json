@@ -1,23 +1,31 @@
 {
-  "CE": {
-    "name": "Central"
+  "meta": {
+    "divisions": [
+      "district",
+      "sub-district"
+    ]
   },
-  "GH": {
-    "name": "Ghanzi"
-  },
-  "HH": {
-    "name": "Southern"
-  },
-  "KD": {
-    "name": "Kgalagadi"
-  },
-  "KE": {
-    "name": "Kweneng"
-  },
-  "KL": {
-    "name": "Kgatleng"
-  },
-  "NW": {
-    "name": "North-West"
+  "data": {
+    "CE": {
+      "name": "Central"
+    },
+    "GH": {
+      "name": "Ghanzi"
+    },
+    "HH": {
+      "name": "Southern"
+    },
+    "KD": {
+      "name": "Kgalagadi"
+    },
+    "KE": {
+      "name": "Kweneng"
+    },
+    "KL": {
+      "name": "Kgatleng"
+    },
+    "NW": {
+      "name": "North-West"
+    }
   }
 }

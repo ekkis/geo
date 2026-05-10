@@ -37,11 +37,6 @@
     "UN"
   ],
   "phone-code": "855",
-  "division-levels": [
-    "province",
-    "district",
-    "commune"
-  ],
   "neighbours": {
     "NE": [
       "VN"

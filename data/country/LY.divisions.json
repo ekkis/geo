@@ -1,32 +1,40 @@
 {
-  "AZ": {
-    "name": "Az Zawiyah"
+  "meta": {
+    "divisions": [
+      "governorate",
+      "district"
+    ]
   },
-  "BA": {
-    "name": "Benghazi"
-  },
-  "BJ": {
-    "name": "Benghazi"
-  },
-  "BZ": {
-    "name": "Bazma"
-  },
-  "HA": {
-    "name": "Al Wahat"
-  },
-  "MI": {
-    "name": "Misrata"
-  },
-  "NQ": {
-    "name": "Nuqat al Khams"
-  },
-  "TB": {
-    "name": "Tobruk"
-  },
-  "TR": {
-    "name": "Tripoli"
-  },
-  "WD": {
-    "name": "Wadi al Hayaa"
+  "data": {
+    "AZ": {
+      "name": "Az Zawiyah"
+    },
+    "BA": {
+      "name": "Benghazi"
+    },
+    "BJ": {
+      "name": "Benghazi"
+    },
+    "BZ": {
+      "name": "Bazma"
+    },
+    "HA": {
+      "name": "Al Wahat"
+    },
+    "MI": {
+      "name": "Misrata"
+    },
+    "NQ": {
+      "name": "Nuqat al Khams"
+    },
+    "TB": {
+      "name": "Tobruk"
+    },
+    "TR": {
+      "name": "Tripoli"
+    },
+    "WD": {
+      "name": "Wadi al Hayaa"
+    }
   }
 }

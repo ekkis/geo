@@ -40,10 +40,6 @@
     "UN"
   ],
   "phone-code": "381",
-  "division-levels": [
-    "district/autonomous province",
-    "municipality/city"
-  ],
   "neighbours": {
     "NE": [
       "RO"

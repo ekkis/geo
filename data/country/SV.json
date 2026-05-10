@@ -37,10 +37,6 @@
     "UN"
   ],
   "phone-code": "503",
-  "division-levels": [
-    "department",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "HN"

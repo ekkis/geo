@@ -30,11 +30,6 @@
     "UN"
   ],
   "phone-code": "223",
-  "division-levels": [
-    "region",
-    "cercle",
-    "arrondissement"
-  ],
   "neighbours": {
     "NE": [
       "DZ"

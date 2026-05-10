@@ -28,10 +28,6 @@
     "UN"
   ],
   "phone-code": "233",
-  "division-levels": [
-    "region",
-    "district"
-  ],
   "neighbours": {
     "N": [
       "BF"

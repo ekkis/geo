@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "divisions": [
+      "region",
+      "prefecture",
+      "sub-prefecture"
+    ]
+  },
+  "data": {}
+}

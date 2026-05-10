@@ -30,11 +30,6 @@
     "UN"
   ],
   "phone-code": "241",
-  "division-levels": [
-    "province",
-    "department",
-    "arrondissement"
-  ],
   "neighbours": {
     "NE": [
       "CM"

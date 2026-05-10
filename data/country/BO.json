@@ -29,11 +29,6 @@
     "OAS"
   ],
   "phone-code": "591",
-  "division-levels": [
-    "department",
-    "province",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "BR"

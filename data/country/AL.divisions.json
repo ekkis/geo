@@ -1,62 +1,71 @@
 {
-  "Berat": {
-    "BER": {
-      "name": "Berat"
-    }
+  "meta": {
+    "divisions": [
+      "county",
+      "municipality",
+      "city/village"
+    ]
   },
-  "Dibër": {
-    "DIB": {
-      "name": "Dibër"
-    }
-  },
-  "Durrës": {
-    "DUR": {
-      "name": "Durrës"
-    }
-  },
-  "Elbasan": {
-    "ELB": {
-      "name": "Elbasan"
-    }
-  },
-  "Fier": {
-    "FIE": {
-      "name": "Fier"
-    }
-  },
-  "Gjirokastër": {
-    "GJI": {
-      "name": "Gjirokastër"
-    }
-  },
-  "Korçë": {
-    "KOR": {
-      "name": "Korçë"
-    }
-  },
-  "Kukës": {
-    "KUK": {
-      "name": "Kukës"
-    }
-  },
-  "Lezhë": {
-    "LEZ": {
-      "name": "Lezhë"
-    }
-  },
-  "Shkodër": {
-    "SHK": {
-      "name": "Shkodër"
-    }
-  },
-  "Tirana": {
-    "TIR": {
-      "name": "Tirana"
-    }
-  },
-  "Vlorë": {
-    "VLO": {
-      "name": "Vlorë"
+  "data": {
+    "Berat": {
+      "BER": {
+        "name": "Berat"
+      }
+    },
+    "Dibër": {
+      "DIB": {
+        "name": "Dibër"
+      }
+    },
+    "Durrës": {
+      "DUR": {
+        "name": "Durrës"
+      }
+    },
+    "Elbasan": {
+      "ELB": {
+        "name": "Elbasan"
+      }
+    },
+    "Fier": {
+      "FIE": {
+        "name": "Fier"
+      }
+    },
+    "Gjirokastër": {
+      "GJI": {
+        "name": "Gjirokastër"
+      }
+    },
+    "Korçë": {
+      "KOR": {
+        "name": "Korçë"
+      }
+    },
+    "Kukës": {
+      "KUK": {
+        "name": "Kukës"
+      }
+    },
+    "Lezhë": {
+      "LEZ": {
+        "name": "Lezhë"
+      }
+    },
+    "Shkodër": {
+      "SHK": {
+        "name": "Shkodër"
+      }
+    },
+    "Tirana": {
+      "TIR": {
+        "name": "Tirana"
+      }
+    },
+    "Vlorë": {
+      "VLO": {
+        "name": "Vlorë"
+      }
     }
   }
 }

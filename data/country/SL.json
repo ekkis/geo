@@ -28,11 +28,6 @@
     "UN"
   ],
   "phone-code": "232",
-  "division-levels": [
-    "province",
-    "district",
-    "chieftom"
-  ],
   "neighbours": {
     "NE": [
       "GN"

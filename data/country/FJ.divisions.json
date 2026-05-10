@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "divisions": [
+      "division",
+      "province",
+      "district"
+    ]
+  },
+  "data": {}
+}

@@ -28,10 +28,6 @@
     "UN"
   ],
   "phone-code": "253",
-  "division-levels": [
-    "region",
-    "district"
-  ],
   "neighbours": {
     "NW": [
       "ER"

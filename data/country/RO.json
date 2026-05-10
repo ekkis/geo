@@ -37,11 +37,6 @@
     "UN"
   ],
   "phone-code": "40",
-  "division-levels": [
-    "development region",
-    "county",
-    "city/commune"
-  ],
   "neighbours": {
     "NE": [
       "MD",

@@ -30,11 +30,6 @@
     "UN"
   ],
   "phone-code": "237",
-  "division-levels": [
-    "region",
-    "department",
-    "subdivision"
-  ],
   "neighbours": {
     "NE": [
       "CF",

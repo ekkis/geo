@@ -34,11 +34,6 @@
     "UN"
   ],
   "phone-code": "221",
-  "division-levels": [
-    "region",
-    "department",
-    "arrondissement"
-  ],
   "neighbours": {
     "NE": [
       "ML",

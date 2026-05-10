@@ -1,12 +1,20 @@
 {
-  "Gozo": {
-    "GOZ": {
-      "name": "Gozo"
-    }
+  "meta": {
+    "divisions": [
+      "region",
+      "local council"
+    ]
   },
-  "Malta": {
-    "MAL": {
-      "name": "Malta"
+  "data": {
+    "Gozo": {
+      "GOZ": {
+        "name": "Gozo"
+      }
+    },
+    "Malta": {
+      "MAL": {
+        "name": "Malta"
+      }
     }
   }
 }

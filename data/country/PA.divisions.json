@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "divisions": [
+      "province/indigenous region",
+      "district",
+      "corregimiento"
+    ]
+  },
+  "data": {}
+}

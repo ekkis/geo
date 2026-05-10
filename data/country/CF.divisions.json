@@ -1,47 +1,56 @@
 {
-  "AC": {
-    "name": "Ouham"
+  "meta": {
+    "divisions": [
+      "prefecture",
+      "sub-prefecture",
+      "commune"
+    ]
   },
-  "BB": {
-    "name": "Bamingui-Bangoran"
-  },
-  "BGF": {
-    "name": "Bangui"
-  },
-  "BK": {
-    "name": "Basse-Kotto"
-  },
-  "HK": {
-    "name": "Haute-Kotto"
-  },
-  "HM": {
-    "name": "Haut-Mbomou"
-  },
-  "KG": {
-    "name": "Kémo"
-  },
-  "LO": {
-    "name": "Lobaye"
-  },
-  "MB": {
-    "name": "Mbomou"
-  },
-  "MP": {
-    "name": "Ombella-M'Poko"
-  },
-  "NM": {
-    "name": "Nana-Mambéré"
-  },
-  "OP": {
-    "name": "Ouham Péndé"
-  },
-  "SE": {
-    "name": "Sangha-Mbaéré"
-  },
-  "UK": {
-    "name": "Ouaka"
-  },
-  "VK": {
-    "name": "Vakaga"
+  "data": {
+    "AC": {
+      "name": "Ouham"
+    },
+    "BB": {
+      "name": "Bamingui-Bangoran"
+    },
+    "BGF": {
+      "name": "Bangui"
+    },
+    "BK": {
+      "name": "Basse-Kotto"
+    },
+    "HK": {
+      "name": "Haute-Kotto"
+    },
+    "HM": {
+      "name": "Haut-Mbomou"
+    },
+    "KG": {
+      "name": "Kémo"
+    },
+    "LO": {
+      "name": "Lobaye"
+    },
+    "MB": {
+      "name": "Mbomou"
+    },
+    "MP": {
+      "name": "Ombella-M'Poko"
+    },
+    "NM": {
+      "name": "Nana-Mambéré"
+    },
+    "OP": {
+      "name": "Ouham Péndé"
+    },
+    "SE": {
+      "name": "Sangha-Mbaéré"
+    },
+    "UK": {
+      "name": "Ouaka"
+    },
+    "VK": {
+      "name": "Vakaga"
+    }
   }
 }

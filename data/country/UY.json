@@ -34,10 +34,6 @@
     "UN"
   ],
   "phone-code": "598",
-  "division-levels": [
-    "department",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "BR"

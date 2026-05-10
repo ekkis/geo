@@ -38,10 +38,6 @@
     "UN"
   ],
   "phone-code": "370",
-  "division-levels": [
-    "county",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "RU",

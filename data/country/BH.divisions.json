@@ -1,17 +1,24 @@
 {
-  "CAP": {
-    "name": "Capital"
+  "meta": {
+    "divisions": [
+      "governorate"
+    ]
   },
-  "CEN": {
-    "name": "Central"
-  },
-  "HAW": {
-    "name": "Hawar"
-  },
-  "NOR": {
-    "name": "Northern"
-  },
-  "SOU": {
-    "name": "Southern"
+  "data": {
+    "CAP": {
+      "name": "Capital"
+    },
+    "CEN": {
+      "name": "Central"
+    },
+    "HAW": {
+      "name": "Hawar"
+    },
+    "NOR": {
+      "name": "Northern"
+    },
+    "SOU": {
+      "name": "Southern"
+    }
   }
 }

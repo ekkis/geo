@@ -36,11 +36,6 @@
     "UN"
   ],
   "phone-code": "992",
-  "division-levels": [
-    "region/autonomous region",
-    "district",
-    "town/village"
-  ],
   "neighbours": {
     "NE": [
       "KG"

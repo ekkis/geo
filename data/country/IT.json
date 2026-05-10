@@ -41,11 +41,6 @@
     "UN"
   ],
   "phone-code": "39",
-  "division-levels": [
-    "region",
-    "province",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "AT",

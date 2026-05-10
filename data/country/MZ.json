@@ -34,10 +34,6 @@
     "UN"
   ],
   "phone-code": "258",
-  "division-levels": [
-    "province",
-    "district"
-  ],
   "neighbours": {
     "NW": [
       "ZM",

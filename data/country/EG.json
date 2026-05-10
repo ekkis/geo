@@ -34,11 +34,6 @@
     "UN"
   ],
   "phone-code": "20",
-  "division-levels": [
-    "governorate",
-    "district",
-    "city"
-  ],
   "neighbours": {
     "NE": [
       "PS",

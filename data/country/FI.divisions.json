@@ -1,82 +1,91 @@
 {
-  "Åland": {
-    "ALA": {
-      "name": "Åland"
-    }
+  "meta": {
+    "divisions": [
+      "region",
+      "sub-region",
+      "municipality"
+    ]
   },
-  "Central Finland": {
-    "CENFI": {
-      "name": "Central Finland"
-    }
-  },
-  "Central Ostrobothnia": {
-    "CENOS": {
-      "name": "Central Ostrobothnia"
-    }
-  },
-  "Central Savo": {
-    "CENSA": {
-      "name": "Central Savo"
-    }
-  },
-  "Kymenlaakso": {
-    "KYM": {
-      "name": "Kymenlaakso"
-    }
-  },
-  "Lapland": {
-    "LAP": {
-      "name": "Lapland"
-    }
-  },
-  "North Karelia": {
-    "NORKA": {
-      "name": "North Karelia"
-    }
-  },
-  "Northern Ostrobothnia": {
-    "NOROS": {
-      "name": "Northern Ostrobothnia"
-    }
-  },
-  "Ostrobothnia": {
-    "OST": {
-      "name": "Ostrobothnia"
-    }
-  },
-  "Päijät-Häme": {
-    "PAI": {
-      "name": "Päijät-Häme"
-    }
-  },
-  "Pirkanmaa": {
-    "PIR": {
-      "name": "Pirkanmaa"
-    }
-  },
-  "Satakunta": {
-    "SAT": {
-      "name": "Satakunta"
-    }
-  },
-  "Southwest Finland": {
-    "SOUFI": {
-      "name": "Southwest Finland"
-    }
-  },
-  "South Karelia": {
-    "SOUKA": {
-      "name": "South Karelia"
-    }
-  },
-  "South Savo": {
-    "SOUSA": {
-      "name": "South Savo"
-    }
-  },
-  "Uusimaa": {
-    "UUS": {
-      "name": "Uusimaa"
+  "data": {
+    "Åland": {
+      "ALA": {
+        "name": "Åland"
+      }
+    },
+    "Central Finland": {
+      "CENFI": {
+        "name": "Central Finland"
+      }
+    },
+    "Central Ostrobothnia": {
+      "CENOS": {
+        "name": "Central Ostrobothnia"
+      }
+    },
+    "Central Savo": {
+      "CENSA": {
+        "name": "Central Savo"
+      }
+    },
+    "Kymenlaakso": {
+      "KYM": {
+        "name": "Kymenlaakso"
+      }
+    },
+    "Lapland": {
+      "LAP": {
+        "name": "Lapland"
+      }
+    },
+    "North Karelia": {
+      "NORKA": {
+        "name": "North Karelia"
+      }
+    },
+    "Northern Ostrobothnia": {
+      "NOROS": {
+        "name": "Northern Ostrobothnia"
+      }
+    },
+    "Ostrobothnia": {
+      "OST": {
+        "name": "Ostrobothnia"
+      }
+    },
+    "Päijät-Häme": {
+      "PAI": {
+        "name": "Päijät-Häme"
+      }
+    },
+    "Pirkanmaa": {
+      "PIR": {
+        "name": "Pirkanmaa"
+      }
+    },
+    "Satakunta": {
+      "SAT": {
+        "name": "Satakunta"
+      }
+    },
+    "Southwest Finland": {
+      "SOUFI": {
+        "name": "Southwest Finland"
+      }
+    },
+    "South Karelia": {
+      "SOUKA": {
+        "name": "South Karelia"
+      }
+    },
+    "South Savo": {
+      "SOUSA": {
+        "name": "South Savo"
+      }
+    },
+    "Uusimaa": {
+      "UUS": {
+        "name": "Uusimaa"
+      }
     }
   }
 }

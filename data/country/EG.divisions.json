@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "divisions": [
+      "governorate",
+      "district",
+      "city"
+    ]
+  },
+  "data": {}
+}

@@ -31,10 +31,6 @@
     "OAS"
   ],
   "phone-code": "58",
-  "division-levels": [
-    "state/capital district/federal dependency",
-    "municipality"
-  ],
   "neighbours": {
     "SE": [
       "BR",

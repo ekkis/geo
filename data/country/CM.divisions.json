@@ -1,32 +1,41 @@
 {
-  "AD": {
-    "name": "Adamaoua"
+  "meta": {
+    "divisions": [
+      "region",
+      "department",
+      "subdivision"
+    ]
   },
-  "CE": {
-    "name": "Centre"
-  },
-  "EN": {
-    "name": "Far North"
-  },
-  "ES": {
-    "name": "East"
-  },
-  "LT": {
-    "name": "Littoral"
-  },
-  "NO": {
-    "name": "North"
-  },
-  "NW": {
-    "name": "North-West"
-  },
-  "OU": {
-    "name": "West"
-  },
-  "SU": {
-    "name": "South"
-  },
-  "SW": {
-    "name": "South-West"
+  "data": {
+    "AD": {
+      "name": "Adamaoua"
+    },
+    "CE": {
+      "name": "Centre"
+    },
+    "EN": {
+      "name": "Far North"
+    },
+    "ES": {
+      "name": "East"
+    },
+    "LT": {
+      "name": "Littoral"
+    },
+    "NO": {
+      "name": "North"
+    },
+    "NW": {
+      "name": "North-West"
+    },
+    "OU": {
+      "name": "West"
+    },
+    "SU": {
+      "name": "South"
+    },
+    "SW": {
+      "name": "South-West"
+    }
   }
 }

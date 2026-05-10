@@ -28,10 +28,6 @@
     "regex": "^(\\d{5})$"
   },
   "phone-code": "691",
-  "division-levels": [
-    "state",
-    "municipality"
-  ],
   "language-codes": [
     "en",
     "pc"

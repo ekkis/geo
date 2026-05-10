@@ -38,11 +38,6 @@
     "UN"
   ],
   "phone-code": "95",
-  "division-levels": [
-    "region/state/union territory",
-    "district",
-    "township"
-  ],
   "neighbours": {
     "NE": [
       "CN"

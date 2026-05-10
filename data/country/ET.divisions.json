@@ -1,32 +1,42 @@
 {
-  "AA": {
-    "name": "Addis Ababa"
+  "meta": {
+    "divisions": [
+      "region",
+      "zone",
+      "woreda",
+      "kebele"
+    ]
   },
-  "AR": {
-    "name": "Amhara Region"
-  },
-  "BEN": {
-    "name": "Benishangul-Gumuz"
-  },
-  "DD": {
-    "name": "Dire Dawa"
-  },
-  "GAM": {
-    "name": "Gambela"
-  },
-  "HAR": {
-    "name": "Harari"
-  },
-  "ORO": {
-    "name": "Oromia"
-  },
-  "SN": {
-    "name": "Southern Nations, Nationalities, and Peoples' Region"
-  },
-  "SOM": {
-    "name": "Somali"
-  },
-  "TR": {
-    "name": "Tigray Region"
+  "data": {
+    "AA": {
+      "name": "Addis Ababa"
+    },
+    "AR": {
+      "name": "Amhara Region"
+    },
+    "BEN": {
+      "name": "Benishangul-Gumuz"
+    },
+    "DD": {
+      "name": "Dire Dawa"
+    },
+    "GAM": {
+      "name": "Gambela"
+    },
+    "HAR": {
+      "name": "Harari"
+    },
+    "ORO": {
+      "name": "Oromia"
+    },
+    "SN": {
+      "name": "Southern Nations, Nationalities, and Peoples' Region"
+    },
+    "SOM": {
+      "name": "Somali"
+    },
+    "TR": {
+      "name": "Tigray Region"
+    }
   }
 }

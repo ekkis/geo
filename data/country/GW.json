@@ -34,10 +34,6 @@
     "UN"
   ],
   "phone-code": "245",
-  "division-levels": [
-    "region",
-    "sector"
-  ],
   "neighbours": {
     "NE": [
       "SN"

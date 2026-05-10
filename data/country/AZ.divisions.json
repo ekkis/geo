@@ -1,38 +1,47 @@
 {
-  "ABS": {
-    "name": "Absheron"
+  "meta": {
+    "divisions": [
+      "economic region",
+      "district",
+      "municipality"
+    ]
   },
-  "BA": {
-    "name": "Baku"
-  },
-  "KAL": {
-    "name": "Kalbajar-Lachin"
-  },
-  "LAC": {
-    "name": "Lachin"
-  },
-  "LEN": {
-    "name": "Lankaran"
-  },
-  "MQ": {
-    "name": "Mingachevir"
-  },
-  "NX": {
-    "name": "Nakhchivan"
-  },
-  "QOB": {
-    "name": "Qobustan"
-  },
-  "SAR": {
-    "name": "Saratov"
-  },
-  "SAT": {
-    "name": "Shamakhi"
-  },
-  "SM": {
-    "name": "Sumgait"
-  },
-  "SMI": {
-    "name": "Samukh"
+  "data": {
+    "ABS": {
+      "name": "Absheron"
+    },
+    "BA": {
+      "name": "Baku"
+    },
+    "KAL": {
+      "name": "Kalbajar-Lachin"
+    },
+    "LAC": {
+      "name": "Lachin"
+    },
+    "LEN": {
+      "name": "Lankaran"
+    },
+    "MQ": {
+      "name": "Mingachevir"
+    },
+    "NX": {
+      "name": "Nakhchivan"
+    },
+    "QOB": {
+      "name": "Qobustan"
+    },
+    "SAR": {
+      "name": "Saratov"
+    },
+    "SAT": {
+      "name": "Shamakhi"
+    },
+    "SM": {
+      "name": "Sumgait"
+    },
+    "SMI": {
+      "name": "Samukh"
+    }
   }
 }

@@ -1,7 +1,12 @@
 {
-  "Åland Islands": {
-    "ALAND": {
-      "name": "Åland Islands"
+  "meta": {
+    "divisions": []
+  },
+  "data": {
+    "Åland Islands": {
+      "ALAND": {
+        "name": "Åland Islands"
+      }
     }
   }
 }

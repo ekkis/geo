@@ -34,11 +34,6 @@
     "UN"
   ],
   "phone-code": "227",
-  "division-levels": [
-    "region",
-    "department",
-    "commune"
-  ],
   "neighbours": {
     "NE": [
       "LY"

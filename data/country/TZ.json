@@ -29,13 +29,6 @@
     "AU"
   ],
   "phone-code": "255",
-  "division-levels": [
-    "region",
-    "district",
-    "division",
-    "ward",
-    "village"
-  ],
   "neighbours": {
     "NE": [
       "KE"

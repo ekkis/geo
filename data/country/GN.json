@@ -30,10 +30,6 @@
     "UN"
   ],
   "phone-code": "224",
-  "division-levels": [
-    "region",
-    "prefecture"
-  ],
   "neighbours": {
     "NE": [
       "ML"

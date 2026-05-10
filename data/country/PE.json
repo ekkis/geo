@@ -35,10 +35,6 @@
     "UN"
   ],
   "phone-code": "51",
-  "division-levels": [
-    "region/province",
-    "district"
-  ],
   "neighbours": {
     "NE": [
       "CO"

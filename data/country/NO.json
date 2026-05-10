@@ -36,10 +36,6 @@
     "UN"
   ],
   "phone-code": "47",
-  "division-levels": [
-    "county",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "FI"

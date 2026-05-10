@@ -31,11 +31,6 @@
     "UN"
   ],
   "phone-code": "226",
-  "division-levels": [
-    "region",
-    "province",
-    "department"
-  ],
   "neighbours": {
     "NE": [
       "NE"

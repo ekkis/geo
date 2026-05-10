@@ -1,22 +1,30 @@
 {
-  "Connacht": {
-    "CON": {
-      "name": "Connacht"
-    }
+  "meta": {
+    "divisions": [
+      "county",
+      "city/town"
+    ]
   },
-  "Leinster": {
-    "LEI": {
-      "name": "Leinster"
-    }
-  },
-  "Munster": {
-    "MUN": {
-      "name": "Munster"
-    }
-  },
-  "Ulster": {
-    "ULS": {
-      "name": "Ulster"
+  "data": {
+    "Connacht": {
+      "CON": {
+        "name": "Connacht"
+      }
+    },
+    "Leinster": {
+      "LEI": {
+        "name": "Leinster"
+      }
+    },
+    "Munster": {
+      "MUN": {
+        "name": "Munster"
+      }
+    },
+    "Ulster": {
+      "ULS": {
+        "name": "Ulster"
+      }
     }
   }
 }

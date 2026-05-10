@@ -1,7 +1,15 @@
 {
-  "Singapore": {
-    "SINGAPOR": {
-      "name": "Singapore"
+  "meta": {
+    "divisions": [
+      "planning area",
+      "subzone"
+    ]
+  },
+  "data": {
+    "Singapore": {
+      "SINGAPOR": {
+        "name": "Singapore"
+      }
     }
   }
 }

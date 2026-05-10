@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "divisions": [
+      "region",
+      "district",
+      "county",
+      "sub-county",
+      "parish",
+      "village"
+    ]
+  },
+  "data": {}
+}

@@ -36,11 +36,6 @@
     "UN"
   ],
   "phone-code": "27",
-  "division-levels": [
-    "province",
-    "district",
-    "local municipality"
-  ],
   "neighbours": {
     "NE": [
       "MZ",

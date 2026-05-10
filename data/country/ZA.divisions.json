@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "divisions": [
+      "province",
+      "district",
+      "local municipality"
+    ]
+  },
+  "data": {}
+}

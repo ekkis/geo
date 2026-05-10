@@ -37,10 +37,6 @@
     "UN"
   ],
   "phone-code": "359",
-  "division-levels": [
-    "province",
-    "municipality"
-  ],
   "neighbours": {
     "NW": [
       "RS"

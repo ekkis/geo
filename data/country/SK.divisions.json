@@ -1,42 +1,51 @@
 {
-  "Banská Bystrica": {
-    "BANBY": {
-      "name": "Banská Bystrica"
-    }
+  "meta": {
+    "divisions": [
+      "region",
+      "district",
+      "municipality"
+    ]
   },
-  "Bratislava": {
-    "BRA": {
-      "name": "Bratislava"
-    }
-  },
-  "Košice": {
-    "KOS": {
-      "name": "Košice"
-    }
-  },
-  "Nitra": {
-    "NIT": {
-      "name": "Nitra"
-    }
-  },
-  "Prešov": {
-    "PRE": {
-      "name": "Prešov"
-    }
-  },
-  "Trenčín": {
-    "TRE": {
-      "name": "Trenčín"
-    }
-  },
-  "Trnava": {
-    "TRN": {
-      "name": "Trnava"
-    }
-  },
-  "Žilina": {
-    "ZIL": {
-      "name": "Žilina"
+  "data": {
+    "Banská Bystrica": {
+      "BANBY": {
+        "name": "Banská Bystrica"
+      }
+    },
+    "Bratislava": {
+      "BRA": {
+        "name": "Bratislava"
+      }
+    },
+    "Košice": {
+      "KOS": {
+        "name": "Košice"
+      }
+    },
+    "Nitra": {
+      "NIT": {
+        "name": "Nitra"
+      }
+    },
+    "Prešov": {
+      "PRE": {
+        "name": "Prešov"
+      }
+    },
+    "Trenčín": {
+      "TRE": {
+        "name": "Trenčín"
+      }
+    },
+    "Trnava": {
+      "TRN": {
+        "name": "Trnava"
+      }
+    },
+    "Žilina": {
+      "ZIL": {
+        "name": "Žilina"
+      }
     }
   }
 }

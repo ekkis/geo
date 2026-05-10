@@ -1,29 +1,36 @@
 {
-  "AN": {
-    "name": "Anabar"
+  "meta": {
+    "divisions": [
+      "district"
+    ]
   },
-  "BA": {
-    "name": "Baiti"
-  },
-  "BO": {
-    "name": "Boe"
-  },
-  "CI": {
-    "name": "Buada"
-  },
-  "DE": {
-    "name": "Denigomodu"
-  },
-  "MA": {
-    "name": "Meneng"
-  },
-  "NB": {
-    "name": "Nibok"
-  },
-  "UA": {
-    "name": "Uaboe"
-  },
-  "YAR": {
-    "name": "Yaren"
+  "data": {
+    "AN": {
+      "name": "Anabar"
+    },
+    "BA": {
+      "name": "Baiti"
+    },
+    "BO": {
+      "name": "Boe"
+    },
+    "CI": {
+      "name": "Buada"
+    },
+    "DE": {
+      "name": "Denigomodu"
+    },
+    "MA": {
+      "name": "Meneng"
+    },
+    "NB": {
+      "name": "Nibok"
+    },
+    "UA": {
+      "name": "Uaboe"
+    },
+    "YAR": {
+      "name": "Yaren"
+    }
   }
 }

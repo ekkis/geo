@@ -40,10 +40,6 @@
     "UN"
   ],
   "phone-code": "31",
-  "division-levels": [
-    "province",
-    "municipality"
-  ],
   "neighbours": {
     "SE": [
       "DE"

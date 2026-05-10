@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "divisions": [
+      "district",
+      "sub-district",
+      "municipality"
+    ]
+  },
+  "data": {}
+}

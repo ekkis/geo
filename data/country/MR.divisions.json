@@ -1,38 +1,47 @@
 {
-  "AD": {
-    "name": "Adrar"
+  "meta": {
+    "divisions": [
+      "region",
+      "department",
+      "commune"
+    ]
   },
-  "AS": {
-    "name": "Assaba"
-  },
-  "BR": {
-    "name": "Brakna"
-  },
-  "DN": {
-    "name": "Dakhlet Nouadhibou"
-  },
-  "GM": {
-    "name": "Guidimaka"
-  },
-  "GO": {
-    "name": "Gorgol"
-  },
-  "HC": {
-    "name": "Hodh Ech Chargui"
-  },
-  "HD": {
-    "name": "Hodh El Gharbi"
-  },
-  "HI": {
-    "name": "Hodh El Gharbi"
-  },
-  "IN": {
-    "name": "Inchiri"
-  },
-  "NO": {
-    "name": "Nouakchott"
-  },
-  "TA": {
-    "name": "Tagant"
+  "data": {
+    "AD": {
+      "name": "Adrar"
+    },
+    "AS": {
+      "name": "Assaba"
+    },
+    "BR": {
+      "name": "Brakna"
+    },
+    "DN": {
+      "name": "Dakhlet Nouadhibou"
+    },
+    "GM": {
+      "name": "Guidimaka"
+    },
+    "GO": {
+      "name": "Gorgol"
+    },
+    "HC": {
+      "name": "Hodh Ech Chargui"
+    },
+    "HD": {
+      "name": "Hodh El Gharbi"
+    },
+    "HI": {
+      "name": "Hodh El Gharbi"
+    },
+    "IN": {
+      "name": "Inchiri"
+    },
+    "NO": {
+      "name": "Nouakchott"
+    },
+    "TA": {
+      "name": "Tagant"
+    }
   }
 }

@@ -37,10 +37,6 @@
     "G20"
   ],
   "phone-code": "82",
-  "division-levels": [
-    "province/metropolitan city/special city",
-    "city/county/district"
-  ],
   "neighbours": {
     "NW": [
       "KP"

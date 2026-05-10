@@ -40,12 +40,6 @@
     "UN"
   ],
   "phone-code": "32",
-  "division-levels": [
-    "region",
-    "province",
-    "arrondissement",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "NL",

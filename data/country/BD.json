@@ -36,11 +36,6 @@
     "UN"
   ],
   "phone-code": "880",
-  "division-levels": [
-    "division",
-    "district",
-    "upazila"
-  ],
   "neighbours": {
     "SE": [
       "MM"

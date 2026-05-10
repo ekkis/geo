@@ -38,10 +38,6 @@
     "UN"
   ],
   "phone-code": "371",
-  "division-levels": [
-    "region",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "EE",

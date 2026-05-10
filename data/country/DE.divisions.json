@@ -1,55 +1,64 @@
 {
-  "Süddeutschland": {
-    "BAY": {
-      "name": "Bayern"
-    },
-    "BW": {
-      "name": "Baden-Württemberg"
-    }
+  "meta": {
+    "divisions": [
+      "state",
+      "district",
+      "municipality"
+    ]
   },
-  "Ostdeutschland": {
-    "BB": {
-      "name": "Brandenburg"
+  "data": {
+    "Süddeutschland": {
+      "BAY": {
+        "name": "Bayern"
+      },
+      "BW": {
+        "name": "Baden-Württemberg"
+      }
     },
-    "BE": {
-      "name": "Berlin"
+    "Ostdeutschland": {
+      "BB": {
+        "name": "Brandenburg"
+      },
+      "BE": {
+        "name": "Berlin"
+      },
+      "SAC": {
+        "name": "Sachsen-Anhalt"
+      },
+      "THÜ": {
+        "name": "Thüringen"
+      }
     },
-    "SAC": {
-      "name": "Sachsen-Anhalt"
+    "Norddeutschland": {
+      "HB": {
+        "name": "Bremen"
+      },
+      "HH": {
+        "name": "Hamburg"
+      },
+      "MV": {
+        "name": "Mecklenburg-Vorpommern"
+      },
+      "NIE": {
+        "name": "Niedersachsen"
+      },
+      "SH": {
+        "name": "Schleswig-Holstein"
+      }
     },
-    "THÜ": {
-      "name": "Thüringen"
-    }
-  },
-  "Norddeutschland": {
-    "HB": {
-      "name": "Bremen"
-    },
-    "HH": {
-      "name": "Hamburg"
-    },
-    "MV": {
-      "name": "Mecklenburg-Vorpommern"
-    },
-    "NIE": {
-      "name": "Niedersachsen"
-    },
-    "SH": {
-      "name": "Schleswig-Holstein"
-    }
-  },
-  "Westdeutschland": {
-    "HES": {
-      "name": "Hessen"
-    },
-    "NOR": {
-      "name": "Nordrhein-Westfalen"
-    },
-    "RHE": {
-      "name": "Rheinland-Pfalz"
-    },
-    "SL": {
-      "name": "Saarland"
+    "Westdeutschland": {
+      "HES": {
+        "name": "Hessen"
+      },
+      "NOR": {
+        "name": "Nordrhein-Westfalen"
+      },
+      "RHE": {
+        "name": "Rheinland-Pfalz"
+      },
+      "SL": {
+        "name": "Saarland"
+      }
     }
   }
 }

@@ -40,11 +40,6 @@
     "UN"
   ],
   "phone-code": "48",
-  "division-levels": [
-    "voivodeship",
-    "county",
-    "gmina"
-  ],
   "neighbours": {
     "NE": [
       "BY",

@@ -38,11 +38,6 @@
     "WTO"
   ],
   "phone-code": "84",
-  "division-levels": [
-    "province/municipality",
-    "district",
-    "commune"
-  ],
   "neighbours": {
     "NW": [
       "CN",

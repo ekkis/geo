@@ -28,13 +28,6 @@
     "UN"
   ],
   "phone-code": "250",
-  "division-levels": [
-    "province",
-    "district",
-    "sector",
-    "cell",
-    "village"
-  ],
   "neighbours": {
     "NE": [
       "UG"

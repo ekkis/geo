@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "divisions": [
+      "province",
+      "district",
+      "sector",
+      "cell",
+      "village"
+    ]
+  },
+  "data": {}
+}

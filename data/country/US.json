@@ -47,12 +47,7 @@
     "OAS"
   ],
   "phone-code": "1",
-  "division-levels": [
-    "region",
-    "state",
-    "county"
-  ],
-  "neighbours": {
+  "neighbour-codes": {
     "NE": [
       "CA"
     ],

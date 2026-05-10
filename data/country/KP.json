@@ -28,10 +28,6 @@
     "regex": "^(\\d{6})$"
   },
   "phone-code": "850",
-  "division-levels": [
-    "province/city",
-    "county"
-  ],
   "neighbours": {
     "NW": [
       "RU"

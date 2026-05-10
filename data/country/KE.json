@@ -31,10 +31,6 @@
     "UN"
   ],
   "phone-code": "254",
-  "division-levels": [
-    "county",
-    "sub-county"
-  ],
   "neighbours": {
     "NE": [
       "SO"

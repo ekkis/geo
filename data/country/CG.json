@@ -29,11 +29,6 @@
     "AU"
   ],
   "phone-code": "242",
-  "division-levels": [
-    "department",
-    "district",
-    "commune"
-  ],
   "neighbours": {
     "NE": [
       "CF",

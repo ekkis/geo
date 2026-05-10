@@ -38,11 +38,6 @@
     "UN"
   ],
   "phone-code": "506",
-  "division-levels": [
-    "province",
-    "canton",
-    "district"
-  ],
   "neighbours": {
     "NW": [
       "NI"

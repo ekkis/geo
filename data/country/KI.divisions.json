@@ -1,11 +1,19 @@
 {
-  "GIL": {
-    "name": "Gilbert Islands"
+  "meta": {
+    "divisions": [
+      "island group",
+      "island"
+    ]
   },
-  "LIN": {
-    "name": "Line Islands"
-  },
-  "PHO": {
-    "name": "Phoenix Islands"
+  "data": {
+    "GIL": {
+      "name": "Gilbert Islands"
+    },
+    "LIN": {
+      "name": "Line Islands"
+    },
+    "PHO": {
+      "name": "Phoenix Islands"
+    }
   }
 }

@@ -27,11 +27,6 @@
     "UN"
   ],
   "phone-code": "240",
-  "division-levels": [
-    "province",
-    "district",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "CM"

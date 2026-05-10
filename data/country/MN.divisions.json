@@ -1,107 +1,115 @@
 {
-  "Arkhangai": {
-    "ARKH": {
-      "name": "Arkhangai"
-    }
+  "meta": {
+    "divisions": [
+      "aimag/sum",
+      "sum"
+    ]
   },
-  "Bayankhongor": {
-    "BAYANH": {
-      "name": "Bayankhongor"
-    }
-  },
-  "Bayan-Olgii": {
-    "BAYAO": {
-      "name": "Bayan-Olgii"
-    }
-  },
-  "Bulgan": {
-    "BULG": {
-      "name": "Bulgan"
-    }
-  },
-  "Darkhan-Uul": {
-    "DARKH": {
-      "name": "Darkhan-Uul"
-    }
-  },
-  "Dornod": {
-    "DORN": {
-      "name": "Dornod"
-    }
-  },
-  "Dornogovi": {
-    "DORNO": {
-      "name": "Dornogovi"
-    }
-  },
-  "Dundgovi": {
-    "DUND": {
-      "name": "Dundgovi"
-    }
-  },
-  "Govi-Altai": {
-    "GOVI": {
-      "name": "Govi-Altai"
-    }
-  },
-  "Govi-Sumber": {
-    "GOVIS": {
-      "name": "Govi-Sumber"
-    }
-  },
-  "Khentii": {
-    "KHENT": {
-      "name": "Khentii"
-    }
-  },
-  "Khovd": {
-    "KHOV": {
-      "name": "Khovd"
-    }
-  },
-  "Khövsgöl": {
-    "KHOVG": {
-      "name": "Khövsgöl"
-    }
-  },
-  "Orkhon": {
-    "ORKHON": {
-      "name": "Orkhon"
-    }
-  },
-  "Ovorkhangai": {
-    "OVORK": {
-      "name": "Ovorkhangai"
-    }
-  },
-  "Selenge": {
-    "SELE": {
-      "name": "Selenge"
-    }
-  },
-  "Töv": {
-    "TUV": {
-      "name": "Töv"
-    }
-  },
-  "Ulaanbaatar": {
-    "ULAANB": {
-      "name": "Ulaanbaatar"
-    }
-  },
-  "Umnugovi": {
-    "UMNU": {
-      "name": "Umnugovi"
-    }
-  },
-  "Uvs": {
-    "UVS": {
-      "name": "Uvs"
-    }
-  },
-  "Zavkhan": {
-    "ZAVK": {
-      "name": "Zavkhan"
+  "data": {
+    "Arkhangai": {
+      "ARKH": {
+        "name": "Arkhangai"
+      }
+    },
+    "Bayankhongor": {
+      "BAYANH": {
+        "name": "Bayankhongor"
+      }
+    },
+    "Bayan-Olgii": {
+      "BAYAO": {
+        "name": "Bayan-Olgii"
+      }
+    },
+    "Bulgan": {
+      "BULG": {
+        "name": "Bulgan"
+      }
+    },
+    "Darkhan-Uul": {
+      "DARKH": {
+        "name": "Darkhan-Uul"
+      }
+    },
+    "Dornod": {
+      "DORN": {
+        "name": "Dornod"
+      }
+    },
+    "Dornogovi": {
+      "DORNO": {
+        "name": "Dornogovi"
+      }
+    },
+    "Dundgovi": {
+      "DUND": {
+        "name": "Dundgovi"
+      }
+    },
+    "Govi-Altai": {
+      "GOVI": {
+        "name": "Govi-Altai"
+      }
+    },
+    "Govi-Sumber": {
+      "GOVIS": {
+        "name": "Govi-Sumber"
+      }
+    },
+    "Khentii": {
+      "KHENT": {
+        "name": "Khentii"
+      }
+    },
+    "Khovd": {
+      "KHOV": {
+        "name": "Khovd"
+      }
+    },
+    "Khövsgöl": {
+      "KHOVG": {
+        "name": "Khövsgöl"
+      }
+    },
+    "Orkhon": {
+      "ORKHON": {
+        "name": "Orkhon"
+      }
+    },
+    "Ovorkhangai": {
+      "OVORK": {
+        "name": "Ovorkhangai"
+      }
+    },
+    "Selenge": {
+      "SELE": {
+        "name": "Selenge"
+      }
+    },
+    "Töv": {
+      "TUV": {
+        "name": "Töv"
+      }
+    },
+    "Ulaanbaatar": {
+      "ULAANB": {
+        "name": "Ulaanbaatar"
+      }
+    },
+    "Umnugovi": {
+      "UMNU": {
+        "name": "Umnugovi"
+      }
+    },
+    "Uvs": {
+      "UVS": {
+        "name": "Uvs"
+      }
+    },
+    "Zavkhan": {
+      "ZAVK": {
+        "name": "Zavkhan"
+      }
     }
   }
 }

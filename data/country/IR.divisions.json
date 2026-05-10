@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "divisions": [
+      "province",
+      "county",
+      "district",
+      "rural district/city"
+    ]
+  },
+  "data": {}
+}

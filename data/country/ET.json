@@ -33,12 +33,6 @@
     "UN"
   ],
   "phone-code": "251",
-  "division-levels": [
-    "region",
-    "zone",
-    "woreda",
-    "kebele"
-  ],
   "neighbours": {
     "NE": [
       "DJ",

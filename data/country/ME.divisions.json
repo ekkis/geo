@@ -1,57 +1,64 @@
 {
-  "Bar": {
-    "BAR": {
-      "name": "Bar"
-    }
+  "meta": {
+    "divisions": [
+      "municipality"
+    ]
   },
-  "Bijelo Polje": {
-    "BIJPO": {
-      "name": "Bijelo Polje"
-    }
-  },
-  "Cetinje": {
-    "CET": {
-      "name": "Cetinje"
-    }
-  },
-  "Danilovgrad": {
-    "DAN": {
-      "name": "Danilovgrad"
-    }
-  },
-  "Herceg Novi": {
-    "HERNO": {
-      "name": "Herceg Novi"
-    }
-  },
-  "Nikšić": {
-    "NIK": {
-      "name": "Nikšić"
-    }
-  },
-  "Pljevlja": {
-    "PLJ": {
-      "name": "Pljevlja"
-    }
-  },
-  "Podgorica": {
-    "POD": {
-      "name": "Podgorica"
-    }
-  },
-  "Rožaje": {
-    "ROZ": {
-      "name": "Rožaje"
-    }
-  },
-  "Šavnik": {
-    "SAV": {
-      "name": "Šavnik"
-    }
-  },
-  "Ulcinj": {
-    "ULC": {
-      "name": "Ulcinj"
+  "data": {
+    "Bar": {
+      "BAR": {
+        "name": "Bar"
+      }
+    },
+    "Bijelo Polje": {
+      "BIJPO": {
+        "name": "Bijelo Polje"
+      }
+    },
+    "Cetinje": {
+      "CET": {
+        "name": "Cetinje"
+      }
+    },
+    "Danilovgrad": {
+      "DAN": {
+        "name": "Danilovgrad"
+      }
+    },
+    "Herceg Novi": {
+      "HERNO": {
+        "name": "Herceg Novi"
+      }
+    },
+    "Nikšić": {
+      "NIK": {
+        "name": "Nikšić"
+      }
+    },
+    "Pljevlja": {
+      "PLJ": {
+        "name": "Pljevlja"
+      }
+    },
+    "Podgorica": {
+      "POD": {
+        "name": "Podgorica"
+      }
+    },
+    "Rožaje": {
+      "ROZ": {
+        "name": "Rožaje"
+      }
+    },
+    "Šavnik": {
+      "SAV": {
+        "name": "Šavnik"
+      }
+    },
+    "Ulcinj": {
+      "ULC": {
+        "name": "Ulcinj"
+      }
     }
   }
 }

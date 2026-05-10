@@ -28,10 +28,6 @@
     "UN"
   ],
   "phone-code": "257",
-  "division-levels": [
-    "province",
-    "commune"
-  ],
   "neighbours": {
     "NW": [
       "CD"

@@ -1,62 +1,70 @@
 {
-  "Capellen": {
+  "meta": {
+    "divisions": [
+      "canton",
+      "commune"
+    ]
+  },
+  "data": {
     "Capellen": {
-      "name": "Capellen"
-    }
-  },
-  "Clervaux": {
+      "Capellen": {
+        "name": "Capellen"
+      }
+    },
     "Clervaux": {
-      "name": "Clervaux"
-    }
-  },
-  "Diekirch": {
+      "Clervaux": {
+        "name": "Clervaux"
+      }
+    },
     "Diekirch": {
-      "name": "Diekirch"
-    }
-  },
-  "Echternach": {
+      "Diekirch": {
+        "name": "Diekirch"
+      }
+    },
     "Echternach": {
-      "name": "Echternach"
-    }
-  },
-  "Esch-sur-Alzette": {
+      "Echternach": {
+        "name": "Echternach"
+      }
+    },
     "Esch-sur-Alzette": {
-      "name": "Esch-sur-Alzette"
-    }
-  },
-  "Grevenmacher": {
+      "Esch-sur-Alzette": {
+        "name": "Esch-sur-Alzette"
+      }
+    },
     "Grevenmacher": {
-      "name": "Grevenmacher"
-    }
-  },
-  "Luxembourg": {
+      "Grevenmacher": {
+        "name": "Grevenmacher"
+      }
+    },
     "Luxembourg": {
-      "name": "Luxembourg"
-    }
-  },
-  "Mersch": {
+      "Luxembourg": {
+        "name": "Luxembourg"
+      }
+    },
     "Mersch": {
-      "name": "Mersch"
-    }
-  },
-  "Redange": {
+      "Mersch": {
+        "name": "Mersch"
+      }
+    },
     "Redange": {
-      "name": "Redange"
-    }
-  },
-  "Remich": {
+      "Redange": {
+        "name": "Redange"
+      }
+    },
     "Remich": {
-      "name": "Remich"
-    }
-  },
-  "Vianden": {
+      "Remich": {
+        "name": "Remich"
+      }
+    },
     "Vianden": {
-      "name": "Vianden"
-    }
-  },
-  "Wiltz": {
+      "Vianden": {
+        "name": "Vianden"
+      }
+    },
     "Wiltz": {
-      "name": "Wiltz"
+      "Wiltz": {
+        "name": "Wiltz"
+      }
     }
   }
 }

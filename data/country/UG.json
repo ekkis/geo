@@ -27,14 +27,6 @@
     "UN"
   ],
   "phone-code": "256",
-  "division-levels": [
-    "region",
-    "district",
-    "county",
-    "sub-county",
-    "parish",
-    "village"
-  ],
   "neighbours": {
     "NW": [
       "SS"

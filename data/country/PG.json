@@ -31,11 +31,6 @@
     "UN"
   ],
   "phone-code": "675",
-  "division-levels": [
-    "province/autonomous region",
-    "district",
-    "LLG"
-  ],
   "neighbours": {
     "NW": [
       "ID"

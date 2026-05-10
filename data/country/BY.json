@@ -35,11 +35,6 @@
     "UN"
   ],
   "phone-code": "375",
-  "division-levels": [
-    "region",
-    "district",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "RU"

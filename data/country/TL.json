@@ -30,11 +30,6 @@
     "UN"
   ],
   "phone-code": "670",
-  "division-levels": [
-    "municipality",
-    "administrative post",
-    "suco"
-  ],
   "neighbours": {
     "NW": [
       "ID"

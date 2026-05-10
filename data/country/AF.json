@@ -32,11 +32,6 @@
     "UN"
   ],
   "phone-code": "93",
-  "division-levels": [
-    "province",
-    "district",
-    "village"
-  ],
   "neighbours": {
     "NE": [
       "CN",

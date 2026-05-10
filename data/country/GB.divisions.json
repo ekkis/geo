@@ -1,317 +1,328 @@
 {
-  "England": {
-    "AVO": {
-      "name": "Avon"
+  "meta": {
+    "divisions": [
+      "country",
+      "region",
+      "county",
+      "district",
+      "parish"
+    ]
+  },
+  "data": {
+    "England": {
+      "AVO": {
+        "name": "Avon"
+      },
+      "BED": {
+        "name": "Bedfordshire"
+      },
+      "BER": {
+        "name": "Berkshire"
+      },
+      "CAM": {
+        "name": "Cambridgeshire"
+      },
+      "CHE": {
+        "name": "Cheshire"
+      },
+      "CLE": {
+        "name": "Cleveland"
+      },
+      "COR": {
+        "name": "Cornwall"
+      },
+      "CUM": {
+        "name": "Cumbria"
+      },
+      "DER": {
+        "name": "Derbyshire"
+      },
+      "DEV": {
+        "name": "Devon"
+      },
+      "DOR": {
+        "name": "Dorset"
+      },
+      "DUR": {
+        "name": "Durham"
+      },
+      "ES": {
+        "name": "East Sussex"
+      },
+      "ESS": {
+        "name": "Essex"
+      },
+      "GLO": {
+        "name": "Gloucestershire"
+      },
+      "GM": {
+        "name": "Greater Manchester"
+      },
+      "HAM": {
+        "name": "Hampshire"
+      },
+      "HER": {
+        "name": "Hertfordshire"
+      },
+      "KEN": {
+        "name": "Kent"
+      },
+      "LAN": {
+        "name": "Lancashire"
+      },
+      "LEI": {
+        "name": "Leicestershire"
+      },
+      "LIN": {
+        "name": "Lincolnshire"
+      },
+      "MER": {
+        "name": "Merseyside"
+      },
+      "NOR": {
+        "name": "Northumberland"
+      },
+      "NOT": {
+        "name": "Nottinghamshire"
+      },
+      "OXF": {
+        "name": "Oxfordshire"
+      },
+      "RUT": {
+        "name": "Rutland"
+      },
+      "SHR": {
+        "name": "Shropshire"
+      },
+      "SOM": {
+        "name": "Somerset"
+      },
+      "STA": {
+        "name": "Staffordshire"
+      },
+      "SUF": {
+        "name": "Suffolk"
+      },
+      "SUR": {
+        "name": "Surrey"
+      },
+      "WAR": {
+        "name": "Warwickshire"
+      },
+      "WIL": {
+        "name": "Wiltshire"
+      },
+      "WM": {
+        "name": "West Midlands"
+      },
+      "WOR": {
+        "name": "Worcestershire"
+      },
+      "WS": {
+        "name": "West Sussex"
+      },
+      "WY": {
+        "name": "West Yorkshire"
+      }
     },
-    "BED": {
-      "name": "Bedfordshire"
+    "Scotland": {
+      "BOR": {
+        "name": "Borders"
+      },
+      "FIF": {
+        "name": "Fife"
+      },
+      "GLA": {
+        "name": "Glasgow"
+      },
+      "MID": {
+        "name": "Midlothian"
+      },
+      "MOR": {
+        "name": "Moray"
+      },
+      "ORK": {
+        "name": "Orkney"
+      },
+      "SHE": {
+        "name": "Shetland"
+      },
+      "STI": {
+        "name": "Stirling"
+      },
+      "WL": {
+        "name": "West Lothian"
+      }
     },
-    "BER": {
-      "name": "Berkshire"
+    "Wales": {
+      "BRI": {
+        "name": "Bridgend"
+      }
     },
-    "CAM": {
-      "name": "Cambridgeshire"
+    "AA": {
+      "name": "Argyll and Bute"
     },
-    "CHE": {
-      "name": "Cheshire"
+    "ABE": {
+      "name": "Aberdeenshire"
     },
-    "CLE": {
-      "name": "Cleveland"
+    "AC": {
+      "name": "Aberdeen City"
     },
-    "COR": {
-      "name": "Cornwall"
+    "ANG": {
+      "name": "Angus"
     },
-    "CUM": {
-      "name": "Cumbria"
+    "ANT": {
+      "name": "Antrim"
     },
-    "DER": {
-      "name": "Derbyshire"
+    "ARM": {
+      "name": "Armagh"
     },
-    "DEV": {
-      "name": "Devon"
+    "BG": {
+      "name": "Blaenau Gwent"
     },
-    "DOR": {
-      "name": "Dorset"
+    "BUC": {
+      "name": "Buckinghamshire"
     },
-    "DUR": {
-      "name": "Durham"
+    "CAE": {
+      "name": "Caerphilly"
     },
-    "ES": {
-      "name": "East Sussex"
+    "CAR": {
+      "name": "Cardiff"
     },
-    "ESS": {
-      "name": "Essex"
+    "CER": {
+      "name": "Ceredigion"
     },
-    "GLO": {
-      "name": "Gloucestershire"
+    "CI": {
+      "name": "Channel Islands"
     },
-    "GM": {
-      "name": "Greater Manchester"
+    "CLA": {
+      "name": "Clackmannan"
     },
-    "HAM": {
-      "name": "Hampshire"
+    "CON": {
+      "name": "Conwy"
     },
-    "HER": {
-      "name": "Hertfordshire"
+    "DA": {
+      "name": "Dumfries and Galloway"
     },
-    "KEN": {
-      "name": "Kent"
+    "DEN": {
+      "name": "Denbighshire"
     },
-    "LAN": {
-      "name": "Lancashire"
+    "DOW": {
+      "name": "Down"
     },
-    "LEI": {
-      "name": "Leicestershire"
+    "EA": {
+      "name": "East Ayrshire"
     },
-    "LIN": {
-      "name": "Lincolnshire"
+    "EC": {
+      "name": "Edinburgh City"
     },
-    "MER": {
-      "name": "Merseyside"
+    "ED": {
+      "name": "East Dunbartonshire"
     },
-    "NOR": {
-      "name": "Northumberland"
+    "EL": {
+      "name": "East Lothian"
     },
-    "NOT": {
-      "name": "Nottinghamshire"
+    "ER": {
+      "name": "East Renfrewshire"
     },
-    "OXF": {
-      "name": "Oxfordshire"
+    "FAL": {
+      "name": "Falkirk"
     },
-    "RUT": {
-      "name": "Rutland"
+    "FER": {
+      "name": "Fermanagh"
     },
-    "SHR": {
-      "name": "Shropshire"
+    "FLI": {
+      "name": "Flintshire"
     },
-    "SOM": {
-      "name": "Somerset"
+    "GWY": {
+      "name": "Gwynedd"
     },
-    "STA": {
-      "name": "Staffordshire"
+    "HIG": {
+      "name": "Highland"
     },
-    "SUF": {
-      "name": "Suffolk"
+    "HUM": {
+      "name": "Humberside"
     },
-    "SUR": {
-      "name": "Surrey"
+    "INV": {
+      "name": "Inverclyde"
     },
-    "WAR": {
-      "name": "Warwickshire"
+    "IO": {
+      "name": "Isle of Anglesey"
     },
-    "WIL": {
-      "name": "Wiltshire"
+    "LON": {
+      "name": "Londonderry"
     },
-    "WM": {
-      "name": "West Midlands"
+    "MON": {
+      "name": "Monmouthshire"
     },
-    "WOR": {
-      "name": "Worcestershire"
+    "MT": {
+      "name": "Merthyr Tydfil"
     },
-    "WS": {
-      "name": "West Sussex"
+    "NA": {
+      "name": "North Ayrshire"
     },
-    "WY": {
-      "name": "West Yorkshire"
+    "NEW": {
+      "name": "Newport"
+    },
+    "NL": {
+      "name": "North Lanarkshire"
+    },
+    "NP": {
+      "name": "Neath Port Talbot"
+    },
+    "NY": {
+      "name": "North Yorkshire"
+    },
+    "PA": {
+      "name": "Perthshire and Kinross"
+    },
+    "PEM": {
+      "name": "Pembrokeshire"
+    },
+    "POW": {
+      "name": "Powys"
+    },
+    "RC": {
+      "name": "Rhondda Cynon Taff"
+    },
+    "REN": {
+      "name": "Renfrewshire"
+    },
+    "ROX": {
+      "name": "Roxburghshire"
+    },
+    "SA": {
+      "name": "South Ayrshire"
+    },
+    "SL": {
+      "name": "South Lanarkshire"
+    },
+    "SWA": {
+      "name": "Swansea"
+    },
+    "SY": {
+      "name": "South Yorkshire"
+    },
+    "TA": {
+      "name": "Tyne and Wear"
+    },
+    "TOR": {
+      "name": "Torfaen"
+    },
+    "TV": {
+      "name": "The Vale of Glamorgan"
+    },
+    "TYR": {
+      "name": "Tyrone"
+    },
+    "WD": {
+      "name": "West Dunbartonshire"
+    },
+    "WI": {
+      "name": "Western Isles"
+    },
+    "WRE": {
+      "name": "Wrexham"
     }
-  },
-  "Scotland": {
-    "BOR": {
-      "name": "Borders"
-    },
-    "FIF": {
-      "name": "Fife"
-    },
-    "GLA": {
-      "name": "Glasgow"
-    },
-    "MID": {
-      "name": "Midlothian"
-    },
-    "MOR": {
-      "name": "Moray"
-    },
-    "ORK": {
-      "name": "Orkney"
-    },
-    "SHE": {
-      "name": "Shetland"
-    },
-    "STI": {
-      "name": "Stirling"
-    },
-    "WL": {
-      "name": "West Lothian"
-    }
-  },
-  "Wales": {
-    "BRI": {
-      "name": "Bridgend"
-    }
-  },
-  "AA": {
-    "name": "Argyll and Bute"
-  },
-  "ABE": {
-    "name": "Aberdeenshire"
-  },
-  "AC": {
-    "name": "Aberdeen City"
-  },
-  "ANG": {
-    "name": "Angus"
-  },
-  "ANT": {
-    "name": "Antrim"
-  },
-  "ARM": {
-    "name": "Armagh"
-  },
-  "BG": {
-    "name": "Blaenau Gwent"
-  },
-  "BUC": {
-    "name": "Buckinghamshire"
-  },
-  "CAE": {
-    "name": "Caerphilly"
-  },
-  "CAR": {
-    "name": "Cardiff"
-  },
-  "CER": {
-    "name": "Ceredigion"
-  },
-  "CI": {
-    "name": "Channel Islands"
-  },
-  "CLA": {
-    "name": "Clackmannan"
-  },
-  "CON": {
-    "name": "Conwy"
-  },
-  "DA": {
-    "name": "Dumfries and Galloway"
-  },
-  "DEN": {
-    "name": "Denbighshire"
-  },
-  "DOW": {
-    "name": "Down"
-  },
-  "EA": {
-    "name": "East Ayrshire"
-  },
-  "EC": {
-    "name": "Edinburgh City"
-  },
-  "ED": {
-    "name": "East Dunbartonshire"
-  },
-  "EL": {
-    "name": "East Lothian"
-  },
-  "ER": {
-    "name": "East Renfrewshire"
-  },
-  "FAL": {
-    "name": "Falkirk"
-  },
-  "FER": {
-    "name": "Fermanagh"
-  },
-  "FLI": {
-    "name": "Flintshire"
-  },
-  "GWY": {
-    "name": "Gwynedd"
-  },
-  "HIG": {
-    "name": "Highland"
-  },
-  "HUM": {
-    "name": "Humberside"
-  },
-  "INV": {
-    "name": "Inverclyde"
-  },
-  "IO": {
-    "name": "Isle of Anglesey"
-  },
-  "LON": {
-    "name": "Londonderry"
-  },
-  "MON": {
-    "name": "Monmouthshire"
-  },
-  "MT": {
-    "name": "Merthyr Tydfil"
-  },
-  "NA": {
-    "name": "North Ayrshire"
-  },
-  "NEW": {
-    "name": "Newport"
-  },
-  "NL": {
-    "name": "North Lanarkshire"
-  },
-  "NP": {
-    "name": "Neath Port Talbot"
-  },
-  "NY": {
-    "name": "North Yorkshire"
-  },
-  "PA": {
-    "name": "Perthshire and Kinross"
-  },
-  "PEM": {
-    "name": "Pembrokeshire"
-  },
-  "POW": {
-    "name": "Powys"
-  },
-  "RC": {
-    "name": "Rhondda Cynon Taff"
-  },
-  "REN": {
-    "name": "Renfrewshire"
-  },
-  "ROX": {
-    "name": "Roxburghshire"
-  },
-  "SA": {
-    "name": "South Ayrshire"
-  },
-  "SL": {
-    "name": "South Lanarkshire"
-  },
-  "SWA": {
-    "name": "Swansea"
-  },
-  "SY": {
-    "name": "South Yorkshire"
-  },
-  "TA": {
-    "name": "Tyne and Wear"
-  },
-  "TOR": {
-    "name": "Torfaen"
-  },
-  "TV": {
-    "name": "The Vale of Glamorgan"
-  },
-  "TYR": {
-    "name": "Tyrone"
-  },
-  "WD": {
-    "name": "West Dunbartonshire"
-  },
-  "WI": {
-    "name": "Western Isles"
-  },
-  "WRE": {
-    "name": "Wrexham"
   }
 }

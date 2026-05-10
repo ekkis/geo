@@ -38,12 +38,6 @@
     "UN"
   ],
   "phone-code": "66",
-  "division-levels": [
-    "province",
-    "district",
-    "subdistrict",
-    "village"
-  ],
   "neighbours": {
     "NE": [
       "LA"

@@ -34,10 +34,6 @@
     "UN"
   ],
   "phone-code": "995",
-  "division-levels": [
-    "region",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "RU"

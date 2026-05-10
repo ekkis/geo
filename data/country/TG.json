@@ -30,11 +30,6 @@
     "UN"
   ],
   "phone-code": "228",
-  "division-levels": [
-    "region",
-    "prefecture",
-    "sub-prefecture"
-  ],
   "neighbours": {
     "NE": [
       "BJ"

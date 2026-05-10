@@ -1,19 +1,27 @@
 {
-  "Denmark": {
-    "HOV": {
-      "name": "Hovedstaden"
-    },
-    "MID": {
-      "name": "Midtjylland"
-    },
-    "NOR": {
-      "name": "Nordjylland"
-    },
-    "SJÆ": {
-      "name": "Sjælland"
-    },
-    "SYD": {
-      "name": "Syddanmark"
+  "meta": {
+    "divisions": [
+      "region",
+      "municipality"
+    ]
+  },
+  "data": {
+    "Denmark": {
+      "HOV": {
+        "name": "Hovedstaden"
+      },
+      "MID": {
+        "name": "Midtjylland"
+      },
+      "NOR": {
+        "name": "Nordjylland"
+      },
+      "SJÆ": {
+        "name": "Sjælland"
+      },
+      "SYD": {
+        "name": "Syddanmark"
+      }
     }
   }
 }

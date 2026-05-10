@@ -38,10 +38,6 @@
     "UN"
   ],
   "phone-code": "60",
-  "division-levels": [
-    "state/federal territory",
-    "district"
-  ],
   "neighbours": {
     "NE": [
       "BN"

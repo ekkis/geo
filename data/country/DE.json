@@ -42,11 +42,6 @@
     "UN"
   ],
   "phone-code": "49",
-  "division-levels": [
-    "state",
-    "district",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "DK",

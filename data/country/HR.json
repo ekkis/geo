@@ -39,10 +39,6 @@
     "UN"
   ],
   "phone-code": "385",
-  "division-levels": [
-    "county",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "HU"

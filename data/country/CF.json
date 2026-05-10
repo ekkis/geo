@@ -30,11 +30,6 @@
     "UN"
   ],
   "phone-code": "236",
-  "division-levels": [
-    "prefecture",
-    "sub-prefecture",
-    "commune"
-  ],
   "neighbours": {
     "NE": [
       "SD"

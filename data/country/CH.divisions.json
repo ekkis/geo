@@ -1,107 +1,116 @@
 {
-  "Aargau": {
-    "AAR": {
-      "name": "Aargau"
-    }
+  "meta": {
+    "divisions": [
+      "canton",
+      "district",
+      "municipality"
+    ]
   },
-  "Appenzell Ausserrhoden": {
-    "APPAU": {
-      "name": "Appenzell Ausserrhoden"
-    }
-  },
-  "Appenzell Innerrhoden": {
-    "APPIN": {
-      "name": "Appenzell Innerrhoden"
-    }
-  },
-  "Basel-Stadt": {
-    "BAS": {
-      "name": "Basel-Stadt"
-    }
-  },
-  "Bern": {
-    "BER": {
-      "name": "Bern"
-    }
-  },
-  "Fribourg": {
-    "FRI": {
-      "name": "Fribourg"
-    }
-  },
-  "Geneva": {
-    "GEN": {
-      "name": "Geneva"
-    }
-  },
-  "Glarus": {
-    "GLA": {
-      "name": "Glarus"
-    }
-  },
-  "Graubünden": {
-    "GRA": {
-      "name": "Graubünden"
-    }
-  },
-  "Luzern": {
-    "LUZ": {
-      "name": "Luzern"
-    }
-  },
-  "Neuchâtel": {
-    "NEU": {
-      "name": "Neuchâtel"
-    }
-  },
-  "Sankt Gallen": {
-    "SANGA": {
-      "name": "Sankt Gallen"
-    }
-  },
-  "Schaffhausen": {
-    "SCH": {
-      "name": "Schaffhausen"
-    }
-  },
-  "Schwyz": {
-    "SCH1": {
-      "name": "Schwyz"
-    }
-  },
-  "Solothurn": {
-    "SOL": {
-      "name": "Solothurn"
-    }
-  },
-  "St. Gallen": {
-    "ST.GA": {
-      "name": "St. Gallen"
-    }
-  },
-  "Thurgau": {
-    "THU": {
-      "name": "Thurgau"
-    }
-  },
-  "Ticino": {
-    "TIC": {
-      "name": "Ticino"
-    }
-  },
-  "Valais": {
-    "VAL": {
-      "name": "Valais"
-    }
-  },
-  "Vaud": {
-    "VAU": {
-      "name": "Vaud"
-    }
-  },
-  "Zurich": {
-    "ZUR": {
-      "name": "Zurich"
+  "data": {
+    "Aargau": {
+      "AAR": {
+        "name": "Aargau"
+      }
+    },
+    "Appenzell Ausserrhoden": {
+      "APPAU": {
+        "name": "Appenzell Ausserrhoden"
+      }
+    },
+    "Appenzell Innerrhoden": {
+      "APPIN": {
+        "name": "Appenzell Innerrhoden"
+      }
+    },
+    "Basel-Stadt": {
+      "BAS": {
+        "name": "Basel-Stadt"
+      }
+    },
+    "Bern": {
+      "BER": {
+        "name": "Bern"
+      }
+    },
+    "Fribourg": {
+      "FRI": {
+        "name": "Fribourg"
+      }
+    },
+    "Geneva": {
+      "GEN": {
+        "name": "Geneva"
+      }
+    },
+    "Glarus": {
+      "GLA": {
+        "name": "Glarus"
+      }
+    },
+    "Graubünden": {
+      "GRA": {
+        "name": "Graubünden"
+      }
+    },
+    "Luzern": {
+      "LUZ": {
+        "name": "Luzern"
+      }
+    },
+    "Neuchâtel": {
+      "NEU": {
+        "name": "Neuchâtel"
+      }
+    },
+    "Sankt Gallen": {
+      "SANGA": {
+        "name": "Sankt Gallen"
+      }
+    },
+    "Schaffhausen": {
+      "SCH": {
+        "name": "Schaffhausen"
+      }
+    },
+    "Schwyz": {
+      "SCH1": {
+        "name": "Schwyz"
+      }
+    },
+    "Solothurn": {
+      "SOL": {
+        "name": "Solothurn"
+      }
+    },
+    "St. Gallen": {
+      "ST.GA": {
+        "name": "St. Gallen"
+      }
+    },
+    "Thurgau": {
+      "THU": {
+        "name": "Thurgau"
+      }
+    },
+    "Ticino": {
+      "TIC": {
+        "name": "Ticino"
+      }
+    },
+    "Valais": {
+      "VAL": {
+        "name": "Valais"
+      }
+    },
+    "Vaud": {
+      "VAU": {
+        "name": "Vaud"
+      }
+    },
+    "Zurich": {
+      "ZUR": {
+        "name": "Zurich"
+      }
     }
   }
 }

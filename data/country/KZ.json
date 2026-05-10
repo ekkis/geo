@@ -37,10 +37,6 @@
     "UN"
   ],
   "phone-code": "7",
-  "division-levels": [
-    "region",
-    "district"
-  ],
   "neighbours": {
     "NE": [
       "RU"

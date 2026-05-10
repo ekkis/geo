@@ -38,12 +38,6 @@
     "UN"
   ],
   "phone-code": "63",
-  "division-levels": [
-    "region",
-    "province/city",
-    "municipality/city",
-    "barangay"
-  ],
   "language-codes": [
     "tl"
   ],

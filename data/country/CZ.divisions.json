@@ -1,72 +1,80 @@
 {
-  "Central Bohemian": {
-    "CENBO": {
-      "name": "Central Bohemian"
-    }
+  "meta": {
+    "divisions": [
+      "region",
+      "district"
+    ]
   },
-  "Hradec Králové": {
-    "HRAKR": {
-      "name": "Hradec Králové"
-    }
-  },
-  "Karlovy Vary": {
-    "KARVA": {
-      "name": "Karlovy Vary"
-    }
-  },
-  "Liberec": {
-    "LIB": {
-      "name": "Liberec"
-    }
-  },
-  "Moravian-Silesian": {
-    "MOR": {
-      "name": "Moravian-Silesian"
-    }
-  },
-  "Olomouc": {
-    "OLO": {
-      "name": "Olomouc"
-    }
-  },
-  "Pardubice": {
-    "PAR": {
-      "name": "Pardubice"
-    }
-  },
-  "Plzeň": {
-    "PLZ": {
-      "name": "Plzeň"
-    }
-  },
-  "Prague": {
-    "PRA": {
-      "name": "Prague"
-    }
-  },
-  "South Bohemian": {
-    "SOUBO": {
-      "name": "South Bohemian"
-    }
-  },
-  "South Moravian": {
-    "SOUMO": {
-      "name": "South Moravian"
-    }
-  },
-  "Ústí nad Labem": {
-    "USTNA": {
-      "name": "Ústí nad Labem"
-    }
-  },
-  "Vysočina": {
-    "VYS": {
-      "name": "Vysočina"
-    }
-  },
-  "Zlín": {
-    "ZLI": {
-      "name": "Zlín"
+  "data": {
+    "Central Bohemian": {
+      "CENBO": {
+        "name": "Central Bohemian"
+      }
+    },
+    "Hradec Králové": {
+      "HRAKR": {
+        "name": "Hradec Králové"
+      }
+    },
+    "Karlovy Vary": {
+      "KARVA": {
+        "name": "Karlovy Vary"
+      }
+    },
+    "Liberec": {
+      "LIB": {
+        "name": "Liberec"
+      }
+    },
+    "Moravian-Silesian": {
+      "MOR": {
+        "name": "Moravian-Silesian"
+      }
+    },
+    "Olomouc": {
+      "OLO": {
+        "name": "Olomouc"
+      }
+    },
+    "Pardubice": {
+      "PAR": {
+        "name": "Pardubice"
+      }
+    },
+    "Plzeň": {
+      "PLZ": {
+        "name": "Plzeň"
+      }
+    },
+    "Prague": {
+      "PRA": {
+        "name": "Prague"
+      }
+    },
+    "South Bohemian": {
+      "SOUBO": {
+        "name": "South Bohemian"
+      }
+    },
+    "South Moravian": {
+      "SOUMO": {
+        "name": "South Moravian"
+      }
+    },
+    "Ústí nad Labem": {
+      "USTNA": {
+        "name": "Ústí nad Labem"
+      }
+    },
+    "Vysočina": {
+      "VYS": {
+        "name": "Vysočina"
+      }
+    },
+    "Zlín": {
+      "ZLI": {
+        "name": "Zlín"
+      }
     }
   }
 }

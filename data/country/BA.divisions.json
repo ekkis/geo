@@ -1,47 +1,55 @@
 {
-  "Bosnian Podrinje": {
-    "BOSPO": {
-      "name": "Bosnian Podrinje"
-    }
+  "meta": {
+    "divisions": [
+      "entity",
+      "municipality"
+    ]
   },
-  "Central Bosnia": {
-    "CENBO": {
-      "name": "Central Bosnia"
-    }
-  },
-  "Herzegovina-Neretva": {
-    "HER": {
-      "name": "Herzegovina-Neretva"
-    }
-  },
-  "Posavina": {
-    "POS": {
-      "name": "Posavina"
-    }
-  },
-  "Republika Srpska": {
-    "REPSR": {
-      "name": "Republika Srpska"
-    }
-  },
-  "Tuzla": {
-    "TUZ": {
-      "name": "Tuzla"
-    }
-  },
-  "Una-Sana": {
-    "UNA": {
-      "name": "Una-Sana"
-    }
-  },
-  "West Herzegovina": {
-    "WESHE": {
-      "name": "West Herzegovina"
-    }
-  },
-  "Zenica-Doboj": {
-    "ZEN": {
-      "name": "Zenica-Doboj"
+  "data": {
+    "Bosnian Podrinje": {
+      "BOSPO": {
+        "name": "Bosnian Podrinje"
+      }
+    },
+    "Central Bosnia": {
+      "CENBO": {
+        "name": "Central Bosnia"
+      }
+    },
+    "Herzegovina-Neretva": {
+      "HER": {
+        "name": "Herzegovina-Neretva"
+      }
+    },
+    "Posavina": {
+      "POS": {
+        "name": "Posavina"
+      }
+    },
+    "Republika Srpska": {
+      "REPSR": {
+        "name": "Republika Srpska"
+      }
+    },
+    "Tuzla": {
+      "TUZ": {
+        "name": "Tuzla"
+      }
+    },
+    "Una-Sana": {
+      "UNA": {
+        "name": "Una-Sana"
+      }
+    },
+    "West Herzegovina": {
+      "WESHE": {
+        "name": "West Herzegovina"
+      }
+    },
+    "Zenica-Doboj": {
+      "ZEN": {
+        "name": "Zenica-Doboj"
+      }
     }
   }
 }

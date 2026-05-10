@@ -1,35 +1,44 @@
 {
-  "Ostösterreich": {
-    "BUR": {
-      "name": "Burgenland"
-    },
-    "NIE": {
-      "name": "Niederösterreich"
-    },
-    "WIE": {
-      "name": "Wien"
-    }
+  "meta": {
+    "divisions": [
+      "state",
+      "district",
+      "municipality"
+    ]
   },
-  "Südösterreich": {
-    "KÄR": {
-      "name": "Kärnten"
+  "data": {
+    "Ostösterreich": {
+      "BUR": {
+        "name": "Burgenland"
+      },
+      "NIE": {
+        "name": "Niederösterreich"
+      },
+      "WIE": {
+        "name": "Wien"
+      }
     },
-    "STE": {
-      "name": "Steiermark"
-    }
-  },
-  "Westösterreich": {
-    "OBE": {
-      "name": "Oberösterreich"
+    "Südösterreich": {
+      "KÄR": {
+        "name": "Kärnten"
+      },
+      "STE": {
+        "name": "Steiermark"
+      }
     },
-    "SAL": {
-      "name": "Salzburg"
-    },
-    "TIR": {
-      "name": "Tirol"
-    },
-    "VOR": {
-      "name": "Vorarlberg"
+    "Westösterreich": {
+      "OBE": {
+        "name": "Oberösterreich"
+      },
+      "SAL": {
+        "name": "Salzburg"
+      },
+      "TIR": {
+        "name": "Tirol"
+      },
+      "VOR": {
+        "name": "Vorarlberg"
+      }
     }
   }
 }

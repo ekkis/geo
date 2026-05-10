@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "divisions": [
+      "region",
+      "district",
+      "division",
+      "ward",
+      "village"
+    ]
+  },
+  "data": {}
+}

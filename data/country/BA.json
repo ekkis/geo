@@ -33,10 +33,6 @@
     "UN"
   ],
   "phone-code": "387",
-  "division-levels": [
-    "entity",
-    "municipality"
-  ],
   "neighbours": {
     "NW": [
       "HR"

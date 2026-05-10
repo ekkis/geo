@@ -34,11 +34,6 @@
     "UN"
   ],
   "phone-code": "507",
-  "division-levels": [
-    "province/indigenous region",
-    "district",
-    "corregimiento"
-  ],
   "neighbours": {
     "NW": [
       "CR"

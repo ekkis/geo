@@ -32,10 +32,6 @@
     "UN"
   ],
   "phone-code": "260",
-  "division-levels": [
-    "province",
-    "district"
-  ],
   "neighbours": {
     "NE": [
       "MW",

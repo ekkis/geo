@@ -34,11 +34,6 @@
     "UN"
   ],
   "phone-code": "54",
-  "division-levels": [
-    "province",
-    "department",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "BR",

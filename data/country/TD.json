@@ -28,11 +28,6 @@
     "UN"
   ],
   "phone-code": "235",
-  "division-levels": [
-    "region",
-    "department",
-    "sub-prefecture"
-  ],
   "neighbours": {
     "NW": [
       "LY",

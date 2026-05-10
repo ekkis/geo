@@ -1,39 +1,449 @@
 {
-  "BAL": "Baltic Countries",
-  "CAF": "Central Africa",
-  "EEU": "Eastern Europe",
-  "NAM": "North America",
-  "NAF": "Northern Africa",
-  "SCA": "Scandinavia",
-  "SAM": "South America",
-  "SEU": "Southern Europe",
-  "MAG": "The Maghreb",
-  "BKS": "Balkans",
-  "CAR": "Caribbean",
-  "CAM": "Central America",
-  "CAS": "Central Asia",
-  "CEU": "Central Europe",
-  "EAF": "East Africa",
-  "EAS": "East Asia",
-  "MIC": "Micronesia",
-  "ME": "Middle East",
-  "NOR": "The Nordics",
-  "OC": "Oceania",
-  "POL": "Polynesia",
-  "SEA": "South-Eastern Asia",
-  "SAF": "Southern Africa",
-  "SAS": "Southern Asia",
-  "WAF": "Western Africa",
-  "WAS": "Western Asia",
-  "WEU": "Western Europe",
-  "ANT": "Antarctica",
-  "AMS": "American Samoa",
-  "SSA": "Sub-Saharan Africa",
-  "EURS": "Eurasia",
-  "LATAM": "Latin America",
-  "MEL": "Melanesia",
-  "LEV": "The Levant",
-  "CAUC": "The Caucasus",
-  "INDO": "Indochina",
-  "GUI": "The Guianas"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2024-06-01T00:00:00Z",
+    "name": "Region",
+    "division": "Country"
+  },
+  "data": {
+    "CAF": {
+      "name": "Central Africa",
+      "countries": [
+        "CMR",
+        "CAF",
+        "TCD",
+        "COG",
+        "COD",
+        "GNQ",
+        "STP"
+      ]
+    },
+    "MAG": {
+      "name": "The Maghreb",
+      "countries": [
+        "DZA",
+        "MRT",
+        "MLI",
+        "SEN",
+        "GMB",
+        "GNB",
+        "CIV"
+      ]
+    },
+    "NAF": {
+      "name": "Northern Africa",
+      "countries": [
+        "DZA",
+        "LBY",
+        "MAR",
+        "TUN"
+      ]
+    },
+    "SSA": {
+      "name": "Sub-Saharan Africa",
+      "countries": [
+        "AGO",
+        "BDI",
+        "BEN",
+        "BWA",
+        "CAF",
+        "CMR",
+        "COD",
+        "COG",
+        "COM",
+        "CPV",
+        "DJI",
+        "EGY",
+        "ETH",
+        "GAB",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "KEN",
+        "LBR",
+        "MDG",
+        "MLI",
+        "MOZ",
+        "NAM",
+        "NER",
+        "NGA",
+        "RWA",
+        "SLE",
+        "SOM",
+        "STP",
+        "TCD",
+        "TGO",
+        "ZMB",
+        "ZWE"
+      ]
+    },
+    "WAF": {
+      "name": "Western Africa"
+    },
+    "EAF": {
+      "name": "East Africa"
+    },
+    "SAF": {
+      "name": "Southern Africa",
+      "countries": [
+        "BWA",
+        "NAM",
+        "ZMB",
+        "ZWE"
+      ]
+    },
+    "BAL": {
+      "name": "Baltic Countries",
+      "countries": [
+        "EST",
+        "LVA",
+        "LTU"
+      ]
+    },
+    "EEU": {
+      "name": "Eastern Europe",
+      "countries": [
+        "BLR",
+        "BGR",
+        "CZE",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ]
+    },
+    "NAM": {
+      "name": "North America",
+      "countries": [
+        "CAN",
+        "USA",
+        "MEX"
+      ]
+    },
+    "SCA": {
+      "name": "Scandinavia",
+      "countries": [
+        "DNK",
+        "FIN",
+        "ISL",
+        "NOR",
+        "SWE"
+      ]
+    },
+    "SAM": {
+      "name": "South America",
+      "countries": [
+        "ARG",
+        "BOL",
+        "BRA",
+        "CHL",
+        "COL",
+        "ECU",
+        "GUY",
+        "PER",
+        "SUR",
+        "URY",
+        "VEN"
+      ]
+    },
+    "SEU": {
+      "name": "Southern Europe",
+      "countries": [
+        "ALB",
+        "AND",
+        "BIH",
+        "HRV",
+        "MKD",
+        "MNE",
+        "PRT",
+        "SMR",
+        "SVN",
+        "TUR"
+      ]
+    },
+    "BKS": {
+      "name": "Balkans",
+      "countries": [
+        "ALB",
+        "BIH",
+        "HRV",
+        "MNE",
+        "SRB"
+      ]
+    },
+    "CAR": {
+      "name": "Caribbean",
+      "countries": [
+        "ATG",
+        "BHS",
+        "BRB",
+        "CUB",
+        "DMA",
+        "DOM",
+        "GRD",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "VCT",
+        "TTO"
+      ]
+    },
+    "CAM": {
+      "name": "Central America",
+      "countries": [
+        "BLZ",
+        "CRI",
+        "SLV",
+        "GTM",
+        "HND",
+        "NIC",
+        "PAN"
+      ]
+    },
+    "CAS": {
+      "name": "Central Asia",
+      "countries": [
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM",
+        "UZB"
+      ]
+    },
+    "CEU": {
+      "name": "Central Europe",
+      "countries": [
+        "AUT",
+        "BEL",
+        "CZE",
+        "DEU",
+        "HUN",
+        "LIE",
+        "LUX",
+        "MDA",
+        "POL",
+        "SVK",
+        "SUI"
+      ]
+    },
+    "EAS": {
+      "name": "East Asia",
+      "countries": [
+        "CHN",
+        "JPN",
+        "MNG",
+        "PRK",
+        "KOR",
+        "TWN"
+      ]
+    },
+    "MIC": {
+      "name": "Micronesia",
+      "countries": [
+        "FSM",
+        "GUM",
+        "MNP",
+        "PLW",
+        "KIR",
+        "NRU",
+        "TON",
+        "VUT"
+      ]
+    },
+    "ME": {
+      "name": "Middle East",
+      "countries": [
+        "BHR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "SAU",
+        "YEM"
+      ]
+    },
+    "NOR": {
+      "name": "The Nordics",
+      "countries": [
+        "DNK",
+        "FIN",
+        "ISL",
+        "NOR",
+        "SWE"
+      ]
+    },
+    "OC": {
+      "name": "Oceania",
+      "countries": [
+        "ASM",
+        "AUS",
+        "COK",
+        "FJI",
+        "FSM",
+        "GUM",
+        "KIR",
+        "MNP",
+        "NRU",
+        "PLW",
+        "PNG",
+        "TON",
+        "TUV",
+        "VUT"
+      ]
+    },
+    "POL": {
+      "name": "Polynesia",
+      "countries": [
+        "ASM",
+        "COK",
+        "FJI",
+        "GUM",
+        "KIR",
+        "MNP",
+        "NRU",
+        "PLW",
+        "PNG",
+        "TON",
+        "TUV",
+        "VUT"
+      ]
+    },
+    "SEA": {
+      "name": "South-Eastern Asia",
+      "countries": [
+        "IDN",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "VNM"
+      ]
+    },
+    "SAS": {
+      "name": "Southern Asia",
+      "countries": [
+        "AFG",
+        "BGD",
+        "BTN",
+        "IND",
+        "IRN",
+        "MDV",
+        "NPL",
+        "PAK",
+        "LKA"
+      ]
+    },
+    "WAS": {
+      "name": "Western Asia",
+      "countries": [
+        "BHR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "SAU",
+        "YEM"
+      ]
+    },
+    "WEU": {
+      "name": "Western Europe",
+      "countries": [
+        "AND",
+        "FRA",
+        "GBR",
+        "IRL",
+        "ITA",
+        "LIE",
+        "LUX",
+        "MCO",
+        "PRT",
+        "SMR",
+        "SVN",
+        "VAT"
+      ]
+    },
+    "ANT": {
+      "name": "Antarctica",
+      "countries": []
+    },
+    "AMS": {
+      "name": "American Samoa",
+      "countries": [
+        "ASM"
+      ]
+    },
+    "LATAM": {
+      "name": "Latin America",
+      "countries": [
+        "ARG",
+        "BOL",
+        "BRA",
+        "CHL",
+        "COL",
+        "ECU",
+        "GUY",
+        "PER",
+        "PRY",
+        "SUR",
+        "URY",
+        "VEN",
+        "BLZ",
+        "CRI",
+        "SLV",
+        "GTM",
+        "HND",
+        "NIC",
+        "PAN"
+      ]
+    },
+    "MEL": {
+      "name": "Melanesia",
+      "countries": [
+        "FJI",
+        "PNG",
+        "SLB",
+        "VUT"
+      ]
+    },
+    "LEV": {
+      "name": "The Levant",
+      "countries": [
+        "LBN",
+        "SYR",
+        "JOR",
+        "ISR",
+        "PSE"
+      ]
+    },
+    "CAUC": {
+      "name": "The Caucasus",
+      "countries": [
+        "ARM",
+        "AZE",
+        "GEO"
+      ]
+    },
+    "INDO": {
+      "name": "Indochina",
+      "countries": [
+        "KHM",
+        "LAO",
+        "MMR",
+        "THA",
+        "VNM"
+      ]
+    },
+    "GUI": {
+      "name": "The Guianas",
+      "countries": [
+        "GUY",
+        "SUR",
+        "GUF"
+      ]
+    }
+  }
 }

@@ -1,9 +1,34 @@
 {
-  "AS": "Asia",
-  "EU": "Europe",
-  "AF": "Africa",
-  "NA": "North America",
-  "SA": "South America",
-  "AN": "Antarctica",
-  "OC": "Oceania"
+  "meta": {
+    "version": "1.0",
+    "last-updated": "2024-06-01T00:00:00Z",
+    "name": "Continent",
+    "division": "Region"
+  },
+  "data": {
+    "AF": {
+      "name": "Africa",
+      "regions": [ "CAF", "MAG", "NAF", "SSA", "WAF", "EAF", "SAF" ]
+    },
+    "AM": {
+      "name": "America",
+      "regions": [ "NAM", "CAM", "SAM", "LATAM", "CAR", "GUI" ]
+    },
+    "AN": {
+      "name": "Antarctica",
+      "regions": []
+    },
+    "AS": {
+      "name": "Asia",
+      "regions": [ "CAS", "EAS", "SEA", "SAS", "WAS", "LEV", "INDO", "ME", "CAUC" ]
+    },
+    "EU": {
+      "name": "Europe",
+      "regions": [ "BAL", "BKS", "EEU", "SCA", "SEU", "WEU", "CEU", "NOR", "CAUC" ]
+    },
+    "OC": {
+      "name": "Oceania",
+      "regions": [ "MIC", "POL", "MEL", "AMS"]
+    }
+  }
 }

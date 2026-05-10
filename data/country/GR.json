@@ -38,11 +38,6 @@
     "UN"
   ],
   "phone-code": "30",
-  "division-levels": [
-    "region",
-    "regional unit",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "BG"

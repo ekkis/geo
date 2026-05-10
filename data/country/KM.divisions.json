@@ -1,11 +1,19 @@
 {
-  "AN": {
-    "name": "Anjouan"
+  "meta": {
+    "divisions": [
+      "island",
+      "commune"
+    ]
   },
-  "GR": {
-    "name": "Grande Comore"
-  },
-  "MO": {
-    "name": "Mohéli"
+  "data": {
+    "AN": {
+      "name": "Anjouan"
+    },
+    "GR": {
+      "name": "Grande Comore"
+    },
+    "MO": {
+      "name": "Mohéli"
+    }
   }
 }

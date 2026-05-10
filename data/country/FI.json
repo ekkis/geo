@@ -40,11 +40,6 @@
     "UN"
   ],
   "phone-code": "358",
-  "division-levels": [
-    "region",
-    "sub-region",
-    "municipality"
-  ],
   "neighbours": {
     "SE": [
       "RU"

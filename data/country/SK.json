@@ -38,11 +38,6 @@
     "UN"
   ],
   "phone-code": "421",
-  "division-levels": [
-    "region",
-    "district",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "PL",

@@ -38,11 +38,6 @@
     "UN"
   ],
   "phone-code": "972",
-  "division-levels": [
-    "district",
-    "sub-district",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "SY",

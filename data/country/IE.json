@@ -32,10 +32,6 @@
     "UN"
   ],
   "phone-code": "353",
-  "division-levels": [
-    "county",
-    "city/town"
-  ],
   "neighbours": {
     "NE": [
       "GB"

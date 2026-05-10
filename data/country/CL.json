@@ -37,11 +37,6 @@
     "UN"
   ],
   "phone-code": "56",
-  "division-levels": [
-    "region",
-    "province",
-    "municipality"
-  ],
   "neighbours": {
     "NE": [
       "BO"

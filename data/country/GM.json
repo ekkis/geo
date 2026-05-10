@@ -28,10 +28,6 @@
     "UN"
   ],
   "phone-code": "220",
-  "division-levels": [
-    "division",
-    "local government area"
-  ],
   "neighbours": {
     "NE": [
       "SN"
