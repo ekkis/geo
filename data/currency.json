@@ -2,8 +2,7 @@
   "meta": {
     "version": "1.0",
     "last-updated": "2024-06-01T00:00:00Z",
-    "name": "Continent",
-    "division": "Region"
+    "name": "Currency"
   },
   "data": {
     "USD": {
