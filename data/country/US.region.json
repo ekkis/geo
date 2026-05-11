@@ -1,5 +1,58 @@
 {
-  "US-CENSUS-NORTHEAST": {
+  "south": {
+    "name": "South",
+    "states": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MS",
+      "MO",
+      "NC",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ]
+  },
+  "midwest": {
+    "name": "Midwest",
+    "states": [
+      "IL",
+      "IN",
+      "IA",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "ND",
+      "OH",
+      "SD",
+      "WI"
+    ]
+  },
+  "west": {
+    "name": "West",
+    "states": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "HI",
+      "ID",
+      "MT",
+      "NV",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ]
+  },
+  "northeast": {
     "name": "Northeast",
     "states": [
       "CT",
@@ -13,14 +66,110 @@
       "PA"
     ]
   },
-  "US-CENSUS-MIDWEST": {
-    "name": "Midwest",
+  "southwest": {
+    "name": "Southwest",
+    "states": [
+      "AZ",
+      "NM",
+      "OK",
+      "TX"
+    ]
+  },
+  "southeast": {
+    "name": "Southeast",
+    "states": [
+      "AL",
+      "FL",
+      "GA",
+      "KY",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ]
+  },
+  "mid_atlantic": {
+    "name": "Mid-Atlantic",
+    "states": [
+      "DE",
+      "MD",
+      "NJ",
+      "NY",
+      "PA",
+      "VA",
+      "WV"
+    ]
+  },
+  "mountain": {
+    "name": "Mountain",
+    "states": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "NM",
+      "UT",
+      "WY"
+    ]
+  },
+  "pacific": {
+    "name": "Pacific",
+    "states": [
+      "CA",
+      "HI",
+      "OR",
+      "WA"
+    ]
+  },
+  "east_coast": {
+    "name": "East Coast",
+    "states": [
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "ME",
+      "MD",
+      "MA",
+      "NH",
+      "NJ",
+      "NY",
+      "NC",
+      "RI",
+      "SC",
+      "VA"
+    ]
+  },
+  "great_plains": {
+    "name": "Great Plains",
+    "states": [
+      "CO",
+      "IA",
+      "KS",
+      "MN",
+      "NE",
+      "ND",
+      "OK",
+      "SD",
+      "TX"
+    ]
+  },
+  "east_north_central": {
+    "name": "East North Central",
     "states": [
       "IL",
       "IN",
       "MI",
       "OH",
-      "WI",
+      "WI"
+    ]
+  },
+  "west_north_central": {
+    "name": "West North Central",
+    "states": [
       "IA",
       "KS",
       "MN",
@@ -30,43 +179,94 @@
       "SD"
     ]
   },
-  "US-CENSUS-SOUTH": {
-    "name": "South",
+  "south_atlantic": {
+    "name": "South Atlantic",
     "states": [
       "DE",
+      "FL",
+      "GA",
       "MD",
-      "VA",
-      "WV",
-      "KY",
       "NC",
       "SC",
-      "TN",
-      "GA",
-      "FL",
+      "VA"
+    ]
+  },
+  "east_south_central": {
+    "name": "East South Central",
+    "states": [
       "AL",
+      "KY",
       "MS",
+      "TN"
+    ]
+  },
+  "west_south_central": {
+    "name": "West South Central",
+    "states": [
       "AR",
       "LA",
       "OK",
       "TX"
     ]
   },
-  "US-CENSUS-WEST": {
-    "name": "West",
+  "new_england": {
+    "name": "New England",
+    "states": [
+      "CT",
+      "ME",
+      "MA",
+      "NH",
+      "RI",
+      "VT"
+    ]
+  },
+  "mid_atlantic_region": {
+    "name": "Mid-Atlantic Region",
+    "states": [
+      "NJ",
+      "NY",
+      "PA"
+    ]
+  },
+  "pacific_nw": {
+    "name": "Pacific Northwest",
+    "states": [
+      "OR",
+      "WA"
+    ]
+  },
+  "east_south_central_region": {
+    "name": "East South Central",
+    "states": [
+      "AL",
+      "KY",
+      "MS",
+      "TN"
+    ]
+  },
+  "west_south_central_region": {
+    "name": "West South Central",
+    "states": [
+      "AR",
+      "LA",
+      "OK",
+      "TX"
+    ]
+  },
+  "mountain_pacific": {
+    "name": "Mountain/Pacific",
     "states": [
       "AZ",
+      "CA",
       "CO",
       "ID",
       "MT",
       "NV",
       "NM",
-      "UT",
-      "WY",
-      "AK",
-      "CA",
-      "HI",
       "OR",
-      "WA"
+      "UT",
+      "WA",
+      "WY"
     ]
   }
 }
