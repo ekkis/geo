@@ -1,5 +1,5 @@
 {
-  "44": [
+  "AG": [
     {
       "id": 130185,
       "name": "Cho Dok",
@@ -148,7 +148,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "56": [
+  "BN": [
     {
       "id": 130177,
       "name": "Bắc Giang",
@@ -220,7 +220,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "59": [
+  "CM": [
     {
       "id": 130175,
       "name": "Bạc Liêu",
@@ -371,7 +371,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "04": [
+  "CB": [
     {
       "id": 130183,
       "name": "Cao Bằng",
@@ -536,7 +536,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "33": [
+  "AKX": [
     {
       "id": 130173,
       "name": "Buôn Ma Thuột",
@@ -594,7 +594,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "71": [
+  "IEN": [
     {
       "id": 130196,
       "name": "Dien Bien Phu",
@@ -638,7 +638,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "39": [
+  "ONG": [
     {
       "id": 130172,
       "name": "Biên Hòa",
@@ -738,7 +738,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "45": [
+  "OT": [
     {
       "id": 130184,
       "name": "Cao Lãnh",
@@ -873,7 +873,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "30": [
+  "GL": [
     {
       "id": 130209,
       "name": "Huyện An Lão",
@@ -1206,7 +1206,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "23": [
+  "HT": [
     {
       "id": 130557,
       "name": "Hà Tĩnh",
@@ -1422,7 +1422,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "66": [
+  "HY": [
     {
       "id": 130560,
       "name": "Hưng Yên",
@@ -1529,7 +1529,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "34": [
+  "KH": [
     {
       "id": 130182,
       "name": "Cam Ranh",
@@ -1601,7 +1601,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "01": [
+  "LC": [
     {
       "id": 130361,
       "name": "Huyện Mưòng Tè",
@@ -1624,7 +1624,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "35": [
+  "LAM": [
     {
       "id": 130176,
       "name": "Bảo Lộc",
@@ -1787,7 +1787,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "09": [
+  "LS": [
     {
       "id": 130237,
       "name": "Huyện Bắc Sơn",
@@ -1845,7 +1845,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "02": [
+  "LAO": [
     {
       "id": 130234,
       "name": "Huyện Bắc Hà",
@@ -1966,7 +1966,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "22": [
+  "NA": [
     {
       "id": 130212,
       "name": "Huyện Anh Sơn",
@@ -2094,7 +2094,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "18": [
+  "NB": [
     {
       "id": 130223,
       "name": "Huyện Bình Lục",
@@ -2243,7 +2243,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "68": [
+  "PT": [
     {
       "id": 130559,
       "name": "Hòa Bình",
@@ -2385,7 +2385,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "29": [
+  "QN": [
     {
       "id": 130216,
       "name": "Huyện Ba Tơ",
@@ -2534,7 +2534,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "13": [
+  "QUA": [
     {
       "id": 130192,
       "name": "Cẩm Phả",
@@ -2634,7 +2634,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "25": [
+  "QT": [
     {
       "id": 130631,
       "name": "Ðông Hà",
@@ -2727,7 +2727,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "05": [
+  "SL": [
     {
       "id": 130238,
       "name": "Huyện Bắc Yên",
@@ -2799,7 +2799,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "37": [
+  "TN": [
     {
       "id": 130190,
       "name": "Cần Giuộc",
@@ -2962,7 +2962,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "69": [
+  "THA": [
     {
       "id": 130178,
       "name": "Bắc Kạn",
@@ -3020,7 +3020,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "21": [
+  "TH": [
     {
       "id": 130181,
       "name": "Bỉm Sơn",
@@ -3183,7 +3183,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "26": [
+  "THU": [
     {
       "id": 130554,
       "name": "Huế",
@@ -3234,7 +3234,7 @@
       "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
-  "07": [
+  "TQ": [
     {
       "id": 130555,
       "name": "Hà Giang",
@@ -3341,7 +3341,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "49": [
+  "VL": [
     {
       "id": 130635,
       "name": "Ấp Tân Ngãi",

@@ -1,17 +1,17 @@
 {
-  "82": {
+  "CEN": {
     "name": "Central Denmark"
   },
-  "84": {
+  "DEN": {
     "name": "Denmark"
   },
-  "81": {
+  "NOR": {
     "name": "North Denmark"
   },
-  "83": {
+  "SOU": {
     "name": "Southern Denmark"
   },
-  "85": {
+  "ZEA": {
     "name": "Zealand"
   }
 }

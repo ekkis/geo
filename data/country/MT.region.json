@@ -1,206 +1,206 @@
 {
-  "01": {
+  "ATT": {
     "name": "Attard"
   },
-  "02": {
+  "BAL": {
     "name": "Balzan"
   },
-  "03": {
+  "BIR": {
     "name": "Birgu"
   },
-  "04": {
+  "BIRK": {
     "name": "Birkirkara"
   },
-  "05": {
+  "BIRZ": {
     "name": "Birżebbuġa"
   },
-  "06": {
+  "COS": {
     "name": "Cospicua"
   },
-  "07": {
+  "DIN": {
     "name": "Dingli"
   },
-  "08": {
+  "FGU": {
     "name": "Fgura"
   },
-  "09": {
+  "FLO": {
     "name": "Floriana"
   },
-  "10": {
+  "FON": {
     "name": "Fontana"
   },
-  "13": {
+  "GAJ": {
     "name": "Għajnsielem"
   },
-  "14": {
+  "GAR": {
     "name": "Għarb"
   },
-  "15": {
+  "GARG": {
     "name": "Għargħur"
   },
-  "16": {
+  "GAS": {
     "name": "Għasri"
   },
-  "17": {
+  "GAX": {
     "name": "Għaxaq"
   },
-  "11": {
+  "GUD": {
     "name": "Gudja"
   },
-  "12": {
+  "GZI": {
     "name": "Gżira"
   },
-  "18": {
+  "AMR": {
     "name": "Ħamrun"
   },
-  "19": {
+  "IKL": {
     "name": "Iklin"
   },
-  "21": {
+  "KAL": {
     "name": "Kalkara"
   },
-  "22": {
+  "KER": {
     "name": "Kerċem"
   },
-  "23": {
+  "KIR": {
     "name": "Kirkop"
   },
-  "24": {
+  "LIJ": {
     "name": "Lija"
   },
-  "25": {
+  "LUQ": {
     "name": "Luqa"
   },
-  "26": {
+  "MAR": {
     "name": "Marsa"
   },
-  "27": {
+  "MARS": {
     "name": "Marsaskala"
   },
-  "28": {
+  "MARSA": {
     "name": "Marsaxlokk"
   },
-  "29": {
+  "MDI": {
     "name": "Mdina"
   },
-  "30": {
+  "MEL": {
     "name": "Mellieħa"
   },
-  "31": {
+  "MGA": {
     "name": "Mġarr"
   },
-  "32": {
+  "MOS": {
     "name": "Mosta"
   },
-  "33": {
+  "MQA": {
     "name": "Mqabba"
   },
-  "34": {
+  "MSI": {
     "name": "Msida"
   },
-  "35": {
+  "MTA": {
     "name": "Mtarfa"
   },
-  "36": {
+  "MUN": {
     "name": "Munxar"
   },
-  "37": {
+  "NAD": {
     "name": "Nadur"
   },
-  "38": {
+  "NAX": {
     "name": "Naxxar"
   },
-  "39": {
+  "PAO": {
     "name": "Paola"
   },
-  "40": {
+  "PEM": {
     "name": "Pembroke"
   },
-  "41": {
+  "PIE": {
     "name": "Pietà"
   },
-  "42": {
+  "QAL": {
     "name": "Qala"
   },
-  "43": {
+  "QOR": {
     "name": "Qormi"
   },
-  "44": {
+  "QRE": {
     "name": "Qrendi"
   },
-  "46": {
+  "RAB": {
     "name": "Rabat"
   },
-  "47": {
+  "SAF": {
     "name": "Safi"
   },
-  "49": {
+  "GWA": {
     "name": "San Ġwann"
   },
-  "50": {
+  "LAW": {
     "name": "San Lawrenz"
   },
-  "52": {
+  "SAN": {
     "name": "Sannat"
   },
-  "53": {
+  "LUC": {
     "name": "Santa Luċija"
   },
-  "54": {
+  "VEN": {
     "name": "Santa Venera"
   },
-  "20": {
+  "SEN": {
     "name": "Senglea"
   },
-  "55": {
+  "SIG": {
     "name": "Siġġiewi"
   },
-  "56": {
+  "SLI": {
     "name": "Sliema"
   },
-  "48": {
+  "JUL": {
     "name": "St. Julian's"
   },
-  "51": {
+  "PAU": {
     "name": "St. Paul's Bay"
   },
-  "57": {
+  "SWI": {
     "name": "Swieqi"
   },
-  "58": {
+  "TAX": {
     "name": "Ta' Xbiex"
   },
-  "59": {
+  "TAR": {
     "name": "Tarxien"
   },
-  "60": {
+  "VAL": {
     "name": "Valletta"
   },
-  "45": {
+  "VIC": {
     "name": "Victoria"
   },
-  "61": {
+  "XAG": {
     "name": "Xagħra"
   },
-  "62": {
+  "XEW": {
     "name": "Xewkija"
   },
-  "63": {
+  "XGA": {
     "name": "Xgħajra"
   },
-  "64": {
+  "ZAB": {
     "name": "Żabbar"
   },
-  "65": {
+  "ZEB": {
     "name": "Żebbuġ Gozo"
   },
-  "66": {
+  "ZM": {
     "name": "Żebbuġ Malta"
   },
-  "67": {
+  "ZEJ": {
     "name": "Żejtun"
   },
-  "68": {
+  "ZUR": {
     "name": "Żurrieq"
   }
 }

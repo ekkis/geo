@@ -1,50 +1,50 @@
 {
-  "30": {
+  "GREPO": {
     "name": "Greater Poland"
   },
-  "26": {
+  "HOL": {
     "name": "Holy Cross"
   },
-  "04": {
+  "KUY": {
     "name": "Kuyavia-Pomerania"
   },
-  "12": {
+  "LESPO": {
     "name": "Lesser Poland"
   },
-  "02": {
+  "LOW": {
     "name": "Lower Silesia"
   },
-  "06": {
+  "LUB": {
     "name": "Lublin"
   },
-  "08": {
+  "LUB1": {
     "name": "Lubusz"
   },
-  "10": {
+  "ODZ": {
     "name": "Łódź"
   },
-  "14": {
+  "MAZ": {
     "name": "Mazovia"
   },
-  "20": {
+  "POD": {
     "name": "Podlaskie"
   },
-  "22": {
+  "POM": {
     "name": "Pomerania"
   },
-  "24": {
+  "SIL": {
     "name": "Silesia"
   },
-  "18": {
+  "SUB": {
     "name": "Subcarpathia"
   },
-  "16": {
+  "UPP": {
     "name": "Upper Silesia"
   },
-  "28": {
+  "WAR": {
     "name": "Warmia-Masuria"
   },
-  "32": {
+  "WES": {
     "name": "West Pomerania"
   }
 }

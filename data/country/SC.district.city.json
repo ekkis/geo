@@ -1,5 +1,5 @@
 {
-  "02": [
+  "ANS": [
     {
       "id": 102906,
       "name": "Anse Boileau",
@@ -8,7 +8,7 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "03": [
+  "AE": [
     {
       "id": 160109,
       "name": "Anse Etoile",
@@ -17,7 +17,7 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "05": [
+  "AR": [
     {
       "id": 102907,
       "name": "Anse Royale",
@@ -26,11 +26,11 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "01": [],
-  "04": [],
-  "06": [],
-  "07": [],
-  "08": [
+  "AAP": [],
+  "AUX": [],
+  "BAI": [],
+  "BSA": [],
+  "BEA": [
     {
       "id": 102908,
       "name": "Beau Vallon",
@@ -39,8 +39,8 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "09": [],
-  "10": [
+  "BEL": [],
+  "BO": [
     {
       "id": 102909,
       "name": "Bel Ombre",
@@ -49,7 +49,7 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "11": [
+  "CAS": [
     {
       "id": 102910,
       "name": "Cascade",
@@ -58,13 +58,13 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "12": [],
-  "13": [],
-  "14": [],
-  "26": [],
-  "27": [],
-  "15": [],
-  "16": [
+  "GLA": [],
+  "GRA": [],
+  "GAP": [],
+  "ILE": [],
+  "IPI": [],
+  "DIG": [],
+  "RIV": [
     {
       "id": 102913,
       "name": "Victoria",
@@ -73,12 +73,12 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "24": [],
-  "17": [],
-  "18": [],
-  "19": [],
-  "20": [],
-  "21": [
+  "MAM": [],
+  "MON": [],
+  "MF": [],
+  "PLA": [],
+  "POI": [],
+  "POR": [
     {
       "id": 102911,
       "name": "Port Glaud",
@@ -87,9 +87,9 @@
       "timezone": "Indian/Mahe"
     }
   ],
-  "25": [],
-  "22": [],
-  "23": [
+  "ROC": [],
+  "LOU": [],
+  "TAK": [
     {
       "id": 102912,
       "name": "Takamaka",

@@ -1,5 +1,5 @@
 {
-  "08": [
+  "CENFI": [
     {
       "id": 39132,
       "name": "Äänekoski",
@@ -211,7 +211,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "07": [
+  "CENOS": [
     {
       "id": 38758,
       "name": "Halsua",
@@ -290,7 +290,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "19": [
+  "FIN": [
     {
       "id": 38732,
       "name": "Alastaro",
@@ -663,7 +663,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "05": [
+  "KAI": [
     {
       "id": 38778,
       "name": "Hyrynsalmi",
@@ -742,7 +742,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "09": [
+  "KYM": [
     {
       "id": 38735,
       "name": "Anjala",
@@ -821,7 +821,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "10": [
+  "LAP": [
     {
       "id": 38747,
       "name": "Enontekiö",
@@ -984,7 +984,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "13": [
+  "NORKA": [
     {
       "id": 38745,
       "name": "Eno",
@@ -1112,7 +1112,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "14": [
+  "NOROS": [
     {
       "id": 38733,
       "name": "Alavieska",
@@ -1401,8 +1401,8 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "15": [],
-  "12": [
+  "NOR": [],
+  "OST": [
     {
       "id": 38771,
       "name": "Hietalahti",
@@ -1544,7 +1544,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "16": [
+  "PAI": [
     {
       "id": 38736,
       "name": "Artjärvi",
@@ -1630,7 +1630,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "11": [
+  "PIR": [
     {
       "id": 153349,
       "name": "Äetsä",
@@ -2052,7 +2052,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "17": [
+  "SAT": [
     {
       "id": 38749,
       "name": "Eura",
@@ -2229,7 +2229,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "02": [
+  "SOUKA": [
     {
       "id": 38787,
       "name": "Imatra",
@@ -2322,7 +2322,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "03": [
+  "SOU": [
     {
       "id": 39130,
       "name": "Ähtäri",
@@ -2506,7 +2506,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "04": [
+  "SS": [
     {
       "id": 38746,
       "name": "Enonkoski",
@@ -2655,7 +2655,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "06": [
+  "TAV": [
     {
       "id": 38752,
       "name": "Forssa",
@@ -2769,7 +2769,7 @@
       "timezone": "Europe/Helsinki"
     }
   ],
-  "18": [
+  "UUS": [
     {
       "id": 38739,
       "name": "Askola",

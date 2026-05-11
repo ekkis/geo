@@ -1,11 +1,11 @@
 {
-  "01": {
+  "BAX": {
     "name": "Ba"
   },
-  "02": {
+  "BUA": {
     "name": "Bua"
   },
-  "03": {
+  "CAK": {
     "name": "Cakaudrove"
   },
   "C": {
@@ -14,43 +14,43 @@
   "E": {
     "name": "Eastern"
   },
-  "04": {
+  "KAD": {
     "name": "Kadavu"
   },
-  "05": {
+  "LAU": {
     "name": "Lau"
   },
-  "06": {
+  "LOM": {
     "name": "Lomaiviti"
   },
-  "07": {
+  "MAC": {
     "name": "Macuata"
   },
-  "08": {
+  "NAD": {
     "name": "Nadroga-Navosa"
   },
-  "09": {
+  "NAI": {
     "name": "Naitasiri"
   },
-  "10": {
+  "NAM": {
     "name": "Namosi"
   },
   "N": {
     "name": "Northern"
   },
-  "11": {
+  "RAX": {
     "name": "Ra"
   },
-  "12": {
+  "REW": {
     "name": "Rewa"
   },
   "R": {
     "name": "Rotuma"
   },
-  "13": {
+  "SER": {
     "name": "Serua"
   },
-  "14": {
+  "TAI": {
     "name": "Tailevu"
   },
   "W": {

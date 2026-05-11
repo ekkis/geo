@@ -1,5 +1,5 @@
 {
-  "01": [
+  "CHA": [
     {
       "id": 130030,
       "name": "Biabou",
@@ -22,7 +22,7 @@
       "timezone": "America/St_Vincent"
     }
   ],
-  "06": [
+  "GRE": [
     {
       "id": 130037,
       "name": "Port Elizabeth",
@@ -31,7 +31,7 @@
       "timezone": "America/St_Vincent"
     }
   ],
-  "02": [
+  "AND": [
     {
       "id": 130036,
       "name": "Layou",
@@ -40,7 +40,7 @@
       "timezone": "America/St_Vincent"
     }
   ],
-  "03": [
+  "DAV": [
     {
       "id": 130032,
       "name": "Chateaubelair",
@@ -49,7 +49,7 @@
       "timezone": "America/St_Vincent"
     }
   ],
-  "04": [
+  "GEO": [
     {
       "id": 130034,
       "name": "Kingstown",
@@ -65,7 +65,7 @@
       "timezone": "America/St_Vincent"
     }
   ],
-  "05": [
+  "PAT": [
     {
       "id": 130029,
       "name": "Barrouallie",

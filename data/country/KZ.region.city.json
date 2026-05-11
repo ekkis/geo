@@ -1,6 +1,6 @@
 {
-  "10": [],
-  "11": [
+  "ABA": [],
+  "AKMO": [
     {
       "id": 65596,
       "name": "Akkol",
@@ -156,7 +156,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "15": [
+  "AKTO": [
     {
       "id": 65605,
       "name": "Aktobe",
@@ -242,7 +242,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "19": [
+  "ALM": [
     {
       "id": 65631,
       "name": "Bakanas",
@@ -391,7 +391,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "75": [
+  "ALMA": [
     {
       "id": 65607,
       "name": "Almaty",
@@ -400,7 +400,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "71": [
+  "AST": [
     {
       "id": 65737,
       "name": "Nur-Sultan",
@@ -409,7 +409,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "23": [
+  "ATYR": [
     {
       "id": 65598,
       "name": "Akkol’",
@@ -502,7 +502,7 @@
       "timezone": "Asia/Atyrau"
     }
   ],
-  "63": [
+  "VOST": [
     {
       "id": 65608,
       "name": "Altayskiy",
@@ -714,7 +714,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "31": [
+  "JAM": [
     {
       "id": 65610,
       "name": "Aqbaqay",
@@ -828,8 +828,8 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "33": [],
-  "35": [
+  "JET": [],
+  "KARAG": [
     {
       "id": 65594,
       "name": "Abay",
@@ -1097,7 +1097,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "39": [
+  "KOST": [
     {
       "id": 65616,
       "name": "Arkalyk",
@@ -1211,7 +1211,7 @@
       "timezone": "Asia/Qostanay"
     }
   ],
-  "43": [
+  "KYZY": [
     {
       "id": 65615,
       "name": "Aral",
@@ -1304,7 +1304,7 @@
       "timezone": "Asia/Qyzylorda"
     }
   ],
-  "47": [
+  "MANGS": [
     {
       "id": 65604,
       "name": "Aktau",
@@ -1390,7 +1390,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "59": [
+  "SEVZ": [
     {
       "id": 65649,
       "name": "Birlestik",
@@ -1490,7 +1490,7 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "55": [
+  "PAV": [
     {
       "id": 65599,
       "name": "Aksu",
@@ -1569,8 +1569,8 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "79": [],
-  "61": [
+  "SHYM": [],
+  "TUR": [
     {
       "id": 65617,
       "name": "Arys",
@@ -1754,8 +1754,8 @@
       "timezone": "Asia/Almaty"
     }
   ],
-  "62": [],
-  "27": [
+  "ULY": [],
+  "ZAPAD": [
     {
       "id": 65611,
       "name": "Aqsay",

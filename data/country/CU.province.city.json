@@ -1,5 +1,5 @@
 {
-  "15": [
+  "ART": [
     {
       "id": 21804,
       "name": "Alquízar",
@@ -120,7 +120,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "09": [
+  "CAM": [
     {
       "id": 21825,
       "name": "Camagüey",
@@ -213,7 +213,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "08": [
+  "CD": [
     {
       "id": 21811,
       "name": "Baraguá",
@@ -285,7 +285,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "06": [
+  "CIE": [
     {
       "id": 21800,
       "name": "Abreus",
@@ -357,7 +357,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "12": [
+  "GRA": [
     {
       "id": 21812,
       "name": "Bartolomé Masó",
@@ -457,7 +457,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "14": [
+  "GUA": [
     {
       "id": 21810,
       "name": "Baracoa",
@@ -501,7 +501,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "03": [
+  "HAV": [
     {
       "id": 21803,
       "name": "Alamar",
@@ -594,7 +594,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "11": [
+  "HOL": [
     {
       "id": 21809,
       "name": "Banes",
@@ -673,7 +673,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "99": [
+  "ISL": [
     {
       "id": 21937,
       "name": "Nueva Gerona",
@@ -682,7 +682,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "10": [
+  "LT": [
     {
       "id": 21805,
       "name": "Amancio",
@@ -733,7 +733,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "04": [
+  "MAT": [
     {
       "id": 21802,
       "name": "Alacranes",
@@ -861,7 +861,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "16": [
+  "MAY": [
     {
       "id": 21813,
       "name": "Batabanó",
@@ -954,7 +954,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "01": [
+  "PD": [
     {
       "id": 21840,
       "name": "Consolación del Sur",
@@ -1054,7 +1054,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "07": [
+  "SS": [
     {
       "id": 21819,
       "name": "Cabaiguán",
@@ -1161,7 +1161,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "13": [
+  "SD": [
     {
       "id": 21841,
       "name": "Contramaestre",
@@ -1212,7 +1212,7 @@
       "timezone": "America/Havana"
     }
   ],
-  "05": [
+  "VIL": [
     {
       "id": 21822,
       "name": "Caibarién",

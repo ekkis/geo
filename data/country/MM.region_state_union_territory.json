@@ -1,47 +1,47 @@
 {
-  "07": {
+  "AYEYAR": {
     "name": "Ayeyarwady"
   },
-  "02": {
+  "BAGO": {
     "name": "Bago"
   },
-  "14": {
+  "CHIN": {
     "name": "Chin"
   },
-  "11": {
+  "KACHIN": {
     "name": "Kachin"
   },
-  "12": {
+  "KAYAH": {
     "name": "Kayah"
   },
-  "13": {
+  "KAYIN": {
     "name": "Kayin"
   },
-  "03": {
+  "MAGWAY": {
     "name": "Magway"
   },
-  "04": {
+  "MANDALAY": {
     "name": "Mandalay"
   },
-  "15": {
+  "MON": {
     "name": "Mon State"
   },
-  "18": {
+  "NAYPYID": {
     "name": "Naypyidaw"
   },
-  "16": {
+  "RAKHINE": {
     "name": "Rakhine"
   },
-  "01": {
+  "SAGAING": {
     "name": "Sagaing"
   },
-  "17": {
+  "SHAN": {
     "name": "Shan"
   },
-  "05": {
+  "TANINTH": {
     "name": "Tanintharyi"
   },
-  "06": {
+  "YANGON": {
     "name": "Yangon"
   }
 }

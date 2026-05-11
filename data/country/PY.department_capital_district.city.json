@@ -1,5 +1,5 @@
 {
-  "16": [
+  "ALT": [
     {
       "id": 161645,
       "name": "Agua Dulce de Santa María",
@@ -43,7 +43,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "10": [
+  "AP": [
     {
       "id": 89743,
       "name": "Cedrales",
@@ -115,7 +115,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "13": [
+  "AMA": [
     {
       "id": 89725,
       "name": "Bella Vista",
@@ -139,7 +139,7 @@
     }
   ],
   "ASU": [],
-  "19": [
+  "BOQ": [
     {
       "id": 89750,
       "name": "Colonia Menno",
@@ -183,7 +183,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "5": [
+  "CAA": [
     {
       "id": 89730,
       "name": "Caaguazú",
@@ -262,7 +262,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "6": [
+  "CAAZ": [
     {
       "id": 89716,
       "name": "Abaí",
@@ -313,7 +313,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "14": [
+  "CAN": [
     {
       "id": 89747,
       "name": "Colonia Catuete",
@@ -364,7 +364,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "11": [
+  "CEN": [
     {
       "id": 89720,
       "name": "Areguá",
@@ -499,7 +499,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "1": [
+  "CON": [
     {
       "id": 89726,
       "name": "Belén",
@@ -522,7 +522,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "3": [
+  "COR": [
     {
       "id": 89718,
       "name": "Altos",
@@ -615,7 +615,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "4": [
+  "GUA": [
     {
       "id": 89749,
       "name": "Colonia Mauricio José Troche",
@@ -673,7 +673,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "7": [
+  "ITA": [
     {
       "id": 89721,
       "name": "Arquitecto Tomás Romero Pereira",
@@ -822,7 +822,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "8": [
+  "MIS": [
     {
       "id": 89788,
       "name": "Juan de Ayolas",
@@ -880,7 +880,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "12": [
+  "NEE": [
     {
       "id": 89744,
       "name": "Cerrito",
@@ -910,7 +910,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "9": [
+  "PAR": [
     {
       "id": 89717,
       "name": "Acahay",
@@ -989,7 +989,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "15": [
+  "PRE": [
     {
       "id": 89727,
       "name": "Benjamín Aceval",
@@ -1012,7 +1012,7 @@
       "timezone": "America/Asuncion"
     }
   ],
-  "2": [
+  "PED": [
     {
       "id": 89719,
       "name": "Antequera",

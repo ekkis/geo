@@ -1,83 +1,83 @@
 {
-  "02": {
+  "ANS": {
     "name": "Anse Boileau"
   },
-  "03": {
+  "AE": {
     "name": "Anse Etoile"
   },
-  "05": {
+  "AR": {
     "name": "Anse Royale"
   },
-  "01": {
+  "AAP": {
     "name": "Anse-aux-Pins"
   },
-  "04": {
+  "AUX": {
     "name": "Au Cap"
   },
-  "06": {
+  "BAI": {
     "name": "Baie Lazare"
   },
-  "07": {
+  "BSA": {
     "name": "Baie Sainte Anne"
   },
-  "08": {
+  "BEA": {
     "name": "Beau Vallon"
   },
-  "09": {
+  "BEL": {
     "name": "Bel Air"
   },
-  "10": {
+  "BO": {
     "name": "Bel Ombre"
   },
-  "11": {
+  "CAS": {
     "name": "Cascade"
   },
-  "12": {
+  "GLA": {
     "name": "Glacis"
   },
-  "13": {
+  "GRA": {
     "name": "Grand'Anse Mahé"
   },
-  "14": {
+  "GAP": {
     "name": "Grand'Anse Praslin"
   },
-  "26": {
+  "ILE": {
     "name": "Ile Perseverance I"
   },
-  "27": {
+  "IPI": {
     "name": "Ile Perseverance II"
   },
-  "15": {
+  "DIG": {
     "name": "La Digue"
   },
-  "16": {
+  "RIV": {
     "name": "La Rivière Anglaise"
   },
-  "24": {
+  "MAM": {
     "name": "Les Mamelles"
   },
-  "17": {
+  "MON": {
     "name": "Mont Buxton"
   },
-  "18": {
+  "MF": {
     "name": "Mont Fleuri"
   },
-  "19": {
+  "PLA": {
     "name": "Plaisance"
   },
-  "20": {
+  "POI": {
     "name": "Pointe La Rue"
   },
-  "21": {
+  "POR": {
     "name": "Port Glaud"
   },
-  "25": {
+  "ROC": {
     "name": "Roche Caiman"
   },
-  "22": {
+  "LOU": {
     "name": "Saint Louis"
   },
-  "23": {
+  "TAK": {
     "name": "Takamaka"
   }
 }

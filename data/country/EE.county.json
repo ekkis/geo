@@ -1,284 +1,284 @@
 {
-  "130": {
+  "ALU": {
     "name": "Alutaguse"
   },
-  "141": {
+  "ANI": {
     "name": "Anija"
   },
-  "142": {
+  "ANT": {
     "name": "Antsla"
   },
-  "171": {
+  "ELV": {
     "name": "Elva"
   },
-  "214": {
+  "HAA": {
     "name": "Häädemeeste"
   },
-  "184": {
+  "HAAP": {
     "name": "Haapsalu"
   },
-  "191": {
+  "HAL": {
     "name": "Haljala"
   },
-  "37": {
+  "HAR": {
     "name": "Harju"
   },
-  "198": {
+  "HARK": {
     "name": "Harku"
   },
-  "39": {
+  "HII": {
     "name": "Hiiu"
   },
-  "205": {
+  "HIIU": {
     "name": "Hiiumaa"
   },
-  "45": {
+  "IDA": {
     "name": "Ida-Viru"
   },
-  "52": {
+  "JAR": {
     "name": "Järva"
   },
-  "255": {
+  "JARV": {
     "name": "Järva"
   },
-  "245": {
+  "JOE": {
     "name": "Joelähtme"
   },
-  "50": {
+  "JOG": {
     "name": "Jõgeva"
   },
-  "247": {
+  "JOGE": {
     "name": "Jõgeva"
   },
-  "251": {
+  "JOH": {
     "name": "Jõhvi"
   },
-  "272": {
+  "KAD": {
     "name": "Kadrina"
   },
-  "283": {
+  "KAM": {
     "name": "Kambja"
   },
-  "284": {
+  "KAN": {
     "name": "Kanepi"
   },
-  "291": {
+  "KAS": {
     "name": "Kastre"
   },
-  "293": {
+  "KEH": {
     "name": "Kehtna"
   },
-  "296": {
+  "KEI": {
     "name": "Keila"
   },
-  "303": {
+  "KIH": {
     "name": "Kihnu"
   },
-  "305": {
+  "KII": {
     "name": "Kiili"
   },
-  "317": {
+  "KOH": {
     "name": "Kohila"
   },
-  "321": {
+  "KJ": {
     "name": "Kohtla-Järve"
   },
-  "338": {
+  "KOS": {
     "name": "Kose"
   },
-  "353": {
+  "KUU": {
     "name": "Kuusalu"
   },
-  "56": {
+  "LAA": {
     "name": "Lääne"
   },
-  "430": {
+  "LH": {
     "name": "Lääne-Harju"
   },
-  "441": {
+  "LN": {
     "name": "Lääne-Nigula"
   },
-  "60": {
+  "LAA1": {
     "name": "Lääne-Viru"
   },
-  "431": {
+  "LAAN": {
     "name": "Lääneranna"
   },
-  "424": {
+  "LOK": {
     "name": "Loksa"
   },
-  "442": {
+  "LUG": {
     "name": "Lüganuse"
   },
-  "432": {
+  "LUU": {
     "name": "Luunja"
   },
-  "446": {
+  "MAA": {
     "name": "Maardu"
   },
-  "503": {
+  "MAR": {
     "name": "Märjamaa"
   },
-  "478": {
+  "MUH": {
     "name": "Muhu"
   },
-  "480": {
+  "MUL": {
     "name": "Mulgi"
   },
-  "486": {
+  "MUS": {
     "name": "Mustvee"
   },
-  "511": {
+  "NAR": {
     "name": "Narva"
   },
-  "514": {
+  "NJ": {
     "name": "Narva-Jõesuu"
   },
-  "528": {
+  "NOO": {
     "name": "Noo"
   },
-  "557": {
+  "OTE": {
     "name": "Otepää"
   },
-  "567": {
+  "PAI": {
     "name": "Paide"
   },
-  "68": {
+  "PAR": {
     "name": "Pärnu"
   },
-  "624": {
+  "PARN": {
     "name": "Pärnu"
   },
-  "586": {
+  "PEI": {
     "name": "Peipsiääre"
   },
-  "638": {
+  "POH": {
     "name": "Põhja-Pärnu"
   },
-  "615": {
+  "PS": {
     "name": "Põhja-Sakala"
   },
-  "618": {
+  "POL": {
     "name": "Poltsamaa"
   },
-  "622": {
+  "POLV": {
     "name": "Põlva"
   },
-  "64": {
+  "POLVA": {
     "name": "Põlva"
   },
-  "651": {
+  "RAA": {
     "name": "Raasiku"
   },
-  "653": {
+  "RAE": {
     "name": "Rae"
   },
-  "663": {
+  "RAK": {
     "name": "Rakvere"
   },
-  "661": {
+  "RAKV": {
     "name": "Rakvere"
   },
-  "708": {
+  "RAP": {
     "name": "Räpina"
   },
-  "668": {
+  "RAPL": {
     "name": "Rapla"
   },
-  "71": {
+  "RAPLA": {
     "name": "Rapla"
   },
-  "698": {
+  "ROU": {
     "name": "Rõuge"
   },
-  "689": {
+  "RUH": {
     "name": "Ruhnu"
   },
-  "712": {
+  "SAA": {
     "name": "Saarde"
   },
-  "74": {
+  "SAAR": {
     "name": "Saare"
   },
-  "714": {
+  "SAARE": {
     "name": "Saaremaa"
   },
-  "719": {
+  "SAK": {
     "name": "Saku"
   },
-  "726": {
+  "SAU": {
     "name": "Saue"
   },
-  "732": {
+  "SET": {
     "name": "Setomaa"
   },
-  "735": {
+  "SIL": {
     "name": "Sillamäe"
   },
-  "784": {
+  "TAL": {
     "name": "Tallinn"
   },
-  "792": {
+  "TAP": {
     "name": "Tapa"
   },
-  "793": {
+  "TAR": {
     "name": "Tartu"
   },
-  "79": {
+  "TART": {
     "name": "Tartu"
   },
-  "796": {
+  "TARTU": {
     "name": "Tartu"
   },
-  "803": {
+  "TOI": {
     "name": "Toila"
   },
-  "809": {
+  "TOR": {
     "name": "Tori"
   },
-  "824": {
+  "TORV": {
     "name": "Tõrva"
   },
-  "834": {
+  "TUR": {
     "name": "Türi"
   },
-  "928": {
+  "VAI": {
     "name": "Väike-Maarja"
   },
-  "855": {
+  "VAL": {
     "name": "Valga"
   },
-  "81": {
+  "VALG": {
     "name": "Valga"
   },
-  "890": {
+  "VII": {
     "name": "Viimsi"
   },
-  "897": {
+  "VIL": {
     "name": "Viljandi"
   },
-  "84": {
+  "VILJ": {
     "name": "Viljandi"
   },
-  "899": {
+  "VILJA": {
     "name": "Viljandi"
   },
-  "901": {
+  "VIN": {
     "name": "Vinni"
   },
-  "903": {
+  "VIR": {
     "name": "Viru-Nigula"
   },
-  "907": {
+  "VOR": {
     "name": "Vormsi"
   },
-  "917": {
+  "VORU": {
     "name": "Võru"
   },
-  "87": {
+  "VORA": {
     "name": "Võru"
   },
-  "919": {
+  "VORB": {
     "name": "Võru"
   }
 }

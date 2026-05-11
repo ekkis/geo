@@ -1,143 +1,143 @@
 {
-  "23": {
+  "AIC": {
     "name": "Aichi"
   },
-  "05": {
+  "AKI": {
     "name": "Akita"
   },
-  "02": {
+  "AOM": {
     "name": "Aomori"
   },
-  "12": {
+  "CHI": {
     "name": "Chiba"
   },
-  "38": {
+  "EHI": {
     "name": "Ehime"
   },
-  "18": {
+  "FUK": {
     "name": "Fukui"
   },
-  "40": {
+  "FUKU": {
     "name": "Fukuoka"
   },
-  "07": {
+  "FUKUS": {
     "name": "Fukushima"
   },
-  "21": {
+  "GIF": {
     "name": "Gifu"
   },
-  "10": {
+  "GUN": {
     "name": "Gunma"
   },
-  "34": {
+  "HIR": {
     "name": "Hiroshima"
   },
-  "01": {
+  "HOK": {
     "name": "Hokkaidō"
   },
-  "28": {
+  "HYO": {
     "name": "Hyōgo"
   },
-  "08": {
+  "IBA": {
     "name": "Ibaraki"
   },
-  "17": {
+  "ISH": {
     "name": "Ishikawa"
   },
-  "03": {
+  "IWA": {
     "name": "Iwate"
   },
-  "37": {
+  "KAG": {
     "name": "Kagawa"
   },
-  "46": {
+  "KAGO": {
     "name": "Kagoshima"
   },
-  "14": {
+  "KAN": {
     "name": "Kanagawa"
   },
-  "39": {
+  "KOC": {
     "name": "Kōchi"
   },
-  "43": {
+  "KUM": {
     "name": "Kumamoto"
   },
-  "26": {
+  "KYO": {
     "name": "Kyōto"
   },
-  "24": {
+  "MIE": {
     "name": "Mie"
   },
-  "04": {
+  "MIY": {
     "name": "Miyagi"
   },
-  "45": {
+  "MIYA": {
     "name": "Miyazaki"
   },
-  "20": {
+  "NAG": {
     "name": "Nagano"
   },
-  "42": {
+  "NAGA": {
     "name": "Nagasaki"
   },
-  "29": {
+  "NAR": {
     "name": "Nara"
   },
-  "15": {
+  "NII": {
     "name": "Niigata"
   },
-  "44": {
+  "OIT": {
     "name": "Ōita"
   },
-  "33": {
+  "OKA": {
     "name": "Okayama"
   },
-  "47": {
+  "OKI": {
     "name": "Okinawa"
   },
-  "27": {
+  "OSA": {
     "name": "Ōsaka"
   },
-  "41": {
+  "SAG": {
     "name": "Saga"
   },
-  "11": {
+  "SAI": {
     "name": "Saitama"
   },
-  "25": {
+  "SHI": {
     "name": "Shiga"
   },
-  "32": {
+  "SHIM": {
     "name": "Shimane"
   },
-  "22": {
+  "SHIZ": {
     "name": "Shizuoka"
   },
-  "09": {
+  "TOC": {
     "name": "Tochigi"
   },
-  "36": {
+  "TOK": {
     "name": "Tokushima"
   },
-  "13": {
+  "TOKY": {
     "name": "Tokyo"
   },
-  "31": {
+  "TOT": {
     "name": "Tottori"
   },
-  "16": {
+  "TOY": {
     "name": "Toyama"
   },
-  "30": {
+  "WAK": {
     "name": "Wakayama"
   },
-  "06": {
+  "YAM": {
     "name": "Yamagata"
   },
-  "35": {
+  "YAMA": {
     "name": "Yamaguchi"
   },
-  "19": {
+  "YAMAN": {
     "name": "Yamanashi"
   }
 }

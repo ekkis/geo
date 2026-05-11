@@ -1,56 +1,56 @@
 {
-  "08": {
+  "CENFI": {
     "name": "Central Finland"
   },
-  "07": {
+  "CENOS": {
     "name": "Central Ostrobothnia"
   },
-  "19": {
+  "FIN": {
     "name": "Finland Proper"
   },
-  "05": {
+  "KAI": {
     "name": "Kainuu"
   },
-  "09": {
+  "KYM": {
     "name": "Kymenlaakso"
   },
-  "10": {
+  "LAP": {
     "name": "Lapland"
   },
-  "13": {
+  "NORKA": {
     "name": "North Karelia"
   },
-  "14": {
+  "NOROS": {
     "name": "Northern Ostrobothnia"
   },
-  "15": {
+  "NOR": {
     "name": "Northern Savonia"
   },
-  "12": {
+  "OST": {
     "name": "Ostrobothnia"
   },
-  "16": {
+  "PAI": {
     "name": "Päijänne Tavastia"
   },
-  "11": {
+  "PIR": {
     "name": "Pirkanmaa"
   },
-  "17": {
+  "SAT": {
     "name": "Satakunta"
   },
-  "02": {
+  "SOUKA": {
     "name": "South Karelia"
   },
-  "03": {
+  "SOU": {
     "name": "Southern Ostrobothnia"
   },
-  "04": {
+  "SS": {
     "name": "Southern Savonia"
   },
-  "06": {
+  "TAV": {
     "name": "Tavastia Proper"
   },
-  "18": {
+  "UUS": {
     "name": "Uusimaa"
   }
 }

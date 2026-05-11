@@ -11,7 +11,7 @@
   "BAZ": {
     "name": "Bazèga"
   },
-  "01": {
+  "BOU": {
     "name": "Boucle du Mouhoun"
   },
   "BGR": {
@@ -23,28 +23,28 @@
   "BLK": {
     "name": "Boulkiemde"
   },
-  "02": {
+  "CAS": {
     "name": "Cascades"
   },
-  "03": {
+  "CEN": {
     "name": "Centre"
   },
-  "04": {
+  "CE": {
     "name": "Centre-Est"
   },
-  "05": {
+  "CN": {
     "name": "Centre-Nord"
   },
-  "06": {
+  "CO": {
     "name": "Centre-Ouest"
   },
-  "07": {
+  "CS": {
     "name": "Centre-Sud"
   },
   "COM": {
     "name": "Comoé"
   },
-  "08": {
+  "EST": {
     "name": "Est"
   },
   "GAN": {
@@ -56,7 +56,7 @@
   "GOU": {
     "name": "Gourma"
   },
-  "09": {
+  "HAU": {
     "name": "Hauts-Bassins"
   },
   "HOU": {
@@ -107,7 +107,7 @@
   "NAY": {
     "name": "Nayala"
   },
-  "10": {
+  "NOR": {
     "name": "Nord"
   },
   "NOU": {
@@ -122,13 +122,13 @@
   "PAS": {
     "name": "Passoré"
   },
-  "11": {
+  "PLA": {
     "name": "Plateau-Central"
   },
   "PON": {
     "name": "Poni"
   },
-  "12": {
+  "SAH": {
     "name": "Sahel"
   },
   "SNG": {
@@ -149,7 +149,7 @@
   "SOR": {
     "name": "Sourou"
   },
-  "13": {
+  "SUD": {
     "name": "Sud-Ouest"
   },
   "TAP": {

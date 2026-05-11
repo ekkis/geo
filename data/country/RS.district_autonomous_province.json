@@ -1,98 +1,98 @@
 {
-  "00": {
+  "BEL": {
     "name": "Belgrade"
   },
-  "14": {
+  "BOR": {
     "name": "Bor"
   },
-  "11": {
+  "BRA": {
     "name": "Braničevo"
   },
-  "02": {
+  "CEN": {
     "name": "Central Banat"
   },
-  "23": {
+  "JAB": {
     "name": "Jablanica"
   },
-  "09": {
+  "KOL": {
     "name": "Kolubara"
   },
-  "25": {
+  "KOS": {
     "name": "Kosovo"
   },
   "KM": {
     "name": "Kosovo-Metohija"
   },
-  "29": {
+  "KP": {
     "name": "Kosovo-Pomoravlje"
   },
-  "28": {
+  "KOSM": {
     "name": "Kosovska Mitrovica"
   },
-  "08": {
+  "MAC": {
     "name": "Mačva"
   },
-  "17": {
+  "MOR": {
     "name": "Moravica"
   },
-  "20": {
+  "NIS": {
     "name": "Nišava"
   },
-  "01": {
+  "NOR": {
     "name": "North Bačka"
   },
-  "03": {
+  "NB": {
     "name": "North Banat"
   },
-  "24": {
+  "PCI": {
     "name": "Pčinja"
   },
-  "26": {
+  "PEC": {
     "name": "Peć"
   },
-  "22": {
+  "PIR": {
     "name": "Pirot"
   },
-  "10": {
+  "POD": {
     "name": "Podunavlje"
   },
-  "13": {
+  "POM": {
     "name": "Pomoravlje"
   },
-  "27": {
+  "PRI": {
     "name": "Prizren"
   },
-  "19": {
+  "RAS": {
     "name": "Rasina"
   },
-  "18": {
+  "RASK": {
     "name": "Raška"
   },
-  "06": {
+  "SOU": {
     "name": "South Bačka"
   },
-  "04": {
+  "SB": {
     "name": "South Banat"
   },
-  "07": {
+  "SRE": {
     "name": "Srem"
   },
-  "12": {
+  "SUM": {
     "name": "Šumadija"
   },
-  "21": {
+  "TOP": {
     "name": "Toplica"
   },
   "VO": {
     "name": "Vojvodina"
   },
-  "05": {
+  "WES": {
     "name": "West Bačka"
   },
-  "15": {
+  "ZAJ": {
     "name": "Zaječar"
   },
-  "16": {
+  "ZLA": {
     "name": "Zlatibor"
   }
 }

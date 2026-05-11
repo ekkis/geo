@@ -1,5 +1,5 @@
 {
-  "10": [
+  "CAR": [
     {
       "id": 52030,
       "name": "Hillsborough",
@@ -8,7 +8,7 @@
       "timezone": "America/Grenada"
     }
   ],
-  "01": [
+  "AND": [
     {
       "id": 52029,
       "name": "Grenville",
@@ -17,7 +17,7 @@
       "timezone": "America/Grenada"
     }
   ],
-  "02": [
+  "DAV": [
     {
       "id": 52031,
       "name": "Saint David’s",
@@ -26,7 +26,7 @@
       "timezone": "America/Grenada"
     }
   ],
-  "03": [
+  "GEO": [
     {
       "id": 52032,
       "name": "Saint George's",
@@ -35,7 +35,7 @@
       "timezone": "America/Grenada"
     }
   ],
-  "04": [
+  "JOH": [
     {
       "id": 52028,
       "name": "Gouyave",
@@ -44,7 +44,7 @@
       "timezone": "America/Grenada"
     }
   ],
-  "05": [
+  "MAR": [
     {
       "id": 52034,
       "name": "Victoria",
@@ -53,7 +53,7 @@
       "timezone": "America/Grenada"
     }
   ],
-  "06": [
+  "PAT": [
     {
       "id": 52033,
       "name": "Sauteurs",

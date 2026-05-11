@@ -3,7 +3,7 @@
   "BAM": [],
   "BAN": [],
   "BAZ": [],
-  "01": [
+  "BOU": [
     {
       "id": 9159,
       "name": "Barani",
@@ -99,7 +99,7 @@
   "BGR": [],
   "BLG": [],
   "BLK": [],
-  "02": [
+  "CAS": [
     {
       "id": 9158,
       "name": "Banfora",
@@ -129,7 +129,7 @@
       "timezone": "Africa/Ouagadougou"
     }
   ],
-  "03": [
+  "CEN": [
     {
       "id": 9181,
       "name": "Kadiogo",
@@ -145,7 +145,7 @@
       "timezone": "Africa/Ouagadougou"
     }
   ],
-  "04": [
+  "CE": [
     {
       "id": 9174,
       "name": "Garango",
@@ -196,7 +196,7 @@
       "timezone": "Africa/Ouagadougou"
     }
   ],
-  "05": [
+  "CN": [
     {
       "id": 9165,
       "name": "Boulsa",
@@ -240,7 +240,7 @@
       "timezone": "Africa/Ouagadougou"
     }
   ],
-  "06": [
+  "CO": [
     {
       "id": 9178,
       "name": "Goulouré",
@@ -319,7 +319,7 @@
       "timezone": "Africa/Ouagadougou"
     }
   ],
-  "07": [
+  "CS": [
     {
       "id": 9161,
       "name": "Bazega",
@@ -364,7 +364,7 @@
     }
   ],
   "COM": [],
-  "08": [
+  "EST": [
     {
       "id": 9163,
       "name": "Bogandé",
@@ -439,7 +439,7 @@
   "GAN": [],
   "GNA": [],
   "GOU": [],
-  "09": [
+  "HAU": [
     {
       "id": 9162,
       "name": "Bobo-Dioulasso",
@@ -492,7 +492,7 @@
   "NAO": [],
   "NAM": [],
   "NAY": [],
-  "10": [
+  "NOR": [
     {
       "id": 9179,
       "name": "Gourcy",
@@ -554,7 +554,7 @@
   "OUB": [],
   "OUD": [],
   "PAS": [],
-  "11": [
+  "PLA": [
     {
       "id": 9166,
       "name": "Boussé",
@@ -599,7 +599,7 @@
     }
   ],
   "PON": [],
-  "12": [
+  "SAH": [
     {
       "id": 9170,
       "name": "Djibo",
@@ -656,7 +656,7 @@
   "SIS": [],
   "SOM": [],
   "SOR": [],
-  "13": [
+  "SUD": [
     {
       "id": 9160,
       "name": "Batié",

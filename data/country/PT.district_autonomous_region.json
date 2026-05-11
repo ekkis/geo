@@ -1,62 +1,62 @@
 {
-  "20": {
+  "ACO": {
     "name": "Açores"
   },
-  "01": {
+  "AVE": {
     "name": "Aveiro"
   },
-  "02": {
+  "BEJ": {
     "name": "Beja"
   },
-  "03": {
+  "BRA": {
     "name": "Braga"
   },
-  "04": {
+  "BRA1": {
     "name": "Bragança"
   },
-  "05": {
+  "CASBR": {
     "name": "Castelo Branco"
   },
-  "06": {
+  "COI": {
     "name": "Coimbra"
   },
-  "07": {
+  "EVO": {
     "name": "Évora"
   },
-  "08": {
+  "FAR": {
     "name": "Faro"
   },
-  "09": {
+  "GUA": {
     "name": "Guarda"
   },
-  "10": {
+  "LEI": {
     "name": "Leiria"
   },
-  "11": {
+  "LIS": {
     "name": "Lisbon"
   },
-  "30": {
+  "MAD": {
     "name": "Madeira"
   },
-  "12": {
+  "POR": {
     "name": "Portalegre"
   },
-  "13": {
+  "POR1": {
     "name": "Porto"
   },
-  "14": {
+  "SAN": {
     "name": "Santarém"
   },
-  "15": {
+  "SET": {
     "name": "Setúbal"
   },
-  "16": {
+  "VIADO": {
     "name": "Viana do Castelo"
   },
-  "17": {
+  "VILRE": {
     "name": "Vila Real"
   },
-  "18": {
+  "VIS": {
     "name": "Viseu"
   }
 }

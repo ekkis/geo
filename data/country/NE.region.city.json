@@ -1,5 +1,5 @@
 {
-  "1": [
+  "AG": [
     {
       "id": 76675,
       "name": "Agadez",
@@ -43,7 +43,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "2": [
+  "DF": [
     {
       "id": 76694,
       "name": "Département de Diffa",
@@ -87,7 +87,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "3": [
+  "DS": [
     {
       "id": 76683,
       "name": "Boboye Department",
@@ -145,7 +145,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "4": [
+  "MA": [
     {
       "id": 76676,
       "name": "Aguié",
@@ -231,7 +231,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "8": [
+  "NI": [
     {
       "id": 160096,
       "name": "Niamey",
@@ -240,7 +240,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "5": [
+  "TH": [
     {
       "id": 76674,
       "name": "Abalak",
@@ -347,7 +347,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "6": [
+  "TL": [
     {
       "id": 76679,
       "name": "Ayorou",
@@ -447,7 +447,7 @@
       "timezone": "Africa/Niamey"
     }
   ],
-  "7": [
+  "ZD": [
     {
       "id": 76699,
       "name": "Département de Gouré",

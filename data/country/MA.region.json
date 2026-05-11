@@ -20,7 +20,7 @@
   "BEM": {
     "name": "Béni Mellal"
   },
-  "05": {
+  "BEN": {
     "name": "Béni Mellal-Khénifra"
   },
   "BES": {
@@ -41,7 +41,7 @@
   "CAS": {
     "name": "Casablanca"
   },
-  "06": {
+  "CS": {
     "name": "Casablanca-Settat"
   },
   "CHE": {
@@ -53,10 +53,10 @@
   "CHT": {
     "name": "Chtouka-Ait Baha"
   },
-  "12": {
+  "DAK": {
     "name": "Dakhla-Oued Ed-Dahab (EH)"
   },
-  "08": {
+  "DRA": {
     "name": "Drâa-Tafilalet"
   },
   "DRI": {
@@ -86,7 +86,7 @@
   "FES": {
     "name": "Fès"
   },
-  "03": {
+  "FM": {
     "name": "Fès-Meknès"
   },
   "FIG": {
@@ -98,7 +98,7 @@
   "GUE": {
     "name": "Guelmim"
   },
-  "10": {
+  "GONEP": {
     "name": "Guelmim-Oued Noun (EH-partial)"
   },
   "GUF": {
@@ -125,13 +125,13 @@
   "KHO": {
     "name": "Khouribga"
   },
-  "02": {
+  "LXX": {
     "name": "L'Oriental"
   },
   "LAA": {
     "name": "Laâyoune (EH)"
   },
-  "11": {
+  "LSHEP": {
     "name": "Laâyoune-Sakia El Hamra (EH-partial)"
   },
   "LAR": {
@@ -143,7 +143,7 @@
   "MAR": {
     "name": "Marrakech"
   },
-  "07": {
+  "MS": {
     "name": "Marrakesh-Safi"
   },
   "MED": {
@@ -182,7 +182,7 @@
   "RAB": {
     "name": "Rabat"
   },
-  "04": {
+  "RSK": {
     "name": "Rabat-Salé-Kénitra"
   },
   "REH": {
@@ -215,7 +215,7 @@
   "SKH": {
     "name": "Skhirate-Témara"
   },
-  "09": {
+  "SOU": {
     "name": "Souss-Massa"
   },
   "TNT": {
@@ -224,7 +224,7 @@
   "TNG": {
     "name": "Tanger-Assilah"
   },
-  "01": {
+  "TAN": {
     "name": "Tanger-Tétouan-Al Hoceïma"
   },
   "TAO": {

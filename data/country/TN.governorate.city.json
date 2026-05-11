@@ -1,5 +1,5 @@
 {
-  "12": [
+  "ARI": [
     {
       "id": 106915,
       "name": "Ariana",
@@ -50,7 +50,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "31": [
+  "BEJ": [
     {
       "id": 153377,
       "name": "Amdoun",
@@ -115,7 +115,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "13": [
+  "BEN": [
     {
       "id": 106920,
       "name": "Ben Arous",
@@ -152,7 +152,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "23": [
+  "BIZ": [
     {
       "id": 106913,
       "name": "Al Matlīn",
@@ -245,7 +245,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "81": [
+  "GAB": [
     {
       "id": 106929,
       "name": "Bou Attouche",
@@ -275,7 +275,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "71": [
+  "GAF": [
     {
       "id": 106914,
       "name": "Ar Rudayyif",
@@ -312,7 +312,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "32": [
+  "JEN": [
     {
       "id": 106951,
       "name": "Fernana",
@@ -342,7 +342,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "41": [
+  "KAI": [
     {
       "id": 106958,
       "name": "Haffouz",
@@ -365,7 +365,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "42": [
+  "KAS": [
     {
       "id": 106969,
       "name": "Kasserine",
@@ -395,7 +395,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "73": [
+  "KEB": [
     {
       "id": 106939,
       "name": "Douz",
@@ -425,7 +425,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "33": [
+  "KEF": [
     {
       "id": 106917,
       "name": "As Sars",
@@ -476,7 +476,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "53": [
+  "MAH": [
     {
       "id": 106932,
       "name": "Chebba",
@@ -541,7 +541,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "14": [
+  "MAN": [
     {
       "id": 106942,
       "name": "El Battan",
@@ -571,7 +571,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "82": [
+  "MED": [
     {
       "id": 106921,
       "name": "Ben Gardane",
@@ -629,7 +629,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "52": [
+  "MON": [
     {
       "id": 106918,
       "name": "Banbalah",
@@ -743,7 +743,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "21": [
+  "NAB": [
     {
       "id": 153265,
       "name": "Azmour",
@@ -906,7 +906,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "61": [
+  "SFA": [
     {
       "id": 106910,
       "name": "Agareb",
@@ -950,7 +950,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "43": [
+  "SID": [
     {
       "id": 106925,
       "name": "Bir el Hafey",
@@ -987,7 +987,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "34": [
+  "SIL": [
     {
       "id": 106928,
       "name": "Bou Arada",
@@ -1031,7 +1031,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "51": [
+  "SOU": [
     {
       "id": 106911,
       "name": "Akouda",
@@ -1089,7 +1089,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "83": [
+  "TAT": [
     {
       "id": 107009,
       "name": "Remada",
@@ -1105,7 +1105,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "72": [
+  "TOZ": [
     {
       "id": 106933,
       "name": "Chebika",
@@ -1142,7 +1142,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "11": [
+  "TUN": [
     {
       "id": 106912,
       "name": "Al Marsá",
@@ -1186,7 +1186,7 @@
       "timezone": "Africa/Tunis"
     }
   ],
-  "22": [
+  "ZAG": [
     {
       "id": 106943,
       "name": "El Fahs",

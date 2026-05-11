@@ -1,38 +1,38 @@
 {
-  "11": {
+  "BOU": {
     "name": "Bouenza"
   },
   "BZV": {
     "name": "Brazzaville"
   },
-  "8": {
+  "CUV": {
     "name": "Cuvette"
   },
-  "15": {
+  "CO": {
     "name": "Cuvette-Ouest"
   },
-  "5": {
+  "KOU": {
     "name": "Kouilou"
   },
-  "2": {
+  "LEK": {
     "name": "Lékoumou"
   },
-  "7": {
+  "LIK": {
     "name": "Likouala"
   },
-  "9": {
+  "NIA": {
     "name": "Niari"
   },
-  "14": {
+  "PLA": {
     "name": "Plateaux"
   },
-  "16": {
+  "POI": {
     "name": "Pointe-Noire"
   },
-  "12": {
+  "POO": {
     "name": "Pool"
   },
-  "13": {
+  "SAN": {
     "name": "Sangha"
   }
 }

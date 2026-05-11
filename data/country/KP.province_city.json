@@ -1,41 +1,41 @@
 {
-  "04": {
+  "CHAGANG": {
     "name": "Chagang"
   },
-  "15": {
+  "KAE": {
     "name": "Kaesong"
   },
-  "07": {
+  "KANGWON": {
     "name": "Kangwon"
   },
-  "14": {
+  "NAM": {
     "name": "Nampho"
   },
-  "09": {
+  "HAMPNORTH": {
     "name": "North Hamgyong"
   },
-  "06": {
+  "HWABONORTH": {
     "name": "North Hwanghae"
   },
-  "03": {
+  "PYONGBONORTH": {
     "name": "North Pyongan"
   },
-  "01": {
+  "PYONGYANG": {
     "name": "Pyongyang"
   },
-  "13": {
+  "RASON": {
     "name": "Rason"
   },
-  "10": {
+  "RYANGANG": {
     "name": "Ryanggang"
   },
-  "08": {
+  "HAMSOUTH": {
     "name": "South Hamgyong"
   },
-  "05": {
+  "HWABOSOUTH": {
     "name": "South Hwanghae"
   },
-  "02": {
+  "PYONGBOSOUTH": {
     "name": "South Pyongan"
   }
 }

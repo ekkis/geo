@@ -1,5 +1,5 @@
 {
-  "26": [
+  "BUSAN": [
     {
       "id": 65276,
       "name": "Buk-gu",
@@ -106,7 +106,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "27": [
+  "DAEGU": [
     {
       "id": 65300,
       "name": "Daegu",
@@ -164,7 +164,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "30": [
+  "DAEJEON": [
     {
       "id": 65301,
       "name": "Daejeon",
@@ -201,7 +201,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "42": [
+  "GANGWON": [
     {
       "id": 65293,
       "name": "Cheorwon-gun",
@@ -413,7 +413,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "29": [
+  "GWANGJU": [
     {
       "id": 65362,
       "name": "Gwangju",
@@ -436,7 +436,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "41": [
+  "GYEONGGI": [
     {
       "id": 65262,
       "name": "Ansan-si",
@@ -739,7 +739,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "28": [
+  "INCHEON": [
     {
       "id": 65277,
       "name": "Bupyeong-gu",
@@ -769,7 +769,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "49": [
+  "JEJ": [
     {
       "id": 65317,
       "name": "Gaigeturi",
@@ -799,7 +799,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "43": [
+  "CHUNGNORTH": [
     {
       "id": 65268,
       "name": "Boeun-gun",
@@ -906,7 +906,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "47": [
+  "GYEONGSBNORTH": [
     {
       "id": 65260,
       "name": "Andong",
@@ -1146,7 +1146,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "45": [
+  "JEONLAKNORTH": [
     {
       "id": 65273,
       "name": "Buan-gun",
@@ -1316,7 +1316,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "50": [
+  "SEJ": [
     {
       "id": 65483,
       "name": "Sejong",
@@ -1325,7 +1325,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "11": [
+  "SEOUL": [
     {
       "id": 65306,
       "name": "Dobong-gu",
@@ -1516,7 +1516,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "44": [
+  "CHUNGSOUTH": [
     {
       "id": 65265,
       "name": "Asan",
@@ -1714,7 +1714,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "48": [
+  "GYEONGBSOUTH": [
     {
       "id": 65281,
       "name": "Changnyeong",
@@ -1898,7 +1898,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "46": [
+  "JEONLAKSOUTH": [
     {
       "id": 65267,
       "name": "Beolgyo",
@@ -2145,7 +2145,7 @@
       "timezone": "Asia/Seoul"
     }
   ],
-  "31": [
+  "ULSAN": [
     {
       "id": 65275,
       "name": "Buk-gu",

@@ -1,5 +1,5 @@
 {
-  "1": [
+  "BAN": [
     {
       "id": 64967,
       "name": "Mongkol Borei",
@@ -36,7 +36,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "2": [
+  "BAT": [
     {
       "id": 64940,
       "name": "Battambang",
@@ -73,7 +73,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "3": [
+  "KAM": [
     {
       "id": 64941,
       "name": "Cheung Prey",
@@ -96,7 +96,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "4": [
+  "KC": [
     {
       "id": 64939,
       "name": "Baribour",
@@ -133,7 +133,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "5": [
+  "KS": [
     {
       "id": 64946,
       "name": "Kampong Speu",
@@ -170,8 +170,8 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "6": [],
-  "7": [
+  "KT": [],
+  "KAMP": [
     {
       "id": 64935,
       "name": "Angkor Chey",
@@ -236,7 +236,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "8": [
+  "KAN": [
     {
       "id": 64965,
       "name": "Krŏng Ta Khmau",
@@ -259,7 +259,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "23": [
+  "KEP": [
     {
       "id": 64961,
       "name": "Krong Kep",
@@ -275,7 +275,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "9": [
+  "KOH": [
     {
       "id": 64957,
       "name": "Koh Kong",
@@ -312,7 +312,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "10": [
+  "KRA": [
     {
       "id": 64958,
       "name": "Kracheh",
@@ -335,7 +335,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "11": [
+  "MON": [
     {
       "id": 64964,
       "name": "Krŏng Sênmônoŭrôm",
@@ -365,7 +365,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "22": [
+  "ODD": [
     {
       "id": 64976,
       "name": "Samraong",
@@ -395,7 +395,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "24": [
+  "PAI": [
     {
       "id": 64956,
       "name": "Khan Sala Krau",
@@ -411,7 +411,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "12": [
+  "PHN": [
     {
       "id": 64949,
       "name": "Khan 7 Makara",
@@ -469,7 +469,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "13": [
+  "PRE": [
     {
       "id": 64977,
       "name": "Sangkom Thmei",
@@ -520,7 +520,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "14": [
+  "PV": [
     {
       "id": 64972,
       "name": "Prey Veng",
@@ -550,7 +550,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "15": [
+  "PUR": [
     {
       "id": 64936,
       "name": "Bakan",
@@ -594,7 +594,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "16": [
+  "RAT": [
     {
       "id": 64937,
       "name": "Banlung",
@@ -659,7 +659,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "17": [
+  "SIE": [
     {
       "id": 64979,
       "name": "Siem Reap",
@@ -696,7 +696,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "18": [
+  "SIH": [
     {
       "id": 64980,
       "name": "Sihanoukville",
@@ -712,7 +712,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "19": [
+  "STU": [
     {
       "id": 65020,
       "name": "Srŏk Srêsén",
@@ -735,7 +735,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "20": [
+  "SVA": [
     {
       "id": 65021,
       "name": "Srŏk Svay Chrŭm",
@@ -751,7 +751,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "21": [
+  "TAK": [
     {
       "id": 64963,
       "name": "Krŏng Doun Kaev",
@@ -788,7 +788,7 @@
       "timezone": "Asia/Phnom_Penh"
     }
   ],
-  "25": [
+  "TBO": [
     {
       "id": 160042,
       "name": "Suong",

@@ -1,5 +1,5 @@
 {
-  "01": [
+  "ADA": [
     {
       "id": 153788,
       "name": "Adana",
@@ -113,7 +113,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "02": [
+  "ADI": [
     {
       "id": 107332,
       "name": "Besni",
@@ -178,7 +178,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "03": [
+  "AFY": [
     {
       "id": 107318,
       "name": "Başmakçı",
@@ -306,7 +306,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "04": [
+  "AGR": [
     {
       "id": 107502,
       "name": "Diyadin",
@@ -364,7 +364,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "68": [
+  "AKS": [
     {
       "id": 107239,
       "name": "Ağaçören",
@@ -422,7 +422,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "05": [
+  "AMA": [
     {
       "id": 107716,
       "name": "Göynücek",
@@ -473,7 +473,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "06": [
+  "ANK": [
     {
       "id": 107102,
       "name": "Akyurt",
@@ -657,7 +657,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "07": [
+  "ANT": [
     {
       "id": 107092,
       "name": "Akseki",
@@ -799,7 +799,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "75": [
+  "ARD": [
     {
       "id": 108853,
       "name": "Çıldır",
@@ -843,7 +843,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "08": [
+  "ART": [
     {
       "id": 107180,
       "name": "Ardanuç",
@@ -908,7 +908,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "09": [
+  "AYD": [
     {
       "id": 107381,
       "name": "Bozdoğan",
@@ -1029,7 +1029,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "10": [
+  "BAL": [
     {
       "id": 107138,
       "name": "Altıeylül",
@@ -1171,7 +1171,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "74": [
+  "BAR": [
     {
       "id": 107155,
       "name": "Amasra",
@@ -1201,7 +1201,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "72": [
+  "BAT": [
     {
       "id": 107350,
       "name": "Beşiri",
@@ -1245,7 +1245,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "69": [
+  "BAY": [
     {
       "id": 107226,
       "name": "Aydıntepe",
@@ -1268,7 +1268,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "11": [
+  "BIL": [
     {
       "id": 107393,
       "name": "Bozüyük",
@@ -1326,7 +1326,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "12": [
+  "BIN": [
     {
       "id": 107060,
       "name": "Adaklı",
@@ -1384,7 +1384,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "13": [
+  "BIT": [
     {
       "id": 107065,
       "name": "Adilcevaz",
@@ -1435,7 +1435,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "14": [
+  "BOL": [
     {
       "id": 107537,
       "name": "Dörtdivan",
@@ -1500,7 +1500,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "15": [
+  "BUR": [
     {
       "id": 107241,
       "name": "Ağlasun",
@@ -1579,7 +1579,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "16": [
+  "BURS": [
     {
       "id": 107419,
       "name": "Büyükorhan",
@@ -1700,7 +1700,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "17": [
+  "CAN": [
     {
       "id": 107229,
       "name": "Ayvacık",
@@ -1786,7 +1786,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "18": [
+  "CANK": [
     {
       "id": 107208,
       "name": "Atkaracalar",
@@ -1872,7 +1872,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "19": [
+  "COR": [
     {
       "id": 107117,
       "name": "Alaca",
@@ -1972,7 +1972,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "20": [
+  "DEN": [
     {
       "id": 107057,
       "name": "Acıpayam",
@@ -2107,7 +2107,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "21": [
+  "DIY": [
     {
       "id": 107309,
       "name": "Bağlar",
@@ -2228,7 +2228,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "81": [
+  "DUZ": [
     {
       "id": 107110,
       "name": "Akçakoca",
@@ -2286,7 +2286,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "22": [
+  "EDI": [
     {
       "id": 107580,
       "name": "Enez",
@@ -2351,7 +2351,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "23": [
+  "ELA": [
     {
       "id": 107246,
       "name": "Ağın",
@@ -2430,7 +2430,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "24": [
+  "ERZ": [
     {
       "id": 108806,
       "name": "Çayırlı",
@@ -2495,7 +2495,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "25": [
+  "ERZU": [
     {
       "id": 107250,
       "name": "Aşkale",
@@ -2637,7 +2637,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "26": [
+  "ESK": [
     {
       "id": 107133,
       "name": "Alpu",
@@ -2737,7 +2737,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "27": [
+  "GAZ": [
     {
       "id": 107170,
       "name": "Araban",
@@ -2802,7 +2802,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "28": [
+  "GIR": [
     {
       "id": 107154,
       "name": "Alucra",
@@ -2916,7 +2916,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "29": [
+  "GUM": [
     {
       "id": 107969,
       "name": "Kelkit",
@@ -2960,7 +2960,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "30": [
+  "HAK": [
     {
       "id": 108846,
       "name": "Çukurca",
@@ -2997,7 +2997,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "31": [
+  "HAT": [
     {
       "id": 107152,
       "name": "Altınözü",
@@ -3104,7 +3104,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "76": [
+  "IGD": [
     {
       "id": 153357,
       "name": "Aralık",
@@ -3134,7 +3134,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "32": [
+  "ISP": [
     {
       "id": 107094,
       "name": "Aksu",
@@ -3227,7 +3227,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "34": [
+  "IST": [
     {
       "id": 107062,
       "name": "Adalar",
@@ -3509,7 +3509,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "35": [
+  "IZM": [
     {
       "id": 107130,
       "name": "Aliağa",
@@ -3728,7 +3728,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "46": [
+  "KAH": [
     {
       "id": 107069,
       "name": "Afşin",
@@ -3807,7 +3807,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "78": [
+  "KAR": [
     {
       "id": 107554,
       "name": "Eflani",
@@ -3851,7 +3851,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "70": [
+  "KARA": [
     {
       "id": 107228,
       "name": "Ayrancı",
@@ -3895,7 +3895,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "36": [
+  "KARS": [
     {
       "id": 107098,
       "name": "Akyaka",
@@ -3953,7 +3953,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "37": [
+  "KAS": [
     {
       "id": 107052,
       "name": "Abana",
@@ -4095,7 +4095,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "38": [
+  "KAY": [
     {
       "id": 107087,
       "name": "Akkışla",
@@ -4216,7 +4216,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "79": [
+  "KIL": [
     {
       "id": 107559,
       "name": "Elbeyli",
@@ -4246,7 +4246,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "71": [
+  "KIR": [
     {
       "id": 107264,
       "name": "Bahşılı",
@@ -4311,7 +4311,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "39": [
+  "KRK": [
     {
       "id": 107254,
       "name": "Babaeski",
@@ -4369,7 +4369,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "40": [
+  "KRS": [
     {
       "id": 107109,
       "name": "Akçakent",
@@ -4420,7 +4420,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "41": [
+  "KOC": [
     {
       "id": 107314,
       "name": "Başiskele",
@@ -4506,7 +4506,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "42": [
+  "KON": [
     {
       "id": 107075,
       "name": "Ahırlı",
@@ -4725,7 +4725,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "43": [
+  "KUT": [
     {
       "id": 107147,
       "name": "Altıntaş",
@@ -4818,7 +4818,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "44": [
+  "MAL": [
     {
       "id": 107105,
       "name": "Akçadağ",
@@ -4911,7 +4911,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "45": [
+  "MAN": [
     {
       "id": 107073,
       "name": "Ahmetli",
@@ -5032,7 +5032,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "47": [
+  "MAR": [
     {
       "id": 107195,
       "name": "Artuklu",
@@ -5104,7 +5104,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "33": [
+  "MER": [
     {
       "id": 107079,
       "name": "Akdeniz",
@@ -5204,7 +5204,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "48": [
+  "MUG": [
     {
       "id": 107365,
       "name": "Bodrum",
@@ -5297,7 +5297,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "49": [
+  "MUS": [
     {
       "id": 107406,
       "name": "Bulanık",
@@ -5341,7 +5341,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "50": [
+  "NEV": [
     {
       "id": 107055,
       "name": "Acıgöl",
@@ -5399,7 +5399,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "51": [
+  "NIG": [
     {
       "id": 107136,
       "name": "Altunhisar",
@@ -5443,7 +5443,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "52": [
+  "ORD": [
     {
       "id": 107085,
       "name": "Akkuş",
@@ -5578,7 +5578,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "80": [
+  "OSM": [
     {
       "id": 107259,
       "name": "Bahçe",
@@ -5629,7 +5629,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "53": [
+  "RIZ": [
     {
       "id": 107182,
       "name": "Ardeşen",
@@ -5715,7 +5715,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "54": [
+  "SAK": [
     {
       "id": 107064,
       "name": "Adapazarı",
@@ -5829,7 +5829,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "55": [
+  "SAM": [
     {
       "id": 107126,
       "name": "Alaçam",
@@ -5950,7 +5950,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "63": [
+  "SAN": [
     {
       "id": 107107,
       "name": "Akçakale",
@@ -6043,7 +6043,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "56": [
+  "SII": [
     {
       "id": 107298,
       "name": "Baykan",
@@ -6094,7 +6094,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "57": [
+  "SIN": [
     {
       "id": 153360,
       "name": "Ayancık",
@@ -6159,7 +6159,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "58": [
+  "SIV": [
     {
       "id": 107113,
       "name": "Akıncılar",
@@ -6280,7 +6280,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "73": [
+  "SRN": [
     {
       "id": 107344,
       "name": "Beytüşşebap",
@@ -6331,7 +6331,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "59": [
+  "TEK": [
     {
       "id": 108819,
       "name": "Çerkezköy",
@@ -6410,7 +6410,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "60": [
+  "TOK": [
     {
       "id": 107131,
       "name": "Almus",
@@ -6496,7 +6496,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "61": [
+  "TRA": [
     {
       "id": 107104,
       "name": "Akçaabat",
@@ -6624,7 +6624,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "62": [
+  "TUN": [
     {
       "id": 108818,
       "name": "Çemişgezek",
@@ -6682,7 +6682,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "64": [
+  "USA": [
     {
       "id": 107281,
       "name": "Banaz",
@@ -6726,7 +6726,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "65": [
+  "VAN": [
     {
       "id": 107262,
       "name": "Bahçesaray",
@@ -6819,7 +6819,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "77": [
+  "YAL": [
     {
       "id": 107145,
       "name": "Altınova",
@@ -6863,7 +6863,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "66": [
+  "YOZ": [
     {
       "id": 107077,
       "name": "Akdağmadeni",
@@ -6963,7 +6963,7 @@
       "timezone": "Europe/Istanbul"
     }
   ],
-  "67": [
+  "ZON": [
     {
       "id": 107124,
       "name": "Alaplı",

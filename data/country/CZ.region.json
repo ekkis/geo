@@ -1,272 +1,272 @@
 {
-  "201": {
+  "BEN": {
     "name": "Benešov"
   },
-  "202": {
+  "BER": {
     "name": "Beroun"
   },
-  "641": {
+  "BLA": {
     "name": "Blansko"
   },
-  "644": {
+  "BRE": {
     "name": "Břeclav"
   },
-  "642": {
+  "BRN": {
     "name": "Brno-město"
   },
-  "643": {
+  "BV": {
     "name": "Brno-venkov"
   },
-  "801": {
+  "BRU": {
     "name": "Bruntál"
   },
-  "511": {
+  "CES": {
     "name": "Česká Lípa"
   },
-  "311": {
+  "CB": {
     "name": "České Budějovice"
   },
-  "312": {
+  "CK": {
     "name": "Český Krumlov"
   },
-  "411": {
+  "CHE": {
     "name": "Cheb"
   },
-  "422": {
+  "CHO": {
     "name": "Chomutov"
   },
-  "531": {
+  "CHR": {
     "name": "Chrudim"
   },
-  "421": {
+  "DEC": {
     "name": "Děčín"
   },
-  "321": {
+  "DOM": {
     "name": "Domažlice"
   },
-  "802": {
+  "FRY": {
     "name": "Frýdek-Místek"
   },
-  "631": {
+  "HAV": {
     "name": "Havlíčkův Brod"
   },
-  "645": {
+  "HOD": {
     "name": "Hodonín"
   },
-  "521": {
+  "HRAKR": {
     "name": "Hradec Králové"
   },
-  "512": {
+  "JAB": {
     "name": "Jablonec nad Nisou"
   },
-  "711": {
+  "JES": {
     "name": "Jeseník"
   },
-  "522": {
+  "JIC": {
     "name": "Jičín"
   },
-  "632": {
+  "JIH": {
     "name": "Jihlava"
   },
-  "31": {
+  "JK": {
     "name": "Jihočeský kraj"
   },
-  "64": {
+  "JIHK": {
     "name": "Jihomoravský kraj"
   },
-  "313": {
+  "JIN": {
     "name": "Jindřichův Hradec"
   },
-  "41": {
+  "KAR": {
     "name": "Karlovarský kraj"
   },
-  "412": {
+  "KARVA": {
     "name": "Karlovy Vary"
   },
-  "803": {
+  "KARV": {
     "name": "Karviná"
   },
-  "203": {
+  "KLA": {
     "name": "Kladno"
   },
-  "322": {
+  "KLAT": {
     "name": "Klatovy"
   },
-  "204": {
+  "KOL": {
     "name": "Kolín"
   },
-  "63": {
+  "KRA": {
     "name": "Kraj Vysočina"
   },
-  "52": {
+  "KK": {
     "name": "Královéhradecký kraj"
   },
-  "721": {
+  "KRO": {
     "name": "Kroměříž"
   },
-  "205": {
+  "KUT": {
     "name": "Kutná Hora"
   },
-  "513": {
+  "LIB": {
     "name": "Liberec"
   },
-  "51": {
+  "LK": {
     "name": "Liberecký kraj"
   },
-  "423": {
+  "LIT": {
     "name": "Litoměřice"
   },
-  "424": {
+  "LOU": {
     "name": "Louny"
   },
-  "206": {
+  "MEL": {
     "name": "Mělník"
   },
-  "207": {
+  "MLA": {
     "name": "Mladá Boleslav"
   },
-  "80": {
+  "MOR": {
     "name": "Moravskoslezský kraj"
   },
-  "425": {
+  "MOS": {
     "name": "Most"
   },
-  "523": {
+  "NAC": {
     "name": "Náchod"
   },
-  "804": {
+  "NOV": {
     "name": "Nový Jičín"
   },
-  "208": {
+  "NYM": {
     "name": "Nymburk"
   },
-  "712": {
+  "OLO": {
     "name": "Olomouc"
   },
-  "71": {
+  "OK": {
     "name": "Olomoucký kraj"
   },
-  "805": {
+  "OPA": {
     "name": "Opava"
   },
-  "806": {
+  "OST": {
     "name": "Ostrava-město"
   },
-  "532": {
+  "PAR": {
     "name": "Pardubice"
   },
-  "53": {
+  "PK": {
     "name": "Pardubický kraj"
   },
-  "633": {
+  "PEL": {
     "name": "Pelhřimov"
   },
-  "314": {
+  "PIS": {
     "name": "Písek"
   },
-  "324": {
+  "PLZ": {
     "name": "Plzeň-jih"
   },
-  "323": {
+  "PM": {
     "name": "Plzeň-město"
   },
-  "325": {
+  "PS": {
     "name": "Plzeň-sever"
   },
-  "32": {
+  "PLZK": {
     "name": "Plzeňský kraj"
   },
-  "315": {
+  "PRA": {
     "name": "Prachatice"
   },
-  "209": {
+  "PV": {
     "name": "Praha-východ"
   },
   "20A": {
     "name": "Praha-západ"
   },
-  "10": {
+  "PHM": {
     "name": "Praha, Hlavní město"
   },
-  "714": {
+  "PRE": {
     "name": "Přerov"
   },
   "20B": {
     "name": "Příbram"
   },
-  "713": {
+  "PRO": {
     "name": "Prostějov"
   },
   "20C": {
     "name": "Rakovník"
   },
-  "326": {
+  "ROK": {
     "name": "Rokycany"
   },
-  "524": {
+  "RYC": {
     "name": "Rychnov nad Kněžnou"
   },
-  "514": {
+  "SEM": {
     "name": "Semily"
   },
-  "413": {
+  "SOK": {
     "name": "Sokolov"
   },
-  "316": {
+  "STR": {
     "name": "Strakonice"
   },
-  "20": {
+  "SK": {
     "name": "Středočeský kraj"
   },
-  "715": {
+  "SUM": {
     "name": "Šumperk"
   },
-  "533": {
+  "SVI": {
     "name": "Svitavy"
   },
-  "317": {
+  "TAB": {
     "name": "Tábor"
   },
-  "327": {
+  "TAC": {
     "name": "Tachov"
   },
-  "426": {
+  "TEP": {
     "name": "Teplice"
   },
-  "634": {
+  "TRE": {
     "name": "Třebíč"
   },
-  "525": {
+  "TRU": {
     "name": "Trutnov"
   },
-  "722": {
+  "UHE": {
     "name": "Uherské Hradiště"
   },
-  "42": {
+  "UST": {
     "name": "Ústecký kraj"
   },
-  "427": {
+  "USTNA": {
     "name": "Ústí nad Labem"
   },
-  "534": {
+  "UNO": {
     "name": "Ústí nad Orlicí"
   },
-  "723": {
+  "VSE": {
     "name": "Vsetín"
   },
-  "646": {
+  "VYS": {
     "name": "Vyškov"
   },
-  "635": {
+  "ZDA": {
     "name": "Žďár nad Sázavou"
   },
-  "724": {
+  "ZLI": {
     "name": "Zlín"
   },
-  "72": {
+  "ZK": {
     "name": "Zlínský kraj"
   },
-  "647": {
+  "ZNO": {
     "name": "Znojmo"
   }
 }

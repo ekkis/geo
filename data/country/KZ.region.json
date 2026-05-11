@@ -1,62 +1,62 @@
 {
-  "10": {
+  "ABA": {
     "name": "Abai"
   },
-  "11": {
+  "AKMO": {
     "name": "Akmola"
   },
-  "15": {
+  "AKTO": {
     "name": "Aktobe"
   },
-  "19": {
+  "ALM": {
     "name": "Almaty"
   },
-  "75": {
+  "ALMA": {
     "name": "Almaty"
   },
-  "71": {
+  "AST": {
     "name": "Astana"
   },
-  "23": {
+  "ATYR": {
     "name": "Atyrau"
   },
-  "63": {
+  "VOST": {
     "name": "East Kazakhstan"
   },
-  "31": {
+  "JAM": {
     "name": "Jambyl"
   },
-  "33": {
+  "JET": {
     "name": "Jetisu"
   },
-  "35": {
+  "KARAG": {
     "name": "Karaganda"
   },
-  "39": {
+  "KOST": {
     "name": "Kostanay"
   },
-  "43": {
+  "KYZY": {
     "name": "Kyzylorda"
   },
-  "47": {
+  "MANGS": {
     "name": "Mangystau"
   },
-  "59": {
+  "SEVZ": {
     "name": "North Kazakhstan"
   },
-  "55": {
+  "PAV": {
     "name": "Pavlodar"
   },
-  "79": {
+  "SHYM": {
     "name": "Shymkent"
   },
-  "61": {
+  "TUR": {
     "name": "Turkistan"
   },
-  "62": {
+  "ULY": {
     "name": "Ulytau"
   },
-  "27": {
+  "ZAPAD": {
     "name": "West Kazakhstan"
   }
 }

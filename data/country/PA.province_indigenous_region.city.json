@@ -1,5 +1,5 @@
 {
-  "1": [
+  "BOC": [
     {
       "id": 79962,
       "name": "Almirante",
@@ -141,7 +141,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "4": [
+  "CHI": [
     {
       "id": 79959,
       "name": "Alanje",
@@ -878,7 +878,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "2": [
+  "COC": [
     {
       "id": 79956,
       "name": "Aguadulce",
@@ -1209,7 +1209,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "3": [
+  "COL": [
     {
       "id": 80007,
       "name": "Buena Vista",
@@ -1463,7 +1463,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "5": [
+  "DAR": [
     {
       "id": 79997,
       "name": "Boca de Cupé",
@@ -1651,7 +1651,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "6": [
+  "HER": [
     {
       "id": 79998,
       "name": "Boca de Parita",
@@ -1919,7 +1919,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "7": [
+  "LOS": [
     {
       "id": 79955,
       "name": "Agua Buena",
@@ -2646,7 +2646,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "8": [
+  "PAN": [
     {
       "id": 79960,
       "name": "Alcalde Díaz",
@@ -2991,7 +2991,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "10": [
+  "PO": [
     {
       "id": 79966,
       "name": "Alto del Espino",
@@ -3357,7 +3357,7 @@
       "timezone": "America/Panama"
     }
   ],
-  "9": [
+  "VER": [
     {
       "id": 79964,
       "name": "Alto de Jesús",

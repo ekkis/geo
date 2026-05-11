@@ -76,7 +76,7 @@
       "timezone": "Atlantic/Reykjavik"
     }
   ],
-  "1": [],
+  "CAP": [],
   "DAB": [
     {
       "id": 135169,
@@ -102,7 +102,7 @@
       "timezone": "Atlantic/Reykjavik"
     }
   ],
-  "7": [],
+  "EAS": [],
   "EOM": [
     {
       "id": 135174,
@@ -387,8 +387,8 @@
       "timezone": "Atlantic/Reykjavik"
     }
   ],
-  "6": [],
-  "5": [],
+  "NORT": [],
+  "NORTH": [],
   "SOL": [
     {
       "id": 135234,
@@ -526,8 +526,8 @@
       "timezone": "Atlantic/Reykjavik"
     }
   ],
-  "8": [],
-  "2": [],
+  "SOU": [],
+  "SOUTHERNPEN": [],
   "STR": [
     {
       "id": 135219,
@@ -609,8 +609,8 @@
     }
   ],
   "VOP": [],
-  "3": [],
-  "4": [],
+  "WES": [],
+  "WESTFJORD": [],
   "THG": [
     {
       "id": 135199,

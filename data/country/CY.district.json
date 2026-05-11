@@ -1,20 +1,20 @@
 {
-  "04": {
+  "FAM": {
     "name": "Famagusta (Mağusa)"
   },
-  "06": {
+  "KYR": {
     "name": "Kyrenia (Keryneia)"
   },
-  "03": {
+  "LAR": {
     "name": "Larnaca (Larnaka)"
   },
-  "02": {
+  "LIM": {
     "name": "Limassol (Leymasun)"
   },
-  "01": {
+  "NIC": {
     "name": "Nicosia (Lefkoşa)"
   },
-  "05": {
+  "PAP": {
     "name": "Paphos (Pafos)"
   }
 }

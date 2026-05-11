@@ -1,77 +1,77 @@
 {
-  "1": {
+  "BAN": {
     "name": "Banteay Meanchey"
   },
-  "2": {
+  "BAT": {
     "name": "Battambang"
   },
-  "3": {
+  "KAM": {
     "name": "Kampong Cham"
   },
-  "4": {
+  "KC": {
     "name": "Kampong Chhnang"
   },
-  "5": {
+  "KS": {
     "name": "Kampong Speu"
   },
-  "6": {
+  "KT": {
     "name": "Kampong Thom"
   },
-  "7": {
+  "KAMP": {
     "name": "Kampot"
   },
-  "8": {
+  "KAN": {
     "name": "Kandal"
   },
-  "23": {
+  "KEP": {
     "name": "Kep"
   },
-  "9": {
+  "KOH": {
     "name": "Koh Kong"
   },
-  "10": {
+  "KRA": {
     "name": "Kratie"
   },
-  "11": {
+  "MON": {
     "name": "Mondulkiri"
   },
-  "22": {
+  "ODD": {
     "name": "Oddar Meanchey"
   },
-  "24": {
+  "PAI": {
     "name": "Pailin"
   },
-  "12": {
+  "PHN": {
     "name": "Phnom Penh"
   },
-  "13": {
+  "PRE": {
     "name": "Preah Vihear"
   },
-  "14": {
+  "PV": {
     "name": "Prey Veng"
   },
-  "15": {
+  "PUR": {
     "name": "Pursat"
   },
-  "16": {
+  "RAT": {
     "name": "Ratanakiri"
   },
-  "17": {
+  "SIE": {
     "name": "Siem Reap"
   },
-  "18": {
+  "SIH": {
     "name": "Sihanoukville"
   },
-  "19": {
+  "STU": {
     "name": "Stung Treng"
   },
-  "20": {
+  "SVA": {
     "name": "Svay Rieng"
   },
-  "21": {
+  "TAK": {
     "name": "Takeo"
   },
-  "25": {
+  "TBO": {
     "name": "Tboung Khmum"
   }
 }

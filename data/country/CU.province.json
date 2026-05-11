@@ -1,50 +1,50 @@
 {
-  "15": {
+  "ART": {
     "name": "Artemisa"
   },
-  "09": {
+  "CAM": {
     "name": "Camagüey"
   },
-  "08": {
+  "CD": {
     "name": "Ciego de Ávila"
   },
-  "06": {
+  "CIE": {
     "name": "Cienfuegos"
   },
-  "12": {
+  "GRA": {
     "name": "Granma"
   },
-  "14": {
+  "GUA": {
     "name": "Guantánamo"
   },
-  "03": {
+  "HAV": {
     "name": "Havana"
   },
-  "11": {
+  "HOL": {
     "name": "Holguín"
   },
-  "99": {
+  "ISL": {
     "name": "Isla de la Juventud"
   },
-  "10": {
+  "LT": {
     "name": "Las Tunas"
   },
-  "04": {
+  "MAT": {
     "name": "Matanzas"
   },
-  "16": {
+  "MAY": {
     "name": "Mayabeque"
   },
-  "01": {
+  "PD": {
     "name": "Pinar del Río"
   },
-  "07": {
+  "SS": {
     "name": "Sancti Spíritus"
   },
-  "13": {
+  "SD": {
     "name": "Santiago de Cuba"
   },
-  "05": {
+  "VIL": {
     "name": "Villa Clara"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "37": [
+  "AMNATCHA": [
     {
       "id": 105179,
       "name": "Amnat Charoen",
@@ -57,7 +57,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "15": [
+  "ANGTHONG": [
     {
       "id": 105274,
       "name": "Amphoe Chaiyo",
@@ -136,7 +136,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "10": [
+  "BANGKOK": [
     {
       "id": 106422,
       "name": "Bang Bon",
@@ -495,7 +495,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "38": [
+  "BUENGKAN": [
     {
       "id": 106205,
       "name": "Amphoe Seka",
@@ -567,7 +567,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "31": [
+  "BUR": [
     {
       "id": 105641,
       "name": "Amphoe Nang Rong",
@@ -765,7 +765,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "24": [
+  "CHA": [
     {
       "id": 105226,
       "name": "Amphoe Bang Khla",
@@ -886,7 +886,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "18": [
+  "CHAINAT": [
     {
       "id": 106463,
       "name": "Chai Nat",
@@ -951,7 +951,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "36": [
+  "CHAIYAPH": [
     {
       "id": 148554,
       "name": "Bamnet Narong",
@@ -995,7 +995,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "22": [
+  "CHANTHAB": [
     {
       "id": 105413,
       "name": "Amphoe Khlung",
@@ -1102,7 +1102,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "50": [
+  "CHIANGMA": [
     {
       "id": 105271,
       "name": "Amphoe Chai Prakan",
@@ -1335,7 +1335,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "57": [
+  "CHIANGRA": [
     {
       "id": 105295,
       "name": "Amphoe Chiang Khong",
@@ -1505,7 +1505,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "20": [
+  "CHO": [
     {
       "id": 105186,
       "name": "Amphoe Ban Bueng",
@@ -1661,7 +1661,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "86": [
+  "CHUMPHON": [
     {
       "id": 105483,
       "name": "Amphoe Lang Suan",
@@ -1740,7 +1740,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "46": [
+  "KALASIN": [
     {
       "id": 105354,
       "name": "Amphoe Huai Mek",
@@ -1917,7 +1917,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "62": [
+  "KAMPHAEN": [
     {
       "id": 105390,
       "name": "Amphoe Khanu Woralaksaburi",
@@ -2017,7 +2017,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "71": [
+  "KANCHANA": [
     {
       "id": 105252,
       "name": "Amphoe Bo Phloi",
@@ -2152,7 +2152,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "40": [
+  "KHONKAEN": [
     {
       "id": 105211,
       "name": "Amphoe Ban Phai",
@@ -2378,7 +2378,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "81": [
+  "KRABI": [
     {
       "id": 105182,
       "name": "Amphoe Ao Luek",
@@ -2471,7 +2471,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "52": [
+  "LAMPANG": [
     {
       "id": 105517,
       "name": "Amphoe Mae Tha",
@@ -2585,7 +2585,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "51": [
+  "LAMPHUN": [
     {
       "id": 105516,
       "name": "Amphoe Mae Tha",
@@ -2664,7 +2664,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "42": [
+  "LOEI": [
     {
       "id": 105775,
       "name": "Amphoe Phu Kradueng",
@@ -2785,7 +2785,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "16": [
+  "LOP": [
     {
       "id": 105269,
       "name": "Amphoe Chai Badan",
@@ -2878,7 +2878,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "58": [
+  "MAEHONGS": [
     {
       "id": 105434,
       "name": "Khun Yuam",
@@ -2936,7 +2936,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "44": [
+  "MAHASARA": [
     {
       "id": 105450,
       "name": "Amphoe Kosum Phisai",
@@ -3057,7 +3057,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "49": [
+  "MUKDAHAN": [
     {
       "id": 105334,
       "name": "Don Tan",
@@ -3115,7 +3115,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "26": [
+  "NAKHONNA": [
     {
       "id": 105206,
       "name": "Ban Na",
@@ -3152,7 +3152,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "73": [
+  "NAKHONPA": [
     {
       "id": 105231,
       "name": "Amphoe Bang Len",
@@ -3224,7 +3224,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "48": [
+  "NAKHONPH": [
     {
       "id": 105625,
       "name": "Amphoe Na Wa",
@@ -3331,7 +3331,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "30": [
+  "NAKHONRA": [
     {
       "id": 105258,
       "name": "Amphoe Bua Yai",
@@ -3662,7 +3662,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "60": [
+  "NAKHONSA": [
     {
       "id": 105374,
       "name": "Amphoe Kao Liao",
@@ -3818,7 +3818,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "80": [
+  "NAKHONSI": [
     {
       "id": 105290,
       "name": "Amphoe Chawang",
@@ -4023,7 +4023,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "55": [
+  "NAN": [
     {
       "id": 105297,
       "name": "Amphoe Chiang Klang",
@@ -4144,7 +4144,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "96": [
+  "NARATHIW": [
     {
       "id": 105802,
       "name": "Amphoe Ra-ngae",
@@ -4272,7 +4272,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "39": [
+  "NONGBUAL": [
     {
       "id": 105616,
       "name": "Amphoe Na Klang",
@@ -4344,7 +4344,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "43": [
+  "NONGKHAI": [
     {
       "id": 106189,
       "name": "Amphoe Sangkhom",
@@ -4444,7 +4444,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "12": [
+  "NONTHABU": [
     {
       "id": 105223,
       "name": "Amphoe Bang Bua Thong",
@@ -4523,7 +4523,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "13": [
+  "PATHUMTH": [
     {
       "id": 105410,
       "name": "Amphoe Khlong Luang",
@@ -4588,7 +4588,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "94": [
+  "PATTANI": [
     {
       "id": 105661,
       "name": "Amphoe Nong Chik",
@@ -4703,7 +4703,7 @@
     }
   ],
   "S": [],
-  "82": [
+  "PHA": [
     {
       "id": 106383,
       "name": "Ban Ao Nang",
@@ -4789,7 +4789,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "93": [
+  "PHATTHAL": [
     {
       "id": 105224,
       "name": "Bang Kaeo",
@@ -4875,7 +4875,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "56": [
+  "PHAYAO": [
     {
       "id": 105293,
       "name": "Amphoe Chiang Kham",
@@ -4975,7 +4975,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "67": [
+  "PHE": [
     {
       "id": 105306,
       "name": "Amphoe Chon Daen",
@@ -5089,7 +5089,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "76": [
+  "PHETCHAB": [
     {
       "id": 105266,
       "name": "Amphoe Cha-am",
@@ -5175,7 +5175,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "66": [
+  "PHICHIT": [
     {
       "id": 105232,
       "name": "Amphoe Bang Mun Nak",
@@ -5296,7 +5296,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "65": [
+  "PHITSANU": [
     {
       "id": 105229,
       "name": "Amphoe Bang Krathum",
@@ -5396,7 +5396,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "14": [
+  "PHRANAKH": [
     {
       "id": 105221,
       "name": "Amphoe Bang Ban",
@@ -5559,7 +5559,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "54": [
+  "PHRAE": [
     {
       "id": 105321,
       "name": "Amphoe Den Chai",
@@ -5645,7 +5645,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "83": [
+  "PHUKET": [
     {
       "id": 105380,
       "name": "Amphoe Kathu",
@@ -5766,7 +5766,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "25": [
+  "PRACHINB": [
     {
       "id": 105362,
       "name": "Amphoe Kabin Buri",
@@ -5831,7 +5831,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "77": [
+  "PRACHUAP": [
     {
       "id": 105244,
       "name": "Amphoe Bang Saphan",
@@ -5931,7 +5931,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "85": [
+  "RANONG": [
     {
       "id": 105377,
       "name": "Kapoe",
@@ -5975,7 +5975,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "70": [
+  "RATCHABU": [
     {
       "id": 105215,
       "name": "Amphoe Ban Pong",
@@ -6089,7 +6089,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "21": [
+  "RAYONG": [
     {
       "id": 105187,
       "name": "Amphoe Ban Chang",
@@ -6175,7 +6175,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "45": [
+  "ROIET": [
     {
       "id": 105379,
       "name": "Amphoe Kaset Wisai",
@@ -6366,7 +6366,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "27": [
+  "SAKAEO": [
     {
       "id": 105183,
       "name": "Amphoe Aranyaprathet",
@@ -6452,7 +6452,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "47": [
+  "SAKONNAK": [
     {
       "id": 105180,
       "name": "Akat Amnuai",
@@ -6594,7 +6594,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "11": [
+  "SAMUTPRA": [
     {
       "id": 105222,
       "name": "Amphoe Bang Bo",
@@ -6666,7 +6666,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "74": [
+  "SAMUTSAK": [
     {
       "id": 105210,
       "name": "Amphoe Ban Phaeo",
@@ -6710,7 +6710,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "75": [
+  "SAMUTSON": [
     {
       "id": 105181,
       "name": "Amphawa",
@@ -6740,7 +6740,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "19": [
+  "SARABURI": [
     {
       "id": 105204,
       "name": "Amphoe Ban Mo",
@@ -6868,7 +6868,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "91": [
+  "SATUN": [
     {
       "id": 105426,
       "name": "Khuan Don",
@@ -6933,7 +6933,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "33": [
+  "SIX": [
     {
       "id": 105371,
       "name": "Amphoe Kantharalak",
@@ -7110,7 +7110,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "17": [
+  "SINGBURI": [
     {
       "id": 105360,
       "name": "Amphoe In Buri",
@@ -7175,7 +7175,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "90": [
+  "SONGKHLA": [
     {
       "id": 105347,
       "name": "Amphoe Hat Yai",
@@ -7331,7 +7331,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "64": [
+  "SUKHOTHA": [
     {
       "id": 105189,
       "name": "Amphoe Ban Dan Lan Hoi",
@@ -7438,7 +7438,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "72": [
+  "SUPHANBU": [
     {
       "id": 105323,
       "name": "Amphoe Doembang Nangbuat",
@@ -7524,7 +7524,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "84": [
+  "SURATTHA": [
     {
       "id": 105208,
       "name": "Amphoe Ban Na San",
@@ -7743,7 +7743,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "32": [
+  "SURIN": [
     {
       "id": 105256,
       "name": "Bua Chet",
@@ -7871,7 +7871,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "63": [
+  "TAK": [
     {
       "id": 105218,
       "name": "Amphoe Ban Tak",
@@ -7957,7 +7957,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "92": [
+  "TRANG": [
     {
       "id": 105359,
       "name": "Amphoe Huai Yot",
@@ -8050,7 +8050,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "23": [
+  "TRAT": [
     {
       "id": 105253,
       "name": "Amphoe Bo Rai",
@@ -8129,7 +8129,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "34": [
+  "UBONRATC": [
     {
       "id": 105322,
       "name": "Amphoe Det Udom",
@@ -8341,7 +8341,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "41": [
+  "UDONTHAN": [
     {
       "id": 105190,
       "name": "Amphoe Ban Dung",
@@ -8539,7 +8539,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "61": [
+  "UTHAITHA": [
     {
       "id": 105352,
       "name": "Amphoe Huai Khot",
@@ -8625,7 +8625,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "53": [
+  "UTTARADI": [
     {
       "id": 105196,
       "name": "Ban Khok",
@@ -8697,7 +8697,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "95": [
+  "YALA": [
     {
       "id": 105250,
       "name": "Amphoe Betong",
@@ -8769,7 +8769,7 @@
       "timezone": "Asia/Bangkok"
     }
   ],
-  "35": [
+  "YASOTHON": [
     {
       "id": 105383,
       "name": "Kham Khuan Kaeo",

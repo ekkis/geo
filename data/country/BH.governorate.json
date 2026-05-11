@@ -1,14 +1,14 @@
 {
-  "13": {
+  "CAP": {
     "name": "Capital"
   },
-  "15": {
+  "MUH": {
     "name": "Muharraq"
   },
-  "17": {
+  "NOR": {
     "name": "Northern"
   },
-  "14": {
+  "SOU": {
     "name": "Southern"
   }
 }

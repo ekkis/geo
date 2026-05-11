@@ -1,5 +1,5 @@
 {
-  "16": [
+  "ALT": [
     {
       "id": 53437,
       "name": "Cahabón",
@@ -106,7 +106,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "15": [
+  "BAJ": [
     {
       "id": 53474,
       "name": "Cubulco",
@@ -164,7 +164,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "04": [
+  "CHI": [
     {
       "id": 53425,
       "name": "Acatenango",
@@ -278,7 +278,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "20": [
+  "CHIQ": [
     {
       "id": 53439,
       "name": "Camotán",
@@ -357,7 +357,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "02": [
+  "PRO": [
     {
       "id": 53484,
       "name": "El Jícaro",
@@ -415,7 +415,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "05": [
+  "ESC": [
     {
       "id": 53491,
       "name": "Escuintla",
@@ -508,7 +508,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "01": [
+  "GUA": [
     {
       "id": 53430,
       "name": "Amatitlán",
@@ -629,7 +629,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "13": [
+  "HUE": [
     {
       "id": 53427,
       "name": "Aguacatán",
@@ -841,7 +841,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "18": [
+  "IZA": [
     {
       "id": 53483,
       "name": "El Estor",
@@ -892,7 +892,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "21": [
+  "JAL": [
     {
       "id": 53510,
       "name": "Jalapa",
@@ -950,7 +950,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "22": [
+  "JUT": [
     {
       "id": 53426,
       "name": "Agua Blanca",
@@ -1078,7 +1078,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "17": [
+  "PET": [
     {
       "id": 53479,
       "name": "Dolores",
@@ -1213,7 +1213,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "09": [
+  "QUE": [
     {
       "id": 53428,
       "name": "Almolonga",
@@ -1446,7 +1446,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "14": [
+  "QUI": [
     {
       "id": 53440,
       "name": "Canillá",
@@ -1721,7 +1721,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "11": [
+  "RET": [
     {
       "id": 53446,
       "name": "Champerico",
@@ -1793,7 +1793,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "03": [
+  "SAC": [
     {
       "id": 53429,
       "name": "Alotenango",
@@ -1956,7 +1956,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "12": [
+  "MAR": [
     {
       "id": 53443,
       "name": "Catarina",
@@ -2196,7 +2196,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "06": [
+  "ROS": [
     {
       "id": 53434,
       "name": "Barberena",
@@ -2317,7 +2317,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "07": [
+  "SOL": [
     {
       "id": 53468,
       "name": "Concepción",
@@ -2480,7 +2480,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "10": [
+  "SUC": [
     {
       "id": 53448,
       "name": "Chicacao",
@@ -2636,7 +2636,7 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "08": [
+  "TOT": [
     {
       "id": 53535,
       "name": "Momostenango",
@@ -2715,5 +2715,5 @@
       "timezone": "America/Guatemala"
     }
   ],
-  "19": []
+  "ZAC": []
 }

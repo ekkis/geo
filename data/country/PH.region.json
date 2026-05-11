@@ -23,7 +23,7 @@
   "AUR": {
     "name": "Aurora"
   },
-  "14": {
+  "INX": {
     "name": "Autonomous Region in Muslim Mindanao"
   },
   "BAS": {
@@ -41,7 +41,7 @@
   "BEN": {
     "name": "Benguet"
   },
-  "05": {
+  "BIC": {
     "name": "Bicol"
   },
   "BIL": {
@@ -59,10 +59,10 @@
   "CAG": {
     "name": "Cagayan"
   },
-  "02": {
+  "CV": {
     "name": "Cagayan Valley"
   },
-  "40": {
+  "CAL": {
     "name": "Calabarzon"
   },
   "CAN": {
@@ -77,7 +77,7 @@
   "CAP": {
     "name": "Capiz"
   },
-  "13": {
+  "CAR": {
     "name": "Caraga"
   },
   "CAT": {
@@ -89,19 +89,19 @@
   "CEB": {
     "name": "Cebu"
   },
-  "03": {
+  "CEN": {
     "name": "Central Luzon"
   },
-  "07": {
+  "CENV": {
     "name": "Central Visayas"
   },
-  "15": {
+  "COR": {
     "name": "Cordillera Administrative"
   },
   "NCO": {
     "name": "Cotabato"
   },
-  "11": {
+  "DAVA": {
     "name": "Davao"
   },
   "COM": {
@@ -125,7 +125,7 @@
   "EAS": {
     "name": "Eastern Samar"
   },
-  "08": {
+  "EV": {
     "name": "Eastern Visayas"
   },
   "GUI": {
@@ -134,7 +134,7 @@
   "IFU": {
     "name": "Ifugao"
   },
-  "01": {
+  "ILO": {
     "name": "Ilocos"
   },
   "ILN": {
@@ -179,7 +179,7 @@
   "MAS": {
     "name": "Masbate"
   },
-  "41": {
+  "MIM": {
     "name": "Mimaropa"
   },
   "MSC": {
@@ -191,7 +191,7 @@
   "MOU": {
     "name": "Mountain Province"
   },
-  "00": {
+  "NAT": {
     "name": "National Capital Region (Metro Manila)"
   },
   "NEC": {
@@ -200,7 +200,7 @@
   "NER": {
     "name": "Negros Oriental"
   },
-  "10": {
+  "NOR": {
     "name": "Northern Mindanao"
   },
   "NSA": {
@@ -245,7 +245,7 @@
   "SIG": {
     "name": "Siquijor"
   },
-  "12": {
+  "SOC": {
     "name": "Soccsksargen"
   },
   "SOR": {
@@ -278,7 +278,7 @@
   "WSA": {
     "name": "Western Samar"
   },
-  "06": {
+  "WES": {
     "name": "Western Visayas"
   },
   "ZMB": {
@@ -290,7 +290,7 @@
   "ZAS": {
     "name": "Zamboanga del Sur"
   },
-  "09": {
+  "ZAM": {
     "name": "Zamboanga Peninsula"
   },
   "ZSI": {

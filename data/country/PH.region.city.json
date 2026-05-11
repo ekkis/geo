@@ -8849,7 +8849,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "14": [
+  "INX": [
     {
       "id": 81260,
       "name": "Andalan",
@@ -13915,7 +13915,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "05": [],
+  "BIC": [],
   "BIL": [
     {
       "id": 81228,
@@ -16544,7 +16544,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "02": [
+  "CV": [
     {
       "id": 81137,
       "name": "Abulug",
@@ -17575,7 +17575,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "40": [],
+  "CAL": [],
   "CAN": [
     {
       "id": 144764,
@@ -18410,7 +18410,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "13": [
+  "CAR": [
     {
       "id": 81147,
       "name": "Adlay",
@@ -19510,7 +19510,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "03": [
+  "CEN": [
     {
       "id": 81135,
       "name": "Abucay",
@@ -21353,8 +21353,8 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "07": [],
-  "15": [
+  "CENV": [],
+  "COR": [
     {
       "id": 81154,
       "name": "Agbannawag",
@@ -21953,7 +21953,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "11": [
+  "DAVA": [
     {
       "id": 81203,
       "name": "Alejal",
@@ -23761,7 +23761,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "08": [
+  "EV": [
     {
       "id": 147979,
       "name": "Alugan",
@@ -24572,7 +24572,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "01": [
+  "ILO": [
     {
       "id": 81142,
       "name": "Acao",
@@ -28592,7 +28592,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "41": [],
+  "MIM": [],
   "MSC": [
     {
       "id": 154704,
@@ -28970,7 +28970,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "00": [
+  "NAT": [
     {
       "id": 161629,
       "name": "Caloocan",
@@ -29459,7 +29459,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "10": [],
+  "NOR": [],
   "NSA": [
     {
       "id": 81224,
@@ -34143,7 +34143,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "12": [
+  "SOC": [
     {
       "id": 81242,
       "name": "Amas",
@@ -36503,7 +36503,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "06": [],
+  "WES": [],
   "ZMB": [
     {
       "id": 81804,
@@ -36993,7 +36993,7 @@
       "timezone": "Asia/Manila"
     }
   ],
-  "09": [],
+  "ZAM": [],
   "ZSI": [
     {
       "id": 81213,

@@ -1,5 +1,5 @@
 {
-  "82": [
+  "CEN": [
     {
       "id": 30993,
       "name": "Aarhus",
@@ -666,7 +666,7 @@
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "84": [
+  "DEN": [
     {
       "id": 30990,
       "name": "Åkirkeby",
@@ -1277,7 +1277,7 @@
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "81": [
+  "NOR": [
     {
       "id": 30575,
       "name": "Aalborg",
@@ -1671,7 +1671,7 @@
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "83": [
+  "SOU": [
     {
       "id": 30573,
       "name": "Aabenraa",
@@ -2436,7 +2436,7 @@
       "timezone": "Europe/Copenhagen"
     }
   ],
-  "85": [
+  "ZEA": [
     {
       "id": 30582,
       "name": "Asnæs",

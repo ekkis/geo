@@ -1,65 +1,65 @@
 {
-  "01": {
+  "AAD": {
     "name": "Addu"
   },
-  "02": {
+  "ALI": {
     "name": "Alif Alif"
   },
-  "00": {
+  "AD": {
     "name": "Alif Dhaal"
   },
-  "20": {
+  "BAA": {
     "name": "Baa"
   },
-  "17": {
+  "DHA": {
     "name": "Dhaalu"
   },
-  "14": {
+  "FAA": {
     "name": "Faafu"
   },
-  "27": {
+  "GAA": {
     "name": "Gaafu Alif"
   },
-  "28": {
+  "GD": {
     "name": "Gaafu Dhaalu"
   },
-  "29": {
+  "GNA": {
     "name": "Gnaviyani"
   },
-  "07": {
+  "HAA": {
     "name": "Haa Alif"
   },
-  "23": {
+  "HA": {
     "name": "Haa Dhaalu"
   },
-  "26": {
+  "KAA": {
     "name": "Kaafu"
   },
-  "05": {
+  "LAA": {
     "name": "Laamu"
   },
-  "03": {
+  "LHA": {
     "name": "Lhaviyani"
   },
   "MLE": {
     "name": "Malé"
   },
-  "12": {
+  "MEE": {
     "name": "Meemu"
   },
-  "25": {
+  "NOO": {
     "name": "Noonu"
   },
-  "13": {
+  "RAA": {
     "name": "Raa"
   },
-  "24": {
+  "SHA": {
     "name": "Shaviyani"
   },
-  "08": {
+  "THA": {
     "name": "Thaa"
   },
-  "04": {
+  "VAA": {
     "name": "Vaavu"
   }
 }

@@ -1,128 +1,128 @@
 {
-  "02": {
+  "AZU": {
     "name": "Azua"
   },
-  "03": {
+  "BAO": {
     "name": "Baoruco"
   },
-  "04": {
+  "BAR": {
     "name": "Barahona"
   },
-  "33": {
+  "CIB": {
     "name": "Cibao Nordeste"
   },
-  "34": {
+  "CN": {
     "name": "Cibao Noroeste"
   },
-  "35": {
+  "CIBN": {
     "name": "Cibao Norte"
   },
-  "36": {
+  "CS": {
     "name": "Cibao Sur"
   },
-  "05": {
+  "DAJ": {
     "name": "Dajabón"
   },
-  "01": {
+  "DIS": {
     "name": "Distrito Nacional"
   },
-  "06": {
+  "DUA": {
     "name": "Duarte"
   },
-  "08": {
+  "SEI": {
     "name": "El Seibo"
   },
-  "37": {
+  "VAL": {
     "name": "El Valle"
   },
-  "07": {
+  "ELI": {
     "name": "Elías Piña"
   },
-  "38": {
+  "ENR": {
     "name": "Enriquillo"
   },
-  "09": {
+  "ESP": {
     "name": "Espaillat"
   },
-  "30": {
+  "HAT": {
     "name": "Hato Mayor"
   },
-  "19": {
+  "HER": {
     "name": "Hermanas Mirabal"
   },
-  "39": {
+  "HIG": {
     "name": "Higuamo"
   },
-  "10": {
+  "IND": {
     "name": "Independencia"
   },
-  "11": {
+  "ALT": {
     "name": "La Altagracia"
   },
-  "12": {
+  "ROM": {
     "name": "La Romana"
   },
-  "13": {
+  "VEG": {
     "name": "La Vega"
   },
-  "14": {
+  "MAR": {
     "name": "María Trinidad Sánchez"
   },
-  "28": {
+  "MON": {
     "name": "Monseñor Nouel"
   },
-  "15": {
+  "MC": {
     "name": "Monte Cristi"
   },
-  "29": {
+  "MP": {
     "name": "Monte Plata"
   },
-  "40": {
+  "OZA": {
     "name": "Ozama"
   },
-  "16": {
+  "PED": {
     "name": "Pedernales"
   },
-  "17": {
+  "PER": {
     "name": "Peravia"
   },
-  "18": {
+  "PUE": {
     "name": "Puerto Plata"
   },
-  "20": {
+  "SAM": {
     "name": "Samaná"
   },
-  "21": {
+  "CRI": {
     "name": "San Cristóbal"
   },
-  "31": {
+  "JOS": {
     "name": "San José de Ocoa"
   },
-  "22": {
+  "JUA": {
     "name": "San Juan"
   },
-  "23": {
+  "PM": {
     "name": "San Pedro de Macorís"
   },
-  "24": {
+  "SAN": {
     "name": "Sánchez Ramírez"
   },
-  "25": {
+  "SANT": {
     "name": "Santiago"
   },
-  "26": {
+  "SR": {
     "name": "Santiago Rodríguez"
   },
-  "32": {
+  "DOM": {
     "name": "Santo Domingo"
   },
-  "41": {
+  "VALD": {
     "name": "Valdesia"
   },
-  "27": {
+  "VALV": {
     "name": "Valverde"
   },
-  "42": {
+  "YUM": {
     "name": "Yuma"
   }
 }

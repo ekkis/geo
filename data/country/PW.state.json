@@ -1,50 +1,50 @@
 {
-  "002": {
+  "AIM": {
     "name": "Aimeliik"
   },
-  "004": {
+  "AIR": {
     "name": "Airai"
   },
-  "010": {
+  "ANG": {
     "name": "Angaur"
   },
-  "050": {
+  "HAT": {
     "name": "Hatohobei"
   },
-  "100": {
+  "KAY": {
     "name": "Kayangel"
   },
-  "150": {
+  "KOR": {
     "name": "Koror"
   },
-  "212": {
+  "MEL": {
     "name": "Melekeok"
   },
-  "214": {
+  "NGA": {
     "name": "Ngaraard"
   },
-  "218": {
+  "NGAR": {
     "name": "Ngarchelong"
   },
-  "222": {
+  "NGARD": {
     "name": "Ngardmau"
   },
-  "224": {
+  "NGAT": {
     "name": "Ngatpang"
   },
-  "226": {
+  "NGC": {
     "name": "Ngchesar"
   },
-  "227": {
+  "NGE": {
     "name": "Ngeremlengui"
   },
-  "228": {
+  "NGI": {
     "name": "Ngiwal"
   },
-  "350": {
+  "PEL": {
     "name": "Peleliu"
   },
-  "370": {
+  "SON": {
     "name": "Sonsorol"
   }
 }

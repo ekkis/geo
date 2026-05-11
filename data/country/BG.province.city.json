@@ -1,5 +1,5 @@
 {
-  "01": [
+  "BLA": [
     {
       "id": 9265,
       "name": "Bansko",
@@ -204,7 +204,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "02": [
+  "BUR": [
     {
       "id": 9250,
       "name": "Aheloy",
@@ -430,7 +430,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "08": [
+  "DOB": [
     {
       "id": 9262,
       "name": "Balchik",
@@ -537,7 +537,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "07": [
+  "GAB": [
     {
       "id": 9318,
       "name": "Dryanovo",
@@ -595,7 +595,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "26": [
+  "HAS": [
     {
       "id": 9308,
       "name": "Dimitrovgrad",
@@ -730,7 +730,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "09": [
+  "KAR": [
     {
       "id": 9257,
       "name": "Ardino",
@@ -809,7 +809,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "10": [
+  "KYU": [
     {
       "id": 9276,
       "name": "Boboshevo",
@@ -930,7 +930,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "11": [
+  "LOV": [
     {
       "id": 9256,
       "name": "Apriltsi",
@@ -1009,7 +1009,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "12": [
+  "MON": [
     {
       "id": 9274,
       "name": "Berkovitsa",
@@ -1137,7 +1137,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "13": [
+  "PAZ": [
     {
       "id": 9267,
       "name": "Batak",
@@ -1307,7 +1307,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "14": [
+  "PER": [
     {
       "id": 9268,
       "name": "Batanovtsi",
@@ -1379,7 +1379,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "15": [
+  "PLE": [
     {
       "id": 9269,
       "name": "Belene",
@@ -1549,7 +1549,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "16": [
+  "PLO": [
     {
       "id": 9259,
       "name": "Asenovgrad",
@@ -1789,7 +1789,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "17": [
+  "RAZ": [
     {
       "id": 9348,
       "name": "Isperih",
@@ -1896,7 +1896,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "18": [
+  "RUS": [
     {
       "id": 9281,
       "name": "Borovo",
@@ -2010,7 +2010,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "27": [
+  "SHU": [
     {
       "id": 146184,
       "name": "Shumen",
@@ -2019,7 +2019,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "19": [
+  "SIL": [
     {
       "id": 9253,
       "name": "Alfatar",
@@ -2119,7 +2119,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "20": [
+  "SLI": [
     {
       "id": 9360,
       "name": "Kermen",
@@ -2184,7 +2184,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "21": [
+  "SMO": [
     {
       "id": 9264,
       "name": "Banite",
@@ -2333,7 +2333,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "23": [
+  "SOF": [
     {
       "id": 9254,
       "name": "Anton",
@@ -2629,7 +2629,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "22": [
+  "SOFI": [
     {
       "id": 9291,
       "name": "Buhovo",
@@ -2652,7 +2652,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "24": [
+  "STAZA": [
     {
       "id": 9258,
       "name": "Asen",
@@ -2808,7 +2808,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "25": [
+  "TAR": [
     {
       "id": 9255,
       "name": "Antonovo",
@@ -2880,7 +2880,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "03": [
+  "VAR": [
     {
       "id": 9252,
       "name": "Aksakovo",
@@ -3071,7 +3071,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "04": [
+  "VELTA": [
     {
       "id": 9294,
       "name": "Byala Cherkva",
@@ -3241,7 +3241,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "05": [
+  "VID": [
     {
       "id": 9271,
       "name": "Belogradchik",
@@ -3383,7 +3383,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "06": [
+  "VRA": [
     {
       "id": 9280,
       "name": "Borovan",
@@ -3518,7 +3518,7 @@
       "timezone": "Europe/Sofia"
     }
   ],
-  "28": [
+  "YAM": [
     {
       "id": 9278,
       "name": "Bolyarovo",

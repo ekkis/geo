@@ -1,5 +1,5 @@
 {
-  "01": [
+  "ARU": [
     {
       "id": 109042,
       "name": "Arusha",
@@ -99,7 +99,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "02": [
+  "DAR": [
     {
       "id": 109063,
       "name": "Dar es Salaam",
@@ -150,7 +150,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "03": [
+  "DOD": [
     {
       "id": 109065,
       "name": "Dodoma",
@@ -201,7 +201,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "27": [
+  "GEI": [
     {
       "id": 109055,
       "name": "Buseresere",
@@ -259,7 +259,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "04": [
+  "IRI": [
     {
       "id": 109081,
       "name": "Ilula",
@@ -303,7 +303,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "05": [
+  "KAG": [
     {
       "id": 109048,
       "name": "Biharamulo",
@@ -403,7 +403,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "28": [
+  "KAT": [
     {
       "id": 109082,
       "name": "Inyonga",
@@ -433,7 +433,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "08": [
+  "KIG": [
     {
       "id": 109090,
       "name": "Kakonko",
@@ -491,7 +491,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "09": [
+  "KIL": [
     {
       "id": 109072,
       "name": "Hedaru",
@@ -528,7 +528,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "12": [
+  "LIN": [
     {
       "id": 109142,
       "name": "Lindi",
@@ -579,7 +579,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "26": [
+  "MAN": [
     {
       "id": 109043,
       "name": "Babati",
@@ -679,7 +679,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "13": [
+  "MAR": [
     {
       "id": 109053,
       "name": "Bukonyo",
@@ -765,7 +765,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "14": [
+  "MBE": [
     {
       "id": 149030,
       "name": "Chimala",
@@ -1012,7 +1012,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "16": [
+  "MOR": [
     {
       "id": 109070,
       "name": "Geiro",
@@ -1140,7 +1140,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "17": [
+  "MTW": [
     {
       "id": 109062,
       "name": "Chiungutwa",
@@ -1275,7 +1275,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "18": [
+  "MWA": [
     {
       "id": 109079,
       "name": "Ilemela",
@@ -1340,7 +1340,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "29": [
+  "NJO": [
     {
       "id": 109078,
       "name": "Ilembula",
@@ -1391,7 +1391,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "06": [
+  "PEM": [
     {
       "id": 109134,
       "name": "Konde",
@@ -1414,7 +1414,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "10": [
+  "PS": [
     {
       "id": 109057,
       "name": "Chake Chake",
@@ -1437,7 +1437,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "19": [
+  "PWA": [
     {
       "id": 109044,
       "name": "Bagamoyo",
@@ -1551,7 +1551,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "20": [
+  "RUK": [
     {
       "id": 109058,
       "name": "Chala",
@@ -1602,7 +1602,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "21": [
+  "RUV": [
     {
       "id": 109109,
       "name": "Kigonsera",
@@ -1667,7 +1667,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "22": [
+  "SHI": [
     {
       "id": 109084,
       "name": "Isaka",
@@ -1732,7 +1732,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "30": [
+  "SIM": [
     {
       "id": 109045,
       "name": "Bariadi",
@@ -1797,7 +1797,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "23": [
+  "SIN": [
     {
       "id": 109074,
       "name": "Igugunu",
@@ -1904,7 +1904,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "31": [
+  "SON": [
     {
       "id": 154662,
       "name": "Ileje",
@@ -1948,7 +1948,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "24": [
+  "TAB": [
     {
       "id": 109051,
       "name": "Bukene",
@@ -2006,7 +2006,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "25": [
+  "TAN": [
     {
       "id": 109060,
       "name": "Chanika",
@@ -2106,7 +2106,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "07": [
+  "ZAN": [
     {
       "id": 109069,
       "name": "Gamba",
@@ -2143,7 +2143,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "11": [
+  "ZS": [
     {
       "id": 109132,
       "name": "Koani",
@@ -2173,7 +2173,7 @@
       "timezone": "Africa/Dar_es_Salaam"
     }
   ],
-  "15": [
+  "ZW": [
     {
       "id": 109304,
       "name": "Zanzibar",

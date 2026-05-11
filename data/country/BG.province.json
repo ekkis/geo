@@ -1,86 +1,86 @@
 {
-  "01": {
+  "BLA": {
     "name": "Blagoevgrad"
   },
-  "02": {
+  "BUR": {
     "name": "Burgas"
   },
-  "08": {
+  "DOB": {
     "name": "Dobrich"
   },
-  "07": {
+  "GAB": {
     "name": "Gabrovo"
   },
-  "26": {
+  "HAS": {
     "name": "Haskovo"
   },
-  "09": {
+  "KAR": {
     "name": "Kardzhali"
   },
-  "10": {
+  "KYU": {
     "name": "Kyustendil"
   },
-  "11": {
+  "LOV": {
     "name": "Lovech"
   },
-  "12": {
+  "MON": {
     "name": "Montana"
   },
-  "13": {
+  "PAZ": {
     "name": "Pazardzhik"
   },
-  "14": {
+  "PER": {
     "name": "Pernik"
   },
-  "15": {
+  "PLE": {
     "name": "Pleven"
   },
-  "16": {
+  "PLO": {
     "name": "Plovdiv"
   },
-  "17": {
+  "RAZ": {
     "name": "Razgrad"
   },
-  "18": {
+  "RUS": {
     "name": "Ruse"
   },
-  "27": {
+  "SHU": {
     "name": "Shumen"
   },
-  "19": {
+  "SIL": {
     "name": "Silistra"
   },
-  "20": {
+  "SLI": {
     "name": "Sliven"
   },
-  "21": {
+  "SMO": {
     "name": "Smolyan"
   },
-  "23": {
+  "SOF": {
     "name": "Sofia"
   },
-  "22": {
+  "SOFI": {
     "name": "Sofia City"
   },
-  "24": {
+  "STAZA": {
     "name": "Stara Zagora"
   },
-  "25": {
+  "TAR": {
     "name": "Targovishte"
   },
-  "03": {
+  "VAR": {
     "name": "Varna"
   },
-  "04": {
+  "VELTA": {
     "name": "Veliko Tarnovo"
   },
-  "05": {
+  "VID": {
     "name": "Vidin"
   },
-  "06": {
+  "VRA": {
     "name": "Vratsa"
   },
-  "28": {
+  "YAM": {
     "name": "Yambol"
   }
 }

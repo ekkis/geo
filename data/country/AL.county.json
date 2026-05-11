@@ -1,38 +1,38 @@
 {
-  "01": {
+  "BER": {
     "name": "Berat"
   },
-  "09": {
+  "DIB": {
     "name": "Dibër"
   },
-  "02": {
+  "DUR": {
     "name": "Durrës"
   },
-  "03": {
+  "ELB": {
     "name": "Elbasan"
   },
-  "04": {
+  "FIE": {
     "name": "Fier"
   },
-  "05": {
+  "GJI": {
     "name": "Gjirokastër"
   },
-  "06": {
+  "KOR": {
     "name": "Korçë"
   },
-  "07": {
+  "KUK": {
     "name": "Kukës"
   },
-  "08": {
+  "LEZ": {
     "name": "Lezhë"
   },
-  "10": {
+  "SHK": {
     "name": "Shkodër"
   },
-  "11": {
+  "TIR": {
     "name": "Tirana"
   },
-  "12": {
+  "VLO": {
     "name": "Vlorë"
   }
 }

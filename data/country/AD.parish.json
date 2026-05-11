@@ -1,23 +1,23 @@
 {
-  "07": {
+  "AND": {
     "name": "Andorra la Vella"
   },
-  "02": {
+  "CAN": {
     "name": "Canillo"
   },
-  "03": {
+  "ENC": {
     "name": "Encamp"
   },
-  "08": {
+  "ESC": {
     "name": "Escaldes-Engordany"
   },
-  "04": {
+  "MAS": {
     "name": "La Massana"
   },
-  "05": {
+  "ORD": {
     "name": "Ordino"
   },
-  "06": {
+  "SAN": {
     "name": "Sant Julià de Lòria"
   }
 }

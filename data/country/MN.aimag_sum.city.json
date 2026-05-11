@@ -1,5 +1,5 @@
 {
-  "073": [
+  "ARKH": [
     {
       "id": 67734,
       "name": "Tsetserleg",
@@ -8,7 +8,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "071": [
+  "BAY": [
     {
       "id": 67706,
       "name": "Altay",
@@ -31,7 +31,7 @@
       "timezone": "Asia/Hovd"
     }
   ],
-  "069": [
+  "BAYANH": [
     {
       "id": 67709,
       "name": "Bayanhongor",
@@ -40,7 +40,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "067": [
+  "BULG": [
     {
       "id": 67710,
       "name": "Bulgan",
@@ -49,7 +49,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "037": [
+  "DARKH": [
     {
       "id": 67714,
       "name": "Darhan",
@@ -58,7 +58,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "061": [
+  "DORN": [
     {
       "id": 67711,
       "name": "Choibalsan",
@@ -74,8 +74,8 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "063": [],
-  "059": [
+  "DORNO": [],
+  "DUND": [
     {
       "id": 67725,
       "name": "Mandalgovi",
@@ -84,7 +84,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "065": [
+  "GOVI": [
     {
       "id": 67705,
       "name": "Altai",
@@ -93,7 +93,7 @@
       "timezone": "Asia/Hovd"
     }
   ],
-  "064": [
+  "GOV": [
     {
       "id": 67712,
       "name": "Choyr",
@@ -102,7 +102,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "039": [
+  "KHENT": [
     {
       "id": 67739,
       "name": "Undurkhaan",
@@ -111,7 +111,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "043": [
+  "KHOV": [
     {
       "id": 67724,
       "name": "Khovd",
@@ -134,7 +134,7 @@
       "timezone": "Asia/Choibalsan"
     }
   ],
-  "041": [
+  "KHOVG": [
     {
       "id": 67719,
       "name": "Hanh",
@@ -164,7 +164,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "053": [
+  "OMN": [
     {
       "id": 67713,
       "name": "Dalandzadgad",
@@ -187,7 +187,7 @@
       "timezone": "Asia/Choibalsan"
     }
   ],
-  "035": [
+  "ORKHON": [
     {
       "id": 67717,
       "name": "Erdenet",
@@ -196,7 +196,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "055": [
+  "OVO": [
     {
       "id": 67707,
       "name": "Arvayheer",
@@ -233,7 +233,7 @@
       "timezone": "Asia/Choibalsan"
     }
   ],
-  "049": [
+  "SELE": [
     {
       "id": 67716,
       "name": "Dzüünharaa",
@@ -249,7 +249,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "051": [
+  "SUK": [
     {
       "id": 67708,
       "name": "Baruun-Urt",
@@ -258,7 +258,7 @@
       "timezone": "Asia/Ulaanbaatar"
     }
   ],
-  "047": [
+  "TUV": [
     {
       "id": 67742,
       "name": "Centipede",
@@ -295,7 +295,7 @@
       "timezone": "Asia/Choibalsan"
     }
   ],
-  "001": [
+  "ULAANB": [
     {
       "id": 157016,
       "name": "Ulaanbaatar",
@@ -304,7 +304,7 @@
       "timezone": "Asia/Choibalsan"
     }
   ],
-  "046": [
+  "UVS": [
     {
       "id": 67736,
       "name": "Ulaangom",
@@ -313,7 +313,7 @@
       "timezone": "Asia/Hovd"
     }
   ],
-  "057": [
+  "ZAVK": [
     {
       "id": 67738,
       "name": "Uliastay",

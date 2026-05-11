@@ -8,7 +8,7 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "7": [
+  "GA": [
     {
       "id": 67584,
       "name": "Ansongo",
@@ -45,7 +45,7 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "1": [
+  "KAY": [
     {
       "id": 67586,
       "name": "Bafoulabé",
@@ -82,7 +82,7 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "8": [
+  "KY": [
     {
       "id": 67583,
       "name": "Abeïbara",
@@ -105,7 +105,7 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "2": [
+  "KOU": [
     {
       "id": 67588,
       "name": "Banamba",
@@ -142,8 +142,8 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "9": [],
-  "5": [
+  "MEN": [],
+  "MO": [
     {
       "id": 67589,
       "name": "Bandiagara",
@@ -187,7 +187,7 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "4": [
+  "SH": [
     {
       "id": 67590,
       "name": "Baroueli",
@@ -245,7 +245,7 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "3": [
+  "SL": [
     {
       "id": 67591,
       "name": "Bougouni",
@@ -296,8 +296,8 @@
       "timezone": "Africa/Bamako"
     }
   ],
-  "10": [],
-  "6": [
+  "TAO": [],
+  "TB": [
     {
       "id": 67585,
       "name": "Araouane",

@@ -1,5 +1,5 @@
 {
-  "23": [
+  "AIC": [
     {
       "id": 63223,
       "name": "Aisai-shi",
@@ -491,7 +491,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "05": [
+  "AKI": [
     {
       "id": 63233,
       "name": "Akita",
@@ -682,7 +682,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "02": [
+  "AOM": [
     {
       "id": 63249,
       "name": "Aomori",
@@ -831,7 +831,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "12": [
+  "CHI": [
     {
       "id": 63213,
       "name": "Abiko",
@@ -1288,7 +1288,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "38": [
+  "EHI": [
     {
       "id": 63529,
       "name": "Hōjō",
@@ -1430,7 +1430,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "18": [
+  "FUK": [
     {
       "id": 63257,
       "name": "Asahi",
@@ -1565,7 +1565,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "40": [
+  "FUKU": [
     {
       "id": 63239,
       "name": "Amagi",
@@ -1959,7 +1959,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "07": [
+  "FUKUS": [
     {
       "id": 63224,
       "name": "Aizu-wakamatsu Shi",
@@ -2171,7 +2171,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "21": [
+  "GIF": [
     {
       "id": 63332,
       "name": "Ena-shi",
@@ -2418,7 +2418,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "10": [
+  "GUN": [
     {
       "id": 63217,
       "name": "Agatsuma-gun",
@@ -2630,7 +2630,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "34": [
+  "HIR": [
     {
       "id": 63230,
       "name": "Aki-takata Shi",
@@ -2842,7 +2842,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "01": [
+  "HOK": [
     {
       "id": 63211,
       "name": "Abashiri",
@@ -3397,7 +3397,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "28": [
+  "HYO": [
     {
       "id": 63220,
       "name": "Aioi",
@@ -3770,7 +3770,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "08": [
+  "IBA": [
     {
       "id": 63244,
       "name": "Ami",
@@ -4276,7 +4276,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "17": [
+  "ISH": [
     {
       "id": 63420,
       "name": "Hakui",
@@ -4404,7 +4404,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "03": [
+  "IWA": [
     {
       "id": 63406,
       "name": "Hachimantai",
@@ -4623,7 +4623,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "37": [
+  "KAG": [
     {
       "id": 63460,
       "name": "Higashikagawa Shi",
@@ -4730,7 +4730,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "46": [
+  "KAGO": [
     {
       "id": 63222,
       "name": "Aira Shi",
@@ -5054,7 +5054,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "14": [
+  "KAN": [
     {
       "id": 63272,
       "name": "Atsugi",
@@ -5336,7 +5336,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "39": [
+  "KOC": [
     {
       "id": 148287,
       "name": "Achi",
@@ -6094,7 +6094,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "43": [
+  "KUM": [
     {
       "id": 63240,
       "name": "Amakusa Gun",
@@ -6285,7 +6285,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "26": [
+  "KYO": [
     {
       "id": 63254,
       "name": "Arashiyama",
@@ -6455,7 +6455,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "24": [
+  "MIE": [
     {
       "id": 63501,
       "name": "Hisai-motomachi",
@@ -6653,7 +6653,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "04": [
+  "MIY": [
     {
       "id": 63379,
       "name": "Furukawa",
@@ -6886,7 +6886,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "45": [
+  "MIYA": [
     {
       "id": 63328,
       "name": "Ebino-shi",
@@ -7007,7 +7007,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "20": [
+  "NAG": [
     {
       "id": 63280,
       "name": "Azumino-Shi",
@@ -7289,7 +7289,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "42": [
+  "NAGA": [
     {
       "id": 63362,
       "name": "Fukuechō",
@@ -7445,7 +7445,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "29": [
+  "NAR": [
     {
       "id": 63389,
       "name": "Gojō",
@@ -7594,7 +7594,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "15": [
+  "NII": [
     {
       "id": 63216,
       "name": "Agano Shi",
@@ -7904,7 +7904,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "44": [
+  "OIT": [
     {
       "id": 63283,
       "name": "Beppu",
@@ -8088,7 +8088,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "33": [
+  "OKA": [
     {
       "id": 63227,
       "name": "Akaiwa Shi",
@@ -8265,7 +8265,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "47": [
+  "OKI": [
     {
       "id": 63292,
       "name": "Chatan",
@@ -8400,7 +8400,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "27": [
+  "OSA": [
     {
       "id": 63320,
       "name": "Daitō Shi",
@@ -8801,7 +8801,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "41": [
+  "SAG": [
     {
       "id": 63562,
       "name": "Imari Shi",
@@ -8915,7 +8915,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "11": [
+  "SAI": [
     {
       "id": 63218,
       "name": "Ageo Shi",
@@ -9491,7 +9491,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "25": [
+  "SHI": [
     {
       "id": 63470,
       "name": "Higashiōmi-shi",
@@ -9661,7 +9661,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "32": [
+  "SHIM": [
     {
       "id": 63403,
       "name": "Gōtsu Shi",
@@ -9775,7 +9775,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "22": [
+  "SHIZ": [
     {
       "id": 63270,
       "name": "Atami",
@@ -10085,7 +10085,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "09": [
+  "TOC": [
     {
       "id": 63266,
       "name": "Ashikaga",
@@ -10318,7 +10318,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "36": [
+  "TOK": [
     {
       "id": 63245,
       "name": "Anan Shi",
@@ -10439,7 +10439,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "13": [
+  "TOKY": [
     {
       "id": 63215,
       "name": "Adachi Ku",
@@ -10882,7 +10882,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "31": [
+  "TOT": [
     {
       "id": 63867,
       "name": "Kurayoshi-shi",
@@ -10919,7 +10919,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "16": [
+  "TOY": [
     {
       "id": 63364,
       "name": "Fukumitsu",
@@ -11061,7 +11061,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "30": [
+  "WAK": [
     {
       "id": 63255,
       "name": "Arida Shi",
@@ -11175,7 +11175,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "06": [
+  "YAM": [
     {
       "id": 63466,
       "name": "Higashine",
@@ -11366,7 +11366,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "35": [
+  "YAMA": [
     {
       "id": 63413,
       "name": "Hagi",
@@ -11515,7 +11515,7 @@
       "timezone": "Asia/Tokyo"
     }
   ],
-  "19": [
+  "YAMAN": [
     {
       "id": 63316,
       "name": "Chūō-shi",

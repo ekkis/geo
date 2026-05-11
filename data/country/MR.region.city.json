@@ -1,5 +1,5 @@
 {
-  "07": [
+  "AD": [
     {
       "id": 67746,
       "name": "Atar",
@@ -29,7 +29,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "03": [
+  "AS": [
     {
       "id": 67747,
       "name": "Barkéwol",
@@ -45,7 +45,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "05": [
+  "BR": [
     {
       "id": 67757,
       "name": "’Elb el Jmel",
@@ -75,7 +75,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "08": [
+  "DN": [
     {
       "id": 150076,
       "name": "Cansado",
@@ -98,7 +98,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "04": [
+  "GO": [
     {
       "id": 67749,
       "name": "Kaédi",
@@ -107,7 +107,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "10": [
+  "GM": [
     {
       "id": 67754,
       "name": "Sélibaby",
@@ -116,7 +116,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "01": [
+  "HC": [
     {
       "id": 150066,
       "name": "Diade",
@@ -146,7 +146,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "02": [
+  "HD": [
     {
       "id": 67743,
       "name": "Aioun",
@@ -169,7 +169,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "12": [
+  "IN": [
     {
       "id": 67744,
       "name": "Akjoujt",
@@ -178,7 +178,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "14": [
+  "NOU": [
     {
       "id": 150085,
       "name": "Dar-Naim",
@@ -201,7 +201,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "13": [
+  "NO": [
     {
       "id": 150082,
       "name": "Ksar",
@@ -224,7 +224,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "15": [
+  "NS": [
     {
       "id": 150088,
       "name": "Arafat",
@@ -240,7 +240,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "09": [
+  "TA": [
     {
       "id": 153945,
       "name": "Moudjeria",
@@ -263,7 +263,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "11": [
+  "TIR": [
     {
       "id": 150078,
       "name": "Ain Ben Tili",
@@ -300,7 +300,7 @@
       "timezone": "Africa/Nouakchott"
     }
   ],
-  "06": [
+  "TRA": [
     {
       "id": 150073,
       "name": "Legat",

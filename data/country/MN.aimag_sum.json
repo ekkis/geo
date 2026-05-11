@@ -1,68 +1,68 @@
 {
-  "073": {
+  "ARKH": {
     "name": "Arkhangai"
   },
-  "071": {
+  "BAY": {
     "name": "Bayan-Ölgii"
   },
-  "069": {
+  "BAYANH": {
     "name": "Bayankhongor"
   },
-  "067": {
+  "BULG": {
     "name": "Bulgan"
   },
-  "037": {
+  "DARKH": {
     "name": "Darkhan-Uul"
   },
-  "061": {
+  "DORN": {
     "name": "Dornod"
   },
-  "063": {
+  "DORNO": {
     "name": "Dornogovi"
   },
-  "059": {
+  "DUND": {
     "name": "Dundgovi"
   },
-  "065": {
+  "GOVI": {
     "name": "Govi-Altai"
   },
-  "064": {
+  "GOV": {
     "name": "Govisümber"
   },
-  "039": {
+  "KHENT": {
     "name": "Khentii"
   },
-  "043": {
+  "KHOV": {
     "name": "Khovd"
   },
-  "041": {
+  "KHOVG": {
     "name": "Khövsgöl"
   },
-  "053": {
+  "OMN": {
     "name": "Ömnögovi"
   },
-  "035": {
+  "ORKHON": {
     "name": "Orkhon"
   },
-  "055": {
+  "OVO": {
     "name": "Övörkhangai"
   },
-  "049": {
+  "SELE": {
     "name": "Selenge"
   },
-  "051": {
+  "SUK": {
     "name": "Sükhbaatar"
   },
-  "047": {
+  "TUV": {
     "name": "Töv"
   },
-  "001": {
+  "ULAANB": {
     "name": "Ulaanbaatar"
   },
-  "046": {
+  "UVS": {
     "name": "Uvs"
   },
-  "057": {
+  "ZAVK": {
     "name": "Zavkhan"
   }
 }

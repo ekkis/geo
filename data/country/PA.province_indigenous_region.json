@@ -1,17 +1,17 @@
 {
-  "1": {
+  "BOC": {
     "name": "Bocas del Toro"
   },
-  "4": {
+  "CHI": {
     "name": "Chiriquí Province"
   },
-  "2": {
+  "COC": {
     "name": "Coclé"
   },
-  "3": {
+  "COL": {
     "name": "Colón"
   },
-  "5": {
+  "DAR": {
     "name": "Darién"
   },
   "EM": {
@@ -20,10 +20,10 @@
   "KY": {
     "name": "Guna"
   },
-  "6": {
+  "HER": {
     "name": "Herrera"
   },
-  "7": {
+  "LOS": {
     "name": "Los Santos"
   },
   "NT": {
@@ -32,13 +32,13 @@
   "NB": {
     "name": "Ngöbe-Buglé Comarca"
   },
-  "8": {
+  "PAN": {
     "name": "Panamá"
   },
-  "10": {
+  "PO": {
     "name": "Panamá Oeste"
   },
-  "9": {
+  "VER": {
     "name": "Veraguas"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "1": {
+  "BUR": {
     "name": "Burgenland"
   },
-  "2": {
+  "CAR": {
     "name": "Carinthia"
   },
-  "3": {
+  "LOW": {
     "name": "Lower Austria"
   },
-  "5": {
+  "SAL": {
     "name": "Salzburg"
   },
-  "6": {
+  "STY": {
     "name": "Styria"
   },
-  "7": {
+  "TYR": {
     "name": "Tyrol"
   },
-  "4": {
+  "UPP": {
     "name": "Upper Austria"
   },
-  "9": {
+  "VIE": {
     "name": "Vienna"
   },
-  "8": {
+  "VOR": {
     "name": "Vorarlberg"
   }
 }

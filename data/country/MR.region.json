@@ -1,47 +1,47 @@
 {
-  "07": {
+  "AD": {
     "name": "Adrar"
   },
-  "03": {
+  "AS": {
     "name": "Assaba"
   },
-  "05": {
+  "BR": {
     "name": "Brakna"
   },
-  "08": {
+  "DN": {
     "name": "Dakhlet Nouadhibou"
   },
-  "04": {
+  "GO": {
     "name": "Gorgol"
   },
-  "10": {
+  "GM": {
     "name": "Guidimaka"
   },
-  "01": {
+  "HC": {
     "name": "Hodh Ech Chargui"
   },
-  "02": {
+  "HD": {
     "name": "Hodh El Gharbi"
   },
-  "12": {
+  "IN": {
     "name": "Inchiri"
   },
-  "14": {
+  "NOU": {
     "name": "Nouakchott-Nord"
   },
-  "13": {
+  "NO": {
     "name": "Nouakchott-Ouest"
   },
-  "15": {
+  "NS": {
     "name": "Nouakchott-Sud"
   },
-  "09": {
+  "TA": {
     "name": "Tagant"
   },
-  "11": {
+  "TIR": {
     "name": "Tiris Zemmour"
   },
-  "06": {
+  "TRA": {
     "name": "Trarza"
   }
 }

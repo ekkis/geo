@@ -1,35 +1,35 @@
 {
-  "01": {
+  "BAL": {
     "name": "Balzers"
   },
-  "02": {
+  "ESC": {
     "name": "Eschen"
   },
-  "03": {
+  "GAM": {
     "name": "Gamprin"
   },
-  "04": {
+  "MAU": {
     "name": "Mauren"
   },
-  "05": {
+  "PLA": {
     "name": "Planken"
   },
-  "06": {
+  "RUG": {
     "name": "Ruggell"
   },
-  "07": {
+  "SCH": {
     "name": "Schaan"
   },
-  "08": {
+  "SCH1": {
     "name": "Schellenberg"
   },
-  "09": {
+  "TRI": {
     "name": "Triesen"
   },
-  "10": {
+  "TRI1": {
     "name": "Triesenberg"
   },
-  "11": {
+  "VAD": {
     "name": "Vaduz"
   }
 }

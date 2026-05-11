@@ -1,56 +1,56 @@
 {
-  "16": {
+  "ALT": {
     "name": "Alto Paraguay"
   },
-  "10": {
+  "AP": {
     "name": "Alto Paraná"
   },
-  "13": {
+  "AMA": {
     "name": "Amambay"
   },
   "ASU": {
     "name": "Asuncion"
   },
-  "19": {
+  "BOQ": {
     "name": "Boquerón"
   },
-  "5": {
+  "CAA": {
     "name": "Caaguazú"
   },
-  "6": {
+  "CAAZ": {
     "name": "Caazapá"
   },
-  "14": {
+  "CAN": {
     "name": "Canindeyú"
   },
-  "11": {
+  "CEN": {
     "name": "Central"
   },
-  "1": {
+  "CON": {
     "name": "Concepción"
   },
-  "3": {
+  "COR": {
     "name": "Cordillera"
   },
-  "4": {
+  "GUA": {
     "name": "Guairá"
   },
-  "7": {
+  "ITA": {
     "name": "Itapúa"
   },
-  "8": {
+  "MIS": {
     "name": "Misiones"
   },
-  "12": {
+  "NEE": {
     "name": "Ñeembucú"
   },
-  "9": {
+  "PAR": {
     "name": "Paraguarí"
   },
-  "15": {
+  "PRE": {
     "name": "Presidente Hayes"
   },
-  "2": {
+  "PED": {
     "name": "San Pedro"
   }
 }

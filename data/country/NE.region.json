@@ -1,26 +1,26 @@
 {
-  "1": {
+  "AG": {
     "name": "Agadez"
   },
-  "2": {
+  "DF": {
     "name": "Diffa"
   },
-  "3": {
+  "DS": {
     "name": "Dosso"
   },
-  "4": {
+  "MA": {
     "name": "Maradi"
   },
-  "8": {
+  "NI": {
     "name": "Niamey"
   },
-  "5": {
+  "TH": {
     "name": "Tahoua"
   },
-  "6": {
+  "TL": {
     "name": "Tillabéri"
   },
-  "7": {
+  "ZD": {
     "name": "Zinder"
   }
 }

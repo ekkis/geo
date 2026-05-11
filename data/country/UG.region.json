@@ -1,419 +1,419 @@
 {
-  "314": {
+  "ABI": {
     "name": "Abim"
   },
-  "301": {
+  "ADJ": {
     "name": "Adjumani"
   },
-  "322": {
+  "AGA": {
     "name": "Agago"
   },
-  "323": {
+  "ALE": {
     "name": "Alebtong"
   },
-  "315": {
+  "AMO": {
     "name": "Amolatar"
   },
-  "324": {
+  "AMU": {
     "name": "Amudat"
   },
-  "216": {
+  "AMUR": {
     "name": "Amuria"
   },
-  "316": {
+  "AMURU": {
     "name": "Amuru"
   },
-  "302": {
+  "APA": {
     "name": "Apac"
   },
-  "303": {
+  "ARU": {
     "name": "Arua"
   },
-  "217": {
+  "BUD": {
     "name": "Budaka"
   },
-  "218": {
+  "BUDU": {
     "name": "Bududa"
   },
-  "201": {
+  "BUG": {
     "name": "Bugiri"
   },
-  "235": {
+  "BUGW": {
     "name": "Bugweri"
   },
-  "420": {
+  "BUH": {
     "name": "Buhweju"
   },
-  "117": {
+  "BUI": {
     "name": "Buikwe"
   },
-  "219": {
+  "BUK": {
     "name": "Bukedea"
   },
-  "118": {
+  "BUKO": {
     "name": "Bukomansimbi"
   },
-  "220": {
+  "BUKW": {
     "name": "Bukwo"
   },
-  "225": {
+  "BUL": {
     "name": "Bulambuli"
   },
-  "416": {
+  "BULI": {
     "name": "Buliisa"
   },
-  "401": {
+  "BUN": {
     "name": "Bundibugyo"
   },
-  "430": {
+  "BUNY": {
     "name": "Bunyangabu"
   },
-  "402": {
+  "BUS": {
     "name": "Bushenyi"
   },
-  "202": {
+  "BUSI": {
     "name": "Busia"
   },
-  "221": {
+  "BUT": {
     "name": "Butaleja"
   },
-  "119": {
+  "BUTA": {
     "name": "Butambala"
   },
-  "233": {
+  "BUTE": {
     "name": "Butebo"
   },
-  "120": {
+  "BUV": {
     "name": "Buvuma"
   },
-  "226": {
+  "BUY": {
     "name": "Buyende"
   },
   "C": {
     "name": "Central"
   },
-  "317": {
+  "DOK": {
     "name": "Dokolo"
   },
   "E": {
     "name": "Eastern"
   },
-  "121": {
+  "GOM": {
     "name": "Gomba"
   },
-  "304": {
+  "GUL": {
     "name": "Gulu"
   },
-  "403": {
+  "HOI": {
     "name": "Hoima"
   },
-  "417": {
+  "IBA": {
     "name": "Ibanda"
   },
-  "203": {
+  "IGA": {
     "name": "Iganga"
   },
-  "418": {
+  "ISI": {
     "name": "Isingiro"
   },
-  "204": {
+  "JIN": {
     "name": "Jinja"
   },
-  "318": {
+  "KAA": {
     "name": "Kaabong"
   },
-  "404": {
+  "KAB": {
     "name": "Kabale"
   },
-  "405": {
+  "KABA": {
     "name": "Kabarole"
   },
-  "213": {
+  "KABE": {
     "name": "Kaberamaido"
   },
-  "427": {
+  "KAG": {
     "name": "Kagadi"
   },
-  "428": {
+  "KAK": {
     "name": "Kakumiro"
   },
-  "237": {
+  "KAL": {
     "name": "Kalaki"
   },
-  "101": {
+  "KALA": {
     "name": "Kalangala"
   },
-  "222": {
+  "KALI": {
     "name": "Kaliro"
   },
-  "122": {
+  "KALU": {
     "name": "Kalungu"
   },
-  "102": {
+  "KAM": {
     "name": "Kampala"
   },
-  "205": {
+  "KAMU": {
     "name": "Kamuli"
   },
-  "413": {
+  "KAMW": {
     "name": "Kamwenge"
   },
-  "414": {
+  "KAN": {
     "name": "Kanungu"
   },
-  "206": {
+  "KAP": {
     "name": "Kapchorwa"
   },
-  "236": {
+  "KAPE": {
     "name": "Kapelebyong"
   },
-  "335": {
+  "KAR": {
     "name": "Karenga"
   },
-  "126": {
+  "KAS": {
     "name": "Kasanda"
   },
-  "406": {
+  "KASE": {
     "name": "Kasese"
   },
-  "207": {
+  "KAT": {
     "name": "Katakwi"
   },
-  "112": {
+  "KAY": {
     "name": "Kayunga"
   },
-  "433": {
+  "KAZ": {
     "name": "Kazo"
   },
-  "407": {
+  "KIB": {
     "name": "Kibaale"
   },
-  "103": {
+  "KIBO": {
     "name": "Kiboga"
   },
-  "227": {
+  "KIBU": {
     "name": "Kibuku"
   },
-  "432": {
+  "KIK": {
     "name": "Kikuube"
   },
-  "419": {
+  "KIR": {
     "name": "Kiruhura"
   },
-  "421": {
+  "KIRY": {
     "name": "Kiryandongo"
   },
-  "408": {
+  "KIS": {
     "name": "Kisoro"
   },
-  "434": {
+  "KIT": {
     "name": "Kitagwenda"
   },
-  "305": {
+  "KITG": {
     "name": "Kitgum"
   },
-  "319": {
+  "KOB": {
     "name": "Koboko"
   },
-  "325": {
+  "KOL": {
     "name": "Kole"
   },
-  "306": {
+  "KOT": {
     "name": "Kotido"
   },
-  "208": {
+  "KUM": {
     "name": "Kumi"
   },
-  "333": {
+  "KWA": {
     "name": "Kwania"
   },
-  "228": {
+  "KWE": {
     "name": "Kween"
   },
-  "123": {
+  "KYA": {
     "name": "Kyankwanzi"
   },
-  "422": {
+  "KYE": {
     "name": "Kyegegwa"
   },
-  "415": {
+  "KYEN": {
     "name": "Kyenjojo"
   },
-  "125": {
+  "KYO": {
     "name": "Kyotera"
   },
-  "326": {
+  "LAM": {
     "name": "Lamwo"
   },
-  "307": {
+  "LIR": {
     "name": "Lira"
   },
-  "229": {
+  "LUU": {
     "name": "Luuka"
   },
-  "104": {
+  "LUW": {
     "name": "Luwero"
   },
-  "124": {
+  "LWE": {
     "name": "Lwengo"
   },
-  "114": {
+  "LYA": {
     "name": "Lyantonde"
   },
-  "336": {
+  "MAD": {
     "name": "Madi-Okollo"
   },
-  "223": {
+  "MAN": {
     "name": "Manafwa"
   },
-  "320": {
+  "MAR": {
     "name": "Maracha"
   },
-  "105": {
+  "MAS": {
     "name": "Masaka"
   },
-  "409": {
+  "MASI": {
     "name": "Masindi"
   },
-  "214": {
+  "MAY": {
     "name": "Mayuge"
   },
-  "209": {
+  "MBA": {
     "name": "Mbale"
   },
-  "410": {
+  "MBAR": {
     "name": "Mbarara"
   },
-  "423": {
+  "MIT": {
     "name": "Mitooma"
   },
-  "115": {
+  "MITY": {
     "name": "Mityana"
   },
-  "308": {
+  "MOR": {
     "name": "Moroto"
   },
-  "309": {
+  "MOY": {
     "name": "Moyo"
   },
-  "106": {
+  "MPI": {
     "name": "Mpigi"
   },
-  "107": {
+  "MUB": {
     "name": "Mubende"
   },
-  "108": {
+  "MUK": {
     "name": "Mukono"
   },
-  "334": {
+  "NAB": {
     "name": "Nabilatuk"
   },
-  "311": {
+  "NAK": {
     "name": "Nakapiripirit"
   },
-  "116": {
+  "NAKA": {
     "name": "Nakaseke"
   },
-  "109": {
+  "NAKAS": {
     "name": "Nakasongola"
   },
-  "230": {
+  "NAM": {
     "name": "Namayingo"
   },
-  "234": {
+  "NAMI": {
     "name": "Namisindwa"
   },
-  "224": {
+  "NAMU": {
     "name": "Namutumba"
   },
-  "327": {
+  "NAP": {
     "name": "Napak"
   },
-  "310": {
+  "NEB": {
     "name": "Nebbi"
   },
-  "231": {
+  "NGO": {
     "name": "Ngora"
   },
   "N": {
     "name": "Northern"
   },
-  "424": {
+  "NTO": {
     "name": "Ntoroko"
   },
-  "411": {
+  "NTU": {
     "name": "Ntungamo"
   },
-  "328": {
+  "NWO": {
     "name": "Nwoya"
   },
-  "337": {
+  "OBO": {
     "name": "Obongi"
   },
-  "331": {
+  "OMO": {
     "name": "Omoro"
   },
-  "329": {
+  "OTU": {
     "name": "Otuke"
   },
-  "321": {
+  "OYA": {
     "name": "Oyam"
   },
-  "312": {
+  "PAD": {
     "name": "Pader"
   },
-  "332": {
+  "PAK": {
     "name": "Pakwach"
   },
-  "210": {
+  "PAL": {
     "name": "Pallisa"
   },
-  "110": {
+  "RAK": {
     "name": "Rakai"
   },
-  "429": {
+  "RUB": {
     "name": "Rubanda"
   },
-  "425": {
+  "RUBI": {
     "name": "Rubirizi"
   },
-  "431": {
+  "RUK": {
     "name": "Rukiga"
   },
-  "412": {
+  "RUKU": {
     "name": "Rukungiri"
   },
-  "435": {
+  "RWA": {
     "name": "Rwampara"
   },
-  "111": {
+  "SEM": {
     "name": "Sembabule"
   },
-  "232": {
+  "SER": {
     "name": "Serere"
   },
-  "426": {
+  "SHE": {
     "name": "Sheema"
   },
-  "215": {
+  "SIR": {
     "name": "Sironko"
   },
-  "211": {
+  "SOR": {
     "name": "Soroti"
   },
-  "212": {
+  "TOR": {
     "name": "Tororo"
   },
-  "113": {
+  "WAK": {
     "name": "Wakiso"
   },
   "W": {
     "name": "Western"
   },
-  "313": {
+  "YUM": {
     "name": "Yumbe"
   },
-  "330": {
+  "ZOM": {
     "name": "Zombo"
   }
 }

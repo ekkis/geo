@@ -1,74 +1,74 @@
 {
-  "12": {
+  "ARI": {
     "name": "Ariana"
   },
-  "31": {
+  "BEJ": {
     "name": "Béja"
   },
-  "13": {
+  "BEN": {
     "name": "Ben Arous"
   },
-  "23": {
+  "BIZ": {
     "name": "Bizerte"
   },
-  "81": {
+  "GAB": {
     "name": "Gabès"
   },
-  "71": {
+  "GAF": {
     "name": "Gafsa"
   },
-  "32": {
+  "JEN": {
     "name": "Jendouba"
   },
-  "41": {
+  "KAI": {
     "name": "Kairouan"
   },
-  "42": {
+  "KAS": {
     "name": "Kasserine"
   },
-  "73": {
+  "KEB": {
     "name": "Kebili"
   },
-  "33": {
+  "KEF": {
     "name": "Kef"
   },
-  "53": {
+  "MAH": {
     "name": "Mahdia"
   },
-  "14": {
+  "MAN": {
     "name": "Manouba"
   },
-  "82": {
+  "MED": {
     "name": "Medenine"
   },
-  "52": {
+  "MON": {
     "name": "Monastir"
   },
-  "21": {
+  "NAB": {
     "name": "Nabeul"
   },
-  "61": {
+  "SFA": {
     "name": "Sfax"
   },
-  "43": {
+  "SID": {
     "name": "Sidi Bouzid"
   },
-  "34": {
+  "SIL": {
     "name": "Siliana"
   },
-  "51": {
+  "SOU": {
     "name": "Sousse"
   },
-  "83": {
+  "TAT": {
     "name": "Tataouine"
   },
-  "72": {
+  "TOZ": {
     "name": "Tozeur"
   },
-  "11": {
+  "TUN": {
     "name": "Tunis"
   },
-  "22": {
+  "ZAG": {
     "name": "Zaghouan"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "43": [
+  "CRIME": [
     {
       "id": 109305,
       "name": "Abrikosovka",
@@ -2465,7 +2465,7 @@
       "timezone": "Europe/Simferopol"
     }
   ],
-  "71": [
+  "CHE": [
     {
       "id": 109337,
       "name": "Babanka",
@@ -2705,7 +2705,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "74": [
+  "CHER": [
     {
       "id": 109334,
       "name": "Avdiyivka",
@@ -2994,7 +2994,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "77": [
+  "CHERN": [
     {
       "id": 109348,
       "name": "Banyliv",
@@ -3206,7 +3206,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "12": [
+  "DNI": [
     {
       "id": 109325,
       "name": "Apostolove",
@@ -3572,7 +3572,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "14": [
+  "DON": [
     {
       "id": 109318,
       "name": "Amvrosiivka",
@@ -4120,7 +4120,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "26": [
+  "IVA": [
     {
       "id": 109397,
       "name": "Bili Oslavy",
@@ -4724,7 +4724,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "63": [
+  "KHA": [
     {
       "id": 109344,
       "name": "Balakliya",
@@ -5188,7 +5188,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "65": [
+  "KHE": [
     {
       "id": 109331,
       "name": "Askaniya-Nova",
@@ -5498,7 +5498,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "68": [
+  "KHM": [
     {
       "id": 109322,
       "name": "Antoniny",
@@ -5703,7 +5703,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "35": [
+  "KIR": [
     {
       "id": 109307,
       "name": "Adzhamka",
@@ -6013,7 +6013,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "30": [
+  "KYI": [
     {
       "id": 109529,
       "name": "Darnytsia",
@@ -6099,7 +6099,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "32": [
+  "KYIV": [
     {
       "id": 109353,
       "name": "Baryshivka",
@@ -6724,7 +6724,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "09": [
+  "LUH": [
     {
       "id": 109311,
       "name": "Alchevs’k",
@@ -7202,7 +7202,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "46": [
+  "LVI": [
     {
       "id": 109366,
       "name": "Belz",
@@ -7771,7 +7771,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "48": [
+  "MYK": [
     {
       "id": 109326,
       "name": "Arbuzynka",
@@ -7962,7 +7962,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "51": [
+  "ODE": [
     {
       "id": 109330,
       "name": "Artsyz",
@@ -8475,7 +8475,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "53": [
+  "POL": [
     {
       "id": 149311,
       "name": "Abramok",
@@ -10108,7 +10108,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "56": [
+  "RIV": [
     {
       "id": 109535,
       "name": "Demydivs’kyy Rayon",
@@ -10313,7 +10313,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "40": [
+  "SEVAS": [
     {
       "id": 105834,
       "name": "Andreyevka",
@@ -10434,7 +10434,7 @@
       "timezone": "Europe/Simferopol"
     }
   ],
-  "59": [
+  "SUM": [
     {
       "id": 109402,
       "name": "Bilopillya",
@@ -10646,7 +10646,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "61": [
+  "TER": [
     {
       "id": 109362,
       "name": "Belaya",
@@ -10872,7 +10872,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "05": [
+  "VIN": [
     {
       "id": 109349,
       "name": "Bar",
@@ -11231,7 +11231,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "07": [
+  "VOL": [
     {
       "id": 109377,
       "name": "Berestechko",
@@ -11436,7 +11436,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "21": [
+  "ZAK": [
     {
       "id": 109357,
       "name": "Batiovo",
@@ -12012,7 +12012,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "23": [
+  "ZAP": [
     {
       "id": 109345,
       "name": "Balky",
@@ -12399,7 +12399,7 @@
       "timezone": "Europe/Kyiv"
     }
   ],
-  "18": [
+  "ZHY": [
     {
       "id": 109320,
       "name": "Andrushivka",

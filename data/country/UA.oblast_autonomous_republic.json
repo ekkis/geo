@@ -1,83 +1,83 @@
 {
-  "43": {
+  "CRIME": {
     "name": "Autonomous Republic of Crimea"
   },
-  "71": {
+  "CHE": {
     "name": "Cherkaska"
   },
-  "74": {
+  "CHER": {
     "name": "Chernihivska"
   },
-  "77": {
+  "CHERN": {
     "name": "Chernivetska"
   },
-  "12": {
+  "DNI": {
     "name": "Dnipropetrovska"
   },
-  "14": {
+  "DON": {
     "name": "Donetska"
   },
-  "26": {
+  "IVA": {
     "name": "Ivano-Frankivska"
   },
-  "63": {
+  "KHA": {
     "name": "Kharkivska"
   },
-  "65": {
+  "KHE": {
     "name": "Khersonska"
   },
-  "68": {
+  "KHM": {
     "name": "Khmelnytska"
   },
-  "35": {
+  "KIR": {
     "name": "Kirovohradska"
   },
-  "30": {
+  "KYI": {
     "name": "Kyiv"
   },
-  "32": {
+  "KYIV": {
     "name": "Kyivska"
   },
-  "09": {
+  "LUH": {
     "name": "Luhanska"
   },
-  "46": {
+  "LVI": {
     "name": "Lvivska"
   },
-  "48": {
+  "MYK": {
     "name": "Mykolaivska"
   },
-  "51": {
+  "ODE": {
     "name": "Odeska"
   },
-  "53": {
+  "POL": {
     "name": "Poltavska"
   },
-  "56": {
+  "RIV": {
     "name": "Rivnenska"
   },
-  "40": {
+  "SEVAS": {
     "name": "Sevastopol"
   },
-  "59": {
+  "SUM": {
     "name": "Sumska"
   },
-  "61": {
+  "TER": {
     "name": "Ternopilska"
   },
-  "05": {
+  "VIN": {
     "name": "Vinnytska"
   },
-  "07": {
+  "VOL": {
     "name": "Volynska"
   },
-  "21": {
+  "ZAK": {
     "name": "Zakarpatska"
   },
-  "23": {
+  "ZAP": {
     "name": "Zaporizka"
   },
-  "18": {
+  "ZHY": {
     "name": "Zhytomyrska"
   }
 }

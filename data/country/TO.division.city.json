@@ -1,5 +1,5 @@
 {
-  "02": [
+  "HAA": [
     {
       "id": 107049,
       "name": "Pangai",
@@ -8,7 +8,7 @@
       "timezone": "Pacific/Tongatapu"
     }
   ],
-  "01": [
+  "EUA": [
     {
       "id": 107051,
       "name": "‘Ohonua",
@@ -17,7 +17,7 @@
       "timezone": "Pacific/Tongatapu"
     }
   ],
-  "03": [
+  "NIU": [
     {
       "id": 107045,
       "name": "Hihifo",
@@ -26,7 +26,7 @@
       "timezone": "Pacific/Tongatapu"
     }
   ],
-  "04": [
+  "TON": [
     {
       "id": 107044,
       "name": "Haveluloto",
@@ -56,7 +56,7 @@
       "timezone": "Pacific/Tongatapu"
     }
   ],
-  "05": [
+  "VAV": [
     {
       "id": 107047,
       "name": "Neiafu",

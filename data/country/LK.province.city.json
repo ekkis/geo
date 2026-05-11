@@ -1,9 +1,9 @@
 {
-  "52": [],
-  "71": [],
-  "81": [],
-  "51": [],
-  "2": [
+  "AMP": [],
+  "ANU": [],
+  "BAD": [],
+  "BAT": [],
+  "CEN": [
     {
       "id": 66463,
       "name": "Dambulla",
@@ -75,7 +75,7 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "11": [
+  "COL": [
     {
       "id": 66464,
       "name": "Dehiwala-Mount Lavinia",
@@ -161,7 +161,7 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "5": [
+  "EAS": [
     {
       "id": 66449,
       "name": "Ampara",
@@ -226,12 +226,12 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "31": [],
-  "12": [],
-  "33": [],
-  "41": [],
-  "13": [],
-  "21": [
+  "GAL": [],
+  "GAM": [],
+  "HAM": [],
+  "JAF": [],
+  "KAL": [],
+  "KAN": [
     {
       "id": 146174,
       "name": "Akurana",
@@ -548,15 +548,15 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "92": [],
-  "42": [],
-  "61": [],
-  "43": [],
-  "22": [],
-  "32": [],
-  "82": [],
-  "45": [],
-  "7": [
+  "KEG": [],
+  "KIL": [],
+  "KUR": [],
+  "MAN": [],
+  "MAT": [],
+  "MATA": [],
+  "MON": [],
+  "MUL": [],
+  "NOR": [
     {
       "id": 66451,
       "name": "Anuradhapura",
@@ -593,7 +593,7 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "6": [
+  "NW": [
     {
       "id": 66460,
       "name": "Chilaw",
@@ -637,7 +637,7 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "4": [
+  "NORT": [
     {
       "id": 66483,
       "name": "Jaffna",
@@ -695,11 +695,11 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "23": [],
-  "72": [],
-  "62": [],
-  "91": [],
-  "9": [
+  "NUW": [],
+  "POL": [],
+  "PUT": [],
+  "RAT": [],
+  "SAB": [
     {
       "id": 66493,
       "name": "Kegalle",
@@ -729,7 +729,7 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "3": [
+  "SOU": [
     {
       "id": 66448,
       "name": "Ambalangoda",
@@ -836,8 +836,8 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "53": [],
-  "8": [
+  "TRI": [],
+  "UVA": [
     {
       "id": 66453,
       "name": "Badulla",
@@ -895,8 +895,8 @@
       "timezone": "Asia/Colombo"
     }
   ],
-  "44": [],
-  "1": [
+  "VAV": [],
+  "WES": [
     {
       "id": 66455,
       "name": "Battaramulla South",

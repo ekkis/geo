@@ -1,29 +1,29 @@
 {
-  "1": {
+  "EST": {
     "name": "Estuaire"
   },
-  "2": {
+  "HAU": {
     "name": "Haut-Ogooué"
   },
-  "3": {
+  "MOY": {
     "name": "Moyen-Ogooué"
   },
-  "4": {
+  "NGO": {
     "name": "Ngounié"
   },
-  "5": {
+  "NYA": {
     "name": "Nyanga"
   },
-  "6": {
+  "OGO": {
     "name": "Ogooué-Ivindo"
   },
-  "7": {
+  "OL": {
     "name": "Ogooué-Lolo"
   },
-  "8": {
+  "OM": {
     "name": "Ogooué-Maritime"
   },
-  "9": {
+  "WOL": {
     "name": "Woleu-Ntem"
   }
 }

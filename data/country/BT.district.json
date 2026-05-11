@@ -1,62 +1,62 @@
 {
-  "33": {
+  "BUM": {
     "name": "Bumthang "
   },
-  "12": {
+  "CHU": {
     "name": "Chukha "
   },
-  "22": {
+  "DAG": {
     "name": "Dagana "
   },
   "GA": {
     "name": "Gasa "
   },
-  "13": {
+  "HAA": {
     "name": "Haa "
   },
-  "44": {
+  "LHU": {
     "name": "Lhuntse "
   },
-  "42": {
+  "MON": {
     "name": "Mongar "
   },
-  "11": {
+  "PAR": {
     "name": "Paro "
   },
-  "43": {
+  "PEM": {
     "name": "Pemagatshel "
   },
-  "23": {
+  "PUN": {
     "name": "Punakha "
   },
-  "45": {
+  "SAM": {
     "name": "Samdrup Jongkhar "
   },
-  "14": {
+  "SAMT": {
     "name": "Samtse "
   },
-  "31": {
+  "SAR": {
     "name": "Sarpang "
   },
-  "15": {
+  "THI": {
     "name": "Thimphu "
   },
   "TY": {
     "name": "Trashi Yangtse\t"
   },
-  "41": {
+  "TRA": {
     "name": "Trashigang "
   },
-  "32": {
+  "TRO": {
     "name": "Trongsa "
   },
-  "21": {
+  "TSI": {
     "name": "Tsirang "
   },
-  "24": {
+  "WAN": {
     "name": "Wangdue Phodrang "
   },
-  "34": {
+  "ZHE": {
     "name": "Zhemgang "
   }
 }

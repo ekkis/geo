@@ -1,41 +1,41 @@
 {
-  "011": {
+  "ADA": {
     "name": "Ādaži"
   },
-  "002": {
+  "AIZ": {
     "name": "Aizkraukle"
   },
-  "007": {
+  "ALU": {
     "name": "Alūksne"
   },
-  "111": {
+  "AUG": {
     "name": "Augšdaugava"
   },
-  "015": {
+  "BAL2": {
     "name": "Balvi"
   },
-  "016": {
+  "BAU": {
     "name": "Bauska"
   },
-  "022": {
+  "CES1": {
     "name": "Cēsis"
   },
   "DGV": {
     "name": "Daugavpils"
   },
-  "112": {
+  "DIE": {
     "name": "Dienvidkurzemes"
   },
-  "026": {
+  "DOB": {
     "name": "Dobele"
   },
-  "033": {
+  "GUL": {
     "name": "Gulbene"
   },
-  "042": {
+  "JEK": {
     "name": "Jēkabpils"
   },
-  "041": {
+  "JELG": {
     "name": "Jelgava"
   },
   "JEL": {
@@ -44,88 +44,88 @@
   "JUR": {
     "name": "Jūrmala"
   },
-  "052": {
+  "KEK": {
     "name": "Ķekava"
   },
-  "047": {
+  "KRA": {
     "name": "Krāslava"
   },
-  "050": {
+  "KUL": {
     "name": "Kuldīga"
   },
   "LPX": {
     "name": "Liepāja"
   },
-  "054": {
+  "LIM": {
     "name": "Limbaži"
   },
-  "056": {
+  "LIV": {
     "name": "Līvāni"
   },
-  "058": {
+  "LUD": {
     "name": "Ludza"
   },
-  "059": {
+  "MAD": {
     "name": "Madona"
   },
-  "062": {
+  "MAR": {
     "name": "Mārupe"
   },
-  "067": {
+  "OGR": {
     "name": "Ogre"
   },
-  "068": {
+  "OLA": {
     "name": "Olaine"
   },
-  "073": {
+  "PRE": {
     "name": "Preiļi"
   },
   "REZ": {
     "name": "Rēzekne"
   },
-  "077": {
+  "REZE": {
     "name": "Rēzekne"
   },
   "RIX": {
     "name": "Riga"
   },
-  "080": {
+  "ROP": {
     "name": "Ropaži"
   },
-  "087": {
+  "SAL2": {
     "name": "Salaspils"
   },
-  "088": {
+  "SAL3": {
     "name": "Saldus"
   },
-  "089": {
+  "SAU": {
     "name": "Saulkrasti"
   },
-  "091": {
+  "SIG": {
     "name": "Sigulda"
   },
-  "094": {
+  "SMI": {
     "name": "Smiltene"
   },
-  "097": {
+  "TAL": {
     "name": "Talsi"
   },
-  "099": {
+  "TUK": {
     "name": "Tukums"
   },
-  "101": {
+  "VAL": {
     "name": "Valka"
   },
-  "113": {
+  "VAL1": {
     "name": "Valmiera"
   },
-  "102": {
+  "VAR": {
     "name": "Varakļāni"
   },
   "VEN": {
     "name": "Ventspils"
   },
-  "106": {
+  "VENT": {
     "name": "Ventspils"
   }
 }

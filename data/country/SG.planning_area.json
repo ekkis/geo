@@ -1,17 +1,17 @@
 {
-  "01": {
+  "CEN": {
     "name": "Central Singapore"
   },
-  "02": {
+  "NOR": {
     "name": "North East"
   },
-  "03": {
+  "NW": {
     "name": "North West"
   },
-  "04": {
+  "SOU": {
     "name": "South East"
   },
-  "05": {
+  "SW": {
     "name": "South West"
   }
 }

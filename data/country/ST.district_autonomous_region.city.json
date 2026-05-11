@@ -1,5 +1,5 @@
 {
-  "01": [
+  "AGU": [
     {
       "id": 104838,
       "name": "São Tomé",
@@ -8,7 +8,7 @@
       "timezone": "Africa/Sao_Tome"
     }
   ],
-  "02": [
+  "CAN": [
     {
       "id": 160117,
       "name": "Santana",
@@ -17,7 +17,7 @@
       "timezone": "Africa/Sao_Tome"
     }
   ],
-  "03": [
+  "CAU": [
     {
       "id": 160118,
       "name": "São João dos Angolares",
@@ -26,7 +26,7 @@
       "timezone": "Africa/Sao_Tome"
     }
   ],
-  "04": [
+  "LEM": [
     {
       "id": 160119,
       "name": "Neves",
@@ -35,7 +35,7 @@
       "timezone": "Africa/Sao_Tome"
     }
   ],
-  "05": [
+  "LOB": [
     {
       "id": 160120,
       "name": "Guadalupe",
@@ -44,7 +44,7 @@
       "timezone": "Africa/Sao_Tome"
     }
   ],
-  "06": [
+  "MEX": [
     {
       "id": 160136,
       "name": "Trindade",

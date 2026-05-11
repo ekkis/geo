@@ -1,5 +1,5 @@
 {
-  "01": [
+  "AND": [
     {
       "id": 67343,
       "name": "Andrijevica",
@@ -8,7 +8,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "02": [
+  "BAR": [
     {
       "id": 67344,
       "name": "Bar",
@@ -38,7 +38,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "03": [
+  "BER": [
     {
       "id": 67345,
       "name": "Berane",
@@ -47,7 +47,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "04": [
+  "BIJPO": [
     {
       "id": 67346,
       "name": "Bijelo Polje",
@@ -56,7 +56,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "05": [
+  "BUD": [
     {
       "id": 67347,
       "name": "Budva",
@@ -72,7 +72,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "07": [
+  "DAN": [
     {
       "id": 67349,
       "name": "Danilovgrad",
@@ -88,7 +88,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "22": [
+  "GUS": [
     {
       "id": 67353,
       "name": "Gusinje",
@@ -97,7 +97,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "08": [
+  "HER": [
     {
       "id": 160067,
       "name": "Bijela",
@@ -127,7 +127,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "09": [
+  "KOL": [
     {
       "id": 67354,
       "name": "Kolašin",
@@ -136,7 +136,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "10": [
+  "KOT": [
     {
       "id": 67350,
       "name": "Dobrota",
@@ -166,7 +166,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "11": [
+  "MOJ": [
     {
       "id": 67358,
       "name": "Mojkovac",
@@ -175,7 +175,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "12": [
+  "NIK": [
     {
       "id": 67359,
       "name": "Nikšić",
@@ -184,7 +184,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "06": [
+  "OLD": [
     {
       "id": 67348,
       "name": "Cetinje",
@@ -193,8 +193,8 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "23": [],
-  "13": [
+  "PET": [],
+  "PLA": [
     {
       "id": 67361,
       "name": "Plav",
@@ -203,7 +203,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "14": [
+  "PLJ": [
     {
       "id": 67362,
       "name": "Pljevlja",
@@ -212,7 +212,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "15": [
+  "PLU": [
     {
       "id": 67363,
       "name": "Plužine",
@@ -221,7 +221,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "16": [
+  "POD": [
     {
       "id": 67352,
       "name": "Goričani",
@@ -244,7 +244,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "17": [
+  "ROZ": [
     {
       "id": 67367,
       "name": "Rožaje",
@@ -253,7 +253,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "18": [
+  "SAV": [
     {
       "id": 67374,
       "name": "Šavnik",
@@ -262,7 +262,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "19": [
+  "TIV": [
     {
       "id": 67371,
       "name": "Tivat",
@@ -271,7 +271,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "24": [
+  "TUZ": [
     {
       "id": 160068,
       "name": "Dinoša",
@@ -294,7 +294,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "20": [
+  "ULC": [
     {
       "id": 67373,
       "name": "Ulcinj",
@@ -303,7 +303,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "21": [
+  "ZAB": [
     {
       "id": 67376,
       "name": "Žabljak",
@@ -312,7 +312,7 @@
       "timezone": "Europe/Podgorica"
     }
   ],
-  "25": [
+  "ZET": [
     {
       "id": 67351,
       "name": "Golubovci",

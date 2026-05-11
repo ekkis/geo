@@ -1,5 +1,5 @@
 {
-  "01": [
+  "AIN": [
     {
       "id": 39360,
       "name": "Ambérieu-en-Bugey",
@@ -1044,7 +1044,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "02": [
+  "AIS": [
     {
       "id": 39353,
       "name": "Ambleny",
@@ -1704,7 +1704,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "03": [
+  "ALL": [
     {
       "id": 39246,
       "name": "Abrest",
@@ -2126,7 +2126,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "04": [
+  "ALP": [
     {
       "id": 39335,
       "name": "Alpes-de-Haute-Provence",
@@ -2359,7 +2359,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "06": [
+  "AM": [
     {
       "id": 39334,
       "name": "Alpes-Maritimes",
@@ -2901,7 +2901,7 @@
     }
   ],
   "6AE": [],
-  "07": [
+  "ARD": [
     {
       "id": 39301,
       "name": "Alba-la-Romaine",
@@ -3414,7 +3414,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "08": [
+  "ARDE": [
     {
       "id": 39269,
       "name": "Aiglemont",
@@ -3759,7 +3759,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "09": [
+  "ARI": [
     {
       "id": 39682,
       "name": "Ax-les-Thermes",
@@ -3915,7 +3915,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "10": [
+  "AUB": [
     {
       "id": 39293,
       "name": "Aix-en-Othe",
@@ -4225,7 +4225,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "11": [
+  "AUD": [
     {
       "id": 39340,
       "name": "Alzonne",
@@ -4676,7 +4676,7 @@
     }
   ],
   "ARA": [],
-  "12": [
+  "AVE": [
     {
       "id": 39584,
       "name": "Aubin",
@@ -5070,7 +5070,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "67": [
+  "BAS": [
     {
       "id": 39249,
       "name": "Achenheim",
@@ -6332,7 +6332,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "13": [
+  "BOU": [
     {
       "id": 39294,
       "name": "Aix-en-Provence",
@@ -7820,7 +7820,7 @@
   ],
   "BFC": [],
   "BRE": [],
-  "14": [
+  "CAL": [
     {
       "id": 39241,
       "name": "Ablon",
@@ -8788,7 +8788,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "15": [
+  "CAN": [
     {
       "id": 39320,
       "name": "Allanche",
@@ -9008,7 +9008,7 @@
     }
   ],
   "CVL": [],
-  "16": [
+  "CHA": [
     {
       "id": 39271,
       "name": "Aigre",
@@ -9535,7 +9535,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "17": [
+  "CM": [
     {
       "id": 161655,
       "name": "Aigrefeuille-d'Aunis",
@@ -10405,7 +10405,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "18": [
+  "CHE": [
     {
       "id": 39478,
       "name": "Argent-sur-Sauldre",
@@ -10807,7 +10807,7 @@
     }
   ],
   "CP": [],
-  "19": [
+  "COR": [
     {
       "id": 39321,
       "name": "Allassac",
@@ -12002,7 +12002,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "21": [
+  "COT": [
     {
       "id": 39267,
       "name": "Ahuy",
@@ -12431,7 +12431,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "22": [
+  "CDA": [
     {
       "id": 161684,
       "name": "Beaussais-sur-Mer",
@@ -13567,7 +13567,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "23": [
+  "CRE": [
     {
       "id": 39266,
       "name": "Ahun",
@@ -13730,7 +13730,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "79": [
+  "DEU": [
     {
       "id": 39268,
       "name": "Aiffres",
@@ -14285,7 +14285,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "24": [
+  "DOR": [
     {
       "id": 39263,
       "name": "Agonac",
@@ -14875,7 +14875,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "25": [
+  "DOU": [
     {
       "id": 39452,
       "name": "Arbouans",
@@ -15507,7 +15507,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "26": [
+  "DRO": [
     {
       "id": 39316,
       "name": "Alixan",
@@ -16076,7 +16076,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "91": [
+  "ESS": [
     {
       "id": 39397,
       "name": "Angerville",
@@ -16953,7 +16953,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "27": [
+  "EUR": [
     {
       "id": 39255,
       "name": "Acquigny",
@@ -17718,7 +17718,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "28": [
+  "EEL": [
     {
       "id": 39244,
       "name": "Abondant",
@@ -18315,7 +18315,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "29": [
+  "FIN": [
     {
       "id": 39534,
       "name": "Arzano",
@@ -19549,10 +19549,10 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "973": [],
+  "FREGU": [],
   "PF": [],
   "TF": [],
-  "30": [
+  "GAR": [
     {
       "id": 39276,
       "name": "Aigues-Mortes",
@@ -20401,7 +20401,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "32": [
+  "GER": [
     {
       "id": 39577,
       "name": "Aubiet",
@@ -20613,7 +20613,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "33": [
+  "GIR": [
     {
       "id": 39248,
       "name": "Abzac",
@@ -22009,7 +22009,7 @@
     }
   ],
   "GES": [],
-  "971": [
+  "GUA": [
     {
       "id": 45943,
       "name": "Saint-François",
@@ -22018,7 +22018,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "68": [
+  "HAU": [
     {
       "id": 39312,
       "name": "Algolsheim",
@@ -24703,7 +24703,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "31": [
+  "HG": [
     {
       "id": 39548,
       "name": "Aspet",
@@ -25741,7 +25741,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "43": [
+  "HL": [
     {
       "id": 39333,
       "name": "Allègre",
@@ -26114,7 +26114,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "52": [
+  "HM": [
     {
       "id": 155592,
       "name": "Ageville",
@@ -29112,7 +29112,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "70": [
+  "HS": [
     {
       "id": 39281,
       "name": "Aillevillers-et-Lyaumont",
@@ -29408,7 +29408,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "74": [
+  "HAUS": [
     {
       "id": 39243,
       "name": "Abondance",
@@ -30404,7 +30404,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "87": [
+  "HV": [
     {
       "id": 39296,
       "name": "Aixe-sur-Vienne",
@@ -30868,7 +30868,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "05": [
+  "HA": [
     {
       "id": 40300,
       "name": "Briançon",
@@ -30996,7 +30996,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "65": [
+  "HP": [
     {
       "id": 39388,
       "name": "Andrest",
@@ -31251,7 +31251,7 @@
     }
   ],
   "HDF": [],
-  "92": [
+  "HAS": [
     {
       "id": 39435,
       "name": "Antony",
@@ -31519,7 +31519,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "34": [
+  "HER": [
     {
       "id": 39236,
       "name": "Abeilhan",
@@ -32558,7 +32558,7 @@
     }
   ],
   "IDF": [],
-  "35": [
+  "ILL": [
     {
       "id": 39254,
       "name": "Acigné",
@@ -33932,7 +33932,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "36": [
+  "IND": [
     {
       "id": 39279,
       "name": "Aigurande",
@@ -34242,7 +34242,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "37": [
+  "IEL": [
     {
       "id": 39237,
       "name": "Abilly",
@@ -34979,7 +34979,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "38": [
+  "ISE": [
     {
       "id": 39325,
       "name": "Allevard",
@@ -36612,7 +36612,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "39": [
+  "JUR": [
     {
       "id": 39449,
       "name": "Arbois",
@@ -36894,7 +36894,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "974": [
+  "REU": [
     {
       "id": 46192,
       "name": "Saint-Leu",
@@ -36903,7 +36903,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "40": [
+  "LAN": [
     {
       "id": 161657,
       "name": "Aire-sur-l'Adour",
@@ -37458,7 +37458,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "41": [
+  "LOI": [
     {
       "id": 39697,
       "name": "Azé",
@@ -38048,7 +38048,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "42": [
+  "LOIR": [
     {
       "id": 39350,
       "name": "Ambierle",
@@ -38841,7 +38841,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "44": [
+  "LA": [
     {
       "id": 39234,
       "name": "Abbaretz",
@@ -40327,7 +40327,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "45": [
+  "LOIRE": [
     {
       "id": 39365,
       "name": "Amilly",
@@ -41148,7 +41148,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "46": [
+  "LOT": [
     {
       "id": 39707,
       "name": "Bagnac-sur-Célé",
@@ -41318,7 +41318,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "47": [
+  "LEG": [
     {
       "id": 39258,
       "name": "Agen",
@@ -41705,7 +41705,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "48": [
+  "LOZ": [
     {
       "id": 155440,
       "name": "Albaret-le-Comtal",
@@ -42792,7 +42792,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "49": [
+  "MAI": [
     {
       "id": 39330,
       "name": "Allonnes",
@@ -44075,7 +44075,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "50": [
+  "MAN": [
     {
       "id": 39259,
       "name": "Agneaux",
@@ -44833,7 +44833,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "51": [
+  "MAR": [
     {
       "id": 39674,
       "name": "Avize",
@@ -45283,8 +45283,8 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "972": [],
-  "53": [
+  "MART": [],
+  "MAY": [
     {
       "id": 39265,
       "name": "Ahuillé",
@@ -45720,9 +45720,9 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "976": [],
+  "MAYO": [],
   "69M": [],
-  "54": [
+  "MEU": [
     {
       "id": 39517,
       "name": "Art-sur-Meurthe",
@@ -46536,7 +46536,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "55": [
+  "MEUS": [
     {
       "id": 156516,
       "name": "Abainville",
@@ -50038,7 +50038,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "56": [
+  "MOR": [
     {
       "id": 39318,
       "name": "Allaire",
@@ -51188,7 +51188,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "57": [
+  "MOS": [
     {
       "id": 39245,
       "name": "Abreschviller",
@@ -52359,7 +52359,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "58": [
+  "NIE": [
     {
       "id": 40642,
       "name": "Cercy-la-Tour",
@@ -52655,7 +52655,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "59": [
+  "NORD": [
     {
       "id": 39247,
       "name": "Abscon",
@@ -55119,7 +55119,7 @@
     }
   ],
   "OCC": [],
-  "60": [
+  "OIS": [
     {
       "id": 39260,
       "name": "Agnetz",
@@ -56220,7 +56220,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "61": [
+  "ORN": [
     {
       "id": 39310,
       "name": "Alençon",
@@ -56686,7 +56686,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "62": [
+  "PAS": [
     {
       "id": 39238,
       "name": "Ablain-Saint-Nazaire",
@@ -58363,7 +58363,7 @@
   ],
   "PDL": [],
   "PAC": [],
-  "63": [
+  "PUY": [
     {
       "id": 39275,
       "name": "Aigueperse",
@@ -59079,7 +59079,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "64": [
+  "PYR": [
     {
       "id": 39264,
       "name": "Ahetze",
@@ -59767,7 +59767,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "66": [
+  "PO": [
     {
       "id": 39342,
       "name": "Alénya",
@@ -60357,7 +60357,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "69": [
+  "RHO": [
     {
       "id": 39307,
       "name": "Albigny-sur-Saône",
@@ -61482,7 +61482,7 @@
   "PM": [],
   "BL": [],
   "MF": [],
-  "71": [
+  "SAO": [
     {
       "id": 39639,
       "name": "Autun",
@@ -62100,7 +62100,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "72": [
+  "SAR": [
     {
       "id": 39270,
       "name": "Aigné",
@@ -62851,7 +62851,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "73": [
+  "SAV": [
     {
       "id": 39273,
       "name": "Aigueblanche",
@@ -63448,7 +63448,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "77": [
+  "SEI": [
     {
       "id": 39253,
       "name": "Achères-la-Forêt",
@@ -64934,7 +64934,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "76": [
+  "SM": [
     {
       "id": 39363,
       "name": "Amfreville-la-Mi-Voie",
@@ -66168,7 +66168,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "93": [
+  "SD": [
     {
       "id": 39574,
       "name": "Aubervilliers",
@@ -66436,7 +66436,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "80": [
+  "SOM": [
     {
       "id": 39235,
       "name": "Abbeville",
@@ -67019,7 +67019,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "81": [
+  "TAR": [
     {
       "id": 39274,
       "name": "Aiguefonde",
@@ -67476,7 +67476,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "82": [
+  "TEG": [
     {
       "id": 39306,
       "name": "Albias",
@@ -67758,7 +67758,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "90": [
+  "TER": [
     {
       "id": 39379,
       "name": "Andelnans",
@@ -67928,7 +67928,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "95": [
+  "VAL": [
     {
       "id": 39239,
       "name": "Ableiges",
@@ -68623,7 +68623,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "94": [
+  "VM": [
     {
       "id": 39242,
       "name": "Ablon-sur-Seine",
@@ -68954,7 +68954,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "83": [
+  "VAR": [
     {
       "id": 39622,
       "name": "Aups",
@@ -69712,7 +69712,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "84": [
+  "VAU": [
     {
       "id": 39337,
       "name": "Althen-des-Paluds",
@@ -70274,7 +70274,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "85": [
+  "VEN": [
     {
       "id": 39297,
       "name": "Aizenay",
@@ -71396,7 +71396,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "86": [
+  "VIE": [
     {
       "id": 39437,
       "name": "Antran",
@@ -71979,7 +71979,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "88": [
+  "VOS": [
     {
       "id": 39426,
       "name": "Anould",
@@ -72535,7 +72535,7 @@
     }
   ],
   "WF": [],
-  "89": [
+  "YON": [
     {
       "id": 39280,
       "name": "Aillant-sur-Tholon",
@@ -72999,7 +72999,7 @@
       "timezone": "Europe/Paris"
     }
   ],
-  "78": [
+  "YVE": [
     {
       "id": 39240,
       "name": "Ablis",

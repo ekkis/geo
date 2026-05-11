@@ -1,5 +1,5 @@
 {
-  "30": [
+  "GREPO": [
     {
       "id": 85788,
       "name": "Babiak",
@@ -1660,7 +1660,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "26": [
+  "HOL": [
     {
       "id": 85819,
       "name": "Baćkowice",
@@ -2404,7 +2404,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "04": [
+  "KUY": [
     {
       "id": 85781,
       "name": "Aleksandrów Kujawski",
@@ -3281,7 +3281,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "12": [
+  "LESPO": [
     {
       "id": 85783,
       "name": "Alwernia",
@@ -5803,7 +5803,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "02": [
+  "LOW": [
     {
       "id": 85810,
       "name": "Bardo",
@@ -7303,7 +7303,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "06": [
+  "LUB": [
     {
       "id": 85775,
       "name": "Abramów",
@@ -8593,7 +8593,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "08": [
+  "LUB1": [
     {
       "id": 85791,
       "name": "Babimost",
@@ -9190,7 +9190,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "10": [
+  "ODZ": [
     {
       "id": 85780,
       "name": "Aleksandrów",
@@ -10277,7 +10277,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "14": [
+  "MAZ": [
     {
       "id": 85793,
       "name": "Baboszewo",
@@ -12561,7 +12561,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "20": [
+  "POD": [
     {
       "id": 85787,
       "name": "Augustów",
@@ -13032,7 +13032,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "22": [
+  "POM": [
     {
       "id": 85800,
       "name": "Banino",
@@ -13944,7 +13944,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "24": [
+  "SIL": [
     {
       "id": 86009,
       "name": "Bąków",
@@ -16011,7 +16011,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "18": [
+  "SUB": [
     {
       "id": 85777,
       "name": "Adamówka",
@@ -17749,7 +17749,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "16": [
+  "UPP": [
     {
       "id": 85792,
       "name": "Baborów",
@@ -18402,7 +18402,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "28": [
+  "WAR": [
     {
       "id": 85799,
       "name": "Banie Mazurskie",
@@ -18985,7 +18985,7 @@
       "timezone": "Europe/Warsaw"
     }
   ],
-  "32": [
+  "WES": [
     {
       "id": 85798,
       "name": "Banie",

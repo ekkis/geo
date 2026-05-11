@@ -1,5 +1,5 @@
 {
-  "01": [
+  "BER": [
     {
       "id": 153,
       "name": "Banaj",
@@ -99,7 +99,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "09": [
+  "DIB": [
     {
       "id": 155,
       "name": "Bashkia Bulqizë",
@@ -192,7 +192,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "02": [
+  "DUR": [
     {
       "id": 159,
       "name": "Bashkia Durrës",
@@ -264,7 +264,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "03": [
+  "ELB": [
     {
       "id": 157048,
       "name": "Gramsh",
@@ -287,7 +287,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "04": [
+  "FIE": [
     {
       "id": 152,
       "name": "Ballsh",
@@ -387,7 +387,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "05": [
+  "GJI": [
     {
       "id": 164,
       "name": "Bashkia Kelcyrë",
@@ -487,7 +487,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "06": [
+  "KOR": [
     {
       "id": 156,
       "name": "Bashkia Devoll",
@@ -615,7 +615,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "07": [
+  "KUK": [
     {
       "id": 151,
       "name": "Bajram Curri",
@@ -659,7 +659,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "08": [
+  "LEZ": [
     {
       "id": 169,
       "name": "Bashkia Kurbin",
@@ -759,7 +759,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "10": [
+  "SHK": [
     {
       "id": 175,
       "name": "Bashkia Malësi e Madhe",
@@ -845,7 +845,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "11": [
+  "TIR": [
     {
       "id": 163,
       "name": "Bashkia Kavajë",
@@ -924,7 +924,7 @@
       "timezone": "Europe/Tirane"
     }
   ],
-  "12": [
+  "VLO": [
     {
       "id": 162,
       "name": "Bashkia Himarë",

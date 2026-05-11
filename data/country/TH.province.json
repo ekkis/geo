@@ -1,236 +1,236 @@
 {
-  "37": {
+  "AMNATCHA": {
     "name": "Amnat Charoen"
   },
-  "15": {
+  "ANGTHONG": {
     "name": "Ang Thong"
   },
-  "10": {
+  "BANGKOK": {
     "name": "Bangkok"
   },
-  "38": {
+  "BUENGKAN": {
     "name": "Bueng Kan"
   },
-  "31": {
+  "BUR": {
     "name": "Buri Ram"
   },
-  "24": {
+  "CHA": {
     "name": "Chachoengsao"
   },
-  "18": {
+  "CHAINAT": {
     "name": "Chai Nat"
   },
-  "36": {
+  "CHAIYAPH": {
     "name": "Chaiyaphum"
   },
-  "22": {
+  "CHANTHAB": {
     "name": "Chanthaburi"
   },
-  "50": {
+  "CHIANGMA": {
     "name": "Chiang Mai"
   },
-  "57": {
+  "CHIANGRA": {
     "name": "Chiang Rai"
   },
-  "20": {
+  "CHO": {
     "name": "Chon Buri"
   },
-  "86": {
+  "CHUMPHON": {
     "name": "Chumphon"
   },
-  "46": {
+  "KALASIN": {
     "name": "Kalasin"
   },
-  "62": {
+  "KAMPHAEN": {
     "name": "Kamphaeng Phet"
   },
-  "71": {
+  "KANCHANA": {
     "name": "Kanchanaburi"
   },
-  "40": {
+  "KHONKAEN": {
     "name": "Khon Kaen"
   },
-  "81": {
+  "KRABI": {
     "name": "Krabi"
   },
-  "52": {
+  "LAMPANG": {
     "name": "Lampang"
   },
-  "51": {
+  "LAMPHUN": {
     "name": "Lamphun"
   },
-  "42": {
+  "LOEI": {
     "name": "Loei"
   },
-  "16": {
+  "LOP": {
     "name": "Lop Buri"
   },
-  "58": {
+  "MAEHONGS": {
     "name": "Mae Hong Son"
   },
-  "44": {
+  "MAHASARA": {
     "name": "Maha Sarakham"
   },
-  "49": {
+  "MUKDAHAN": {
     "name": "Mukdahan"
   },
-  "26": {
+  "NAKHONNA": {
     "name": "Nakhon Nayok"
   },
-  "73": {
+  "NAKHONPA": {
     "name": "Nakhon Pathom"
   },
-  "48": {
+  "NAKHONPH": {
     "name": "Nakhon Phanom"
   },
-  "30": {
+  "NAKHONRA": {
     "name": "Nakhon Ratchasima"
   },
-  "60": {
+  "NAKHONSA": {
     "name": "Nakhon Sawan"
   },
-  "80": {
+  "NAKHONSI": {
     "name": "Nakhon Si Thammarat"
   },
-  "55": {
+  "NAN": {
     "name": "Nan"
   },
-  "96": {
+  "NARATHIW": {
     "name": "Narathiwat"
   },
-  "39": {
+  "NONGBUAL": {
     "name": "Nong Bua Lam Phu"
   },
-  "43": {
+  "NONGKHAI": {
     "name": "Nong Khai"
   },
-  "12": {
+  "NONTHABU": {
     "name": "Nonthaburi"
   },
-  "13": {
+  "PATHUMTH": {
     "name": "Pathum Thani"
   },
-  "94": {
+  "PATTANI": {
     "name": "Pattani"
   },
   "S": {
     "name": "Pattaya"
   },
-  "82": {
+  "PHA": {
     "name": "Phangnga"
   },
-  "93": {
+  "PHATTHAL": {
     "name": "Phatthalung"
   },
-  "56": {
+  "PHAYAO": {
     "name": "Phayao"
   },
-  "67": {
+  "PHE": {
     "name": "Phetchabun"
   },
-  "76": {
+  "PHETCHAB": {
     "name": "Phetchaburi"
   },
-  "66": {
+  "PHICHIT": {
     "name": "Phichit"
   },
-  "65": {
+  "PHITSANU": {
     "name": "Phitsanulok"
   },
-  "14": {
+  "PHRANAKH": {
     "name": "Phra Nakhon Si Ayutthaya"
   },
-  "54": {
+  "PHRAE": {
     "name": "Phrae"
   },
-  "83": {
+  "PHUKET": {
     "name": "Phuket"
   },
-  "25": {
+  "PRACHINB": {
     "name": "Prachin Buri"
   },
-  "77": {
+  "PRACHUAP": {
     "name": "Prachuap Khiri Khan"
   },
-  "85": {
+  "RANONG": {
     "name": "Ranong"
   },
-  "70": {
+  "RATCHABU": {
     "name": "Ratchaburi"
   },
-  "21": {
+  "RAYONG": {
     "name": "Rayong"
   },
-  "45": {
+  "ROIET": {
     "name": "Roi Et"
   },
-  "27": {
+  "SAKAEO": {
     "name": "Sa Kaeo"
   },
-  "47": {
+  "SAKONNAK": {
     "name": "Sakon Nakhon"
   },
-  "11": {
+  "SAMUTPRA": {
     "name": "Samut Prakan"
   },
-  "74": {
+  "SAMUTSAK": {
     "name": "Samut Sakhon"
   },
-  "75": {
+  "SAMUTSON": {
     "name": "Samut Songkhram"
   },
-  "19": {
+  "SARABURI": {
     "name": "Saraburi"
   },
-  "91": {
+  "SATUN": {
     "name": "Satun"
   },
-  "33": {
+  "SIX": {
     "name": "Si Sa Ket"
   },
-  "17": {
+  "SINGBURI": {
     "name": "Sing Buri"
   },
-  "90": {
+  "SONGKHLA": {
     "name": "Songkhla"
   },
-  "64": {
+  "SUKHOTHA": {
     "name": "Sukhothai"
   },
-  "72": {
+  "SUPHANBU": {
     "name": "Suphan Buri"
   },
-  "84": {
+  "SURATTHA": {
     "name": "Surat Thani"
   },
-  "32": {
+  "SURIN": {
     "name": "Surin"
   },
-  "63": {
+  "TAK": {
     "name": "Tak"
   },
-  "92": {
+  "TRANG": {
     "name": "Trang"
   },
-  "23": {
+  "TRAT": {
     "name": "Trat"
   },
-  "34": {
+  "UBONRATC": {
     "name": "Ubon Ratchathani"
   },
-  "41": {
+  "UDONTHAN": {
     "name": "Udon Thani"
   },
-  "61": {
+  "UTHAITHA": {
     "name": "Uthai Thani"
   },
-  "53": {
+  "UTTARADI": {
     "name": "Uttaradit"
   },
-  "95": {
+  "YALA": {
     "name": "Yala"
   },
-  "35": {
+  "YASOTHON": {
     "name": "Yasothon"
   }
 }

@@ -1,638 +1,638 @@
 {
-  "001": {
+  "AJD": {
     "name": "Ajdovščina"
   },
-  "213": {
+  "ANK": {
     "name": "Ankaran"
   },
-  "195": {
+  "APA": {
     "name": "Apače"
   },
-  "002": {
+  "BEL": {
     "name": "Beltinci"
   },
-  "148": {
+  "BEN": {
     "name": "Benedikt"
   },
-  "149": {
+  "BIS": {
     "name": "Bistrica ob Sotli"
   },
-  "003": {
+  "BLE": {
     "name": "Bled"
   },
-  "150": {
+  "BLO": {
     "name": "Bloke"
   },
-  "004": {
+  "BOH": {
     "name": "Bohinj"
   },
-  "005": {
+  "BOR": {
     "name": "Borovnica"
   },
-  "006": {
+  "BOV": {
     "name": "Bovec"
   },
-  "151": {
+  "BRA": {
     "name": "Braslovče"
   },
-  "007": {
+  "BRD": {
     "name": "Brda"
   },
-  "009": {
+  "BRE": {
     "name": "Brežice"
   },
-  "008": {
+  "BREZ": {
     "name": "Brezovica"
   },
-  "152": {
+  "CAN": {
     "name": "Cankova"
   },
-  "011": {
+  "CEL": {
     "name": "Celje"
   },
-  "012": {
+  "CER": {
     "name": "Cerklje na Gorenjskem"
   },
-  "013": {
+  "CERK": {
     "name": "Cerknica"
   },
-  "014": {
+  "CERKN": {
     "name": "Cerkno"
   },
-  "153": {
+  "CERKV": {
     "name": "Cerkvenjak"
   },
-  "196": {
+  "CIR": {
     "name": "Cirkulane"
   },
-  "015": {
+  "CRE": {
     "name": "Črenšovci"
   },
-  "016": {
+  "CRN": {
     "name": "Črna na Koroškem"
   },
-  "017": {
+  "CRNO": {
     "name": "Črnomelj"
   },
-  "018": {
+  "DES": {
     "name": "Destrnik"
   },
-  "019": {
+  "DIV": {
     "name": "Divača"
   },
-  "154": {
+  "DOB": {
     "name": "Dobje"
   },
-  "020": {
+  "DOBR": {
     "name": "Dobrepolje"
   },
-  "155": {
+  "DOBRN": {
     "name": "Dobrna"
   },
-  "021": {
+  "DG": {
     "name": "Dobrova–Polhov Gradec"
   },
-  "156": {
+  "DOBRO": {
     "name": "Dobrovnik"
   },
-  "022": {
+  "DOL": {
     "name": "Dol pri Ljubljani"
   },
-  "157": {
+  "DT": {
     "name": "Dolenjske Toplice"
   },
-  "023": {
+  "DOM": {
     "name": "Domžale"
   },
-  "024": {
+  "DOR": {
     "name": "Dornava"
   },
-  "025": {
+  "DRA": {
     "name": "Dravograd"
   },
-  "026": {
+  "DUP": {
     "name": "Duplek"
   },
-  "027": {
+  "GOR": {
     "name": "Gorenja Vas–Poljane"
   },
-  "028": {
+  "GORI": {
     "name": "Gorišnica"
   },
-  "207": {
+  "GORJ": {
     "name": "Gorje"
   },
-  "029": {
+  "GR": {
     "name": "Gornja Radgona"
   },
-  "030": {
+  "GG": {
     "name": "Gornji Grad"
   },
-  "031": {
+  "GP": {
     "name": "Gornji Petrovci"
   },
-  "158": {
+  "GRA": {
     "name": "Grad"
   },
-  "032": {
+  "GRO": {
     "name": "Grosuplje"
   },
-  "159": {
+  "HAJ": {
     "name": "Hajdina"
   },
-  "160": {
+  "HOC": {
     "name": "Hoče–Slivnica"
   },
-  "161": {
+  "HOD": {
     "name": "Hodoš"
   },
-  "162": {
+  "HOR": {
     "name": "Horjul"
   },
-  "034": {
+  "HRA": {
     "name": "Hrastnik"
   },
-  "035": {
+  "HRP": {
     "name": "Hrpelje–Kozina"
   },
-  "036": {
+  "IDR": {
     "name": "Idrija"
   },
-  "037": {
+  "IGX": {
     "name": "Ig"
   },
-  "038": {
+  "ILI": {
     "name": "Ilirska Bistrica"
   },
-  "039": {
+  "IVA": {
     "name": "Ivančna Gorica"
   },
-  "040": {
+  "IZO": {
     "name": "Izola"
   },
-  "041": {
+  "JES": {
     "name": "Jesenice"
   },
-  "163": {
+  "JEZ": {
     "name": "Jezersko"
   },
-  "042": {
+  "JUR": {
     "name": "Juršinci"
   },
-  "043": {
+  "KAM": {
     "name": "Kamnik"
   },
-  "044": {
+  "KAN": {
     "name": "Kanal ob Soči"
   },
-  "045": {
+  "KID": {
     "name": "Kidričevo"
   },
-  "046": {
+  "KOB": {
     "name": "Kobarid"
   },
-  "047": {
+  "KOBI": {
     "name": "Kobilje"
   },
-  "048": {
+  "KOC": {
     "name": "Kočevje"
   },
-  "049": {
+  "KOM": {
     "name": "Komen"
   },
-  "164": {
+  "KOME": {
     "name": "Komenda"
   },
-  "050": {
+  "KOP": {
     "name": "Koper"
   },
-  "197": {
+  "KOS": {
     "name": "Kostanjevica na Krki"
   },
-  "165": {
+  "KOST": {
     "name": "Kostel"
   },
-  "051": {
+  "KOZ": {
     "name": "Kozje"
   },
-  "052": {
+  "KRA": {
     "name": "Kranj"
   },
-  "053": {
+  "KG": {
     "name": "Kranjska Gora"
   },
-  "166": {
+  "KRI": {
     "name": "Križevci"
   },
-  "054": {
+  "KRS": {
     "name": "Krško"
   },
-  "055": {
+  "KUN": {
     "name": "Kungota"
   },
-  "056": {
+  "KUZ": {
     "name": "Kuzma"
   },
-  "057": {
+  "LAS": {
     "name": "Laško"
   },
-  "058": {
+  "LEN": {
     "name": "Lenart"
   },
-  "059": {
+  "LEND": {
     "name": "Lendava"
   },
-  "060": {
+  "LIT": {
     "name": "Litija"
   },
-  "061": {
+  "LJU": {
     "name": "Ljubljana"
   },
-  "062": {
+  "LJUB": {
     "name": "Ljubno"
   },
-  "063": {
+  "LJUT": {
     "name": "Ljutomer"
   },
-  "208": {
+  "LOG": {
     "name": "Log–Dragomer"
   },
-  "064": {
+  "LOGA": {
     "name": "Logatec"
   },
-  "065": {
+  "LOS": {
     "name": "Loška Dolina"
   },
-  "066": {
+  "LP": {
     "name": "Loški Potok"
   },
-  "167": {
+  "LOV": {
     "name": "Lovrenc na Pohorju"
   },
-  "067": {
+  "LUC": {
     "name": "Luče"
   },
-  "068": {
+  "LUK": {
     "name": "Lukovica"
   },
-  "069": {
+  "MAJ": {
     "name": "Majšperk"
   },
-  "198": {
+  "MAK": {
     "name": "Makole"
   },
-  "070": {
+  "MAR": {
     "name": "Maribor"
   },
-  "168": {
+  "MARK": {
     "name": "Markovci"
   },
-  "071": {
+  "MED": {
     "name": "Medvode"
   },
-  "072": {
+  "MEN": {
     "name": "Mengeš"
   },
-  "073": {
+  "MET": {
     "name": "Metlika"
   },
-  "074": {
+  "MEZ": {
     "name": "Mežica"
   },
-  "169": {
+  "MIK": {
     "name": "Miklavž na Dravskem Polju"
   },
-  "075": {
+  "MIR": {
     "name": "Miren–Kostanjevica"
   },
-  "212": {
+  "MIRN": {
     "name": "Mirna"
   },
-  "170": {
+  "MP": {
     "name": "Mirna Peč"
   },
-  "076": {
+  "MIS": {
     "name": "Mislinja"
   },
-  "199": {
+  "MOK": {
     "name": "Mokronog–Trebelno"
   },
-  "077": {
+  "MOR": {
     "name": "Moravče"
   },
-  "078": {
+  "MT": {
     "name": "Moravske Toplice"
   },
-  "079": {
+  "MOZ": {
     "name": "Mozirje"
   },
-  "080": {
+  "MUR": {
     "name": "Murska Sobota"
   },
-  "081": {
+  "MUT": {
     "name": "Muta"
   },
-  "082": {
+  "NAK": {
     "name": "Naklo"
   },
-  "083": {
+  "NAZ": {
     "name": "Nazarje"
   },
-  "084": {
+  "NOV": {
     "name": "Nova Gorica"
   },
-  "085": {
+  "NM": {
     "name": "Novo Mesto"
   },
-  "086": {
+  "ODR": {
     "name": "Odranci"
   },
-  "171": {
+  "OPL": {
     "name": "Oplotnica"
   },
-  "087": {
+  "ORM": {
     "name": "Ormož"
   },
-  "088": {
+  "OSI": {
     "name": "Osilnica"
   },
-  "089": {
+  "PES": {
     "name": "Pesnica"
   },
-  "090": {
+  "PIR": {
     "name": "Piran"
   },
-  "091": {
+  "PIV": {
     "name": "Pivka"
   },
-  "092": {
+  "POD": {
     "name": "Podčetrtek"
   },
-  "172": {
+  "PODL": {
     "name": "Podlehnik"
   },
-  "093": {
+  "PODV": {
     "name": "Podvelka"
   },
-  "200": {
+  "POL": {
     "name": "Poljčane"
   },
-  "173": {
+  "POLZ": {
     "name": "Polzela"
   },
-  "094": {
+  "POS": {
     "name": "Postojna"
   },
-  "174": {
+  "PRE": {
     "name": "Prebold"
   },
-  "095": {
+  "PRED": {
     "name": "Preddvor"
   },
-  "175": {
+  "PREV": {
     "name": "Prevalje"
   },
-  "096": {
+  "PTU": {
     "name": "Ptuj"
   },
-  "097": {
+  "PUC": {
     "name": "Puconci"
   },
-  "098": {
+  "RAC": {
     "name": "Rače–Fram"
   },
-  "099": {
+  "RAD": {
     "name": "Radeče"
   },
-  "100": {
+  "RADE": {
     "name": "Radenci"
   },
-  "101": {
+  "ROD": {
     "name": "Radlje ob Dravi"
   },
-  "102": {
+  "RADO": {
     "name": "Radovljica"
   },
-  "103": {
+  "RAV": {
     "name": "Ravne na Koroškem"
   },
-  "176": {
+  "RAZ": {
     "name": "Razkrižje"
   },
-  "209": {
+  "REC": {
     "name": "Rečica ob Savinji"
   },
-  "201": {
+  "REN": {
     "name": "Renče–Vogrsko"
   },
-  "104": {
+  "RIB": {
     "name": "Ribnica"
   },
-  "177": {
+  "RNP": {
     "name": "Ribnica na Pohorju"
   },
-  "106": {
+  "ROG": {
     "name": "Rogaška Slatina"
   },
-  "105": {
+  "ROGA": {
     "name": "Rogašovci"
   },
-  "107": {
+  "ROGAT": {
     "name": "Rogatec"
   },
-  "108": {
+  "RUS": {
     "name": "Ruše"
   },
-  "033": {
+  "SAL": {
     "name": "Šalovci"
   },
-  "178": {
+  "SEL": {
     "name": "Selnica ob Dravi"
   },
-  "109": {
+  "SEM": {
     "name": "Semič"
   },
-  "183": {
+  "SEMP": {
     "name": "Šempeter–Vrtojba"
   },
-  "117": {
+  "SEN": {
     "name": "Šenčur"
   },
-  "118": {
+  "SENT": {
     "name": "Šentilj"
   },
-  "119": {
+  "SENTJ": {
     "name": "Šentjernej"
   },
-  "120": {
+  "SENTJU": {
     "name": "Šentjur"
   },
-  "211": {
+  "SENTR": {
     "name": "Šentrupert"
   },
-  "110": {
+  "SEV": {
     "name": "Sevnica"
   },
-  "111": {
+  "SEZ": {
     "name": "Sežana"
   },
-  "121": {
+  "SKO": {
     "name": "Škocjan"
   },
-  "122": {
+  "SL": {
     "name": "Škofja Loka"
   },
-  "123": {
+  "SKOF": {
     "name": "Škofljica"
   },
-  "112": {
+  "SLO": {
     "name": "Slovenj Gradec"
   },
-  "113": {
+  "SB": {
     "name": "Slovenska Bistrica"
   },
-  "114": {
+  "SK": {
     "name": "Slovenske Konjice"
   },
-  "124": {
+  "SMA": {
     "name": "Šmarje pri Jelšah"
   },
-  "206": {
+  "ST": {
     "name": "Šmarješke Toplice"
   },
-  "125": {
+  "SOP": {
     "name": "Šmartno ob Paki"
   },
-  "194": {
+  "SPL": {
     "name": "Šmartno pri Litiji"
   },
-  "179": {
+  "SOD": {
     "name": "Sodražica"
   },
-  "180": {
+  "SOL": {
     "name": "Solčava"
   },
-  "126": {
+  "SOS": {
     "name": "Šoštanj"
   },
-  "202": {
+  "SRE": {
     "name": "Središče ob Dravi"
   },
-  "115": {
+  "STA": {
     "name": "Starše"
   },
-  "127": {
+  "STO": {
     "name": "Štore"
   },
-  "203": {
+  "STR": {
     "name": "Straža"
   },
-  "181": {
+  "SVE": {
     "name": "Sveta Ana"
   },
-  "204": {
+  "STVSG": {
     "name": "Sveta Trojica v Slovenskih Goricah"
   },
-  "182": {
+  "SAVSG": {
     "name": "Sveti Andraž v Slovenskih Goricah"
   },
-  "116": {
+  "SJOS": {
     "name": "Sveti Jurij ob Ščavnici"
   },
-  "210": {
+  "SJVSG": {
     "name": "Sveti Jurij v Slovenskih Goricah"
   },
-  "205": {
+  "SVET": {
     "name": "Sveti Tomaž"
   },
-  "184": {
+  "TAB": {
     "name": "Tabor"
   },
-  "010": {
+  "TIS": {
     "name": "Tišina"
   },
-  "128": {
+  "TOL": {
     "name": "Tolmin"
   },
-  "129": {
+  "TRB": {
     "name": "Trbovlje"
   },
-  "130": {
+  "TRE": {
     "name": "Trebnje"
   },
-  "185": {
+  "TRN": {
     "name": "Trnovska Vas"
   },
-  "131": {
+  "TRZ": {
     "name": "Tržič"
   },
-  "186": {
+  "TRZI": {
     "name": "Trzin"
   },
-  "132": {
+  "TUR": {
     "name": "Turnišče"
   },
-  "133": {
+  "VEL": {
     "name": "Velenje"
   },
-  "187": {
+  "VP": {
     "name": "Velika Polana"
   },
-  "134": {
+  "VL": {
     "name": "Velike Lašče"
   },
-  "188": {
+  "VER": {
     "name": "Veržej"
   },
-  "135": {
+  "VID": {
     "name": "Videm"
   },
-  "136": {
+  "VIP": {
     "name": "Vipava"
   },
-  "137": {
+  "VIT": {
     "name": "Vitanje"
   },
-  "138": {
+  "VOD": {
     "name": "Vodice"
   },
-  "139": {
+  "VOJ": {
     "name": "Vojnik"
   },
-  "189": {
+  "VRA": {
     "name": "Vransko"
   },
-  "140": {
+  "VRH": {
     "name": "Vrhnika"
   },
-  "141": {
+  "VUZ": {
     "name": "Vuzenica"
   },
-  "142": {
+  "ZAG": {
     "name": "Zagorje ob Savi"
   },
-  "190": {
+  "ZAL": {
     "name": "Žalec"
   },
-  "143": {
+  "ZAV": {
     "name": "Zavrč"
   },
-  "146": {
+  "ZEL": {
     "name": "Železniki"
   },
-  "191": {
+  "ZET": {
     "name": "Žetale"
   },
-  "147": {
+  "ZIR": {
     "name": "Žiri"
   },
-  "192": {
+  "ZIRO": {
     "name": "Žirovnica"
   },
-  "144": {
+  "ZRE": {
     "name": "Zreče"
   },
-  "193": {
+  "ZUZ": {
     "name": "Žužemberk"
   }
 }

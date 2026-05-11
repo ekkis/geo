@@ -1,77 +1,77 @@
 {
-  "01": {
+  "AND": {
     "name": "Andrijevica"
   },
-  "02": {
+  "BAR": {
     "name": "Bar"
   },
-  "03": {
+  "BER": {
     "name": "Berane"
   },
-  "04": {
+  "BIJPO": {
     "name": "Bijelo Polje"
   },
-  "05": {
+  "BUD": {
     "name": "Budva"
   },
-  "07": {
+  "DAN": {
     "name": "Danilovgrad"
   },
-  "22": {
+  "GUS": {
     "name": "Gusinje"
   },
-  "08": {
+  "HER": {
     "name": "Herceg-Novi"
   },
-  "09": {
+  "KOL": {
     "name": "Kolašin"
   },
-  "10": {
+  "KOT": {
     "name": "Kotor"
   },
-  "11": {
+  "MOJ": {
     "name": "Mojkovac"
   },
-  "12": {
+  "NIK": {
     "name": "Nikšić"
   },
-  "06": {
+  "OLD": {
     "name": "Old Royal Capital Cetinje"
   },
-  "23": {
+  "PET": {
     "name": "Petnjica"
   },
-  "13": {
+  "PLA": {
     "name": "Plav"
   },
-  "14": {
+  "PLJ": {
     "name": "Pljevlja"
   },
-  "15": {
+  "PLU": {
     "name": "Plužine"
   },
-  "16": {
+  "POD": {
     "name": "Podgorica"
   },
-  "17": {
+  "ROZ": {
     "name": "Rožaje"
   },
-  "18": {
+  "SAV": {
     "name": "Šavnik"
   },
-  "19": {
+  "TIV": {
     "name": "Tivat"
   },
-  "24": {
+  "TUZ": {
     "name": "Tuzi"
   },
-  "20": {
+  "ULC": {
     "name": "Ulcinj"
   },
-  "21": {
+  "ZAB": {
     "name": "Žabljak"
   },
-  "25": {
+  "ZET": {
     "name": "Zeta"
   }
 }

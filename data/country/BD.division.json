@@ -1,218 +1,218 @@
 {
-  "05": {
+  "BAG": {
     "name": "Bagerhat"
   },
-  "01": {
+  "BAN": {
     "name": "Bandarban"
   },
-  "02": {
+  "BAR": {
     "name": "Barguna"
   },
   "A": {
     "name": "Barisal "
   },
-  "06": {
+  "BARI": {
     "name": "Barishal"
   },
-  "07": {
+  "BHO": {
     "name": "Bhola"
   },
-  "03": {
+  "BOG": {
     "name": "Bogura"
   },
-  "04": {
+  "BRA": {
     "name": "Brahmanbaria"
   },
-  "09": {
+  "CHA": {
     "name": "Chandpur"
   },
-  "45": {
+  "CN": {
     "name": "Chapai Nawabganj"
   },
-  "10": {
+  "CHAT": {
     "name": "Chattogram"
   },
   "B": {
     "name": "Chittagong "
   },
-  "12": {
+  "CHU": {
     "name": "Chuadanga"
   },
-  "11": {
+  "COX": {
     "name": "Cox's Bazar"
   },
-  "08": {
+  "CUM": {
     "name": "Cumilla"
   },
-  "13": {
+  "DHA": {
     "name": "Dhaka"
   },
   "C": {
     "name": "Dhaka "
   },
-  "14": {
+  "DIN": {
     "name": "Dinajpur"
   },
-  "15": {
+  "FAR": {
     "name": "Faridpur"
   },
-  "16": {
+  "FEN": {
     "name": "Feni"
   },
-  "19": {
+  "GAI": {
     "name": "Gaibandha"
   },
-  "18": {
+  "GAZ": {
     "name": "Gazipur"
   },
-  "17": {
+  "GOP": {
     "name": "Gopalganj"
   },
-  "20": {
+  "HAB": {
     "name": "Habiganj"
   },
-  "21": {
+  "JAM": {
     "name": "Jamalpur"
   },
-  "22": {
+  "JAS": {
     "name": "Jashore"
   },
-  "25": {
+  "JHA": {
     "name": "Jhalakathi"
   },
-  "23": {
+  "JHE": {
     "name": "Jhenaidah"
   },
-  "24": {
+  "JOY": {
     "name": "Joypurhat"
   },
-  "29": {
+  "KHA": {
     "name": "Khagrachhari"
   },
-  "27": {
+  "KHU": {
     "name": "Khulna"
   },
   "D": {
     "name": "Khulna "
   },
-  "26": {
+  "KIS": {
     "name": "Kishoreganj"
   },
-  "28": {
+  "KUR": {
     "name": "Kurigram"
   },
-  "30": {
+  "KUS": {
     "name": "Kushtia"
   },
-  "31": {
+  "LAK": {
     "name": "Lakshmipur"
   },
-  "32": {
+  "LAL": {
     "name": "Lalmonirhat"
   },
-  "36": {
+  "MAD": {
     "name": "Madaripur"
   },
-  "37": {
+  "MAG": {
     "name": "Magura"
   },
-  "33": {
+  "MAN": {
     "name": "Manikganj"
   },
-  "39": {
+  "MEH": {
     "name": "Meherpur"
   },
-  "38": {
+  "MOU": {
     "name": "Moulvibazar"
   },
-  "35": {
+  "MUN": {
     "name": "Munshiganj"
   },
-  "34": {
+  "MYM": {
     "name": "Mymensingh"
   },
   "H": {
     "name": "Mymensingh "
   },
-  "48": {
+  "NAO": {
     "name": "Naogaon"
   },
-  "43": {
+  "NAR": {
     "name": "Narail"
   },
-  "40": {
+  "NARA": {
     "name": "Narayanganj"
   },
-  "42": {
+  "NARS": {
     "name": "Narsingdi"
   },
-  "44": {
+  "NAT": {
     "name": "Natore"
   },
-  "41": {
+  "NET": {
     "name": "Netrakona"
   },
-  "46": {
+  "NIL": {
     "name": "Nilphamari"
   },
-  "47": {
+  "NOA": {
     "name": "Noakhali"
   },
-  "49": {
+  "PAB": {
     "name": "Pabna"
   },
-  "52": {
+  "PAN": {
     "name": "Panchagarh"
   },
-  "51": {
+  "PAT": {
     "name": "Patuakhali"
   },
-  "50": {
+  "PIR": {
     "name": "Pirojpur"
   },
-  "53": {
+  "RAJ": {
     "name": "Rajbari"
   },
-  "54": {
+  "RAJS": {
     "name": "Rajshahi"
   },
   "E": {
     "name": "Rajshahi "
   },
-  "56": {
+  "RAN": {
     "name": "Rangamati"
   },
   "F": {
     "name": "Rangpur "
   },
-  "55": {
+  "RANG": {
     "name": "Rangpur"
   },
-  "58": {
+  "SAT": {
     "name": "Satkhira"
   },
-  "62": {
+  "SHA": {
     "name": "Shariatpur"
   },
-  "57": {
+  "SHE": {
     "name": "Sherpur"
   },
-  "59": {
+  "SIR": {
     "name": "Sirajganj"
   },
-  "61": {
+  "SUN": {
     "name": "Sunamganj"
   },
   "G": {
     "name": "Sylhet "
   },
-  "60": {
+  "SYL": {
     "name": "Sylhet"
   },
-  "63": {
+  "TAN": {
     "name": "Tangail"
   },
-  "64": {
+  "THA": {
     "name": "Thakurgaon"
   }
 }

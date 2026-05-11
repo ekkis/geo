@@ -1,5 +1,5 @@
 {
-  "01": [
+  "CHR": [
     {
       "id": 8452,
       "name": "Oistins",
@@ -8,7 +8,7 @@
       "timezone": "America/Barbados"
     }
   ],
-  "02": [
+  "AND": [
     {
       "id": 8450,
       "name": "Greenland",
@@ -17,8 +17,8 @@
       "timezone": "America/Barbados"
     }
   ],
-  "03": [],
-  "04": [
+  "GEO": [],
+  "JAM": [
     {
       "id": 8451,
       "name": "Holetown",
@@ -27,8 +27,8 @@
       "timezone": "America/Barbados"
     }
   ],
-  "05": [],
-  "06": [
+  "JOH": [],
+  "JOS": [
     {
       "id": 8447,
       "name": "Bathsheba",
@@ -37,8 +37,8 @@
       "timezone": "America/Barbados"
     }
   ],
-  "07": [],
-  "08": [
+  "LUC": [],
+  "MIC": [
     {
       "id": 8448,
       "name": "Bridgetown",
@@ -47,7 +47,7 @@
       "timezone": "America/Barbados"
     }
   ],
-  "09": [
+  "PET": [
     {
       "id": 8453,
       "name": "Speightstown",
@@ -56,7 +56,7 @@
       "timezone": "America/Barbados"
     }
   ],
-  "10": [
+  "PHI": [
     {
       "id": 8449,
       "name": "Crane",
@@ -65,5 +65,5 @@
       "timezone": "America/Barbados"
     }
   ],
-  "11": []
+  "THO": []
 }

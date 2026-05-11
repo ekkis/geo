@@ -1,5 +1,5 @@
 {
-  "01": [
+  "ANS": [
     {
       "id": 65965,
       "name": "Anse La Raye",
@@ -176,7 +176,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "12": [
+  "CAN": [
     {
       "id": 65962,
       "name": "Anse Cochon",
@@ -234,7 +234,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "02": [
+  "CAS": [
     {
       "id": 65956,
       "name": "Active Hill",
@@ -1069,7 +1069,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "03": [
+  "CHO": [
     {
       "id": 66000,
       "name": "Belle Vue",
@@ -1323,7 +1323,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "05": [
+  "DEN": [
     {
       "id": 65960,
       "name": "Anse Canot",
@@ -1598,7 +1598,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "06": [
+  "GRO": [
     {
       "id": 65993,
       "name": "Beausejour",
@@ -2167,7 +2167,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "07": [
+  "LAB": [
     {
       "id": 65959,
       "name": "Annus",
@@ -2379,7 +2379,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "08": [
+  "MIC": [
     {
       "id": 65964,
       "name": "Anse Ger",
@@ -2717,7 +2717,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "10": [
+  "SOU": [
     {
       "id": 65961,
       "name": "Anse Chastanet",
@@ -3062,7 +3062,7 @@
       "timezone": "America/St_Lucia"
     }
   ],
-  "11": [
+  "VIE": [
     {
       "id": 65971,
       "name": "Augier",

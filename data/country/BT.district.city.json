@@ -1,5 +1,5 @@
 {
-  "33": [
+  "BUM": [
     {
       "id": 15709,
       "name": "Jakar",
@@ -15,7 +15,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "12": [
+  "CHU": [
     {
       "id": 153825,
       "name": "Chapchha",
@@ -59,7 +59,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "22": [
+  "DAG": [
     {
       "id": 15705,
       "name": "Daga",
@@ -91,7 +91,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "13": [
+  "HAA": [
     {
       "id": 15708,
       "name": "Ha",
@@ -114,7 +114,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "44": [
+  "LHU": [
     {
       "id": 15710,
       "name": "Lhuentse",
@@ -123,7 +123,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "42": [
+  "MON": [
     {
       "id": 153832,
       "name": "Kengkhar",
@@ -146,7 +146,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "11": [
+  "PAR": [
     {
       "id": 15714,
       "name": "Paro",
@@ -169,7 +169,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "43": [
+  "PEM": [
     {
       "id": 153835,
       "name": "Nganglam",
@@ -185,7 +185,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "23": [
+  "PUN": [
     {
       "id": 15712,
       "name": "Pajo",
@@ -201,7 +201,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "45": [
+  "SAM": [
     {
       "id": 15718,
       "name": "Samdrup Jongkhar",
@@ -210,7 +210,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "14": [
+  "SAMT": [
     {
       "id": 153838,
       "name": "Denchukha",
@@ -240,7 +240,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "31": [
+  "SAR": [
     {
       "id": 153841,
       "name": "Bhurgaon",
@@ -270,7 +270,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "15": [
+  "THI": [
     {
       "id": 15722,
       "name": "Thimphu",
@@ -302,7 +302,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "41": [
+  "TRA": [
     {
       "id": 153850,
       "name": "Balfai",
@@ -360,7 +360,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "32": [
+  "TRO": [
     {
       "id": 153852,
       "name": "Trongsa",
@@ -369,7 +369,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "21": [
+  "TSI": [
     {
       "id": 153854,
       "name": "Beteni",
@@ -399,7 +399,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "24": [
+  "WAN": [
     {
       "id": 153856,
       "name": "Manikyangsa",
@@ -422,7 +422,7 @@
       "timezone": "Asia/Thimphu"
     }
   ],
-  "34": [
+  "ZHE": [
     {
       "id": 15713,
       "name": "Panbang",

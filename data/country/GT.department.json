@@ -1,68 +1,68 @@
 {
-  "16": {
+  "ALT": {
     "name": "Alta Verapaz "
   },
-  "15": {
+  "BAJ": {
     "name": "Baja Verapaz "
   },
-  "04": {
+  "CHI": {
     "name": "Chimaltenango "
   },
-  "20": {
+  "CHIQ": {
     "name": "Chiquimula "
   },
-  "02": {
+  "PRO": {
     "name": "El Progreso "
   },
-  "05": {
+  "ESC": {
     "name": "Escuintla "
   },
-  "01": {
+  "GUA": {
     "name": "Guatemala "
   },
-  "13": {
+  "HUE": {
     "name": "Huehuetenango "
   },
-  "18": {
+  "IZA": {
     "name": "Izabal "
   },
-  "21": {
+  "JAL": {
     "name": "Jalapa "
   },
-  "22": {
+  "JUT": {
     "name": "Jutiapa "
   },
-  "17": {
+  "PET": {
     "name": "Petén "
   },
-  "09": {
+  "QUE": {
     "name": "Quetzaltenango "
   },
-  "14": {
+  "QUI": {
     "name": "Quiché "
   },
-  "11": {
+  "RET": {
     "name": "Retalhuleu "
   },
-  "03": {
+  "SAC": {
     "name": "Sacatepéquez "
   },
-  "12": {
+  "MAR": {
     "name": "San Marcos "
   },
-  "06": {
+  "ROS": {
     "name": "Santa Rosa "
   },
-  "07": {
+  "SOL": {
     "name": "Sololá "
   },
-  "10": {
+  "SUC": {
     "name": "Suchitepéquez "
   },
-  "08": {
+  "TOT": {
     "name": "Totonicapán "
   },
-  "19": {
+  "ZAC": {
     "name": "Zacapa"
   }
 }

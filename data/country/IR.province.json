@@ -1,95 +1,95 @@
 {
-  "30": {
+  "ALB": {
     "name": "Alborz"
   },
-  "24": {
+  "ARD": {
     "name": "Ardabil"
   },
-  "18": {
+  "BUS": {
     "name": "Bushehr"
   },
-  "14": {
+  "CHA": {
     "name": "Chaharmahal and Bakhtiari"
   },
-  "03": {
+  "EAS": {
     "name": "East Azerbaijan"
   },
-  "07": {
+  "FAR": {
     "name": "Fars"
   },
-  "01": {
+  "GIL": {
     "name": "Gilan"
   },
-  "27": {
+  "GOL": {
     "name": "Golestan"
   },
-  "13": {
+  "HAM": {
     "name": "Hamadan"
   },
-  "22": {
+  "HOR": {
     "name": "Hormozgan"
   },
-  "16": {
+  "ILA": {
     "name": "Ilam"
   },
-  "10": {
+  "ISF": {
     "name": "Isfahan"
   },
-  "08": {
+  "KER": {
     "name": "Kerman"
   },
-  "05": {
+  "KERM": {
     "name": "Kermanshah"
   },
-  "06": {
+  "KHU": {
     "name": "Khuzestan"
   },
-  "17": {
+  "KOH": {
     "name": "Kohgiluyeh and Boyer-Ahmad"
   },
-  "12": {
+  "KUR": {
     "name": "Kurdistan"
   },
-  "15": {
+  "LOR": {
     "name": "Lorestan"
   },
-  "00": {
+  "MAR": {
     "name": "Markazi"
   },
-  "02": {
+  "MAZ": {
     "name": "Mazandaran"
   },
-  "28": {
+  "NOR": {
     "name": "North Khorasan"
   },
-  "26": {
+  "QAZ": {
     "name": "Qazvin"
   },
-  "25": {
+  "QOM": {
     "name": "Qom"
   },
-  "09": {
+  "RAZ": {
     "name": "Razavi Khorasan"
   },
-  "20": {
+  "SEM": {
     "name": "Semnan"
   },
-  "11": {
+  "SIS": {
     "name": "Sistan and Baluchestan"
   },
-  "29": {
+  "SOU": {
     "name": "South Khorasan"
   },
-  "23": {
+  "TEH": {
     "name": "Tehran"
   },
-  "04": {
+  "WES": {
     "name": "West Azarbaijan"
   },
-  "21": {
+  "YAZ": {
     "name": "Yazd"
   },
-  "19": {
+  "ZAN": {
     "name": "Zanjan"
   }
 }

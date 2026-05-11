@@ -1,5 +1,5 @@
 {
-  "1": [
+  "EST": [
     {
       "id": 48131,
       "name": "Cocobeach",
@@ -22,7 +22,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "2": [
+  "HAU": [
     {
       "id": 48133,
       "name": "Franceville",
@@ -59,7 +59,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "3": [
+  "MOY": [
     {
       "id": 48136,
       "name": "Lambaréné",
@@ -75,7 +75,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "4": [
+  "NGO": [
     {
       "id": 48132,
       "name": "Fougamou",
@@ -112,7 +112,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "5": [
+  "NYA": [
     {
       "id": 48141,
       "name": "Mayumba",
@@ -128,7 +128,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "6": [
+  "OGO": [
     {
       "id": 48130,
       "name": "Booué",
@@ -151,7 +151,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "7": [
+  "OL": [
     {
       "id": 48135,
       "name": "Koulamoutou",
@@ -167,7 +167,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "8": [
+  "OM": [
     {
       "id": 48134,
       "name": "Gamba",
@@ -190,7 +190,7 @@
       "timezone": "Africa/Libreville"
     }
   ],
-  "9": [
+  "WOL": [
     {
       "id": 48129,
       "name": "Bitam",

@@ -1,44 +1,44 @@
 {
-  "01": {
+  "AIW": {
     "name": "Aiwo"
   },
-  "02": {
+  "AN": {
     "name": "Anabar"
   },
-  "03": {
+  "ANE": {
     "name": "Anetan"
   },
-  "04": {
+  "ANI": {
     "name": "Anibare"
   },
-  "05": {
+  "BA": {
     "name": "Baiti"
   },
-  "06": {
+  "BO": {
     "name": "Boe"
   },
-  "07": {
+  "CI": {
     "name": "Buada"
   },
-  "08": {
+  "DE": {
     "name": "Denigomodu"
   },
-  "09": {
+  "EWA": {
     "name": "Ewa"
   },
-  "10": {
+  "IJU": {
     "name": "Ijuw"
   },
-  "11": {
+  "MA": {
     "name": "Meneng"
   },
-  "12": {
+  "NB": {
     "name": "Nibok"
   },
-  "13": {
+  "UA": {
     "name": "Uaboe"
   },
-  "14": {
+  "YAR": {
     "name": "Yaren"
   }
 }

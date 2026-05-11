@@ -1,5 +1,5 @@
 {
-  "02": [
+  "CEN": [
     {
       "id": 131332,
       "name": "Chibombo",
@@ -50,7 +50,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "08": [
+  "COP": [
     {
       "id": 131331,
       "name": "Chambishi",
@@ -129,7 +129,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "03": [
+  "EAS": [
     {
       "id": 131329,
       "name": "Chadiza",
@@ -166,7 +166,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "04": [
+  "LUA": [
     {
       "id": 131357,
       "name": "Kawambwa",
@@ -203,7 +203,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "09": [
+  "LUS": [
     {
       "id": 131340,
       "name": "Chongwe",
@@ -233,7 +233,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "10": [
+  "MUC": [
     {
       "id": 131330,
       "name": "Chama",
@@ -270,7 +270,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "05": [
+  "NOR": [
     {
       "id": 131353,
       "name": "Kaputa",
@@ -321,7 +321,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "06": [
+  "NORT": [
     {
       "id": 131344,
       "name": "Kabompo",
@@ -379,7 +379,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "07": [
+  "SOU": [
     {
       "id": 131339,
       "name": "Choma",
@@ -465,7 +465,7 @@
       "timezone": "Africa/Lusaka"
     }
   ],
-  "01": [
+  "WES": [
     {
       "id": 131347,
       "name": "Kalabo",

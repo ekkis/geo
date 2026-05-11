@@ -1,5 +1,5 @@
 {
-  "42": [
+  "AGD": [
     {
       "id": 79688,
       "name": "Åseral",
@@ -176,7 +176,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "32": [
+  "AKE": [
     {
       "id": 79681,
       "name": "Åneby",
@@ -514,7 +514,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "33": [
+  "BUS": [
     {
       "id": 79677,
       "name": "Ål",
@@ -747,7 +747,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "56": [
+  "FIN": [
     {
       "id": 79039,
       "name": "Alta",
@@ -1078,7 +1078,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "34": [
+  "INN": [
     {
       "id": 79040,
       "name": "Alvdal",
@@ -1598,8 +1598,8 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "22": [],
-  "15": [
+  "JAN": [],
+  "MREOG": [
     {
       "id": 79678,
       "name": "Ålesund",
@@ -1965,7 +1965,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "18": [
+  "NOR1": [
     {
       "id": 79038,
       "name": "Alstahaug",
@@ -2513,7 +2513,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "03": [
+  "OSL": [
     {
       "id": 79425,
       "name": "Oslo",
@@ -2529,7 +2529,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "31": [
+  "STF": [
     {
       "id": 79043,
       "name": "Aremark",
@@ -2727,7 +2727,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "11": [
+  "ROG": [
     {
       "id": 79676,
       "name": "Åkrehamn",
@@ -3072,8 +3072,8 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "21": [],
-  "40": [
+  "SVA": [],
+  "TEL": [
     {
       "id": 79063,
       "name": "Bamble",
@@ -3264,7 +3264,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "55": [
+  "TRO": [
     {
       "id": 79062,
       "name": "Balsfjord",
@@ -3392,7 +3392,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "50": [
+  "TRN": [
     {
       "id": 79673,
       "name": "Å i Åfjord",
@@ -3863,7 +3863,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "39": [
+  "VES": [
     {
       "id": 79686,
       "name": "Årøysund",
@@ -3998,7 +3998,7 @@
       "timezone": "Europe/Oslo"
     }
   ],
-  "46": [
+  "VEST": [
     {
       "id": 79675,
       "name": "Ågotnes",

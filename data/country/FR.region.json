@@ -1,47 +1,47 @@
 {
-  "01": {
+  "AIN": {
     "name": "Ain"
   },
-  "02": {
+  "AIS": {
     "name": "Aisne"
   },
-  "03": {
+  "ALL": {
     "name": "Allier"
   },
-  "04": {
+  "ALP": {
     "name": "Alpes-de-Haute-Provence"
   },
-  "06": {
+  "AM": {
     "name": "Alpes-Maritimes"
   },
   "6AE": {
     "name": "Alsace"
   },
-  "07": {
+  "ARD": {
     "name": "Ardèche"
   },
-  "08": {
+  "ARDE": {
     "name": "Ardennes"
   },
-  "09": {
+  "ARI": {
     "name": "Ariège"
   },
-  "10": {
+  "AUB": {
     "name": "Aube"
   },
-  "11": {
+  "AUD": {
     "name": "Aude"
   },
   "ARA": {
     "name": "Auvergne-Rhône-Alpes"
   },
-  "12": {
+  "AVE": {
     "name": "Aveyron"
   },
-  "67": {
+  "BAS": {
     "name": "Bas-Rhin"
   },
-  "13": {
+  "BOU": {
     "name": "Bouches-du-Rhône"
   },
   "BFC": {
@@ -50,28 +50,28 @@
   "BRE": {
     "name": "Bretagne"
   },
-  "14": {
+  "CAL": {
     "name": "Calvados"
   },
-  "15": {
+  "CAN": {
     "name": "Cantal"
   },
   "CVL": {
     "name": "Centre-Val de Loire"
   },
-  "16": {
+  "CHA": {
     "name": "Charente"
   },
-  "17": {
+  "CM": {
     "name": "Charente-Maritime"
   },
-  "18": {
+  "CHE": {
     "name": "Cher"
   },
   "CP": {
     "name": "Clipperton"
   },
-  "19": {
+  "COR": {
     "name": "Corrèze"
   },
   "20R": {
@@ -80,40 +80,40 @@
   "2A": {
     "name": "Corse-du-Sud"
   },
-  "21": {
+  "COT": {
     "name": "Côte-d'Or"
   },
-  "22": {
+  "CDA": {
     "name": "Côtes-d'Armor"
   },
-  "23": {
+  "CRE": {
     "name": "Creuse"
   },
-  "79": {
+  "DEU": {
     "name": "Deux-Sèvres"
   },
-  "24": {
+  "DOR": {
     "name": "Dordogne"
   },
-  "25": {
+  "DOU": {
     "name": "Doubs"
   },
-  "26": {
+  "DRO": {
     "name": "Drôme"
   },
-  "91": {
+  "ESS": {
     "name": "Essonne"
   },
-  "27": {
+  "EUR": {
     "name": "Eure"
   },
-  "28": {
+  "EEL": {
     "name": "Eure-et-Loir"
   },
-  "29": {
+  "FIN": {
     "name": "Finistère"
   },
-  "973": {
+  "FREGU": {
     "name": "French Guiana"
   },
   "PF": {
@@ -122,142 +122,142 @@
   "TF": {
     "name": "French Southern and Antarctic Lands"
   },
-  "30": {
+  "GAR": {
     "name": "Gard"
   },
-  "32": {
+  "GER": {
     "name": "Gers"
   },
-  "33": {
+  "GIR": {
     "name": "Gironde"
   },
   "GES": {
     "name": "Grand-Est"
   },
-  "971": {
+  "GUA": {
     "name": "Guadeloupe"
   },
-  "68": {
+  "HAU": {
     "name": "Haut-Rhin"
   },
   "2B": {
     "name": "Haute-Corse"
   },
-  "31": {
+  "HG": {
     "name": "Haute-Garonne"
   },
-  "43": {
+  "HL": {
     "name": "Haute-Loire"
   },
-  "52": {
+  "HM": {
     "name": "Haute-Marne"
   },
-  "70": {
+  "HS": {
     "name": "Haute-Saône"
   },
-  "74": {
+  "HAUS": {
     "name": "Haute-Savoie"
   },
-  "87": {
+  "HV": {
     "name": "Haute-Vienne"
   },
-  "05": {
+  "HA": {
     "name": "Hautes-Alpes"
   },
-  "65": {
+  "HP": {
     "name": "Hautes-Pyrénées"
   },
   "HDF": {
     "name": "Hauts-de-France"
   },
-  "92": {
+  "HAS": {
     "name": "Hauts-de-Seine"
   },
-  "34": {
+  "HER": {
     "name": "Hérault"
   },
   "IDF": {
     "name": "Île-de-France"
   },
-  "35": {
+  "ILL": {
     "name": "Ille-et-Vilaine"
   },
-  "36": {
+  "IND": {
     "name": "Indre"
   },
-  "37": {
+  "IEL": {
     "name": "Indre-et-Loire"
   },
-  "38": {
+  "ISE": {
     "name": "Isère"
   },
-  "39": {
+  "JUR": {
     "name": "Jura"
   },
-  "974": {
+  "REU": {
     "name": "La Réunion"
   },
-  "40": {
+  "LAN": {
     "name": "Landes"
   },
-  "41": {
+  "LOI": {
     "name": "Loir-et-Cher"
   },
-  "42": {
+  "LOIR": {
     "name": "Loire"
   },
-  "44": {
+  "LA": {
     "name": "Loire-Atlantique"
   },
-  "45": {
+  "LOIRE": {
     "name": "Loiret"
   },
-  "46": {
+  "LOT": {
     "name": "Lot"
   },
-  "47": {
+  "LEG": {
     "name": "Lot-et-Garonne"
   },
-  "48": {
+  "LOZ": {
     "name": "Lozère"
   },
-  "49": {
+  "MAI": {
     "name": "Maine-et-Loire"
   },
-  "50": {
+  "MAN": {
     "name": "Manche"
   },
-  "51": {
+  "MAR": {
     "name": "Marne"
   },
-  "972": {
+  "MART": {
     "name": "Martinique"
   },
-  "53": {
+  "MAY": {
     "name": "Mayenne"
   },
-  "976": {
+  "MAYO": {
     "name": "Mayotte"
   },
   "69M": {
     "name": "Métropole de Lyon"
   },
-  "54": {
+  "MEU": {
     "name": "Meurthe-et-Moselle"
   },
-  "55": {
+  "MEUS": {
     "name": "Meuse"
   },
-  "56": {
+  "MOR": {
     "name": "Morbihan"
   },
-  "57": {
+  "MOS": {
     "name": "Moselle"
   },
-  "58": {
+  "NIE": {
     "name": "Nièvre"
   },
-  "59": {
+  "NORD": {
     "name": "Nord"
   },
   "NOR": {
@@ -272,16 +272,16 @@
   "OCC": {
     "name": "Occitanie"
   },
-  "60": {
+  "OIS": {
     "name": "Oise"
   },
-  "61": {
+  "ORN": {
     "name": "Orne"
   },
   "75C": {
     "name": "Paris"
   },
-  "62": {
+  "PAS": {
     "name": "Pas-de-Calais"
   },
   "PDL": {
@@ -290,16 +290,16 @@
   "PAC": {
     "name": "Provence-Alpes-Côte-d’Azur"
   },
-  "63": {
+  "PUY": {
     "name": "Puy-de-Dôme"
   },
-  "64": {
+  "PYR": {
     "name": "Pyrénées-Atlantiques"
   },
-  "66": {
+  "PO": {
     "name": "Pyrénées-Orientales"
   },
-  "69": {
+  "RHO": {
     "name": "Rhône"
   },
   "PM": {
@@ -311,64 +311,64 @@
   "MF": {
     "name": "Saint-Martin"
   },
-  "71": {
+  "SAO": {
     "name": "Saône-et-Loire"
   },
-  "72": {
+  "SAR": {
     "name": "Sarthe"
   },
-  "73": {
+  "SAV": {
     "name": "Savoie"
   },
-  "77": {
+  "SEI": {
     "name": "Seine-et-Marne"
   },
-  "76": {
+  "SM": {
     "name": "Seine-Maritime"
   },
-  "93": {
+  "SD": {
     "name": "Seine-Saint-Denis"
   },
-  "80": {
+  "SOM": {
     "name": "Somme"
   },
-  "81": {
+  "TAR": {
     "name": "Tarn"
   },
-  "82": {
+  "TEG": {
     "name": "Tarn-et-Garonne"
   },
-  "90": {
+  "TER": {
     "name": "Territoire de Belfort"
   },
-  "95": {
+  "VAL": {
     "name": "Val-d'Oise"
   },
-  "94": {
+  "VM": {
     "name": "Val-de-Marne"
   },
-  "83": {
+  "VAR": {
     "name": "Var"
   },
-  "84": {
+  "VAU": {
     "name": "Vaucluse"
   },
-  "85": {
+  "VEN": {
     "name": "Vendée"
   },
-  "86": {
+  "VIE": {
     "name": "Vienne"
   },
-  "88": {
+  "VOS": {
     "name": "Vosges"
   },
   "WF": {
     "name": "Wallis and Futuna"
   },
-  "89": {
+  "YON": {
     "name": "Yonne"
   },
-  "78": {
+  "YVE": {
     "name": "Yvelines"
   }
 }

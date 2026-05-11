@@ -1,95 +1,95 @@
 {
-  "01": {
+  "ARU": {
     "name": "Arusha"
   },
-  "02": {
+  "DAR": {
     "name": "Dar es Salaam"
   },
-  "03": {
+  "DOD": {
     "name": "Dodoma"
   },
-  "27": {
+  "GEI": {
     "name": "Geita"
   },
-  "04": {
+  "IRI": {
     "name": "Iringa"
   },
-  "05": {
+  "KAG": {
     "name": "Kagera"
   },
-  "28": {
+  "KAT": {
     "name": "Katavi"
   },
-  "08": {
+  "KIG": {
     "name": "Kigoma"
   },
-  "09": {
+  "KIL": {
     "name": "Kilimanjaro"
   },
-  "12": {
+  "LIN": {
     "name": "Lindi"
   },
-  "26": {
+  "MAN": {
     "name": "Manyara"
   },
-  "13": {
+  "MAR": {
     "name": "Mara"
   },
-  "14": {
+  "MBE": {
     "name": "Mbeya"
   },
-  "16": {
+  "MOR": {
     "name": "Morogoro"
   },
-  "17": {
+  "MTW": {
     "name": "Mtwara"
   },
-  "18": {
+  "MWA": {
     "name": "Mwanza"
   },
-  "29": {
+  "NJO": {
     "name": "Njombe"
   },
-  "06": {
+  "PEM": {
     "name": "Pemba North"
   },
-  "10": {
+  "PS": {
     "name": "Pemba South"
   },
-  "19": {
+  "PWA": {
     "name": "Pwani"
   },
-  "20": {
+  "RUK": {
     "name": "Rukwa"
   },
-  "21": {
+  "RUV": {
     "name": "Ruvuma"
   },
-  "22": {
+  "SHI": {
     "name": "Shinyanga"
   },
-  "30": {
+  "SIM": {
     "name": "Simiyu"
   },
-  "23": {
+  "SIN": {
     "name": "Singida"
   },
-  "31": {
+  "SON": {
     "name": "Songwe"
   },
-  "24": {
+  "TAB": {
     "name": "Tabora"
   },
-  "25": {
+  "TAN": {
     "name": "Tanga"
   },
-  "07": {
+  "ZAN": {
     "name": "Zanzibar North"
   },
-  "11": {
+  "ZS": {
     "name": "Zanzibar South"
   },
-  "15": {
+  "ZW": {
     "name": "Zanzibar West"
   }
 }

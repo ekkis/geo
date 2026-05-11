@@ -1,176 +1,176 @@
 {
-  "01": {
+  "ADR": {
     "name": "Adrar"
   },
-  "44": {
+  "AIN": {
     "name": "Aïn Defla"
   },
-  "46": {
+  "AT": {
     "name": "Aïn Témouchent"
   },
-  "16": {
+  "ALG": {
     "name": "Algiers"
   },
-  "23": {
+  "ANN": {
     "name": "Annaba"
   },
-  "05": {
+  "BT": {
     "name": "Batna"
   },
-  "08": {
+  "BEC": {
     "name": "Béchar"
   },
-  "06": {
+  "BEJ": {
     "name": "Béjaïa"
   },
-  "53": {
+  "BEN": {
     "name": "Béni Abbès"
   },
-  "07": {
+  "BSK": {
     "name": "Biskra"
   },
-  "09": {
+  "BLI": {
     "name": "Blida"
   },
-  "52": {
+  "BOR": {
     "name": "Bordj Baji Mokhtar"
   },
-  "34": {
+  "BBA": {
     "name": "Bordj Bou Arréridj"
   },
-  "10": {
+  "BOU": {
     "name": "Bouïra"
   },
-  "35": {
+  "BOUM": {
     "name": "Boumerdès"
   },
-  "02": {
+  "CHL": {
     "name": "Chlef"
   },
-  "25": {
+  "CON": {
     "name": "Constantine"
   },
-  "56": {
+  "DJA": {
     "name": "Djanet"
   },
-  "17": {
+  "DJE": {
     "name": "Djelfa"
   },
-  "32": {
+  "EO": {
     "name": "El Bayadh"
   },
-  "49": {
+  "MXX": {
     "name": "El M'ghair"
   },
-  "50": {
+  "MEN": {
     "name": "El Menia"
   },
-  "39": {
+  "OUE": {
     "name": "El Oued"
   },
-  "36": {
+  "TAR": {
     "name": "El Tarf"
   },
-  "47": {
+  "GHA": {
     "name": "Ghardaïa"
   },
-  "24": {
+  "GUE": {
     "name": "Guelma"
   },
-  "33": {
+  "IO": {
     "name": "Illizi"
   },
-  "58": {
+  "INX": {
     "name": "In Guezzam"
   },
-  "57": {
+  "IS": {
     "name": "In Salah"
   },
-  "18": {
+  "JIJ": {
     "name": "Jijel"
   },
-  "40": {
+  "KHE": {
     "name": "Khenchela"
   },
-  "03": {
+  "LAG": {
     "name": "Laghouat"
   },
-  "28": {
+  "MS": {
     "name": "M'Sila"
   },
-  "29": {
+  "MAS": {
     "name": "Mascara"
   },
-  "26": {
+  "MED": {
     "name": "Médéa"
   },
-  "43": {
+  "MIL": {
     "name": "Mila"
   },
-  "27": {
+  "MOS": {
     "name": "Mostaganem"
   },
-  "45": {
+  "NAA": {
     "name": "Naama"
   },
-  "31": {
+  "OR": {
     "name": "Oran"
   },
-  "30": {
+  "OA": {
     "name": "Ouargla"
   },
-  "51": {
+  "OB": {
     "name": "Ouled Djellal"
   },
-  "04": {
+  "OUM": {
     "name": "Oum El Bouaghi"
   },
-  "48": {
+  "REL": {
     "name": "Relizane"
   },
-  "20": {
+  "SAI": {
     "name": "Saïda"
   },
-  "19": {
+  "SET": {
     "name": "Sétif"
   },
-  "22": {
+  "SK": {
     "name": "Sidi Bel Abbès"
   },
-  "21": {
+  "SKI": {
     "name": "Skikda"
   },
-  "41": {
+  "SOU": {
     "name": "Souk Ahras"
   },
-  "11": {
+  "TAM": {
     "name": "Tamanghasset"
   },
-  "12": {
+  "TEB": {
     "name": "Tébessa"
   },
-  "14": {
+  "TIA": {
     "name": "Tiaret"
   },
-  "54": {
+  "TIM": {
     "name": "Timimoun"
   },
-  "37": {
+  "TIN": {
     "name": "Tindouf"
   },
-  "42": {
+  "TIP": {
     "name": "Tipasa"
   },
-  "38": {
+  "TIS": {
     "name": "Tissemsilt"
   },
-  "15": {
+  "TIZ": {
     "name": "Tizi Ouzou"
   },
-  "13": {
+  "TLE": {
     "name": "Tlemcen"
   },
-  "55": {
+  "TOU": {
     "name": "Touggourt"
   }
 }

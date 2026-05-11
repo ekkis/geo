@@ -1,5 +1,5 @@
 {
-  "00": [
+  "BEL": [
     {
       "id": 97160,
       "name": "Barič",
@@ -141,7 +141,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "14": [
+  "BOR": [
     {
       "id": 97182,
       "name": "Bor",
@@ -178,7 +178,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "11": [
+  "BRA": [
     {
       "id": 97210,
       "name": "Golubac",
@@ -257,7 +257,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "02": [
+  "CEN": [
     {
       "id": 97146,
       "name": "Aradac",
@@ -595,7 +595,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "23": [
+  "JAB": [
     {
       "id": 155046,
       "name": "Bojnik",
@@ -646,7 +646,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "09": [
+  "KOL": [
     {
       "id": 97212,
       "name": "Gornja Bukovica",
@@ -704,11 +704,11 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "25": [],
+  "KOS": [],
   "KM": [],
-  "29": [],
-  "28": [],
-  "08": [
+  "KP": [],
+  "KOSM": [],
+  "MAC": [
     {
       "id": 97149,
       "name": "Badovinci",
@@ -997,7 +997,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "17": [
+  "MOR": [
     {
       "id": 97457,
       "name": "Čačak",
@@ -1034,7 +1034,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "20": [
+  "NIS": [
     {
       "id": 97143,
       "name": "Aleksandrovo",
@@ -1092,7 +1092,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "01": [
+  "NOR": [
     {
       "id": 97162,
       "name": "Bačka Topola",
@@ -1122,7 +1122,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "03": [
+  "NB": [
     {
       "id": 155064,
       "name": "Ada",
@@ -1278,7 +1278,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "24": [
+  "PCI": [
     {
       "id": 97176,
       "name": "Biljača",
@@ -1371,8 +1371,8 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "26": [],
-  "22": [
+  "PEC": [],
+  "PIR": [
     {
       "id": 155071,
       "name": "Babušnica",
@@ -1409,7 +1409,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "10": [
+  "POD": [
     {
       "id": 97281,
       "name": "Lugavčina",
@@ -1439,7 +1439,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "13": [
+  "POM": [
     {
       "id": 97455,
       "name": "Ćuprija",
@@ -1511,8 +1511,8 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "27": [],
-  "19": [
+  "PRI": [],
+  "RAS": [
     {
       "id": 155078,
       "name": "Aleksandrovac",
@@ -1556,7 +1556,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "18": [
+  "RASK": [
     {
       "id": 97231,
       "name": "Jarebice",
@@ -1600,7 +1600,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "06": [
+  "SOU": [
     {
       "id": 155081,
       "name": "Bač",
@@ -1854,7 +1854,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "04": [
+  "SB": [
     {
       "id": 97144,
       "name": "Alibunar",
@@ -2129,7 +2129,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "07": [
+  "SRE": [
     {
       "id": 97169,
       "name": "Belegiš",
@@ -2390,7 +2390,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "12": [
+  "SUM": [
     {
       "id": 97147,
       "name": "Aranđelovac",
@@ -2448,7 +2448,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "21": [
+  "TOP": [
     {
       "id": 155090,
       "name": "Blace",
@@ -2493,7 +2493,7 @@
     }
   ],
   "VO": [],
-  "05": [
+  "WES": [
     {
       "id": 97145,
       "name": "Apatin",
@@ -2593,7 +2593,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "15": [
+  "ZAJ": [
     {
       "id": 155095,
       "name": "Boljevac",
@@ -2630,7 +2630,7 @@
       "timezone": "Europe/Belgrade"
     }
   ],
-  "16": [
+  "ZLA": [
     {
       "id": 97148,
       "name": "Arilje",

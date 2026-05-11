@@ -1,50 +1,50 @@
 {
-  "01": {
+  "CHR": {
     "name": "Christ Church Nichola Town"
   },
   "N": {
     "name": "Nevis"
   },
-  "02": {
+  "SAINTANNE": {
     "name": "Saint Anne Sandy Point"
   },
-  "03": {
+  "SAINTGEORGE": {
     "name": "Saint George Basseterre"
   },
-  "04": {
+  "GEO": {
     "name": "Saint George Gingerland"
   },
-  "05": {
+  "JAM": {
     "name": "Saint James Windward"
   },
-  "06": {
+  "JOH": {
     "name": "Saint John Capisterre"
   },
-  "07": {
+  "JF": {
     "name": "Saint John Figtree"
   },
   "K": {
     "name": "Saint Kitts"
   },
-  "08": {
+  "SAINTMARY": {
     "name": "Saint Mary Cayon"
   },
-  "09": {
+  "SAINTPAUL": {
     "name": "Saint Paul Capisterre"
   },
-  "10": {
+  "PAU": {
     "name": "Saint Paul Charlestown"
   },
-  "11": {
+  "SAINTPETER": {
     "name": "Saint Peter Basseterre"
   },
-  "12": {
+  "THO": {
     "name": "Saint Thomas Lowland"
   },
-  "13": {
+  "TMI": {
     "name": "Saint Thomas Middle Island"
   },
-  "15": {
+  "TRI": {
     "name": "Trinity Palmetto Point"
   }
 }

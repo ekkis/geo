@@ -1,5 +1,5 @@
 {
-  "011": [
+  "ADA": [
     {
       "id": 66885,
       "name": "Carnikava",
@@ -8,7 +8,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "002": [
+  "AIZ": [
     {
       "id": 66870,
       "name": "Aizkraukle",
@@ -52,7 +52,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "007": [
+  "ALU": [
     {
       "id": 66875,
       "name": "Alūksne",
@@ -61,7 +61,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "111": [
+  "AUG": [
     {
       "id": 66891,
       "name": "Daugavpils",
@@ -77,7 +77,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "015": [
+  "BAL2": [
     {
       "id": 66880,
       "name": "Baltinava",
@@ -107,7 +107,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "016": [
+  "BAU": [
     {
       "id": 66882,
       "name": "Bauska",
@@ -137,7 +137,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "022": [
+  "CES1": [
     {
       "id": 66888,
       "name": "Cēsis",
@@ -175,7 +175,7 @@
     }
   ],
   "DGV": [],
-  "112": [
+  "DIE": [
     {
       "id": 66871,
       "name": "Aizpute",
@@ -233,7 +233,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "026": [
+  "DOB": [
     {
       "id": 66877,
       "name": "Auce",
@@ -263,7 +263,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "033": [
+  "GUL": [
     {
       "id": 66897,
       "name": "Gulbene",
@@ -272,7 +272,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "042": [
+  "JEK": [
     {
       "id": 66872,
       "name": "Aknīste",
@@ -302,7 +302,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "041": [
+  "JELG": [
     {
       "id": 66937,
       "name": "Ozolnieki",
@@ -336,7 +336,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "052": [
+  "KEK": [
     {
       "id": 66878,
       "name": "Baldone",
@@ -359,7 +359,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "047": [
+  "KRA": [
     {
       "id": 66889,
       "name": "Dagda",
@@ -375,7 +375,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "050": [
+  "KUL": [
     {
       "id": 66874,
       "name": "Alsunga",
@@ -414,7 +414,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "054": [
+  "LIM": [
     {
       "id": 66869,
       "name": "Ainaži",
@@ -451,7 +451,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "056": [
+  "LIV": [
     {
       "id": 66925,
       "name": "Līvāni",
@@ -460,7 +460,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "058": [
+  "LUD": [
     {
       "id": 66887,
       "name": "Cibla",
@@ -490,7 +490,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "059": [
+  "MAD": [
     {
       "id": 66886,
       "name": "Cesvaine",
@@ -520,7 +520,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "062": [
+  "MAR": [
     {
       "id": 66930,
       "name": "Mārupe",
@@ -536,7 +536,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "067": [
+  "OGR": [
     {
       "id": 66899,
       "name": "Ikšķile",
@@ -573,7 +573,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "068": [
+  "OLA": [
     {
       "id": 66936,
       "name": "Olaine",
@@ -582,7 +582,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "073": [
+  "PRE": [
     {
       "id": 66868,
       "name": "Aglona",
@@ -628,7 +628,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "077": [
+  "REZE": [
     {
       "id": 66987,
       "name": "Viļāni",
@@ -674,7 +674,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "080": [
+  "ROP": [
     {
       "id": 66895,
       "name": "Garkalne",
@@ -704,7 +704,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "087": [
+  "SAL2": [
     {
       "id": 66957,
       "name": "Salaspils",
@@ -713,7 +713,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "088": [
+  "SAL3": [
     {
       "id": 66884,
       "name": "Brocēni",
@@ -729,7 +729,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "089": [
+  "SAU": [
     {
       "id": 66959,
       "name": "Saulkrasti",
@@ -738,7 +738,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "091": [
+  "SIG": [
     {
       "id": 66901,
       "name": "Inčukalns",
@@ -761,7 +761,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "094": [
+  "SMI": [
     {
       "id": 66876,
       "name": "Ape",
@@ -784,7 +784,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "097": [
+  "TAL": [
     {
       "id": 66893,
       "name": "Dundaga",
@@ -828,7 +828,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "099": [
+  "TUK": [
     {
       "id": 66894,
       "name": "Engure",
@@ -865,7 +865,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "101": [
+  "VAL": [
     {
       "id": 66977,
       "name": "Valka",
@@ -874,7 +874,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "113": [
+  "VAL1": [
     {
       "id": 66912,
       "name": "Kocēni",
@@ -932,7 +932,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "102": [
+  "VAR": [
     {
       "id": 66980,
       "name": "Varakļāni",
@@ -950,7 +950,7 @@
       "timezone": "Europe/Riga"
     }
   ],
-  "106": [
+  "VENT": [
     {
       "id": 66939,
       "name": "Piltene",

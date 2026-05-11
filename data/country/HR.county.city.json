@@ -1,5 +1,5 @@
 {
-  "07": [
+  "BJE": [
     {
       "id": 54404,
       "name": "Bjelovar",
@@ -190,7 +190,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "12": [
+  "BRO": [
     {
       "id": 54387,
       "name": "Batrina",
@@ -388,7 +388,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "19": [
+  "DUB": [
     {
       "id": 54437,
       "name": "Cavtat",
@@ -572,7 +572,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "18": [
+  "IST": [
     {
       "id": 54384,
       "name": "Bale",
@@ -966,8 +966,8 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "04": [],
-  "06": [
+  "KAR": [],
+  "KOP": [
     {
       "id": 54469,
       "name": "Drnje",
@@ -1116,7 +1116,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "02": [
+  "KRA": [
     {
       "id": 54390,
       "name": "Bedekovčina",
@@ -1286,7 +1286,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "09": [
+  "LIK": [
     {
       "id": 54422,
       "name": "Brinje",
@@ -1358,7 +1358,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "20": [
+  "MEI": [
     {
       "id": 54392,
       "name": "Belica",
@@ -1542,7 +1542,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "14": [
+  "OSI": [
     {
       "id": 54381,
       "name": "Antunovac",
@@ -1971,7 +1971,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "11": [
+  "POZ": [
     {
       "id": 54415,
       "name": "Brestovac",
@@ -2057,7 +2057,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "08": [
+  "PRIKO": [
     {
       "id": 54383,
       "name": "Bakar",
@@ -2437,7 +2437,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "15": [
+  "SIB": [
     {
       "id": 54424,
       "name": "Brodarica",
@@ -2565,7 +2565,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "03": [
+  "SIS": [
     {
       "id": 54429,
       "name": "Budaševo",
@@ -2735,7 +2735,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "17": [
+  "SPL": [
     {
       "id": 54389,
       "name": "Baška Voda",
@@ -3304,7 +3304,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "05": [
+  "VAR": [
     {
       "id": 54395,
       "name": "Beretinec",
@@ -3509,7 +3509,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "10": [
+  "VIR": [
     {
       "id": 55018,
       "name": "Čačinci",
@@ -3644,7 +3644,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "16": [
+  "VUK": [
     {
       "id": 54380,
       "name": "Andrijaševci",
@@ -3933,7 +3933,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "13": [
+  "ZAD": [
     {
       "id": 54394,
       "name": "Benkovac",
@@ -4173,7 +4173,7 @@
       "timezone": "Europe/Zagreb"
     }
   ],
-  "01": [
+  "ZAG": [
     {
       "id": 54396,
       "name": "Bestovje",

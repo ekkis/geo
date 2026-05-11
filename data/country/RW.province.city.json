@@ -1,5 +1,5 @@
 {
-  "02": [
+  "EAS": [
     {
       "id": 102798,
       "name": "Kibungo",
@@ -15,7 +15,7 @@
       "timezone": "Africa/Kigali"
     }
   ],
-  "01": [
+  "KIG": [
     {
       "id": 102800,
       "name": "Kigali",
@@ -24,7 +24,7 @@
       "timezone": "Africa/Kigali"
     }
   ],
-  "03": [
+  "NOR": [
     {
       "id": 102793,
       "name": "Byumba",
@@ -40,7 +40,7 @@
       "timezone": "Africa/Kigali"
     }
   ],
-  "05": [
+  "SOU": [
     {
       "id": 102792,
       "name": "Butare",
@@ -70,7 +70,7 @@
       "timezone": "Africa/Kigali"
     }
   ],
-  "04": [
+  "WES": [
     {
       "id": 102794,
       "name": "Cyangugu",

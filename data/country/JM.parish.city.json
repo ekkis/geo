@@ -1,5 +1,5 @@
 {
-  "13": [
+  "CLA": [
     {
       "id": 62295,
       "name": "Aenon Town",
@@ -603,7 +603,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "09": [
+  "HAN": [
     {
       "id": 62322,
       "name": "Askenish",
@@ -857,7 +857,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "01": [
+  "KIN": [
     {
       "id": 62305,
       "name": "Allman Town",
@@ -1034,7 +1034,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "12": [
+  "MAN": [
     {
       "id": 62304,
       "name": "Alligator Pond",
@@ -1561,7 +1561,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "04": [
+  "POR": [
     {
       "id": 62327,
       "name": "Balcarres",
@@ -1871,7 +1871,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "02": [
+  "AND": [
     {
       "id": 62316,
       "name": "Arcadia",
@@ -2615,7 +2615,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "06": [
+  "ANN": [
     {
       "id": 62291,
       "name": "Aboukir",
@@ -2995,7 +2995,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "14": [
+  "CAT": [
     {
       "id": 62292,
       "name": "Above Rocks",
@@ -3368,7 +3368,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "11": [
+  "ELI": [
     {
       "id": 62290,
       "name": "Aberdeen",
@@ -3811,7 +3811,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "08": [
+  "JAM": [
     {
       "id": 62294,
       "name": "Adelphi",
@@ -4331,7 +4331,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "05": [
+  "MAR": [
     {
       "id": 62309,
       "name": "Amiel Town",
@@ -4648,7 +4648,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "03": [
+  "THO": [
     {
       "id": 62296,
       "name": "Airy Castle",
@@ -5042,7 +5042,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "07": [
+  "TRE": [
     {
       "id": 62297,
       "name": "Albert Town",
@@ -5310,7 +5310,7 @@
       "timezone": "America/Jamaica"
     }
   ],
-  "10": [
+  "WES": [
     {
       "id": 62289,
       "name": "12th Street",

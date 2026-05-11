@@ -1,5 +1,5 @@
 {
-  "002": [
+  "AIM": [
     {
       "id": 89709,
       "name": "Ngchemiangel",
@@ -8,7 +8,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "004": [
+  "AIR": [
     {
       "id": 89712,
       "name": "Ngetkib",
@@ -17,7 +17,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "010": [
+  "ANG": [
     {
       "id": 89700,
       "name": "Angaur State",
@@ -26,7 +26,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "050": [
+  "HAT": [
     {
       "id": 89714,
       "name": "Tobi Village",
@@ -35,7 +35,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "100": [
+  "KAY": [
     {
       "id": 89702,
       "name": "Kayangel",
@@ -44,7 +44,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "150": [
+  "KOR": [
     {
       "id": 89704,
       "name": "Koror",
@@ -53,7 +53,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "212": [
+  "MEL": [
     {
       "id": 89706,
       "name": "Melekeok Village",
@@ -62,7 +62,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "214": [
+  "NGA": [
     {
       "id": 89715,
       "name": "Ulimang",
@@ -71,7 +71,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "218": [
+  "NGAR": [
     {
       "id": 89707,
       "name": "Mengellang",
@@ -80,7 +80,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "222": [
+  "NGARD": [
     {
       "id": 89708,
       "name": "Ngardmau",
@@ -89,8 +89,8 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "224": [],
-  "226": [
+  "NGAT": [],
+  "NGC": [
     {
       "id": 89710,
       "name": "Ngchesar Hamlet",
@@ -99,7 +99,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "227": [
+  "NGE": [
     {
       "id": 89701,
       "name": "Imeong Hamlet",
@@ -108,7 +108,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "228": [
+  "NGI": [
     {
       "id": 89711,
       "name": "Ngerkeai",
@@ -117,7 +117,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "350": [
+  "PEL": [
     {
       "id": 89703,
       "name": "Kloulklubed",
@@ -126,7 +126,7 @@
       "timezone": "Pacific/Palau"
     }
   ],
-  "370": [
+  "SON": [
     {
       "id": 89713,
       "name": "Sonsorol Village",

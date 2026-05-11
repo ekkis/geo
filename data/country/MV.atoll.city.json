@@ -1,5 +1,5 @@
 {
-  "01": [
+  "AAD": [
     {
       "id": 67929,
       "name": "Hithadhoo",
@@ -15,8 +15,8 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "02": [],
-  "00": [
+  "ALI": [],
+  "AD": [
     {
       "id": 67934,
       "name": "Mahibadhoo",
@@ -25,8 +25,8 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "20": [],
-  "17": [
+  "BAA": [],
+  "DHA": [
     {
       "id": 67931,
       "name": "Kudahuvadhoo",
@@ -35,8 +35,8 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "14": [],
-  "27": [
+  "FAA": [],
+  "GAA": [
     {
       "id": 67943,
       "name": "Viligili",
@@ -45,7 +45,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "28": [
+  "GD": [
     {
       "id": 67940,
       "name": "Thinadhoo",
@@ -54,7 +54,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "29": [
+  "GNA": [
     {
       "id": 67927,
       "name": "Fuvahmulah",
@@ -63,7 +63,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "07": [
+  "HAA": [
     {
       "id": 67923,
       "name": "Dhidhdhoo",
@@ -72,7 +72,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "23": [
+  "HA": [
     {
       "id": 67932,
       "name": "Kulhudhuffushi",
@@ -81,7 +81,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "26": [
+  "KAA": [
     {
       "id": 67928,
       "name": "Guraidhoo",
@@ -111,7 +111,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "05": [
+  "LAA": [
     {
       "id": 67925,
       "name": "Fonadhoo",
@@ -120,7 +120,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "03": [
+  "LHA": [
     {
       "id": 67939,
       "name": "Naifaru",
@@ -130,7 +130,7 @@
     }
   ],
   "MLE": [],
-  "12": [
+  "MEE": [
     {
       "id": 67938,
       "name": "Muli",
@@ -139,7 +139,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "25": [
+  "NOO": [
     {
       "id": 67936,
       "name": "Manadhoo",
@@ -148,7 +148,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "13": [
+  "RAA": [
     {
       "id": 67941,
       "name": "Ugoofaaru",
@@ -157,7 +157,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "24": [
+  "SHA": [
     {
       "id": 67926,
       "name": "Funadhoo",
@@ -166,7 +166,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "08": [
+  "THA": [
     {
       "id": 67942,
       "name": "Veymandoo",
@@ -175,7 +175,7 @@
       "timezone": "Indian/Maldives"
     }
   ],
-  "04": [
+  "VAA": [
     {
       "id": 67924,
       "name": "Felidhoo",

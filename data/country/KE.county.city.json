@@ -1,5 +1,5 @@
 {
-  "01": [
+  "BAR": [
     {
       "id": 64774,
       "name": "Baringo",
@@ -22,7 +22,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "02": [
+  "BOM": [
     {
       "id": 64870,
       "name": "Sotik",
@@ -38,7 +38,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "03": [
+  "BUN": [
     {
       "id": 64776,
       "name": "Bungoma",
@@ -61,7 +61,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "04": [
+  "BUS": [
     {
       "id": 64777,
       "name": "Busia",
@@ -105,7 +105,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "05": [
+  "ELG": [
     {
       "id": 154645,
       "name": "Chebiemit",
@@ -212,7 +212,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "06": [
+  "EMB": [
     {
       "id": 64783,
       "name": "Embu",
@@ -221,7 +221,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "07": [
+  "GAR": [
     {
       "id": 64784,
       "name": "Garissa",
@@ -230,7 +230,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "08": [
+  "HOM": [
     {
       "id": 64787,
       "name": "Homa Bay",
@@ -253,7 +253,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "09": [
+  "ISI": [
     {
       "id": 64788,
       "name": "Isiolo",
@@ -262,7 +262,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "10": [
+  "KAJ": [
     {
       "id": 64791,
       "name": "Kajiado",
@@ -285,7 +285,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "11": [
+  "KAK": [
     {
       "id": 64778,
       "name": "Butere",
@@ -308,7 +308,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "12": [
+  "KER": [
     {
       "id": 64799,
       "name": "Kericho",
@@ -338,7 +338,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "13": [
+  "KIA": [
     {
       "id": 64802,
       "name": "Kiambu",
@@ -368,7 +368,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "14": [
+  "KIL": [
     {
       "id": 64789,
       "name": "Iten",
@@ -412,7 +412,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "15": [
+  "KIR": [
     {
       "id": 64801,
       "name": "Kerugoya",
@@ -428,7 +428,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "16": [
+  "KIS": [
     {
       "id": 64810,
       "name": "Kisii",
@@ -444,7 +444,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "17": [
+  "KISU": [
     {
       "id": 64772,
       "name": "Ahero",
@@ -467,7 +467,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "18": [
+  "KIT": [
     {
       "id": 64813,
       "name": "Kitui",
@@ -483,7 +483,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "19": [
+  "KWA": [
     {
       "id": 64785,
       "name": "Gazi",
@@ -520,7 +520,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "20": [
+  "LAI": [
     {
       "id": 64850,
       "name": "Nanyuki",
@@ -543,7 +543,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "21": [
+  "LAM": [
     {
       "id": 64816,
       "name": "Lamu",
@@ -559,7 +559,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "22": [
+  "MAC": [
     {
       "id": 64773,
       "name": "Athi River",
@@ -589,7 +589,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "23": [
+  "MAK": [
     {
       "id": 64825,
       "name": "Makueni Boma",
@@ -612,7 +612,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "24": [
+  "MAN": [
     {
       "id": 64829,
       "name": "Mandera",
@@ -621,7 +621,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "25": [
+  "MAR": [
     {
       "id": 64833,
       "name": "Marsabit",
@@ -637,7 +637,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "26": [
+  "MER": [
     {
       "id": 64834,
       "name": "Maua",
@@ -653,7 +653,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "27": [
+  "MIG": [
     {
       "id": 64803,
       "name": "Kihancha",
@@ -669,7 +669,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "28": [
+  "MOM": [
     {
       "id": 64838,
       "name": "Mombasa",
@@ -678,7 +678,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "29": [
+  "MUR": [
     {
       "id": 64793,
       "name": "Kangema",
@@ -708,7 +708,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "30": [
+  "NAI": [
     {
       "id": 64845,
       "name": "Nairobi",
@@ -724,7 +724,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "31": [
+  "NAK": [
     {
       "id": 64804,
       "name": "Kijabe",
@@ -761,7 +761,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "32": [
+  "NAN": [
     {
       "id": 64796,
       "name": "Kapsabet",
@@ -777,7 +777,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "33": [
+  "NAR": [
     {
       "id": 64852,
       "name": "Narok",
@@ -786,7 +786,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "34": [
+  "NYA": [
     {
       "id": 64800,
       "name": "Keroka",
@@ -802,7 +802,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "35": [
+  "NYAN": [
     {
       "id": 64858,
       "name": "Ol Kalou",
@@ -811,7 +811,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "36": [
+  "NYE": [
     {
       "id": 64851,
       "name": "Naro Moru",
@@ -834,7 +834,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "37": [
+  "SAM": [
     {
       "id": 64831,
       "name": "Maralal",
@@ -843,7 +843,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "38": [
+  "SIA": [
     {
       "id": 64775,
       "name": "Bondo",
@@ -866,7 +866,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "39": [
+  "TAI": [
     {
       "id": 154626,
       "name": "Bura",
@@ -938,7 +938,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "40": [
+  "TAN": [
     {
       "id": 64786,
       "name": "Hola",
@@ -954,7 +954,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "41": [
+  "THA": [
     {
       "id": 64780,
       "name": "Chuka",
@@ -963,7 +963,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "42": [
+  "TRA": [
     {
       "id": 64812,
       "name": "Kitale",
@@ -972,7 +972,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "43": [
+  "TUR": [
     {
       "id": 64819,
       "name": "Lodwar",
@@ -981,7 +981,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "44": [
+  "UAS": [
     {
       "id": 64782,
       "name": "Eldoret",
@@ -990,7 +990,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "45": [
+  "VIH": [
     {
       "id": 154634,
       "name": "Chavakali",
@@ -1062,7 +1062,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "46": [
+  "WAJ": [
     {
       "id": 64876,
       "name": "Wajir",
@@ -1071,7 +1071,7 @@
       "timezone": "Africa/Nairobi"
     }
   ],
-  "47": [
+  "WES": [
     {
       "id": 64779,
       "name": "Chepareria",

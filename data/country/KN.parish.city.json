@@ -1,5 +1,5 @@
 {
-  "01": [
+  "CHR": [
     {
       "id": 65176,
       "name": "Nicola Town",
@@ -9,7 +9,7 @@
     }
   ],
   "N": [],
-  "02": [
+  "SAINTANNE": [
     {
       "id": 65178,
       "name": "Sandy Point Town",
@@ -18,8 +18,8 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "03": [],
-  "04": [
+  "SAINTGEORGE": [],
+  "GEO": [
     {
       "id": 65172,
       "name": "Market Shop",
@@ -28,7 +28,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "05": [
+  "JAM": [
     {
       "id": 65175,
       "name": "Newcastle",
@@ -37,7 +37,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "06": [
+  "JOH": [
     {
       "id": 65170,
       "name": "Dieppe Bay Town",
@@ -46,7 +46,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "07": [
+  "JF": [
     {
       "id": 65171,
       "name": "Fig Tree",
@@ -56,7 +56,7 @@
     }
   ],
   "K": [],
-  "08": [
+  "SAINTMARY": [
     {
       "id": 65167,
       "name": "Cayon",
@@ -65,7 +65,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "09": [
+  "SAINTPAUL": [
     {
       "id": 65177,
       "name": "Saint Paul’s",
@@ -74,7 +74,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "10": [
+  "PAU": [
     {
       "id": 65168,
       "name": "Charlestown",
@@ -83,7 +83,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "11": [
+  "SAINTPETER": [
     {
       "id": 65174,
       "name": "Monkey Hill",
@@ -92,7 +92,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "12": [
+  "THO": [
     {
       "id": 65169,
       "name": "Cotton Ground",
@@ -101,7 +101,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "13": [
+  "TMI": [
     {
       "id": 65173,
       "name": "Middle Island",
@@ -110,7 +110,7 @@
       "timezone": "America/St_Kitts"
     }
   ],
-  "15": [
+  "TRI": [
     {
       "id": 65179,
       "name": "Trinity",

@@ -1,5 +1,5 @@
 {
-  "04": [
+  "FAM": [
     {
       "id": 22011,
       "name": "Acherítou",
@@ -106,7 +106,7 @@
       "timezone": "Asia/Famagusta"
     }
   ],
-  "06": [
+  "KYR": [
     {
       "id": 22045,
       "name": "Kyrenia",
@@ -129,7 +129,7 @@
       "timezone": "Asia/Famagusta"
     }
   ],
-  "03": [
+  "LAR": [
     {
       "id": 22015,
       "name": "Aradíppou",
@@ -271,7 +271,7 @@
       "timezone": "Asia/Nicosia"
     }
   ],
-  "02": [
+  "LIM": [
     {
       "id": 22103,
       "name": "Ágios Tomás",
@@ -392,7 +392,7 @@
       "timezone": "Asia/Nicosia"
     }
   ],
-  "01": [
+  "NIC": [
     {
       "id": 22012,
       "name": "Akáki",
@@ -569,7 +569,7 @@
       "timezone": "Asia/Nicosia"
     }
   ],
-  "05": [
+  "PAP": [
     {
       "id": 22017,
       "name": "Argáka",

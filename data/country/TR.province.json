@@ -1,245 +1,245 @@
 {
-  "01": {
+  "ADA": {
     "name": "Adana"
   },
-  "02": {
+  "ADI": {
     "name": "Adıyaman"
   },
-  "03": {
+  "AFY": {
     "name": "Afyonkarahisar"
   },
-  "04": {
+  "AGR": {
     "name": "Ağrı"
   },
-  "68": {
+  "AKS": {
     "name": "Aksaray"
   },
-  "05": {
+  "AMA": {
     "name": "Amasya"
   },
-  "06": {
+  "ANK": {
     "name": "Ankara"
   },
-  "07": {
+  "ANT": {
     "name": "Antalya"
   },
-  "75": {
+  "ARD": {
     "name": "Ardahan"
   },
-  "08": {
+  "ART": {
     "name": "Artvin"
   },
-  "09": {
+  "AYD": {
     "name": "Aydın"
   },
-  "10": {
+  "BAL": {
     "name": "Balıkesir"
   },
-  "74": {
+  "BAR": {
     "name": "Bartın"
   },
-  "72": {
+  "BAT": {
     "name": "Batman"
   },
-  "69": {
+  "BAY": {
     "name": "Bayburt"
   },
-  "11": {
+  "BIL": {
     "name": "Bilecik"
   },
-  "12": {
+  "BIN": {
     "name": "Bingöl"
   },
-  "13": {
+  "BIT": {
     "name": "Bitlis"
   },
-  "14": {
+  "BOL": {
     "name": "Bolu"
   },
-  "15": {
+  "BUR": {
     "name": "Burdur"
   },
-  "16": {
+  "BURS": {
     "name": "Bursa"
   },
-  "17": {
+  "CAN": {
     "name": "Çanakkale"
   },
-  "18": {
+  "CANK": {
     "name": "Çankırı"
   },
-  "19": {
+  "COR": {
     "name": "Çorum"
   },
-  "20": {
+  "DEN": {
     "name": "Denizli"
   },
-  "21": {
+  "DIY": {
     "name": "Diyarbakır"
   },
-  "81": {
+  "DUZ": {
     "name": "Düzce"
   },
-  "22": {
+  "EDI": {
     "name": "Edirne"
   },
-  "23": {
+  "ELA": {
     "name": "Elazığ"
   },
-  "24": {
+  "ERZ": {
     "name": "Erzincan"
   },
-  "25": {
+  "ERZU": {
     "name": "Erzurum"
   },
-  "26": {
+  "ESK": {
     "name": "Eskişehir"
   },
-  "27": {
+  "GAZ": {
     "name": "Gaziantep"
   },
-  "28": {
+  "GIR": {
     "name": "Giresun"
   },
-  "29": {
+  "GUM": {
     "name": "Gümüşhane"
   },
-  "30": {
+  "HAK": {
     "name": "Hakkâri"
   },
-  "31": {
+  "HAT": {
     "name": "Hatay"
   },
-  "76": {
+  "IGD": {
     "name": "Iğdır"
   },
-  "32": {
+  "ISP": {
     "name": "Isparta"
   },
-  "34": {
+  "IST": {
     "name": "İstanbul"
   },
-  "35": {
+  "IZM": {
     "name": "İzmir"
   },
-  "46": {
+  "KAH": {
     "name": "Kahramanmaraş"
   },
-  "78": {
+  "KAR": {
     "name": "Karabük"
   },
-  "70": {
+  "KARA": {
     "name": "Karaman"
   },
-  "36": {
+  "KARS": {
     "name": "Kars"
   },
-  "37": {
+  "KAS": {
     "name": "Kastamonu"
   },
-  "38": {
+  "KAY": {
     "name": "Kayseri"
   },
-  "79": {
+  "KIL": {
     "name": "Kilis"
   },
-  "71": {
+  "KIR": {
     "name": "Kırıkkale"
   },
-  "39": {
+  "KRK": {
     "name": "Kırklareli"
   },
-  "40": {
+  "KRS": {
     "name": "Kırşehir"
   },
-  "41": {
+  "KOC": {
     "name": "Kocaeli"
   },
-  "42": {
+  "KON": {
     "name": "Konya"
   },
-  "43": {
+  "KUT": {
     "name": "Kütahya"
   },
-  "44": {
+  "MAL": {
     "name": "Malatya"
   },
-  "45": {
+  "MAN": {
     "name": "Manisa"
   },
-  "47": {
+  "MAR": {
     "name": "Mardin"
   },
-  "33": {
+  "MER": {
     "name": "Mersin"
   },
-  "48": {
+  "MUG": {
     "name": "Muğla"
   },
-  "49": {
+  "MUS": {
     "name": "Muş"
   },
-  "50": {
+  "NEV": {
     "name": "Nevşehir"
   },
-  "51": {
+  "NIG": {
     "name": "Niğde"
   },
-  "52": {
+  "ORD": {
     "name": "Ordu"
   },
-  "80": {
+  "OSM": {
     "name": "Osmaniye"
   },
-  "53": {
+  "RIZ": {
     "name": "Rize"
   },
-  "54": {
+  "SAK": {
     "name": "Sakarya"
   },
-  "55": {
+  "SAM": {
     "name": "Samsun"
   },
-  "63": {
+  "SAN": {
     "name": "Şanlıurfa"
   },
-  "56": {
+  "SII": {
     "name": "Siirt"
   },
-  "57": {
+  "SIN": {
     "name": "Sinop"
   },
-  "58": {
+  "SIV": {
     "name": "Sivas"
   },
-  "73": {
+  "SRN": {
     "name": "Şırnak"
   },
-  "59": {
+  "TEK": {
     "name": "Tekirdağ"
   },
-  "60": {
+  "TOK": {
     "name": "Tokat"
   },
-  "61": {
+  "TRA": {
     "name": "Trabzon"
   },
-  "62": {
+  "TUN": {
     "name": "Tunceli"
   },
-  "64": {
+  "USA": {
     "name": "Uşak"
   },
-  "65": {
+  "VAN": {
     "name": "Van"
   },
-  "77": {
+  "YAL": {
     "name": "Yalova"
   },
-  "66": {
+  "YOZ": {
     "name": "Yozgat"
   },
-  "67": {
+  "ZON": {
     "name": "Zonguldak"
   }
 }

@@ -1,29 +1,29 @@
 {
-  "01": {
+  "ACQ": {
     "name": "Acquaviva"
   },
-  "06": {
+  "BORMA": {
     "name": "Borgo Maggiore"
   },
-  "02": {
+  "CHI": {
     "name": "Chiesanuova"
   },
-  "03": {
+  "DOM": {
     "name": "Domagnano"
   },
-  "04": {
+  "FAE": {
     "name": "Faetano"
   },
-  "05": {
+  "FIO": {
     "name": "Fiorentino"
   },
-  "08": {
+  "MON": {
     "name": "Montegiardino"
   },
-  "07": {
+  "SANMA": {
     "name": "San Marino"
   },
-  "09": {
+  "SER": {
     "name": "Serravalle"
   }
 }

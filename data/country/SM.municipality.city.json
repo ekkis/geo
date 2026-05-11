@@ -1,5 +1,5 @@
 {
-  "01": [
+  "ACQ": [
     {
       "id": 104693,
       "name": "Acquaviva",
@@ -8,7 +8,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "06": [
+  "BORMA": [
     {
       "id": 104694,
       "name": "Borgo Maggiore",
@@ -17,7 +17,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "02": [
+  "CHI": [
     {
       "id": 104699,
       "name": "Poggio di Chiesanuova",
@@ -26,7 +26,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "03": [
+  "DOM": [
     {
       "id": 104695,
       "name": "Domagnano",
@@ -35,7 +35,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "04": [
+  "FAE": [
     {
       "id": 104696,
       "name": "Faetano",
@@ -44,7 +44,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "05": [
+  "FIO": [
     {
       "id": 104697,
       "name": "Fiorentino",
@@ -53,7 +53,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "08": [
+  "MON": [
     {
       "id": 104698,
       "name": "Monte Giardino",
@@ -62,7 +62,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "07": [
+  "SANMA": [
     {
       "id": 104700,
       "name": "San Marino",
@@ -71,7 +71,7 @@
       "timezone": "Europe/San_Marino"
     }
   ],
-  "09": [
+  "SER": [
     {
       "id": 104701,
       "name": "Serravalle",

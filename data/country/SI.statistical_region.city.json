@@ -1,5 +1,5 @@
 {
-  "001": [
+  "AJD": [
     {
       "id": 104059,
       "name": "Ajdovščina",
@@ -22,7 +22,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "213": [
+  "ANK": [
     {
       "id": 104060,
       "name": "Ankaran",
@@ -31,7 +31,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "195": [
+  "APA": [
     {
       "id": 104061,
       "name": "Apače",
@@ -40,7 +40,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "002": [
+  "BEL": [
     {
       "id": 104063,
       "name": "Beltinci",
@@ -70,7 +70,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "148": [
+  "BEN": [
     {
       "id": 104064,
       "name": "Benedikt",
@@ -79,7 +79,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "149": [
+  "BIS": [
     {
       "id": 104067,
       "name": "Bistrica ob Sotli",
@@ -88,7 +88,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "003": [
+  "BLE": [
     {
       "id": 104069,
       "name": "Bled",
@@ -111,7 +111,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "150": [
+  "BLO": [
     {
       "id": 104207,
       "name": "Nova Vas",
@@ -120,7 +120,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "004": [
+  "BOH": [
     {
       "id": 104070,
       "name": "Bohinjska Bistrica",
@@ -143,7 +143,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "005": [
+  "BOR": [
     {
       "id": 104071,
       "name": "Borovnica",
@@ -159,7 +159,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "006": [
+  "BOV": [
     {
       "id": 104072,
       "name": "Bovec",
@@ -175,7 +175,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "151": [
+  "BRA": [
     {
       "id": 104073,
       "name": "Braslovče",
@@ -184,7 +184,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "007": [
+  "BRD": [
     {
       "id": 104094,
       "name": "Dobrovo",
@@ -200,7 +200,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "009": [
+  "BRE": [
     {
       "id": 104076,
       "name": "Brežice",
@@ -216,7 +216,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "008": [
+  "BREZ": [
     {
       "id": 104075,
       "name": "Brezovica pri Ljubljani",
@@ -253,7 +253,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "152": [
+  "CAN": [
     {
       "id": 104078,
       "name": "Cankova",
@@ -262,7 +262,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "011": [
+  "CEL": [
     {
       "id": 104079,
       "name": "Celje",
@@ -285,7 +285,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "012": [
+  "CER": [
     {
       "id": 104080,
       "name": "Cerklje na Gorenjskem",
@@ -294,7 +294,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "013": [
+  "CERK": [
     {
       "id": 104081,
       "name": "Cerknica",
@@ -310,7 +310,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "014": [
+  "CERKN": [
     {
       "id": 104082,
       "name": "Cerkno",
@@ -319,7 +319,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "153": [
+  "CERKV": [
     {
       "id": 104083,
       "name": "Cerkvenjak",
@@ -328,8 +328,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "196": [],
-  "015": [
+  "CIR": [],
+  "CRE": [
     {
       "id": 104337,
       "name": "Črenšovci",
@@ -338,7 +338,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "016": [
+  "CRN": [
     {
       "id": 104338,
       "name": "Črna na Koroškem",
@@ -347,7 +347,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "017": [
+  "CRNO": [
     {
       "id": 104339,
       "name": "Črnomelj",
@@ -356,7 +356,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "018": [
+  "DES": [
     {
       "id": 104087,
       "name": "Destrnik",
@@ -365,7 +365,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "019": [
+  "DIV": [
     {
       "id": 104088,
       "name": "Divača",
@@ -374,7 +374,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "154": [
+  "DOB": [
     {
       "id": 104090,
       "name": "Dobje pri Planini",
@@ -383,7 +383,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "020": [
+  "DOBR": [
     {
       "id": 104309,
       "name": "Videm",
@@ -392,7 +392,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "155": [
+  "DOBRN": [
     {
       "id": 104091,
       "name": "Dobrna",
@@ -401,7 +401,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "021": [
+  "DG": [
     {
       "id": 104092,
       "name": "Dobrova",
@@ -410,7 +410,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "156": [
+  "DOBRO": [
     {
       "id": 104093,
       "name": "Dobrovnik",
@@ -419,7 +419,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "022": [
+  "DOL": [
     {
       "id": 104096,
       "name": "Dol pri Ljubljani",
@@ -428,7 +428,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "157": [
+  "DT": [
     {
       "id": 104097,
       "name": "Dolenjske Toplice",
@@ -437,7 +437,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "023": [
+  "DOM": [
     {
       "id": 104089,
       "name": "Dob",
@@ -467,7 +467,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "024": [
+  "DOR": [
     {
       "id": 104099,
       "name": "Dornava",
@@ -476,7 +476,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "025": [
+  "DRA": [
     {
       "id": 104102,
       "name": "Dravograd",
@@ -485,7 +485,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "026": [
+  "DUP": [
     {
       "id": 104283,
       "name": "Spodnji Duplek",
@@ -501,7 +501,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "027": [
+  "GOR": [
     {
       "id": 104106,
       "name": "Gorenja Vas",
@@ -510,7 +510,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "028": [
+  "GORI": [
     {
       "id": 104107,
       "name": "Gorišnica",
@@ -519,8 +519,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "207": [],
-  "029": [
+  "GORJ": [],
+  "GR": [
     {
       "id": 104108,
       "name": "Gornja Radgona",
@@ -529,7 +529,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "030": [
+  "GG": [
     {
       "id": 104109,
       "name": "Gornji Grad",
@@ -538,7 +538,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "031": [
+  "GP": [
     {
       "id": 104110,
       "name": "Gornji Petrovci",
@@ -547,7 +547,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "158": [
+  "GRA": [
     {
       "id": 104112,
       "name": "Grad",
@@ -556,7 +556,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "032": [
+  "GRO": [
     {
       "id": 104113,
       "name": "Grosuplje",
@@ -572,7 +572,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "159": [
+  "HAJ": [
     {
       "id": 104279,
       "name": "Spodnja Hajdina",
@@ -581,7 +581,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "160": [
+  "HOC": [
     {
       "id": 104116,
       "name": "Hotinja Vas",
@@ -611,7 +611,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "161": [
+  "HOD": [
     {
       "id": 104114,
       "name": "Hodoš",
@@ -620,7 +620,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "162": [
+  "HOR": [
     {
       "id": 104115,
       "name": "Horjul",
@@ -629,7 +629,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "034": [
+  "HRA": [
     {
       "id": 104095,
       "name": "Dol pri Hrastniku",
@@ -645,7 +645,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "035": [
+  "HRP": [
     {
       "id": 104147,
       "name": "Kozina",
@@ -654,7 +654,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "036": [
+  "IDR": [
     {
       "id": 104122,
       "name": "Idrija",
@@ -670,7 +670,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "037": [
+  "IGX": [
     {
       "id": 104123,
       "name": "Ig",
@@ -679,7 +679,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "038": [
+  "ILI": [
     {
       "id": 104124,
       "name": "Ilirska Bistrica",
@@ -688,7 +688,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "039": [
+  "IVA": [
     {
       "id": 104125,
       "name": "Ivančna Gorica",
@@ -704,7 +704,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "040": [
+  "IZO": [
     {
       "id": 104127,
       "name": "Izola",
@@ -720,7 +720,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "041": [
+  "JES": [
     {
       "id": 104120,
       "name": "Hrušica",
@@ -750,7 +750,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "163": [
+  "JEZ": [
     {
       "id": 104332,
       "name": "Zgornje Jezersko",
@@ -759,7 +759,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "042": [
+  "JUR": [
     {
       "id": 104131,
       "name": "Juršinci",
@@ -768,7 +768,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "043": [
+  "KAM": [
     {
       "id": 104133,
       "name": "Kamnik",
@@ -791,7 +791,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "044": [
+  "KAN": [
     {
       "id": 104086,
       "name": "Deskle",
@@ -807,7 +807,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "045": [
+  "KID": [
     {
       "id": 104135,
       "name": "Kidričevo",
@@ -816,7 +816,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "046": [
+  "KOB": [
     {
       "id": 104137,
       "name": "Kobarid",
@@ -825,7 +825,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "047": [
+  "KOBI": [
     {
       "id": 104138,
       "name": "Kobilje",
@@ -834,7 +834,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "048": [
+  "KOC": [
     {
       "id": 104149,
       "name": "Kočevje",
@@ -843,7 +843,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "049": [
+  "KOM": [
     {
       "id": 104140,
       "name": "Komen",
@@ -852,7 +852,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "164": [
+  "KOME": [
     {
       "id": 104141,
       "name": "Komenda",
@@ -868,7 +868,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "050": [
+  "KOP": [
     {
       "id": 104085,
       "name": "Dekani",
@@ -919,8 +919,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "197": [],
-  "165": [
+  "KOS": [],
+  "KOST": [
     {
       "id": 104145,
       "name": "Kostel",
@@ -929,7 +929,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "051": [
+  "KOZ": [
     {
       "id": 104148,
       "name": "Kozje",
@@ -938,7 +938,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "052": [
+  "KRA": [
     {
       "id": 104077,
       "name": "Britof",
@@ -982,7 +982,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "053": [
+  "KG": [
     {
       "id": 104151,
       "name": "Kranjska Gora",
@@ -998,7 +998,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "166": [
+  "KRI": [
     {
       "id": 104152,
       "name": "Križevci pri Ljutomeru",
@@ -1007,7 +1007,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "054": [
+  "KRS": [
     {
       "id": 104155,
       "name": "Krško",
@@ -1030,7 +1030,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "055": [
+  "KUN": [
     {
       "id": 104328,
       "name": "Zgornja Kungota",
@@ -1039,7 +1039,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "056": [
+  "KUZ": [
     {
       "id": 104156,
       "name": "Kuzma",
@@ -1048,7 +1048,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "057": [
+  "LAS": [
     {
       "id": 104158,
       "name": "Laško",
@@ -1057,7 +1057,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "058": [
+  "LEN": [
     {
       "id": 104160,
       "name": "Lenart v Slov. Goricah",
@@ -1066,7 +1066,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "059": [
+  "LEND": [
     {
       "id": 104161,
       "name": "Lendava",
@@ -1075,7 +1075,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "060": [
+  "LIT": [
     {
       "id": 104167,
       "name": "Litija",
@@ -1084,7 +1084,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "061": [
+  "LJU": [
     {
       "id": 104101,
       "name": "Dravlje",
@@ -1163,7 +1163,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "062": [
+  "LJUB": [
     {
       "id": 104170,
       "name": "Ljubno ob Savinji",
@@ -1172,7 +1172,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "063": [
+  "LJUT": [
     {
       "id": 104171,
       "name": "Ljutomer",
@@ -1181,8 +1181,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "208": [],
-  "064": [
+  "LOG": [],
+  "LOGA": [
     {
       "id": 104173,
       "name": "Logatec",
@@ -1191,7 +1191,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "065": [
+  "LOS": [
     {
       "id": 104163,
       "name": "Leskova Dolina",
@@ -1200,7 +1200,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "066": [
+  "LP": [
     {
       "id": 104119,
       "name": "Hrib-Loški Potok",
@@ -1209,7 +1209,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "167": [
+  "LOV": [
     {
       "id": 104175,
       "name": "Lovrenc na Pohorju",
@@ -1218,7 +1218,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "067": [
+  "LUC": [
     {
       "id": 104178,
       "name": "Luče",
@@ -1227,7 +1227,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "068": [
+  "LUK": [
     {
       "id": 104177,
       "name": "Lukovica pri Domžalah",
@@ -1236,7 +1236,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "069": [
+  "MAJ": [
     {
       "id": 104179,
       "name": "Majšperk",
@@ -1245,8 +1245,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "198": [],
-  "070": [
+  "MAK": [],
+  "MAR": [
     {
       "id": 104074,
       "name": "Bresternica",
@@ -1290,7 +1290,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "168": [
+  "MARK": [
     {
       "id": 104182,
       "name": "Markovci",
@@ -1299,7 +1299,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "071": [
+  "MED": [
     {
       "id": 104183,
       "name": "Medvode",
@@ -1322,7 +1322,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "072": [
+  "MEN": [
     {
       "id": 104185,
       "name": "Mengeš",
@@ -1338,7 +1338,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "073": [
+  "MET": [
     {
       "id": 104186,
       "name": "Metlika",
@@ -1347,7 +1347,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "074": [
+  "MEZ": [
     {
       "id": 104187,
       "name": "Mežica",
@@ -1356,7 +1356,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "169": [
+  "MIK": [
     {
       "id": 104188,
       "name": "Miklavž na Dravskem Polju",
@@ -1365,7 +1365,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "075": [
+  "MIR": [
     {
       "id": 104065,
       "name": "Bilje",
@@ -1381,8 +1381,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "212": [],
-  "170": [
+  "MIRN": [],
+  "MP": [
     {
       "id": 104191,
       "name": "Mirna Peč",
@@ -1391,7 +1391,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "076": [
+  "MIS": [
     {
       "id": 104192,
       "name": "Mislinja",
@@ -1400,8 +1400,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "199": [],
-  "077": [
+  "MOK": [],
+  "MOR": [
     {
       "id": 104197,
       "name": "Moravče",
@@ -1410,7 +1410,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "078": [
+  "MT": [
     {
       "id": 104196,
       "name": "Moravske Toplice",
@@ -1419,7 +1419,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "079": [
+  "MOZ": [
     {
       "id": 104200,
       "name": "Mozirje",
@@ -1428,7 +1428,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "080": [
+  "MUR": [
     {
       "id": 104062,
       "name": "Bakovci",
@@ -1465,7 +1465,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "081": [
+  "MUT": [
     {
       "id": 104202,
       "name": "Muta",
@@ -1474,7 +1474,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "082": [
+  "NAK": [
     {
       "id": 104203,
       "name": "Naklo",
@@ -1483,7 +1483,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "083": [
+  "NAZ": [
     {
       "id": 104204,
       "name": "Nazarje",
@@ -1492,7 +1492,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "084": [
+  "NOV": [
     {
       "id": 104154,
       "name": "Kromberk",
@@ -1529,7 +1529,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "085": [
+  "NM": [
     {
       "id": 104208,
       "name": "Novo Mesto",
@@ -1538,7 +1538,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "086": [
+  "ODR": [
     {
       "id": 104209,
       "name": "Odranci",
@@ -1547,7 +1547,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "171": [
+  "OPL": [
     {
       "id": 104210,
       "name": "Oplotnica",
@@ -1556,7 +1556,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "087": [
+  "ORM": [
     {
       "id": 104216,
       "name": "Ormož",
@@ -1565,7 +1565,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "088": [
+  "OSI": [
     {
       "id": 104217,
       "name": "Osilnica",
@@ -1574,7 +1574,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "089": [
+  "PES": [
     {
       "id": 104220,
       "name": "Pesnica pri Mariboru",
@@ -1583,7 +1583,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "090": [
+  "PIR": [
     {
       "id": 104176,
       "name": "Lucija",
@@ -1613,7 +1613,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "091": [
+  "PIV": [
     {
       "id": 104222,
       "name": "Pivka",
@@ -1622,7 +1622,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "092": [
+  "POD": [
     {
       "id": 104226,
       "name": "Podčetrtek",
@@ -1631,7 +1631,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "172": [
+  "PODL": [
     {
       "id": 104224,
       "name": "Podlehnik",
@@ -1640,7 +1640,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "093": [
+  "PODV": [
     {
       "id": 104225,
       "name": "Podvelka",
@@ -1649,8 +1649,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "200": [],
-  "173": [
+  "POL": [],
+  "POLZ": [
     {
       "id": 104228,
       "name": "Polzela",
@@ -1659,7 +1659,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "094": [
+  "POS": [
     {
       "id": 104230,
       "name": "Postojna",
@@ -1668,7 +1668,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "174": [
+  "PRE": [
     {
       "id": 104233,
       "name": "Prebold",
@@ -1677,7 +1677,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "095": [
+  "PRED": [
     {
       "id": 104234,
       "name": "Preddvor",
@@ -1686,7 +1686,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "175": [
+  "PREV": [
     {
       "id": 104236,
       "name": "Prevalje",
@@ -1695,7 +1695,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "096": [
+  "PTU": [
     {
       "id": 104238,
       "name": "Ptuj",
@@ -1704,7 +1704,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "097": [
+  "PUC": [
     {
       "id": 104239,
       "name": "Puconci",
@@ -1713,7 +1713,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "098": [
+  "RAC": [
     {
       "id": 104103,
       "name": "Fram",
@@ -1736,7 +1736,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "099": [
+  "RAD": [
     {
       "id": 104241,
       "name": "Radeče",
@@ -1745,7 +1745,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "100": [
+  "RADE": [
     {
       "id": 104240,
       "name": "Radenci",
@@ -1754,7 +1754,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "101": [
+  "ROD": [
     {
       "id": 104243,
       "name": "Radlje ob Dravi",
@@ -1763,7 +1763,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "102": [
+  "RADO": [
     {
       "id": 104162,
       "name": "Lesce",
@@ -1779,7 +1779,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "103": [
+  "RAV": [
     {
       "id": 104146,
       "name": "Kotlje",
@@ -1795,7 +1795,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "176": [
+  "RAZ": [
     {
       "id": 104250,
       "name": "Razkrižje",
@@ -1804,8 +1804,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "209": [],
-  "201": [
+  "REC": [],
+  "REN": [
     {
       "id": 104253,
       "name": "Renče",
@@ -1821,7 +1821,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "104": [
+  "RIB": [
     {
       "id": 104255,
       "name": "Ribnica",
@@ -1830,7 +1830,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "177": [
+  "RNP": [
     {
       "id": 104256,
       "name": "Ribnica na Pohorju",
@@ -1839,7 +1839,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "106": [
+  "ROG": [
     {
       "id": 104258,
       "name": "Rogaška Slatina",
@@ -1848,7 +1848,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "105": [
+  "ROGA": [
     {
       "id": 104259,
       "name": "Rogašovci",
@@ -1857,7 +1857,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "107": [
+  "ROGAT": [
     {
       "id": 104257,
       "name": "Rogatec",
@@ -1866,7 +1866,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "108": [
+  "RUS": [
     {
       "id": 104066,
       "name": "Bistrica ob Dravi",
@@ -1882,7 +1882,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "033": [
+  "SAL": [
     {
       "id": 104341,
       "name": "Šalovci",
@@ -1891,7 +1891,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "178": [
+  "SEL": [
     {
       "id": 104264,
       "name": "Selnica ob Dravi",
@@ -1900,7 +1900,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "109": [
+  "SEM": [
     {
       "id": 104266,
       "name": "Semič",
@@ -1909,7 +1909,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "183": [
+  "SEMP": [
     {
       "id": 104261,
       "name": "Rožna Dolina",
@@ -1932,7 +1932,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "117": [
+  "SEN": [
     {
       "id": 104117,
       "name": "Hrastje",
@@ -1948,7 +1948,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "118": [
+  "SENT": [
     {
       "id": 104265,
       "name": "Selnica ob Muri",
@@ -1964,7 +1964,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "119": [
+  "SENTJ": [
     {
       "id": 104346,
       "name": "Šentjernej",
@@ -1973,7 +1973,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "120": [
+  "SENTJU": [
     {
       "id": 104347,
       "name": "Šentjur",
@@ -1982,7 +1982,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "211": [
+  "SENTR": [
     {
       "id": 104348,
       "name": "Šentrupert",
@@ -1991,7 +1991,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "110": [
+  "SEV": [
     {
       "id": 104268,
       "name": "Sevnica",
@@ -2000,7 +2000,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "111": [
+  "SEZ": [
     {
       "id": 104270,
       "name": "Sežana",
@@ -2009,7 +2009,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "121": [
+  "SKO": [
     {
       "id": 104352,
       "name": "Škocjan",
@@ -2018,7 +2018,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "122": [
+  "SL": [
     {
       "id": 104353,
       "name": "Škofja Loka",
@@ -2034,7 +2034,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "123": [
+  "SKOF": [
     {
       "id": 104157,
       "name": "Lavrica",
@@ -2050,7 +2050,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "112": [
+  "SLO": [
     {
       "id": 104159,
       "name": "Legen",
@@ -2080,7 +2080,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "113": [
+  "SB": [
     {
       "id": 104232,
       "name": "Pragersko",
@@ -2103,7 +2103,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "114": [
+  "SK": [
     {
       "id": 104273,
       "name": "Slovenske Konjice",
@@ -2112,7 +2112,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "124": [
+  "SMA": [
     {
       "id": 104356,
       "name": "Šmarje pri Jelšah",
@@ -2121,7 +2121,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "206": [
+  "ST": [
     {
       "id": 104358,
       "name": "Šmarjeta",
@@ -2130,7 +2130,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "125": [
+  "SOP": [
     {
       "id": 104359,
       "name": "Šmartno ob Paki",
@@ -2139,7 +2139,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "194": [
+  "SPL": [
     {
       "id": 104360,
       "name": "Šmartno pri Litiji",
@@ -2148,7 +2148,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "179": [
+  "SOD": [
     {
       "id": 104275,
       "name": "Sodražica",
@@ -2157,7 +2157,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "180": [
+  "SOL": [
     {
       "id": 104277,
       "name": "Solčava",
@@ -2166,7 +2166,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "126": [
+  "SOS": [
     {
       "id": 104248,
       "name": "Ravne",
@@ -2189,7 +2189,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "202": [
+  "SRE": [
     {
       "id": 104284,
       "name": "Središče ob Dravi",
@@ -2198,7 +2198,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "115": [
+  "STA": [
     {
       "id": 104285,
       "name": "Starše",
@@ -2207,7 +2207,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "127": [
+  "STO": [
     {
       "id": 104363,
       "name": "Štore",
@@ -2216,7 +2216,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "203": [
+  "STR": [
     {
       "id": 104286,
       "name": "Straža",
@@ -2225,7 +2225,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "181": [
+  "SVE": [
     {
       "id": 104287,
       "name": "Sv. Ana v Slov. Goricah",
@@ -2234,7 +2234,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "204": [
+  "STVSG": [
     {
       "id": 104290,
       "name": "Sv. Trojica v Slov. Goricah",
@@ -2243,7 +2243,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "182": [
+  "SAVSG": [
     {
       "id": 104314,
       "name": "Vitomarci",
@@ -2252,8 +2252,8 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "116": [],
-  "210": [
+  "SJOS": [],
+  "SJVSG": [
     {
       "id": 104291,
       "name": "Sveti Jurij ob Ščavnici",
@@ -2262,7 +2262,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "205": [
+  "SVET": [
     {
       "id": 104292,
       "name": "Sveti Tomaž",
@@ -2271,7 +2271,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "184": [
+  "TAB": [
     {
       "id": 104293,
       "name": "Tabor",
@@ -2280,7 +2280,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "010": [
+  "TIS": [
     {
       "id": 104294,
       "name": "Tišina",
@@ -2289,7 +2289,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "128": [
+  "TOL": [
     {
       "id": 104295,
       "name": "Tolmin",
@@ -2298,7 +2298,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "129": [
+  "TRB": [
     {
       "id": 104297,
       "name": "Trbovlje",
@@ -2307,7 +2307,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "130": [
+  "TRE": [
     {
       "id": 104298,
       "name": "Trebnje",
@@ -2316,7 +2316,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "185": [
+  "TRN": [
     {
       "id": 104301,
       "name": "Trnovska Vas",
@@ -2325,7 +2325,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "131": [
+  "TRZ": [
     {
       "id": 104068,
       "name": "Bistrica pri Tržiču",
@@ -2341,7 +2341,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "186": [
+  "TRZI": [
     {
       "id": 104340,
       "name": "Črnuče",
@@ -2357,7 +2357,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "132": [
+  "TUR": [
     {
       "id": 104304,
       "name": "Turnišče",
@@ -2366,7 +2366,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "133": [
+  "VEL": [
     {
       "id": 160110,
       "name": "Velenje",
@@ -2375,7 +2375,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "187": [
+  "VP": [
     {
       "id": 104305,
       "name": "Velika Polana",
@@ -2384,7 +2384,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "134": [
+  "VL": [
     {
       "id": 104306,
       "name": "Velike Lašče",
@@ -2393,7 +2393,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "188": [
+  "VER": [
     {
       "id": 104308,
       "name": "Veržej",
@@ -2402,7 +2402,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "135": [
+  "VID": [
     {
       "id": 104310,
       "name": "Videm pri Ptuju",
@@ -2411,7 +2411,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "136": [
+  "VIP": [
     {
       "id": 104311,
       "name": "Vipava",
@@ -2420,7 +2420,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "137": [
+  "VIT": [
     {
       "id": 104313,
       "name": "Vitanje",
@@ -2429,7 +2429,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "138": [
+  "VOD": [
     {
       "id": 104317,
       "name": "Vodice",
@@ -2438,7 +2438,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "139": [
+  "VOJ": [
     {
       "id": 104318,
       "name": "Vojnik",
@@ -2447,7 +2447,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "189": [
+  "VRA": [
     {
       "id": 104320,
       "name": "Vransko",
@@ -2456,7 +2456,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "140": [
+  "VRH": [
     {
       "id": 104307,
       "name": "Verd",
@@ -2472,7 +2472,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "141": [
+  "VUZ": [
     {
       "id": 104323,
       "name": "Vuzenica",
@@ -2481,7 +2481,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "142": [
+  "ZAG": [
     {
       "id": 104126,
       "name": "Izlake",
@@ -2504,7 +2504,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "190": [
+  "ZAL": [
     {
       "id": 104111,
       "name": "Gotovlje",
@@ -2534,7 +2534,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "143": [
+  "ZAV": [
     {
       "id": 104327,
       "name": "Zavrč",
@@ -2543,7 +2543,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "146": [
+  "ZEL": [
     {
       "id": 104365,
       "name": "Železniki",
@@ -2552,7 +2552,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "191": [
+  "ZET": [
     {
       "id": 104366,
       "name": "Žetale",
@@ -2561,7 +2561,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "147": [
+  "ZIR": [
     {
       "id": 104367,
       "name": "Žiri",
@@ -2570,7 +2570,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "192": [
+  "ZIRO": [
     {
       "id": 104368,
       "name": "Žirovnica",
@@ -2579,7 +2579,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "144": [
+  "ZRE": [
     {
       "id": 104335,
       "name": "Zreče",
@@ -2588,7 +2588,7 @@
       "timezone": "Europe/Ljubljana"
     }
   ],
-  "193": [
+  "ZUZ": [
     {
       "id": 104369,
       "name": "Žužemberk",

@@ -1,5 +1,5 @@
 {
-  "01": [
+  "CEN": [
     {
       "id": 153462,
       "name": "Bukit Timah",
@@ -85,7 +85,7 @@
       "timezone": "Asia/Singapore"
     }
   ],
-  "02": [
+  "NOR": [
     {
       "id": 153475,
       "name": "Ang Mo Kio",
@@ -122,7 +122,7 @@
       "timezone": "Asia/Singapore"
     }
   ],
-  "03": [
+  "NW": [
     {
       "id": 153476,
       "name": "Sembawang",
@@ -145,7 +145,7 @@
       "timezone": "Asia/Singapore"
     }
   ],
-  "04": [
+  "SOU": [
     {
       "id": 153478,
       "name": "Bedok",
@@ -168,7 +168,7 @@
       "timezone": "Asia/Singapore"
     }
   ],
-  "05": [
+  "SW": [
     {
       "id": 153481,
       "name": "Bukit Batok",

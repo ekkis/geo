@@ -1,5 +1,5 @@
 {
-  "01": [
+  "BAL": [
     {
       "id": 66437,
       "name": "Balzers",
@@ -8,7 +8,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "02": [
+  "ESC": [
     {
       "id": 66438,
       "name": "Eschen",
@@ -17,7 +17,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "03": [
+  "GAM": [
     {
       "id": 66439,
       "name": "Gamprin",
@@ -26,7 +26,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "04": [
+  "MAU": [
     {
       "id": 66440,
       "name": "Mauren",
@@ -35,7 +35,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "05": [
+  "PLA": [
     {
       "id": 66441,
       "name": "Planken",
@@ -44,7 +44,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "06": [
+  "RUG": [
     {
       "id": 66442,
       "name": "Ruggell",
@@ -53,7 +53,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "07": [
+  "SCH": [
     {
       "id": 66443,
       "name": "Schaan",
@@ -62,7 +62,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "08": [
+  "SCH1": [
     {
       "id": 66444,
       "name": "Schellenberg",
@@ -71,7 +71,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "09": [
+  "TRI": [
     {
       "id": 66445,
       "name": "Triesen",
@@ -80,7 +80,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "10": [
+  "TRI1": [
     {
       "id": 66446,
       "name": "Triesenberg",
@@ -89,7 +89,7 @@
       "timezone": "Europe/Vaduz"
     }
   ],
-  "11": [
+  "VAD": [
     {
       "id": 66447,
       "name": "Vaduz",

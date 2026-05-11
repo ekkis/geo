@@ -1,41 +1,41 @@
 {
-  "44": {
+  "AG": {
     "name": "An Giang"
   },
-  "56": {
+  "BN": {
     "name": "Bắc Ninh"
   },
-  "59": {
+  "CM": {
     "name": "Cà Mau"
   },
   "CT": {
     "name": "Cần Thơ"
   },
-  "04": {
+  "CB": {
     "name": "Cao Bằng"
   },
   "DN": {
     "name": "Đà Nẵng"
   },
-  "33": {
+  "AKX": {
     "name": "Đắk Lắk"
   },
-  "71": {
+  "IEN": {
     "name": "Điện Biên"
   },
-  "39": {
+  "ONG": {
     "name": "Đồng Nai"
   },
-  "45": {
+  "OT": {
     "name": "Đồng Tháp"
   },
-  "30": {
+  "GL": {
     "name": "Gia Lai"
   },
   "HN": {
     "name": "Hà Nội"
   },
-  "23": {
+  "HT": {
     "name": "Hà Tĩnh"
   },
   "HP": {
@@ -44,61 +44,61 @@
   "SG": {
     "name": "Hồ Chí Minh"
   },
-  "66": {
+  "HY": {
     "name": "Hưng Yên"
   },
-  "34": {
+  "KH": {
     "name": "Khánh Hòa"
   },
-  "01": {
+  "LC": {
     "name": "Lai Châu"
   },
-  "35": {
+  "LAM": {
     "name": "Lâm Đồng"
   },
-  "09": {
+  "LS": {
     "name": "Lạng Sơn"
   },
-  "02": {
+  "LAO": {
     "name": "Lào Cai"
   },
-  "22": {
+  "NA": {
     "name": "Nghệ An"
   },
-  "18": {
+  "NB": {
     "name": "Ninh Bình"
   },
-  "68": {
+  "PT": {
     "name": "Phú Thọ"
   },
-  "29": {
+  "QN": {
     "name": "Quảng Ngãi"
   },
-  "13": {
+  "QUA": {
     "name": "Quảng Ninh"
   },
-  "25": {
+  "QT": {
     "name": "Quảng Trị"
   },
-  "05": {
+  "SL": {
     "name": "Sơn La"
   },
-  "37": {
+  "TN": {
     "name": "Tây Ninh"
   },
-  "69": {
+  "THA": {
     "name": "Thái Nguyên"
   },
-  "21": {
+  "TH": {
     "name": "Thanh Hóa"
   },
-  "26": {
+  "THU": {
     "name": "Thừa Thiên-Huế"
   },
-  "07": {
+  "TQ": {
     "name": "Tuyên Quang"
   },
-  "49": {
+  "VL": {
     "name": "Vĩnh Long"
   }
 }

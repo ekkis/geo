@@ -1,32 +1,32 @@
 {
-  "02": {
+  "AND": {
     "name": "Saint Andrew"
   },
-  "03": {
+  "DAV": {
     "name": "Saint David"
   },
-  "04": {
+  "GEO": {
     "name": "Saint George"
   },
-  "05": {
+  "JOH": {
     "name": "Saint John"
   },
-  "06": {
+  "JOS": {
     "name": "Saint Joseph"
   },
-  "07": {
+  "LUK": {
     "name": "Saint Luke"
   },
-  "08": {
+  "MAR": {
     "name": "Saint Mark"
   },
-  "09": {
+  "PAT": {
     "name": "Saint Patrick"
   },
-  "10": {
+  "PAU": {
     "name": "Saint Paul"
   },
-  "11": {
+  "PET": {
     "name": "Saint Peter"
   }
 }

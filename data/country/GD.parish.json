@@ -1,23 +1,23 @@
 {
-  "10": {
+  "CAR": {
     "name": "Carriacou"
   },
-  "01": {
+  "AND": {
     "name": "Saint Andrew"
   },
-  "02": {
+  "DAV": {
     "name": "Saint David"
   },
-  "03": {
+  "GEO": {
     "name": "Saint George"
   },
-  "04": {
+  "JOH": {
     "name": "Saint John"
   },
-  "05": {
+  "MAR": {
     "name": "Saint Mark"
   },
-  "06": {
+  "PAT": {
     "name": "Saint Patrick"
   }
 }

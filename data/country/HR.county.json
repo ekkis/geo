@@ -1,62 +1,62 @@
 {
-  "07": {
+  "BJE": {
     "name": "Bjelovar-Bilogora"
   },
-  "12": {
+  "BRO": {
     "name": "Brod-Posavina"
   },
-  "19": {
+  "DUB": {
     "name": "Dubrovnik-Neretva"
   },
-  "18": {
+  "IST": {
     "name": "Istria"
   },
-  "04": {
+  "KAR": {
     "name": "Karlovac"
   },
-  "06": {
+  "KOP": {
     "name": "Koprivnica-Križevci"
   },
-  "02": {
+  "KRA": {
     "name": "Krapina-Zagorje"
   },
-  "09": {
+  "LIK": {
     "name": "Lika-Senj"
   },
-  "20": {
+  "MEI": {
     "name": "Međimurje"
   },
-  "14": {
+  "OSI": {
     "name": "Osijek-Baranja"
   },
-  "11": {
+  "POZ": {
     "name": "Požega-Slavonia"
   },
-  "08": {
+  "PRIKO": {
     "name": "Primorje-Gorski Kotar"
   },
-  "15": {
+  "SIB": {
     "name": "Šibenik-Knin"
   },
-  "03": {
+  "SIS": {
     "name": "Sisak-Moslavina"
   },
-  "17": {
+  "SPL": {
     "name": "Split-Dalmatia"
   },
-  "05": {
+  "VAR": {
     "name": "Varaždin"
   },
-  "10": {
+  "VIR": {
     "name": "Virovitica-Podravina"
   },
-  "16": {
+  "VUK": {
     "name": "Vukovar-Syrmia"
   },
-  "13": {
+  "ZAD": {
     "name": "Zadar"
   },
-  "01": {
+  "ZAG": {
     "name": "Zagreb"
   }
 }

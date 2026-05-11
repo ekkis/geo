@@ -1,5 +1,5 @@
 {
-  "65": {
+  "ABR": {
     "name": "Abruzzo"
   },
   "AG": {
@@ -11,10 +11,10 @@
   "AN": {
     "name": "Ancona"
   },
-  "23": {
+  "AOS": {
     "name": "Aosta Valley"
   },
-  "75": {
+  "APU": {
     "name": "Apulia"
   },
   "AR": {
@@ -35,7 +35,7 @@
   "BT": {
     "name": "Barletta-Andria-Trani"
   },
-  "77": {
+  "BAS": {
     "name": "Basilicata"
   },
   "BL": {
@@ -62,13 +62,13 @@
   "CA": {
     "name": "Cagliari"
   },
-  "78": {
+  "CAL": {
     "name": "Calabria"
   },
   "CL": {
     "name": "Caltanissetta"
   },
-  "72": {
+  "CAM": {
     "name": "Campania"
   },
   "CB": {
@@ -101,7 +101,7 @@
   "CN": {
     "name": "Cuneo"
   },
-  "45": {
+  "EMI": {
     "name": "Emilia-Romagna"
   },
   "EN": {
@@ -122,7 +122,7 @@
   "FC": {
     "name": "Forlì-Cesena"
   },
-  "36": {
+  "FRI": {
     "name": "Friuli–Venezia Giulia"
   },
   "FR": {
@@ -152,7 +152,7 @@
   "LT": {
     "name": "Latina"
   },
-  "62": {
+  "LAZ": {
     "name": "Lazio"
   },
   "LE": {
@@ -161,7 +161,7 @@
   "LC": {
     "name": "Lecco"
   },
-  "42": {
+  "LIG": {
     "name": "Liguria"
   },
   "LI": {
@@ -170,7 +170,7 @@
   "LO": {
     "name": "Lodi"
   },
-  "25": {
+  "LOM": {
     "name": "Lombardy"
   },
   "LU": {
@@ -182,7 +182,7 @@
   "MN": {
     "name": "Mantua"
   },
-  "57": {
+  "MAR": {
     "name": "Marche"
   },
   "MS": {
@@ -200,7 +200,7 @@
   "MO": {
     "name": "Modena"
   },
-  "67": {
+  "MOL": {
     "name": "Molise"
   },
   "MB": {
@@ -242,7 +242,7 @@
   "PC": {
     "name": "Piacenza"
   },
-  "21": {
+  "PIE": {
     "name": "Piedmont"
   },
   "PI": {
@@ -287,7 +287,7 @@
   "SA": {
     "name": "Salerno"
   },
-  "88": {
+  "SAR": {
     "name": "Sardinia"
   },
   "SS": {
@@ -296,7 +296,7 @@
   "SV": {
     "name": "Savona"
   },
-  "82": {
+  "SIC": {
     "name": "Sicily"
   },
   "SI": {
@@ -329,7 +329,7 @@
   "TN": {
     "name": "Trentino"
   },
-  "32": {
+  "TRE": {
     "name": "Trentino-South Tyrol"
   },
   "TV": {
@@ -341,19 +341,19 @@
   "TO": {
     "name": "Turin"
   },
-  "52": {
+  "TUS": {
     "name": "Tuscany"
   },
   "UD": {
     "name": "Udine"
   },
-  "55": {
+  "UMB": {
     "name": "Umbria"
   },
   "VA": {
     "name": "Varese"
   },
-  "34": {
+  "VEN": {
     "name": "Veneto"
   },
   "VE": {

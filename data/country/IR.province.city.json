@@ -1,5 +1,5 @@
 {
-  "30": [
+  "ALB": [
     {
       "id": 150293,
       "name": "Asara",
@@ -120,7 +120,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "24": [
+  "ARD": [
     {
       "id": 150198,
       "name": "Abibeiglou",
@@ -318,7 +318,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "18": [
+  "BUS": [
     {
       "id": 150327,
       "name": "Ab Pakhsh",
@@ -635,7 +635,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "14": [
+  "CHA": [
     {
       "id": 150411,
       "name": "Aluni",
@@ -945,7 +945,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "03": [
+  "EAS": [
     {
       "id": 150134,
       "name": "Abeshahmad",
@@ -1409,7 +1409,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "07": [
+  "FAR": [
     {
       "id": 135151,
       "name": "Abadeh",
@@ -2209,7 +2209,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "01": [
+  "GIL": [
     {
       "id": 150879,
       "name": "Ahmadsargurab",
@@ -2589,7 +2589,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "27": [
+  "GOL": [
     {
       "id": 150848,
       "name": "Aliabad-e-Katul",
@@ -2829,7 +2829,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "13": [
+  "HAM": [
     {
       "id": 146942,
       "name": "Ab Meshkin",
@@ -6268,7 +6268,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "22": [
+  "HOR": [
     {
       "id": 134786,
       "name": "Abu Musa",
@@ -6578,7 +6578,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "16": [
+  "ILA": [
     {
       "id": 135149,
       "name": "abdanan",
@@ -6783,7 +6783,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "10": [
+  "ISF": [
     {
       "id": 150201,
       "name": "Abouzeidabad",
@@ -7632,7 +7632,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "08": [
+  "KER": [
     {
       "id": 150753,
       "name": "Aminshahr",
@@ -8173,7 +8173,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "05": [
+  "KERM": [
     {
       "id": 150811,
       "name": "azeh Abad",
@@ -8420,7 +8420,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "06": [
+  "KHU": [
     {
       "id": 134555,
       "name": "Abadan",
@@ -8996,7 +8996,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "17": [
+  "KOH": [
     {
       "id": 134799,
       "name": "Bahmai",
@@ -9152,7 +9152,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "12": [
+  "KUR": [
     {
       "id": 150733,
       "name": "Armardeh",
@@ -9357,7 +9357,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "15": [
+  "LOR": [
     {
       "id": 134564,
       "name": "Aleshtar",
@@ -9569,7 +9569,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "00": [
+  "MAR": [
     {
       "id": 135150,
       "name": "Abyek",
@@ -9837,7 +9837,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "02": [
+  "MAZ": [
     {
       "id": 135099,
       "name": "Abbasabad",
@@ -10266,7 +10266,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "28": [
+  "NOR": [
     {
       "id": 150506,
       "name": "Ashkhaneh",
@@ -10436,7 +10436,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "26": [
+  "QAZ": [
     {
       "id": 150710,
       "name": "Abgarm",
@@ -10620,7 +10620,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "25": [
+  "QOM": [
     {
       "id": 150729,
       "name": "Dastjerd",
@@ -10664,7 +10664,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "09": [
+  "RAZ": [
     {
       "id": 150445,
       "name": "Ahmad-abad-e-Solat",
@@ -11240,7 +11240,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "20": [
+  "SEM": [
     {
       "id": 150585,
       "name": "Amiriyeh",
@@ -11389,7 +11389,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "11": [
+  "SIS": [
     {
       "id": 150621,
       "name": "Adimi",
@@ -11699,7 +11699,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "29": [
+  "SOU": [
     {
       "id": 150432,
       "name": "Arian Shahr",
@@ -11932,7 +11932,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "23": [
+  "TEH": [
     {
       "id": 150359,
       "name": "Abali",
@@ -12291,7 +12291,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "04": [
+  "WES": [
     {
       "id": 150164,
       "name": "Avajiq",
@@ -12615,7 +12615,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "21": [
+  "YAZ": [
     {
       "id": 151015,
       "name": "Abarkooh",
@@ -12813,7 +12813,7 @@
       "timezone": "Asia/Tehran"
     }
   ],
-  "19": [
+  "ZAN": [
     {
       "id": 150580,
       "name": "Abbar",

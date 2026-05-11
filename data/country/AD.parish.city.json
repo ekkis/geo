@@ -1,5 +1,5 @@
 {
-  "07": [
+  "AND": [
     {
       "id": 1,
       "name": "Andorra la Vella",
@@ -8,7 +8,7 @@
       "timezone": "Europe/Andorra"
     }
   ],
-  "02": [
+  "CAN": [
     {
       "id": 3,
       "name": "Canillo",
@@ -24,7 +24,7 @@
       "timezone": "Europe/Andorra"
     }
   ],
-  "03": [
+  "ENC": [
     {
       "id": 5,
       "name": "Encamp",
@@ -40,7 +40,7 @@
       "timezone": "Europe/Andorra"
     }
   ],
-  "08": [
+  "ESC": [
     {
       "id": 10,
       "name": "les Escaldes",
@@ -49,7 +49,7 @@
       "timezone": "Europe/Andorra"
     }
   ],
-  "04": [
+  "MAS": [
     {
       "id": 2,
       "name": "Arinsal",
@@ -65,7 +65,7 @@
       "timezone": "Europe/Andorra"
     }
   ],
-  "05": [
+  "ORD": [
     {
       "id": 6,
       "name": "Ordino",
@@ -74,7 +74,7 @@
       "timezone": "Europe/Andorra"
     }
   ],
-  "06": [
+  "SAN": [
     {
       "id": 8,
       "name": "Sant Julià de Lòria",

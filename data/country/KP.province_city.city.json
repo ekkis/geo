@@ -1,5 +1,5 @@
 {
-  "04": [
+  "CHAGANG": [
     {
       "id": 65186,
       "name": "Changgang-gun",
@@ -29,8 +29,8 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "15": [],
-  "07": [
+  "KAE": [],
+  "KANGWON": [
     {
       "id": 65181,
       "name": "Anbyŏn-ŭp",
@@ -67,8 +67,8 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "14": [],
-  "09": [
+  "NAM": [],
+  "HAMPNORTH": [
     {
       "id": 65183,
       "name": "Aoji",
@@ -182,7 +182,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "06": [
+  "HWABONORTH": [
     {
       "id": 65180,
       "name": "Anak",
@@ -233,7 +233,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "03": [
+  "PYONGBONORTH": [
     {
       "id": 65191,
       "name": "Chŏngju",
@@ -319,7 +319,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "01": [
+  "PYONGYANG": [
     {
       "id": 65190,
       "name": "Chunghwa",
@@ -356,7 +356,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "13": [
+  "RASON": [
     {
       "id": 65246,
       "name": "Sŏnbong",
@@ -372,7 +372,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "10": [
+  "RYANGANG": [
     {
       "id": 65201,
       "name": "Hyesan",
@@ -402,7 +402,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "08": [
+  "HAMSOUTH": [
     {
       "id": 65194,
       "name": "Hamhŭng",
@@ -467,7 +467,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "05": [
+  "HWABOSOUTH": [
     {
       "id": 65184,
       "name": "Ayang-ni",
@@ -525,7 +525,7 @@
       "timezone": "Asia/Pyongyang"
     }
   ],
-  "02": [
+  "PYONGBOSOUTH": [
     {
       "id": 65182,
       "name": "Anju",

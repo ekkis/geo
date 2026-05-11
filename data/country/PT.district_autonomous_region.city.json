@@ -1,5 +1,5 @@
 {
-  "20": [
+  "ACO": [
     {
       "id": 89692,
       "name": "Água de Pau",
@@ -358,7 +358,7 @@
       "timezone": "Atlantic/Azores"
     }
   ],
-  "01": [
+  "AVE": [
     {
       "id": 88910,
       "name": "Aguada de Cima",
@@ -794,7 +794,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "02": [
+  "BEJ": [
     {
       "id": 88925,
       "name": "Aldeia Nova de São Bento",
@@ -985,7 +985,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "03": [
+  "BRA": [
     {
       "id": 88909,
       "name": "Adaúfe",
@@ -1484,7 +1484,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "04": [
+  "BRA1": [
     {
       "id": 88934,
       "name": "Alfândega da Fé",
@@ -1598,7 +1598,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "05": [
+  "CASBR": [
     {
       "id": 88926,
       "name": "Aldeia de Joanes",
@@ -1691,7 +1691,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "06": [
+  "COI": [
     {
       "id": 88929,
       "name": "Alfarelos",
@@ -1931,7 +1931,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "07": [
+  "EVO": [
     {
       "id": 88912,
       "name": "Alandroal",
@@ -2031,7 +2031,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "08": [
+  "FAR": [
     {
       "id": 88914,
       "name": "Albufeira",
@@ -2418,7 +2418,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "09": [
+  "GUA": [
     {
       "id": 143297,
       "name": "Açores",
@@ -5969,7 +5969,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "10": [
+  "LEI": [
     {
       "id": 88905,
       "name": "A dos Francos",
@@ -6286,7 +6286,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "11": [
+  "LIS": [
     {
       "id": 88904,
       "name": "A dos Cunhados",
@@ -6960,7 +6960,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "30": [
+  "MAD": [
     {
       "id": 89693,
       "name": "Água de Pena",
@@ -7158,7 +7158,7 @@
       "timezone": "Atlantic/Madeira"
     }
   ],
-  "12": [
+  "POR": [
     {
       "id": 88953,
       "name": "Alter do Chão",
@@ -7293,7 +7293,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "13": [
+  "POR1": [
     {
       "id": 89691,
       "name": "Água Longa",
@@ -8044,7 +8044,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "14": [
+  "SAN": [
     {
       "id": 88906,
       "name": "Abrantes",
@@ -8396,7 +8396,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "15": [
+  "SET": [
     {
       "id": 88924,
       "name": "Alcácer do Sal",
@@ -8678,7 +8678,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "16": [
+  "VIADO": [
     {
       "id": 88981,
       "name": "Arcos de Valdevez",
@@ -8743,7 +8743,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "17": [
+  "VILRE": [
     {
       "id": 88941,
       "name": "Alijó",
@@ -8878,7 +8878,7 @@
       "timezone": "Europe/Lisbon"
     }
   ],
-  "18": [
+  "VIS": [
     {
       "id": 88907,
       "name": "Abraveses",

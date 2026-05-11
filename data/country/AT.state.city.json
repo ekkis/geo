@@ -1,5 +1,5 @@
 {
-  "1": [
+  "BUR": [
     {
       "id": 1657,
       "name": "Andau",
@@ -1170,7 +1170,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "2": [
+  "CAR": [
     {
       "id": 143783,
       "name": "Albeck",
@@ -2740,7 +2740,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "3": [
+  "LOW": [
     {
       "id": 1602,
       "name": "Absdorf",
@@ -6767,7 +6767,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "5": [
+  "SAL": [
     {
       "id": 1603,
       "name": "Abtenau",
@@ -7798,7 +7798,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "6": [
+  "STY": [
     {
       "id": 1604,
       "name": "Abtissendorf",
@@ -11209,7 +11209,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "7": [
+  "TYR": [
     {
       "id": 1600,
       "name": "Abfaltersbach",
@@ -13227,7 +13227,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "4": [
+  "UPP": [
     {
       "id": 1605,
       "name": "Abwinden",
@@ -15770,7 +15770,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "9": [
+  "VIE": [
     {
       "id": 1856,
       "name": "Donaustadt",
@@ -15842,7 +15842,7 @@
       "timezone": "Europe/Vienna"
     }
   ],
-  "8": [
+  "VOR": [
     {
       "id": 1623,
       "name": "Alberschwende",

@@ -1,17 +1,17 @@
 {
-  "02": {
+  "EAS": {
     "name": "Eastern"
   },
-  "01": {
+  "KIG": {
     "name": "Kigali"
   },
-  "03": {
+  "NOR": {
     "name": "Northern"
   },
-  "05": {
+  "SOU": {
     "name": "Southern"
   },
-  "04": {
+  "WES": {
     "name": "Western"
   }
 }

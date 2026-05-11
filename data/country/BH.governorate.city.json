@@ -1,5 +1,5 @@
 {
-  "13": [
+  "CAP": [
     {
       "id": 9757,
       "name": "Jidd Ḩafş",
@@ -22,7 +22,7 @@
       "timezone": "Asia/Bahrain"
     }
   ],
-  "15": [
+  "MUH": [
     {
       "id": 9754,
       "name": "Al Ḩadd",
@@ -38,7 +38,7 @@
       "timezone": "Asia/Bahrain"
     }
   ],
-  "17": [
+  "NOR": [
     {
       "id": 9758,
       "name": "Madīnat Ḩamad",
@@ -47,7 +47,7 @@
       "timezone": "Asia/Bahrain"
     }
   ],
-  "14": [
+  "SOU": [
     {
       "id": 9755,
       "name": "Ar Rifā‘",

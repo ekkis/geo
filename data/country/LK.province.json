@@ -1,104 +1,104 @@
 {
-  "52": {
+  "AMP": {
     "name": "Ampara"
   },
-  "71": {
+  "ANU": {
     "name": "Anuradhapura"
   },
-  "81": {
+  "BAD": {
     "name": "Badulla"
   },
-  "51": {
+  "BAT": {
     "name": "Batticaloa"
   },
-  "2": {
+  "CEN": {
     "name": "Central"
   },
-  "11": {
+  "COL": {
     "name": "Colombo"
   },
-  "5": {
+  "EAS": {
     "name": "Eastern"
   },
-  "31": {
+  "GAL": {
     "name": "Galle"
   },
-  "12": {
+  "GAM": {
     "name": "Gampaha"
   },
-  "33": {
+  "HAM": {
     "name": "Hambantota"
   },
-  "41": {
+  "JAF": {
     "name": "Jaffna"
   },
-  "13": {
+  "KAL": {
     "name": "Kalutara"
   },
-  "21": {
+  "KAN": {
     "name": "Kandy"
   },
-  "92": {
+  "KEG": {
     "name": "Kegalle"
   },
-  "42": {
+  "KIL": {
     "name": "Kilinochchi"
   },
-  "61": {
+  "KUR": {
     "name": "Kurunegala"
   },
-  "43": {
+  "MAN": {
     "name": "Mannar"
   },
-  "22": {
+  "MAT": {
     "name": "Matale"
   },
-  "32": {
+  "MATA": {
     "name": "Matara"
   },
-  "82": {
+  "MON": {
     "name": "Monaragala"
   },
-  "45": {
+  "MUL": {
     "name": "Mullaitivu"
   },
-  "7": {
+  "NOR": {
     "name": "North Central"
   },
-  "6": {
+  "NW": {
     "name": "North Western"
   },
-  "4": {
+  "NORT": {
     "name": "Northern"
   },
-  "23": {
+  "NUW": {
     "name": "Nuwara Eliya"
   },
-  "72": {
+  "POL": {
     "name": "Polonnaruwa"
   },
-  "62": {
+  "PUT": {
     "name": "Puttalam"
   },
-  "91": {
+  "RAT": {
     "name": "Ratnapura"
   },
-  "9": {
+  "SAB": {
     "name": "Sabaragamuwa"
   },
-  "3": {
+  "SOU": {
     "name": "Southern"
   },
-  "53": {
+  "TRI": {
     "name": "Trincomalee"
   },
-  "8": {
+  "UVA": {
     "name": "Uva"
   },
-  "44": {
+  "VAV": {
     "name": "Vavuniya"
   },
-  "1": {
+  "WES": {
     "name": "Western"
   }
 }

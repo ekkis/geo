@@ -1,53 +1,53 @@
 {
-  "42": {
+  "AGD": {
     "name": "Agder"
   },
-  "32": {
+  "AKE": {
     "name": "Akershus"
   },
-  "33": {
+  "BUS": {
     "name": "Buskerud"
   },
-  "56": {
+  "FIN": {
     "name": "Finnmark"
   },
-  "34": {
+  "INN": {
     "name": "Innlandet"
   },
-  "22": {
+  "JAN": {
     "name": "Jan Mayen"
   },
-  "15": {
+  "MREOG": {
     "name": "Møre og Romsdal"
   },
-  "18": {
+  "NOR1": {
     "name": "Nordland"
   },
-  "03": {
+  "OSL": {
     "name": "Oslo"
   },
-  "31": {
+  "STF": {
     "name": "Østfold"
   },
-  "11": {
+  "ROG": {
     "name": "Rogaland"
   },
-  "21": {
+  "SVA": {
     "name": "Svalbard"
   },
-  "40": {
+  "TEL": {
     "name": "Telemark"
   },
-  "55": {
+  "TRO": {
     "name": "Troms"
   },
-  "50": {
+  "TRN": {
     "name": "Trøndelag"
   },
-  "39": {
+  "VES": {
     "name": "Vestfold"
   },
-  "46": {
+  "VEST": {
     "name": "Vestland"
   }
 }

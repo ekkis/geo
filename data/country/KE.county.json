@@ -1,143 +1,143 @@
 {
-  "01": {
+  "BAR": {
     "name": "Baringo"
   },
-  "02": {
+  "BOM": {
     "name": "Bomet"
   },
-  "03": {
+  "BUN": {
     "name": "Bungoma"
   },
-  "04": {
+  "BUS": {
     "name": "Busia"
   },
-  "05": {
+  "ELG": {
     "name": "Elgeyo-Marakwet"
   },
-  "06": {
+  "EMB": {
     "name": "Embu"
   },
-  "07": {
+  "GAR": {
     "name": "Garissa"
   },
-  "08": {
+  "HOM": {
     "name": "Homa Bay"
   },
-  "09": {
+  "ISI": {
     "name": "Isiolo"
   },
-  "10": {
+  "KAJ": {
     "name": "Kajiado"
   },
-  "11": {
+  "KAK": {
     "name": "Kakamega"
   },
-  "12": {
+  "KER": {
     "name": "Kericho"
   },
-  "13": {
+  "KIA": {
     "name": "Kiambu"
   },
-  "14": {
+  "KIL": {
     "name": "Kilifi"
   },
-  "15": {
+  "KIR": {
     "name": "Kirinyaga"
   },
-  "16": {
+  "KIS": {
     "name": "Kisii"
   },
-  "17": {
+  "KISU": {
     "name": "Kisumu"
   },
-  "18": {
+  "KIT": {
     "name": "Kitui"
   },
-  "19": {
+  "KWA": {
     "name": "Kwale"
   },
-  "20": {
+  "LAI": {
     "name": "Laikipia"
   },
-  "21": {
+  "LAM": {
     "name": "Lamu"
   },
-  "22": {
+  "MAC": {
     "name": "Machakos"
   },
-  "23": {
+  "MAK": {
     "name": "Makueni"
   },
-  "24": {
+  "MAN": {
     "name": "Mandera"
   },
-  "25": {
+  "MAR": {
     "name": "Marsabit"
   },
-  "26": {
+  "MER": {
     "name": "Meru"
   },
-  "27": {
+  "MIG": {
     "name": "Migori"
   },
-  "28": {
+  "MOM": {
     "name": "Mombasa"
   },
-  "29": {
+  "MUR": {
     "name": "Murang'a"
   },
-  "30": {
+  "NAI": {
     "name": "Nairobi City"
   },
-  "31": {
+  "NAK": {
     "name": "Nakuru"
   },
-  "32": {
+  "NAN": {
     "name": "Nandi"
   },
-  "33": {
+  "NAR": {
     "name": "Narok"
   },
-  "34": {
+  "NYA": {
     "name": "Nyamira"
   },
-  "35": {
+  "NYAN": {
     "name": "Nyandarua"
   },
-  "36": {
+  "NYE": {
     "name": "Nyeri"
   },
-  "37": {
+  "SAM": {
     "name": "Samburu"
   },
-  "38": {
+  "SIA": {
     "name": "Siaya"
   },
-  "39": {
+  "TAI": {
     "name": "Taita–Taveta"
   },
-  "40": {
+  "TAN": {
     "name": "Tana River"
   },
-  "41": {
+  "THA": {
     "name": "Tharaka-Nithi"
   },
-  "42": {
+  "TRA": {
     "name": "Trans Nzoia"
   },
-  "43": {
+  "TUR": {
     "name": "Turkana"
   },
-  "44": {
+  "UAS": {
     "name": "Uasin Gishu"
   },
-  "45": {
+  "VIH": {
     "name": "Vihiga"
   },
-  "46": {
+  "WAJ": {
     "name": "Wajir"
   },
-  "47": {
+  "WES": {
     "name": "West Pokot"
   }
 }

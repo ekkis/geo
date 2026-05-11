@@ -23,7 +23,7 @@
   "BOG": {
     "name": "Borgarbyggð"
   },
-  "1": {
+  "CAP": {
     "name": "Capital"
   },
   "DAB": {
@@ -32,7 +32,7 @@
   "DAV": {
     "name": "Dalvíkurbyggð"
   },
-  "7": {
+  "EAS": {
     "name": "Eastern"
   },
   "EOM": {
@@ -119,10 +119,10 @@
   "NOR": {
     "name": "Norðurþing"
   },
-  "6": {
+  "NORT": {
     "name": "Northeastern"
   },
-  "5": {
+  "NORTH": {
     "name": "Northwestern"
   },
   "SOL": {
@@ -167,10 +167,10 @@
   "SNF": {
     "name": "Snæfellsbær"
   },
-  "8": {
+  "SOU": {
     "name": "Southern"
   },
-  "2": {
+  "SOUTHERNPEN": {
     "name": "Southern Peninsula"
   },
   "STR": {
@@ -206,10 +206,10 @@
   "VOP": {
     "name": "Vopnafjarðarhreppur"
   },
-  "3": {
+  "WES": {
     "name": "Western"
   },
-  "4": {
+  "WESTFJORD": {
     "name": "Westfjords"
   },
   "THG": {

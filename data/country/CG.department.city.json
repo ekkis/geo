@@ -1,5 +1,5 @@
 {
-  "11": [
+  "BOU": [
     {
       "id": 17345,
       "name": "Kayes",
@@ -24,7 +24,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "8": [
+  "CUV": [
     {
       "id": 17349,
       "name": "Makoua",
@@ -40,7 +40,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "15": [
+  "CO": [
     {
       "id": 17342,
       "name": "Ewo",
@@ -49,8 +49,8 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "5": [],
-  "2": [
+  "KOU": [],
+  "LEK": [
     {
       "id": 17354,
       "name": "Sibiti",
@@ -59,7 +59,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "7": [
+  "LIK": [
     {
       "id": 17344,
       "name": "Impfondo",
@@ -68,7 +68,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "9": [
+  "NIA": [
     {
       "id": 17341,
       "name": "Dolisie",
@@ -84,7 +84,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "14": [
+  "PLA": [
     {
       "id": 17340,
       "name": "Djambala",
@@ -100,7 +100,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "16": [
+  "POI": [
     {
       "id": 17347,
       "name": "Loandjili",
@@ -116,7 +116,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "12": [
+  "POO": [
     {
       "id": 17346,
       "name": "Kinkala",
@@ -125,7 +125,7 @@
       "timezone": "Africa/Brazzaville"
     }
   ],
-  "13": [
+  "SAN": [
     {
       "id": 17351,
       "name": "Ouésso",

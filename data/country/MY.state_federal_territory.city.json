@@ -1,5 +1,5 @@
 {
-  "01": [
+  "JOHOR": [
     {
       "id": 76416,
       "name": "Bakri",
@@ -218,7 +218,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "02": [
+  "KEDAH": [
     {
       "id": 76410,
       "name": "Alor Setar",
@@ -318,7 +318,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "03": [
+  "KELANTAN": [
     {
       "id": 76448,
       "name": "Gua Musang",
@@ -369,7 +369,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "14": [
+  "KL": [
     {
       "id": 76497,
       "name": "Kuala Lumpur",
@@ -378,7 +378,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "15": [
+  "LABUAN": [
     {
       "id": 76511,
       "name": "Labuan",
@@ -387,7 +387,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "04": [
+  "MELAKA": [
     {
       "id": 76409,
       "name": "Alor Gajah",
@@ -480,7 +480,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "05": [
+  "NSEM": [
     {
       "id": 76415,
       "name": "Bahau",
@@ -524,7 +524,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "06": [
+  "PAHANG": [
     {
       "id": 76428,
       "name": "Bentong Town",
@@ -603,7 +603,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "07": [
+  "PENANG": [
     {
       "id": 76422,
       "name": "Batu Feringgi",
@@ -710,7 +710,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "08": [
+  "PERAK": [
     {
       "id": 76414,
       "name": "Bagan Serai",
@@ -810,7 +810,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "09": [
+  "PERLIS": [
     {
       "id": 76478,
       "name": "Kangar",
@@ -833,7 +833,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "16": [
+  "PUTRAJAYA": [
     {
       "id": 76549,
       "name": "Putrajaya",
@@ -842,7 +842,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "12": [
+  "SABAH": [
     {
       "id": 76417,
       "name": "Bandar Labuan",
@@ -956,7 +956,7 @@
       "timezone": "Asia/Kuching"
     }
   ],
-  "13": [
+  "SARAWAK": [
     {
       "id": 76430,
       "name": "Bintulu",
@@ -1056,7 +1056,7 @@
       "timezone": "Asia/Kuching"
     }
   ],
-  "10": [
+  "SELANGOR": [
     {
       "id": 76411,
       "name": "Ampang",
@@ -1534,7 +1534,7 @@
       "timezone": "Asia/Kuala_Lumpur"
     }
   ],
-  "11": [
+  "TERENGGANU": [
     {
       "id": 76436,
       "name": "Cukai",

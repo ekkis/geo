@@ -1,5 +1,5 @@
 {
-  "02": [
+  "AND": [
     {
       "id": 31003,
       "name": "Calibishie",
@@ -29,7 +29,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "03": [
+  "DAV": [
     {
       "id": 31004,
       "name": "Castle Bruce",
@@ -45,7 +45,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "04": [
+  "GEO": [
     {
       "id": 31013,
       "name": "Roseau",
@@ -54,7 +54,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "05": [
+  "JOH": [
     {
       "id": 31011,
       "name": "Portsmouth",
@@ -63,7 +63,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "06": [
+  "JOS": [
     {
       "id": 31014,
       "name": "Saint Joseph",
@@ -79,7 +79,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "07": [
+  "LUK": [
     {
       "id": 31009,
       "name": "Pointe Michel",
@@ -88,7 +88,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "08": [
+  "MAR": [
     {
       "id": 31016,
       "name": "Soufrière",
@@ -97,7 +97,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "09": [
+  "PAT": [
     {
       "id": 31002,
       "name": "Berekua",
@@ -113,7 +113,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "10": [
+  "PAU": [
     {
       "id": 31007,
       "name": "Mahaut",
@@ -129,7 +129,7 @@
       "timezone": "America/Dominica"
     }
   ],
-  "11": [
+  "PET": [
     {
       "id": 31005,
       "name": "Colihaut",

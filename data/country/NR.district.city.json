@@ -1,5 +1,5 @@
 {
-  "01": [
+  "AIW": [
     {
       "id": 79762,
       "name": "Arijejen",
@@ -8,7 +8,7 @@
       "timezone": "Pacific/Nauru"
     }
   ],
-  "02": [
+  "AN": [
     {
       "id": 79761,
       "name": "Anabar",
@@ -17,9 +17,9 @@
       "timezone": "Pacific/Nauru"
     }
   ],
-  "03": [],
-  "04": [],
-  "05": [
+  "ANE": [],
+  "ANI": [],
+  "BA": [
     {
       "id": 79763,
       "name": "Baiti",
@@ -28,11 +28,11 @@
       "timezone": "Pacific/Nauru"
     }
   ],
-  "06": [],
-  "07": [],
-  "08": [],
-  "09": [],
-  "10": [
+  "BO": [],
+  "CI": [],
+  "DE": [],
+  "EWA": [],
+  "IJU": [
     {
       "id": 79764,
       "name": "Ijuw",
@@ -41,7 +41,7 @@
       "timezone": "Pacific/Nauru"
     }
   ],
-  "11": [
+  "MA": [
     {
       "id": 79765,
       "name": "Menen",
@@ -50,8 +50,8 @@
       "timezone": "Pacific/Nauru"
     }
   ],
-  "12": [],
-  "13": [
+  "NB": [],
+  "UA": [
     {
       "id": 79766,
       "name": "Uaboe",
@@ -60,7 +60,7 @@
       "timezone": "Pacific/Nauru"
     }
   ],
-  "14": [
+  "YAR": [
     {
       "id": 79767,
       "name": "Yaren",

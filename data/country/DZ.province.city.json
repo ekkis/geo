@@ -1,5 +1,5 @@
 {
-  "01": [
+  "ADR": [
     {
       "id": 31227,
       "name": "Adrar",
@@ -29,7 +29,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "44": [
+  "AIN": [
     {
       "id": 31243,
       "name": "Aïn Defla",
@@ -66,7 +66,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "46": [
+  "AT": [
     {
       "id": 31250,
       "name": "Aïn Temouchent",
@@ -103,7 +103,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "16": [
+  "ALG": [
     {
       "id": 31249,
       "name": "Aïn Taya",
@@ -154,7 +154,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "23": [
+  "ANN": [
     {
       "id": 31233,
       "name": "Annaba",
@@ -184,7 +184,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "05": [
+  "BT": [
     {
       "id": 31251,
       "name": "Aïn Touta",
@@ -242,7 +242,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "08": [
+  "BEC": [
     {
       "id": 31298,
       "name": "Béchar",
@@ -251,7 +251,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "06": [
+  "BEJ": [
     {
       "id": 31229,
       "name": "Akbou",
@@ -309,8 +309,8 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "53": [],
-  "07": [
+  "BEN": [],
+  "BSK": [
     {
       "id": 31275,
       "name": "Biskra",
@@ -354,7 +354,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "09": [
+  "BLI": [
     {
       "id": 31263,
       "name": "Beni Mered",
@@ -440,8 +440,8 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "52": [],
-  "34": [
+  "BOR": [],
+  "BBA": [
     {
       "id": 31278,
       "name": "Bordj Bou Arreridj",
@@ -492,7 +492,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "10": [
+  "BOU": [
     {
       "id": 31241,
       "name": "Aïn Bessem",
@@ -536,7 +536,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "35": [
+  "BOUM": [
     {
       "id": 31235,
       "name": "Arbatache",
@@ -636,7 +636,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "02": [
+  "CHL": [
     {
       "id": 31226,
       "name": "Abou el Hassan",
@@ -687,7 +687,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "25": [
+  "CON": [
     {
       "id": 31469,
       "name": "’Aïn Abid",
@@ -731,8 +731,8 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "56": [],
-  "17": [
+  "DJA": [],
+  "DJE": [
     {
       "id": 31474,
       "name": "’Aïn el Bell",
@@ -790,7 +790,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "32": [
+  "EO": [
     {
       "id": 31297,
       "name": "Brezina",
@@ -813,9 +813,9 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "49": [],
-  "50": [],
-  "39": [
+  "MXX": [],
+  "MEN": [],
+  "OUE": [
     {
       "id": 31313,
       "name": "Debila",
@@ -845,7 +845,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "36": [
+  "TAR": [
     {
       "id": 31260,
       "name": "Ben Mehidi",
@@ -875,7 +875,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "47": [
+  "GHA": [
     {
       "id": 31268,
       "name": "Berriane",
@@ -898,7 +898,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "24": [
+  "GUE": [
     {
       "id": 31293,
       "name": "Boumahra Ahmed",
@@ -921,7 +921,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "33": [
+  "IO": [
     {
       "id": 31358,
       "name": "Illizi",
@@ -930,9 +930,9 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "58": [],
-  "57": [],
-  "18": [
+  "INX": [],
+  "IS": [],
+  "JIJ": [
     {
       "id": 31359,
       "name": "Jijel",
@@ -941,7 +941,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "40": [
+  "KHE": [
     {
       "id": 31363,
       "name": "Khenchela",
@@ -950,7 +950,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "03": [
+  "LAG": [
     {
       "id": 31228,
       "name": "Aflou",
@@ -966,7 +966,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "28": [
+  "MS": [
     {
       "id": 31468,
       "name": "‘Aïn el Hadjel",
@@ -996,7 +996,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "29": [
+  "MAS": [
     {
       "id": 31282,
       "name": "Bou Hanifia el Hamamat",
@@ -1026,7 +1026,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "26": [
+  "MED": [
     {
       "id": 31471,
       "name": "’Aïn Boucif",
@@ -1056,7 +1056,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "43": [
+  "MIL": [
     {
       "id": 31302,
       "name": "Chelghoum el Aïd",
@@ -1093,7 +1093,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "27": [
+  "MOS": [
     {
       "id": 31388,
       "name": "Mostaganem",
@@ -1102,7 +1102,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "45": [
+  "NAA": [
     {
       "id": 31247,
       "name": "Aïn Sefra",
@@ -1118,7 +1118,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "31": [
+  "OR": [
     {
       "id": 31478,
       "name": "’Aïn el Turk",
@@ -1176,7 +1176,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "30": [
+  "OA": [
     {
       "id": 31316,
       "name": "Djamaa",
@@ -1241,8 +1241,8 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "51": [],
-  "04": [
+  "OB": [],
+  "OUM": [
     {
       "id": 31242,
       "name": "Aïn Beïda",
@@ -1286,7 +1286,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "48": [
+  "REL": [
     {
       "id": 31473,
       "name": "’Aïn Merane",
@@ -1344,7 +1344,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "20": [
+  "SAI": [
     {
       "id": 31475,
       "name": "’Aïn el Hadjar",
@@ -1360,7 +1360,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "19": [
+  "SET": [
     {
       "id": 31240,
       "name": "Aïn Arnat",
@@ -1404,7 +1404,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "22": [
+  "SK": [
     {
       "id": 146185,
       "name": "Aïn El Berd",
@@ -1686,7 +1686,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "21": [
+  "SKI": [
     {
       "id": 31239,
       "name": "Azzaba",
@@ -1716,7 +1716,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "41": [
+  "SOU": [
     {
       "id": 31422,
       "name": "Sedrata",
@@ -1732,7 +1732,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "11": [
+  "TAM": [
     {
       "id": 31356,
       "name": "I-n-Salah",
@@ -1748,7 +1748,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "12": [
+  "TEB": [
     {
       "id": 31271,
       "name": "Bir el Ater",
@@ -1778,7 +1778,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "14": [
+  "TIA": [
     {
       "id": 31472,
       "name": "’Aïn Deheb",
@@ -1829,8 +1829,8 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "54": [],
-  "37": [
+  "TIM": [],
+  "TIN": [
     {
       "id": 31452,
       "name": "Tindouf",
@@ -1839,7 +1839,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "42": [
+  "TIP": [
     {
       "id": 31470,
       "name": "’Aïn Benian",
@@ -1932,7 +1932,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "38": [
+  "TIS": [
     {
       "id": 31370,
       "name": "Lardjem",
@@ -1948,7 +1948,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "15": [
+  "TIZ": [
     {
       "id": 31476,
       "name": "’Aïn el Hammam",
@@ -2069,7 +2069,7 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "13": [
+  "TLE": [
     {
       "id": 31264,
       "name": "Beni Mester",
@@ -2155,5 +2155,5 @@
       "timezone": "Africa/Algiers"
     }
   ],
-  "55": []
+  "TOU": []
 }
