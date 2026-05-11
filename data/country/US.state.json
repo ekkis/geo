@@ -1,0 +1,202 @@
+{
+  "AL": {
+    "name": "Alabama",
+    "counties": []
+  },
+  "AK": {
+    "name": "Alaska",
+    "counties": []
+  },
+  "AZ": {
+    "name": "Arizona",
+    "counties": []
+  },
+  "AR": {
+    "name": "Arkansas",
+    "counties": []
+  },
+  "CA": {
+    "name": "California",
+    "counties": []
+  },
+  "CO": {
+    "name": "Colorado",
+    "counties": []
+  },
+  "CT": {
+    "name": "Connecticut",
+    "counties": []
+  },
+  "DE": {
+    "name": "Delaware",
+    "counties": []
+  },
+  "FL": {
+    "name": "Florida",
+    "counties": []
+  },
+  "GA": {
+    "name": "Georgia",
+    "counties": []
+  },
+  "HI": {
+    "name": "Hawaii",
+    "counties": []
+  },
+  "ID": {
+    "name": "Idaho",
+    "counties": []
+  },
+  "IL": {
+    "name": "Illinois",
+    "counties": []
+  },
+  "IN": {
+    "name": "Indiana",
+    "counties": []
+  },
+  "IA": {
+    "name": "Iowa",
+    "counties": []
+  },
+  "KS": {
+    "name": "Kansas",
+    "counties": []
+  },
+  "KY": {
+    "name": "Kentucky",
+    "counties": []
+  },
+  "LA": {
+    "name": "Louisiana",
+    "counties": []
+  },
+  "ME": {
+    "name": "Maine",
+    "counties": []
+  },
+  "MD": {
+    "name": "Maryland",
+    "counties": []
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "counties": []
+  },
+  "MI": {
+    "name": "Michigan",
+    "counties": []
+  },
+  "MN": {
+    "name": "Minnesota",
+    "counties": []
+  },
+  "MS": {
+    "name": "Mississippi",
+    "counties": []
+  },
+  "MO": {
+    "name": "Missouri",
+    "counties": []
+  },
+  "MT": {
+    "name": "Montana",
+    "counties": []
+  },
+  "NE": {
+    "name": "Nebraska",
+    "counties": []
+  },
+  "NV": {
+    "name": "Nevada",
+    "counties": []
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "counties": []
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "counties": []
+  },
+  "NM": {
+    "name": "New Mexico",
+    "counties": []
+  },
+  "NY": {
+    "name": "New York",
+    "counties": []
+  },
+  "NC": {
+    "name": "North Carolina",
+    "counties": []
+  },
+  "ND": {
+    "name": "North Dakota",
+    "counties": []
+  },
+  "OH": {
+    "name": "Ohio",
+    "counties": []
+  },
+  "OK": {
+    "name": "Oklahoma",
+    "counties": []
+  },
+  "OR": {
+    "name": "Oregon",
+    "counties": []
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "counties": []
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "counties": []
+  },
+  "SC": {
+    "name": "South Carolina",
+    "counties": []
+  },
+  "SD": {
+    "name": "South Dakota",
+    "counties": []
+  },
+  "TN": {
+    "name": "Tennessee",
+    "counties": []
+  },
+  "TX": {
+    "name": "Texas",
+    "counties": []
+  },
+  "UT": {
+    "name": "Utah",
+    "counties": []
+  },
+  "VT": {
+    "name": "Vermont",
+    "counties": []
+  },
+  "VA": {
+    "name": "Virginia",
+    "counties": []
+  },
+  "WA": {
+    "name": "Washington",
+    "counties": []
+  },
+  "WV": {
+    "name": "West Virginia",
+    "counties": []
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "counties": []
+  },
+  "WY": {
+    "name": "Wyoming",
+    "counties": []
+  }
+}
