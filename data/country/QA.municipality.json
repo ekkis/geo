@@ -1,146 +1,26 @@
 {
   "ZA": {
-    "name": "Al Daayen",
-    "cities": []
+    "name": "Al Daayen"
   },
   "KH": {
-    "name": "Al Khor",
-    "cities": [
-      {
-        "id": 89856,
-        "name": "Al Ghuwayrīyah",
-        "latitude": "25.82882000",
-        "longitude": "51.24567000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89858,
-        "name": "Al Khawr",
-        "latitude": "25.68389000",
-        "longitude": "51.50583000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Al Khor"
   },
   "RA": {
-    "name": "Al Rayyan",
-    "cities": [
-      {
-        "id": 89861,
-        "name": "Ar Rayyān",
-        "latitude": "25.29194000",
-        "longitude": "51.42444000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89869,
-        "name": "Umm Bāb",
-        "latitude": "25.21417000",
-        "longitude": "50.80722000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Al Rayyan"
   },
   "WA": {
-    "name": "Al Wakrah",
-    "cities": [
-      {
-        "id": 89859,
-        "name": "Al Wakrah",
-        "latitude": "25.17151000",
-        "longitude": "51.60337000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89860,
-        "name": "Al Wukayr",
-        "latitude": "25.15107000",
-        "longitude": "51.53718000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89868,
-        "name": "Musay‘īd",
-        "latitude": "24.99226000",
-        "longitude": "51.55067000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Al Wakrah"
   },
   "SH": {
-    "name": "Al-Shahaniya",
-    "cities": [
-      {
-        "id": 89857,
-        "name": "Al Jumaylīyah",
-        "latitude": "25.61068000",
-        "longitude": "51.09108000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89863,
-        "name": "Ash Shīḩānīyah",
-        "latitude": "25.37088000",
-        "longitude": "51.22264000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89865,
-        "name": "Dukhān",
-        "latitude": "25.42485000",
-        "longitude": "50.78227000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Al-Shahaniya"
   },
   "DA": {
-    "name": "Doha",
-    "cities": [
-      {
-        "id": 89864,
-        "name": "Doha",
-        "latitude": "25.28545000",
-        "longitude": "51.53096000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Doha"
   },
   "MS": {
-    "name": "Madinat ash Shamal",
-    "cities": [
-      {
-        "id": 89862,
-        "name": "Ar Ruways",
-        "latitude": "26.13978000",
-        "longitude": "51.21493000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89866,
-        "name": "Fuwayriţ",
-        "latitude": "26.02565000",
-        "longitude": "51.36971000",
-        "timezone": "Asia/Qatar"
-      },
-      {
-        "id": 89867,
-        "name": "Madīnat ash Shamāl",
-        "latitude": "26.12933000",
-        "longitude": "51.20090000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Madinat ash Shamal"
   },
   "US": {
-    "name": "Umm Salal",
-    "cities": [
-      {
-        "id": 89870,
-        "name": "Umm Şalāl Muḩammad",
-        "latitude": "25.41524000",
-        "longitude": "51.40647000",
-        "timezone": "Asia/Qatar"
-      }
-    ]
+    "name": "Umm Salal"
   }
 }

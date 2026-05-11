@@ -1,180 +1,38 @@
 {
   "11": {
-    "name": "Bouenza",
-    "cities": [
-      {
-        "id": 17345,
-        "name": "Kayes",
-        "latitude": "-4.20493000",
-        "longitude": "13.28608000",
-        "timezone": "Africa/Brazzaville"
-      },
-      {
-        "id": 17348,
-        "name": "Madingou",
-        "latitude": "-4.15361000",
-        "longitude": "13.55000000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Bouenza"
   },
   "BZV": {
-    "name": "Brazzaville",
-    "cities": [
-      {
-        "id": 17339,
-        "name": "Brazzaville",
-        "latitude": "-4.26613000",
-        "longitude": "15.28318000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Brazzaville"
   },
   "8": {
-    "name": "Cuvette",
-    "cities": [
-      {
-        "id": 17349,
-        "name": "Makoua",
-        "latitude": "0.00694000",
-        "longitude": "15.63333000",
-        "timezone": "Africa/Brazzaville"
-      },
-      {
-        "id": 17352,
-        "name": "Owando",
-        "latitude": "-0.48193000",
-        "longitude": "15.89988000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Cuvette"
   },
   "15": {
-    "name": "Cuvette-Ouest",
-    "cities": [
-      {
-        "id": 17342,
-        "name": "Ewo",
-        "latitude": "-0.87250000",
-        "longitude": "14.82056000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Cuvette-Ouest"
   },
   "5": {
-    "name": "Kouilou",
-    "cities": []
+    "name": "Kouilou"
   },
   "2": {
-    "name": "Lékoumou",
-    "cities": [
-      {
-        "id": 17354,
-        "name": "Sibiti",
-        "latitude": "-3.68192000",
-        "longitude": "13.34985000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Lékoumou"
   },
   "7": {
-    "name": "Likouala",
-    "cities": [
-      {
-        "id": 17344,
-        "name": "Impfondo",
-        "latitude": "1.61804000",
-        "longitude": "18.05981000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Likouala"
   },
   "9": {
-    "name": "Niari",
-    "cities": [
-      {
-        "id": 17341,
-        "name": "Dolisie",
-        "latitude": "-4.19834000",
-        "longitude": "12.66664000",
-        "timezone": "Africa/Brazzaville"
-      },
-      {
-        "id": 17350,
-        "name": "Mossendjo",
-        "latitude": "-2.94968000",
-        "longitude": "12.70423000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Niari"
   },
   "14": {
-    "name": "Plateaux",
-    "cities": [
-      {
-        "id": 17340,
-        "name": "Djambala",
-        "latitude": "-2.54472000",
-        "longitude": "14.75333000",
-        "timezone": "Africa/Brazzaville"
-      },
-      {
-        "id": 17343,
-        "name": "Gamboma",
-        "latitude": "-1.87639000",
-        "longitude": "15.86444000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Plateaux"
   },
   "16": {
-    "name": "Pointe-Noire",
-    "cities": [
-      {
-        "id": 17347,
-        "name": "Loandjili",
-        "latitude": "-4.75611000",
-        "longitude": "11.85778000",
-        "timezone": "Africa/Brazzaville"
-      },
-      {
-        "id": 17353,
-        "name": "Pointe-Noire",
-        "latitude": "-4.77609000",
-        "longitude": "11.86352000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Pointe-Noire"
   },
   "12": {
-    "name": "Pool",
-    "cities": [
-      {
-        "id": 17346,
-        "name": "Kinkala",
-        "latitude": "-4.36139000",
-        "longitude": "14.76444000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Pool"
   },
   "13": {
-    "name": "Sangha",
-    "cities": [
-      {
-        "id": 17351,
-        "name": "Ouésso",
-        "latitude": "1.61361000",
-        "longitude": "16.05167000",
-        "timezone": "Africa/Brazzaville"
-      },
-      {
-        "id": 17355,
-        "name": "Sémbé",
-        "latitude": "1.64806000",
-        "longitude": "14.58056000",
-        "timezone": "Africa/Brazzaville"
-      }
-    ]
+    "name": "Sangha"
   }
 }

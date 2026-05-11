@@ -1,83 +1,17 @@
 {
   "02": {
-    "name": "Haʻapai",
-    "cities": [
-      {
-        "id": 107049,
-        "name": "Pangai",
-        "latitude": "-19.81468000",
-        "longitude": "-174.35423000",
-        "timezone": "Pacific/Tongatapu"
-      }
-    ]
+    "name": "Haʻapai"
   },
   "01": {
-    "name": "ʻEua",
-    "cities": [
-      {
-        "id": 107051,
-        "name": "‘Ohonua",
-        "latitude": "-21.33333000",
-        "longitude": "-174.95000000",
-        "timezone": "Pacific/Tongatapu"
-      }
-    ]
+    "name": "ʻEua"
   },
   "03": {
-    "name": "Niuas",
-    "cities": [
-      {
-        "id": 107045,
-        "name": "Hihifo",
-        "latitude": "-15.95440000",
-        "longitude": "-173.79616000",
-        "timezone": "Pacific/Tongatapu"
-      }
-    ]
+    "name": "Niuas"
   },
   "04": {
-    "name": "Tongatapu",
-    "cities": [
-      {
-        "id": 107044,
-        "name": "Haveluloto",
-        "latitude": "-21.15216000",
-        "longitude": "-175.21333000",
-        "timezone": "Pacific/Tongatapu"
-      },
-      {
-        "id": 107046,
-        "name": "Kolonga",
-        "latitude": "-21.13333000",
-        "longitude": "-175.06667000",
-        "timezone": "Pacific/Tongatapu"
-      },
-      {
-        "id": 107048,
-        "name": "Nuku‘alofa",
-        "latitude": "-21.13938000",
-        "longitude": "-175.20180000",
-        "timezone": "Pacific/Tongatapu"
-      },
-      {
-        "id": 107050,
-        "name": "Vaini",
-        "latitude": "-21.19292000",
-        "longitude": "-175.17678000",
-        "timezone": "Pacific/Tongatapu"
-      }
-    ]
+    "name": "Tongatapu"
   },
   "05": {
-    "name": "Vavaʻu",
-    "cities": [
-      {
-        "id": 107047,
-        "name": "Neiafu",
-        "latitude": "-18.65060000",
-        "longitude": "-173.98404000",
-        "timezone": "Pacific/Tongatapu"
-      }
-    ]
+    "name": "Vavaʻu"
   }
 }

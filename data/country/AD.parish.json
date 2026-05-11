@@ -1,107 +1,23 @@
 {
   "07": {
-    "name": "Andorra la Vella",
-    "cities": [
-      {
-        "id": 1,
-        "name": "Andorra la Vella",
-        "latitude": "42.50779000",
-        "longitude": "1.52109000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "Andorra la Vella"
   },
   "02": {
-    "name": "Canillo",
-    "cities": [
-      {
-        "id": 3,
-        "name": "Canillo",
-        "latitude": "42.56760000",
-        "longitude": "1.59756000",
-        "timezone": "Europe/Andorra"
-      },
-      {
-        "id": 4,
-        "name": "El Tarter",
-        "latitude": "42.57952000",
-        "longitude": "1.65362000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "Canillo"
   },
   "03": {
-    "name": "Encamp",
-    "cities": [
-      {
-        "id": 5,
-        "name": "Encamp",
-        "latitude": "42.53474000",
-        "longitude": "1.58014000",
-        "timezone": "Europe/Andorra"
-      },
-      {
-        "id": 7,
-        "name": "Pas de la Casa",
-        "latitude": "42.54277000",
-        "longitude": "1.73361000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "Encamp"
   },
   "08": {
-    "name": "Escaldes-Engordany",
-    "cities": [
-      {
-        "id": 10,
-        "name": "les Escaldes",
-        "latitude": "42.50729000",
-        "longitude": "1.53414000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "Escaldes-Engordany"
   },
   "04": {
-    "name": "La Massana",
-    "cities": [
-      {
-        "id": 2,
-        "name": "Arinsal",
-        "latitude": "42.57205000",
-        "longitude": "1.48453000",
-        "timezone": "Europe/Andorra"
-      },
-      {
-        "id": 9,
-        "name": "la Massana",
-        "latitude": "42.54499000",
-        "longitude": "1.51483000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "La Massana"
   },
   "05": {
-    "name": "Ordino",
-    "cities": [
-      {
-        "id": 6,
-        "name": "Ordino",
-        "latitude": "42.55623000",
-        "longitude": "1.53319000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "Ordino"
   },
   "06": {
-    "name": "Sant Julià de Lòria",
-    "cities": [
-      {
-        "id": 8,
-        "name": "Sant Julià de Lòria",
-        "latitude": "42.46372000",
-        "longitude": "1.49129000",
-        "timezone": "Europe/Andorra"
-      }
-    ]
+    "name": "Sant Julià de Lòria"
   }
 }

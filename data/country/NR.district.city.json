@@ -1,0 +1,72 @@
+{
+  "01": [
+    {
+      "id": 79762,
+      "name": "Arijejen",
+      "latitude": "-0.52545000",
+      "longitude": "166.91247000",
+      "timezone": "Pacific/Nauru"
+    }
+  ],
+  "02": [
+    {
+      "id": 79761,
+      "name": "Anabar",
+      "latitude": "-0.50845000",
+      "longitude": "166.95326000",
+      "timezone": "Pacific/Nauru"
+    }
+  ],
+  "03": [],
+  "04": [],
+  "05": [
+    {
+      "id": 79763,
+      "name": "Baiti",
+      "latitude": "-0.50803000",
+      "longitude": "166.92945000",
+      "timezone": "Pacific/Nauru"
+    }
+  ],
+  "06": [],
+  "07": [],
+  "08": [],
+  "09": [],
+  "10": [
+    {
+      "id": 79764,
+      "name": "Ijuw",
+      "latitude": "-0.52100000",
+      "longitude": "166.95813000",
+      "timezone": "Pacific/Nauru"
+    }
+  ],
+  "11": [
+    {
+      "id": 79765,
+      "name": "Menen",
+      "latitude": "-0.54539000",
+      "longitude": "166.94871000",
+      "timezone": "Pacific/Nauru"
+    }
+  ],
+  "12": [],
+  "13": [
+    {
+      "id": 79766,
+      "name": "Uaboe",
+      "latitude": "-0.51393000",
+      "longitude": "166.92384000",
+      "timezone": "Pacific/Nauru"
+    }
+  ],
+  "14": [
+    {
+      "id": 79767,
+      "name": "Yaren",
+      "latitude": "-0.55085000",
+      "longitude": "166.92520000",
+      "timezone": "Pacific/Nauru"
+    }
+  ]
+}

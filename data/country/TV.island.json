@@ -1,103 +1,26 @@
 {
   "FUN": {
-    "name": "Funafuti",
-    "cities": [
-      {
-        "id": 108993,
-        "name": "Alapi Village",
-        "latitude": "-8.52074000",
-        "longitude": "179.19680000",
-        "timezone": "Pacific/Funafuti"
-      },
-      {
-        "id": 108995,
-        "name": "Fakaifou Village",
-        "latitude": "-8.51758000",
-        "longitude": "179.20094000",
-        "timezone": "Pacific/Funafuti"
-      },
-      {
-        "id": 108996,
-        "name": "Funafuti",
-        "latitude": "-8.52425000",
-        "longitude": "179.19417000",
-        "timezone": "Pacific/Funafuti"
-      }
-    ]
+    "name": "Funafuti"
   },
   "NMG": {
-    "name": "Nanumanga",
-    "cities": [
-      {
-        "id": 109001,
-        "name": "Toga Village",
-        "latitude": "-6.28764000",
-        "longitude": "176.31472000",
-        "timezone": "Pacific/Funafuti"
-      }
-    ]
+    "name": "Nanumanga"
   },
   "NMA": {
-    "name": "Nanumea",
-    "cities": []
+    "name": "Nanumea"
   },
   "NIT": {
-    "name": "Niutao Island Council",
-    "cities": [
-      {
-        "id": 108997,
-        "name": "Kulia Village",
-        "latitude": "-6.10819000",
-        "longitude": "177.33393000",
-        "timezone": "Pacific/Funafuti"
-      },
-      {
-        "id": 108998,
-        "name": "Niulakita",
-        "latitude": "-10.78800000",
-        "longitude": "179.46600000",
-        "timezone": "Pacific/Funafuti"
-      }
-    ]
+    "name": "Niutao Island Council"
   },
   "NUI": {
-    "name": "Nui",
-    "cities": [
-      {
-        "id": 109000,
-        "name": "Tanrake Village",
-        "latitude": "-7.24562000",
-        "longitude": "177.14511000",
-        "timezone": "Pacific/Funafuti"
-      }
-    ]
+    "name": "Nui"
   },
   "NKF": {
-    "name": "Nukufetau",
-    "cities": [
-      {
-        "id": 108999,
-        "name": "Savave Village",
-        "latitude": "-8.02731000",
-        "longitude": "178.31351000",
-        "timezone": "Pacific/Funafuti"
-      }
-    ]
+    "name": "Nukufetau"
   },
   "NKL": {
-    "name": "Nukulaelae",
-    "cities": []
+    "name": "Nukulaelae"
   },
   "VAI": {
-    "name": "Vaitupu",
-    "cities": [
-      {
-        "id": 108994,
-        "name": "Asau Village",
-        "latitude": "-7.49026000",
-        "longitude": "178.68016000",
-        "timezone": "Pacific/Funafuti"
-      }
-    ]
+    "name": "Vaitupu"
   }
 }

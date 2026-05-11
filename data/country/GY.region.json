@@ -1,150 +1,32 @@
 {
   "BA": {
-    "name": "Barima-Waini",
-    "cities": [
-      {
-        "id": 53826,
-        "name": "Mabaruma",
-        "latitude": "8.20000000",
-        "longitude": "-59.78333000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Barima-Waini"
   },
   "CU": {
-    "name": "Cuyuni-Mazaruni",
-    "cities": [
-      {
-        "id": 53822,
-        "name": "Bartica",
-        "latitude": "6.40799000",
-        "longitude": "-58.62192000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Cuyuni-Mazaruni"
   },
   "DE": {
-    "name": "Demerara-Mahaica",
-    "cities": [
-      {
-        "id": 53823,
-        "name": "Georgetown",
-        "latitude": "6.80448000",
-        "longitude": "-58.15527000",
-        "timezone": "America/Guyana"
-      },
-      {
-        "id": 53827,
-        "name": "Mahaica Village",
-        "latitude": "6.68405000",
-        "longitude": "-57.92181000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Demerara-Mahaica"
   },
   "EB": {
-    "name": "East Berbice-Corentyne",
-    "cities": [
-      {
-        "id": 53830,
-        "name": "New Amsterdam",
-        "latitude": "6.24793000",
-        "longitude": "-57.51710000",
-        "timezone": "America/Guyana"
-      },
-      {
-        "id": 53833,
-        "name": "Skeldon",
-        "latitude": "5.88333000",
-        "longitude": "-57.13333000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "East Berbice-Corentyne"
   },
   "ES": {
-    "name": "Essequibo Islands-West Demerara",
-    "cities": [
-      {
-        "id": 53831,
-        "name": "Parika",
-        "latitude": "6.83712000",
-        "longitude": "-58.42941000",
-        "timezone": "America/Guyana"
-      },
-      {
-        "id": 53834,
-        "name": "Vreed-en-Hoop",
-        "latitude": "6.80927000",
-        "longitude": "-58.19798000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Essequibo Islands-West Demerara"
   },
   "MA": {
-    "name": "Mahaica-Berbice",
-    "cities": [
-      {
-        "id": 53828,
-        "name": "Mahaicony Village",
-        "latitude": "6.57633000",
-        "longitude": "-57.80486000",
-        "timezone": "America/Guyana"
-      },
-      {
-        "id": 53832,
-        "name": "Rosignol",
-        "latitude": "6.27095000",
-        "longitude": "-57.53697000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Mahaica-Berbice"
   },
   "PM": {
-    "name": "Pomeroon-Supenaam",
-    "cities": [
-      {
-        "id": 53821,
-        "name": "Anna Regina",
-        "latitude": "7.26439000",
-        "longitude": "-58.50769000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Pomeroon-Supenaam"
   },
   "PT": {
-    "name": "Potaro-Siparuni",
-    "cities": [
-      {
-        "id": 53829,
-        "name": "Mahdia",
-        "latitude": "5.26667000",
-        "longitude": "-59.15000000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Potaro-Siparuni"
   },
   "UD": {
-    "name": "Upper Demerara-Berbice",
-    "cities": [
-      {
-        "id": 53825,
-        "name": "Linden",
-        "latitude": "6.00809000",
-        "longitude": "-58.30714000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Upper Demerara-Berbice"
   },
   "UT": {
-    "name": "Upper Takutu-Upper Essequibo",
-    "cities": [
-      {
-        "id": 53824,
-        "name": "Lethem",
-        "latitude": "3.38333000",
-        "longitude": "-59.80000000",
-        "timezone": "America/Guyana"
-      }
-    ]
+    "name": "Upper Takutu-Upper Essequibo"
   }
 }

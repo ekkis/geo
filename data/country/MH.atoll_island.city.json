@@ -1,0 +1,234 @@
+{
+  "ALL": [
+    {
+      "id": 160070,
+      "name": "Ailinglaplap",
+      "latitude": "7.50000000",
+      "longitude": "168.73333333",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "ALK": [
+    {
+      "id": 160071,
+      "name": "Ailuk",
+      "latitude": "10.31666667",
+      "longitude": "169.93333333",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "ARN": [
+    {
+      "id": 160072,
+      "name": "Arno",
+      "latitude": "7.08333333",
+      "longitude": "171.70000000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "AUR": [
+    {
+      "id": 160073,
+      "name": "Aur",
+      "latitude": "8.20000000",
+      "longitude": "171.10000000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "KIL": [
+    {
+      "id": 160074,
+      "name": "Bikini",
+      "latitude": "11.60000000",
+      "longitude": "165.40000000",
+      "timezone": "Pacific/Kwajalein"
+    },
+    {
+      "id": 160081,
+      "name": "Kili",
+      "latitude": "5.61666667",
+      "longitude": "169.11666667",
+      "timezone": "Pacific/Majuro"
+    }
+  ],
+  "EBO": [
+    {
+      "id": 160077,
+      "name": "Ebon",
+      "latitude": "4.63333333",
+      "longitude": "168.71666667",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "ENI": [
+    {
+      "id": 160078,
+      "name": "Enewetak",
+      "latitude": "11.50000000",
+      "longitude": "162.33333333",
+      "timezone": "Pacific/Kwajalein"
+    },
+    {
+      "id": 160092,
+      "name": "Ujelang",
+      "latitude": "9.82222222",
+      "longitude": "160.90000000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "JAB": [
+    {
+      "id": 160079,
+      "name": "Jabat",
+      "latitude": "7.75000000",
+      "longitude": "168.96666667",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "JAL": [
+    {
+      "id": 160080,
+      "name": "Jabor",
+      "latitude": "6.00000000",
+      "longitude": "169.56666667",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "KWA": [
+    {
+      "id": 160076,
+      "name": "Ebeye",
+      "latitude": "41.08110000",
+      "longitude": "-111.92000000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "LAE": [
+    {
+      "id": 160082,
+      "name": "Lae",
+      "latitude": "8.93611111",
+      "longitude": "166.23750000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "LIB": [
+    {
+      "id": 160083,
+      "name": "Lib",
+      "latitude": "8.31305556",
+      "longitude": "167.37777778",
+      "timezone": "Pacific/Majuro"
+    }
+  ],
+  "LIK": [
+    {
+      "id": 160084,
+      "name": "Likiep",
+      "latitude": "9.88498000",
+      "longitude": "169.14345000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "MAJ": [
+    {
+      "id": 160075,
+      "name": "Delap-Uliga-Djarrit",
+      "latitude": "7.08333333",
+      "longitude": "171.38333333",
+      "timezone": "Pacific/Majuro"
+    }
+  ],
+  "MAL": [
+    {
+      "id": 160090,
+      "name": "Taroa",
+      "latitude": "48.00000000",
+      "longitude": "33.41666667",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "MEJ": [
+    {
+      "id": 160085,
+      "name": "Mejit",
+      "latitude": "10.28333333",
+      "longitude": "170.88333333",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "MIL": [
+    {
+      "id": 160086,
+      "name": "Mili",
+      "latitude": "6.12621667",
+      "longitude": "171.97998056",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "NMK": [
+    {
+      "id": 160087,
+      "name": "Namdrik",
+      "latitude": "5.61666667",
+      "longitude": "168.11666667",
+      "timezone": "Pacific/Majuro"
+    }
+  ],
+  "NMU": [
+    {
+      "id": 160088,
+      "name": "Namu",
+      "latitude": "7.98333333",
+      "longitude": "168.17361111",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "L": [],
+  "T": [],
+  "RON": [
+    {
+      "id": 160089,
+      "name": "Rongelap",
+      "latitude": "11.31666667",
+      "longitude": "166.78333333",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "UJA": [
+    {
+      "id": 160091,
+      "name": "Ujae",
+      "latitude": "9.05000000",
+      "longitude": "165.65000000",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "UTI": [
+    {
+      "id": 160093,
+      "name": "Utrik",
+      "latitude": "11.26730556",
+      "longitude": "169.78426111",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "WTH": [
+    {
+      "id": 160094,
+      "name": "Wotho",
+      "latitude": "10.10000000",
+      "longitude": "165.96666667",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ],
+  "WTJ": [
+    {
+      "id": 160095,
+      "name": "Wotje",
+      "latitude": "9.43333333",
+      "longitude": "170.01666667",
+      "timezone": "Pacific/Kwajalein"
+    }
+  ]
+}

@@ -1,110 +1,29 @@
 {
   "01": {
-    "name": "Acquaviva",
-    "cities": [
-      {
-        "id": 104693,
-        "name": "Acquaviva",
-        "latitude": "43.94593000",
-        "longitude": "12.41850000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Acquaviva"
   },
   "06": {
-    "name": "Borgo Maggiore",
-    "cities": [
-      {
-        "id": 104694,
-        "name": "Borgo Maggiore",
-        "latitude": "43.94193000",
-        "longitude": "12.44738000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Borgo Maggiore"
   },
   "02": {
-    "name": "Chiesanuova",
-    "cities": [
-      {
-        "id": 104699,
-        "name": "Poggio di Chiesanuova",
-        "latitude": "43.90451000",
-        "longitude": "12.42142000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Chiesanuova"
   },
   "03": {
-    "name": "Domagnano",
-    "cities": [
-      {
-        "id": 104695,
-        "name": "Domagnano",
-        "latitude": "43.94961000",
-        "longitude": "12.46828000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Domagnano"
   },
   "04": {
-    "name": "Faetano",
-    "cities": [
-      {
-        "id": 104696,
-        "name": "Faetano",
-        "latitude": "43.92831000",
-        "longitude": "12.49798000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Faetano"
   },
   "05": {
-    "name": "Fiorentino",
-    "cities": [
-      {
-        "id": 104697,
-        "name": "Fiorentino",
-        "latitude": "43.91001000",
-        "longitude": "12.45738000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Fiorentino"
   },
   "08": {
-    "name": "Montegiardino",
-    "cities": [
-      {
-        "id": 104698,
-        "name": "Monte Giardino",
-        "latitude": "43.90878000",
-        "longitude": "12.48201000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Montegiardino"
   },
   "07": {
-    "name": "San Marino",
-    "cities": [
-      {
-        "id": 104700,
-        "name": "San Marino",
-        "latitude": "43.93667000",
-        "longitude": "12.44639000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "San Marino"
   },
   "09": {
-    "name": "Serravalle",
-    "cities": [
-      {
-        "id": 104701,
-        "name": "Serravalle",
-        "latitude": "43.96897000",
-        "longitude": "12.48167000",
-        "timezone": "Europe/San_Marino"
-      }
-    ]
+    "name": "Serravalle"
   }
 }

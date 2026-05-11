@@ -1,1199 +1,419 @@
 {
   "314": {
-    "name": "Abim",
-    "cities": []
+    "name": "Abim"
   },
   "301": {
-    "name": "Adjumani",
-    "cities": []
+    "name": "Adjumani"
   },
   "322": {
-    "name": "Agago",
-    "cities": []
+    "name": "Agago"
   },
   "323": {
-    "name": "Alebtong",
-    "cities": []
+    "name": "Alebtong"
   },
   "315": {
-    "name": "Amolatar",
-    "cities": []
+    "name": "Amolatar"
   },
   "324": {
-    "name": "Amudat",
-    "cities": []
+    "name": "Amudat"
   },
   "216": {
-    "name": "Amuria",
-    "cities": []
+    "name": "Amuria"
   },
   "316": {
-    "name": "Amuru",
-    "cities": []
+    "name": "Amuru"
   },
   "302": {
-    "name": "Apac",
-    "cities": []
+    "name": "Apac"
   },
   "303": {
-    "name": "Arua",
-    "cities": []
+    "name": "Arua"
   },
   "217": {
-    "name": "Budaka",
-    "cities": []
+    "name": "Budaka"
   },
   "218": {
-    "name": "Bududa",
-    "cities": []
+    "name": "Bududa"
   },
   "201": {
-    "name": "Bugiri",
-    "cities": []
+    "name": "Bugiri"
   },
   "235": {
-    "name": "Bugweri",
-    "cities": []
+    "name": "Bugweri"
   },
   "420": {
-    "name": "Buhweju",
-    "cities": []
+    "name": "Buhweju"
   },
   "117": {
-    "name": "Buikwe",
-    "cities": []
+    "name": "Buikwe"
   },
   "219": {
-    "name": "Bukedea",
-    "cities": []
+    "name": "Bukedea"
   },
   "118": {
-    "name": "Bukomansimbi",
-    "cities": []
+    "name": "Bukomansimbi"
   },
   "220": {
-    "name": "Bukwo",
-    "cities": []
+    "name": "Bukwo"
   },
   "225": {
-    "name": "Bulambuli",
-    "cities": []
+    "name": "Bulambuli"
   },
   "416": {
-    "name": "Buliisa",
-    "cities": []
+    "name": "Buliisa"
   },
   "401": {
-    "name": "Bundibugyo",
-    "cities": []
+    "name": "Bundibugyo"
   },
   "430": {
-    "name": "Bunyangabu",
-    "cities": []
+    "name": "Bunyangabu"
   },
   "402": {
-    "name": "Bushenyi",
-    "cities": []
+    "name": "Bushenyi"
   },
   "202": {
-    "name": "Busia",
-    "cities": []
+    "name": "Busia"
   },
   "221": {
-    "name": "Butaleja",
-    "cities": []
+    "name": "Butaleja"
   },
   "119": {
-    "name": "Butambala",
-    "cities": []
+    "name": "Butambala"
   },
   "233": {
-    "name": "Butebo",
-    "cities": []
+    "name": "Butebo"
   },
   "120": {
-    "name": "Buvuma",
-    "cities": []
+    "name": "Buvuma"
   },
   "226": {
-    "name": "Buyende",
-    "cities": []
+    "name": "Buyende"
   },
   "C": {
-    "name": "Central",
-    "cities": [
-      {
-        "id": 110880,
-        "name": "Bukomansimbi",
-        "latitude": "-0.12855000",
-        "longitude": "31.62527000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110886,
-        "name": "Buvuma",
-        "latitude": "-0.36744000",
-        "longitude": "33.20071000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110888,
-        "name": "Bweyogerere",
-        "latitude": "0.35773000",
-        "longitude": "32.66332000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110890,
-        "name": "Byakabanda",
-        "latitude": "-0.74250000",
-        "longitude": "31.40639000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110891,
-        "name": "Entebbe",
-        "latitude": "0.05621000",
-        "longitude": "32.47949000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110893,
-        "name": "Gomba",
-        "latitude": "0.20017000",
-        "longitude": "31.75023000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110902,
-        "name": "Kajansi",
-        "latitude": "0.21548000",
-        "longitude": "32.53453000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110903,
-        "name": "Kampala",
-        "latitude": "0.31628000",
-        "longitude": "32.58219000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110904,
-        "name": "Kampala District",
-        "latitude": "0.33508000",
-        "longitude": "32.58313000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110907,
-        "name": "Kanoni",
-        "latitude": "0.17722000",
-        "longitude": "31.88111000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110911,
-        "name": "Kayunga",
-        "latitude": "0.70250000",
-        "longitude": "32.88861000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110913,
-        "name": "Kiboga",
-        "latitude": "0.91611000",
-        "longitude": "31.77417000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110917,
-        "name": "Kireka",
-        "latitude": "0.34750000",
-        "longitude": "32.64917000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110924,
-        "name": "Kyotera",
-        "latitude": "-0.61556000",
-        "longitude": "31.51750000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110926,
-        "name": "Lugazi",
-        "latitude": "0.36788000",
-        "longitude": "32.93760000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110927,
-        "name": "Luwero",
-        "latitude": "0.84917000",
-        "longitude": "32.47306000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110928,
-        "name": "Lyantonde",
-        "latitude": "-0.40306000",
-        "longitude": "31.15722000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110930,
-        "name": "Masaka",
-        "latitude": "-0.33379000",
-        "longitude": "31.73409000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110936,
-        "name": "Mityana",
-        "latitude": "0.41750000",
-        "longitude": "32.02278000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110939,
-        "name": "Mpigi",
-        "latitude": "0.22500000",
-        "longitude": "32.31361000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110940,
-        "name": "Mubende",
-        "latitude": "0.55849000",
-        "longitude": "31.39489000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110941,
-        "name": "Mubende District",
-        "latitude": "0.50000000",
-        "longitude": "31.50000000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110943,
-        "name": "Mukono",
-        "latitude": "0.35333000",
-        "longitude": "32.75528000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110944,
-        "name": "Nakasongola",
-        "latitude": "1.30889000",
-        "longitude": "32.45639000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110945,
-        "name": "Namasuba",
-        "latitude": "0.68944000",
-        "longitude": "32.42139000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110947,
-        "name": "Njeru",
-        "latitude": "0.44166000",
-        "longitude": "33.17917000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110957,
-        "name": "Sembabule",
-        "latitude": "-0.07722000",
-        "longitude": "31.45667000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110961,
-        "name": "Wakiso",
-        "latitude": "0.40444000",
-        "longitude": "32.45944000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110962,
-        "name": "Wakiso District",
-        "latitude": "0.23763000",
-        "longitude": "32.47836000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110963,
-        "name": "Wobulenzi",
-        "latitude": "0.72833000",
-        "longitude": "32.51222000",
-        "timezone": "Africa/Kampala"
-      }
-    ]
+    "name": "Central"
   },
   "317": {
-    "name": "Dokolo",
-    "cities": []
+    "name": "Dokolo"
   },
   "E": {
-    "name": "Eastern",
-    "cities": [
-      {
-        "id": 110878,
-        "name": "Bugembe",
-        "latitude": "0.48213000",
-        "longitude": "33.24065000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110879,
-        "name": "Bugiri",
-        "latitude": "0.57139000",
-        "longitude": "33.74167000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110881,
-        "name": "Bukwa",
-        "latitude": "1.27115000",
-        "longitude": "34.66778000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110882,
-        "name": "Bulambuli",
-        "latitude": "1.32055000",
-        "longitude": "34.28062000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110884,
-        "name": "Busembatia",
-        "latitude": "0.77725000",
-        "longitude": "33.62364000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110885,
-        "name": "Busia",
-        "latitude": "0.46588000",
-        "longitude": "34.09221000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110887,
-        "name": "Buwenge",
-        "latitude": "0.64996000",
-        "longitude": "33.17128000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110898,
-        "name": "Iganga",
-        "latitude": "0.60917000",
-        "longitude": "33.46861000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110899,
-        "name": "Jinja",
-        "latitude": "0.43902000",
-        "longitude": "33.20317000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110905,
-        "name": "Kamuli",
-        "latitude": "0.94722000",
-        "longitude": "33.11972000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110909,
-        "name": "Kapchorwa",
-        "latitude": "1.40096000",
-        "longitude": "34.45038000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110914,
-        "name": "Kibuku",
-        "latitude": "1.05000000",
-        "longitude": "33.80879000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110922,
-        "name": "Kumi",
-        "latitude": "1.46083000",
-        "longitude": "33.93611000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110933,
-        "name": "Mayuge",
-        "latitude": "0.45972000",
-        "longitude": "33.48028000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110934,
-        "name": "Mbale",
-        "latitude": "1.08209000",
-        "longitude": "34.17503000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110955,
-        "name": "Pallisa",
-        "latitude": "1.14500000",
-        "longitude": "33.70944000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110958,
-        "name": "Sironko",
-        "latitude": "1.23132000",
-        "longitude": "34.24773000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110959,
-        "name": "Soroti",
-        "latitude": "1.71464000",
-        "longitude": "33.61113000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110960,
-        "name": "Tororo",
-        "latitude": "0.69299000",
-        "longitude": "34.18085000",
-        "timezone": "Africa/Kampala"
-      }
-    ]
+    "name": "Eastern"
   },
   "121": {
-    "name": "Gomba",
-    "cities": []
+    "name": "Gomba"
   },
   "304": {
-    "name": "Gulu",
-    "cities": []
+    "name": "Gulu"
   },
   "403": {
-    "name": "Hoima",
-    "cities": []
+    "name": "Hoima"
   },
   "417": {
-    "name": "Ibanda",
-    "cities": []
+    "name": "Ibanda"
   },
   "203": {
-    "name": "Iganga",
-    "cities": []
+    "name": "Iganga"
   },
   "418": {
-    "name": "Isingiro",
-    "cities": []
+    "name": "Isingiro"
   },
   "204": {
-    "name": "Jinja",
-    "cities": []
+    "name": "Jinja"
   },
   "318": {
-    "name": "Kaabong",
-    "cities": []
+    "name": "Kaabong"
   },
   "404": {
-    "name": "Kabale",
-    "cities": []
+    "name": "Kabale"
   },
   "405": {
-    "name": "Kabarole",
-    "cities": []
+    "name": "Kabarole"
   },
   "213": {
-    "name": "Kaberamaido",
-    "cities": []
+    "name": "Kaberamaido"
   },
   "427": {
-    "name": "Kagadi",
-    "cities": []
+    "name": "Kagadi"
   },
   "428": {
-    "name": "Kakumiro",
-    "cities": []
+    "name": "Kakumiro"
   },
   "237": {
-    "name": "Kalaki",
-    "cities": []
+    "name": "Kalaki"
   },
   "101": {
-    "name": "Kalangala",
-    "cities": []
+    "name": "Kalangala"
   },
   "222": {
-    "name": "Kaliro",
-    "cities": []
+    "name": "Kaliro"
   },
   "122": {
-    "name": "Kalungu",
-    "cities": []
+    "name": "Kalungu"
   },
   "102": {
-    "name": "Kampala",
-    "cities": []
+    "name": "Kampala"
   },
   "205": {
-    "name": "Kamuli",
-    "cities": []
+    "name": "Kamuli"
   },
   "413": {
-    "name": "Kamwenge",
-    "cities": []
+    "name": "Kamwenge"
   },
   "414": {
-    "name": "Kanungu",
-    "cities": []
+    "name": "Kanungu"
   },
   "206": {
-    "name": "Kapchorwa",
-    "cities": []
+    "name": "Kapchorwa"
   },
   "236": {
-    "name": "Kapelebyong",
-    "cities": []
+    "name": "Kapelebyong"
   },
   "335": {
-    "name": "Karenga",
-    "cities": []
+    "name": "Karenga"
   },
   "126": {
-    "name": "Kasanda",
-    "cities": []
+    "name": "Kasanda"
   },
   "406": {
-    "name": "Kasese",
-    "cities": []
+    "name": "Kasese"
   },
   "207": {
-    "name": "Katakwi",
-    "cities": []
+    "name": "Katakwi"
   },
   "112": {
-    "name": "Kayunga",
-    "cities": []
+    "name": "Kayunga"
   },
   "433": {
-    "name": "Kazo",
-    "cities": []
+    "name": "Kazo"
   },
   "407": {
-    "name": "Kibaale",
-    "cities": []
+    "name": "Kibaale"
   },
   "103": {
-    "name": "Kiboga",
-    "cities": []
+    "name": "Kiboga"
   },
   "227": {
-    "name": "Kibuku",
-    "cities": []
+    "name": "Kibuku"
   },
   "432": {
-    "name": "Kikuube",
-    "cities": []
+    "name": "Kikuube"
   },
   "419": {
-    "name": "Kiruhura",
-    "cities": []
+    "name": "Kiruhura"
   },
   "421": {
-    "name": "Kiryandongo",
-    "cities": []
+    "name": "Kiryandongo"
   },
   "408": {
-    "name": "Kisoro",
-    "cities": []
+    "name": "Kisoro"
   },
   "434": {
-    "name": "Kitagwenda",
-    "cities": []
+    "name": "Kitagwenda"
   },
   "305": {
-    "name": "Kitgum",
-    "cities": []
+    "name": "Kitgum"
   },
   "319": {
-    "name": "Koboko",
-    "cities": []
+    "name": "Koboko"
   },
   "325": {
-    "name": "Kole",
-    "cities": []
+    "name": "Kole"
   },
   "306": {
-    "name": "Kotido",
-    "cities": []
+    "name": "Kotido"
   },
   "208": {
-    "name": "Kumi",
-    "cities": []
+    "name": "Kumi"
   },
   "333": {
-    "name": "Kwania",
-    "cities": []
+    "name": "Kwania"
   },
   "228": {
-    "name": "Kween",
-    "cities": []
+    "name": "Kween"
   },
   "123": {
-    "name": "Kyankwanzi",
-    "cities": []
+    "name": "Kyankwanzi"
   },
   "422": {
-    "name": "Kyegegwa",
-    "cities": []
+    "name": "Kyegegwa"
   },
   "415": {
-    "name": "Kyenjojo",
-    "cities": []
+    "name": "Kyenjojo"
   },
   "125": {
-    "name": "Kyotera",
-    "cities": []
+    "name": "Kyotera"
   },
   "326": {
-    "name": "Lamwo",
-    "cities": []
+    "name": "Lamwo"
   },
   "307": {
-    "name": "Lira",
-    "cities": []
+    "name": "Lira"
   },
   "229": {
-    "name": "Luuka",
-    "cities": []
+    "name": "Luuka"
   },
   "104": {
-    "name": "Luwero",
-    "cities": []
+    "name": "Luwero"
   },
   "124": {
-    "name": "Lwengo",
-    "cities": []
+    "name": "Lwengo"
   },
   "114": {
-    "name": "Lyantonde",
-    "cities": []
+    "name": "Lyantonde"
   },
   "336": {
-    "name": "Madi-Okollo",
-    "cities": []
+    "name": "Madi-Okollo"
   },
   "223": {
-    "name": "Manafwa",
-    "cities": []
+    "name": "Manafwa"
   },
   "320": {
-    "name": "Maracha",
-    "cities": []
+    "name": "Maracha"
   },
   "105": {
-    "name": "Masaka",
-    "cities": []
+    "name": "Masaka"
   },
   "409": {
-    "name": "Masindi",
-    "cities": []
+    "name": "Masindi"
   },
   "214": {
-    "name": "Mayuge",
-    "cities": []
+    "name": "Mayuge"
   },
   "209": {
-    "name": "Mbale",
-    "cities": []
+    "name": "Mbale"
   },
   "410": {
-    "name": "Mbarara",
-    "cities": []
+    "name": "Mbarara"
   },
   "423": {
-    "name": "Mitooma",
-    "cities": []
+    "name": "Mitooma"
   },
   "115": {
-    "name": "Mityana",
-    "cities": []
+    "name": "Mityana"
   },
   "308": {
-    "name": "Moroto",
-    "cities": []
+    "name": "Moroto"
   },
   "309": {
-    "name": "Moyo",
-    "cities": []
+    "name": "Moyo"
   },
   "106": {
-    "name": "Mpigi",
-    "cities": []
+    "name": "Mpigi"
   },
   "107": {
-    "name": "Mubende",
-    "cities": []
+    "name": "Mubende"
   },
   "108": {
-    "name": "Mukono",
-    "cities": []
+    "name": "Mukono"
   },
   "334": {
-    "name": "Nabilatuk",
-    "cities": []
+    "name": "Nabilatuk"
   },
   "311": {
-    "name": "Nakapiripirit",
-    "cities": []
+    "name": "Nakapiripirit"
   },
   "116": {
-    "name": "Nakaseke",
-    "cities": []
+    "name": "Nakaseke"
   },
   "109": {
-    "name": "Nakasongola",
-    "cities": []
+    "name": "Nakasongola"
   },
   "230": {
-    "name": "Namayingo",
-    "cities": []
+    "name": "Namayingo"
   },
   "234": {
-    "name": "Namisindwa",
-    "cities": []
+    "name": "Namisindwa"
   },
   "224": {
-    "name": "Namutumba",
-    "cities": []
+    "name": "Namutumba"
   },
   "327": {
-    "name": "Napak",
-    "cities": []
+    "name": "Napak"
   },
   "310": {
-    "name": "Nebbi",
-    "cities": []
+    "name": "Nebbi"
   },
   "231": {
-    "name": "Ngora",
-    "cities": []
+    "name": "Ngora"
   },
   "N": {
-    "name": "Northern",
-    "cities": [
-      {
-        "id": 110874,
-        "name": "Adjumani",
-        "latitude": "3.37786000",
-        "longitude": "31.79090000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110875,
-        "name": "Amudat",
-        "latitude": "1.95000000",
-        "longitude": "34.95000000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110876,
-        "name": "Apac",
-        "latitude": "1.97556000",
-        "longitude": "32.53861000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110877,
-        "name": "Arua",
-        "latitude": "3.02013000",
-        "longitude": "30.91105000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110894,
-        "name": "Gulu",
-        "latitude": "2.77457000",
-        "longitude": "32.29899000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110920,
-        "name": "Kitgum",
-        "latitude": "3.27833000",
-        "longitude": "32.88667000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110921,
-        "name": "Kotido",
-        "latitude": "2.98056000",
-        "longitude": "34.13306000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110925,
-        "name": "Lira",
-        "latitude": "2.24990000",
-        "longitude": "32.89985000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110937,
-        "name": "Moroto",
-        "latitude": "2.53453000",
-        "longitude": "34.66659000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110938,
-        "name": "Moyo",
-        "latitude": "3.66088000",
-        "longitude": "31.72474000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110946,
-        "name": "Nebbi",
-        "latitude": "2.47826000",
-        "longitude": "31.08893000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110950,
-        "name": "Otuke",
-        "latitude": "2.48372000",
-        "longitude": "33.34201000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110951,
-        "name": "Oyam",
-        "latitude": "2.38129000",
-        "longitude": "32.50071000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110952,
-        "name": "Pader",
-        "latitude": "3.05000000",
-        "longitude": "33.21667000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110953,
-        "name": "Pader Palwo",
-        "latitude": "2.80056000",
-        "longitude": "33.13500000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110954,
-        "name": "Paidha",
-        "latitude": "2.41669000",
-        "longitude": "30.98551000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110964,
-        "name": "Yumbe",
-        "latitude": "3.46506000",
-        "longitude": "31.24689000",
-        "timezone": "Africa/Kampala"
-      }
-    ]
+    "name": "Northern"
   },
   "424": {
-    "name": "Ntoroko",
-    "cities": []
+    "name": "Ntoroko"
   },
   "411": {
-    "name": "Ntungamo",
-    "cities": []
+    "name": "Ntungamo"
   },
   "328": {
-    "name": "Nwoya",
-    "cities": []
+    "name": "Nwoya"
   },
   "337": {
-    "name": "Obongi",
-    "cities": []
+    "name": "Obongi"
   },
   "331": {
-    "name": "Omoro",
-    "cities": []
+    "name": "Omoro"
   },
   "329": {
-    "name": "Otuke",
-    "cities": []
+    "name": "Otuke"
   },
   "321": {
-    "name": "Oyam",
-    "cities": []
+    "name": "Oyam"
   },
   "312": {
-    "name": "Pader",
-    "cities": []
+    "name": "Pader"
   },
   "332": {
-    "name": "Pakwach",
-    "cities": []
+    "name": "Pakwach"
   },
   "210": {
-    "name": "Pallisa",
-    "cities": []
+    "name": "Pallisa"
   },
   "110": {
-    "name": "Rakai",
-    "cities": []
+    "name": "Rakai"
   },
   "429": {
-    "name": "Rubanda",
-    "cities": []
+    "name": "Rubanda"
   },
   "425": {
-    "name": "Rubirizi",
-    "cities": []
+    "name": "Rubirizi"
   },
   "431": {
-    "name": "Rukiga",
-    "cities": []
+    "name": "Rukiga"
   },
   "412": {
-    "name": "Rukungiri",
-    "cities": []
+    "name": "Rukungiri"
   },
   "435": {
-    "name": "Rwampara",
-    "cities": []
+    "name": "Rwampara"
   },
   "111": {
-    "name": "Sembabule",
-    "cities": []
+    "name": "Sembabule"
   },
   "232": {
-    "name": "Serere",
-    "cities": []
+    "name": "Serere"
   },
   "426": {
-    "name": "Sheema",
-    "cities": []
+    "name": "Sheema"
   },
   "215": {
-    "name": "Sironko",
-    "cities": []
+    "name": "Sironko"
   },
   "211": {
-    "name": "Soroti",
-    "cities": []
+    "name": "Soroti"
   },
   "212": {
-    "name": "Tororo",
-    "cities": []
+    "name": "Tororo"
   },
   "113": {
-    "name": "Wakiso",
-    "cities": []
+    "name": "Wakiso"
   },
   "W": {
-    "name": "Western",
-    "cities": [
-      {
-        "id": 110883,
-        "name": "Bundibugyo",
-        "latitude": "0.71117000",
-        "longitude": "30.06469000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110889,
-        "name": "Bwizibwera",
-        "latitude": "-0.59167000",
-        "longitude": "30.62861000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110892,
-        "name": "Fort Portal",
-        "latitude": "0.66174000",
-        "longitude": "30.27480000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110895,
-        "name": "Hoima",
-        "latitude": "1.43314000",
-        "longitude": "31.35241000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110896,
-        "name": "Ibanda",
-        "latitude": "-0.13398000",
-        "longitude": "30.49616000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110897,
-        "name": "Ibanda District",
-        "latitude": "-0.08100000",
-        "longitude": "30.55600000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110900,
-        "name": "Kabale",
-        "latitude": "-1.24857000",
-        "longitude": "29.98993000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110901,
-        "name": "Kagadi",
-        "latitude": "0.93778000",
-        "longitude": "30.80889000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110906,
-        "name": "Kamwenge",
-        "latitude": "0.18660000",
-        "longitude": "30.45393000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110908,
-        "name": "Kanungu",
-        "latitude": "-0.95750000",
-        "longitude": "29.78972000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110910,
-        "name": "Kasese",
-        "latitude": "0.18333000",
-        "longitude": "30.08333000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110912,
-        "name": "Kibale",
-        "latitude": "0.80000000",
-        "longitude": "31.06667000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110915,
-        "name": "Kigorobya",
-        "latitude": "1.61620000",
-        "longitude": "31.30890000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110916,
-        "name": "Kilembe",
-        "latitude": "0.19835000",
-        "longitude": "30.01302000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110918,
-        "name": "Kiruhura",
-        "latitude": "-0.19664000",
-        "longitude": "30.84446000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110919,
-        "name": "Kisoro",
-        "latitude": "-1.28538000",
-        "longitude": "29.68497000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110923,
-        "name": "Kyenjojo",
-        "latitude": "0.63278000",
-        "longitude": "30.62139000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110929,
-        "name": "Margherita",
-        "latitude": "0.41861000",
-        "longitude": "29.89111000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110931,
-        "name": "Masindi",
-        "latitude": "1.67444000",
-        "longitude": "31.71500000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110932,
-        "name": "Masindi Port",
-        "latitude": "1.69606000",
-        "longitude": "32.08608000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110935,
-        "name": "Mbarara",
-        "latitude": "-0.60467000",
-        "longitude": "30.64851000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110942,
-        "name": "Muhororo",
-        "latitude": "0.93806000",
-        "longitude": "30.75944000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110948,
-        "name": "Ntungamo",
-        "latitude": "-0.87944000",
-        "longitude": "30.26417000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110949,
-        "name": "Nyachera",
-        "latitude": "-0.90000000",
-        "longitude": "30.41667000",
-        "timezone": "Africa/Kampala"
-      },
-      {
-        "id": 110956,
-        "name": "Rukungiri",
-        "latitude": "-0.84111000",
-        "longitude": "29.94194000",
-        "timezone": "Africa/Kampala"
-      }
-    ]
+    "name": "Western"
   },
   "313": {
-    "name": "Yumbe",
-    "cities": []
+    "name": "Yumbe"
   },
   "330": {
-    "name": "Zombo",
-    "cities": []
+    "name": "Zombo"
   }
 }

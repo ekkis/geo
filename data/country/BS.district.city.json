@@ -1,0 +1,200 @@
+{
+  "AK": [],
+  "BY": [],
+  "BI": [
+    {
+      "id": 15686,
+      "name": "Alice Town",
+      "latitude": "25.72800000",
+      "longitude": "-79.29721000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "BP": [],
+  "CI": [
+    {
+      "id": 15688,
+      "name": "Arthur’s Town",
+      "latitude": "24.62240000",
+      "longitude": "-75.67151000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "CO": [
+    {
+      "id": 15699,
+      "name": "Marsh Harbour",
+      "latitude": "26.54124000",
+      "longitude": "-77.06360000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "CS": [],
+  "CE": [],
+  "CK": [
+    {
+      "id": 15691,
+      "name": "Colonel Hill",
+      "latitude": "22.75450000",
+      "longitude": "-74.20415000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "EG": [
+    {
+      "id": 15697,
+      "name": "High Rock",
+      "latitude": "26.60999000",
+      "longitude": "-78.27863000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "EX": [
+    {
+      "id": 15696,
+      "name": "George Town",
+      "latitude": "23.51616000",
+      "longitude": "-75.78665000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "FP": [
+    {
+      "id": 15695,
+      "name": "Freeport",
+      "latitude": "26.53333000",
+      "longitude": "-78.70000000",
+      "timezone": "America/Nassau"
+    },
+    {
+      "id": 15698,
+      "name": "Lucaya",
+      "latitude": "26.53333000",
+      "longitude": "-78.66667000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "GC": [],
+  "HI": [
+    {
+      "id": 15694,
+      "name": "Dunmore Town",
+      "latitude": "25.50216000",
+      "longitude": "-76.63633000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "HT": [],
+  "IN": [
+    {
+      "id": 15700,
+      "name": "Matthew Town",
+      "latitude": "20.94982000",
+      "longitude": "-73.67346000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "LI": [
+    {
+      "id": 15689,
+      "name": "Clarence Town",
+      "latitude": "23.10000000",
+      "longitude": "-74.98333000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "MC": [],
+  "MG": [
+    {
+      "id": 15685,
+      "name": "Abraham’s Bay",
+      "latitude": "22.36667000",
+      "longitude": "-72.96667000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "MI": [],
+  "NP": [
+    {
+      "id": 143913,
+      "name": "Nassau",
+      "latitude": "25.06666667",
+      "longitude": "-77.33333333",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "NO": [
+    {
+      "id": 15692,
+      "name": "Cooper’s Town",
+      "latitude": "26.87137000",
+      "longitude": "-77.51131000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "NS": [
+    {
+      "id": 15687,
+      "name": "Andros Town",
+      "latitude": "24.70502000",
+      "longitude": "-77.76912000",
+      "timezone": "America/Nassau"
+    },
+    {
+      "id": 15702,
+      "name": "San Andros",
+      "latitude": "25.06667000",
+      "longitude": "-78.05000000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "NE": [],
+  "RI": [
+    {
+      "id": 15693,
+      "name": "Duncan Town",
+      "latitude": "22.19083000",
+      "longitude": "-75.72583000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "RC": [
+    {
+      "id": 15701,
+      "name": "Port Nelson",
+      "latitude": "23.64967000",
+      "longitude": "-74.84157000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "SS": [
+    {
+      "id": 15690,
+      "name": "Cockburn Town",
+      "latitude": "24.05179000",
+      "longitude": "-74.53138000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "SO": [],
+  "SA": [],
+  "SE": [],
+  "SW": [
+    {
+      "id": 15703,
+      "name": "Spanish Wells",
+      "latitude": "25.54717000",
+      "longitude": "-76.76405000",
+      "timezone": "America/Nassau"
+    }
+  ],
+  "WG": [
+    {
+      "id": 15704,
+      "name": "West End",
+      "latitude": "26.68711000",
+      "longitude": "-78.97702000",
+      "timezone": "America/Nassau"
+    }
+  ]
+}

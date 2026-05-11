@@ -1,182 +1,83 @@
 {
   "02": {
-    "name": "Anse Boileau",
-    "cities": [
-      {
-        "id": 102906,
-        "name": "Anse Boileau",
-        "latitude": "-4.71667000",
-        "longitude": "55.48333000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Anse Boileau"
   },
   "03": {
-    "name": "Anse Etoile",
-    "cities": [
-      {
-        "id": 160109,
-        "name": "Anse Etoile",
-        "latitude": "-4.59166667",
-        "longitude": "55.45000000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Anse Etoile"
   },
   "05": {
-    "name": "Anse Royale",
-    "cities": [
-      {
-        "id": 102907,
-        "name": "Anse Royale",
-        "latitude": "-4.73333000",
-        "longitude": "55.51667000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Anse Royale"
   },
   "01": {
-    "name": "Anse-aux-Pins",
-    "cities": []
+    "name": "Anse-aux-Pins"
   },
   "04": {
-    "name": "Au Cap",
-    "cities": []
+    "name": "Au Cap"
   },
   "06": {
-    "name": "Baie Lazare",
-    "cities": []
+    "name": "Baie Lazare"
   },
   "07": {
-    "name": "Baie Sainte Anne",
-    "cities": []
+    "name": "Baie Sainte Anne"
   },
   "08": {
-    "name": "Beau Vallon",
-    "cities": [
-      {
-        "id": 102908,
-        "name": "Beau Vallon",
-        "latitude": "-4.62091000",
-        "longitude": "55.43015000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Beau Vallon"
   },
   "09": {
-    "name": "Bel Air",
-    "cities": []
+    "name": "Bel Air"
   },
   "10": {
-    "name": "Bel Ombre",
-    "cities": [
-      {
-        "id": 102909,
-        "name": "Bel Ombre",
-        "latitude": "-4.61667000",
-        "longitude": "55.41667000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Bel Ombre"
   },
   "11": {
-    "name": "Cascade",
-    "cities": [
-      {
-        "id": 102910,
-        "name": "Cascade",
-        "latitude": "-4.66667000",
-        "longitude": "55.50000000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Cascade"
   },
   "12": {
-    "name": "Glacis",
-    "cities": []
+    "name": "Glacis"
   },
   "13": {
-    "name": "Grand'Anse Mahé",
-    "cities": []
+    "name": "Grand'Anse Mahé"
   },
   "14": {
-    "name": "Grand'Anse Praslin",
-    "cities": []
+    "name": "Grand'Anse Praslin"
   },
   "26": {
-    "name": "Ile Perseverance I",
-    "cities": []
+    "name": "Ile Perseverance I"
   },
   "27": {
-    "name": "Ile Perseverance II",
-    "cities": []
+    "name": "Ile Perseverance II"
   },
   "15": {
-    "name": "La Digue",
-    "cities": []
+    "name": "La Digue"
   },
   "16": {
-    "name": "La Rivière Anglaise",
-    "cities": [
-      {
-        "id": 102913,
-        "name": "Victoria",
-        "latitude": "-4.62001000",
-        "longitude": "55.45501000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "La Rivière Anglaise"
   },
   "24": {
-    "name": "Les Mamelles",
-    "cities": []
+    "name": "Les Mamelles"
   },
   "17": {
-    "name": "Mont Buxton",
-    "cities": []
+    "name": "Mont Buxton"
   },
   "18": {
-    "name": "Mont Fleuri",
-    "cities": []
+    "name": "Mont Fleuri"
   },
   "19": {
-    "name": "Plaisance",
-    "cities": []
+    "name": "Plaisance"
   },
   "20": {
-    "name": "Pointe La Rue",
-    "cities": []
+    "name": "Pointe La Rue"
   },
   "21": {
-    "name": "Port Glaud",
-    "cities": [
-      {
-        "id": 102911,
-        "name": "Port Glaud",
-        "latitude": "-4.66667000",
-        "longitude": "55.41667000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Port Glaud"
   },
   "25": {
-    "name": "Roche Caiman",
-    "cities": []
+    "name": "Roche Caiman"
   },
   "22": {
-    "name": "Saint Louis",
-    "cities": []
+    "name": "Saint Louis"
   },
   "23": {
-    "name": "Takamaka",
-    "cities": [
-      {
-        "id": 102912,
-        "name": "Takamaka",
-        "latitude": "-4.76667000",
-        "longitude": "55.50000000",
-        "timezone": "Indian/Mahe"
-      }
-    ]
+    "name": "Takamaka"
   }
 }

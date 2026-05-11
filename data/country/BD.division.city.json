@@ -1,0 +1,586 @@
+{
+  "05": [
+    {
+      "id": 153876,
+      "name": "Bagerhat",
+      "latitude": "22.34880590",
+      "longitude": "89.07470250",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "01": [
+    {
+      "id": 8457,
+      "name": "Bandarban",
+      "latitude": "22.00000000",
+      "longitude": "92.33333000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "02": [
+    {
+      "id": 153858,
+      "name": "Barguna",
+      "latitude": "22.17167870",
+      "longitude": "89.79740240",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "A": [],
+  "06": [
+    {
+      "id": 153857,
+      "name": "Barisal",
+      "latitude": "22.42035790",
+      "longitude": "89.78250340",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "07": [
+    {
+      "id": 153859,
+      "name": "Bhola",
+      "latitude": "22.32452480",
+      "longitude": "90.10568470",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "03": [
+    {
+      "id": 153894,
+      "name": "Bogra",
+      "latitude": "24.82966450",
+      "longitude": "89.02598570",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "04": [
+    {
+      "id": 8470,
+      "name": "Brahmanbaria",
+      "latitude": "23.98333000",
+      "longitude": "91.16667000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "09": [
+    {
+      "id": 8474,
+      "name": "Chandpur",
+      "latitude": "23.25000000",
+      "longitude": "90.83333000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "45": [
+    {
+      "id": 153895,
+      "name": "Chapai Nawabganj",
+      "latitude": "24.59988690",
+      "longitude": "88.28504660",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "10": [
+    {
+      "id": 8481,
+      "name": "Chittagong",
+      "latitude": "22.48750000",
+      "longitude": "91.96333000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "B": [],
+  "12": [
+    {
+      "id": 153877,
+      "name": "Chuadanga",
+      "latitude": "23.60352730",
+      "longitude": "88.48732400",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "11": [
+    {
+      "id": 8484,
+      "name": "Cox's Bazar",
+      "latitude": "21.58389000",
+      "longitude": "92.01528000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "08": [
+    {
+      "id": 8483,
+      "name": "Comilla",
+      "latitude": "23.44170000",
+      "longitude": "91.00987000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "13": [
+    {
+      "id": 153863,
+      "name": "Dhaka",
+      "latitude": "23.78417980",
+      "longitude": "89.92859830",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "C": [],
+  "14": [
+    {
+      "id": 153898,
+      "name": "Dinajpur",
+      "latitude": "25.64261030",
+      "longitude": "88.18344620",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "15": [
+    {
+      "id": 153871,
+      "name": "Faridpur",
+      "latitude": "23.45115240",
+      "longitude": "89.52820380",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "16": [
+    {
+      "id": 8492,
+      "name": "Feni",
+      "latitude": "22.96667000",
+      "longitude": "91.31667000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "19": [
+    {
+      "id": 153900,
+      "name": "Gaibandha",
+      "latitude": "25.34315570",
+      "longitude": "89.13978570",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "18": [
+    {
+      "id": 153864,
+      "name": "Gazipur",
+      "latitude": "24.10914520",
+      "longitude": "90.09596140",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "17": [
+    {
+      "id": 153872,
+      "name": "Gopalganj",
+      "latitude": "23.10660120",
+      "longitude": "89.57802710",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "20": [
+    {
+      "id": 153906,
+      "name": "Habiganj",
+      "latitude": "24.33481970",
+      "longitude": "90.74899010",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "21": [
+    {
+      "id": 153887,
+      "name": "Jamalpur",
+      "latitude": "25.00108250",
+      "longitude": "89.26050130",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "22": [
+    {
+      "id": 153878,
+      "name": "Jessore",
+      "latitude": "23.08473560",
+      "longitude": "88.87480080",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "25": [
+    {
+      "id": 153860,
+      "name": "Jhalokati",
+      "latitude": "22.56303520",
+      "longitude": "89.87191590",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "23": [
+    {
+      "id": 153879,
+      "name": "Jhenaidah",
+      "latitude": "23.49521270",
+      "longitude": "88.70694930",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "24": [
+    {
+      "id": 153897,
+      "name": "Joypurhat",
+      "latitude": "25.06567070",
+      "longitude": "88.76832650",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "29": [
+    {
+      "id": 8512,
+      "name": "Khagrachhari",
+      "latitude": "23.16667000",
+      "longitude": "91.90000000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "27": [
+    {
+      "id": 153880,
+      "name": "Khulna",
+      "latitude": "22.35351390",
+      "longitude": "88.83407090",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "D": [],
+  "26": [
+    {
+      "id": 153865,
+      "name": "Kishoreganj",
+      "latitude": "24.33888030",
+      "longitude": "90.58499800",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "28": [
+    {
+      "id": 153899,
+      "name": "Kurigram",
+      "latitude": "25.80827220",
+      "longitude": "89.00915030",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "30": [
+    {
+      "id": 153881,
+      "name": "Kushtia",
+      "latitude": "23.94595240",
+      "longitude": "88.70179290",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "31": [
+    {
+      "id": 8521,
+      "name": "Lakshmipur",
+      "latitude": "22.91667000",
+      "longitude": "90.83333000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "32": [
+    {
+      "id": 153901,
+      "name": "Lalmonirhat",
+      "latitude": "26.12442390",
+      "longitude": "88.91060900",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "36": [
+    {
+      "id": 153873,
+      "name": "Madaripur",
+      "latitude": "23.23455490",
+      "longitude": "89.81089030",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "37": [
+    {
+      "id": 153882,
+      "name": "Magura",
+      "latitude": "23.46557740",
+      "longitude": "89.11547300",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "33": [
+    {
+      "id": 153866,
+      "name": "Manikganj",
+      "latitude": "23.83174080",
+      "longitude": "89.64097890",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "39": [
+    {
+      "id": 153883,
+      "name": "Meherpur",
+      "latitude": "23.78972180",
+      "longitude": "88.39319490",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "38": [
+    {
+      "id": 153907,
+      "name": "Moulvibazar",
+      "latitude": "24.48617710",
+      "longitude": "91.28742410",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "35": [
+    {
+      "id": 153867,
+      "name": "Munshiganj",
+      "latitude": "23.52615230",
+      "longitude": "90.11590910",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "34": [
+    {
+      "id": 153886,
+      "name": "Mymensingh",
+      "latitude": "24.72309850",
+      "longitude": "89.78411730",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "H": [],
+  "48": [
+    {
+      "id": 153896,
+      "name": "Naogaon",
+      "latitude": "24.87425080",
+      "longitude": "88.43751910",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "43": [
+    {
+      "id": 153884,
+      "name": "Narail",
+      "latitude": "23.13175700",
+      "longitude": "89.26258440",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "40": [
+    {
+      "id": 153868,
+      "name": "Narayanganj",
+      "latitude": "23.74880130",
+      "longitude": "90.25638500",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "42": [
+    {
+      "id": 153869,
+      "name": "Narsingdi",
+      "latitude": "24.00966000",
+      "longitude": "90.44480420",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "44": [
+    {
+      "id": 153890,
+      "name": "Natore",
+      "latitude": "24.38021070",
+      "longitude": "88.76302520",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "41": [
+    {
+      "id": 153888,
+      "name": "Netrokona",
+      "latitude": "24.87204810",
+      "longitude": "90.52293810",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "46": [
+    {
+      "id": 153902,
+      "name": "Nilphamari",
+      "latitude": "26.02264250",
+      "longitude": "88.63412710",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "47": [
+    {
+      "id": 8553,
+      "name": "Noakhali",
+      "latitude": "22.75000000",
+      "longitude": "91.16667000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "49": [
+    {
+      "id": 153893,
+      "name": "Pabna",
+      "latitude": "24.08126720",
+      "longitude": "89.03724420",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "52": [
+    {
+      "id": 153903,
+      "name": "Panchagarh",
+      "latitude": "26.32094460",
+      "longitude": "88.54711390",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "51": [
+    {
+      "id": 153861,
+      "name": "Patuakhali",
+      "latitude": "22.18709170",
+      "longitude": "89.71647060",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "50": [
+    {
+      "id": 153862,
+      "name": "Pirojpur",
+      "latitude": "22.50937910",
+      "longitude": "89.36434220",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "53": [
+    {
+      "id": 153874,
+      "name": "Rajbari",
+      "latitude": "23.73843000",
+      "longitude": "89.25547000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "54": [
+    {
+      "id": 153891,
+      "name": "Rajshahi",
+      "latitude": "24.42073360",
+      "longitude": "88.29602140",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "E": [],
+  "56": [
+    {
+      "id": 8576,
+      "name": "Rangamati",
+      "latitude": "22.63333000",
+      "longitude": "92.20000000",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "F": [],
+  "55": [
+    {
+      "id": 153904,
+      "name": "Rangpur",
+      "latitude": "25.62390240",
+      "longitude": "88.90094980",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "58": [
+    {
+      "id": 153885,
+      "name": "Satkhira",
+      "latitude": "22.29898590",
+      "longitude": "88.47540870",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "62": [
+    {
+      "id": 153875,
+      "name": "Shariatpur",
+      "latitude": "23.23124340",
+      "longitude": "90.08293470",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "57": [
+    {
+      "id": 153889,
+      "name": "Sherpur",
+      "latitude": "25.09260380",
+      "longitude": "89.76352070",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "59": [
+    {
+      "id": 153892,
+      "name": "Sirajganj",
+      "latitude": "24.39876240",
+      "longitude": "88.87641810",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "61": [
+    {
+      "id": 153908,
+      "name": "Sunamganj",
+      "latitude": "24.88905540",
+      "longitude": "91.00248270",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "G": [],
+  "60": [
+    {
+      "id": 153909,
+      "name": "Sylhet",
+      "latitude": "24.89189110",
+      "longitude": "91.73554950",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "63": [
+    {
+      "id": 153870,
+      "name": "Tangail",
+      "latitude": "24.37630700",
+      "longitude": "89.35804610",
+      "timezone": "Asia/Dhaka"
+    }
+  ],
+  "64": [
+    {
+      "id": 153905,
+      "name": "Thakurgaon",
+      "latitude": "25.93648420",
+      "longitude": "88.03366640",
+      "timezone": "Asia/Dhaka"
+    }
+  ]
+}
