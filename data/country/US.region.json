@@ -1,238 +1,272 @@
 {
-  "South": {
-    "AL": {
-      "name": "Alabama"
-    },
-    "AR": {
-      "name": "Arkansas"
-    },
-    "FL": {
-      "name": "Florida"
-    },
-    "GA": {
-      "name": "Georgia"
-    },
-    "KY": {
-      "name": "Kentucky"
-    },
-    "LA": {
-      "name": "Louisiana"
-    },
-    "MO": {
-      "name": "Missouri"
-    },
-    "MS": {
-      "name": "Mississippi"
-    },
-    "NC": {
-      "name": "North Carolina"
-    },
-    "SC": {
-      "name": "South Carolina"
-    },
-    "TN": {
-      "name": "Tennessee"
-    },
-    "VA": {
-      "name": "Virginia"
-    },
-    "WV": {
-      "name": "West Virginia"
-    }
+  "south": {
+    "name": "South",
+    "states": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MS",
+      "MO",
+      "NC",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ]
   },
-  "Mountain West": {
-    "AZ": {
-      "name": "Arizona"
-    },
-    "CO": {
-      "name": "Colorado"
-    },
-    "ID": {
-      "name": "Idaho"
-    },
-    "MT": {
-      "name": "Montana"
-    },
-    "NM": {
-      "name": "New Mexico"
-    },
-    "NV": {
-      "name": "Nevada"
-    },
-    "UT": {
-      "name": "Utah"
-    },
-    "WY": {
-      "name": "Wyoming"
-    }
+  "midwest": {
+    "name": "Midwest",
+    "states": [
+      "IL",
+      "IN",
+      "IA",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "ND",
+      "OH",
+      "SD",
+      "WI"
+    ]
   },
-  "Southwest": {
-    "AZ": {
-      "name": "Arizona"
-    },
-    "NM": {
-      "name": "New Mexico"
-    },
-    "TX": {
-      "name": "Texas"
-    }
+  "west": {
+    "name": "West",
+    "states": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "HI",
+      "ID",
+      "MT",
+      "NV",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ]
   },
-  "West Coast": {
-    "CA": {
-      "name": "California"
-    },
-    "OR": {
-      "name": "Oregon"
-    },
-    "WA": {
-      "name": "Washington"
-    }
+  "northeast": {
+    "name": "Northeast",
+    "states": [
+      "CT",
+      "ME",
+      "MA",
+      "NH",
+      "RI",
+      "VT",
+      "NJ",
+      "NY",
+      "PA"
+    ]
   },
-  "New England": {
-    "CT": {
-      "name": "Connecticut"
-    },
-    "MA": {
-      "name": "Massachusetts"
-    },
-    "ME": {
-      "name": "Maine"
-    },
-    "NH": {
-      "name": "New Hampshire"
-    },
-    "RI": {
-      "name": "Rhode Island"
-    },
-    "VT": {
-      "name": "Vermont"
-    }
+  "southwest": {
+    "name": "Southwest",
+    "states": [
+      "AZ",
+      "NM",
+      "OK",
+      "TX"
+    ]
   },
-  "East Coast": {
-    "CT": {
-      "name": "Connecticut"
-    },
-    "DE": {
-      "name": "Delaware"
-    },
-    "FL": {
-      "name": "Florida"
-    },
-    "GA": {
-      "name": "Georgia"
-    },
-    "MA": {
-      "name": "Massachusetts"
-    },
-    "MD": {
-      "name": "Maryland"
-    },
-    "ME": {
-      "name": "Maine"
-    },
-    "NC": {
-      "name": "North Carolina"
-    },
-    "NH": {
-      "name": "New Hampshire"
-    },
-    "NJ": {
-      "name": "New Jersey"
-    },
-    "NY": {
-      "name": "New York"
-    },
-    "RI": {
-      "name": "Rhode Island"
-    },
-    "SC": {
-      "name": "South Carolina"
-    },
-    "VA": {
-      "name": "Virginia"
-    }
+  "southeast": {
+    "name": "Southeast",
+    "states": [
+      "AL",
+      "FL",
+      "GA",
+      "KY",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ]
   },
-  "Midwest": {
-    "IA": {
-      "name": "Iowa"
-    },
-    "IL": {
-      "name": "Illinois"
-    },
-    "IN": {
-      "name": "Indiana"
-    },
-    "KS": {
-      "name": "Kansas"
-    },
-    "MI": {
-      "name": "Michigan"
-    },
-    "MN": {
-      "name": "Minnesota"
-    },
-    "MO": {
-      "name": "Missouri"
-    },
-    "ND": {
-      "name": "North Dakota"
-    },
-    "NE": {
-      "name": "Nebraska"
-    },
-    "OH": {
-      "name": "Ohio"
-    },
-    "SD": {
-      "name": "South Dakota"
-    },
-    "WI": {
-      "name": "Wisconsin"
-    }
+  "mid_atlantic": {
+    "name": "Mid-Atlantic",
+    "states": [
+      "DE",
+      "MD",
+      "NJ",
+      "NY",
+      "PA",
+      "VA",
+      "WV"
+    ]
   },
-  "Great Plains": {
-    "KS": {
-      "name": "Kansas"
-    },
-    "ND": {
-      "name": "North Dakota"
-    },
-    "NE": {
-      "name": "Nebraska"
-    },
-    "OK": {
-      "name": "Oklahoma"
-    },
-    "SD": {
-      "name": "South Dakota"
-    },
-    "TX": {
-      "name": "Texas"
-    }
+  "mountain": {
+    "name": "Mountain",
+    "states": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "NM",
+      "UT",
+      "WY"
+    ]
   },
-  "Mid-Atlantic": {
-    "NJ": {
-      "name": "New Jersey"
-    },
-    "NY": {
-      "name": "New York"
-    },
-    "PA": {
-      "name": "Pennsylvania"
-    }
+  "pacific": {
+    "name": "Pacific",
+    "states": [
+      "CA",
+      "HI",
+      "OR",
+      "WA"
+    ]
   },
-  "Pacific Northwest": {
-    "OR": {
-      "name": "Oregon"
-    },
-    "WA": {
-      "name": "Washington"
-    }
+  "east_coast": {
+    "name": "East Coast",
+    "states": [
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "ME",
+      "MD",
+      "MA",
+      "NH",
+      "NJ",
+      "NY",
+      "NC",
+      "RI",
+      "SC",
+      "VA"
+    ]
   },
-  "AK": {
-    "name": "Alaska"
+  "great_plains": {
+    "name": "Great Plains",
+    "states": [
+      "CO",
+      "IA",
+      "KS",
+      "MN",
+      "NE",
+      "ND",
+      "OK",
+      "SD",
+      "TX"
+    ]
   },
-  "HI": {
-    "name": "Hawaii"
+  "east_north_central": {
+    "name": "East North Central",
+    "states": [
+      "IL",
+      "IN",
+      "MI",
+      "OH",
+      "WI"
+    ]
+  },
+  "west_north_central": {
+    "name": "West North Central",
+    "states": [
+      "IA",
+      "KS",
+      "MN",
+      "MO",
+      "NE",
+      "ND",
+      "SD"
+    ]
+  },
+  "south_atlantic": {
+    "name": "South Atlantic",
+    "states": [
+      "DE",
+      "FL",
+      "GA",
+      "MD",
+      "NC",
+      "SC",
+      "VA"
+    ]
+  },
+  "east_south_central": {
+    "name": "East South Central",
+    "states": [
+      "AL",
+      "KY",
+      "MS",
+      "TN"
+    ]
+  },
+  "west_south_central": {
+    "name": "West South Central",
+    "states": [
+      "AR",
+      "LA",
+      "OK",
+      "TX"
+    ]
+  },
+  "new_england": {
+    "name": "New England",
+    "states": [
+      "CT",
+      "ME",
+      "MA",
+      "NH",
+      "RI",
+      "VT"
+    ]
+  },
+  "mid_atlantic_region": {
+    "name": "Mid-Atlantic Region",
+    "states": [
+      "NJ",
+      "NY",
+      "PA"
+    ]
+  },
+  "pacific_nw": {
+    "name": "Pacific Northwest",
+    "states": [
+      "OR",
+      "WA"
+    ]
+  },
+  "east_south_central_region": {
+    "name": "East South Central",
+    "states": [
+      "AL",
+      "KY",
+      "MS",
+      "TN"
+    ]
+  },
+  "west_south_central_region": {
+    "name": "West South Central",
+    "states": [
+      "AR",
+      "LA",
+      "OK",
+      "TX"
+    ]
+  },
+  "mountain_pacific": {
+    "name": "Mountain/Pacific",
+    "states": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ]
   }
 }
