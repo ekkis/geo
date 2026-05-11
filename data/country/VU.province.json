@@ -1,1 +1,80 @@
-{}
+{
+  "MAP": {
+    "name": "Malampa",
+    "cities": [
+      {
+        "id": 130637,
+        "name": "Lakatoro",
+        "latitude": "-16.09992000",
+        "longitude": "167.41636000",
+        "timezone": "Pacific/Efate"
+      },
+      {
+        "id": 130639,
+        "name": "Norsup",
+        "latitude": "-16.06536000",
+        "longitude": "167.39714000",
+        "timezone": "Pacific/Efate"
+      }
+    ]
+  },
+  "PAM": {
+    "name": "Penama",
+    "cities": []
+  },
+  "SAM": {
+    "name": "Sanma",
+    "cities": [
+      {
+        "id": 130638,
+        "name": "Luganville",
+        "latitude": "-15.51989000",
+        "longitude": "167.16235000",
+        "timezone": "Pacific/Efate"
+      },
+      {
+        "id": 130640,
+        "name": "Port-Olry",
+        "latitude": "-15.04175000",
+        "longitude": "167.07265000",
+        "timezone": "Pacific/Efate"
+      }
+    ]
+  },
+  "SEE": {
+    "name": "Shefa",
+    "cities": [
+      {
+        "id": 130641,
+        "name": "Port-Vila",
+        "latitude": "-17.73648000",
+        "longitude": "168.31366000",
+        "timezone": "Pacific/Efate"
+      }
+    ]
+  },
+  "TAE": {
+    "name": "Tafea",
+    "cities": [
+      {
+        "id": 130636,
+        "name": "Isangel",
+        "latitude": "-19.54167000",
+        "longitude": "169.28167000",
+        "timezone": "Pacific/Efate"
+      }
+    ]
+  },
+  "TOB": {
+    "name": "Torba",
+    "cities": [
+      {
+        "id": 130642,
+        "name": "Sola",
+        "latitude": "-13.87611000",
+        "longitude": "167.55167000",
+        "timezone": "Pacific/Efate"
+      }
+    ]
+  }
+}

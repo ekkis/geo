@@ -1,1 +1,50 @@
-{}
+{
+  "EC": {
+    "name": "Central Equatoria",
+    "cities": []
+  },
+  "EE": {
+    "name": "Eastern Equatoria",
+    "cities": []
+  },
+  "JG": {
+    "name": "Jonglei State",
+    "cities": []
+  },
+  "LK": {
+    "name": "Lakes",
+    "cities": [
+      {
+        "id": 104834,
+        "name": "Yirol",
+        "latitude": "6.55250000",
+        "longitude": "30.49806000",
+        "timezone": "Africa/Juba"
+      }
+    ]
+  },
+  "BN": {
+    "name": "Northern Bahr el Ghazal",
+    "cities": []
+  },
+  "UY": {
+    "name": "Unity",
+    "cities": []
+  },
+  "NU": {
+    "name": "Upper Nile",
+    "cities": []
+  },
+  "WR": {
+    "name": "Warrap",
+    "cities": []
+  },
+  "BW": {
+    "name": "Western Bahr el Ghazal",
+    "cities": []
+  },
+  "EW": {
+    "name": "Western Equatoria",
+    "cities": []
+  }
+}

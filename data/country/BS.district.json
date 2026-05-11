@@ -1,1 +1,296 @@
-{}
+{
+  "AK": {
+    "name": "Acklins",
+    "cities": []
+  },
+  "BY": {
+    "name": "Berry Islands",
+    "cities": []
+  },
+  "BI": {
+    "name": "Bimini",
+    "cities": [
+      {
+        "id": 15686,
+        "name": "Alice Town",
+        "latitude": "25.72800000",
+        "longitude": "-79.29721000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "BP": {
+    "name": "Black Point",
+    "cities": []
+  },
+  "CI": {
+    "name": "Cat Island",
+    "cities": [
+      {
+        "id": 15688,
+        "name": "Arthur’s Town",
+        "latitude": "24.62240000",
+        "longitude": "-75.67151000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "CO": {
+    "name": "Central Abaco",
+    "cities": [
+      {
+        "id": 15699,
+        "name": "Marsh Harbour",
+        "latitude": "26.54124000",
+        "longitude": "-77.06360000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "CS": {
+    "name": "Central Andros",
+    "cities": []
+  },
+  "CE": {
+    "name": "Central Eleuthera",
+    "cities": []
+  },
+  "CK": {
+    "name": "Crooked Island",
+    "cities": [
+      {
+        "id": 15691,
+        "name": "Colonel Hill",
+        "latitude": "22.75450000",
+        "longitude": "-74.20415000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "EG": {
+    "name": "East Grand Bahama",
+    "cities": [
+      {
+        "id": 15697,
+        "name": "High Rock",
+        "latitude": "26.60999000",
+        "longitude": "-78.27863000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "EX": {
+    "name": "Exuma",
+    "cities": [
+      {
+        "id": 15696,
+        "name": "George Town",
+        "latitude": "23.51616000",
+        "longitude": "-75.78665000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "FP": {
+    "name": "Freeport",
+    "cities": [
+      {
+        "id": 15695,
+        "name": "Freeport",
+        "latitude": "26.53333000",
+        "longitude": "-78.70000000",
+        "timezone": "America/Nassau"
+      },
+      {
+        "id": 15698,
+        "name": "Lucaya",
+        "latitude": "26.53333000",
+        "longitude": "-78.66667000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "GC": {
+    "name": "Grand Cay",
+    "cities": []
+  },
+  "HI": {
+    "name": "Harbour Island",
+    "cities": [
+      {
+        "id": 15694,
+        "name": "Dunmore Town",
+        "latitude": "25.50216000",
+        "longitude": "-76.63633000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "HT": {
+    "name": "Hope Town",
+    "cities": []
+  },
+  "IN": {
+    "name": "Inagua",
+    "cities": [
+      {
+        "id": 15700,
+        "name": "Matthew Town",
+        "latitude": "20.94982000",
+        "longitude": "-73.67346000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "LI": {
+    "name": "Long Island",
+    "cities": [
+      {
+        "id": 15689,
+        "name": "Clarence Town",
+        "latitude": "23.10000000",
+        "longitude": "-74.98333000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "MC": {
+    "name": "Mangrove Cay",
+    "cities": []
+  },
+  "MG": {
+    "name": "Mayaguana",
+    "cities": [
+      {
+        "id": 15685,
+        "name": "Abraham’s Bay",
+        "latitude": "22.36667000",
+        "longitude": "-72.96667000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "MI": {
+    "name": "Moore's Island",
+    "cities": []
+  },
+  "NP": {
+    "name": "New Providence",
+    "cities": [
+      {
+        "id": 143913,
+        "name": "Nassau",
+        "latitude": "25.06666667",
+        "longitude": "-77.33333333",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "NO": {
+    "name": "North Abaco",
+    "cities": [
+      {
+        "id": 15692,
+        "name": "Cooper’s Town",
+        "latitude": "26.87137000",
+        "longitude": "-77.51131000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "NS": {
+    "name": "North Andros",
+    "cities": [
+      {
+        "id": 15687,
+        "name": "Andros Town",
+        "latitude": "24.70502000",
+        "longitude": "-77.76912000",
+        "timezone": "America/Nassau"
+      },
+      {
+        "id": 15702,
+        "name": "San Andros",
+        "latitude": "25.06667000",
+        "longitude": "-78.05000000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "NE": {
+    "name": "North Eleuthera",
+    "cities": []
+  },
+  "RI": {
+    "name": "Ragged Island",
+    "cities": [
+      {
+        "id": 15693,
+        "name": "Duncan Town",
+        "latitude": "22.19083000",
+        "longitude": "-75.72583000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "RC": {
+    "name": "Rum Cay",
+    "cities": [
+      {
+        "id": 15701,
+        "name": "Port Nelson",
+        "latitude": "23.64967000",
+        "longitude": "-74.84157000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "SS": {
+    "name": "San Salvador Island",
+    "cities": [
+      {
+        "id": 15690,
+        "name": "Cockburn Town",
+        "latitude": "24.05179000",
+        "longitude": "-74.53138000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "SO": {
+    "name": "South Abaco",
+    "cities": []
+  },
+  "SA": {
+    "name": "South Andros",
+    "cities": []
+  },
+  "SE": {
+    "name": "South Eleuthera",
+    "cities": []
+  },
+  "SW": {
+    "name": "Spanish Wells",
+    "cities": [
+      {
+        "id": 15703,
+        "name": "Spanish Wells",
+        "latitude": "25.54717000",
+        "longitude": "-76.76405000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  },
+  "WG": {
+    "name": "West Grand Bahama",
+    "cities": [
+      {
+        "id": 15704,
+        "name": "West End",
+        "latitude": "26.68711000",
+        "longitude": "-78.97702000",
+        "timezone": "America/Nassau"
+      }
+    ]
+  }
+}

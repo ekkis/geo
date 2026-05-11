@@ -1,1 +1,182 @@
-{}
+{
+  "02": {
+    "name": "Anse Boileau",
+    "cities": [
+      {
+        "id": 102906,
+        "name": "Anse Boileau",
+        "latitude": "-4.71667000",
+        "longitude": "55.48333000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "03": {
+    "name": "Anse Etoile",
+    "cities": [
+      {
+        "id": 160109,
+        "name": "Anse Etoile",
+        "latitude": "-4.59166667",
+        "longitude": "55.45000000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "05": {
+    "name": "Anse Royale",
+    "cities": [
+      {
+        "id": 102907,
+        "name": "Anse Royale",
+        "latitude": "-4.73333000",
+        "longitude": "55.51667000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "01": {
+    "name": "Anse-aux-Pins",
+    "cities": []
+  },
+  "04": {
+    "name": "Au Cap",
+    "cities": []
+  },
+  "06": {
+    "name": "Baie Lazare",
+    "cities": []
+  },
+  "07": {
+    "name": "Baie Sainte Anne",
+    "cities": []
+  },
+  "08": {
+    "name": "Beau Vallon",
+    "cities": [
+      {
+        "id": 102908,
+        "name": "Beau Vallon",
+        "latitude": "-4.62091000",
+        "longitude": "55.43015000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "09": {
+    "name": "Bel Air",
+    "cities": []
+  },
+  "10": {
+    "name": "Bel Ombre",
+    "cities": [
+      {
+        "id": 102909,
+        "name": "Bel Ombre",
+        "latitude": "-4.61667000",
+        "longitude": "55.41667000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "11": {
+    "name": "Cascade",
+    "cities": [
+      {
+        "id": 102910,
+        "name": "Cascade",
+        "latitude": "-4.66667000",
+        "longitude": "55.50000000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "12": {
+    "name": "Glacis",
+    "cities": []
+  },
+  "13": {
+    "name": "Grand'Anse Mahé",
+    "cities": []
+  },
+  "14": {
+    "name": "Grand'Anse Praslin",
+    "cities": []
+  },
+  "26": {
+    "name": "Ile Perseverance I",
+    "cities": []
+  },
+  "27": {
+    "name": "Ile Perseverance II",
+    "cities": []
+  },
+  "15": {
+    "name": "La Digue",
+    "cities": []
+  },
+  "16": {
+    "name": "La Rivière Anglaise",
+    "cities": [
+      {
+        "id": 102913,
+        "name": "Victoria",
+        "latitude": "-4.62001000",
+        "longitude": "55.45501000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "24": {
+    "name": "Les Mamelles",
+    "cities": []
+  },
+  "17": {
+    "name": "Mont Buxton",
+    "cities": []
+  },
+  "18": {
+    "name": "Mont Fleuri",
+    "cities": []
+  },
+  "19": {
+    "name": "Plaisance",
+    "cities": []
+  },
+  "20": {
+    "name": "Pointe La Rue",
+    "cities": []
+  },
+  "21": {
+    "name": "Port Glaud",
+    "cities": [
+      {
+        "id": 102911,
+        "name": "Port Glaud",
+        "latitude": "-4.66667000",
+        "longitude": "55.41667000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  },
+  "25": {
+    "name": "Roche Caiman",
+    "cities": []
+  },
+  "22": {
+    "name": "Saint Louis",
+    "cities": []
+  },
+  "23": {
+    "name": "Takamaka",
+    "cities": [
+      {
+        "id": 102912,
+        "name": "Takamaka",
+        "latitude": "-4.76667000",
+        "longitude": "55.50000000",
+        "timezone": "Indian/Mahe"
+      }
+    ]
+  }
+}

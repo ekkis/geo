@@ -67,6 +67,7 @@
     "continent-code": "NA",
     "currency-codes": [
       "USD"
-    ]
+    ],
+    "states": {}
   }
 }

@@ -1,1 +1,98 @@
-{}
+{
+  "CE": {
+    "name": "Central",
+    "cities": [
+      {
+        "id": 102905,
+        "name": "Tulagi",
+        "latitude": "-9.10306000",
+        "longitude": "160.15056000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  },
+  "CH": {
+    "name": "Choiseul",
+    "cities": []
+  },
+  "GU": {
+    "name": "Guadalcanal",
+    "cities": [
+      {
+        "id": 102902,
+        "name": "Honiara",
+        "latitude": "-9.43333000",
+        "longitude": "159.95000000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  },
+  "CT": {
+    "name": "Honiara",
+    "cities": []
+  },
+  "IS": {
+    "name": "Isabel",
+    "cities": [
+      {
+        "id": 102900,
+        "name": "Buala",
+        "latitude": "-8.14497000",
+        "longitude": "159.59212000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  },
+  "MK": {
+    "name": "Makira-Ulawa",
+    "cities": [
+      {
+        "id": 102903,
+        "name": "Kirakira",
+        "latitude": "-10.45442000",
+        "longitude": "161.92045000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  },
+  "ML": {
+    "name": "Malaita",
+    "cities": [
+      {
+        "id": 102899,
+        "name": "Auki",
+        "latitude": "-8.76778000",
+        "longitude": "160.69778000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  },
+  "RB": {
+    "name": "Rennell and Bellona",
+    "cities": []
+  },
+  "TE": {
+    "name": "Temotu",
+    "cities": [
+      {
+        "id": 102904,
+        "name": "Lata",
+        "latitude": "-10.72500000",
+        "longitude": "165.79722000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  },
+  "WE": {
+    "name": "Western",
+    "cities": [
+      {
+        "id": 102901,
+        "name": "Gizo",
+        "latitude": "-8.10303000",
+        "longitude": "156.84186000",
+        "timezone": "Pacific/Guadalcanal"
+      }
+    ]
+  }
+}

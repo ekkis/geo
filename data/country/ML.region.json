@@ -1,23 +1,384 @@
 {
-  "CM": {
-    "name": "Bamako Capital District"
+  "BKO": {
+    "name": "Bamako",
+    "cities": [
+      {
+        "id": 67587,
+        "name": "Bamako",
+        "latitude": "12.65000000",
+        "longitude": "-8.00000000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
   },
-  "GA": {
-    "name": "Gao"
+  "7": {
+    "name": "Gao",
+    "cities": [
+      {
+        "id": 67584,
+        "name": "Ansongo",
+        "latitude": "15.65970000",
+        "longitude": "0.50220000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67592,
+        "name": "Cercle de Bourem",
+        "latitude": "17.71192000",
+        "longitude": "-0.34284000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67601,
+        "name": "Gao",
+        "latitude": "16.27167000",
+        "longitude": "-0.04472000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67602,
+        "name": "Gao Cercle",
+        "latitude": "16.72237000",
+        "longitude": "0.43984000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67605,
+        "name": "Inékar",
+        "latitude": "15.95944000",
+        "longitude": "3.14111000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
   },
-  "KY": {
-    "name": "Kidal"
+  "1": {
+    "name": "Kayes",
+    "cities": [
+      {
+        "id": 67586,
+        "name": "Bafoulabé",
+        "latitude": "13.80650000",
+        "longitude": "-10.83210000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67608,
+        "name": "Kayes",
+        "latitude": "14.44693000",
+        "longitude": "-11.44448000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67611,
+        "name": "Kita",
+        "latitude": "13.03490000",
+        "longitude": "-9.48950000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67612,
+        "name": "Kokofata",
+        "latitude": "12.88333000",
+        "longitude": "-9.95000000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67623,
+        "name": "Sagalo",
+        "latitude": "12.20000000",
+        "longitude": "-10.70000000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
   },
-  "MO": {
-    "name": "Mopti"
+  "8": {
+    "name": "Kidal",
+    "cities": [
+      {
+        "id": 67583,
+        "name": "Abeïbara",
+        "latitude": "19.11667000",
+        "longitude": "1.75000000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67595,
+        "name": "Cercle d’Abeïbara",
+        "latitude": "19.48878000",
+        "longitude": "2.20025000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67609,
+        "name": "Kidal",
+        "latitude": "18.44111000",
+        "longitude": "1.40778000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
   },
-  "SH": {
-    "name": "Ségou"
+  "2": {
+    "name": "Koulikoro",
+    "cities": [
+      {
+        "id": 67588,
+        "name": "Banamba",
+        "latitude": "13.54773000",
+        "longitude": "-7.44808000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67606,
+        "name": "Kangaba",
+        "latitude": "11.93333000",
+        "longitude": "-8.41667000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67607,
+        "name": "Kati",
+        "latitude": "12.74409000",
+        "longitude": "-8.07257000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67613,
+        "name": "Kolokani",
+        "latitude": "13.57280000",
+        "longitude": "-8.03390000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67615,
+        "name": "Koulikoro",
+        "latitude": "12.86273000",
+        "longitude": "-7.55985000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
   },
-  "SL": {
-    "name": "Sikasso"
+  "9": {
+    "name": "Ménaka",
+    "cities": []
   },
-  "TB": {
-    "name": "Tombouctou"
+  "5": {
+    "name": "Mopti",
+    "cities": [
+      {
+        "id": 67589,
+        "name": "Bandiagara",
+        "latitude": "14.35005000",
+        "longitude": "-3.61038000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67598,
+        "name": "Djénné",
+        "latitude": "13.90608000",
+        "longitude": "-4.55332000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67599,
+        "name": "Douentza",
+        "latitude": "15.00155000",
+        "longitude": "-2.94978000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67600,
+        "name": "Douentza Cercle",
+        "latitude": "15.06947000",
+        "longitude": "-2.40875000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67620,
+        "name": "Mopti",
+        "latitude": "14.48430000",
+        "longitude": "-4.18296000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67629,
+        "name": "Ténenkou",
+        "latitude": "14.45722000",
+        "longitude": "-4.91690000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
+  },
+  "4": {
+    "name": "Ségou",
+    "cities": [
+      {
+        "id": 67590,
+        "name": "Baroueli",
+        "latitude": "13.07489000",
+        "longitude": "-6.57171000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67594,
+        "name": "Cercle de San",
+        "latitude": "13.17895000",
+        "longitude": "-5.01617000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67618,
+        "name": "Ké-Macina",
+        "latitude": "13.96410000",
+        "longitude": "-5.35791000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67610,
+        "name": "Kinmparana",
+        "latitude": "12.84217000",
+        "longitude": "-4.92450000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67619,
+        "name": "Markala",
+        "latitude": "13.70210000",
+        "longitude": "-6.06590000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67624,
+        "name": "San",
+        "latitude": "13.30335000",
+        "longitude": "-4.89562000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67627,
+        "name": "Ségou",
+        "latitude": "13.43170000",
+        "longitude": "-6.21570000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67626,
+        "name": "Sokolo",
+        "latitude": "14.73280000",
+        "longitude": "-6.12190000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
+  },
+  "3": {
+    "name": "Sikasso",
+    "cities": [
+      {
+        "id": 67591,
+        "name": "Bougouni",
+        "latitude": "11.41769000",
+        "longitude": "-7.48323000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67614,
+        "name": "Kolondiéba",
+        "latitude": "11.08943000",
+        "longitude": "-6.89290000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67616,
+        "name": "Koutiala",
+        "latitude": "12.39173000",
+        "longitude": "-5.46421000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67617,
+        "name": "Koutiala Cercle",
+        "latitude": "12.35311000",
+        "longitude": "-5.58390000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67622,
+        "name": "Ntossoni",
+        "latitude": "12.53040000",
+        "longitude": "-5.77003000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67625,
+        "name": "Sikasso",
+        "latitude": "11.31755000",
+        "longitude": "-5.66654000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67630,
+        "name": "Yorosso",
+        "latitude": "12.35811000",
+        "longitude": "-4.77688000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
+  },
+  "10": {
+    "name": "Taoudénit",
+    "cities": []
+  },
+  "6": {
+    "name": "Tombouctou",
+    "cities": [
+      {
+        "id": 67585,
+        "name": "Araouane",
+        "latitude": "18.90476000",
+        "longitude": "-3.52649000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67593,
+        "name": "Cercle de Goundam",
+        "latitude": "18.60035000",
+        "longitude": "-4.99306000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67596,
+        "name": "Dire",
+        "latitude": "16.28017000",
+        "longitude": "-3.31302000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67603,
+        "name": "Goundam",
+        "latitude": "16.41453000",
+        "longitude": "-3.67075000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67604,
+        "name": "Gourma-Rharous Cercle",
+        "latitude": "16.07979000",
+        "longitude": "-1.76981000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67621,
+        "name": "Niafunké",
+        "latitude": "15.93220000",
+        "longitude": "-3.99060000",
+        "timezone": "Africa/Bamako"
+      },
+      {
+        "id": 67628,
+        "name": "Timbuktu",
+        "latitude": "16.77348000",
+        "longitude": "-3.00742000",
+        "timezone": "Africa/Bamako"
+      }
+    ]
   }
 }

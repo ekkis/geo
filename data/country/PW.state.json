@@ -1,1 +1,186 @@
-{}
+{
+  "002": {
+    "name": "Aimeliik",
+    "cities": [
+      {
+        "id": 89709,
+        "name": "Ngchemiangel",
+        "latitude": "7.44613000",
+        "longitude": "134.47678000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "004": {
+    "name": "Airai",
+    "cities": [
+      {
+        "id": 89712,
+        "name": "Ngetkib",
+        "latitude": "7.36451000",
+        "longitude": "134.51484000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "010": {
+    "name": "Angaur",
+    "cities": [
+      {
+        "id": 89700,
+        "name": "Angaur State",
+        "latitude": "6.90601000",
+        "longitude": "134.12997000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "050": {
+    "name": "Hatohobei",
+    "cities": [
+      {
+        "id": 89714,
+        "name": "Tobi Village",
+        "latitude": "3.00488000",
+        "longitude": "131.12168000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "100": {
+    "name": "Kayangel",
+    "cities": [
+      {
+        "id": 89702,
+        "name": "Kayangel",
+        "latitude": "8.08228000",
+        "longitude": "134.71725000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "150": {
+    "name": "Koror",
+    "cities": [
+      {
+        "id": 89704,
+        "name": "Koror",
+        "latitude": "7.33978000",
+        "longitude": "134.47326000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "212": {
+    "name": "Melekeok",
+    "cities": [
+      {
+        "id": 89706,
+        "name": "Melekeok Village",
+        "latitude": "7.49567000",
+        "longitude": "134.63671000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "214": {
+    "name": "Ngaraard",
+    "cities": [
+      {
+        "id": 89715,
+        "name": "Ulimang",
+        "latitude": "7.62416000",
+        "longitude": "134.64208000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "218": {
+    "name": "Ngarchelong",
+    "cities": [
+      {
+        "id": 89707,
+        "name": "Mengellang",
+        "latitude": "7.69570000",
+        "longitude": "134.63054000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "222": {
+    "name": "Ngardmau",
+    "cities": [
+      {
+        "id": 89708,
+        "name": "Ngardmau",
+        "latitude": "7.60986000",
+        "longitude": "134.57440000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "224": {
+    "name": "Ngatpang",
+    "cities": []
+  },
+  "226": {
+    "name": "Ngchesar",
+    "cities": [
+      {
+        "id": 89710,
+        "name": "Ngchesar Hamlet",
+        "latitude": "7.46932000",
+        "longitude": "134.60991000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "227": {
+    "name": "Ngeremlengui",
+    "cities": [
+      {
+        "id": 89701,
+        "name": "Imeong Hamlet",
+        "latitude": "7.53134000",
+        "longitude": "134.52713000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "228": {
+    "name": "Ngiwal",
+    "cities": [
+      {
+        "id": 89711,
+        "name": "Ngerkeai",
+        "latitude": "7.55456000",
+        "longitude": "134.63612000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "350": {
+    "name": "Peleliu",
+    "cities": [
+      {
+        "id": 89703,
+        "name": "Kloulklubed",
+        "latitude": "7.04192000",
+        "longitude": "134.25561000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  },
+  "370": {
+    "name": "Sonsorol",
+    "cities": [
+      {
+        "id": 89713,
+        "name": "Sonsorol Village",
+        "latitude": "5.32608000",
+        "longitude": "132.21943000",
+        "timezone": "Pacific/Palau"
+      }
+    ]
+  }
+}

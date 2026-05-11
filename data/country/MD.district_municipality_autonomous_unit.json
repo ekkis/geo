@@ -1,177 +1,690 @@
 {
-  "Anenii Noi": {
-    "ANENI": {
-      "name": "Anenii Noi"
-    }
+  "AN": {
+    "name": "Anenii Noi",
+    "cities": [
+      {
+        "id": 67271,
+        "name": "Anenii Noi",
+        "latitude": "46.87839000",
+        "longitude": "29.23483000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67337,
+        "name": "Varniţa",
+        "latitude": "46.86606000",
+        "longitude": "29.46636000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Bălți": {
-    "BALT": {
-      "name": "Bălți"
-    }
+  "BA": {
+    "name": "Bălți",
+    "cities": [
+      {
+        "id": 67280,
+        "name": "Bălţi",
+        "latitude": "47.76314000",
+        "longitude": "27.92932000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Basarabeasca": {
-    "BASAR": {
-      "name": "Basarabeasca"
-    }
+  "BS": {
+    "name": "Basarabeasca",
+    "cities": [
+      {
+        "id": 67272,
+        "name": "Basarabeasca",
+        "latitude": "46.33170000",
+        "longitude": "28.96365000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Bender": {
-    "BENDER": {
-      "name": "Bender"
-    }
+  "BD": {
+    "name": "Bender",
+    "cities": [
+      {
+        "id": 67273,
+        "name": "Bender",
+        "latitude": "46.83156000",
+        "longitude": "29.47769000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Briceni": {
-    "BRICE": {
-      "name": "Briceni"
-    }
+  "BR": {
+    "name": "Briceni",
+    "cities": []
   },
-  "Cahul": {
-    "CAHUL": {
-      "name": "Cahul"
-    }
+  "CA": {
+    "name": "Cahul",
+    "cities": [
+      {
+        "id": 67281,
+        "name": "Cahul",
+        "latitude": "45.90425000",
+        "longitude": "28.19929000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67305,
+        "name": "Giurgiuleşti",
+        "latitude": "45.48167000",
+        "longitude": "28.19722000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Călărași": {
-    "CALAR": {
-      "name": "Călărași"
-    }
+  "CL": {
+    "name": "Călărași",
+    "cities": [
+      {
+        "id": 67294,
+        "name": "Călăraşi",
+        "latitude": "47.25560000",
+        "longitude": "28.30987000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Cantemir": {
-    "CANTEM": {
-      "name": "Cantemir"
-    }
+  "CT": {
+    "name": "Cantemir",
+    "cities": [
+      {
+        "id": 67283,
+        "name": "Cantemir",
+        "latitude": "46.27743000",
+        "longitude": "28.20270000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67339,
+        "name": "Vişniovca",
+        "latitude": "46.33260000",
+        "longitude": "28.44797000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Căușeni": {
-    "CAUSEN": {
-      "name": "Căușeni"
-    }
+  "CS": {
+    "name": "Căușeni",
+    "cities": [
+      {
+        "id": 67295,
+        "name": "Căuşeni",
+        "latitude": "46.63674000",
+        "longitude": "29.41114000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67286,
+        "name": "Chiţcani",
+        "latitude": "46.78296000",
+        "longitude": "29.61682000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Chișinău": {
-    "CHISIN": {
-      "name": "Chișinău"
-    }
+  "CU": {
+    "name": "Chișinău",
+    "cities": [
+      {
+        "id": 67285,
+        "name": "Chisinau",
+        "latitude": "47.00556000",
+        "longitude": "28.85750000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67288,
+        "name": "Ciorescu",
+        "latitude": "47.13000000",
+        "longitude": "28.88937000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67292,
+        "name": "Cricova",
+        "latitude": "47.13835000",
+        "longitude": "28.86156000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67327,
+        "name": "Sîngera",
+        "latitude": "46.91557000",
+        "longitude": "28.96673000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67326,
+        "name": "Stăuceni",
+        "latitude": "47.09643000",
+        "longitude": "28.86791000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67336,
+        "name": "Vadul lui Vodă",
+        "latitude": "47.09009000",
+        "longitude": "29.07570000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67338,
+        "name": "Vatra",
+        "latitude": "47.07460000",
+        "longitude": "28.73685000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Cimișlia": {
-    "CIMIS": {
-      "name": "Cimișlia"
-    }
+  "CM": {
+    "name": "Cimișlia",
+    "cities": [
+      {
+        "id": 67287,
+        "name": "Cimişlia",
+        "latitude": "46.52685000",
+        "longitude": "28.76441000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Criuleni": {
-    "CRIUL": {
-      "name": "Criuleni"
-    }
+  "CR": {
+    "name": "Criuleni",
+    "cities": [
+      {
+        "id": 67293,
+        "name": "Criuleni",
+        "latitude": "47.21307000",
+        "longitude": "29.15926000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Dondușeni": {
-    "DONDU": {
-      "name": "Dondușeni"
-    }
+  "DO": {
+    "name": "Dondușeni",
+    "cities": [
+      {
+        "id": 67276,
+        "name": "Briceni",
+        "latitude": "48.35628000",
+        "longitude": "27.70293000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67298,
+        "name": "Donduşeni",
+        "latitude": "48.24268000",
+        "longitude": "27.61010000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Drochia": {
-    "DROCH": {
-      "name": "Drochia"
-    }
+  "DR": {
+    "name": "Drochia",
+    "cities": [
+      {
+        "id": 67299,
+        "name": "Drochia",
+        "latitude": "48.03555000",
+        "longitude": "27.81293000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Dubăsari": {
-    "DUBAS": {
-      "name": "Dubăsari"
-    }
+  "DU": {
+    "name": "Dubăsari",
+    "cities": [
+      {
+        "id": 67289,
+        "name": "Cocieri",
+        "latitude": "47.30170000",
+        "longitude": "29.11755000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67335,
+        "name": "Ustia",
+        "latitude": "47.25524000",
+        "longitude": "29.12406000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Edineț": {
-    "EDINE": {
-      "name": "Edineț"
-    }
+  "ED": {
+    "name": "Edineț",
+    "cities": [
+      {
+        "id": 67301,
+        "name": "Edineţ",
+        "latitude": "48.17215000",
+        "longitude": "27.30337000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Fălești": {
-    "FALEST": {
-      "name": "Fălești"
-    }
+  "FA": {
+    "name": "Fălești",
+    "cities": [
+      {
+        "id": 67303,
+        "name": "Fălești",
+        "latitude": "47.57667000",
+        "longitude": "27.71264000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Florești": {
-    "FLORE": {
-      "name": "Florești"
-    }
+  "FL": {
+    "name": "Florești",
+    "cities": [
+      {
+        "id": 67302,
+        "name": "Floreşti",
+        "latitude": "47.89137000",
+        "longitude": "28.29312000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67304,
+        "name": "Ghindești",
+        "latitude": "47.85482000",
+        "longitude": "28.37679000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67313,
+        "name": "Mărculeşti",
+        "latitude": "47.86897000",
+        "longitude": "28.24109000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Gagauzia": {
-    "GAGAU": {
-      "name": "Gagauzia"
-    }
+  "GA": {
+    "name": "Gagauzia",
+    "cities": [
+      {
+        "id": 67279,
+        "name": "Bugeac",
+        "latitude": "46.36554000",
+        "longitude": "28.66250000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67284,
+        "name": "Ceadîr-Lunga",
+        "latitude": "46.06169000",
+        "longitude": "28.83078000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67290,
+        "name": "Comrat",
+        "latitude": "46.29456000",
+        "longitude": "28.65650000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67340,
+        "name": "Vulcăneşti",
+        "latitude": "45.68492000",
+        "longitude": "28.40613000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Glodeni": {
-    "GLoden": {
-      "name": "Glodeni"
-    }
+  "GL": {
+    "name": "Glodeni",
+    "cities": [
+      {
+        "id": 67306,
+        "name": "Glodeni",
+        "latitude": "47.77513000",
+        "longitude": "27.51891000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Hîncești": {
-    "HINC": {
-      "name": "Hîncești"
-    }
+  "HI": {
+    "name": "Hîncești",
+    "cities": [
+      {
+        "id": 67296,
+        "name": "Dancu",
+        "latitude": "46.75818000",
+        "longitude": "28.20716000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67308,
+        "name": "Hînceşti",
+        "latitude": "46.83047000",
+        "longitude": "28.59064000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Ialoveni": {
-    "IALOV": {
-      "name": "Ialoveni"
-    }
+  "IA": {
+    "name": "Ialoveni",
+    "cities": [
+      {
+        "id": 67309,
+        "name": "Ialoveni",
+        "latitude": "46.94346000",
+        "longitude": "28.78233000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Leova": {
-    "LEOVA": {
-      "name": "Leova"
-    }
+  "LE": {
+    "name": "Leova",
+    "cities": [
+      {
+        "id": 67310,
+        "name": "Iargara",
+        "latitude": "46.42750001",
+        "longitude": "28.43666668",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 160063,
+        "name": "Leova",
+        "latitude": "46.48333333",
+        "longitude": "28.25000000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Nisporeni": {
-    "NISPO": {
-      "name": "Nisporeni"
-    }
+  "NI": {
+    "name": "Nisporeni",
+    "cities": [
+      {
+        "id": 67314,
+        "name": "Nisporeni",
+        "latitude": "47.08159000",
+        "longitude": "28.17138000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Ocnița": {
-    "OCNIT": {
-      "name": "Ocnița"
-    }
+  "OC": {
+    "name": "Ocnița",
+    "cities": [
+      {
+        "id": 67315,
+        "name": "Ocniţa",
+        "latitude": "48.38274000",
+        "longitude": "27.43805000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67317,
+        "name": "Otaci",
+        "latitude": "48.43285000",
+        "longitude": "27.79912000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Orhei": {
-    "ORHEI": {
-      "name": "Orhei"
-    }
+  "OR": {
+    "name": "Orhei",
+    "cities": [
+      {
+        "id": 67316,
+        "name": "Orhei",
+        "latitude": "47.38494000",
+        "longitude": "28.82446000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Rezina": {
-    "REZIN": {
-      "name": "Rezina"
-    }
+  "RE": {
+    "name": "Rezina",
+    "cities": [
+      {
+        "id": 67319,
+        "name": "Rezina",
+        "latitude": "47.74928000",
+        "longitude": "28.96583000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67322,
+        "name": "Saharna",
+        "latitude": "47.69107000",
+        "longitude": "28.97458000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Rîșcani": {
-    "RISC": {
-      "name": "Rîșcani"
-    }
+  "RI": {
+    "name": "Rîșcani",
+    "cities": [
+      {
+        "id": 67321,
+        "name": "Rîşcani",
+        "latitude": "47.94792000",
+        "longitude": "27.56376000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Sîngerei": {
-    "SING": {
-      "name": "Sîngerei"
-    }
+  "SI": {
+    "name": "Sîngerei",
+    "cities": [
+      {
+        "id": 67274,
+        "name": "Bilicenii Vechi",
+        "latitude": "47.65580000",
+        "longitude": "28.04734000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67275,
+        "name": "Biruinţa",
+        "latitude": "47.81353000",
+        "longitude": "28.07004000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67328,
+        "name": "Sîngerei",
+        "latitude": "47.63632000",
+        "longitude": "28.14296000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Soroca": {
-    "SOROC": {
-      "name": "Soroca"
-    }
+  "SD": {
+    "name": "Șoldănești",
+    "cities": [
+      {
+        "id": 67341,
+        "name": "Şoldăneşti",
+        "latitude": "47.81608000",
+        "longitude": "28.79718000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Stîrcea": {
-    "STIR": {
-      "name": "Stîrcea"
-    }
+  "SO": {
+    "name": "Soroca",
+    "cities": [
+      {
+        "id": 67324,
+        "name": "Soroca",
+        "latitude": "48.15659000",
+        "longitude": "28.28489000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Strășeni": {
-    "STRAS": {
-      "name": "Strășeni"
-    }
+  "SV": {
+    "name": "Ștefan Vodă",
+    "cities": [
+      {
+        "id": 67342,
+        "name": "Ştefan Vodă",
+        "latitude": "46.51287000",
+        "longitude": "29.66193000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Telenești": {
-    "TELEN": {
-      "name": "Telenești"
-    }
+  "ST": {
+    "name": "Strășeni",
+    "cities": [
+      {
+        "id": 67278,
+        "name": "Bucovăţ",
+        "latitude": "47.19064000",
+        "longitude": "28.45802000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67325,
+        "name": "Strășeni",
+        "latitude": "47.14216000",
+        "longitude": "28.60774000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Transnistria": {
-    "TRANS": {
-      "name": "Transnistria"
-    }
+  "TA": {
+    "name": "Taraclia",
+    "cities": [
+      {
+        "id": 67329,
+        "name": "Taraclia",
+        "latitude": "45.90273000",
+        "longitude": "28.66816000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67333,
+        "name": "Tvardița",
+        "latitude": "46.14826000",
+        "longitude": "28.96491000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   },
-  "Ungheni": {
-    "UNGHE": {
-      "name": "Ungheni"
-    }
+  "TE": {
+    "name": "Telenești",
+    "cities": [
+      {
+        "id": 67312,
+        "name": "Mîndreşti",
+        "latitude": "47.50525000",
+        "longitude": "28.27687000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67330,
+        "name": "Teleneşti",
+        "latitude": "47.50110000",
+        "longitude": "28.36536000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
+  },
+  "SN": {
+    "name": "Transnistria",
+    "cities": [
+      {
+        "id": 67282,
+        "name": "Camenca",
+        "latitude": "48.03233000",
+        "longitude": "28.69899000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67291,
+        "name": "Crasnoe",
+        "latitude": "46.64844000",
+        "longitude": "29.80403000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67297,
+        "name": "Dnestrovsc",
+        "latitude": "46.61640000",
+        "longitude": "29.91926000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67300,
+        "name": "Dubăsari",
+        "latitude": "47.26562000",
+        "longitude": "29.16667000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67307,
+        "name": "Hryhoriopol",
+        "latitude": "47.15413000",
+        "longitude": "29.30008000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67311,
+        "name": "Maiac",
+        "latitude": "47.23727000",
+        "longitude": "29.38498000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67318,
+        "name": "Pervomaisc",
+        "latitude": "46.73253000",
+        "longitude": "29.96170000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67320,
+        "name": "Rîbniţa",
+        "latitude": "47.76817000",
+        "longitude": "29.01000000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67323,
+        "name": "Slobozia",
+        "latitude": "46.72927000",
+        "longitude": "29.70446000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67331,
+        "name": "Tiraspol",
+        "latitude": "46.84274000",
+        "longitude": "29.62909000",
+        "timezone": "Europe/Chisinau"
+      },
+      {
+        "id": 67332,
+        "name": "Tiraspolul Nou",
+        "latitude": "46.82874000",
+        "longitude": "29.52174000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
+  },
+  "UN": {
+    "name": "Ungheni",
+    "cities": [
+      {
+        "id": 67334,
+        "name": "Ungheni",
+        "latitude": "47.21079000",
+        "longitude": "27.80047000",
+        "timezone": "Europe/Chisinau"
+      }
+    ]
   }
 }

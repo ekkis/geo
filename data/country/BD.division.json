@@ -1,191 +1,802 @@
 {
-  "কক্": {
-    "name": "কক্সবাজার"
+  "05": {
+    "name": "Bagerhat",
+    "cities": [
+      {
+        "id": 153876,
+        "name": "Bagerhat",
+        "latitude": "22.34880590",
+        "longitude": "89.07470250",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "কিশ": {
-    "name": "কিশোরগঞ্জ"
+  "01": {
+    "name": "Bandarban",
+    "cities": [
+      {
+        "id": 8457,
+        "name": "Bandarban",
+        "latitude": "22.00000000",
+        "longitude": "92.33333000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "কুড": {
-    "name": "কুড়িগ্রাম"
+  "02": {
+    "name": "Barguna",
+    "cities": [
+      {
+        "id": 153858,
+        "name": "Barguna",
+        "latitude": "22.17167870",
+        "longitude": "89.79740240",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "কুম": {
-    "name": "কুমিল্লা"
+  "A": {
+    "name": "Barisal ",
+    "cities": []
   },
-  "কুষ": {
-    "name": "কুষ্টিয়া"
+  "06": {
+    "name": "Barishal",
+    "cities": [
+      {
+        "id": 153857,
+        "name": "Barisal",
+        "latitude": "22.42035790",
+        "longitude": "89.78250340",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "খাগ": {
-    "name": "খাগড়াছড়ি"
+  "07": {
+    "name": "Bhola",
+    "cities": [
+      {
+        "id": 153859,
+        "name": "Bhola",
+        "latitude": "22.32452480",
+        "longitude": "90.10568470",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "খুল": {
-    "name": "খুলনা"
+  "03": {
+    "name": "Bogura",
+    "cities": [
+      {
+        "id": 153894,
+        "name": "Bogra",
+        "latitude": "24.82966450",
+        "longitude": "89.02598570",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "গাই": {
-    "name": "গাইবান্ধা"
+  "04": {
+    "name": "Brahmanbaria",
+    "cities": [
+      {
+        "id": 8470,
+        "name": "Brahmanbaria",
+        "latitude": "23.98333000",
+        "longitude": "91.16667000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "গাজ": {
-    "name": "গাজীপুর"
+  "09": {
+    "name": "Chandpur",
+    "cities": [
+      {
+        "id": 8474,
+        "name": "Chandpur",
+        "latitude": "23.25000000",
+        "longitude": "90.83333000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "গোপ": {
-    "name": "গোপালগঞ্জ"
+  "45": {
+    "name": "Chapai Nawabganj",
+    "cities": [
+      {
+        "id": 153895,
+        "name": "Chapai Nawabganj",
+        "latitude": "24.59988690",
+        "longitude": "88.28504660",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "চট্": {
-    "name": "চট্টগ্রাম"
+  "10": {
+    "name": "Chattogram",
+    "cities": [
+      {
+        "id": 8481,
+        "name": "Chittagong",
+        "latitude": "22.48750000",
+        "longitude": "91.96333000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "চাঁ": {
-    "name": "চাঁদপুর"
+  "B": {
+    "name": "Chittagong ",
+    "cities": []
   },
-  "চুয": {
-    "name": "চুয়াডাঙ্গা"
+  "12": {
+    "name": "Chuadanga",
+    "cities": [
+      {
+        "id": 153877,
+        "name": "Chuadanga",
+        "latitude": "23.60352730",
+        "longitude": "88.48732400",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "জয়": {
-    "name": "জয়পুরহাট"
+  "11": {
+    "name": "Cox's Bazar",
+    "cities": [
+      {
+        "id": 8484,
+        "name": "Cox's Bazar",
+        "latitude": "21.58389000",
+        "longitude": "92.01528000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "জাম": {
-    "name": "জামালপুর"
+  "08": {
+    "name": "Cumilla",
+    "cities": [
+      {
+        "id": 8483,
+        "name": "Comilla",
+        "latitude": "23.44170000",
+        "longitude": "91.00987000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ঝাল": {
-    "name": "ঝালকাঠি"
+  "13": {
+    "name": "Dhaka",
+    "cities": [
+      {
+        "id": 153863,
+        "name": "Dhaka",
+        "latitude": "23.78417980",
+        "longitude": "89.92859830",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ঝিন": {
-    "name": "ঝিনাইদহ"
+  "C": {
+    "name": "Dhaka ",
+    "cities": []
   },
-  "টাঙ": {
-    "name": "টাঙ্গাইল"
+  "14": {
+    "name": "Dinajpur",
+    "cities": [
+      {
+        "id": 153898,
+        "name": "Dinajpur",
+        "latitude": "25.64261030",
+        "longitude": "88.18344620",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ঠাক": {
-    "name": "ঠাকুরগাঁ"
+  "15": {
+    "name": "Faridpur",
+    "cities": [
+      {
+        "id": 153871,
+        "name": "Faridpur",
+        "latitude": "23.45115240",
+        "longitude": "89.52820380",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ঢাক": {
-    "name": "ঢাকা"
+  "16": {
+    "name": "Feni",
+    "cities": [
+      {
+        "id": 8492,
+        "name": "Feni",
+        "latitude": "22.96667000",
+        "longitude": "91.31667000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "দিন": {
-    "name": "দিনাজপুর"
+  "19": {
+    "name": "Gaibandha",
+    "cities": [
+      {
+        "id": 153900,
+        "name": "Gaibandha",
+        "latitude": "25.34315570",
+        "longitude": "89.13978570",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নওগ": {
-    "name": "নওগাঁ"
+  "18": {
+    "name": "Gazipur",
+    "cities": [
+      {
+        "id": 153864,
+        "name": "Gazipur",
+        "latitude": "24.10914520",
+        "longitude": "90.09596140",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নওয": {
-    "name": "নওয়াবগঞ্জ"
+  "17": {
+    "name": "Gopalganj",
+    "cities": [
+      {
+        "id": 153872,
+        "name": "Gopalganj",
+        "latitude": "23.10660120",
+        "longitude": "89.57802710",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নড়": {
-    "name": "নড়াইল"
+  "20": {
+    "name": "Habiganj",
+    "cities": [
+      {
+        "id": 153906,
+        "name": "Habiganj",
+        "latitude": "24.33481970",
+        "longitude": "90.74899010",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নরস": {
-    "name": "নরসিংদী"
+  "21": {
+    "name": "Jamalpur",
+    "cities": [
+      {
+        "id": 153887,
+        "name": "Jamalpur",
+        "latitude": "25.00108250",
+        "longitude": "89.26050130",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নাট": {
-    "name": "নাটোর"
+  "22": {
+    "name": "Jashore",
+    "cities": [
+      {
+        "id": 153878,
+        "name": "Jessore",
+        "latitude": "23.08473560",
+        "longitude": "88.87480080",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নার": {
-    "name": "নারায়ণগঞ্জ"
+  "25": {
+    "name": "Jhalakathi",
+    "cities": [
+      {
+        "id": 153860,
+        "name": "Jhalokati",
+        "latitude": "22.56303520",
+        "longitude": "89.87191590",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নীল": {
-    "name": "নীলফামারী"
+  "23": {
+    "name": "Jhenaidah",
+    "cities": [
+      {
+        "id": 153879,
+        "name": "Jhenaidah",
+        "latitude": "23.49521270",
+        "longitude": "88.70694930",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নেত": {
-    "name": "নেত্রকোনা"
+  "24": {
+    "name": "Joypurhat",
+    "cities": [
+      {
+        "id": 153897,
+        "name": "Joypurhat",
+        "latitude": "25.06567070",
+        "longitude": "88.76832650",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "নোয": {
-    "name": "নোয়াখালী"
+  "29": {
+    "name": "Khagrachhari",
+    "cities": [
+      {
+        "id": 8512,
+        "name": "Khagrachhari",
+        "latitude": "23.16667000",
+        "longitude": "91.90000000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "পঞ্": {
-    "name": "পঞ্চগড়"
+  "27": {
+    "name": "Khulna",
+    "cities": [
+      {
+        "id": 153880,
+        "name": "Khulna",
+        "latitude": "22.35351390",
+        "longitude": "88.83407090",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "পটু": {
-    "name": "পটুয়াখালী"
+  "D": {
+    "name": "Khulna ",
+    "cities": []
   },
-  "পাব": {
-    "name": "পাবনা"
+  "26": {
+    "name": "Kishoreganj",
+    "cities": [
+      {
+        "id": 153865,
+        "name": "Kishoreganj",
+        "latitude": "24.33888030",
+        "longitude": "90.58499800",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "পির": {
-    "name": "পিরোজপুর"
+  "28": {
+    "name": "Kurigram",
+    "cities": [
+      {
+        "id": 153899,
+        "name": "Kurigram",
+        "latitude": "25.80827220",
+        "longitude": "89.00915030",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ফরি": {
-    "name": "ফরিদপুর"
+  "30": {
+    "name": "Kushtia",
+    "cities": [
+      {
+        "id": 153881,
+        "name": "Kushtia",
+        "latitude": "23.94595240",
+        "longitude": "88.70179290",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ফেন": {
-    "name": "ফেনী"
+  "31": {
+    "name": "Lakshmipur",
+    "cities": [
+      {
+        "id": 8521,
+        "name": "Lakshmipur",
+        "latitude": "22.91667000",
+        "longitude": "90.83333000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "বগু": {
-    "name": "বগুড়া"
+  "32": {
+    "name": "Lalmonirhat",
+    "cities": [
+      {
+        "id": 153901,
+        "name": "Lalmonirhat",
+        "latitude": "26.12442390",
+        "longitude": "88.91060900",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "বরগ": {
-    "name": "বরগুনা"
+  "36": {
+    "name": "Madaripur",
+    "cities": [
+      {
+        "id": 153873,
+        "name": "Madaripur",
+        "latitude": "23.23455490",
+        "longitude": "89.81089030",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "বরি": {
-    "name": "বরিশাল"
+  "37": {
+    "name": "Magura",
+    "cities": [
+      {
+        "id": 153882,
+        "name": "Magura",
+        "latitude": "23.46557740",
+        "longitude": "89.11547300",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "বাগ": {
-    "name": "বাগেরহাট"
+  "33": {
+    "name": "Manikganj",
+    "cities": [
+      {
+        "id": 153866,
+        "name": "Manikganj",
+        "latitude": "23.83174080",
+        "longitude": "89.64097890",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "বান": {
-    "name": "বান্দরবান"
+  "39": {
+    "name": "Meherpur",
+    "cities": [
+      {
+        "id": 153883,
+        "name": "Meherpur",
+        "latitude": "23.78972180",
+        "longitude": "88.39319490",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ব্র": {
-    "name": "ব্রাহ্মণবাড়ীয়া"
+  "38": {
+    "name": "Moulvibazar",
+    "cities": [
+      {
+        "id": 153907,
+        "name": "Moulvibazar",
+        "latitude": "24.48617710",
+        "longitude": "91.28742410",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ভোল": {
-    "name": "ভোলা"
+  "35": {
+    "name": "Munshiganj",
+    "cities": [
+      {
+        "id": 153867,
+        "name": "Munshiganj",
+        "latitude": "23.52615230",
+        "longitude": "90.11590910",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "ময়": {
-    "name": "ময়মনসিংহ"
+  "34": {
+    "name": "Mymensingh",
+    "cities": [
+      {
+        "id": 153886,
+        "name": "Mymensingh",
+        "latitude": "24.72309850",
+        "longitude": "89.78411730",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "মাগ": {
-    "name": "মাগুরা"
+  "H": {
+    "name": "Mymensingh ",
+    "cities": []
   },
-  "মাদ": {
-    "name": "মাদারীপুর"
+  "48": {
+    "name": "Naogaon",
+    "cities": [
+      {
+        "id": 153896,
+        "name": "Naogaon",
+        "latitude": "24.87425080",
+        "longitude": "88.43751910",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "মান": {
-    "name": "মানিকগঞ্জ"
+  "43": {
+    "name": "Narail",
+    "cities": [
+      {
+        "id": 153884,
+        "name": "Narail",
+        "latitude": "23.13175700",
+        "longitude": "89.26258440",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "মুন": {
-    "name": "মুন্সীগঞ্জ"
+  "40": {
+    "name": "Narayanganj",
+    "cities": [
+      {
+        "id": 153868,
+        "name": "Narayanganj",
+        "latitude": "23.74880130",
+        "longitude": "90.25638500",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "মেহ": {
-    "name": "মেহেরপুর"
+  "42": {
+    "name": "Narsingdi",
+    "cities": [
+      {
+        "id": 153869,
+        "name": "Narsingdi",
+        "latitude": "24.00966000",
+        "longitude": "90.44480420",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "মৌল": {
-    "name": "মৌলভীবাজার"
+  "44": {
+    "name": "Natore",
+    "cities": [
+      {
+        "id": 153890,
+        "name": "Natore",
+        "latitude": "24.38021070",
+        "longitude": "88.76302520",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "যশো": {
-    "name": "যশোর"
+  "41": {
+    "name": "Netrakona",
+    "cities": [
+      {
+        "id": 153888,
+        "name": "Netrokona",
+        "latitude": "24.87204810",
+        "longitude": "90.52293810",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "রংপ": {
-    "name": "রংপুর"
+  "46": {
+    "name": "Nilphamari",
+    "cities": [
+      {
+        "id": 153902,
+        "name": "Nilphamari",
+        "latitude": "26.02264250",
+        "longitude": "88.63412710",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "রাঙ": {
-    "name": "রাঙ্গামাটি"
+  "47": {
+    "name": "Noakhali",
+    "cities": [
+      {
+        "id": 8553,
+        "name": "Noakhali",
+        "latitude": "22.75000000",
+        "longitude": "91.16667000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "রাজ": {
-    "name": "রাজশাহী"
+  "49": {
+    "name": "Pabna",
+    "cities": [
+      {
+        "id": 153893,
+        "name": "Pabna",
+        "latitude": "24.08126720",
+        "longitude": "89.03724420",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "লক্": {
-    "name": "লক্ষীপুর"
+  "52": {
+    "name": "Panchagarh",
+    "cities": [
+      {
+        "id": 153903,
+        "name": "Panchagarh",
+        "latitude": "26.32094460",
+        "longitude": "88.54711390",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "লাল": {
-    "name": "লালমনিরহাট"
+  "51": {
+    "name": "Patuakhali",
+    "cities": [
+      {
+        "id": 153861,
+        "name": "Patuakhali",
+        "latitude": "22.18709170",
+        "longitude": "89.71647060",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "শরী": {
-    "name": "শরীয়তপুর"
+  "50": {
+    "name": "Pirojpur",
+    "cities": [
+      {
+        "id": 153862,
+        "name": "Pirojpur",
+        "latitude": "22.50937910",
+        "longitude": "89.36434220",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "শের": {
-    "name": "শেরপুর"
+  "53": {
+    "name": "Rajbari",
+    "cities": [
+      {
+        "id": 153874,
+        "name": "Rajbari",
+        "latitude": "23.73843000",
+        "longitude": "89.25547000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "সাত": {
-    "name": "সাতক্ষিরা"
+  "54": {
+    "name": "Rajshahi",
+    "cities": [
+      {
+        "id": 153891,
+        "name": "Rajshahi",
+        "latitude": "24.42073360",
+        "longitude": "88.29602140",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "সির": {
-    "name": "সিরাজগঞ্জ"
+  "E": {
+    "name": "Rajshahi ",
+    "cities": []
   },
-  "সিল": {
-    "name": "সিলেট"
+  "56": {
+    "name": "Rangamati",
+    "cities": [
+      {
+        "id": 8576,
+        "name": "Rangamati",
+        "latitude": "22.63333000",
+        "longitude": "92.20000000",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   },
-  "সুন": {
-    "name": "সুনামগঞ্জ"
+  "F": {
+    "name": "Rangpur ",
+    "cities": []
   },
-  "হবি": {
-    "name": "হবিগঞ্জ"
+  "55": {
+    "name": "Rangpur",
+    "cities": [
+      {
+        "id": 153904,
+        "name": "Rangpur",
+        "latitude": "25.62390240",
+        "longitude": "88.90094980",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "58": {
+    "name": "Satkhira",
+    "cities": [
+      {
+        "id": 153885,
+        "name": "Satkhira",
+        "latitude": "22.29898590",
+        "longitude": "88.47540870",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "62": {
+    "name": "Shariatpur",
+    "cities": [
+      {
+        "id": 153875,
+        "name": "Shariatpur",
+        "latitude": "23.23124340",
+        "longitude": "90.08293470",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "57": {
+    "name": "Sherpur",
+    "cities": [
+      {
+        "id": 153889,
+        "name": "Sherpur",
+        "latitude": "25.09260380",
+        "longitude": "89.76352070",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "59": {
+    "name": "Sirajganj",
+    "cities": [
+      {
+        "id": 153892,
+        "name": "Sirajganj",
+        "latitude": "24.39876240",
+        "longitude": "88.87641810",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "61": {
+    "name": "Sunamganj",
+    "cities": [
+      {
+        "id": 153908,
+        "name": "Sunamganj",
+        "latitude": "24.88905540",
+        "longitude": "91.00248270",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "G": {
+    "name": "Sylhet ",
+    "cities": []
+  },
+  "60": {
+    "name": "Sylhet",
+    "cities": [
+      {
+        "id": 153909,
+        "name": "Sylhet",
+        "latitude": "24.89189110",
+        "longitude": "91.73554950",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "63": {
+    "name": "Tangail",
+    "cities": [
+      {
+        "id": 153870,
+        "name": "Tangail",
+        "latitude": "24.37630700",
+        "longitude": "89.35804610",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
+  },
+  "64": {
+    "name": "Thakurgaon",
+    "cities": [
+      {
+        "id": 153905,
+        "name": "Thakurgaon",
+        "latitude": "25.93648420",
+        "longitude": "88.03366640",
+        "timezone": "Asia/Dhaka"
+      }
+    ]
   }
 }
