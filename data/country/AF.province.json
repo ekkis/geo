@@ -1,12 +1,33 @@
 {
+  "BDS": {
+    "name": "Badakhshan"
+  },
+  "BDG": {
+    "name": "Badghis"
+  },
+  "BGL": {
+    "name": "Baghlan"
+  },
   "BAL": {
     "name": "Balkh"
   },
-  "FAO": {
+  "BAM": {
+    "name": "Bamyan"
+  },
+  "DAY": {
+    "name": "Daykundi"
+  },
+  "FRA": {
     "name": "Farah"
+  },
+  "FYB": {
+    "name": "Faryab"
   },
   "GHA": {
     "name": "Ghazni"
+  },
+  "GHO": {
+    "name": "Ghōr"
   },
   "HEL": {
     "name": "Helmand"
@@ -14,20 +35,47 @@
   "HER": {
     "name": "Herat"
   },
+  "JOW": {
+    "name": "Jowzjan"
+  },
   "KAB": {
     "name": "Kabul"
   },
   "KAN": {
     "name": "Kandahar"
   },
-  "KND": {
-    "name": "Kunduz"
+  "KAP": {
+    "name": "Kapisa"
+  },
+  "KHO": {
+    "name": "Khost"
+  },
+  "KNR": {
+    "name": "Kunar"
+  },
+  "KDZ": {
+    "name": "Kunduz Province"
+  },
+  "LAG": {
+    "name": "Laghman"
   },
   "LOG": {
     "name": "Logar"
   },
   "NAN": {
     "name": "Nangarhar"
+  },
+  "NIM": {
+    "name": "Nimruz"
+  },
+  "NUR": {
+    "name": "Nuristan"
+  },
+  "PIA": {
+    "name": "Paktia"
+  },
+  "PKA": {
+    "name": "Paktika"
   },
   "PAN": {
     "name": "Panjshir"
@@ -38,10 +86,19 @@
   "SAM": {
     "name": "Samangan"
   },
-  "URA": {
-    "name": "Uruzgan"
+  "SAR": {
+    "name": "Sar-e Pol"
+  },
+  "TAK": {
+    "name": "Takhar"
+  },
+  "URU": {
+    "name": "Urozgan"
   },
   "WAR": {
     "name": "Wardak"
+  },
+  "ZAB": {
+    "name": "Zabul"
   }
 }

@@ -1,1 +1,23 @@
-{}
+{
+  "CAR": {
+    "name": "Carriacou"
+  },
+  "AND": {
+    "name": "Saint Andrew"
+  },
+  "DAV": {
+    "name": "Saint David"
+  },
+  "GEO": {
+    "name": "Saint George"
+  },
+  "JOH": {
+    "name": "Saint John"
+  },
+  "MAR": {
+    "name": "Saint Mark"
+  },
+  "PAT": {
+    "name": "Saint Patrick"
+  }
+}

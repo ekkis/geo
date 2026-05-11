@@ -1,102 +1,53 @@
 {
-  "Akershus": {
-    "AKE": {
-      "name": "Akershus"
-    }
+  "AGD": {
+    "name": "Agder"
   },
-  "Aust-Agder": {
-    "AUS": {
-      "name": "Aust-Agder"
-    }
+  "AKE": {
+    "name": "Akershus"
   },
-  "Buskerud": {
-    "BUS": {
-      "name": "Buskerud"
-    }
+  "BUS": {
+    "name": "Buskerud"
   },
-  "Finnmark": {
-    "FIN": {
-      "name": "Finnmark"
-    }
+  "FIN": {
+    "name": "Finnmark"
   },
-  "Hedmark": {
-    "HED": {
-      "name": "Hedmark"
-    }
+  "INN": {
+    "name": "Innlandet"
   },
-  "Hordaland": {
-    "HOR": {
-      "name": "Hordaland"
-    }
+  "JAN": {
+    "name": "Jan Mayen"
   },
-  "Møre og Romsdal": {
-    "MREOG": {
-      "name": "Møre og Romsdal"
-    }
+  "MREOG": {
+    "name": "Møre og Romsdal"
   },
-  "Nord-Trøndelag": {
-    "NOR": {
-      "name": "Nord-Trøndelag"
-    }
+  "NOR1": {
+    "name": "Nordland"
   },
-  "Nordland": {
-    "NOR1": {
-      "name": "Nordland"
-    }
+  "OSL": {
+    "name": "Oslo"
   },
-  "Oppland": {
-    "OPP": {
-      "name": "Oppland"
-    }
+  "STF": {
+    "name": "Østfold"
   },
-  "Oslo": {
-    "OSL": {
-      "name": "Oslo"
-    }
+  "ROG": {
+    "name": "Rogaland"
   },
-  "Rogaland": {
-    "ROG": {
-      "name": "Rogaland"
-    }
+  "SVA": {
+    "name": "Svalbard"
   },
-  "Sogn og Fjordane": {
-    "SOGOG": {
-      "name": "Sogn og Fjordane"
-    }
+  "TEL": {
+    "name": "Telemark"
   },
-  "Sør-Trøndelag": {
-    "SR-": {
-      "name": "Sør-Trøndelag"
-    }
+  "TRO": {
+    "name": "Troms"
   },
-  "Østfold": {
-    "STF": {
-      "name": "Østfold"
-    }
+  "TRN": {
+    "name": "Trøndelag"
   },
-  "Svalbard": {
-    "SVA": {
-      "name": "Svalbard"
-    }
+  "VES": {
+    "name": "Vestfold"
   },
-  "Telemark": {
-    "TEL": {
-      "name": "Telemark"
-    }
-  },
-  "Troms": {
-    "TRO": {
-      "name": "Troms"
-    }
-  },
-  "Vestfold": {
-    "VES": {
-      "name": "Vestfold"
-    }
-  },
-  "Vest-Agder": {
-    "VES1": {
-      "name": "Vest-Agder"
-    }
+  "VEST": {
+    "name": "Vestland"
   }
 }

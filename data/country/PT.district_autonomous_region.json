@@ -1,92 +1,62 @@
 {
-  "Aveiro": {
-    "AVE": {
-      "name": "Aveiro"
-    }
+  "ACO": {
+    "name": "Açores"
   },
-  "Beja": {
-    "BEJ": {
-      "name": "Beja"
-    }
+  "AVE": {
+    "name": "Aveiro"
   },
-  "Braga": {
-    "BRA": {
-      "name": "Braga"
-    }
+  "BEJ": {
+    "name": "Beja"
   },
-  "Bragança": {
-    "BRA1": {
-      "name": "Bragança"
-    }
+  "BRA": {
+    "name": "Braga"
   },
-  "Castelo Branco": {
-    "CASBR": {
-      "name": "Castelo Branco"
-    }
+  "BRA1": {
+    "name": "Bragança"
   },
-  "Coimbra": {
-    "COI": {
-      "name": "Coimbra"
-    }
+  "CASBR": {
+    "name": "Castelo Branco"
   },
-  "Évora": {
-    "EVO": {
-      "name": "Évora"
-    }
+  "COI": {
+    "name": "Coimbra"
   },
-  "Faro": {
-    "FAR": {
-      "name": "Faro"
-    }
+  "EVO": {
+    "name": "Évora"
   },
-  "Guarda": {
-    "GUA": {
-      "name": "Guarda"
-    }
+  "FAR": {
+    "name": "Faro"
   },
-  "Leiria": {
-    "LEI": {
-      "name": "Leiria"
-    }
+  "GUA": {
+    "name": "Guarda"
   },
-  "Lisboa": {
-    "LIS": {
-      "name": "Lisboa"
-    }
+  "LEI": {
+    "name": "Leiria"
   },
-  "Portalegre": {
-    "POR": {
-      "name": "Portalegre"
-    }
+  "LIS": {
+    "name": "Lisbon"
   },
-  "Porto": {
-    "POR1": {
-      "name": "Porto"
-    }
+  "MAD": {
+    "name": "Madeira"
   },
-  "Santarém": {
-    "SAN": {
-      "name": "Santarém"
-    }
+  "POR": {
+    "name": "Portalegre"
   },
-  "Setúbal": {
-    "SET": {
-      "name": "Setúbal"
-    }
+  "POR1": {
+    "name": "Porto"
   },
-  "Viana do Castelo": {
-    "VIADO": {
-      "name": "Viana do Castelo"
-    }
+  "SAN": {
+    "name": "Santarém"
   },
-  "Vila Real": {
-    "VILRE": {
-      "name": "Vila Real"
-    }
+  "SET": {
+    "name": "Setúbal"
   },
-  "Viseu": {
-    "VIS": {
-      "name": "Viseu"
-    }
+  "VIADO": {
+    "name": "Viana do Castelo"
+  },
+  "VILRE": {
+    "name": "Vila Real"
+  },
+  "VIS": {
+    "name": "Viseu"
   }
 }

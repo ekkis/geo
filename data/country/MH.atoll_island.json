@@ -1,1 +1,80 @@
-{}
+{
+  "ALL": {
+    "name": "Ailinglaplap"
+  },
+  "ALK": {
+    "name": "Ailuk"
+  },
+  "ARN": {
+    "name": "Arno"
+  },
+  "AUR": {
+    "name": "Aur"
+  },
+  "KIL": {
+    "name": "Bikini & Kili"
+  },
+  "EBO": {
+    "name": "Ebon"
+  },
+  "ENI": {
+    "name": "Enewetak & Ujelang"
+  },
+  "JAB": {
+    "name": "Jabat"
+  },
+  "JAL": {
+    "name": "Jaluit"
+  },
+  "KWA": {
+    "name": "Kwajalein"
+  },
+  "LAE": {
+    "name": "Lae"
+  },
+  "LIB": {
+    "name": "Lib"
+  },
+  "LIK": {
+    "name": "Likiep"
+  },
+  "MAJ": {
+    "name": "Majuro"
+  },
+  "MAL": {
+    "name": "Maloelap"
+  },
+  "MEJ": {
+    "name": "Mejit"
+  },
+  "MIL": {
+    "name": "Mili"
+  },
+  "NMK": {
+    "name": "Namdrik"
+  },
+  "NMU": {
+    "name": "Namu"
+  },
+  "L": {
+    "name": "Ralik"
+  },
+  "T": {
+    "name": "Ratak"
+  },
+  "RON": {
+    "name": "Rongelap"
+  },
+  "UJA": {
+    "name": "Ujae"
+  },
+  "UTI": {
+    "name": "Utrik"
+  },
+  "WTH": {
+    "name": "Wotho"
+  },
+  "WTJ": {
+    "name": "Wotje"
+  }
+}

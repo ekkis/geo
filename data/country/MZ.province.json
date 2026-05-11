@@ -1,1 +1,35 @@
-{}
+{
+  "P": {
+    "name": "Cabo Delgado"
+  },
+  "G": {
+    "name": "Gaza"
+  },
+  "I": {
+    "name": "Inhambane"
+  },
+  "B": {
+    "name": "Manica"
+  },
+  "L": {
+    "name": "Maputo"
+  },
+  "MPM": {
+    "name": "Maputo"
+  },
+  "N": {
+    "name": "Nampula"
+  },
+  "A": {
+    "name": "Niassa"
+  },
+  "S": {
+    "name": "Sofala"
+  },
+  "T": {
+    "name": "Tete"
+  },
+  "Q": {
+    "name": "Zambezia"
+  }
+}

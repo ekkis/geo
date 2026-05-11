@@ -1,1 +1,32 @@
-{}
+{
+  "BU": {
+    "name": "Bulawayo"
+  },
+  "HA": {
+    "name": "Harare"
+  },
+  "MA": {
+    "name": "Manicaland"
+  },
+  "MC": {
+    "name": "Mashonaland Central"
+  },
+  "ME": {
+    "name": "Mashonaland East"
+  },
+  "MW": {
+    "name": "Mashonaland West"
+  },
+  "MV": {
+    "name": "Masvingo"
+  },
+  "MN": {
+    "name": "Matabeleland North"
+  },
+  "MS": {
+    "name": "Matabeleland South"
+  },
+  "MI": {
+    "name": "Midlands"
+  }
+}

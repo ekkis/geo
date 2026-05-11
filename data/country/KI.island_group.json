@@ -1,11 +1,11 @@
 {
-  "GIL": {
-    "name": "Gilbert Islands"
+  "G": {
+    "name": "Gilbert"
   },
-  "LIN": {
-    "name": "Line Islands"
+  "L": {
+    "name": "Line"
   },
-  "PHO": {
-    "name": "Phoenix Islands"
+  "P": {
+    "name": "Phoenix"
   }
 }

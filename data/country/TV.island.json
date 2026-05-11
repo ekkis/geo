@@ -1,1 +1,26 @@
-{}
+{
+  "FUN": {
+    "name": "Funafuti"
+  },
+  "NMG": {
+    "name": "Nanumanga"
+  },
+  "NMA": {
+    "name": "Nanumea"
+  },
+  "NIT": {
+    "name": "Niutao Island Council"
+  },
+  "NUI": {
+    "name": "Nui"
+  },
+  "NKF": {
+    "name": "Nukufetau"
+  },
+  "NKL": {
+    "name": "Nukulaelae"
+  },
+  "VAI": {
+    "name": "Vaitupu"
+  }
+}

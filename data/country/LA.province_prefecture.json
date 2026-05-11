@@ -1,92 +1,56 @@
 {
-  "Attapeu": {
-    "ATTA": {
-      "name": "Attapeu"
-    }
+  "AT": {
+    "name": "Attapeu"
   },
-  "Bokeo": {
-    "BOKEO": {
-      "name": "Bokeo"
-    }
+  "BK": {
+    "name": "Bokeo"
   },
-  "Bolikhamsai": {
-    "BOLIKH": {
-      "name": "Bolikhamsai"
-    }
+  "BL": {
+    "name": "Bolikhamsai"
   },
-  "Champasak": {
-    "CHAMPAS": {
-      "name": "Champasak"
-    }
+  "CH": {
+    "name": "Champasak"
   },
-  "Houaphanh": {
-    "HOUAPH": {
-      "name": "Houaphanh"
-    }
+  "HO": {
+    "name": "Houaphanh"
   },
-  "Khammouane": {
-    "KHAMMOU": {
-      "name": "Khammouane"
-    }
+  "KH": {
+    "name": "Khammouane"
   },
-  "Luang Prabang": {
-    "LUANGBP": {
-      "name": "Luang Prabang"
-    }
+  "LM": {
+    "name": "Luang Namtha"
   },
-  "Luang Namtha": {
-    "LUANGNAM": {
-      "name": "Luang Namtha"
-    }
+  "LP": {
+    "name": "Luang Prabang"
   },
-  "Oudomxay": {
-    "OUDOMX": {
-      "name": "Oudomxay"
-    }
+  "OU": {
+    "name": "Oudomxay"
   },
-  "Phongsaly": {
-    "PHONGS": {
-      "name": "Phongsaly"
-    }
+  "PH": {
+    "name": "Phongsaly"
   },
-  "Salavan": {
-    "SALAVAN": {
-      "name": "Salavan"
-    }
+  "XA": {
+    "name": "Sainyabuli"
   },
-  "Savannakhet": {
-    "SAVANNA": {
-      "name": "Savannakhet"
-    }
+  "SL": {
+    "name": "Salavan"
   },
-  "Sekong": {
-    "SEKONG": {
-      "name": "Sekong"
-    }
+  "SV": {
+    "name": "Savannakhet"
   },
-  "Vientiane": {
-    "VIENTJ": {
-      "name": "Vientiane Prefecture"
-    }
+  "XE": {
+    "name": "Sekong"
   },
-  "Vientiane Province": {
-    "VIENTP": {
-      "name": "Vientiane Province"
-    }
+  "VI": {
+    "name": "Vientiane"
   },
-  "Xaisomboun": {
-    "XAI": {
-      "name": "Xaisomboun"
-    }
+  "VT": {
+    "name": "Vientiane"
   },
-  "Xayaburi": {
-    "XAYABUR": {
-      "name": "Xayaburi"
-    }
+  "XS": {
+    "name": "Xaisomboun"
   },
-  "Xieng Khouang": {
-    "XIENGK": {
-      "name": "Xieng Khouang"
-    }
+  "XI": {
+    "name": "Xiangkhouang"
   }
 }

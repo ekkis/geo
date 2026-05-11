@@ -1,1 +1,53 @@
-{}
+{
+  "ARI": {
+    "name": "Arima"
+  },
+  "CHA": {
+    "name": "Chaguanas"
+  },
+  "CTT": {
+    "name": "Couva-Tabaquite-Talparo"
+  },
+  "DMN": {
+    "name": "Diego Martin"
+  },
+  "ETO": {
+    "name": "Eastern Tobago"
+  },
+  "PED": {
+    "name": "Penal-Debe"
+  },
+  "PTF": {
+    "name": "Point Fortin"
+  },
+  "POS": {
+    "name": "Port of Spain"
+  },
+  "PRT": {
+    "name": "Princes Town"
+  },
+  "MRC": {
+    "name": "Rio Claro-Mayaro"
+  },
+  "SFO": {
+    "name": "San Fernando"
+  },
+  "SJL": {
+    "name": "San Juan-Laventille"
+  },
+  "SGE": {
+    "name": "Sangre Grande"
+  },
+  "SIP": {
+    "name": "Siparia"
+  },
+  "TOB": {
+    "name": "Tobago"
+  },
+  "TUP": {
+    "name": "Tunapuna-Piarco"
+  },
+  "WTO": {
+    "name": "Western Tobago"
+  }
+}

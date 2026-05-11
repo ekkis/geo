@@ -1,1 +1,32 @@
-{}
+{
+  "CEN": {
+    "name": "Central"
+  },
+  "COP": {
+    "name": "Copperbelt"
+  },
+  "EAS": {
+    "name": "Eastern"
+  },
+  "LUA": {
+    "name": "Luapula"
+  },
+  "LUS": {
+    "name": "Lusaka"
+  },
+  "MUC": {
+    "name": "Muchinga"
+  },
+  "NOR": {
+    "name": "Northern"
+  },
+  "NORT": {
+    "name": "Northwestern"
+  },
+  "SOU": {
+    "name": "Southern"
+  },
+  "WES": {
+    "name": "Western"
+  }
+}

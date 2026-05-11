@@ -1,22 +1,17 @@
 {
-  "Dushanbe": {
-    "DUSH": {
-      "name": "Dushanbe"
-    }
+  "DU": {
+    "name": "Dushanbe"
   },
-  "Gorno-Badakhshan": {
-    "GBAO": {
-      "name": "Gorno-Badakhshan"
-    }
+  "GB": {
+    "name": "Gorno-Badakhshan"
   },
-  "Khatlon": {
-    "KHAT": {
-      "name": "Khatlon"
-    }
+  "KT": {
+    "name": "Khatlon"
   },
-  "Sughd": {
-    "SUGH": {
-      "name": "Sughd"
-    }
+  "RA": {
+    "name": "Nohiyahoi Tobei Jumhurí "
+  },
+  "SU": {
+    "name": "Sughd "
   }
 }

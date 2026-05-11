@@ -1,87 +1,65 @@
 {
-  "Dalarna": {
-    "DAL": {
-      "name": "Dalarna"
-    }
+  "K": {
+    "name": "Blekinge"
   },
-  "Gävleborg": {
-    "GAV": {
-      "name": "Gävleborg"
-    }
+  "W": {
+    "name": "Dalarna"
   },
-  "Gotland": {
-    "GOT": {
-      "name": "Gotland"
-    }
+  "X": {
+    "name": "Gävleborg"
   },
-  "Halland": {
-    "HAL": {
-      "name": "Halland"
-    }
+  "I": {
+    "name": "Gotland"
   },
-  "Jönköping": {
-    "JON": {
-      "name": "Jönköping"
-    }
+  "N": {
+    "name": "Halland"
   },
-  "Kalmar": {
-    "KAL": {
-      "name": "Kalmar"
-    }
+  "Z": {
+    "name": "Jämtland"
   },
-  "Kronoberg": {
-    "KRO": {
-      "name": "Kronoberg"
-    }
+  "F": {
+    "name": "Jönköping"
   },
-  "Norrbotten": {
-    "NOR": {
-      "name": "Norrbotten"
-    }
+  "H": {
+    "name": "Kalmar"
   },
-  "Örebro": {
-    "ORE": {
-      "name": "Örebro"
-    }
+  "G": {
+    "name": "Kronoberg"
   },
-  "Östergötland": {
-    "OST": {
-      "name": "Östergötland"
-    }
+  "BD": {
+    "name": "Norrbotten"
   },
-  "Skåne": {
-    "SKA": {
-      "name": "Skåne"
-    }
+  "T": {
+    "name": "Örebro"
   },
-  "Södermanland": {
-    "SOD": {
-      "name": "Södermanland"
-    }
+  "E": {
+    "name": "Östergötland"
   },
-  "Stockholm": {
-    "STO": {
-      "name": "Stockholm"
-    }
+  "M": {
+    "name": "Skåne"
   },
-  "Uppsala": {
-    "UPP": {
-      "name": "Uppsala"
-    }
+  "D": {
+    "name": "Södermanland"
   },
-  "Värmland": {
-    "VAR": {
-      "name": "Värmland"
-    }
+  "AB": {
+    "name": "Stockholm"
   },
-  "Västernorrland": {
-    "VAS": {
-      "name": "Västernorrland"
-    }
+  "C": {
+    "name": "Uppsala"
   },
-  "Västra Götaland": {
-    "VASGO": {
-      "name": "Västra Götaland"
-    }
+  "S": {
+    "name": "Värmland"
+  },
+  "AC": {
+    "name": "Västerbotten"
+  },
+  "Y": {
+    "name": "Västernorrland"
+  },
+  "U": {
+    "name": "Västmanland"
+  },
+  "O": {
+    "name": "Västra Götaland"
   }
 }

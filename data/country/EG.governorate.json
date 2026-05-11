@@ -1,1 +1,83 @@
-{}
+{
+  "ALX": {
+    "name": "Alexandria"
+  },
+  "ASN": {
+    "name": "Aswan"
+  },
+  "AST": {
+    "name": "Asyut"
+  },
+  "BH": {
+    "name": "Beheira"
+  },
+  "BNS": {
+    "name": "Beni Suef"
+  },
+  "C": {
+    "name": "Cairo"
+  },
+  "DK": {
+    "name": "Dakahlia"
+  },
+  "DT": {
+    "name": "Damietta"
+  },
+  "FYM": {
+    "name": "Faiyum"
+  },
+  "GH": {
+    "name": "Gharbia"
+  },
+  "GZ": {
+    "name": "Giza"
+  },
+  "IS": {
+    "name": "Ismailia"
+  },
+  "KFS": {
+    "name": "Kafr El-Sheikh"
+  },
+  "LX": {
+    "name": "Luxor"
+  },
+  "MT": {
+    "name": "Matrouh"
+  },
+  "MN": {
+    "name": "Minya"
+  },
+  "MNF": {
+    "name": "Monufia"
+  },
+  "WAD": {
+    "name": "New Valley"
+  },
+  "SIN": {
+    "name": "North Sinai"
+  },
+  "PTS": {
+    "name": "Port Said"
+  },
+  "KB": {
+    "name": "Qalyubia"
+  },
+  "KN": {
+    "name": "Qena"
+  },
+  "BA": {
+    "name": "Red Sea"
+  },
+  "SHR": {
+    "name": "Sharqia"
+  },
+  "SHG": {
+    "name": "Sohag"
+  },
+  "JS": {
+    "name": "South Sinai"
+  },
+  "SUZ": {
+    "name": "Suez"
+  }
+}

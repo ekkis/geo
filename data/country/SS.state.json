@@ -1,1 +1,32 @@
-{}
+{
+  "EC": {
+    "name": "Central Equatoria"
+  },
+  "EE": {
+    "name": "Eastern Equatoria"
+  },
+  "JG": {
+    "name": "Jonglei State"
+  },
+  "LK": {
+    "name": "Lakes"
+  },
+  "BN": {
+    "name": "Northern Bahr el Ghazal"
+  },
+  "UY": {
+    "name": "Unity"
+  },
+  "NU": {
+    "name": "Upper Nile"
+  },
+  "WR": {
+    "name": "Warrap"
+  },
+  "BW": {
+    "name": "Western Bahr el Ghazal"
+  },
+  "EW": {
+    "name": "Western Equatoria"
+  }
+}

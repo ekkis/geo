@@ -1,1 +1,68 @@
-{}
+{
+  "NSB": {
+    "name": "Bougainville"
+  },
+  "CPM": {
+    "name": "Central"
+  },
+  "CPK": {
+    "name": "Chimbu"
+  },
+  "EBR": {
+    "name": "East New Britain"
+  },
+  "ESW": {
+    "name": "East Sepik"
+  },
+  "EHG": {
+    "name": "Eastern Highlands"
+  },
+  "EPW": {
+    "name": "Enga"
+  },
+  "GPK": {
+    "name": "Gulf"
+  },
+  "HLA": {
+    "name": "Hela"
+  },
+  "JWK": {
+    "name": "Jiwaka"
+  },
+  "MPM": {
+    "name": "Madang"
+  },
+  "MRL": {
+    "name": "Manus"
+  },
+  "MBA": {
+    "name": "Milne Bay"
+  },
+  "MPL": {
+    "name": "Morobe"
+  },
+  "NIK": {
+    "name": "New Ireland"
+  },
+  "NPP": {
+    "name": "Oro"
+  },
+  "NCD": {
+    "name": "Port Moresby"
+  },
+  "SAN": {
+    "name": "Sandaun"
+  },
+  "SHM": {
+    "name": "Southern Highlands"
+  },
+  "WBK": {
+    "name": "West New Britain"
+  },
+  "WPD": {
+    "name": "Western"
+  },
+  "WHM": {
+    "name": "Western Highlands"
+  }
+}

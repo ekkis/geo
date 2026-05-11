@@ -1,52 +1,212 @@
 {
-  "Alytus": {
-    "ALY": {
-      "name": "Alytus"
-    }
+  "AKM": {
+    "name": "Akmenė"
   },
-  "Kaunas": {
-    "KAU": {
-      "name": "Kaunas"
-    }
+  "ALY": {
+    "name": "Alytus"
   },
-  "Klaipėda": {
-    "KLA": {
-      "name": "Klaipėda"
-    }
+  "ALYT": {
+    "name": "Alytus"
   },
-  "Marijampolė": {
-    "MAR": {
-      "name": "Marijampolė"
-    }
+  "AL": {
+    "name": "Alytus"
   },
-  "Panevėžys": {
-    "PAN": {
-      "name": "Panevėžys"
-    }
+  "ANY": {
+    "name": "Anykščiai"
   },
-  "Šiauliai": {
-    "SIA": {
-      "name": "Šiauliai"
-    }
+  "BIR": {
+    "name": "Birštonas"
   },
-  "Tauragė": {
-    "TAU": {
-      "name": "Tauragė"
-    }
+  "BIRZ": {
+    "name": "Biržai"
   },
-  "Telšiai": {
-    "TEL": {
-      "name": "Telšiai"
-    }
+  "DRU": {
+    "name": "Druskininkai"
   },
-  "Utena": {
-    "UTE": {
-      "name": "Utena"
-    }
+  "ELE": {
+    "name": "Elektrėnai"
   },
-  "Vilnius": {
-    "VIL": {
-      "name": "Vilnius"
-    }
+  "IGN": {
+    "name": "Ignalina"
+  },
+  "JON": {
+    "name": "Jonava"
+  },
+  "JONI": {
+    "name": "Joniškis"
+  },
+  "JUR": {
+    "name": "Jurbarkas"
+  },
+  "KAI": {
+    "name": "Kaišiadorys"
+  },
+  "KAL": {
+    "name": "Kalvarija"
+  },
+  "KU": {
+    "name": "Kaunas"
+  },
+  "KAU": {
+    "name": "Kaunas"
+  },
+  "KAUN": {
+    "name": "Kaunas"
+  },
+  "KAZ": {
+    "name": "Kazlų Rūda"
+  },
+  "KED": {
+    "name": "Kėdainiai"
+  },
+  "KEL": {
+    "name": "Kelmė"
+  },
+  "KL": {
+    "name": "Klaipėda"
+  },
+  "KLA": {
+    "name": "Klaipėda"
+  },
+  "KM": {
+    "name": "Klaipėdos miestas"
+  },
+  "KRE": {
+    "name": "Kretinga"
+  },
+  "KUP": {
+    "name": "Kupiškis"
+  },
+  "LAZ": {
+    "name": "Lazdijai"
+  },
+  "MAR": {
+    "name": "Marijampolė"
+  },
+  "MR": {
+    "name": "Marijampolė"
+  },
+  "MAZ": {
+    "name": "Mažeikiai"
+  },
+  "MOL": {
+    "name": "Molėtai"
+  },
+  "NER": {
+    "name": "Neringa"
+  },
+  "PAG": {
+    "name": "Pagėgiai"
+  },
+  "PAK": {
+    "name": "Pakruojis"
+  },
+  "PAL": {
+    "name": "Palanga"
+  },
+  "PAN": {
+    "name": "Panevėžio miestas"
+  },
+  "PANE": {
+    "name": "Panevėžys"
+  },
+  "PN": {
+    "name": "Panevėžys"
+  },
+  "PAS": {
+    "name": "Pasvalys"
+  },
+  "PLU": {
+    "name": "Plungė"
+  },
+  "PRI": {
+    "name": "Prienai"
+  },
+  "RAD": {
+    "name": "Radviliškis"
+  },
+  "RAS": {
+    "name": "Raseiniai"
+  },
+  "RIE": {
+    "name": "Rietavas"
+  },
+  "ROK": {
+    "name": "Rokiškis"
+  },
+  "SAK": {
+    "name": "Šakiai"
+  },
+  "SAL": {
+    "name": "Šalčininkai"
+  },
+  "SA": {
+    "name": "Šiauliai"
+  },
+  "SIA": {
+    "name": "Šiauliai"
+  },
+  "SIAU": {
+    "name": "Šiauliai"
+  },
+  "SIL": {
+    "name": "Šilalė "
+  },
+  "SILU": {
+    "name": "Šilutė"
+  },
+  "SIR": {
+    "name": "Širvintos"
+  },
+  "SKU": {
+    "name": "Skuodas"
+  },
+  "SVE": {
+    "name": "Švenčionys"
+  },
+  "TA": {
+    "name": "Tauragė"
+  },
+  "TAU": {
+    "name": "Tauragė"
+  },
+  "TEL": {
+    "name": "Telšiai"
+  },
+  "TE": {
+    "name": "Telšiai"
+  },
+  "TRA": {
+    "name": "Trakai"
+  },
+  "UKM": {
+    "name": "Ukmergė"
+  },
+  "UTE": {
+    "name": "Utena"
+  },
+  "UT": {
+    "name": "Utena"
+  },
+  "VAR": {
+    "name": "Varėna"
+  },
+  "VIL": {
+    "name": "Vilkaviškis"
+  },
+  "VILN": {
+    "name": "Vilnius"
+  },
+  "VILNI": {
+    "name": "Vilnius"
+  },
+  "VL": {
+    "name": "Vilnius"
+  },
+  "VIS": {
+    "name": "Visaginas"
+  },
+  "ZAR": {
+    "name": "Zarasai"
   }
 }

@@ -8,17 +8,23 @@
   "CAN": {
     "name": "Canterbury"
   },
+  "CIT": {
+    "name": "Chatham Islands"
+  },
   "GIS": {
     "name": "Gisborne"
   },
   "HKB": {
     "name": "Hawke's Bay"
   },
+  "MWT": {
+    "name": "Manawatu-Whanganui"
+  },
   "MBH": {
     "name": "Marlborough"
   },
-  "MWT": {
-    "name": "Manawatu-Wanganui"
+  "NSN": {
+    "name": "Nelson"
   },
   "NTL": {
     "name": "Northland"
@@ -29,14 +35,17 @@
   "STL": {
     "name": "Southland"
   },
+  "TKI": {
+    "name": "Taranaki"
+  },
   "TAS": {
     "name": "Tasman"
   },
-  "WGN": {
-    "name": "Wellington"
-  },
   "WKO": {
     "name": "Waikato"
+  },
+  "WGN": {
+    "name": "Wellington"
   },
   "WTC": {
     "name": "West Coast"

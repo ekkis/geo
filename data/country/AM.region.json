@@ -6,10 +6,7 @@
     "name": "Ararat"
   },
   "AV": {
-    "name": "Avan"
-  },
-  "ER": {
-    "name": "Erevan"
+    "name": "Armavir"
   },
   "GR": {
     "name": "Gegharkunik"
@@ -21,9 +18,9 @@
     "name": "Lori"
   },
   "SH": {
-    "name": "Shushi"
+    "name": "Shirak"
   },
-  "SY": {
+  "SU": {
     "name": "Syunik"
   },
   "TV": {
@@ -31,5 +28,8 @@
   },
   "VD": {
     "name": "Vayots Dzor"
+  },
+  "ER": {
+    "name": "Yerevan"
   }
 }

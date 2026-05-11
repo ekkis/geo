@@ -1,62 +1,41 @@
 {
-  "Chagang": {
-    "CHAGANG": {
-      "name": "Chagang"
-    }
+  "CHAGANG": {
+    "name": "Chagang"
   },
-  "North Hamgyong": {
-    "HAMPNORTH": {
-      "name": "North Hamgyong"
-    }
+  "KAE": {
+    "name": "Kaesong"
   },
-  "South Hamgyong": {
-    "HAMSOUTH": {
-      "name": "South Hamgyong"
-    }
+  "KANGWON": {
+    "name": "Kangwon"
   },
-  "North Hwanghae": {
-    "HWABONORTH": {
-      "name": "North Hwanghae"
-    }
+  "NAM": {
+    "name": "Nampho"
   },
-  "South Hwanghae": {
-    "HWABOSOUTH": {
-      "name": "South Hwanghae"
-    }
+  "HAMPNORTH": {
+    "name": "North Hamgyong"
   },
-  "Kangwon": {
-    "KANGWON": {
-      "name": "Kangwon"
-    }
+  "HWABONORTH": {
+    "name": "North Hwanghae"
   },
-  "Nampo": {
-    "NAMPO": {
-      "name": "Nampo"
-    }
+  "PYONGBONORTH": {
+    "name": "North Pyongan"
   },
-  "North Pyongan": {
-    "PYONGBONORTH": {
-      "name": "North Pyongan"
-    }
+  "PYONGYANG": {
+    "name": "Pyongyang"
   },
-  "South Pyongan": {
-    "PYONGBOSOUTH": {
-      "name": "South Pyongan"
-    }
+  "RASON": {
+    "name": "Rason"
   },
-  "Pyongyang": {
-    "PYONGYANG": {
-      "name": "Pyongyang"
-    }
+  "RYANGANG": {
+    "name": "Ryanggang"
   },
-  "Rason": {
-    "RASON": {
-      "name": "Rason"
-    }
+  "HAMSOUTH": {
+    "name": "South Hamgyong"
   },
-  "Ryanggang": {
-    "RYANGANG": {
-      "name": "Ryanggang"
-    }
+  "HWABOSOUTH": {
+    "name": "South Hwanghae"
+  },
+  "PYONGBOSOUTH": {
+    "name": "South Pyongan"
   }
 }

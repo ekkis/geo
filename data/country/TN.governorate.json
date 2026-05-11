@@ -1,1 +1,74 @@
-{}
+{
+  "ARI": {
+    "name": "Ariana"
+  },
+  "BEJ": {
+    "name": "Béja"
+  },
+  "BEN": {
+    "name": "Ben Arous"
+  },
+  "BIZ": {
+    "name": "Bizerte"
+  },
+  "GAB": {
+    "name": "Gabès"
+  },
+  "GAF": {
+    "name": "Gafsa"
+  },
+  "JEN": {
+    "name": "Jendouba"
+  },
+  "KAI": {
+    "name": "Kairouan"
+  },
+  "KAS": {
+    "name": "Kasserine"
+  },
+  "KEB": {
+    "name": "Kebili"
+  },
+  "KEF": {
+    "name": "Kef"
+  },
+  "MAH": {
+    "name": "Mahdia"
+  },
+  "MAN": {
+    "name": "Manouba"
+  },
+  "MED": {
+    "name": "Medenine"
+  },
+  "MON": {
+    "name": "Monastir"
+  },
+  "NAB": {
+    "name": "Nabeul"
+  },
+  "SFA": {
+    "name": "Sfax"
+  },
+  "SID": {
+    "name": "Sidi Bouzid"
+  },
+  "SIL": {
+    "name": "Siliana"
+  },
+  "SOU": {
+    "name": "Sousse"
+  },
+  "TAT": {
+    "name": "Tataouine"
+  },
+  "TOZ": {
+    "name": "Tozeur"
+  },
+  "TUN": {
+    "name": "Tunis"
+  },
+  "ZAG": {
+    "name": "Zaghouan"
+  }
+}

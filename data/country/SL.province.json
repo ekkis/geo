@@ -1,1 +1,17 @@
-{}
+{
+  "E": {
+    "name": "Eastern"
+  },
+  "NW": {
+    "name": "North Western"
+  },
+  "N": {
+    "name": "Northern"
+  },
+  "S": {
+    "name": "Southern"
+  },
+  "W": {
+    "name": "Western"
+  }
+}

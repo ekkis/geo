@@ -1,1 +1,44 @@
-{}
+{
+  "AH": {
+    "name": "Ahuachapán"
+  },
+  "CA": {
+    "name": "Cabañas"
+  },
+  "CH": {
+    "name": "Chalatenango"
+  },
+  "CU": {
+    "name": "Cuscatlán"
+  },
+  "LI": {
+    "name": "La Libertad"
+  },
+  "PA": {
+    "name": "La Paz"
+  },
+  "UN": {
+    "name": "La Unión "
+  },
+  "MO": {
+    "name": "Morazán"
+  },
+  "SM": {
+    "name": "San Miguel"
+  },
+  "SS": {
+    "name": "San Salvador"
+  },
+  "SV": {
+    "name": "San Vicente"
+  },
+  "SA": {
+    "name": "Santa Ana"
+  },
+  "SO": {
+    "name": "Sonsonate"
+  },
+  "US": {
+    "name": "Usulután"
+  }
+}

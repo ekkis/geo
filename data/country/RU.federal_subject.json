@@ -1,138 +1,251 @@
 {
-  "Siberia": {
-    "ALTKR": {
-      "name": "Altai Krai"
-    },
-    "KEMOB": {
-      "name": "Kemerovo Oblast"
-    },
-    "NOVOB": {
-      "name": "Novosibirsk Oblast"
-    },
-    "OMSOB": {
-      "name": "Omsk Oblast"
-    },
-    "TOMOB": {
-      "name": "Tomsk Oblast"
-    }
+  "AD": {
+    "name": "Adygea"
   },
-  "Far Eastern": {
-    "AMUOB": {
-      "name": "Amur Oblast"
-    },
-    "KAMKR": {
-      "name": "Kamchatka Krai"
-    },
-    "KHAKR": {
-      "name": "Khabarovsk Krai"
-    },
-    "MAGOB": {
-      "name": "Magadan Oblast"
-    },
-    "PRIKR": {
-      "name": "Primorsky Krai"
-    },
-    "SAKOB": {
-      "name": "Sakhalin Oblast"
-    }
+  "ALT": {
+    "name": "Altai"
   },
-  "Northwestern": {
-    "ARKOB": {
-      "name": "Arkhangelsk Oblast"
-    },
-    "LENOB": {
-      "name": "Leningrad Oblast"
-    },
-    "MUROB": {
-      "name": "Murmansk Oblast"
-    },
-    "NENAU": {
-      "name": "Nenets Autonomous Okrug"
-    },
-    "PSKOB": {
-      "name": "Pskov Oblast"
-    },
-    "REPOF": {
-      "name": "Republic of Karelia"
-    },
-    "ST.PE": {
-      "name": "St. Petersburg"
-    }
+  "AL": {
+    "name": "Altai"
   },
-  "Southern": {
-    "ASTOB": {
-      "name": "Astrakhan Oblast"
-    },
-    "KRAKR": {
-      "name": "Krasnodar Krai"
-    },
-    "ROSOB": {
-      "name": "Rostov Oblast"
-    },
-    "VOLOB": {
-      "name": "Volgograd Oblast"
-    }
+  "AMU": {
+    "name": "Amur"
   },
-  "Volga": {
-    "BAS": {
-      "name": "Bashkortostan"
-    },
-    "NIZNO": {
-      "name": "Nizhny Novgorod Oblast"
-    },
-    "PERKR": {
-      "name": "Perm Krai"
-    },
-    "TAT": {
-      "name": "Tatarstan"
-    },
-    "UDMRE": {
-      "name": "Udmurt Republic"
-    }
+  "ARK": {
+    "name": "Arkhangelsk"
   },
-  "Urals": {
-    "CHEOB": {
-      "name": "Chelyabinsk Oblast"
-    },
-    "KHAAU": {
-      "name": "Khanty-Mansi Autonomous Okrug"
-    },
-    "SVEOB": {
-      "name": "Sverdlovsk Oblast"
-    },
-    "TYUOB": {
-      "name": "Tyumen Oblast"
-    },
-    "YAMAU": {
-      "name": "Yamalo-Nenets Autonomous Okrug"
-    }
+  "AST": {
+    "name": "Astrakhan"
   },
-  "North Caucasian": {
-    "CHERE": {
-      "name": "Chechen Republic"
-    },
-    "DAG": {
-      "name": "Dagestan"
-    },
-    "ING": {
-      "name": "Ingushetia"
-    },
-    "KABRE": {
-      "name": "Kabardino-Balkar Republic"
-    },
-    "KARRE": {
-      "name": "Karachay-Cherkess Republic"
-    },
-    "NOROS": {
-      "name": "North Ossetia–Alania"
-    }
+  "BA": {
+    "name": "Bashkortostan"
   },
-  "Central": {
-    "MOS": {
-      "name": "Moscow"
-    },
-    "MOSOB": {
-      "name": "Moscow Oblast"
-    }
+  "BEL": {
+    "name": "Belgorod"
+  },
+  "BRY": {
+    "name": "Bryansk"
+  },
+  "BU": {
+    "name": "Buryatia"
+  },
+  "CE": {
+    "name": "Chechen"
+  },
+  "CHE": {
+    "name": "Chelyabinsk"
+  },
+  "CHU": {
+    "name": "Chukotka"
+  },
+  "CU": {
+    "name": "Chuvash"
+  },
+  "DA": {
+    "name": "Dagestan"
+  },
+  "IN": {
+    "name": "Ingushetia"
+  },
+  "IRK": {
+    "name": "Irkutsk"
+  },
+  "IVA": {
+    "name": "Ivanovo"
+  },
+  "YEV": {
+    "name": "Jewish"
+  },
+  "KB": {
+    "name": "Kabardino-Balkar"
+  },
+  "KGD": {
+    "name": "Kaliningrad"
+  },
+  "KL": {
+    "name": "Kalmykia"
+  },
+  "KLU": {
+    "name": "Kaluga"
+  },
+  "KAM": {
+    "name": "Kamchatka"
+  },
+  "KC": {
+    "name": "Karachay-Cherkess"
+  },
+  "KR": {
+    "name": "Karelia"
+  },
+  "KEM": {
+    "name": "Kemerovo"
+  },
+  "KHA": {
+    "name": "Khabarovsk"
+  },
+  "KK": {
+    "name": "Khakassia"
+  },
+  "KHM": {
+    "name": "Khanty-Mansi"
+  },
+  "KIR": {
+    "name": "Kirov"
+  },
+  "KO": {
+    "name": "Komi"
+  },
+  "KOS": {
+    "name": "Kostroma"
+  },
+  "KDA": {
+    "name": "Krasnodar"
+  },
+  "KYA": {
+    "name": "Krasnoyarsk"
+  },
+  "KGN": {
+    "name": "Kurgan"
+  },
+  "KRS": {
+    "name": "Kursk"
+  },
+  "LEN": {
+    "name": "Leningrad"
+  },
+  "LIP": {
+    "name": "Lipetsk"
+  },
+  "MAG": {
+    "name": "Magadan"
+  },
+  "ME": {
+    "name": "Mari El"
+  },
+  "MO": {
+    "name": "Mordovia"
+  },
+  "MOS": {
+    "name": "Moscow"
+  },
+  "MOW": {
+    "name": "Moscow"
+  },
+  "MUR": {
+    "name": "Murmansk"
+  },
+  "NEN": {
+    "name": "Nenets"
+  },
+  "NIZ": {
+    "name": "Nizhny Novgorod"
+  },
+  "SE": {
+    "name": "North Ossetia-Alania"
+  },
+  "NGR": {
+    "name": "Novgorod"
+  },
+  "NVS": {
+    "name": "Novosibirsk"
+  },
+  "OMS": {
+    "name": "Omsk"
+  },
+  "ORE": {
+    "name": "Orenburg"
+  },
+  "ORL": {
+    "name": "Oryol"
+  },
+  "PNZ": {
+    "name": "Penza"
+  },
+  "PER": {
+    "name": "Perm"
+  },
+  "PRI": {
+    "name": "Primorsky"
+  },
+  "PSK": {
+    "name": "Pskov"
+  },
+  "ROS": {
+    "name": "Rostov"
+  },
+  "RYA": {
+    "name": "Ryazan"
+  },
+  "SPE": {
+    "name": "Saint Petersburg"
+  },
+  "SA": {
+    "name": "Sakha"
+  },
+  "SAK": {
+    "name": "Sakhalin"
+  },
+  "SAM": {
+    "name": "Samara"
+  },
+  "SAR": {
+    "name": "Saratov"
+  },
+  "SMO": {
+    "name": "Smolensk"
+  },
+  "STA": {
+    "name": "Stavropol"
+  },
+  "SVE": {
+    "name": "Sverdlovsk"
+  },
+  "TAM": {
+    "name": "Tambov"
+  },
+  "TA": {
+    "name": "Tatarstan"
+  },
+  "TOM": {
+    "name": "Tomsk"
+  },
+  "TUL": {
+    "name": "Tula"
+  },
+  "TY": {
+    "name": "Tuva"
+  },
+  "TVE": {
+    "name": "Tver"
+  },
+  "TYU": {
+    "name": "Tyumen"
+  },
+  "UD": {
+    "name": "Udmurt"
+  },
+  "ULY": {
+    "name": "Ulyanovsk"
+  },
+  "VLA": {
+    "name": "Vladimir"
+  },
+  "VGG": {
+    "name": "Volgograd Oblast"
+  },
+  "VLG": {
+    "name": "Vologda"
+  },
+  "VOR": {
+    "name": "Voronezh"
+  },
+  "YAN": {
+    "name": "Yamalo-Nenets"
+  },
+  "YAR": {
+    "name": "Yaroslavl"
+  },
+  "ZAB": {
+    "name": "Zabaykalsky"
   }
 }

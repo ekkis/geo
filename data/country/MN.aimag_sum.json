@@ -1,107 +1,68 @@
 {
-  "Arkhangai": {
-    "ARKH": {
-      "name": "Arkhangai"
-    }
+  "ARKH": {
+    "name": "Arkhangai"
   },
-  "Bayankhongor": {
-    "BAYANH": {
-      "name": "Bayankhongor"
-    }
+  "BAY": {
+    "name": "Bayan-Ölgii"
   },
-  "Bayan-Olgii": {
-    "BAYAO": {
-      "name": "Bayan-Olgii"
-    }
+  "BAYANH": {
+    "name": "Bayankhongor"
   },
-  "Bulgan": {
-    "BULG": {
-      "name": "Bulgan"
-    }
+  "BULG": {
+    "name": "Bulgan"
   },
-  "Darkhan-Uul": {
-    "DARKH": {
-      "name": "Darkhan-Uul"
-    }
+  "DARKH": {
+    "name": "Darkhan-Uul"
   },
-  "Dornod": {
-    "DORN": {
-      "name": "Dornod"
-    }
+  "DORN": {
+    "name": "Dornod"
   },
-  "Dornogovi": {
-    "DORNO": {
-      "name": "Dornogovi"
-    }
+  "DORNO": {
+    "name": "Dornogovi"
   },
-  "Dundgovi": {
-    "DUND": {
-      "name": "Dundgovi"
-    }
+  "DUND": {
+    "name": "Dundgovi"
   },
-  "Govi-Altai": {
-    "GOVI": {
-      "name": "Govi-Altai"
-    }
+  "GOVI": {
+    "name": "Govi-Altai"
   },
-  "Govi-Sumber": {
-    "GOVIS": {
-      "name": "Govi-Sumber"
-    }
+  "GOV": {
+    "name": "Govisümber"
   },
-  "Khentii": {
-    "KHENT": {
-      "name": "Khentii"
-    }
+  "KHENT": {
+    "name": "Khentii"
   },
-  "Khovd": {
-    "KHOV": {
-      "name": "Khovd"
-    }
+  "KHOV": {
+    "name": "Khovd"
   },
-  "Khövsgöl": {
-    "KHOVG": {
-      "name": "Khövsgöl"
-    }
+  "KHOVG": {
+    "name": "Khövsgöl"
   },
-  "Orkhon": {
-    "ORKHON": {
-      "name": "Orkhon"
-    }
+  "OMN": {
+    "name": "Ömnögovi"
   },
-  "Ovorkhangai": {
-    "OVORK": {
-      "name": "Ovorkhangai"
-    }
+  "ORKHON": {
+    "name": "Orkhon"
   },
-  "Selenge": {
-    "SELE": {
-      "name": "Selenge"
-    }
+  "OVO": {
+    "name": "Övörkhangai"
   },
-  "Töv": {
-    "TUV": {
-      "name": "Töv"
-    }
+  "SELE": {
+    "name": "Selenge"
   },
-  "Ulaanbaatar": {
-    "ULAANB": {
-      "name": "Ulaanbaatar"
-    }
+  "SUK": {
+    "name": "Sükhbaatar"
   },
-  "Umnugovi": {
-    "UMNU": {
-      "name": "Umnugovi"
-    }
+  "TUV": {
+    "name": "Töv"
   },
-  "Uvs": {
-    "UVS": {
-      "name": "Uvs"
-    }
+  "ULAANB": {
+    "name": "Ulaanbaatar"
   },
-  "Zavkhan": {
-    "ZAVK": {
-      "name": "Zavkhan"
-    }
+  "UVS": {
+    "name": "Uvs"
+  },
+  "ZAVK": {
+    "name": "Zavkhan"
   }
 }

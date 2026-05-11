@@ -1,62 +1,38 @@
 {
-  "Berat": {
-    "BER": {
-      "name": "Berat"
-    }
+  "BER": {
+    "name": "Berat"
   },
-  "Dibër": {
-    "DIB": {
-      "name": "Dibër"
-    }
+  "DIB": {
+    "name": "Dibër"
   },
-  "Durrës": {
-    "DUR": {
-      "name": "Durrës"
-    }
+  "DUR": {
+    "name": "Durrës"
   },
-  "Elbasan": {
-    "ELB": {
-      "name": "Elbasan"
-    }
+  "ELB": {
+    "name": "Elbasan"
   },
-  "Fier": {
-    "FIE": {
-      "name": "Fier"
-    }
+  "FIE": {
+    "name": "Fier"
   },
-  "Gjirokastër": {
-    "GJI": {
-      "name": "Gjirokastër"
-    }
+  "GJI": {
+    "name": "Gjirokastër"
   },
-  "Korçë": {
-    "KOR": {
-      "name": "Korçë"
-    }
+  "KOR": {
+    "name": "Korçë"
   },
-  "Kukës": {
-    "KUK": {
-      "name": "Kukës"
-    }
+  "KUK": {
+    "name": "Kukës"
   },
-  "Lezhë": {
-    "LEZ": {
-      "name": "Lezhë"
-    }
+  "LEZ": {
+    "name": "Lezhë"
   },
-  "Shkodër": {
-    "SHK": {
-      "name": "Shkodër"
-    }
+  "SHK": {
+    "name": "Shkodër"
   },
-  "Tirana": {
-    "TIR": {
-      "name": "Tirana"
-    }
+  "TIR": {
+    "name": "Tirana"
   },
-  "Vlorë": {
-    "VLO": {
-      "name": "Vlorë"
-    }
+  "VLO": {
+    "name": "Vlorë"
   }
 }

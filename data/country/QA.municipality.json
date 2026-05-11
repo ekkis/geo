@@ -1,1 +1,26 @@
-{}
+{
+  "ZA": {
+    "name": "Al Daayen"
+  },
+  "KH": {
+    "name": "Al Khor"
+  },
+  "RA": {
+    "name": "Al Rayyan"
+  },
+  "WA": {
+    "name": "Al Wakrah"
+  },
+  "SH": {
+    "name": "Al-Shahaniya"
+  },
+  "DA": {
+    "name": "Doha"
+  },
+  "MS": {
+    "name": "Madinat ash Shamal"
+  },
+  "US": {
+    "name": "Umm Salal"
+  }
+}

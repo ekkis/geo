@@ -2,7 +2,10 @@
   "ABR": {
     "name": "Abra"
   },
-  "AD": {
+  "AGN": {
+    "name": "Agusan del Norte"
+  },
+  "AGS": {
     "name": "Agusan del Sur"
   },
   "AKL": {
@@ -20,14 +23,26 @@
   "AUR": {
     "name": "Aurora"
   },
+  "INX": {
+    "name": "Autonomous Region in Muslim Mindanao"
+  },
   "BAS": {
     "name": "Basilan"
   },
-  "BAT": {
+  "BAN": {
+    "name": "Bataan"
+  },
+  "BTN": {
+    "name": "Batanes"
+  },
+  "BTG": {
     "name": "Batangas"
   },
   "BEN": {
     "name": "Benguet"
+  },
+  "BIC": {
+    "name": "Bicol"
   },
   "BIL": {
     "name": "Biliran"
@@ -44,11 +59,26 @@
   "CAG": {
     "name": "Cagayan"
   },
+  "CV": {
+    "name": "Cagayan Valley"
+  },
+  "CAL": {
+    "name": "Calabarzon"
+  },
+  "CAN": {
+    "name": "Camarines Norte"
+  },
+  "CAS": {
+    "name": "Camarines Sur"
+  },
   "CAM": {
     "name": "Camiguin"
   },
   "CAP": {
     "name": "Capiz"
+  },
+  "CAR": {
+    "name": "Caraga"
   },
   "CAT": {
     "name": "Catanduanes"
@@ -59,29 +89,44 @@
   "CEB": {
     "name": "Cebu"
   },
-  "CN": {
-    "name": "Camarines Norte"
+  "CEN": {
+    "name": "Central Luzon"
   },
-  "COT": {
+  "CENV": {
+    "name": "Central Visayas"
+  },
+  "COR": {
+    "name": "Cordillera Administrative"
+  },
+  "NCO": {
     "name": "Cotabato"
   },
-  "CS": {
-    "name": "Camarines Sur"
+  "DAVA": {
+    "name": "Davao"
   },
-  "CV": {
-    "name": "Compostela Valley"
+  "COM": {
+    "name": "Davao de Oro"
   },
-  "DD": {
+  "DAV": {
+    "name": "Davao del Norte"
+  },
+  "DAS": {
     "name": "Davao del Sur"
   },
-  "DI": {
-    "name": "Dinagat Islands"
+  "DVO": {
+    "name": "Davao Occidental"
   },
-  "DO": {
+  "DAO": {
     "name": "Davao Oriental"
   },
-  "ES": {
+  "DIN": {
+    "name": "Dinagat Islands"
+  },
+  "EAS": {
     "name": "Eastern Samar"
+  },
+  "EV": {
+    "name": "Eastern Visayas"
   },
   "GUI": {
     "name": "Guimaras"
@@ -90,13 +135,16 @@
     "name": "Ifugao"
   },
   "ILO": {
-    "name": "Iloilo"
+    "name": "Ilocos"
   },
-  "IN": {
+  "ILN": {
     "name": "Ilocos Norte"
   },
-  "IS": {
+  "ILS": {
     "name": "Ilocos Sur"
+  },
+  "ILI": {
+    "name": "Iloilo"
   },
   "ISA": {
     "name": "Isabela"
@@ -104,52 +152,73 @@
   "KAL": {
     "name": "Kalinga"
   },
+  "LUN": {
+    "name": "La Union"
+  },
   "LAG": {
     "name": "Laguna"
   },
-  "LD": {
+  "LAN": {
+    "name": "Lanao del Norte"
+  },
+  "LAS": {
     "name": "Lanao del Sur"
   },
   "LEY": {
     "name": "Leyte"
   },
-  "LU": {
-    "name": "La Union"
+  "MGN": {
+    "name": "Maguindanao del Norte"
   },
-  "MAG": {
-    "name": "Maguindanao"
+  "MGS": {
+    "name": "Maguindanao del Sur"
   },
-  "MAR": {
+  "MAD": {
     "name": "Marinduque"
   },
   "MAS": {
     "name": "Masbate"
   },
-  "MM": {
-    "name": "Metro Manila"
+  "MIM": {
+    "name": "Mimaropa"
   },
-  "MO": {
+  "MSC": {
+    "name": "Misamis Occidental"
+  },
+  "MSR": {
     "name": "Misamis Oriental"
   },
-  "MP": {
+  "MOU": {
     "name": "Mountain Province"
   },
-  "NE": {
-    "name": "Nueva Ecija"
+  "NAT": {
+    "name": "National Capital Region (Metro Manila)"
   },
-  "NO": {
+  "NEC": {
+    "name": "Negros Occidental"
+  },
+  "NER": {
     "name": "Negros Oriental"
   },
-  "NS": {
+  "NOR": {
+    "name": "Northern Mindanao"
+  },
+  "NSA": {
     "name": "Northern Samar"
   },
-  "NV": {
+  "NUE": {
+    "name": "Nueva Ecija"
+  },
+  "NUV": {
     "name": "Nueva Vizcaya"
   },
-  "OM": {
+  "MDC": {
+    "name": "Occidental Mindoro"
+  },
+  "MDR": {
     "name": "Oriental Mindoro"
   },
-  "PAL": {
+  "PLW": {
     "name": "Palawan"
   },
   "PAM": {
@@ -170,32 +239,35 @@
   "ROM": {
     "name": "Romblon"
   },
-  "SAM": {
-    "name": "Samar"
-  },
   "SAR": {
     "name": "Sarangani"
   },
-  "SC": {
-    "name": "South Cotabato"
-  },
-  "SD": {
-    "name": "Surigao del Sur"
-  },
-  "SIQ": {
+  "SIG": {
     "name": "Siquijor"
   },
-  "SK": {
-    "name": "Sultan Kudarat"
-  },
-  "SL": {
-    "name": "Southern Leyte"
+  "SOC": {
+    "name": "Soccsksargen"
   },
   "SOR": {
     "name": "Sorsogon"
   },
-  "SUL": {
+  "SCO": {
+    "name": "South Cotabato"
+  },
+  "SLE": {
+    "name": "Southern Leyte"
+  },
+  "SUK": {
+    "name": "Sultan Kudarat"
+  },
+  "SLU": {
     "name": "Sulu"
+  },
+  "SUN": {
+    "name": "Surigao del Norte"
+  },
+  "SUR": {
+    "name": "Surigao del Sur"
   },
   "TAR": {
     "name": "Tarlac"
@@ -203,13 +275,25 @@
   "TAW": {
     "name": "Tawi-Tawi"
   },
-  "ZAM": {
+  "WSA": {
+    "name": "Western Samar"
+  },
+  "WES": {
+    "name": "Western Visayas"
+  },
+  "ZMB": {
     "name": "Zambales"
   },
-  "ZD": {
+  "ZAN": {
+    "name": "Zamboanga del Norte"
+  },
+  "ZAS": {
     "name": "Zamboanga del Sur"
   },
-  "ZS": {
+  "ZAM": {
+    "name": "Zamboanga Peninsula"
+  },
+  "ZSI": {
     "name": "Zamboanga Sibugay"
   }
 }

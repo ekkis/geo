@@ -1,1 +1,83 @@
-{}
+{
+  "ANS": {
+    "name": "Anse Boileau"
+  },
+  "AE": {
+    "name": "Anse Etoile"
+  },
+  "AR": {
+    "name": "Anse Royale"
+  },
+  "AAP": {
+    "name": "Anse-aux-Pins"
+  },
+  "AUX": {
+    "name": "Au Cap"
+  },
+  "BAI": {
+    "name": "Baie Lazare"
+  },
+  "BSA": {
+    "name": "Baie Sainte Anne"
+  },
+  "BEA": {
+    "name": "Beau Vallon"
+  },
+  "BEL": {
+    "name": "Bel Air"
+  },
+  "BO": {
+    "name": "Bel Ombre"
+  },
+  "CAS": {
+    "name": "Cascade"
+  },
+  "GLA": {
+    "name": "Glacis"
+  },
+  "GRA": {
+    "name": "Grand'Anse Mahé"
+  },
+  "GAP": {
+    "name": "Grand'Anse Praslin"
+  },
+  "ILE": {
+    "name": "Ile Perseverance I"
+  },
+  "IPI": {
+    "name": "Ile Perseverance II"
+  },
+  "DIG": {
+    "name": "La Digue"
+  },
+  "RIV": {
+    "name": "La Rivière Anglaise"
+  },
+  "MAM": {
+    "name": "Les Mamelles"
+  },
+  "MON": {
+    "name": "Mont Buxton"
+  },
+  "MF": {
+    "name": "Mont Fleuri"
+  },
+  "PLA": {
+    "name": "Plaisance"
+  },
+  "POI": {
+    "name": "Pointe La Rue"
+  },
+  "POR": {
+    "name": "Port Glaud"
+  },
+  "ROC": {
+    "name": "Roche Caiman"
+  },
+  "LOU": {
+    "name": "Saint Louis"
+  },
+  "TAK": {
+    "name": "Takamaka"
+  }
+}

@@ -1,1 +1,128 @@
-{}
+{
+  "AZU": {
+    "name": "Azua"
+  },
+  "BAO": {
+    "name": "Baoruco"
+  },
+  "BAR": {
+    "name": "Barahona"
+  },
+  "CIB": {
+    "name": "Cibao Nordeste"
+  },
+  "CN": {
+    "name": "Cibao Noroeste"
+  },
+  "CIBN": {
+    "name": "Cibao Norte"
+  },
+  "CS": {
+    "name": "Cibao Sur"
+  },
+  "DAJ": {
+    "name": "Dajabón"
+  },
+  "DIS": {
+    "name": "Distrito Nacional"
+  },
+  "DUA": {
+    "name": "Duarte"
+  },
+  "SEI": {
+    "name": "El Seibo"
+  },
+  "VAL": {
+    "name": "El Valle"
+  },
+  "ELI": {
+    "name": "Elías Piña"
+  },
+  "ENR": {
+    "name": "Enriquillo"
+  },
+  "ESP": {
+    "name": "Espaillat"
+  },
+  "HAT": {
+    "name": "Hato Mayor"
+  },
+  "HER": {
+    "name": "Hermanas Mirabal"
+  },
+  "HIG": {
+    "name": "Higuamo"
+  },
+  "IND": {
+    "name": "Independencia"
+  },
+  "ALT": {
+    "name": "La Altagracia"
+  },
+  "ROM": {
+    "name": "La Romana"
+  },
+  "VEG": {
+    "name": "La Vega"
+  },
+  "MAR": {
+    "name": "María Trinidad Sánchez"
+  },
+  "MON": {
+    "name": "Monseñor Nouel"
+  },
+  "MC": {
+    "name": "Monte Cristi"
+  },
+  "MP": {
+    "name": "Monte Plata"
+  },
+  "OZA": {
+    "name": "Ozama"
+  },
+  "PED": {
+    "name": "Pedernales"
+  },
+  "PER": {
+    "name": "Peravia"
+  },
+  "PUE": {
+    "name": "Puerto Plata"
+  },
+  "SAM": {
+    "name": "Samaná"
+  },
+  "CRI": {
+    "name": "San Cristóbal"
+  },
+  "JOS": {
+    "name": "San José de Ocoa"
+  },
+  "JUA": {
+    "name": "San Juan"
+  },
+  "PM": {
+    "name": "San Pedro de Macorís"
+  },
+  "SAN": {
+    "name": "Sánchez Ramírez"
+  },
+  "SANT": {
+    "name": "Santiago"
+  },
+  "SR": {
+    "name": "Santiago Rodríguez"
+  },
+  "DOM": {
+    "name": "Santo Domingo"
+  },
+  "VALD": {
+    "name": "Valdesia"
+  },
+  "VALV": {
+    "name": "Valverde"
+  },
+  "YUM": {
+    "name": "Yuma"
+  }
+}

@@ -1,1 +1,44 @@
-{}
+{
+  "CLA": {
+    "name": "Clarendon"
+  },
+  "HAN": {
+    "name": "Hanover"
+  },
+  "KIN": {
+    "name": "Kingston"
+  },
+  "MAN": {
+    "name": "Manchester"
+  },
+  "POR": {
+    "name": "Portland"
+  },
+  "AND": {
+    "name": "Saint Andrew"
+  },
+  "ANN": {
+    "name": "Saint Ann"
+  },
+  "CAT": {
+    "name": "Saint Catherine"
+  },
+  "ELI": {
+    "name": "Saint Elizabeth"
+  },
+  "JAM": {
+    "name": "Saint James"
+  },
+  "MAR": {
+    "name": "Saint Mary"
+  },
+  "THO": {
+    "name": "Saint Thomas"
+  },
+  "TRE": {
+    "name": "Trelawny"
+  },
+  "WES": {
+    "name": "Westmoreland"
+  }
+}

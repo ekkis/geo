@@ -1,1 +1,35 @@
-{}
+{
+  "DA": {
+    "name": "Ad Dakhiliyah"
+  },
+  "ZA": {
+    "name": "Ad Dhahirah"
+  },
+  "BS": {
+    "name": "Al Batinah North"
+  },
+  "BJ": {
+    "name": "Al Batinah South"
+  },
+  "BU": {
+    "name": "Al Buraimi"
+  },
+  "WU": {
+    "name": "Al Wusta"
+  },
+  "SS": {
+    "name": "Ash Sharqiyah North"
+  },
+  "SJ": {
+    "name": "Ash Sharqiyah South"
+  },
+  "ZU": {
+    "name": "Dhofar"
+  },
+  "MU": {
+    "name": "Musandam"
+  },
+  "MA": {
+    "name": "Muscat"
+  }
+}

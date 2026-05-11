@@ -1,0 +1,158 @@
+{
+  "BM": [
+    {
+      "id": 66561,
+      "name": "Tubmanburg",
+      "latitude": "6.87064000",
+      "longitude": "-10.82110000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "BG": [
+    {
+      "id": 66553,
+      "name": "Gbarnga",
+      "latitude": "6.99543000",
+      "longitude": "-9.47122000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "GP": [
+    {
+      "id": 66548,
+      "name": "Bopolu",
+      "latitude": "7.06667000",
+      "longitude": "-10.48750000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "GB": [
+    {
+      "id": 66549,
+      "name": "Buchanan",
+      "latitude": "5.87693000",
+      "longitude": "-10.04964000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "CM": [
+    {
+      "id": 66559,
+      "name": "Robertsport",
+      "latitude": "6.75329000",
+      "longitude": "-11.36710000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "GG": [
+    {
+      "id": 66563,
+      "name": "Zwedru",
+      "latitude": "6.06846000",
+      "longitude": "-8.13559000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "GK": [
+    {
+      "id": 66546,
+      "name": "Barclayville",
+      "latitude": "4.67443000",
+      "longitude": "-8.23306000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "LO": [
+    {
+      "id": 66562,
+      "name": "Voinjama",
+      "latitude": "8.42194000",
+      "longitude": "-9.74778000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "MG": [
+    {
+      "id": 66556,
+      "name": "Kakata",
+      "latitude": "6.53104000",
+      "longitude": "-10.35368000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "MY": [
+    {
+      "id": 66555,
+      "name": "Harper",
+      "latitude": "4.37820000",
+      "longitude": "-7.71081000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "MO": [
+    {
+      "id": 66547,
+      "name": "Bensonville",
+      "latitude": "6.44716000",
+      "longitude": "-10.61283000",
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "id": 66557,
+      "name": "Monrovia",
+      "latitude": "6.30054000",
+      "longitude": "-10.79690000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "NI": [
+    {
+      "id": 66552,
+      "name": "Ganta",
+      "latitude": "7.30222000",
+      "longitude": "-8.53083000",
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "id": 66558,
+      "name": "New Yekepa",
+      "latitude": "7.57944000",
+      "longitude": "-8.53778000",
+      "timezone": "Africa/Monrovia"
+    },
+    {
+      "id": 66560,
+      "name": "Sanniquellie",
+      "latitude": "7.36215000",
+      "longitude": "-8.71326000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "RI": [
+    {
+      "id": 66550,
+      "name": "Cestos City",
+      "latitude": "5.45683000",
+      "longitude": "-9.58167000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "RG": [
+    {
+      "id": 66551,
+      "name": "Fish Town",
+      "latitude": "5.19739000",
+      "longitude": "-7.87579000",
+      "timezone": "Africa/Monrovia"
+    }
+  ],
+  "SI": [
+    {
+      "id": 66554,
+      "name": "Greenville",
+      "latitude": "5.01133000",
+      "longitude": "-9.03880000",
+      "timezone": "Africa/Monrovia"
+    }
+  ]
+}

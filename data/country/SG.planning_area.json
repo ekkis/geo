@@ -1,7 +1,17 @@
 {
-  "Singapore": {
-    "SINGAPOR": {
-      "name": "Singapore"
-    }
+  "CEN": {
+    "name": "Central Singapore"
+  },
+  "NOR": {
+    "name": "North East"
+  },
+  "NW": {
+    "name": "North West"
+  },
+  "SOU": {
+    "name": "South East"
+  },
+  "SW": {
+    "name": "South West"
   }
 }

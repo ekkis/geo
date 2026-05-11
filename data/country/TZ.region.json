@@ -1,1 +1,95 @@
-{}
+{
+  "ARU": {
+    "name": "Arusha"
+  },
+  "DAR": {
+    "name": "Dar es Salaam"
+  },
+  "DOD": {
+    "name": "Dodoma"
+  },
+  "GEI": {
+    "name": "Geita"
+  },
+  "IRI": {
+    "name": "Iringa"
+  },
+  "KAG": {
+    "name": "Kagera"
+  },
+  "KAT": {
+    "name": "Katavi"
+  },
+  "KIG": {
+    "name": "Kigoma"
+  },
+  "KIL": {
+    "name": "Kilimanjaro"
+  },
+  "LIN": {
+    "name": "Lindi"
+  },
+  "MAN": {
+    "name": "Manyara"
+  },
+  "MAR": {
+    "name": "Mara"
+  },
+  "MBE": {
+    "name": "Mbeya"
+  },
+  "MOR": {
+    "name": "Morogoro"
+  },
+  "MTW": {
+    "name": "Mtwara"
+  },
+  "MWA": {
+    "name": "Mwanza"
+  },
+  "NJO": {
+    "name": "Njombe"
+  },
+  "PEM": {
+    "name": "Pemba North"
+  },
+  "PS": {
+    "name": "Pemba South"
+  },
+  "PWA": {
+    "name": "Pwani"
+  },
+  "RUK": {
+    "name": "Rukwa"
+  },
+  "RUV": {
+    "name": "Ruvuma"
+  },
+  "SHI": {
+    "name": "Shinyanga"
+  },
+  "SIM": {
+    "name": "Simiyu"
+  },
+  "SIN": {
+    "name": "Singida"
+  },
+  "SON": {
+    "name": "Songwe"
+  },
+  "TAB": {
+    "name": "Tabora"
+  },
+  "TAN": {
+    "name": "Tanga"
+  },
+  "ZAN": {
+    "name": "Zanzibar North"
+  },
+  "ZS": {
+    "name": "Zanzibar South"
+  },
+  "ZW": {
+    "name": "Zanzibar West"
+  }
+}

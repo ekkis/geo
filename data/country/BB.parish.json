@@ -1,1 +1,35 @@
-{}
+{
+  "CHR": {
+    "name": "Christ Church"
+  },
+  "AND": {
+    "name": "Saint Andrew"
+  },
+  "GEO": {
+    "name": "Saint George"
+  },
+  "JAM": {
+    "name": "Saint James"
+  },
+  "JOH": {
+    "name": "Saint John"
+  },
+  "JOS": {
+    "name": "Saint Joseph"
+  },
+  "LUC": {
+    "name": "Saint Lucy"
+  },
+  "MIC": {
+    "name": "Saint Michael"
+  },
+  "PET": {
+    "name": "Saint Peter"
+  },
+  "PHI": {
+    "name": "Saint Philip"
+  },
+  "THO": {
+    "name": "Saint Thomas"
+  }
+}

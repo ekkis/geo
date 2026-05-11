@@ -2,37 +2,235 @@
   "ABS": {
     "name": "Absheron"
   },
+  "AGM": {
+    "name": "Agdam"
+  },
+  "AGS": {
+    "name": "Agdash"
+  },
+  "AGC": {
+    "name": "Aghjabadi"
+  },
+  "AGA": {
+    "name": "Agstafa"
+  },
+  "AGU": {
+    "name": "Agsu"
+  },
+  "AST": {
+    "name": "Astara"
+  },
+  "BAB": {
+    "name": "Babek"
+  },
   "BA": {
     "name": "Baku"
   },
+  "BAL": {
+    "name": "Balakan"
+  },
+  "BAR": {
+    "name": "Barda"
+  },
+  "BEY": {
+    "name": "Beylagan"
+  },
+  "BIL": {
+    "name": "Bilasuvar"
+  },
+  "DAS": {
+    "name": "Dashkasan"
+  },
+  "FUZ": {
+    "name": "Fizuli"
+  },
+  "GA": {
+    "name": "Ganja"
+  },
+  "GAD": {
+    "name": "Gədəbəy"
+  },
+  "QOB": {
+    "name": "Gobustan"
+  },
+  "GOR": {
+    "name": "Goranboy"
+  },
+  "GOY": {
+    "name": "Goychay"
+  },
+  "GYG": {
+    "name": "Goygol"
+  },
+  "HAC": {
+    "name": "Hajigabul"
+  },
+  "IMI": {
+    "name": "Imishli"
+  },
+  "ISM": {
+    "name": "Ismailli"
+  },
+  "CAB": {
+    "name": "Jabrayil"
+  },
+  "CAL": {
+    "name": "Jalilabad"
+  },
+  "CUL": {
+    "name": "Julfa"
+  },
   "KAL": {
-    "name": "Kalbajar-Lachin"
+    "name": "Kalbajar"
+  },
+  "KAN": {
+    "name": "Kangarli"
+  },
+  "XAC": {
+    "name": "Khachmaz"
+  },
+  "XA": {
+    "name": "Khankendi"
+  },
+  "XIZ": {
+    "name": "Khizi"
+  },
+  "XCI": {
+    "name": "Khojali"
+  },
+  "KUR": {
+    "name": "Kurdamir"
   },
   "LAC": {
     "name": "Lachin"
   },
-  "LEN": {
+  "LAN": {
     "name": "Lankaran"
   },
-  "MQ": {
+  "LA": {
+    "name": "Lankaran"
+  },
+  "LER": {
+    "name": "Lerik"
+  },
+  "XVD": {
+    "name": "Martuni"
+  },
+  "MAS": {
+    "name": "Masally"
+  },
+  "MI": {
     "name": "Mingachevir"
+  },
+  "NA": {
+    "name": "Naftalan"
+  },
+  "NV": {
+    "name": "Nakhchivan"
   },
   "NX": {
     "name": "Nakhchivan"
   },
-  "QOB": {
-    "name": "Qobustan"
+  "NEF": {
+    "name": "Neftchala"
   },
-  "SAR": {
-    "name": "Saratov"
+  "OGU": {
+    "name": "Oghuz"
+  },
+  "ORD": {
+    "name": "Ordubad"
+  },
+  "QAB": {
+    "name": "Qabala"
+  },
+  "QAX": {
+    "name": "Qakh"
+  },
+  "QAZ": {
+    "name": "Qazakh"
+  },
+  "QBA": {
+    "name": "Quba"
+  },
+  "QBI": {
+    "name": "Qubadli"
+  },
+  "QUS": {
+    "name": "Qusar"
   },
   "SAT": {
-    "name": "Shamakhi"
+    "name": "Saatly"
   },
-  "SM": {
-    "name": "Sumgait"
+  "SAB": {
+    "name": "Sabirabad"
+  },
+  "SAD": {
+    "name": "Sadarak"
+  },
+  "SAL": {
+    "name": "Salyan"
+  },
+  "SMX": {
+    "name": "Samukh"
+  },
+  "SBN": {
+    "name": "Shabran"
+  },
+  "SAH": {
+    "name": "Shahbuz"
+  },
+  "SA": {
+    "name": "Shaki"
+  },
+  "SAK": {
+    "name": "Shaki"
   },
   "SMI": {
-    "name": "Samukh"
+    "name": "Shamakhi"
+  },
+  "SKR": {
+    "name": "Shamkir"
+  },
+  "SAR": {
+    "name": "Sharur"
+  },
+  "SR": {
+    "name": "Shirvan"
+  },
+  "SUS": {
+    "name": "Shusha"
+  },
+  "SIY": {
+    "name": "Siazan"
+  },
+  "SM": {
+    "name": "Sumqayit"
+  },
+  "TAR": {
+    "name": "Tartar"
+  },
+  "TOV": {
+    "name": "Tovuz"
+  },
+  "UCA": {
+    "name": "Ujar"
+  },
+  "YAR": {
+    "name": "Yardymli"
+  },
+  "YEV": {
+    "name": "Yevlakh"
+  },
+  "YE": {
+    "name": "Yevlakh"
+  },
+  "ZAN": {
+    "name": "Zangilan"
+  },
+  "ZAQ": {
+    "name": "Zaqatala"
+  },
+  "ZAR": {
+    "name": "Zardab"
   }
 }

@@ -1,89 +1,104 @@
 {
-  "ANH": {
+  "AH": {
     "name": "Anhui"
   },
-  "BEI": {
+  "BJ": {
     "name": "Beijing"
   },
-  "CHO": {
+  "CQ": {
     "name": "Chongqing"
   },
-  "FUJ": {
+  "FJ": {
     "name": "Fujian"
   },
-  "GAN": {
+  "GS": {
     "name": "Gansu"
   },
-  "GUA": {
+  "GD": {
     "name": "Guangdong"
   },
-  "GUI": {
+  "GX": {
+    "name": "Guangxi"
+  },
+  "GZ": {
     "name": "Guizhou"
   },
-  "HAI": {
+  "HI": {
     "name": "Hainan"
   },
-  "HEB": {
+  "HE": {
     "name": "Hebei"
   },
-  "HEI": {
+  "HL": {
     "name": "Heilongjiang"
   },
-  "HEN": {
+  "HA": {
     "name": "Henan"
   },
   "HK": {
-    "name": "Hong Kong"
+    "name": "Hong Kong SAR"
   },
-  "HUB": {
+  "HB": {
     "name": "Hubei"
   },
-  "HUN": {
+  "HN": {
     "name": "Hunan"
   },
-  "IM": {
+  "NM": {
     "name": "Inner Mongolia"
   },
-  "JIA": {
+  "JS": {
+    "name": "Jiangsu"
+  },
+  "JX": {
     "name": "Jiangxi"
   },
-  "JIL": {
+  "JL": {
     "name": "Jilin"
   },
-  "LIA": {
+  "LN": {
     "name": "Liaoning"
   },
-  "MAC": {
-    "name": "Macau"
+  "MO": {
+    "name": "Macau SAR"
   },
-  "NIN": {
+  "NX": {
     "name": "Ningxia"
   },
-  "QIN": {
+  "QH": {
     "name": "Qinghai"
   },
-  "SHA": {
+  "SN": {
+    "name": "Shaanxi"
+  },
+  "SD": {
+    "name": "Shandong"
+  },
+  "SH": {
     "name": "Shanghai"
   },
-  "SIC": {
+  "SX": {
+    "name": "Shanxi"
+  },
+  "SC": {
     "name": "Sichuan"
   },
-  "TAI": {
+  "TW": {
     "name": "Taiwan"
   },
-  "TIA": {
+  "TJ": {
     "name": "Tianjin"
   },
-  "TIB": {
+  "XZ": {
     "name": "Tibet"
   },
-  "XIN": {
+  "XJ": {
     "name": "Xinjiang"
   },
-  "YUN": {
+  "YN": {
     "name": "Yunnan"
   },
-  "ZHE": {
+  "ZJ": {
     "name": "Zhejiang"
   }
 }

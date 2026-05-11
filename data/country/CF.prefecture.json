@@ -1,7 +1,4 @@
 {
-  "AC": {
-    "name": "Ouham"
-  },
   "BB": {
     "name": "Bamingui-Bangoran"
   },
@@ -11,35 +8,44 @@
   "BK": {
     "name": "Basse-Kotto"
   },
-  "HK": {
-    "name": "Haute-Kotto"
-  },
   "HM": {
     "name": "Haut-Mbomou"
+  },
+  "HK": {
+    "name": "Haute-Kotto"
   },
   "KG": {
     "name": "Kémo"
   },
-  "LO": {
+  "LB": {
     "name": "Lobaye"
+  },
+  "HS": {
+    "name": "Mambéré-Kadéï"
   },
   "MB": {
     "name": "Mbomou"
   },
-  "MP": {
-    "name": "Ombella-M'Poko"
+  "KB": {
+    "name": "Nana-Grébizi"
   },
   "NM": {
     "name": "Nana-Mambéré"
   },
-  "OP": {
-    "name": "Ouham Péndé"
-  },
-  "SE": {
-    "name": "Sangha-Mbaéré"
+  "MP": {
+    "name": "Ombella-M'Poko"
   },
   "UK": {
     "name": "Ouaka"
+  },
+  "AC": {
+    "name": "Ouham"
+  },
+  "OP": {
+    "name": "Ouham-Pendé"
+  },
+  "SE": {
+    "name": "Sangha-Mbaéré"
   },
   "VK": {
     "name": "Vakaga"

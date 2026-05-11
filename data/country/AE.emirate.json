@@ -1,1 +1,23 @@
-{}
+{
+  "AZ": {
+    "name": "Abu Dhabi"
+  },
+  "AJ": {
+    "name": "Ajman"
+  },
+  "DU": {
+    "name": "Dubai"
+  },
+  "FU": {
+    "name": "Fujairah"
+  },
+  "RK": {
+    "name": "Ras Al Khaimah"
+  },
+  "SH": {
+    "name": "Sharjah"
+  },
+  "UQ": {
+    "name": "Umm Al Quwain"
+  }
+}

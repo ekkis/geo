@@ -1,72 +1,50 @@
 {
-  "Greater Poland": {
-    "GREPO": {
-      "name": "Greater Poland"
-    }
+  "GREPO": {
+    "name": "Greater Poland"
   },
-  "Kuyavian-Pomeranian": {
-    "KUY": {
-      "name": "Kuyavian-Pomeranian"
-    }
+  "HOL": {
+    "name": "Holy Cross"
   },
-  "Lesser Poland": {
-    "LESPO": {
-      "name": "Lesser Poland"
-    }
+  "KUY": {
+    "name": "Kuyavia-Pomerania"
   },
-  "Lower Silesian": {
-    "LOWSI": {
-      "name": "Lower Silesian"
-    }
+  "LESPO": {
+    "name": "Lesser Poland"
   },
-  "Lublin": {
-    "LUB": {
-      "name": "Lublin"
-    }
+  "LOW": {
+    "name": "Lower Silesia"
   },
-  "Lubusz": {
-    "LUB1": {
-      "name": "Lubusz"
-    }
+  "LUB": {
+    "name": "Lublin"
   },
-  "Masovian": {
-    "MAS": {
-      "name": "Masovian"
-    }
+  "LUB1": {
+    "name": "Lubusz"
   },
-  "Łódź": {
-    "ODZ": {
-      "name": "Łódź"
-    }
+  "ODZ": {
+    "name": "Łódź"
   },
-  "Opole": {
-    "OPO": {
-      "name": "Opole"
-    }
+  "MAZ": {
+    "name": "Mazovia"
   },
-  "Podlaskie": {
-    "POD": {
-      "name": "Podlaskie"
-    }
+  "POD": {
+    "name": "Podlaskie"
   },
-  "Pomeranian": {
-    "POM": {
-      "name": "Pomeranian"
-    }
+  "POM": {
+    "name": "Pomerania"
   },
-  "Świętokrzyskie": {
-    "SWI": {
-      "name": "Świętokrzyskie"
-    }
+  "SIL": {
+    "name": "Silesia"
   },
-  "Warmian-Masurian": {
-    "WAR": {
-      "name": "Warmian-Masurian"
-    }
+  "SUB": {
+    "name": "Subcarpathia"
   },
-  "West Pomeranian": {
-    "WESPO": {
-      "name": "West Pomeranian"
-    }
+  "UPP": {
+    "name": "Upper Silesia"
+  },
+  "WAR": {
+    "name": "Warmia-Masuria"
+  },
+  "WES": {
+    "name": "West Pomerania"
   }
 }

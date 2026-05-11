@@ -1,1 +1,32 @@
-{}
+{
+  "CE": {
+    "name": "Central"
+  },
+  "CH": {
+    "name": "Choiseul"
+  },
+  "GU": {
+    "name": "Guadalcanal"
+  },
+  "CT": {
+    "name": "Honiara"
+  },
+  "IS": {
+    "name": "Isabel"
+  },
+  "MK": {
+    "name": "Makira-Ulawa"
+  },
+  "ML": {
+    "name": "Malaita"
+  },
+  "RB": {
+    "name": "Rennell and Bellona"
+  },
+  "TE": {
+    "name": "Temotu"
+  },
+  "WE": {
+    "name": "Western"
+  }
+}

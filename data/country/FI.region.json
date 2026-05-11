@@ -1,82 +1,56 @@
 {
-  "Åland": {
-    "ALA": {
-      "name": "Åland"
-    }
+  "CENFI": {
+    "name": "Central Finland"
   },
-  "Central Finland": {
-    "CENFI": {
-      "name": "Central Finland"
-    }
+  "CENOS": {
+    "name": "Central Ostrobothnia"
   },
-  "Central Ostrobothnia": {
-    "CENOS": {
-      "name": "Central Ostrobothnia"
-    }
+  "FIN": {
+    "name": "Finland Proper"
   },
-  "Central Savo": {
-    "CENSA": {
-      "name": "Central Savo"
-    }
+  "KAI": {
+    "name": "Kainuu"
   },
-  "Kymenlaakso": {
-    "KYM": {
-      "name": "Kymenlaakso"
-    }
+  "KYM": {
+    "name": "Kymenlaakso"
   },
-  "Lapland": {
-    "LAP": {
-      "name": "Lapland"
-    }
+  "LAP": {
+    "name": "Lapland"
   },
-  "North Karelia": {
-    "NORKA": {
-      "name": "North Karelia"
-    }
+  "NORKA": {
+    "name": "North Karelia"
   },
-  "Northern Ostrobothnia": {
-    "NOROS": {
-      "name": "Northern Ostrobothnia"
-    }
+  "NOROS": {
+    "name": "Northern Ostrobothnia"
   },
-  "Ostrobothnia": {
-    "OST": {
-      "name": "Ostrobothnia"
-    }
+  "NOR": {
+    "name": "Northern Savonia"
   },
-  "Päijät-Häme": {
-    "PAI": {
-      "name": "Päijät-Häme"
-    }
+  "OST": {
+    "name": "Ostrobothnia"
   },
-  "Pirkanmaa": {
-    "PIR": {
-      "name": "Pirkanmaa"
-    }
+  "PAI": {
+    "name": "Päijänne Tavastia"
   },
-  "Satakunta": {
-    "SAT": {
-      "name": "Satakunta"
-    }
+  "PIR": {
+    "name": "Pirkanmaa"
   },
-  "Southwest Finland": {
-    "SOUFI": {
-      "name": "Southwest Finland"
-    }
+  "SAT": {
+    "name": "Satakunta"
   },
-  "South Karelia": {
-    "SOUKA": {
-      "name": "South Karelia"
-    }
+  "SOUKA": {
+    "name": "South Karelia"
   },
-  "South Savo": {
-    "SOUSA": {
-      "name": "South Savo"
-    }
+  "SOU": {
+    "name": "Southern Ostrobothnia"
   },
-  "Uusimaa": {
-    "UUS": {
-      "name": "Uusimaa"
-    }
+  "SS": {
+    "name": "Southern Savonia"
+  },
+  "TAV": {
+    "name": "Tavastia Proper"
+  },
+  "UUS": {
+    "name": "Uusimaa"
   }
 }

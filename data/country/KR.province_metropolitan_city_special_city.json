@@ -1,82 +1,53 @@
 {
-  "Busan": {
-    "BUSAN": {
-      "name": "Busan"
-    }
+  "BUSAN": {
+    "name": "Busan"
   },
-  "North Chungcheong": {
-    "CHUNGNORTH": {
-      "name": "North Chungcheong"
-    }
+  "DAEGU": {
+    "name": "Daegu"
   },
-  "South Chungcheong": {
-    "CHUNGSOUTH": {
-      "name": "South Chungcheong"
-    }
+  "DAEJEON": {
+    "name": "Daejeon"
   },
-  "Daegu": {
-    "DAEGU": {
-      "name": "Daegu"
-    }
+  "GANGWON": {
+    "name": "Gangwon"
   },
-  "Daejeon": {
-    "DAEJEON": {
-      "name": "Daejeon"
-    }
+  "GWANGJU": {
+    "name": "Gwangju"
   },
-  "Gangwon": {
-    "GANGWON": {
-      "name": "Gangwon"
-    }
+  "GYEONGGI": {
+    "name": "Gyeonggi"
   },
-  "Gwangju": {
-    "GWANGJU": {
-      "name": "Gwangju"
-    }
+  "INCHEON": {
+    "name": "Incheon"
   },
-  "South Gyeongsang": {
-    "GYEONGBSOUTH": {
-      "name": "South Gyeongsang"
-    }
+  "JEJ": {
+    "name": "Jeju"
   },
-  "Gyeonggi": {
-    "GYEONGGI": {
-      "name": "Gyeonggi"
-    }
+  "CHUNGNORTH": {
+    "name": "North Chungcheong"
   },
-  "North Gyeongsang": {
-    "GYEONGSBNORTH": {
-      "name": "North Gyeongsang"
-    }
+  "GYEONGSBNORTH": {
+    "name": "North Gyeongsang"
   },
-  "Incheon": {
-    "INCHEON": {
-      "name": "Incheon"
-    }
+  "JEONLAKNORTH": {
+    "name": "North Jeolla"
   },
-  "North Jeolla": {
-    "JEONLAKNORTH": {
-      "name": "North Jeolla"
-    }
+  "SEJ": {
+    "name": "Sejong City"
   },
-  "South Jeolla": {
-    "JEONLAKSOUTH": {
-      "name": "South Jeolla"
-    }
+  "SEOUL": {
+    "name": "Seoul"
   },
-  "Sejong": {
-    "SEJONG": {
-      "name": "Sejong"
-    }
+  "CHUNGSOUTH": {
+    "name": "South Chungcheong"
   },
-  "Seoul": {
-    "SEOUL": {
-      "name": "Seoul"
-    }
+  "GYEONGBSOUTH": {
+    "name": "South Gyeongsang"
   },
-  "Ulsan": {
-    "ULSAN": {
-      "name": "Ulsan"
-    }
+  "JEONLAKSOUTH": {
+    "name": "South Jeolla"
+  },
+  "ULSAN": {
+    "name": "Ulsan"
   }
 }

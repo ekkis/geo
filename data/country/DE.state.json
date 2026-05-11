@@ -1,55 +1,50 @@
 {
-  "Süddeutschland": {
-    "BAY": {
-      "name": "Bayern"
-    },
-    "BW": {
-      "name": "Baden-Württemberg"
-    }
+  "BW": {
+    "name": "Baden-Württemberg"
   },
-  "Ostdeutschland": {
-    "BB": {
-      "name": "Brandenburg"
-    },
-    "BE": {
-      "name": "Berlin"
-    },
-    "SAC": {
-      "name": "Sachsen-Anhalt"
-    },
-    "THÜ": {
-      "name": "Thüringen"
-    }
+  "BY": {
+    "name": "Bavaria"
   },
-  "Norddeutschland": {
-    "HB": {
-      "name": "Bremen"
-    },
-    "HH": {
-      "name": "Hamburg"
-    },
-    "MV": {
-      "name": "Mecklenburg-Vorpommern"
-    },
-    "NIE": {
-      "name": "Niedersachsen"
-    },
-    "SH": {
-      "name": "Schleswig-Holstein"
-    }
+  "BE": {
+    "name": "Berlin"
   },
-  "Westdeutschland": {
-    "HES": {
-      "name": "Hessen"
-    },
-    "NOR": {
-      "name": "Nordrhein-Westfalen"
-    },
-    "RHE": {
-      "name": "Rheinland-Pfalz"
-    },
-    "SL": {
-      "name": "Saarland"
-    }
+  "BB": {
+    "name": "Brandenburg"
+  },
+  "HB": {
+    "name": "Bremen"
+  },
+  "HH": {
+    "name": "Hamburg"
+  },
+  "HE": {
+    "name": "Hessen"
+  },
+  "NI": {
+    "name": "Lower Saxony"
+  },
+  "MV": {
+    "name": "Mecklenburg-Vorpommern"
+  },
+  "NW": {
+    "name": "North Rhine-Westphalia"
+  },
+  "RP": {
+    "name": "Rhineland-Palatinate"
+  },
+  "SL": {
+    "name": "Saarland"
+  },
+  "SN": {
+    "name": "Saxony"
+  },
+  "ST": {
+    "name": "Saxony-Anhalt"
+  },
+  "SH": {
+    "name": "Schleswig-Holstein"
+  },
+  "TH": {
+    "name": "Thuringia"
   }
 }

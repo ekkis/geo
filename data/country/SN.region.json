@@ -1,1 +1,44 @@
-{}
+{
+  "DK": {
+    "name": "Dakar"
+  },
+  "DB": {
+    "name": "Diourbel Region"
+  },
+  "FK": {
+    "name": "Fatick"
+  },
+  "KA": {
+    "name": "Kaffrine"
+  },
+  "KL": {
+    "name": "Kaolack"
+  },
+  "KE": {
+    "name": "Kédougou"
+  },
+  "KD": {
+    "name": "Kolda"
+  },
+  "LG": {
+    "name": "Louga"
+  },
+  "MT": {
+    "name": "Matam"
+  },
+  "SL": {
+    "name": "Saint-Louis"
+  },
+  "SE": {
+    "name": "Sédhiou"
+  },
+  "TC": {
+    "name": "Tambacounda Region"
+  },
+  "TH": {
+    "name": "Thiès Region"
+  },
+  "ZG": {
+    "name": "Ziguinchor"
+  }
+}

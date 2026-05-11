@@ -1,1 +1,17 @@
-{}
+{
+  "EAS": {
+    "name": "Eastern"
+  },
+  "KIG": {
+    "name": "Kigali"
+  },
+  "NOR": {
+    "name": "Northern"
+  },
+  "SOU": {
+    "name": "Southern"
+  },
+  "WES": {
+    "name": "Western"
+  }
+}

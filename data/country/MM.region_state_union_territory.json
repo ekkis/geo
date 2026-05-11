@@ -1,77 +1,47 @@
 {
-  "Ayeyarwady": {
-    "AYEYAR": {
-      "name": "Ayeyarwady"
-    }
+  "AYEYAR": {
+    "name": "Ayeyarwady"
   },
-  "Bago": {
-    "BAGO": {
-      "name": "Bago"
-    }
+  "BAGO": {
+    "name": "Bago"
   },
-  "Chin": {
-    "CHIN": {
-      "name": "Chin"
-    }
+  "CHIN": {
+    "name": "Chin"
   },
-  "Kachin": {
-    "KACHIN": {
-      "name": "Kachin"
-    }
+  "KACHIN": {
+    "name": "Kachin"
   },
-  "Kayah": {
-    "KAYAH": {
-      "name": "Kayah"
-    }
+  "KAYAH": {
+    "name": "Kayah"
   },
-  "Kayin": {
-    "KAYIN": {
-      "name": "Kayin"
-    }
+  "KAYIN": {
+    "name": "Kayin"
   },
-  "Magway": {
-    "MAGWAY": {
-      "name": "Magway"
-    }
+  "MAGWAY": {
+    "name": "Magway"
   },
-  "Mandalay": {
-    "MANDALAY": {
-      "name": "Mandalay"
-    }
+  "MANDALAY": {
+    "name": "Mandalay"
   },
-  "Mon": {
-    "MON": {
-      "name": "Mon"
-    }
+  "MON": {
+    "name": "Mon State"
   },
-  "Naypyidaw": {
-    "NAYPYID": {
-      "name": "Naypyidaw"
-    }
+  "NAYPYID": {
+    "name": "Naypyidaw"
   },
-  "Rakhine": {
-    "RAKHINE": {
-      "name": "Rakhine"
-    }
+  "RAKHINE": {
+    "name": "Rakhine"
   },
-  "Sagaing": {
-    "SAGAING": {
-      "name": "Sagaing"
-    }
+  "SAGAING": {
+    "name": "Sagaing"
   },
-  "Shan": {
-    "SHAN": {
-      "name": "Shan"
-    }
+  "SHAN": {
+    "name": "Shan"
   },
-  "Tanintharyi": {
-    "TANINTH": {
-      "name": "Tanintharyi"
-    }
+  "TANINTH": {
+    "name": "Tanintharyi"
   },
-  "Yangon": {
-    "YANGON": {
-      "name": "Yangon"
-    }
+  "YANGON": {
+    "name": "Yangon"
   }
 }

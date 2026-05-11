@@ -1,110 +1,113 @@
 {
-  "ABI": {
+  "AB": {
     "name": "Abia"
   },
-  "ADA": {
+  "FC": {
+    "name": "Abuja Federal Capital Territory"
+  },
+  "AD": {
     "name": "Adamawa"
   },
-  "AI": {
+  "AK": {
     "name": "Akwa Ibom"
   },
-  "ANA": {
+  "AN": {
     "name": "Anambra"
   },
-  "BAU": {
+  "BA": {
     "name": "Bauchi"
   },
-  "BAY": {
+  "BY": {
     "name": "Bayelsa"
   },
-  "BEN": {
+  "BE": {
     "name": "Benue"
   },
-  "BOR": {
+  "BO": {
     "name": "Borno"
   },
   "CR": {
     "name": "Cross River"
   },
-  "DEL": {
+  "DE": {
     "name": "Delta"
   },
-  "EBO": {
+  "EB": {
     "name": "Ebonyi"
   },
-  "EDO": {
+  "ED": {
     "name": "Edo"
   },
-  "EKI": {
+  "EK": {
     "name": "Ekiti"
   },
-  "ENU": {
+  "EN": {
     "name": "Enugu"
   },
-  "GOM": {
+  "GO": {
     "name": "Gombe"
   },
-  "IMO": {
+  "IM": {
     "name": "Imo"
   },
-  "JIG": {
+  "JI": {
     "name": "Jigawa"
   },
-  "KAD": {
+  "KD": {
     "name": "Kaduna"
   },
-  "KAN": {
+  "KN": {
     "name": "Kano"
   },
-  "KAT": {
+  "KT": {
     "name": "Katsina"
   },
-  "KEB": {
+  "KE": {
     "name": "Kebbi"
   },
-  "KOG": {
+  "KO": {
     "name": "Kogi"
   },
-  "KWA": {
+  "KW": {
     "name": "Kwara"
   },
-  "LAG": {
+  "LA": {
     "name": "Lagos"
   },
-  "NAS": {
+  "NA": {
     "name": "Nasarawa"
   },
-  "NIG": {
+  "NI": {
     "name": "Niger"
   },
-  "OGU": {
+  "OG": {
     "name": "Ogun"
   },
-  "OND": {
+  "ON": {
     "name": "Ondo"
   },
-  "OSU": {
+  "OS": {
     "name": "Osun"
   },
-  "OYO": {
+  "OY": {
     "name": "Oyo"
   },
-  "PLA": {
+  "PL": {
     "name": "Plateau"
   },
-  "RIV": {
+  "RI": {
     "name": "Rivers"
   },
-  "SOK": {
+  "SO": {
     "name": "Sokoto"
   },
-  "TAR": {
+  "TA": {
     "name": "Taraba"
   },
-  "YOB": {
+  "YO": {
     "name": "Yobe"
   },
-  "ZAM": {
+  "ZA": {
     "name": "Zamfara"
   }
 }

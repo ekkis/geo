@@ -1,1 +1,23 @@
-{}
+{
+  "AGU": {
+    "name": "Água Grande"
+  },
+  "CAN": {
+    "name": "Cantagalo"
+  },
+  "CAU": {
+    "name": "Caué"
+  },
+  "LEM": {
+    "name": "Lemba"
+  },
+  "LOB": {
+    "name": "Lobata"
+  },
+  "MEX": {
+    "name": "Mé-Zóchi"
+  },
+  "P": {
+    "name": "Príncipe"
+  }
+}

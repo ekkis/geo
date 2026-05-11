@@ -1,101 +1,62 @@
 {
-  "Bjelovar-Bilogora": {
-    "BJE": {
-      "name": "Bjelovar-Bilogora"
-    }
+  "BJE": {
+    "name": "Bjelovar-Bilogora"
   },
-  " Brod-Posavina": {
-    "BRO": {
-      "name": " Brod-Posavina"
-    }
+  "BRO": {
+    "name": "Brod-Posavina"
   },
-  "Dubrovnik-Neretva": {
-    "DUB": {
-      "name": "Dubrovnik-Neretva"
-    },
-    "DUB1": {
-      "name": "Dubrovnik-Neretva"
-    }
+  "DUB": {
+    "name": "Dubrovnik-Neretva"
   },
-  "Istria": {
-    "IST": {
-      "name": "Istria"
-    }
+  "IST": {
+    "name": "Istria"
   },
-  "Koprivnica-Križevci": {
-    "KOP": {
-      "name": "Koprivnica-Križevci"
-    }
+  "KAR": {
+    "name": "Karlovac"
   },
-  "Krapina-Zagorje": {
-    "KRA": {
-      "name": "Krapina-Zagorje"
-    }
+  "KOP": {
+    "name": "Koprivnica-Križevci"
   },
-  "Lika-Senj": {
-    "LIK": {
-      "name": "Lika-Senj"
-    }
+  "KRA": {
+    "name": "Krapina-Zagorje"
   },
-  "Međimurje": {
-    "MEI": {
-      "name": "Međimurje"
-    }
+  "LIK": {
+    "name": "Lika-Senj"
   },
-  "Osijek-Baranja": {
-    "OSI": {
-      "name": "Osijek-Baranja"
-    }
+  "MEI": {
+    "name": "Međimurje"
   },
-  "Požega-Slavonia": {
-    "POZ": {
-      "name": "Požega-Slavonia"
-    },
-    "POZ1": {
-      "name": "Požega-Slavonia"
-    }
+  "OSI": {
+    "name": "Osijek-Baranja"
   },
-  "Primorje-Gorski Kotar": {
-    "PRIKO": {
-      "name": "Primorje-Gorski Kotar"
-    }
+  "POZ": {
+    "name": "Požega-Slavonia"
   },
-  "Šibenik-Knin": {
-    "SIB": {
-      "name": "Šibenik-Knin"
-    }
+  "PRIKO": {
+    "name": "Primorje-Gorski Kotar"
   },
-  "Sisak-Moslavina": {
-    "SIS": {
-      "name": "Sisak-Moslavina"
-    }
+  "SIB": {
+    "name": "Šibenik-Knin"
   },
-  "Split-Dalmatia": {
-    "SPL": {
-      "name": "Split-Dalmatia"
-    }
+  "SIS": {
+    "name": "Sisak-Moslavina"
   },
-  "Virovitica-Podravina": {
-    "VIR": {
-      "name": "Virovitica-Podravina"
-    },
-    "VIR1": {
-      "name": "Virovitica-Podravina"
-    }
+  "SPL": {
+    "name": "Split-Dalmatia"
   },
-  "Vukovar-Srijem": {
-    "VUK": {
-      "name": "Vukovar-Srijem"
-    }
+  "VAR": {
+    "name": "Varaždin"
   },
-  "Zadar": {
-    "ZAD": {
-      "name": "Zadar"
-    }
+  "VIR": {
+    "name": "Virovitica-Podravina"
   },
-  "Zagreb": {
-    "ZAG": {
-      "name": "Zagreb"
-    }
+  "VUK": {
+    "name": "Vukovar-Syrmia"
+  },
+  "ZAD": {
+    "name": "Zadar"
+  },
+  "ZAG": {
+    "name": "Zagreb"
   }
 }

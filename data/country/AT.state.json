@@ -1,35 +1,29 @@
 {
-  "Ostösterreich": {
-    "BUR": {
-      "name": "Burgenland"
-    },
-    "NIE": {
-      "name": "Niederösterreich"
-    },
-    "WIE": {
-      "name": "Wien"
-    }
+  "BUR": {
+    "name": "Burgenland"
   },
-  "Südösterreich": {
-    "KÄR": {
-      "name": "Kärnten"
-    },
-    "STE": {
-      "name": "Steiermark"
-    }
+  "CAR": {
+    "name": "Carinthia"
   },
-  "Westösterreich": {
-    "OBE": {
-      "name": "Oberösterreich"
-    },
-    "SAL": {
-      "name": "Salzburg"
-    },
-    "TIR": {
-      "name": "Tirol"
-    },
-    "VOR": {
-      "name": "Vorarlberg"
-    }
+  "LOW": {
+    "name": "Lower Austria"
+  },
+  "SAL": {
+    "name": "Salzburg"
+  },
+  "STY": {
+    "name": "Styria"
+  },
+  "TYR": {
+    "name": "Tyrol"
+  },
+  "UPP": {
+    "name": "Upper Austria"
+  },
+  "VIE": {
+    "name": "Vienna"
+  },
+  "VOR": {
+    "name": "Vorarlberg"
   }
 }

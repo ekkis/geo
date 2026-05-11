@@ -1,191 +1,218 @@
 {
-  "কক্": {
-    "name": "কক্সবাজার"
+  "BAG": {
+    "name": "Bagerhat"
   },
-  "কিশ": {
-    "name": "কিশোরগঞ্জ"
+  "BAN": {
+    "name": "Bandarban"
   },
-  "কুড": {
-    "name": "কুড়িগ্রাম"
+  "BAR": {
+    "name": "Barguna"
   },
-  "কুম": {
-    "name": "কুমিল্লা"
+  "A": {
+    "name": "Barisal "
   },
-  "কুষ": {
-    "name": "কুষ্টিয়া"
+  "BARI": {
+    "name": "Barishal"
   },
-  "খাগ": {
-    "name": "খাগড়াছড়ি"
+  "BHO": {
+    "name": "Bhola"
   },
-  "খুল": {
-    "name": "খুলনা"
+  "BOG": {
+    "name": "Bogura"
   },
-  "গাই": {
-    "name": "গাইবান্ধা"
+  "BRA": {
+    "name": "Brahmanbaria"
   },
-  "গাজ": {
-    "name": "গাজীপুর"
+  "CHA": {
+    "name": "Chandpur"
   },
-  "গোপ": {
-    "name": "গোপালগঞ্জ"
+  "CN": {
+    "name": "Chapai Nawabganj"
   },
-  "চট্": {
-    "name": "চট্টগ্রাম"
+  "CHAT": {
+    "name": "Chattogram"
   },
-  "চাঁ": {
-    "name": "চাঁদপুর"
+  "B": {
+    "name": "Chittagong "
   },
-  "চুয": {
-    "name": "চুয়াডাঙ্গা"
+  "CHU": {
+    "name": "Chuadanga"
   },
-  "জয়": {
-    "name": "জয়পুরহাট"
+  "COX": {
+    "name": "Cox's Bazar"
   },
-  "জাম": {
-    "name": "জামালপুর"
+  "CUM": {
+    "name": "Cumilla"
   },
-  "ঝাল": {
-    "name": "ঝালকাঠি"
+  "DHA": {
+    "name": "Dhaka"
   },
-  "ঝিন": {
-    "name": "ঝিনাইদহ"
+  "C": {
+    "name": "Dhaka "
   },
-  "টাঙ": {
-    "name": "টাঙ্গাইল"
+  "DIN": {
+    "name": "Dinajpur"
   },
-  "ঠাক": {
-    "name": "ঠাকুরগাঁ"
+  "FAR": {
+    "name": "Faridpur"
   },
-  "ঢাক": {
-    "name": "ঢাকা"
+  "FEN": {
+    "name": "Feni"
   },
-  "দিন": {
-    "name": "দিনাজপুর"
+  "GAI": {
+    "name": "Gaibandha"
   },
-  "নওগ": {
-    "name": "নওগাঁ"
+  "GAZ": {
+    "name": "Gazipur"
   },
-  "নওয": {
-    "name": "নওয়াবগঞ্জ"
+  "GOP": {
+    "name": "Gopalganj"
   },
-  "নড়": {
-    "name": "নড়াইল"
+  "HAB": {
+    "name": "Habiganj"
   },
-  "নরস": {
-    "name": "নরসিংদী"
+  "JAM": {
+    "name": "Jamalpur"
   },
-  "নাট": {
-    "name": "নাটোর"
+  "JAS": {
+    "name": "Jashore"
   },
-  "নার": {
-    "name": "নারায়ণগঞ্জ"
+  "JHA": {
+    "name": "Jhalakathi"
   },
-  "নীল": {
-    "name": "নীলফামারী"
+  "JHE": {
+    "name": "Jhenaidah"
   },
-  "নেত": {
-    "name": "নেত্রকোনা"
+  "JOY": {
+    "name": "Joypurhat"
   },
-  "নোয": {
-    "name": "নোয়াখালী"
+  "KHA": {
+    "name": "Khagrachhari"
   },
-  "পঞ্": {
-    "name": "পঞ্চগড়"
+  "KHU": {
+    "name": "Khulna"
   },
-  "পটু": {
-    "name": "পটুয়াখালী"
+  "D": {
+    "name": "Khulna "
   },
-  "পাব": {
-    "name": "পাবনা"
+  "KIS": {
+    "name": "Kishoreganj"
   },
-  "পির": {
-    "name": "পিরোজপুর"
+  "KUR": {
+    "name": "Kurigram"
   },
-  "ফরি": {
-    "name": "ফরিদপুর"
+  "KUS": {
+    "name": "Kushtia"
   },
-  "ফেন": {
-    "name": "ফেনী"
+  "LAK": {
+    "name": "Lakshmipur"
   },
-  "বগু": {
-    "name": "বগুড়া"
+  "LAL": {
+    "name": "Lalmonirhat"
   },
-  "বরগ": {
-    "name": "বরগুনা"
+  "MAD": {
+    "name": "Madaripur"
   },
-  "বরি": {
-    "name": "বরিশাল"
+  "MAG": {
+    "name": "Magura"
   },
-  "বাগ": {
-    "name": "বাগেরহাট"
+  "MAN": {
+    "name": "Manikganj"
   },
-  "বান": {
-    "name": "বান্দরবান"
+  "MEH": {
+    "name": "Meherpur"
   },
-  "ব্র": {
-    "name": "ব্রাহ্মণবাড়ীয়া"
+  "MOU": {
+    "name": "Moulvibazar"
   },
-  "ভোল": {
-    "name": "ভোলা"
+  "MUN": {
+    "name": "Munshiganj"
   },
-  "ময়": {
-    "name": "ময়মনসিংহ"
+  "MYM": {
+    "name": "Mymensingh"
   },
-  "মাগ": {
-    "name": "মাগুরা"
+  "H": {
+    "name": "Mymensingh "
   },
-  "মাদ": {
-    "name": "মাদারীপুর"
+  "NAO": {
+    "name": "Naogaon"
   },
-  "মান": {
-    "name": "মানিকগঞ্জ"
+  "NAR": {
+    "name": "Narail"
   },
-  "মুন": {
-    "name": "মুন্সীগঞ্জ"
+  "NARA": {
+    "name": "Narayanganj"
   },
-  "মেহ": {
-    "name": "মেহেরপুর"
+  "NARS": {
+    "name": "Narsingdi"
   },
-  "মৌল": {
-    "name": "মৌলভীবাজার"
+  "NAT": {
+    "name": "Natore"
   },
-  "যশো": {
-    "name": "যশোর"
+  "NET": {
+    "name": "Netrakona"
   },
-  "রংপ": {
-    "name": "রংপুর"
+  "NIL": {
+    "name": "Nilphamari"
   },
-  "রাঙ": {
-    "name": "রাঙ্গামাটি"
+  "NOA": {
+    "name": "Noakhali"
   },
-  "রাজ": {
-    "name": "রাজশাহী"
+  "PAB": {
+    "name": "Pabna"
   },
-  "লক্": {
-    "name": "লক্ষীপুর"
+  "PAN": {
+    "name": "Panchagarh"
   },
-  "লাল": {
-    "name": "লালমনিরহাট"
+  "PAT": {
+    "name": "Patuakhali"
   },
-  "শরী": {
-    "name": "শরীয়তপুর"
+  "PIR": {
+    "name": "Pirojpur"
   },
-  "শের": {
-    "name": "শেরপুর"
+  "RAJ": {
+    "name": "Rajbari"
   },
-  "সাত": {
-    "name": "সাতক্ষিরা"
+  "RAJS": {
+    "name": "Rajshahi"
   },
-  "সির": {
-    "name": "সিরাজগঞ্জ"
+  "E": {
+    "name": "Rajshahi "
   },
-  "সিল": {
-    "name": "সিলেট"
+  "RAN": {
+    "name": "Rangamati"
   },
-  "সুন": {
-    "name": "সুনামগঞ্জ"
+  "F": {
+    "name": "Rangpur "
   },
-  "হবি": {
-    "name": "হবিগঞ্জ"
+  "RANG": {
+    "name": "Rangpur"
+  },
+  "SAT": {
+    "name": "Satkhira"
+  },
+  "SHA": {
+    "name": "Shariatpur"
+  },
+  "SHE": {
+    "name": "Sherpur"
+  },
+  "SIR": {
+    "name": "Sirajganj"
+  },
+  "SUN": {
+    "name": "Sunamganj"
+  },
+  "G": {
+    "name": "Sylhet "
+  },
+  "SYL": {
+    "name": "Sylhet"
+  },
+  "TAN": {
+    "name": "Tangail"
+  },
+  "THA": {
+    "name": "Thakurgaon"
   }
 }

@@ -1,15 +1,18 @@
 {
+  "BM": {
+    "name": "Bomi"
+  },
   "BG": {
     "name": "Bong"
   },
-  "BI": {
-    "name": "Bomi"
-  },
-  "CM": {
-    "name": "Grand Cape Mount"
+  "GP": {
+    "name": "Gbarpolu"
   },
   "GB": {
     "name": "Grand Bassa"
+  },
+  "CM": {
+    "name": "Grand Cape Mount"
   },
   "GG": {
     "name": "Grand Gedeh"
@@ -23,16 +26,19 @@
   "MG": {
     "name": "Margibi"
   },
-  "ML": {
+  "MY": {
     "name": "Maryland"
   },
-  "MS": {
+  "MO": {
     "name": "Montserrado"
   },
   "NI": {
     "name": "Nimba"
   },
   "RI": {
+    "name": "River Cess"
+  },
+  "RG": {
     "name": "River Gee"
   },
   "SI": {

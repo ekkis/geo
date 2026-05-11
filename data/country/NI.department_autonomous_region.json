@@ -1,10 +1,4 @@
 {
-  "AN": {
-    "name": "Atlántico Norte"
-  },
-  "AS": {
-    "name": "Atlántico Sur"
-  },
   "BO": {
     "name": "Boaco"
   },
@@ -41,13 +35,19 @@
   "MT": {
     "name": "Matagalpa"
   },
+  "AN": {
+    "name": "North Caribbean Coast"
+  },
   "NS": {
     "name": "Nueva Segovia"
   },
-  "RS": {
+  "SJ": {
+    "name": "Río San Juan"
+  },
+  "RI": {
     "name": "Rivas"
   },
-  "SJ": {
-    "name": "San José"
+  "AS": {
+    "name": "South Caribbean Coast"
   }
 }

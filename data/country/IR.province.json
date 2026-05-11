@@ -1,1 +1,95 @@
-{}
+{
+  "ALB": {
+    "name": "Alborz"
+  },
+  "ARD": {
+    "name": "Ardabil"
+  },
+  "BUS": {
+    "name": "Bushehr"
+  },
+  "CHA": {
+    "name": "Chaharmahal and Bakhtiari"
+  },
+  "EAS": {
+    "name": "East Azerbaijan"
+  },
+  "FAR": {
+    "name": "Fars"
+  },
+  "GIL": {
+    "name": "Gilan"
+  },
+  "GOL": {
+    "name": "Golestan"
+  },
+  "HAM": {
+    "name": "Hamadan"
+  },
+  "HOR": {
+    "name": "Hormozgan"
+  },
+  "ILA": {
+    "name": "Ilam"
+  },
+  "ISF": {
+    "name": "Isfahan"
+  },
+  "KER": {
+    "name": "Kerman"
+  },
+  "KERM": {
+    "name": "Kermanshah"
+  },
+  "KHU": {
+    "name": "Khuzestan"
+  },
+  "KOH": {
+    "name": "Kohgiluyeh and Boyer-Ahmad"
+  },
+  "KUR": {
+    "name": "Kurdistan"
+  },
+  "LOR": {
+    "name": "Lorestan"
+  },
+  "MAR": {
+    "name": "Markazi"
+  },
+  "MAZ": {
+    "name": "Mazandaran"
+  },
+  "NOR": {
+    "name": "North Khorasan"
+  },
+  "QAZ": {
+    "name": "Qazvin"
+  },
+  "QOM": {
+    "name": "Qom"
+  },
+  "RAZ": {
+    "name": "Razavi Khorasan"
+  },
+  "SEM": {
+    "name": "Semnan"
+  },
+  "SIS": {
+    "name": "Sistan and Baluchestan"
+  },
+  "SOU": {
+    "name": "South Khorasan"
+  },
+  "TEH": {
+    "name": "Tehran"
+  },
+  "WES": {
+    "name": "West Azarbaijan"
+  },
+  "YAZ": {
+    "name": "Yazd"
+  },
+  "ZAN": {
+    "name": "Zanjan"
+  }
+}

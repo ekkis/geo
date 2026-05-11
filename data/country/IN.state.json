@@ -1,101 +1,107 @@
 {
-  "AA": {
+  "AN": {
     "name": "Andaman and Nicobar Islands"
   },
   "AP": {
+    "name": "Andhra Pradesh"
+  },
+  "AR": {
     "name": "Arunachal Pradesh"
   },
-  "ASS": {
+  "AS": {
     "name": "Assam"
   },
-  "BIH": {
+  "BR": {
     "name": "Bihar"
   },
-  "CHA": {
+  "CH": {
     "name": "Chandigarh"
   },
-  "CHH": {
+  "CT": {
     "name": "Chhattisgarh"
   },
-  "DA": {
-    "name": "Daman and Diu"
+  "DH": {
+    "name": "Dadra and Nagar Haveli and Daman and Diu"
   },
-  "GOA": {
+  "DL": {
+    "name": "Delhi"
+  },
+  "GA": {
     "name": "Goa"
   },
-  "GUJ": {
+  "GJ": {
     "name": "Gujarat"
   },
-  "HAR": {
+  "HR": {
     "name": "Haryana"
   },
   "HP": {
     "name": "Himachal Pradesh"
   },
-  "JA": {
+  "JK": {
     "name": "Jammu and Kashmir"
   },
-  "JHA": {
+  "JH": {
     "name": "Jharkhand"
   },
-  "KAR": {
+  "KA": {
     "name": "Karnataka"
   },
-  "KER": {
+  "KL": {
     "name": "Kerala"
   },
-  "LAK": {
+  "LA": {
+    "name": "Ladakh"
+  },
+  "LD": {
     "name": "Lakshadweep"
-  },
-  "MAH": {
-    "name": "Maharashtra"
-  },
-  "MAN": {
-    "name": "Manipur"
-  },
-  "MEG": {
-    "name": "Meghalaya"
-  },
-  "MIZ": {
-    "name": "Mizoram"
   },
   "MP": {
     "name": "Madhya Pradesh"
   },
-  "NAG": {
+  "MH": {
+    "name": "Maharashtra"
+  },
+  "MN": {
+    "name": "Manipur"
+  },
+  "ML": {
+    "name": "Meghalaya"
+  },
+  "MZ": {
+    "name": "Mizoram"
+  },
+  "NL": {
     "name": "Nagaland"
   },
-  "NC": {
-    "name": "National Capital Territory of Delhi"
-  },
-  "ODI": {
+  "OR": {
     "name": "Odisha"
   },
-  "PUD": {
+  "PY": {
     "name": "Puducherry"
   },
-  "PUN": {
+  "PB": {
     "name": "Punjab"
   },
-  "RAJ": {
+  "RJ": {
     "name": "Rajasthan"
   },
-  "SIK": {
+  "SK": {
     "name": "Sikkim"
-  },
-  "TEL": {
-    "name": "Telangana"
   },
   "TN": {
     "name": "Tamil Nadu"
   },
-  "TRI": {
+  "TG": {
+    "name": "Telangana"
+  },
+  "TR": {
     "name": "Tripura"
   },
   "UP": {
     "name": "Uttar Pradesh"
   },
-  "UTT": {
+  "UK": {
     "name": "Uttarakhand"
   },
   "WB": {

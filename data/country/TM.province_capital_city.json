@@ -1,32 +1,20 @@
 {
-  "Ahal": {
-    "AHAL": {
-      "name": "Ahal"
-    }
+  "A": {
+    "name": "Ahal"
   },
-  "Ashgabat": {
-    "ASH": {
-      "name": "Ashgabat"
-    }
+  "S": {
+    "name": "Ashgabat"
   },
-  "Balkan": {
-    "BALK": {
-      "name": "Balkan"
-    }
+  "B": {
+    "name": "Balkan"
   },
-  "Dashoguz": {
-    "DASH": {
-      "name": "Dashoguz"
-    }
+  "D": {
+    "name": "Daşoguz"
   },
-  "Lebap": {
-    "LEBA": {
-      "name": "Lebap"
-    }
+  "L": {
+    "name": "Lebap"
   },
-  "Mary": {
-    "MARY": {
-      "name": "Mary"
-    }
+  "M": {
+    "name": "Mary"
   }
 }

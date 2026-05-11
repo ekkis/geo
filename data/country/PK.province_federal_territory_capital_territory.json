@@ -1,95 +1,23 @@
 {
-  "AK": {
+  "JK": {
     "name": "Azad Kashmir"
   },
-  "BAH": {
-    "name": "Bahawalpur"
+  "BA": {
+    "name": "Balochistan"
   },
-  "BAN": {
-    "name": "Bannu"
+  "GB": {
+    "name": "Gilgit-Baltistan"
   },
-  "DG": {
-    "name": "Dera Ghazi Khan"
-  },
-  "DI": {
-    "name": "Dera Ismail Khan"
-  },
-  "FA": {
-    "name": "Federally Administered Tribal Areas"
-  },
-  "FAI": {
-    "name": "Faisalabad"
-  },
-  "GUJ": {
-    "name": "Gujranwala"
-  },
-  "HAZ": {
-    "name": "Hazara"
-  },
-  "HYD": {
-    "name": "Hyderabad"
-  },
-  "ISL": {
+  "IS": {
     "name": "Islamabad"
   },
-  "KAL": {
-    "name": "Kalat"
+  "KP": {
+    "name": "Khyber Pakhtunkhwa"
   },
-  "KAR": {
-    "name": "Karachi"
+  "PB": {
+    "name": "Punjab"
   },
-  "KOH": {
-    "name": "Kohat"
-  },
-  "LAH": {
-    "name": "Lahore"
-  },
-  "LAR": {
-    "name": "Larkana"
-  },
-  "MAK": {
-    "name": "Makran"
-  },
-  "MAL": {
-    "name": "Malakand"
-  },
-  "MAR": {
-    "name": "Mardan"
-  },
-  "MK": {
-    "name": "Mirpur Khas"
-  },
-  "MUL": {
-    "name": "Multan"
-  },
-  "NA": {
-    "name": "Northern Areas"
-  },
-  "NAS": {
-    "name": "Nasirabad"
-  },
-  "PES": {
-    "name": "Peshawar"
-  },
-  "QUE": {
-    "name": "Quetta"
-  },
-  "RAW": {
-    "name": "Rawalpindi"
-  },
-  "SAH": {
-    "name": "Sahiwal"
-  },
-  "SAR": {
-    "name": "Sargodha"
-  },
-  "SIB": {
-    "name": "Sibi"
-  },
-  "SUK": {
-    "name": "Sukkur"
-  },
-  "ZHO": {
-    "name": "Zhob"
+  "SD": {
+    "name": "Sindh"
   }
 }

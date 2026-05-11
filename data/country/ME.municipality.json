@@ -1,57 +1,77 @@
 {
-  "Bar": {
-    "BAR": {
-      "name": "Bar"
-    }
+  "AND": {
+    "name": "Andrijevica"
   },
-  "Bijelo Polje": {
-    "BIJPO": {
-      "name": "Bijelo Polje"
-    }
+  "BAR": {
+    "name": "Bar"
   },
-  "Cetinje": {
-    "CET": {
-      "name": "Cetinje"
-    }
+  "BER": {
+    "name": "Berane"
   },
-  "Danilovgrad": {
-    "DAN": {
-      "name": "Danilovgrad"
-    }
+  "BIJPO": {
+    "name": "Bijelo Polje"
   },
-  "Herceg Novi": {
-    "HERNO": {
-      "name": "Herceg Novi"
-    }
+  "BUD": {
+    "name": "Budva"
   },
-  "Nikšić": {
-    "NIK": {
-      "name": "Nikšić"
-    }
+  "DAN": {
+    "name": "Danilovgrad"
   },
-  "Pljevlja": {
-    "PLJ": {
-      "name": "Pljevlja"
-    }
+  "GUS": {
+    "name": "Gusinje"
   },
-  "Podgorica": {
-    "POD": {
-      "name": "Podgorica"
-    }
+  "HER": {
+    "name": "Herceg-Novi"
   },
-  "Rožaje": {
-    "ROZ": {
-      "name": "Rožaje"
-    }
+  "KOL": {
+    "name": "Kolašin"
   },
-  "Šavnik": {
-    "SAV": {
-      "name": "Šavnik"
-    }
+  "KOT": {
+    "name": "Kotor"
   },
-  "Ulcinj": {
-    "ULC": {
-      "name": "Ulcinj"
-    }
+  "MOJ": {
+    "name": "Mojkovac"
+  },
+  "NIK": {
+    "name": "Nikšić"
+  },
+  "OLD": {
+    "name": "Old Royal Capital Cetinje"
+  },
+  "PET": {
+    "name": "Petnjica"
+  },
+  "PLA": {
+    "name": "Plav"
+  },
+  "PLJ": {
+    "name": "Pljevlja"
+  },
+  "PLU": {
+    "name": "Plužine"
+  },
+  "POD": {
+    "name": "Podgorica"
+  },
+  "ROZ": {
+    "name": "Rožaje"
+  },
+  "SAV": {
+    "name": "Šavnik"
+  },
+  "TIV": {
+    "name": "Tivat"
+  },
+  "TUZ": {
+    "name": "Tuzi"
+  },
+  "ULC": {
+    "name": "Ulcinj"
+  },
+  "ZAB": {
+    "name": "Žabljak"
+  },
+  "ZET": {
+    "name": "Zeta"
   }
 }

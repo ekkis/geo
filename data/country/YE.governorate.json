@@ -1,1 +1,68 @@
-{}
+{
+  "AB": {
+    "name": "Abyan"
+  },
+  "DA": {
+    "name": "Ad Dali'"
+  },
+  "AD": {
+    "name": "Adan"
+  },
+  "BA": {
+    "name": "Al Bayda'"
+  },
+  "HU": {
+    "name": "Al Hudaydah"
+  },
+  "JA": {
+    "name": "Al Jawf"
+  },
+  "MR": {
+    "name": "Al Mahrah"
+  },
+  "MW": {
+    "name": "Al Mahwit"
+  },
+  "SA": {
+    "name": "Amanat Al Asimah"
+  },
+  "AM": {
+    "name": "Amran"
+  },
+  "DH": {
+    "name": "Dhamar"
+  },
+  "HD": {
+    "name": "Hadhramaut"
+  },
+  "HJ": {
+    "name": "Hajjah"
+  },
+  "IB": {
+    "name": "Ibb"
+  },
+  "LA": {
+    "name": "Lahij"
+  },
+  "MA": {
+    "name": "Ma'rib"
+  },
+  "RA": {
+    "name": "Raymah"
+  },
+  "SD": {
+    "name": "Saada"
+  },
+  "SN": {
+    "name": "Sana'a"
+  },
+  "SH": {
+    "name": "Shabwah"
+  },
+  "SU": {
+    "name": "Socotra"
+  },
+  "TA": {
+    "name": "Ta'izz"
+  }
+}

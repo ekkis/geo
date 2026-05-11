@@ -1,1 +1,50 @@
-{}
+{
+  "AF": {
+    "name": "Ahafo"
+  },
+  "AH": {
+    "name": "Ashanti"
+  },
+  "BO": {
+    "name": "Bono"
+  },
+  "BE": {
+    "name": "Bono East"
+  },
+  "CP": {
+    "name": "Central"
+  },
+  "EP": {
+    "name": "Eastern"
+  },
+  "AA": {
+    "name": "Greater Accra"
+  },
+  "NE": {
+    "name": "North East"
+  },
+  "NP": {
+    "name": "Northern"
+  },
+  "OT": {
+    "name": "Oti"
+  },
+  "SV": {
+    "name": "Savannah"
+  },
+  "UE": {
+    "name": "Upper East"
+  },
+  "UW": {
+    "name": "Upper West"
+  },
+  "TV": {
+    "name": "Volta"
+  },
+  "WP": {
+    "name": "Western"
+  },
+  "WN": {
+    "name": "Western North"
+  }
+}

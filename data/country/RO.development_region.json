@@ -1,207 +1,128 @@
 {
-  "Alba": {
-    "ALB": {
-      "name": "Alba"
-    }
+  "AB": {
+    "name": "Alba"
   },
-  "Arad": {
-    "ARA": {
-      "name": "Arad"
-    }
+  "AR": {
+    "name": "Arad"
   },
-  "Argeș": {
-    "ARG": {
-      "name": "Argeș"
-    }
+  "AG": {
+    "name": "Arges"
   },
-  "Bacău": {
-    "BAC": {
-      "name": "Bacău"
-    }
+  "BC": {
+    "name": "Bacău"
   },
-  "Bihor": {
-    "BIH": {
-      "name": "Bihor"
-    }
+  "BH": {
+    "name": "Bihor"
   },
-  "Bistrița-Năsăud": {
-    "BIS": {
-      "name": "Bistrița-Năsăud"
-    }
+  "BN": {
+    "name": "Bistrița-Năsăud"
   },
-  "Botoșani": {
-    "BOT": {
-      "name": "Botoșani"
-    }
+  "BT": {
+    "name": "Botoșani"
   },
-  "Brașov": {
-    "BRA": {
-      "name": "Brașov"
-    }
+  "BR": {
+    "name": "Braila"
   },
-  "Brăila": {
-    "BRA1": {
-      "name": "Brăila"
-    }
+  "BV": {
+    "name": "Brașov"
   },
-  "Buzău": {
-    "BUZ": {
-      "name": "Buzău"
-    }
+  "B": {
+    "name": "Bucharest"
   },
-  "Călărași": {
-    "CAL": {
-      "name": "Călărași"
-    }
+  "BZ": {
+    "name": "Buzău"
   },
-  "Caraș-Severin": {
-    "CAR": {
-      "name": "Caraș-Severin"
-    }
+  "CL": {
+    "name": "Călărași"
   },
-  "Cluj": {
-    "CLU": {
-      "name": "Cluj"
-    }
+  "CS": {
+    "name": "Caraș-Severin"
   },
-  "Constanța": {
-    "CON": {
-      "name": "Constanța"
-    }
+  "CJ": {
+    "name": "Cluj"
   },
-  "Covasna": {
-    "COV": {
-      "name": "Covasna"
-    }
+  "CT": {
+    "name": "Constanța"
   },
-  "Dâmbovița": {
-    "DAM": {
-      "name": "Dâmbovița"
-    }
+  "CV": {
+    "name": "Covasna"
   },
-  "Dolj": {
-    "DOL": {
-      "name": "Dolj"
-    }
+  "DB": {
+    "name": "Dâmbovița"
   },
-  "Galați": {
-    "GAL": {
-      "name": "Galați"
-    }
+  "DJ": {
+    "name": "Dolj"
   },
-  "Giurgiu": {
-    "GIU": {
-      "name": "Giurgiu"
-    }
+  "GL": {
+    "name": "Galați"
   },
-  "Gorj": {
-    "GOR": {
-      "name": "Gorj"
-    }
+  "GR": {
+    "name": "Giurgiu"
   },
-  "Harghita": {
-    "HAR": {
-      "name": "Harghita"
-    }
+  "GJ": {
+    "name": "Gorj"
   },
-  "Hunedoara": {
-    "HUN": {
-      "name": "Hunedoara"
-    }
+  "HR": {
+    "name": "Harghita"
   },
-  "Ialomița": {
-    "IAL": {
-      "name": "Ialomița"
-    }
+  "HD": {
+    "name": "Hunedoara"
   },
-  "Iași": {
-    "IAS": {
-      "name": "Iași"
-    }
+  "IL": {
+    "name": "Ialomița"
   },
-  "Ilfov": {
-    "ILF": {
-      "name": "Ilfov"
-    }
+  "IS": {
+    "name": "Iași"
   },
-  "Maramureș": {
-    "MAR": {
-      "name": "Maramureș"
-    }
+  "IF": {
+    "name": "Ilfov"
   },
-  "Mehedinți": {
-    "MEH": {
-      "name": "Mehedinți"
-    }
+  "MM": {
+    "name": "Maramureș"
   },
-  "Mureș": {
-    "MUR": {
-      "name": "Mureș"
-    }
+  "MH": {
+    "name": "Mehedinți"
   },
-  "Neamț": {
-    "NEA": {
-      "name": "Neamț"
-    }
+  "MS": {
+    "name": "Mureș"
   },
-  "Olt": {
-    "OLT": {
-      "name": "Olt"
-    }
+  "NT": {
+    "name": "Neamț"
   },
-  "Prahova": {
-    "PRA": {
-      "name": "Prahova"
-    }
+  "OT": {
+    "name": "Olt"
   },
-  "Sălaj": {
-    "SAL": {
-      "name": "Sălaj"
-    }
+  "PH": {
+    "name": "Prahova"
   },
-  "Satu Mare": {
-    "SATMA": {
-      "name": "Satu Mare"
-    }
+  "SJ": {
+    "name": "Sălaj"
   },
-  "Sibiu": {
-    "SIB": {
-      "name": "Sibiu"
-    }
+  "SM": {
+    "name": "Satu Mare"
   },
-  "Suceava": {
-    "SUC": {
-      "name": "Suceava"
-    }
+  "SB": {
+    "name": "Sibiu"
   },
-  "Teleorman": {
-    "TEL": {
-      "name": "Teleorman"
-    }
+  "SV": {
+    "name": "Suceava"
   },
-  "Timiș": {
-    "TIM": {
-      "name": "Timiș"
-    }
+  "TR": {
+    "name": "Teleorman"
   },
-  "Tulcea": {
-    "TUL": {
-      "name": "Tulcea"
-    }
+  "TM": {
+    "name": "Timiș"
   },
-  "Vâlcea": {
-    "VAL": {
-      "name": "Vâlcea"
-    }
+  "TL": {
+    "name": "Tulcea"
   },
-  "Vaslui": {
-    "VAS": {
-      "name": "Vaslui"
-    }
+  "VL": {
+    "name": "Vâlcea"
   },
-  "Vrancea": {
-    "VRA": {
-      "name": "Vrancea"
-    }
+  "VS": {
+    "name": "Vaslui"
+  },
+  "VN": {
+    "name": "Vrancea"
   }
 }

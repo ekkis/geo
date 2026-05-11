@@ -1,0 +1,144 @@
+{
+  "BOU": [
+    {
+      "id": 17345,
+      "name": "Kayes",
+      "latitude": "-4.20493000",
+      "longitude": "13.28608000",
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "id": 17348,
+      "name": "Madingou",
+      "latitude": "-4.15361000",
+      "longitude": "13.55000000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "BZV": [
+    {
+      "id": 17339,
+      "name": "Brazzaville",
+      "latitude": "-4.26613000",
+      "longitude": "15.28318000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "CUV": [
+    {
+      "id": 17349,
+      "name": "Makoua",
+      "latitude": "0.00694000",
+      "longitude": "15.63333000",
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "id": 17352,
+      "name": "Owando",
+      "latitude": "-0.48193000",
+      "longitude": "15.89988000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "CO": [
+    {
+      "id": 17342,
+      "name": "Ewo",
+      "latitude": "-0.87250000",
+      "longitude": "14.82056000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "KOU": [],
+  "LEK": [
+    {
+      "id": 17354,
+      "name": "Sibiti",
+      "latitude": "-3.68192000",
+      "longitude": "13.34985000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "LIK": [
+    {
+      "id": 17344,
+      "name": "Impfondo",
+      "latitude": "1.61804000",
+      "longitude": "18.05981000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "NIA": [
+    {
+      "id": 17341,
+      "name": "Dolisie",
+      "latitude": "-4.19834000",
+      "longitude": "12.66664000",
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "id": 17350,
+      "name": "Mossendjo",
+      "latitude": "-2.94968000",
+      "longitude": "12.70423000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "PLA": [
+    {
+      "id": 17340,
+      "name": "Djambala",
+      "latitude": "-2.54472000",
+      "longitude": "14.75333000",
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "id": 17343,
+      "name": "Gamboma",
+      "latitude": "-1.87639000",
+      "longitude": "15.86444000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "POI": [
+    {
+      "id": 17347,
+      "name": "Loandjili",
+      "latitude": "-4.75611000",
+      "longitude": "11.85778000",
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "id": 17353,
+      "name": "Pointe-Noire",
+      "latitude": "-4.77609000",
+      "longitude": "11.86352000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "POO": [
+    {
+      "id": 17346,
+      "name": "Kinkala",
+      "latitude": "-4.36139000",
+      "longitude": "14.76444000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ],
+  "SAN": [
+    {
+      "id": 17351,
+      "name": "Ouésso",
+      "latitude": "1.61361000",
+      "longitude": "16.05167000",
+      "timezone": "Africa/Brazzaville"
+    },
+    {
+      "id": 17355,
+      "name": "Sémbé",
+      "latitude": "1.64806000",
+      "longitude": "14.58056000",
+      "timezone": "Africa/Brazzaville"
+    }
+  ]
+}

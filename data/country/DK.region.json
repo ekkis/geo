@@ -1,19 +1,17 @@
 {
-  "Denmark": {
-    "HOV": {
-      "name": "Hovedstaden"
-    },
-    "MID": {
-      "name": "Midtjylland"
-    },
-    "NOR": {
-      "name": "Nordjylland"
-    },
-    "SJÆ": {
-      "name": "Sjælland"
-    },
-    "SYD": {
-      "name": "Syddanmark"
-    }
+  "CEN": {
+    "name": "Central Denmark"
+  },
+  "DEN": {
+    "name": "Denmark"
+  },
+  "NOR": {
+    "name": "North Denmark"
+  },
+  "SOU": {
+    "name": "Southern Denmark"
+  },
+  "ZEA": {
+    "name": "Zealand"
   }
 }

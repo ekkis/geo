@@ -2,25 +2,64 @@
   "AAD": {
     "name": "Addu"
   },
-  "FUA": {
-    "name": "Fua Mulah"
+  "ALI": {
+    "name": "Alif Alif"
+  },
+  "AD": {
+    "name": "Alif Dhaal"
+  },
+  "BAA": {
+    "name": "Baa"
+  },
+  "DHA": {
+    "name": "Dhaalu"
+  },
+  "FAA": {
+    "name": "Faafu"
+  },
+  "GAA": {
+    "name": "Gaafu Alif"
+  },
+  "GD": {
+    "name": "Gaafu Dhaalu"
+  },
+  "GNA": {
+    "name": "Gnaviyani"
+  },
+  "HAA": {
+    "name": "Haa Alif"
   },
   "HA": {
     "name": "Haa Dhaalu"
   },
-  "K": {
-    "name": "Kolhumadulu"
+  "KAA": {
+    "name": "Kaafu"
   },
-  "MUA": {
-    "name": "Muizzu"
+  "LAA": {
+    "name": "Laamu"
   },
-  "N": {
-    "name": "North Province"
+  "LHA": {
+    "name": "Lhaviyani"
   },
-  "S": {
-    "name": "South Province"
+  "MLE": {
+    "name": "Malé"
   },
-  "TH": {
-    "name": "Thiladhunmathi"
+  "MEE": {
+    "name": "Meemu"
+  },
+  "NOO": {
+    "name": "Noonu"
+  },
+  "RAA": {
+    "name": "Raa"
+  },
+  "SHA": {
+    "name": "Shaviyani"
+  },
+  "THA": {
+    "name": "Thaa"
+  },
+  "VAA": {
+    "name": "Vaavu"
   }
 }

@@ -11,6 +11,9 @@
   "ATL": {
     "name": "Atlántico"
   },
+  "DC": {
+    "name": "Bogotá D.C."
+  },
   "BOL": {
     "name": "Bolívar"
   },
@@ -40,9 +43,6 @@
   },
   "CUN": {
     "name": "Cundinamarca"
-  },
-  "DC": {
-    "name": "Distrito Capital"
   },
   "GUA": {
     "name": "Guainía"
@@ -77,16 +77,25 @@
   "RIS": {
     "name": "Risaralda"
   },
+  "SAP": {
+    "name": "San Andrés, Providencia y Santa Catalina"
+  },
   "SAN": {
     "name": "Santander"
-  },
-  "SAP": {
-    "name": "San Andrés y Providencia"
   },
   "SUC": {
     "name": "Sucre"
   },
   "TOL": {
     "name": "Tolima"
+  },
+  "VAC": {
+    "name": "Valle del Cauca"
+  },
+  "VAU": {
+    "name": "Vaupés"
+  },
+  "VID": {
+    "name": "Vichada"
   }
 }

@@ -1,32 +1,32 @@
 {
-  "B": {
+  "D": {
     "name": "Berea"
   },
-  "C": {
+  "B": {
     "name": "Butha-Buthe"
   },
-  "G": {
+  "C": {
     "name": "Leribe"
   },
-  "H": {
+  "E": {
     "name": "Mafeteng"
+  },
+  "A": {
+    "name": "Maseru"
+  },
+  "F": {
+    "name": "Mohale's Hoek"
+  },
+  "J": {
+    "name": "Mokhotlong"
+  },
+  "H": {
+    "name": "Qacha's Nek"
+  },
+  "G": {
+    "name": "Quthing"
   },
   "K": {
     "name": "Thaba-Tseka"
-  },
-  "M": {
-    "name": "Maseru"
-  },
-  "N": {
-    "name": "Mohale's Hoek"
-  },
-  "P": {
-    "name": "Mokhotlong"
-  },
-  "S": {
-    "name": "Qacha's Nek"
-  },
-  "T": {
-    "name": "Quthing"
   }
 }

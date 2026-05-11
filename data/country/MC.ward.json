@@ -1,22 +1,53 @@
 {
-  "Fontvieille": {
-    "FON": {
-      "name": "Fontvieille"
-    }
+  "FO": {
+    "name": "Fontvieille"
   },
-  "La Condamine": {
-    "LACON": {
-      "name": "La Condamine"
-    }
+  "JE": {
+    "name": "Jardin Exotique"
   },
-  "Monaco-Ville": {
-    "MON": {
-      "name": "Monaco-Ville"
-    }
+  "CL": {
+    "name": "La Colle"
   },
-  "Monte Carlo": {
-    "MONCA": {
-      "name": "Monte Carlo"
-    }
+  "CO": {
+    "name": "La Condamine"
+  },
+  "GA": {
+    "name": "La Gare"
+  },
+  "SO": {
+    "name": "La Source"
+  },
+  "LA": {
+    "name": "Larvotto"
+  },
+  "MA": {
+    "name": "Malbousquet"
+  },
+  "MO": {
+    "name": "Monaco-Ville"
+  },
+  "MG": {
+    "name": "Moneghetti"
+  },
+  "MC": {
+    "name": "Monte-Carlo"
+  },
+  "MU": {
+    "name": "Moulins"
+  },
+  "PH": {
+    "name": "Port-Hercule"
+  },
+  "SR": {
+    "name": "Saint-Roman"
+  },
+  "SD": {
+    "name": "Sainte-Dévote"
+  },
+  "SP": {
+    "name": "Spélugues"
+  },
+  "VR": {
+    "name": "Vallon de la Rousse"
   }
 }

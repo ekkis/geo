@@ -1,1 +1,14 @@
-{}
+{
+  "TRK": {
+    "name": "Chuuk"
+  },
+  "KSA": {
+    "name": "Kosrae"
+  },
+  "PNI": {
+    "name": "Pohnpei"
+  },
+  "YAP": {
+    "name": "Yap"
+  }
+}
