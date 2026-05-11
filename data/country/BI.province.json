@@ -1,1 +1,56 @@
-{}
+{
+  "BB": {
+    "name": "Bubanza"
+  },
+  "BM": {
+    "name": "Bujumbura Mairie"
+  },
+  "BL": {
+    "name": "Bujumbura Rural"
+  },
+  "BR": {
+    "name": "Bururi"
+  },
+  "CA": {
+    "name": "Cankuzo"
+  },
+  "CI": {
+    "name": "Cibitoke"
+  },
+  "GI": {
+    "name": "Gitega"
+  },
+  "KR": {
+    "name": "Karuzi"
+  },
+  "KY": {
+    "name": "Kayanza"
+  },
+  "KI": {
+    "name": "Kirundo"
+  },
+  "MA": {
+    "name": "Makamba"
+  },
+  "MU": {
+    "name": "Muramvya"
+  },
+  "MY": {
+    "name": "Muyinga"
+  },
+  "MW": {
+    "name": "Mwaro"
+  },
+  "NG": {
+    "name": "Ngozi"
+  },
+  "RM": {
+    "name": "Rumonge"
+  },
+  "RT": {
+    "name": "Rutana"
+  },
+  "RY": {
+    "name": "Ruyigi"
+  }
+}

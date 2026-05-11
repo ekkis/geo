@@ -1,0 +1,330 @@
+{
+  "BB": [
+    {
+      "id": 17296,
+      "name": "Bamingui",
+      "latitude": "7.88897000",
+      "longitude": "20.04875000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17329,
+      "name": "Ndélé",
+      "latitude": "8.74287000",
+      "longitude": "20.89108000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "BGF": [
+    {
+      "id": 17298,
+      "name": "Bangui",
+      "latitude": "4.36122000",
+      "longitude": "18.55496000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "BK": [
+    {
+      "id": 17294,
+      "name": "Alindao",
+      "latitude": "5.02667000",
+      "longitude": "21.20876000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17323,
+      "name": "Kembé",
+      "latitude": "4.62275000",
+      "longitude": "21.88645000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17327,
+      "name": "Mobaye",
+      "latitude": "4.31902000",
+      "longitude": "21.17861000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "HM": [
+    {
+      "id": 17331,
+      "name": "Obo",
+      "latitude": "5.39586000",
+      "longitude": "26.49211000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17338,
+      "name": "Zemio",
+      "latitude": "5.03144000",
+      "longitude": "25.13614000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "HK": [
+    {
+      "id": 17313,
+      "name": "Bria",
+      "latitude": "6.54233000",
+      "longitude": "21.98633000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17332,
+      "name": "Ouadda",
+      "latitude": "8.07771000",
+      "longitude": "22.40075000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "KG": [
+    {
+      "id": 17337,
+      "name": "Sibut",
+      "latitude": "5.71801000",
+      "longitude": "19.07389000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "LB": [
+    {
+      "id": 17307,
+      "name": "Boda",
+      "latitude": "4.31887000",
+      "longitude": "17.46953000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17308,
+      "name": "Boganangone",
+      "latitude": "4.73558000",
+      "longitude": "17.14047000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17325,
+      "name": "Mbaiki",
+      "latitude": "3.97145000",
+      "longitude": "17.93352000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17328,
+      "name": "Mongoumba",
+      "latitude": "3.64153000",
+      "longitude": "18.59364000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "HS": [
+    {
+      "id": 17301,
+      "name": "Berberati",
+      "latitude": "4.31211000",
+      "longitude": "15.88948000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17314,
+      "name": "Carnot",
+      "latitude": "4.94273000",
+      "longitude": "15.87735000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17317,
+      "name": "Gamboula",
+      "latitude": "4.11775000",
+      "longitude": "15.13926000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "MB": [
+    {
+      "id": 17297,
+      "name": "Bangassou",
+      "latitude": "4.74132000",
+      "longitude": "22.81838000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17316,
+      "name": "Gambo",
+      "latitude": "4.64816000",
+      "longitude": "22.26331000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17334,
+      "name": "Ouango",
+      "latitude": "4.31325000",
+      "longitude": "22.55524000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17336,
+      "name": "Rafai",
+      "latitude": "5.81012000",
+      "longitude": "24.20305000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "KB": [
+    {
+      "id": 17321,
+      "name": "Kaga Bandoro",
+      "latitude": "6.98961000",
+      "longitude": "19.18744000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "NM": [
+    {
+      "id": 17299,
+      "name": "Baoro",
+      "latitude": "5.66667000",
+      "longitude": "15.96667000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17310,
+      "name": "Bouar",
+      "latitude": "5.93404000",
+      "longitude": "15.59599000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "MP": [
+    {
+      "id": 17303,
+      "name": "Bimbo",
+      "latitude": "4.25671000",
+      "longitude": "18.41583000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17305,
+      "name": "Boali",
+      "latitude": "4.80048000",
+      "longitude": "18.12747000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17315,
+      "name": "Damara",
+      "latitude": "4.96075000",
+      "longitude": "18.70350000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "UK": [
+    {
+      "id": 17295,
+      "name": "Bambari",
+      "latitude": "5.76795000",
+      "longitude": "20.67565000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17318,
+      "name": "Grimari",
+      "latitude": "5.73549000",
+      "longitude": "19.91209000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17319,
+      "name": "Ippy",
+      "latitude": "6.26793000",
+      "longitude": "21.22468000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17324,
+      "name": "Kouango",
+      "latitude": "4.99337000",
+      "longitude": "19.96186000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "AC": [
+    {
+      "id": 17300,
+      "name": "Batangafo",
+      "latitude": "7.30082000",
+      "longitude": "18.28330000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17309,
+      "name": "Bossangoa",
+      "latitude": "6.49263000",
+      "longitude": "17.45518000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17311,
+      "name": "Bouca",
+      "latitude": "6.50734000",
+      "longitude": "18.27670000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17320,
+      "name": "Kabo",
+      "latitude": "7.69937000",
+      "longitude": "18.62903000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "OP": [
+    {
+      "id": 17306,
+      "name": "Bocaranga",
+      "latitude": "6.76546000",
+      "longitude": "15.77873000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17312,
+      "name": "Bozoum",
+      "latitude": "6.31933000",
+      "longitude": "16.37992000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17335,
+      "name": "Paoua",
+      "latitude": "7.24269000",
+      "longitude": "16.44059000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "SE": [
+    {
+      "id": 17330,
+      "name": "Nola",
+      "latitude": "3.52494000",
+      "longitude": "16.04583000",
+      "timezone": "Africa/Bangui"
+    }
+  ],
+  "VK": [
+    {
+      "id": 17304,
+      "name": "Birao",
+      "latitude": "10.28488000",
+      "longitude": "22.78818000",
+      "timezone": "Africa/Bangui"
+    },
+    {
+      "id": 17333,
+      "name": "Ouanda-Djallé",
+      "latitude": "9.05877000",
+      "longitude": "22.42741000",
+      "timezone": "Africa/Bangui"
+    }
+  ]
+}

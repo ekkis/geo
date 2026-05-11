@@ -1,1 +1,32 @@
-{}
+{
+  "ANS": {
+    "name": "Anse la Raye"
+  },
+  "CAN": {
+    "name": "Canaries"
+  },
+  "CAS": {
+    "name": "Castries"
+  },
+  "CHO": {
+    "name": "Choiseul"
+  },
+  "DEN": {
+    "name": "Dennery"
+  },
+  "GRO": {
+    "name": "Gros Islet"
+  },
+  "LAB": {
+    "name": "Laborie"
+  },
+  "MIC": {
+    "name": "Micoud"
+  },
+  "SOU": {
+    "name": "Soufrière"
+  },
+  "VIE": {
+    "name": "Vieux Fort"
+  }
+}

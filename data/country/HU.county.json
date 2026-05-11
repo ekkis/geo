@@ -1,97 +1,131 @@
 {
-  "Bács-Kiskun": {
-    "BAC": {
-      "name": "Bács-Kiskun"
-    }
+  "BK": {
+    "name": "Bács-Kiskun"
   },
-  "Baranya": {
-    "BAR": {
-      "name": "Baranya"
-    }
+  "BA": {
+    "name": "Baranya"
   },
-  "Békés": {
-    "BEK": {
-      "name": "Békés"
-    }
+  "BE": {
+    "name": "Békés"
   },
-  "Borsod-Abaúj-Zemplén": {
-    "BOR": {
-      "name": "Borsod-Abaúj-Zemplén"
-    }
+  "BC": {
+    "name": "Békéscsaba"
   },
-  "Budapest": {
-    "BUD": {
-      "name": "Budapest"
-    }
+  "BZ": {
+    "name": "Borsod-Abaúj-Zemplén"
   },
-  "Fejér": {
-    "FEJ": {
-      "name": "Fejér"
-    }
+  "BU": {
+    "name": "Budapest"
   },
-  "Győr-Moson-Sopron": {
-    "GYO": {
-      "name": "Győr-Moson-Sopron"
-    }
+  "CS": {
+    "name": "Csongrád County"
   },
-  "Hajdú-Bihar": {
-    "HAJ": {
-      "name": "Hajdú-Bihar"
-    }
+  "DE": {
+    "name": "Debrecen"
   },
-  "Heves": {
-    "HEV": {
-      "name": "Heves"
-    }
+  "DU": {
+    "name": "Dunaújváros"
   },
-  "Jász-Nagykun-Szolnok": {
-    "JAS": {
-      "name": "Jász-Nagykun-Szolnok"
-    }
+  "EG": {
+    "name": "Eger"
   },
-  "Komárom-Esztergom": {
-    "KOM": {
-      "name": "Komárom-Esztergom"
-    }
+  "ER": {
+    "name": "Érd"
   },
-  "Nógrád": {
-    "NOG": {
-      "name": "Nógrád"
-    }
+  "FE": {
+    "name": "Fejér County"
   },
-  "Pest": {
-    "PES": {
-      "name": "Pest"
-    }
+  "GY": {
+    "name": "Győr"
   },
-  "Somogy": {
-    "SOM": {
-      "name": "Somogy"
-    }
+  "GS": {
+    "name": "Győr-Moson-Sopron County"
   },
-  "Szabolcs-Szatmár-Bereg": {
-    "SZA": {
-      "name": "Szabolcs-Szatmár-Bereg"
-    }
+  "HB": {
+    "name": "Hajdú-Bihar County"
   },
-  "Tolna": {
-    "TOL": {
-      "name": "Tolna"
-    }
+  "HE": {
+    "name": "Heves County"
   },
-  "Vas": {
-    "VAS": {
-      "name": "Vas"
-    }
+  "HV": {
+    "name": "Hódmezővásárhely"
   },
-  "Veszprém": {
-    "VES": {
-      "name": "Veszprém"
-    }
+  "JN": {
+    "name": "Jász-Nagykun-Szolnok County"
   },
-  "Zala": {
-    "ZAL": {
-      "name": "Zala"
-    }
+  "KV": {
+    "name": "Kaposvár"
+  },
+  "KM": {
+    "name": "Kecskemét"
+  },
+  "KE": {
+    "name": "Komárom-Esztergom"
+  },
+  "MI": {
+    "name": "Miskolc"
+  },
+  "NK": {
+    "name": "Nagykanizsa"
+  },
+  "NO": {
+    "name": "Nógrád County"
+  },
+  "NY": {
+    "name": "Nyíregyháza"
+  },
+  "PS": {
+    "name": "Pécs"
+  },
+  "PE": {
+    "name": "Pest County"
+  },
+  "ST": {
+    "name": "Salgótarján"
+  },
+  "SO": {
+    "name": "Somogy County"
+  },
+  "SN": {
+    "name": "Sopron"
+  },
+  "SZ": {
+    "name": "Szabolcs-Szatmár-Bereg County"
+  },
+  "SD": {
+    "name": "Szeged"
+  },
+  "SF": {
+    "name": "Székesfehérvár"
+  },
+  "SS": {
+    "name": "Szekszárd"
+  },
+  "SK": {
+    "name": "Szolnok"
+  },
+  "SH": {
+    "name": "Szombathely"
+  },
+  "TB": {
+    "name": "Tatabánya"
+  },
+  "TO": {
+    "name": "Tolna County"
+  },
+  "VA": {
+    "name": "Vas County"
+  },
+  "VM": {
+    "name": "Veszprém"
+  },
+  "VE": {
+    "name": "Veszprém County"
+  },
+  "ZA": {
+    "name": "Zala County"
+  },
+  "ZE": {
+    "name": "Zalaegerszeg"
   }
 }

@@ -1,1 +1,20 @@
-{}
+{
+  "BZ": {
+    "name": "Belize"
+  },
+  "CY": {
+    "name": "Cayo"
+  },
+  "CZL": {
+    "name": "Corozal"
+  },
+  "OW": {
+    "name": "Orange Walk"
+  },
+  "SC": {
+    "name": "Stann Creek"
+  },
+  "TOL": {
+    "name": "Toledo"
+  }
+}

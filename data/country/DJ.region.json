@@ -1,1 +1,20 @@
-{}
+{
+  "AS": {
+    "name": "Ali Sabieh"
+  },
+  "AR": {
+    "name": "Arta"
+  },
+  "DI": {
+    "name": "Dikhil"
+  },
+  "DJ": {
+    "name": "Djibouti"
+  },
+  "OB": {
+    "name": "Obock"
+  },
+  "TA": {
+    "name": "Tadjourah"
+  }
+}

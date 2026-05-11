@@ -1,1 +1,59 @@
-{}
+{
+  "AN": {
+    "name": "Al Anbar"
+  },
+  "MU": {
+    "name": "Al Muthanna"
+  },
+  "QA": {
+    "name": "Al-Qādisiyyah"
+  },
+  "BB": {
+    "name": "Babylon"
+  },
+  "BG": {
+    "name": "Baghdad"
+  },
+  "BA": {
+    "name": "Basra"
+  },
+  "DQ": {
+    "name": "Dhi Qar"
+  },
+  "DI": {
+    "name": "Diyala"
+  },
+  "DA": {
+    "name": "Dohuk"
+  },
+  "AR": {
+    "name": "Erbil"
+  },
+  "KR": {
+    "name": "Iqlim Kurdistan"
+  },
+  "KA": {
+    "name": "Karbala"
+  },
+  "KI": {
+    "name": "Kirkuk"
+  },
+  "MA": {
+    "name": "Maysan"
+  },
+  "NA": {
+    "name": "Najaf"
+  },
+  "NI": {
+    "name": "Nineveh"
+  },
+  "SD": {
+    "name": "Saladin"
+  },
+  "SU": {
+    "name": "Sulaymaniyah"
+  },
+  "WA": {
+    "name": "Wasit"
+  }
+}

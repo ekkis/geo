@@ -2,31 +2,40 @@
   "AA": {
     "name": "Addis Ababa"
   },
-  "AR": {
-    "name": "Amhara Region"
+  "AF": {
+    "name": "Afar"
   },
-  "BEN": {
+  "AM": {
+    "name": "Amhara"
+  },
+  "BE": {
     "name": "Benishangul-Gumuz"
   },
   "DD": {
     "name": "Dire Dawa"
   },
-  "GAM": {
+  "GA": {
     "name": "Gambela"
   },
-  "HAR": {
+  "HA": {
     "name": "Harari"
   },
-  "ORO": {
+  "OR": {
     "name": "Oromia"
   },
-  "SN": {
-    "name": "Southern Nations, Nationalities, and Peoples' Region"
+  "SI": {
+    "name": "Sidama"
   },
-  "SOM": {
+  "SO": {
     "name": "Somali"
   },
-  "TR": {
-    "name": "Tigray Region"
+  "SN": {
+    "name": "Southern Nations, Nationalities, and Peoples"
+  },
+  "SW": {
+    "name": "Southwest Ethiopia Peoples"
+  },
+  "TI": {
+    "name": "Tigray"
   }
 }

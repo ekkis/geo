@@ -1,75 +1,38 @@
 {
-  "Drenthe": {
-    "DRE": {
-      "name": "Drenthe"
-    }
+  "DR": {
+    "name": "Drenthe"
   },
-  "Flevoland": {
-    "FLE": {
-      "name": "Flevoland"
-    }
+  "FL": {
+    "name": "Flevoland"
   },
-  "Friesland": {
-    "FRI": {
-      "name": "Friesland"
-    }
+  "FR": {
+    "name": "Friesland"
   },
-  "Gelderland": {
-    "GEL": {
-      "name": "Gelderland"
-    }
+  "GE": {
+    "name": "Gelderland"
   },
-  "Groningen": {
-    "GRO": {
-      "name": "Groningen"
-    }
+  "GR": {
+    "name": "Groningen"
   },
-  "Limburg": {
-    "LIM": {
-      "name": "Limburg"
-    }
+  "LI": {
+    "name": "Limburg"
   },
-  "Noord-Holland": {
-    "NOO": {
-      "name": "Noord-Holland"
-    }
+  "NB": {
+    "name": "North Brabant"
   },
-  "Overijssel": {
-    "OVE": {
-      "name": "Overijssel"
-    }
+  "NH": {
+    "name": "North Holland"
   },
-  "Utrecht": {
-    "UTR": {
-      "name": "Utrecht"
-    }
+  "OV": {
+    "name": "Overijssel"
   },
-  "Zeeland": {
-    "ZEE": {
-      "name": "Zeeland"
-    }
+  "ZH": {
+    "name": "South Holland"
   },
-  "Zuid-Holland": {
-    "ZUI": {
-      "name": "Zuid-Holland"
-    }
+  "UT": {
+    "name": "Utrecht"
   },
-  "ARU": {
-    "name": "Aruba"
-  },
-  "BON": {
-    "name": "Bonaire"
-  },
-  "CUR": {
-    "name": "Curaçao"
-  },
-  "SAB": {
-    "name": "Saba"
-  },
-  "SE": {
-    "name": "Sint Eustatius"
-  },
-  "SM": {
-    "name": "Sint Maarten"
+  "ZE": {
+    "name": "Zeeland"
   }
 }

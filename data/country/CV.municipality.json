@@ -1,18 +1,12 @@
 {
-  "BR": {
-    "name": "Brava"
+  "B": {
+    "name": "Barlavento Islands"
   },
-  "BS": {
+  "BV": {
     "name": "Boa Vista"
   },
-  "CA": {
-    "name": "Santa Catarina"
-  },
-  "CF": {
-    "name": "Santa Cruz"
-  },
-  "CR": {
-    "name": "Praia"
+  "BR": {
+    "name": "Brava"
   },
   "MA": {
     "name": "Maio"
@@ -35,20 +29,41 @@
   "RG": {
     "name": "Ribeira Grande"
   },
+  "RS": {
+    "name": "Ribeira Grande de Santiago"
+  },
   "SL": {
     "name": "Sal"
   },
-  "SM": {
-    "name": "São Miguel"
+  "CA": {
+    "name": "Santa Catarina"
+  },
+  "CF": {
+    "name": "Santa Catarina do Fogo"
+  },
+  "CR": {
+    "name": "Santa Cruz"
+  },
+  "SD": {
+    "name": "São Domingos"
+  },
+  "SF": {
+    "name": "São Filipe"
   },
   "SO": {
     "name": "São Lourenço dos Órgãos"
+  },
+  "SM": {
+    "name": "São Miguel"
   },
   "SS": {
     "name": "São Salvador do Mundo"
   },
   "SV": {
     "name": "São Vicente"
+  },
+  "S": {
+    "name": "Sotavento Islands"
   },
   "TA": {
     "name": "Tarrafal"

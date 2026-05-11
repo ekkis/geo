@@ -1,59 +1,77 @@
 {
-  "កណ្": {
-    "name": "កណ្តាល"
+  "BAN": {
+    "name": "Banteay Meanchey"
   },
-  "កែប": {
-    "name": "កែប"
+  "BAT": {
+    "name": "Battambang"
   },
-  "កោះ": {
-    "name": "កោះកុង"
+  "KAM": {
+    "name": "Kampong Cham"
   },
-  "កំព": {
-    "name": "កំពត"
+  "KC": {
+    "name": "Kampong Chhnang"
   },
-  "ក្រ": {
-    "name": "ក្រចេះ"
+  "KS": {
+    "name": "Kampong Speu"
   },
-  "តាក": {
-    "name": "តាកែវ"
+  "KT": {
+    "name": "Kampong Thom"
   },
-  "ត្ប": {
-    "name": "ត្បូងឃ្មុំ"
+  "KAMP": {
+    "name": "Kampot"
   },
-  "បន្": {
-    "name": "បន្ទាយមានជ័យ"
+  "KAN": {
+    "name": "Kandal"
   },
-  "បាត": {
-    "name": "បាត់ដំបង"
+  "KEP": {
+    "name": "Kep"
   },
-  "បៃល": {
-    "name": "បៃលិន"
+  "KOH": {
+    "name": "Koh Kong"
   },
-  "ពោធ": {
-    "name": "ពោធិ៍សាត់"
+  "KRA": {
+    "name": "Kratie"
   },
-  "ព្រ": {
-    "name": "ព្រៃវែង"
+  "MON": {
+    "name": "Mondulkiri"
   },
-  "ភ្ន": {
-    "name": "ភ្នំពេញ"
+  "ODD": {
+    "name": "Oddar Meanchey"
   },
-  "មណ្": {
-    "name": "មណ្ឌលគីរី"
+  "PAI": {
+    "name": "Pailin"
   },
-  "រតន": {
-    "name": "រតនគីរី"
+  "PHN": {
+    "name": "Phnom Penh"
   },
-  "សៀម": {
-    "name": "សៀមរាប"
+  "PRE": {
+    "name": "Preah Vihear"
   },
-  "ស្ទ": {
-    "name": "ស្ទឹងត្រែង"
+  "PV": {
+    "name": "Prey Veng"
   },
-  "ស្វ": {
-    "name": "ស្វាយរៀង"
+  "PUR": {
+    "name": "Pursat"
   },
-  "ឧត្": {
-    "name": "ឧត្តរមានជ័យ"
+  "RAT": {
+    "name": "Ratanakiri"
+  },
+  "SIE": {
+    "name": "Siem Reap"
+  },
+  "SIH": {
+    "name": "Sihanoukville"
+  },
+  "STU": {
+    "name": "Stung Treng"
+  },
+  "SVA": {
+    "name": "Svay Rieng"
+  },
+  "TAK": {
+    "name": "Takeo"
+  },
+  "TBO": {
+    "name": "Tboung Khmum"
   }
 }

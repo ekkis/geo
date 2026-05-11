@@ -1,62 +1,38 @@
 {
-  "Abkhazia": {
-    "ABKHAZ": {
-      "name": "Abkhazia"
-    }
+  "AB": {
+    "name": "Abkhazia"
   },
-  "Adjara": {
-    "ADJARA": {
-      "name": "Adjara"
-    }
+  "AJ": {
+    "name": "Adjara"
   },
-  "Guria": {
-    "GURIA": {
-      "name": "Guria"
-    }
+  "GU": {
+    "name": "Guria"
   },
-  "Imereti": {
-    "IMERE": {
-      "name": "Imereti"
-    }
+  "IM": {
+    "name": "Imereti"
   },
-  "Kakheti": {
-    "KAKHET": {
-      "name": "Kakheti"
-    }
+  "KA": {
+    "name": "Kakheti"
   },
-  "Kvemo Kartli": {
-    "KVEVKAR": {
-      "name": "Kvemo Kartli"
-    }
+  "KK": {
+    "name": "Kvemo Kartli"
   },
-  "Mtskheta-Mtianeti": {
-    "MTSKEH": {
-      "name": "Mtskheta-Mtianeti"
-    }
+  "MM": {
+    "name": "Mtskheta-Mtianeti"
   },
-  "Racha-Lechkhumi and Kvemo Svaneti": {
-    "RACHAL": {
-      "name": "Racha-Lechkhumi and Kvemo Svaneti"
-    }
+  "RL": {
+    "name": "Racha-Lechkhumi and Kvemo Svaneti"
   },
-  "Samegrelo-Zemo Svaneti": {
-    "SAMEGRE": {
-      "name": "Samegrelo-Zemo Svaneti"
-    }
+  "SZ": {
+    "name": "Samegrelo-Zemo Svaneti"
   },
-  "Samtskhe-Javakheti": {
-    "SAMTSKH": {
-      "name": "Samtskhe-Javakheti"
-    }
+  "SJ": {
+    "name": "Samtskhe-Javakheti"
   },
-  "Shida Kartli": {
-    "SHIDKAR": {
-      "name": "Shida Kartli"
-    }
+  "SK": {
+    "name": "Shida Kartli"
   },
-  "Tbilisi": {
-    "TBILISI": {
-      "name": "Tbilisi"
-    }
+  "TB": {
+    "name": "Tbilisi"
   }
 }

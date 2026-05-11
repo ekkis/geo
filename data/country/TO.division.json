@@ -1,1 +1,17 @@
-{}
+{
+  "HAA": {
+    "name": "Haʻapai"
+  },
+  "EUA": {
+    "name": "ʻEua"
+  },
+  "NIU": {
+    "name": "Niuas"
+  },
+  "TON": {
+    "name": "Tongatapu"
+  },
+  "VAV": {
+    "name": "Vavaʻu"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "BAL": [
+    {
+      "id": 66437,
+      "name": "Balzers",
+      "latitude": "47.06665000",
+      "longitude": "9.50251000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "ESC": [
+    {
+      "id": 66438,
+      "name": "Eschen",
+      "latitude": "47.21071000",
+      "longitude": "9.52223000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "GAM": [
+    {
+      "id": 66439,
+      "name": "Gamprin",
+      "latitude": "47.22038000",
+      "longitude": "9.50935000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "MAU": [
+    {
+      "id": 66440,
+      "name": "Mauren",
+      "latitude": "47.21805000",
+      "longitude": "9.54420000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "PLA": [
+    {
+      "id": 66441,
+      "name": "Planken",
+      "latitude": "47.18516000",
+      "longitude": "9.54437000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "RUG": [
+    {
+      "id": 66442,
+      "name": "Ruggell",
+      "latitude": "47.23799000",
+      "longitude": "9.52540000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "SCH": [
+    {
+      "id": 66443,
+      "name": "Schaan",
+      "latitude": "47.16498000",
+      "longitude": "9.50867000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "SCH1": [
+    {
+      "id": 66444,
+      "name": "Schellenberg",
+      "latitude": "47.23123000",
+      "longitude": "9.54678000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "TRI": [
+    {
+      "id": 66445,
+      "name": "Triesen",
+      "latitude": "47.10752000",
+      "longitude": "9.52815000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "TRI1": [
+    {
+      "id": 66446,
+      "name": "Triesenberg",
+      "latitude": "47.11815000",
+      "longitude": "9.54197000",
+      "timezone": "Europe/Vaduz"
+    }
+  ],
+  "VAD": [
+    {
+      "id": 66447,
+      "name": "Vaduz",
+      "latitude": "47.14151000",
+      "longitude": "9.52154000",
+      "timezone": "Europe/Vaduz"
+    }
+  ]
+}

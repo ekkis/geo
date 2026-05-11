@@ -1,47 +1,71 @@
 {
+  "BG": {
+    "name": "Bahr el Gazel"
+  },
   "BA": {
     "name": "Batha"
   },
-  "BE": {
-    "name": "Borkou-Ennedi-Tibesti"
+  "BO": {
+    "name": "Borkou"
   },
-  "BI": {
-    "name": "Biltine"
-  },
-  "CH": {
+  "CB": {
     "name": "Chari-Baguirmi"
   },
-  "GC": {
+  "EE": {
+    "name": "Ennedi-Est"
+  },
+  "EO": {
+    "name": "Ennedi-Ouest"
+  },
+  "GR": {
     "name": "Guéra"
+  },
+  "HL": {
+    "name": "Hadjer-Lamis"
   },
   "KA": {
     "name": "Kanem"
   },
-  "LA": {
+  "LC": {
     "name": "Lac"
   },
-  "LC": {
+  "LO": {
     "name": "Logone Occidental"
   },
-  "LE": {
+  "LR": {
     "name": "Logone Oriental"
   },
   "MA": {
     "name": "Mandoul"
   },
   "ME": {
-    "name": "Mayo-Kébbi Est"
+    "name": "Mayo-Kebbi Est"
   },
   "MO": {
+    "name": "Mayo-Kebbi Ouest"
+  },
+  "MC": {
     "name": "Moyen-Chari"
   },
-  "OA": {
+  "ND": {
+    "name": "N'Djamena"
+  },
+  "OD": {
     "name": "Ouaddaï"
   },
   "SA": {
     "name": "Salamat"
   },
+  "SI": {
+    "name": "Sila"
+  },
   "TA": {
     "name": "Tandjilé"
+  },
+  "TI": {
+    "name": "Tibesti"
+  },
+  "WF": {
+    "name": "Wadi Fira"
   }
 }

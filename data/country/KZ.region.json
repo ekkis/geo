@@ -1,82 +1,62 @@
 {
-  "Akmola": {
-    "AKMO": {
-      "name": "Akmola"
-    }
+  "ABA": {
+    "name": "Abai"
   },
-  "Aktobe": {
-    "AKTO": {
-      "name": "Aktobe"
-    }
+  "AKMO": {
+    "name": "Akmola"
   },
-  "Almaty": {
-    "ALM": {
-      "name": "Almaty"
-    }
+  "AKTO": {
+    "name": "Aktobe"
   },
-  "Nur-Sultan": {
-    "AST": {
-      "name": "Nur-Sultan"
-    }
+  "ALM": {
+    "name": "Almaty"
   },
-  "Atyrau": {
-    "ATYR": {
-      "name": "Atyrau"
-    }
+  "ALMA": {
+    "name": "Almaty"
   },
-  "Karaganda": {
-    "KARAG": {
-      "name": "Karaganda"
-    }
+  "AST": {
+    "name": "Astana"
   },
-  "Kostanay": {
-    "KOST": {
-      "name": "Kostanay"
-    }
+  "ATYR": {
+    "name": "Atyrau"
   },
-  "Kyzylorda": {
-    "KYZY": {
-      "name": "Kyzylorda"
-    }
+  "VOST": {
+    "name": "East Kazakhstan"
   },
-  "Mangystau": {
-    "MANGS": {
-      "name": "Mangystau"
-    }
+  "JAM": {
+    "name": "Jambyl"
   },
-  "Pavlodar": {
-    "PAV": {
-      "name": "Pavlodar"
-    }
+  "JET": {
+    "name": "Jetisu"
   },
-  "North Kazakhstan": {
-    "SEVZ": {
-      "name": "North Kazakhstan"
-    }
+  "KARAG": {
+    "name": "Karaganda"
   },
-  "Shymkent": {
-    "SHYM": {
-      "name": "Shymkent"
-    }
+  "KOST": {
+    "name": "Kostanay"
   },
-  "Turkestan": {
-    "TURK": {
-      "name": "Turkestan"
-    }
+  "KYZY": {
+    "name": "Kyzylorda"
   },
-  "East Kazakhstan": {
-    "VOST": {
-      "name": "East Kazakhstan"
-    }
+  "MANGS": {
+    "name": "Mangystau"
   },
-  "South Kazakhstan": {
-    "YUZH": {
-      "name": "South Kazakhstan"
-    }
+  "SEVZ": {
+    "name": "North Kazakhstan"
   },
-  "West Kazakhstan": {
-    "ZAPAD": {
-      "name": "West Kazakhstan"
-    }
+  "PAV": {
+    "name": "Pavlodar"
+  },
+  "SHYM": {
+    "name": "Shymkent"
+  },
+  "TUR": {
+    "name": "Turkistan"
+  },
+  "ULY": {
+    "name": "Ulytau"
+  },
+  "ZAPAD": {
+    "name": "West Kazakhstan"
   }
 }

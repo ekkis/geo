@@ -11,11 +11,11 @@
   "DN": {
     "name": "Dakhlet Nouadhibou"
   },
-  "GM": {
-    "name": "Guidimaka"
-  },
   "GO": {
     "name": "Gorgol"
+  },
+  "GM": {
+    "name": "Guidimaka"
   },
   "HC": {
     "name": "Hodh Ech Chargui"
@@ -23,16 +23,25 @@
   "HD": {
     "name": "Hodh El Gharbi"
   },
-  "HI": {
-    "name": "Hodh El Gharbi"
-  },
   "IN": {
     "name": "Inchiri"
   },
+  "NOU": {
+    "name": "Nouakchott-Nord"
+  },
   "NO": {
-    "name": "Nouakchott"
+    "name": "Nouakchott-Ouest"
+  },
+  "NS": {
+    "name": "Nouakchott-Sud"
   },
   "TA": {
     "name": "Tagant"
+  },
+  "TIR": {
+    "name": "Tiris Zemmour"
+  },
+  "TRA": {
+    "name": "Trarza"
   }
 }

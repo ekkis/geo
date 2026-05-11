@@ -1,1 +1,56 @@
-{}
+{
+  "AW": {
+    "name": "Awdal"
+  },
+  "BK": {
+    "name": "Bakool"
+  },
+  "BN": {
+    "name": "Banaadir"
+  },
+  "BR": {
+    "name": "Bari"
+  },
+  "BY": {
+    "name": "Bay"
+  },
+  "GA": {
+    "name": "Galguduud"
+  },
+  "GE": {
+    "name": "Gedo"
+  },
+  "HI": {
+    "name": "Hiran"
+  },
+  "JH": {
+    "name": "Lower Juba"
+  },
+  "SH": {
+    "name": "Lower Shebelle"
+  },
+  "JD": {
+    "name": "Middle Juba"
+  },
+  "SD": {
+    "name": "Middle Shebelle"
+  },
+  "MU": {
+    "name": "Mudug"
+  },
+  "NU": {
+    "name": "Nugal"
+  },
+  "SA": {
+    "name": "Sanaag"
+  },
+  "SO": {
+    "name": "Sool"
+  },
+  "TO": {
+    "name": "Togdheer"
+  },
+  "WO": {
+    "name": "Woqooyi Galbeed"
+  }
+}

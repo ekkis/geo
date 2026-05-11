@@ -1,42 +1,218 @@
 {
-  "Capital Region": {
-    "CAPITAL": {
-      "name": "Capital Region"
-    }
+  "AKN": {
+    "name": "Akranes"
   },
-  "East": {
-    "EAST": {
-      "name": "East"
-    }
+  "AKU": {
+    "name": "Akureyri"
   },
-  "Northeast": {
-    "NE": {
-      "name": "Northeast"
-    }
+  "SFA": {
+    "name": "Árborg"
   },
-  "Northwest": {
-    "NW": {
-      "name": "Northwest"
-    }
+  "ARN": {
+    "name": "Árneshreppur"
   },
-  "South": {
-    "SOUTH": {
-      "name": "South"
-    }
+  "ASA": {
+    "name": "Ásahreppur"
   },
-  "Southern Peninsula": {
-    "SOUTHERNPEN": {
-      "name": "Southern Peninsula"
-    }
+  "BLA": {
+    "name": "Bláskógabyggð"
   },
-  "West": {
-    "WEST": {
-      "name": "West"
-    }
+  "BOL": {
+    "name": "Bolungarvík"
   },
-  "Westfjords": {
-    "WESTFJORD": {
-      "name": "Westfjords"
-    }
+  "BOG": {
+    "name": "Borgarbyggð"
+  },
+  "CAP": {
+    "name": "Capital"
+  },
+  "DAB": {
+    "name": "Dalabyggð"
+  },
+  "DAV": {
+    "name": "Dalvíkurbyggð"
+  },
+  "EAS": {
+    "name": "Eastern"
+  },
+  "EOM": {
+    "name": "Eyja- og Miklaholtshreppur"
+  },
+  "EYF": {
+    "name": "Eyjafjarðarsveit"
+  },
+  "FJL": {
+    "name": "Fjallabyggð"
+  },
+  "FJD": {
+    "name": "Fjarðabyggð"
+  },
+  "FLR": {
+    "name": "Fljótsdalshreppur"
+  },
+  "FLA": {
+    "name": "Flóahreppur"
+  },
+  "GAR": {
+    "name": "Garðabær"
+  },
+  "GOG": {
+    "name": "Grímsnes- og Grafningshreppur"
+  },
+  "GRN": {
+    "name": "Grindavík"
+  },
+  "GRU": {
+    "name": "Grundarfjörður"
+  },
+  "GRY": {
+    "name": "Grýtubakkahreppur"
+  },
+  "HAF": {
+    "name": "Hafnarfjörður"
+  },
+  "HRG": {
+    "name": "Hörðarsveit"
+  },
+  "SHF": {
+    "name": "Hornafjörður"
+  },
+  "HRU": {
+    "name": "Hrunamannahreppur"
+  },
+  "HUG": {
+    "name": "Húnabyggð"
+  },
+  "HUV": {
+    "name": "Húnaþing vestra"
+  },
+  "HVA": {
+    "name": "Hvalfjarðarsveit"
+  },
+  "HVE": {
+    "name": "Hveragerði"
+  },
+  "ISA": {
+    "name": "Ísafjörður"
+  },
+  "KAL": {
+    "name": "Kaldrananeshreppur"
+  },
+  "KJO": {
+    "name": "Kjósarhreppur"
+  },
+  "KOP": {
+    "name": "Kópavogur"
+  },
+  "LAN": {
+    "name": "Langanesbyggð"
+  },
+  "MOS": {
+    "name": "Mosfellsbær"
+  },
+  "MUL": {
+    "name": "Múlaþing"
+  },
+  "MYR": {
+    "name": "Mýrdalshreppur"
+  },
+  "NOR": {
+    "name": "Norðurþing"
+  },
+  "NORT": {
+    "name": "Northeastern"
+  },
+  "NORTH": {
+    "name": "Northwestern"
+  },
+  "SOL": {
+    "name": "Ölfus"
+  },
+  "RGE": {
+    "name": "Rangárþing eystra"
+  },
+  "RGY": {
+    "name": "Rangárþing ytra"
+  },
+  "RHH": {
+    "name": "Reykhólahreppur"
+  },
+  "RKN": {
+    "name": "Reykjanesbær"
+  },
+  "RKV": {
+    "name": "Reykjavík"
+  },
+  "SEL": {
+    "name": "Seltjarnarnes"
+  },
+  "SKF": {
+    "name": "Skaftárhreppur"
+  },
+  "SKG": {
+    "name": "Skagabyggð"
+  },
+  "SKR": {
+    "name": "Skagafjörður"
+  },
+  "SSS": {
+    "name": "Skagaströnd"
+  },
+  "SOG": {
+    "name": "Skeiða- og Gnúpverjahreppur"
+  },
+  "SKO": {
+    "name": "Skorradalshreppur"
+  },
+  "SNF": {
+    "name": "Snæfellsbær"
+  },
+  "SOU": {
+    "name": "Southern"
+  },
+  "SOUTHERNPEN": {
+    "name": "Southern Peninsula"
+  },
+  "STR": {
+    "name": "Strandabyggð"
+  },
+  "STY": {
+    "name": "Stykkishólmur"
+  },
+  "SDV": {
+    "name": "Súðavík"
+  },
+  "SDN": {
+    "name": "Suðurnesjabær"
+  },
+  "SBT": {
+    "name": "Svalbardsstrandarhreppur"
+  },
+  "TAL": {
+    "name": "Tálknafjarðarhreppur"
+  },
+  "TJO": {
+    "name": "Tjörneshreppur"
+  },
+  "VEM": {
+    "name": "Vestmannaeyjar"
+  },
+  "VER": {
+    "name": "Vesturbyggð"
+  },
+  "SVG": {
+    "name": "Vogar"
+  },
+  "VOP": {
+    "name": "Vopnafjarðarhreppur"
+  },
+  "WES": {
+    "name": "Western"
+  },
+  "WESTFJORD": {
+    "name": "Westfjords"
+  },
+  "THG": {
+    "name": "Þingeyjarsveit"
   }
 }

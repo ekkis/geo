@@ -1,12 +1,21 @@
 {
-  "CM": {
-    "name": "Bamako Capital District"
+  "BKO": {
+    "name": "Bamako"
   },
   "GA": {
     "name": "Gao"
   },
+  "KAY": {
+    "name": "Kayes"
+  },
   "KY": {
     "name": "Kidal"
+  },
+  "KOU": {
+    "name": "Koulikoro"
+  },
+  "MEN": {
+    "name": "Ménaka"
   },
   "MO": {
     "name": "Mopti"
@@ -16,6 +25,9 @@
   },
   "SL": {
     "name": "Sikasso"
+  },
+  "TAO": {
+    "name": "Taoudénit"
   },
   "TB": {
     "name": "Tombouctou"

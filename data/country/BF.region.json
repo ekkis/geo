@@ -11,6 +11,9 @@
   "BAZ": {
     "name": "Bazèga"
   },
+  "BOU": {
+    "name": "Boucle du Mouhoun"
+  },
   "BGR": {
     "name": "Bougouriba"
   },
@@ -18,16 +21,43 @@
     "name": "Boulgou"
   },
   "BLK": {
-    "name": "Boulkiemdé"
+    "name": "Boulkiemde"
+  },
+  "CAS": {
+    "name": "Cascades"
+  },
+  "CEN": {
+    "name": "Centre"
+  },
+  "CE": {
+    "name": "Centre-Est"
+  },
+  "CN": {
+    "name": "Centre-Nord"
+  },
+  "CO": {
+    "name": "Centre-Ouest"
+  },
+  "CS": {
+    "name": "Centre-Sud"
   },
   "COM": {
     "name": "Comoé"
   },
+  "EST": {
+    "name": "Est"
+  },
   "GAN": {
     "name": "Ganzourgou"
   },
+  "GNA": {
+    "name": "Gnagna"
+  },
   "GOU": {
     "name": "Gourma"
+  },
+  "HAU": {
+    "name": "Hauts-Bassins"
   },
   "HOU": {
     "name": "Houet"
@@ -47,11 +77,11 @@
   "KMP": {
     "name": "Kompienga"
   },
-  "KOP": {
-    "name": "Koulpélogo"
-  },
   "KOS": {
     "name": "Kossi"
+  },
+  "KOP": {
+    "name": "Koulpélogo"
   },
   "KOT": {
     "name": "Kouritenga"
@@ -68,14 +98,20 @@
   "MOU": {
     "name": "Mouhoun"
   },
+  "NAO": {
+    "name": "Nahouri"
+  },
   "NAM": {
     "name": "Namentenga"
   },
-  "NAO": {
-    "name": "Naouri"
-  },
   "NAY": {
     "name": "Nayala"
+  },
+  "NOR": {
+    "name": "Nord"
+  },
+  "NOU": {
+    "name": "Noumbiel"
   },
   "OUB": {
     "name": "Oubritenga"
@@ -86,8 +122,20 @@
   "PAS": {
     "name": "Passoré"
   },
+  "PLA": {
+    "name": "Plateau-Central"
+  },
   "PON": {
     "name": "Poni"
+  },
+  "SAH": {
+    "name": "Sahel"
+  },
+  "SNG": {
+    "name": "Sanguié"
+  },
+  "SMT": {
+    "name": "Sanmatenga"
   },
   "SEN": {
     "name": "Séno"
@@ -95,17 +143,20 @@
   "SIS": {
     "name": "Sissili"
   },
-  "SNG": {
-    "name": "Sourou"
-  },
   "SOM": {
     "name": "Soum"
+  },
+  "SOR": {
+    "name": "Sourou"
+  },
+  "SUD": {
+    "name": "Sud-Ouest"
   },
   "TAP": {
     "name": "Tapoa"
   },
   "TUI": {
-    "name": "Tui"
+    "name": "Tuy"
   },
   "YAG": {
     "name": "Yagha"

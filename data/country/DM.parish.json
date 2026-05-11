@@ -1,1 +1,32 @@
-{}
+{
+  "AND": {
+    "name": "Saint Andrew"
+  },
+  "DAV": {
+    "name": "Saint David"
+  },
+  "GEO": {
+    "name": "Saint George"
+  },
+  "JOH": {
+    "name": "Saint John"
+  },
+  "JOS": {
+    "name": "Saint Joseph"
+  },
+  "LUK": {
+    "name": "Saint Luke"
+  },
+  "MAR": {
+    "name": "Saint Mark"
+  },
+  "PAT": {
+    "name": "Saint Patrick"
+  },
+  "PAU": {
+    "name": "Saint Paul"
+  },
+  "PET": {
+    "name": "Saint Peter"
+  }
+}

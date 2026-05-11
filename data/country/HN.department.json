@@ -1,1 +1,56 @@
-{}
+{
+  "AT": {
+    "name": "Atlántida"
+  },
+  "IB": {
+    "name": "Bay Islands"
+  },
+  "CH": {
+    "name": "Choluteca"
+  },
+  "CL": {
+    "name": "Colón"
+  },
+  "CM": {
+    "name": "Comayagua"
+  },
+  "CP": {
+    "name": "Copán"
+  },
+  "CR": {
+    "name": "Cortés"
+  },
+  "EP": {
+    "name": "El Paraíso"
+  },
+  "FM": {
+    "name": "Francisco Morazán"
+  },
+  "GD": {
+    "name": "Gracias a Dios"
+  },
+  "IN": {
+    "name": "Intibucá"
+  },
+  "LP": {
+    "name": "La Paz"
+  },
+  "LE": {
+    "name": "Lempira"
+  },
+  "OC": {
+    "name": "Ocotepeque"
+  },
+  "OL": {
+    "name": "Olancho"
+  },
+  "SB": {
+    "name": "Santa Bárbara"
+  },
+  "VA": {
+    "name": "Valle"
+  },
+  "YO": {
+    "name": "Yoro"
+  }
+}

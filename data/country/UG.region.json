@@ -1,1 +1,419 @@
-{}
+{
+  "ABI": {
+    "name": "Abim"
+  },
+  "ADJ": {
+    "name": "Adjumani"
+  },
+  "AGA": {
+    "name": "Agago"
+  },
+  "ALE": {
+    "name": "Alebtong"
+  },
+  "AMO": {
+    "name": "Amolatar"
+  },
+  "AMU": {
+    "name": "Amudat"
+  },
+  "AMUR": {
+    "name": "Amuria"
+  },
+  "AMURU": {
+    "name": "Amuru"
+  },
+  "APA": {
+    "name": "Apac"
+  },
+  "ARU": {
+    "name": "Arua"
+  },
+  "BUD": {
+    "name": "Budaka"
+  },
+  "BUDU": {
+    "name": "Bududa"
+  },
+  "BUG": {
+    "name": "Bugiri"
+  },
+  "BUGW": {
+    "name": "Bugweri"
+  },
+  "BUH": {
+    "name": "Buhweju"
+  },
+  "BUI": {
+    "name": "Buikwe"
+  },
+  "BUK": {
+    "name": "Bukedea"
+  },
+  "BUKO": {
+    "name": "Bukomansimbi"
+  },
+  "BUKW": {
+    "name": "Bukwo"
+  },
+  "BUL": {
+    "name": "Bulambuli"
+  },
+  "BULI": {
+    "name": "Buliisa"
+  },
+  "BUN": {
+    "name": "Bundibugyo"
+  },
+  "BUNY": {
+    "name": "Bunyangabu"
+  },
+  "BUS": {
+    "name": "Bushenyi"
+  },
+  "BUSI": {
+    "name": "Busia"
+  },
+  "BUT": {
+    "name": "Butaleja"
+  },
+  "BUTA": {
+    "name": "Butambala"
+  },
+  "BUTE": {
+    "name": "Butebo"
+  },
+  "BUV": {
+    "name": "Buvuma"
+  },
+  "BUY": {
+    "name": "Buyende"
+  },
+  "C": {
+    "name": "Central"
+  },
+  "DOK": {
+    "name": "Dokolo"
+  },
+  "E": {
+    "name": "Eastern"
+  },
+  "GOM": {
+    "name": "Gomba"
+  },
+  "GUL": {
+    "name": "Gulu"
+  },
+  "HOI": {
+    "name": "Hoima"
+  },
+  "IBA": {
+    "name": "Ibanda"
+  },
+  "IGA": {
+    "name": "Iganga"
+  },
+  "ISI": {
+    "name": "Isingiro"
+  },
+  "JIN": {
+    "name": "Jinja"
+  },
+  "KAA": {
+    "name": "Kaabong"
+  },
+  "KAB": {
+    "name": "Kabale"
+  },
+  "KABA": {
+    "name": "Kabarole"
+  },
+  "KABE": {
+    "name": "Kaberamaido"
+  },
+  "KAG": {
+    "name": "Kagadi"
+  },
+  "KAK": {
+    "name": "Kakumiro"
+  },
+  "KAL": {
+    "name": "Kalaki"
+  },
+  "KALA": {
+    "name": "Kalangala"
+  },
+  "KALI": {
+    "name": "Kaliro"
+  },
+  "KALU": {
+    "name": "Kalungu"
+  },
+  "KAM": {
+    "name": "Kampala"
+  },
+  "KAMU": {
+    "name": "Kamuli"
+  },
+  "KAMW": {
+    "name": "Kamwenge"
+  },
+  "KAN": {
+    "name": "Kanungu"
+  },
+  "KAP": {
+    "name": "Kapchorwa"
+  },
+  "KAPE": {
+    "name": "Kapelebyong"
+  },
+  "KAR": {
+    "name": "Karenga"
+  },
+  "KAS": {
+    "name": "Kasanda"
+  },
+  "KASE": {
+    "name": "Kasese"
+  },
+  "KAT": {
+    "name": "Katakwi"
+  },
+  "KAY": {
+    "name": "Kayunga"
+  },
+  "KAZ": {
+    "name": "Kazo"
+  },
+  "KIB": {
+    "name": "Kibaale"
+  },
+  "KIBO": {
+    "name": "Kiboga"
+  },
+  "KIBU": {
+    "name": "Kibuku"
+  },
+  "KIK": {
+    "name": "Kikuube"
+  },
+  "KIR": {
+    "name": "Kiruhura"
+  },
+  "KIRY": {
+    "name": "Kiryandongo"
+  },
+  "KIS": {
+    "name": "Kisoro"
+  },
+  "KIT": {
+    "name": "Kitagwenda"
+  },
+  "KITG": {
+    "name": "Kitgum"
+  },
+  "KOB": {
+    "name": "Koboko"
+  },
+  "KOL": {
+    "name": "Kole"
+  },
+  "KOT": {
+    "name": "Kotido"
+  },
+  "KUM": {
+    "name": "Kumi"
+  },
+  "KWA": {
+    "name": "Kwania"
+  },
+  "KWE": {
+    "name": "Kween"
+  },
+  "KYA": {
+    "name": "Kyankwanzi"
+  },
+  "KYE": {
+    "name": "Kyegegwa"
+  },
+  "KYEN": {
+    "name": "Kyenjojo"
+  },
+  "KYO": {
+    "name": "Kyotera"
+  },
+  "LAM": {
+    "name": "Lamwo"
+  },
+  "LIR": {
+    "name": "Lira"
+  },
+  "LUU": {
+    "name": "Luuka"
+  },
+  "LUW": {
+    "name": "Luwero"
+  },
+  "LWE": {
+    "name": "Lwengo"
+  },
+  "LYA": {
+    "name": "Lyantonde"
+  },
+  "MAD": {
+    "name": "Madi-Okollo"
+  },
+  "MAN": {
+    "name": "Manafwa"
+  },
+  "MAR": {
+    "name": "Maracha"
+  },
+  "MAS": {
+    "name": "Masaka"
+  },
+  "MASI": {
+    "name": "Masindi"
+  },
+  "MAY": {
+    "name": "Mayuge"
+  },
+  "MBA": {
+    "name": "Mbale"
+  },
+  "MBAR": {
+    "name": "Mbarara"
+  },
+  "MIT": {
+    "name": "Mitooma"
+  },
+  "MITY": {
+    "name": "Mityana"
+  },
+  "MOR": {
+    "name": "Moroto"
+  },
+  "MOY": {
+    "name": "Moyo"
+  },
+  "MPI": {
+    "name": "Mpigi"
+  },
+  "MUB": {
+    "name": "Mubende"
+  },
+  "MUK": {
+    "name": "Mukono"
+  },
+  "NAB": {
+    "name": "Nabilatuk"
+  },
+  "NAK": {
+    "name": "Nakapiripirit"
+  },
+  "NAKA": {
+    "name": "Nakaseke"
+  },
+  "NAKAS": {
+    "name": "Nakasongola"
+  },
+  "NAM": {
+    "name": "Namayingo"
+  },
+  "NAMI": {
+    "name": "Namisindwa"
+  },
+  "NAMU": {
+    "name": "Namutumba"
+  },
+  "NAP": {
+    "name": "Napak"
+  },
+  "NEB": {
+    "name": "Nebbi"
+  },
+  "NGO": {
+    "name": "Ngora"
+  },
+  "N": {
+    "name": "Northern"
+  },
+  "NTO": {
+    "name": "Ntoroko"
+  },
+  "NTU": {
+    "name": "Ntungamo"
+  },
+  "NWO": {
+    "name": "Nwoya"
+  },
+  "OBO": {
+    "name": "Obongi"
+  },
+  "OMO": {
+    "name": "Omoro"
+  },
+  "OTU": {
+    "name": "Otuke"
+  },
+  "OYA": {
+    "name": "Oyam"
+  },
+  "PAD": {
+    "name": "Pader"
+  },
+  "PAK": {
+    "name": "Pakwach"
+  },
+  "PAL": {
+    "name": "Pallisa"
+  },
+  "RAK": {
+    "name": "Rakai"
+  },
+  "RUB": {
+    "name": "Rubanda"
+  },
+  "RUBI": {
+    "name": "Rubirizi"
+  },
+  "RUK": {
+    "name": "Rukiga"
+  },
+  "RUKU": {
+    "name": "Rukungiri"
+  },
+  "RWA": {
+    "name": "Rwampara"
+  },
+  "SEM": {
+    "name": "Sembabule"
+  },
+  "SER": {
+    "name": "Serere"
+  },
+  "SHE": {
+    "name": "Sheema"
+  },
+  "SIR": {
+    "name": "Sironko"
+  },
+  "SOR": {
+    "name": "Soroti"
+  },
+  "TOR": {
+    "name": "Tororo"
+  },
+  "WAK": {
+    "name": "Wakiso"
+  },
+  "W": {
+    "name": "Western"
+  },
+  "YUM": {
+    "name": "Yumbe"
+  },
+  "ZOM": {
+    "name": "Zombo"
+  }
+}

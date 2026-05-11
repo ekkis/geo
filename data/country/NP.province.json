@@ -1,44 +1,23 @@
 {
-  "BA": {
+  "P3": {
     "name": "Bagmati"
   },
-  "BH": {
-    "name": "Bheri"
-  },
-  "DH": {
-    "name": "Dhawalagiri"
-  },
-  "GA": {
+  "P4": {
     "name": "Gandaki"
   },
-  "JA": {
-    "name": "Janakpur"
-  },
-  "KA": {
+  "P6": {
     "name": "Karnali"
   },
-  "KO": {
-    "name": "Kosi"
+  "P1": {
+    "name": "Koshi"
   },
-  "LU": {
+  "P5": {
     "name": "Lumbini"
   },
-  "MA": {
-    "name": "Mahakali"
+  "P2": {
+    "name": "Madhesh"
   },
-  "ME": {
-    "name": "Mechi"
-  },
-  "NA": {
-    "name": "Narayani"
-  },
-  "RA": {
-    "name": "Rapti"
-  },
-  "SA": {
-    "name": "Sagarmatha"
-  },
-  "SE": {
-    "name": "Seti"
+  "P7": {
+    "name": "Sudurpashchim"
   }
 }

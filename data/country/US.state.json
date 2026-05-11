@@ -69,6 +69,13 @@
       "Washington",
       "Wilcox",
       "Winston"
+    ],
+    "capital": "Montgomery",
+    "neighbors": [
+      "FL",
+      "GA",
+      "MS",
+      "TN"
     ]
   },
   "AK": {
@@ -102,7 +109,9 @@
       "Wrangell",
       "Yakutat",
       "Yukon-Koyukuk"
-    ]
+    ],
+    "capital": "Juneau",
+    "neighbors": []
   },
   "AZ": {
     "name": "Arizona",
@@ -122,6 +131,13 @@
       "Santa Cruz",
       "Yavapai",
       "Yuma"
+    ],
+    "capital": "Phoenix",
+    "neighbors": [
+      "CA",
+      "NV",
+      "NM",
+      "UT"
     ]
   },
   "AR": {
@@ -202,6 +218,15 @@
       "White",
       "Woodruff",
       "Yell"
+    ],
+    "capital": "Little Rock",
+    "neighbors": [
+      "LA",
+      "TX",
+      "OK",
+      "MO",
+      "TN",
+      "MS"
     ]
   },
   "CA": {
@@ -265,6 +290,12 @@
       "Ventura",
       "Yolo",
       "Yuba"
+    ],
+    "capital": "Sacramento",
+    "neighbors": [
+      "AZ",
+      "NV",
+      "OR"
     ]
   },
   "CO": {
@@ -333,6 +364,16 @@
       "Washington",
       "Weld",
       "Yuma"
+    ],
+    "capital": "Denver",
+    "neighbors": [
+      "AZ",
+      "KS",
+      "NE",
+      "NM",
+      "OK",
+      "UT",
+      "WY"
     ]
   },
   "CT": {
@@ -346,6 +387,12 @@
       "New London",
       "Tolland",
       "Windham"
+    ],
+    "capital": "Hartford",
+    "neighbors": [
+      "MA",
+      "NY",
+      "RI"
     ]
   },
   "DE": {
@@ -354,6 +401,12 @@
       "Kent",
       "New Castle",
       "Sussex"
+    ],
+    "capital": "Dover",
+    "neighbors": [
+      "MD",
+      "NJ",
+      "PA"
     ]
   },
   "FL": {
@@ -426,6 +479,11 @@
       "Wakulla",
       "Walton",
       "Washington"
+    ],
+    "capital": "Tallahassee",
+    "neighbors": [
+      "AL",
+      "GA"
     ]
   },
   "GA": {
@@ -590,6 +648,14 @@
       "Wilkes",
       "Wilkinson",
       "Worth"
+    ],
+    "capital": "Atlanta",
+    "neighbors": [
+      "AL",
+      "FL",
+      "NC",
+      "SC",
+      "TN"
     ]
   },
   "HI": {
@@ -600,7 +666,9 @@
       "Kalawao",
       "Kauai",
       "Maui"
-    ]
+    ],
+    "capital": "Honolulu",
+    "neighbors": []
   },
   "ID": {
     "name": "Idaho",
@@ -649,6 +717,15 @@
       "Twin Falls",
       "Valley",
       "Washington"
+    ],
+    "capital": "Boise",
+    "neighbors": [
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
     ]
   },
   "IL": {
@@ -756,6 +833,14 @@
       "Williamson",
       "Winnebago",
       "Woodford"
+    ],
+    "capital": "Springfield",
+    "neighbors": [
+      "IN",
+      "KY",
+      "MO",
+      "IA",
+      "WI"
     ]
   },
   "IN": {
@@ -853,6 +938,13 @@
       "Wells",
       "White",
       "Whitley"
+    ],
+    "capital": "Indianapolis",
+    "neighbors": [
+      "IL",
+      "KY",
+      "MI",
+      "OH"
     ]
   },
   "IA": {
@@ -957,6 +1049,15 @@
       "Woodbury",
       "Worth",
       "Wright"
+    ],
+    "capital": "Des Moines",
+    "neighbors": [
+      "IL",
+      "MN",
+      "MO",
+      "NE",
+      "SD",
+      "WI"
     ]
   },
   "KS": {
@@ -1067,6 +1168,13 @@
       "Wilson",
       "Woodson",
       "Wyandotte"
+    ],
+    "capital": "Topeka",
+    "neighbors": [
+      "CO",
+      "MO",
+      "NE",
+      "OK"
     ]
   },
   "KY": {
@@ -1192,6 +1300,16 @@
       "Whitley",
       "Wolfe",
       "Woodford"
+    ],
+    "capital": "Frankfort",
+    "neighbors": [
+      "IL",
+      "IN",
+      "MO",
+      "OH",
+      "TN",
+      "VA",
+      "WV"
     ]
   },
   "LA": {
@@ -1261,6 +1379,12 @@
       "West Carroll",
       "West Feliciana",
       "Winn"
+    ],
+    "capital": "Baton Rouge",
+    "neighbors": [
+      "AR",
+      "MS",
+      "TX"
     ]
   },
   "ME": {
@@ -1282,6 +1406,10 @@
       "Waldo",
       "Washington",
       "York"
+    ],
+    "capital": "Augusta",
+    "neighbors": [
+      "NH"
     ]
   },
   "MD": {
@@ -1310,6 +1438,14 @@
       "Washington",
       "Wicomico",
       "Worcester"
+    ],
+    "capital": "Annapolis",
+    "neighbors": [
+      "DE",
+      "PA",
+      "VA",
+      "WV",
+      "DC"
     ]
   },
   "MA": {
@@ -1329,6 +1465,14 @@
       "Plymouth",
       "Suffolk",
       "Worcester"
+    ],
+    "capital": "Boston",
+    "neighbors": [
+      "CT",
+      "NH",
+      "NY",
+      "RI",
+      "VT"
     ]
   },
   "MI": {
@@ -1415,6 +1559,14 @@
       "Washtenaw",
       "Wayne",
       "Wexford"
+    ],
+    "capital": "Lansing",
+    "neighbors": [
+      "IL",
+      "IN",
+      "MN",
+      "OH",
+      "WI"
     ]
   },
   "MN": {
@@ -1508,6 +1660,14 @@
       "Winona",
       "Wright",
       "Yellow Medicine"
+    ],
+    "capital": "Saint Paul",
+    "neighbors": [
+      "IA",
+      "MI",
+      "ND",
+      "SD",
+      "WI"
     ]
   },
   "MS": {
@@ -1595,6 +1755,13 @@
       "Winston",
       "Yalobusha",
       "Yazoo"
+    ],
+    "capital": "Jackson",
+    "neighbors": [
+      "AL",
+      "AR",
+      "LA",
+      "TN"
     ]
   },
   "MO": {
@@ -1713,6 +1880,17 @@
       "Webster",
       "Worth",
       "Wright"
+    ],
+    "capital": "Jefferson City",
+    "neighbors": [
+      "IA",
+      "IL",
+      "KY",
+      "KS",
+      "NE",
+      "OK",
+      "TN",
+      "AR"
     ]
   },
   "MT": {
@@ -1774,6 +1952,13 @@
       "Wheatland",
       "Wibaux",
       "Yellowstone"
+    ],
+    "capital": "Helena",
+    "neighbors": [
+      "ID",
+      "ND",
+      "SD",
+      "WY"
     ]
   },
   "NE": {
@@ -1872,6 +2057,15 @@
       "Webster",
       "Wheeler",
       "York"
+    ],
+    "capital": "Lincoln",
+    "neighbors": [
+      "CO",
+      "IA",
+      "KS",
+      "MO",
+      "SD",
+      "WY"
     ]
   },
   "NV": {
@@ -1893,6 +2087,14 @@
       "Storey",
       "Washoe",
       "White Pine"
+    ],
+    "capital": "Carson City",
+    "neighbors": [
+      "AZ",
+      "CA",
+      "ID",
+      "OR",
+      "UT"
     ]
   },
   "NH": {
@@ -1908,6 +2110,12 @@
       "Rockingham",
       "Strafford",
       "Sullivan"
+    ],
+    "capital": "Concord",
+    "neighbors": [
+      "ME",
+      "MA",
+      "VT"
     ]
   },
   "NJ": {
@@ -1934,6 +2142,12 @@
       "Sussex",
       "Union",
       "Warren"
+    ],
+    "capital": "Trenton",
+    "neighbors": [
+      "DE",
+      "NY",
+      "PA"
     ]
   },
   "NM": {
@@ -1972,6 +2186,14 @@
       "Torrance",
       "Union",
       "Valencia"
+    ],
+    "capital": "Santa Fe",
+    "neighbors": [
+      "AZ",
+      "CO",
+      "OK",
+      "TX",
+      "UT"
     ]
   },
   "NY": {
@@ -2040,6 +2262,15 @@
       "Westchester",
       "Wyoming",
       "Yates"
+    ],
+    "capital": "Albany",
+    "neighbors": [
+      "CT",
+      "MA",
+      "NJ",
+      "PA",
+      "VT",
+      "RI"
     ]
   },
   "NC": {
@@ -2145,6 +2376,13 @@
       "Wilson",
       "Yadkin",
       "Yancey"
+    ],
+    "capital": "Raleigh",
+    "neighbors": [
+      "GA",
+      "SC",
+      "TN",
+      "VA"
     ]
   },
   "ND": {
@@ -2203,6 +2441,12 @@
       "Ward",
       "Wells",
       "Williams"
+    ],
+    "capital": "Bismarck",
+    "neighbors": [
+      "MN",
+      "MT",
+      "SD"
     ]
   },
   "OH": {
@@ -2296,6 +2540,14 @@
       "Williams",
       "Wood",
       "Wyandot"
+    ],
+    "capital": "Columbus",
+    "neighbors": [
+      "IN",
+      "KY",
+      "MI",
+      "PA",
+      "WV"
     ]
   },
   "OK": {
@@ -2380,6 +2632,15 @@
       "Washita",
       "Woods",
       "Woodward"
+    ],
+    "capital": "Oklahoma City",
+    "neighbors": [
+      "AR",
+      "CO",
+      "KS",
+      "MO",
+      "NM",
+      "TX"
     ]
   },
   "OR": {
@@ -2421,6 +2682,13 @@
       "Washington",
       "Wheeler",
       "Yamhill"
+    ],
+    "capital": "Salem",
+    "neighbors": [
+      "CA",
+      "ID",
+      "NV",
+      "WA"
     ]
   },
   "PA": {
@@ -2494,6 +2762,15 @@
       "Westmoreland",
       "Wyoming",
       "York"
+    ],
+    "capital": "Harrisburg",
+    "neighbors": [
+      "DE",
+      "MD",
+      "NJ",
+      "NY",
+      "OH",
+      "WV"
     ]
   },
   "RI": {
@@ -2504,6 +2781,11 @@
       "Newport",
       "Providence",
       "Washington"
+    ],
+    "capital": "Providence",
+    "neighbors": [
+      "CT",
+      "MA"
     ]
   },
   "SC": {
@@ -2555,6 +2837,11 @@
       "Union",
       "Williamsburg",
       "York"
+    ],
+    "capital": "Columbia",
+    "neighbors": [
+      "GA",
+      "NC"
     ]
   },
   "SD": {
@@ -2626,6 +2913,15 @@
       "Walworth",
       "Yankton",
       "Ziebach"
+    ],
+    "capital": "Pierre",
+    "neighbors": [
+      "IA",
+      "MN",
+      "NE",
+      "ND",
+      "WY",
+      "MT"
     ]
   },
   "TN": {
@@ -2726,6 +3022,17 @@
       "White",
       "Williamson",
       "Wilson"
+    ],
+    "capital": "Nashville",
+    "neighbors": [
+      "AL",
+      "AR",
+      "GA",
+      "KY",
+      "MO",
+      "MS",
+      "NC",
+      "VA"
     ]
   },
   "TX": {
@@ -2983,6 +3290,13 @@
       "Young",
       "Zapata",
       "Zavala"
+    ],
+    "capital": "Austin",
+    "neighbors": [
+      "AR",
+      "LA",
+      "NM",
+      "OK"
     ]
   },
   "UT": {
@@ -3017,6 +3331,15 @@
       "Washington",
       "Wayne",
       "Weber"
+    ],
+    "capital": "Salt Lake City",
+    "neighbors": [
+      "AZ",
+      "CO",
+      "ID",
+      "NV",
+      "NM",
+      "WY"
     ]
   },
   "VT": {
@@ -3036,6 +3359,12 @@
       "Washington",
       "Windham",
       "Windsor"
+    ],
+    "capital": "Montpelier",
+    "neighbors": [
+      "MA",
+      "NH",
+      "NY"
     ]
   },
   "VA": {
@@ -3173,6 +3502,14 @@
       "Waynesboro City",
       "Williamsburg City",
       "Winchester City"
+    ],
+    "capital": "Richmond",
+    "neighbors": [
+      "KY",
+      "MD",
+      "NC",
+      "TN",
+      "WV"
     ]
   },
   "WA": {
@@ -3218,6 +3555,11 @@
       "Whatcom",
       "Whitman",
       "Yakima"
+    ],
+    "capital": "Olympia",
+    "neighbors": [
+      "ID",
+      "OR"
     ]
   },
   "WV": {
@@ -3278,6 +3620,14 @@
       "Wirt",
       "Wood",
       "Wyoming"
+    ],
+    "capital": "Charleston",
+    "neighbors": [
+      "KY",
+      "MD",
+      "OH",
+      "PA",
+      "VA"
     ]
   },
   "WI": {
@@ -3355,6 +3705,13 @@
       "Waushara",
       "Winnebago",
       "Wood"
+    ],
+    "capital": "Madison",
+    "neighbors": [
+      "IA",
+      "IL",
+      "MI",
+      "MN"
     ]
   },
   "WY": {
@@ -3383,6 +3740,15 @@
       "Uinta",
       "Washakie",
       "Weston"
+    ],
+    "capital": "Cheyenne",
+    "neighbors": [
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "SD",
+      "UT"
     ]
   }
 }

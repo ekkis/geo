@@ -1,1 +1,17 @@
-{}
+{
+  "C": {
+    "name": "Centrale"
+  },
+  "K": {
+    "name": "Kara"
+  },
+  "M": {
+    "name": "Maritime"
+  },
+  "P": {
+    "name": "Plateaux"
+  },
+  "S": {
+    "name": "Savanes"
+  }
+}

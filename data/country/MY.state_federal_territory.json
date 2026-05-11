@@ -1,82 +1,50 @@
 {
-  "Johor": {
-    "JOHOR": {
-      "name": "Johor"
-    }
+  "JOHOR": {
+    "name": "Johor"
   },
-  "Kedah": {
-    "KEDAH": {
-      "name": "Kedah"
-    }
+  "KEDAH": {
+    "name": "Kedah"
   },
-  "Kelantan": {
-    "KELANTAN": {
-      "name": "Kelantan"
-    }
+  "KELANTAN": {
+    "name": "Kelantan"
   },
-  "Kuala Lumpur": {
-    "KL": {
-      "name": "Kuala Lumpur"
-    }
+  "KL": {
+    "name": "Kuala Lumpur"
   },
-  "Labuan": {
-    "LABUAN": {
-      "name": "Labuan"
-    }
+  "LABUAN": {
+    "name": "Labuan"
   },
-  "Malacca": {
-    "MELAKA": {
-      "name": "Malacca"
-    }
+  "MELAKA": {
+    "name": "Malacca"
   },
-  "Negeri Sembilan": {
-    "NSEM": {
-      "name": "Negeri Sembilan"
-    }
+  "NSEM": {
+    "name": "Negeri Sembilan"
   },
-  "Pahang": {
-    "PAHANG": {
-      "name": "Pahang"
-    }
+  "PAHANG": {
+    "name": "Pahang"
   },
-  "Penang": {
-    "PENANG": {
-      "name": "Penang"
-    }
+  "PENANG": {
+    "name": "Penang"
   },
-  "Perak": {
-    "PERAK": {
-      "name": "Perak"
-    }
+  "PERAK": {
+    "name": "Perak"
   },
-  "Perlis": {
-    "PERLIS": {
-      "name": "Perlis"
-    }
+  "PERLIS": {
+    "name": "Perlis"
   },
-  "Putrajaya": {
-    "PUTRAJAYA": {
-      "name": "Putrajaya"
-    }
+  "PUTRAJAYA": {
+    "name": "Putrajaya"
   },
-  "Sabah": {
-    "SABAH": {
-      "name": "Sabah"
-    }
+  "SABAH": {
+    "name": "Sabah"
   },
-  "Sarawak": {
-    "SARAWAK": {
-      "name": "Sarawak"
-    }
+  "SARAWAK": {
+    "name": "Sarawak"
   },
-  "Selangor": {
-    "SELANGOR": {
-      "name": "Selangor"
-    }
+  "SELANGOR": {
+    "name": "Selangor"
   },
-  "Terengganu": {
-    "TERENGGANU": {
-      "name": "Terengganu"
-    }
+  "TERENGGANU": {
+    "name": "Terengganu"
   }
 }

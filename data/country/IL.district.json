@@ -1,1 +1,20 @@
-{}
+{
+  "M": {
+    "name": "Central"
+  },
+  "HA": {
+    "name": "Haifa"
+  },
+  "JM": {
+    "name": "Jerusalem"
+  },
+  "Z": {
+    "name": "Northern"
+  },
+  "D": {
+    "name": "Southern"
+  },
+  "TA": {
+    "name": "Tel Aviv"
+  }
+}

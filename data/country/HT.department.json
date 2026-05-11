@@ -1,1 +1,32 @@
-{}
+{
+  "AR": {
+    "name": "Artibonite"
+  },
+  "CE": {
+    "name": "Centre"
+  },
+  "GA": {
+    "name": "Grand'Anse"
+  },
+  "NI": {
+    "name": "Nippes"
+  },
+  "ND": {
+    "name": "Nord"
+  },
+  "NE": {
+    "name": "Nord-Est"
+  },
+  "NO": {
+    "name": "Nord-Ouest"
+  },
+  "OU": {
+    "name": "Ouest"
+  },
+  "SD": {
+    "name": "Sud"
+  },
+  "SE": {
+    "name": "Sud-Est"
+  }
+}

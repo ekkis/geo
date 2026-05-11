@@ -1,29 +1,38 @@
 {
   "AG": {
-    "name": "Agalega"
+    "name": "Agalega Islands"
   },
-  "CC": {
-    "name": "Cargados Carajos"
+  "BL": {
+    "name": "Black River"
   },
   "FL": {
     "name": "Flacq"
   },
+  "GP": {
+    "name": "Grand Port"
+  },
+  "MO": {
+    "name": "Moka"
+  },
   "PA": {
     "name": "Pamplemousses"
   },
-  "PL": {
+  "PW": {
     "name": "Plaines Wilhems"
   },
-  "PU": {
+  "PL": {
     "name": "Port Louis"
   },
   "RR": {
     "name": "Rivière du Rempart"
   },
+  "RO": {
+    "name": "Rodrigues Island"
+  },
+  "CC": {
+    "name": "Saint Brandon Islands"
+  },
   "SA": {
     "name": "Savanne"
-  },
-  "WO": {
-    "name": "Rodrigues"
   }
 }

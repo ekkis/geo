@@ -1,1 +1,143 @@
-{}
+{
+  "BAR": {
+    "name": "Baringo"
+  },
+  "BOM": {
+    "name": "Bomet"
+  },
+  "BUN": {
+    "name": "Bungoma"
+  },
+  "BUS": {
+    "name": "Busia"
+  },
+  "ELG": {
+    "name": "Elgeyo-Marakwet"
+  },
+  "EMB": {
+    "name": "Embu"
+  },
+  "GAR": {
+    "name": "Garissa"
+  },
+  "HOM": {
+    "name": "Homa Bay"
+  },
+  "ISI": {
+    "name": "Isiolo"
+  },
+  "KAJ": {
+    "name": "Kajiado"
+  },
+  "KAK": {
+    "name": "Kakamega"
+  },
+  "KER": {
+    "name": "Kericho"
+  },
+  "KIA": {
+    "name": "Kiambu"
+  },
+  "KIL": {
+    "name": "Kilifi"
+  },
+  "KIR": {
+    "name": "Kirinyaga"
+  },
+  "KIS": {
+    "name": "Kisii"
+  },
+  "KISU": {
+    "name": "Kisumu"
+  },
+  "KIT": {
+    "name": "Kitui"
+  },
+  "KWA": {
+    "name": "Kwale"
+  },
+  "LAI": {
+    "name": "Laikipia"
+  },
+  "LAM": {
+    "name": "Lamu"
+  },
+  "MAC": {
+    "name": "Machakos"
+  },
+  "MAK": {
+    "name": "Makueni"
+  },
+  "MAN": {
+    "name": "Mandera"
+  },
+  "MAR": {
+    "name": "Marsabit"
+  },
+  "MER": {
+    "name": "Meru"
+  },
+  "MIG": {
+    "name": "Migori"
+  },
+  "MOM": {
+    "name": "Mombasa"
+  },
+  "MUR": {
+    "name": "Murang'a"
+  },
+  "NAI": {
+    "name": "Nairobi City"
+  },
+  "NAK": {
+    "name": "Nakuru"
+  },
+  "NAN": {
+    "name": "Nandi"
+  },
+  "NAR": {
+    "name": "Narok"
+  },
+  "NYA": {
+    "name": "Nyamira"
+  },
+  "NYAN": {
+    "name": "Nyandarua"
+  },
+  "NYE": {
+    "name": "Nyeri"
+  },
+  "SAM": {
+    "name": "Samburu"
+  },
+  "SIA": {
+    "name": "Siaya"
+  },
+  "TAI": {
+    "name": "Taita–Taveta"
+  },
+  "TAN": {
+    "name": "Tana River"
+  },
+  "THA": {
+    "name": "Tharaka-Nithi"
+  },
+  "TRA": {
+    "name": "Trans Nzoia"
+  },
+  "TUR": {
+    "name": "Turkana"
+  },
+  "UAS": {
+    "name": "Uasin Gishu"
+  },
+  "VIH": {
+    "name": "Vihiga"
+  },
+  "WAJ": {
+    "name": "Wajir"
+  },
+  "WES": {
+    "name": "West Pokot"
+  }
+}

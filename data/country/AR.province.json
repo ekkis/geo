@@ -1,86 +1,74 @@
 {
-  "Buenos Aires": {
-    "BA": {
-      "name": "Buenos Aires"
-    },
-    "CA": {
-      "name": "Ciudad Autónoma de Buenos Aires"
-    }
+  "C": {
+    "name": "Autonomous City of Buenos Aires"
   },
-  "Northwest": {
-    "CAT": {
-      "name": "Catamarca"
-    },
-    "JUJ": {
-      "name": "Jujuy"
-    },
-    "SAL": {
-      "name": "Salta"
-    },
-    "SD": {
-      "name": "Santiago del Estero"
-    },
-    "TUC": {
-      "name": "Tucumán"
-    }
+  "B": {
+    "name": "Buenos Aires"
   },
-  "Northeast": {
-    "CHA": {
-      "name": "Chaco"
-    },
-    "COR": {
-      "name": "Corrientes"
-    },
-    "ER": {
-      "name": "Entre Ríos"
-    },
-    "FOR": {
-      "name": "Formosa"
-    },
-    "MIS": {
-      "name": "Misiones"
-    }
+  "K": {
+    "name": "Catamarca"
   },
-  "Patagonia": {
-    "CHU": {
-      "name": "Chubut"
-    },
-    "LP": {
-      "name": "La Pampa"
-    },
-    "NEU": {
-      "name": "Neuquén"
-    },
-    "RN": {
-      "name": "Río Negro"
-    },
-    "SC": {
-      "name": "Santa Cruz"
-    }
+  "H": {
+    "name": "Chaco"
   },
-  "Pampas": {
-    "CÓR": {
-      "name": "Córdoba"
-    },
-    "SF": {
-      "name": "Santa Fe"
-    }
+  "U": {
+    "name": "Chubut"
   },
-  "Cuyo": {
-    "LR": {
-      "name": "La Rioja"
-    },
-    "MEN": {
-      "name": "Mendoza"
-    },
-    "SJ": {
-      "name": "San Juan"
-    },
-    "SL": {
-      "name": "San Luis"
-    }
+  "X": {
+    "name": "Córdoba"
   },
-  "TD": {
-    "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+  "W": {
+    "name": "Corrientes"
+  },
+  "E": {
+    "name": "Entre Ríos"
+  },
+  "P": {
+    "name": "Formosa"
+  },
+  "Y": {
+    "name": "Jujuy"
+  },
+  "L": {
+    "name": "La Pampa"
+  },
+  "F": {
+    "name": "La Rioja"
+  },
+  "M": {
+    "name": "Mendoza"
+  },
+  "N": {
+    "name": "Misiones"
+  },
+  "Q": {
+    "name": "Neuquén"
+  },
+  "R": {
+    "name": "Río Negro"
+  },
+  "A": {
+    "name": "Salta"
+  },
+  "J": {
+    "name": "San Juan"
+  },
+  "D": {
+    "name": "San Luis"
+  },
+  "Z": {
+    "name": "Santa Cruz"
+  },
+  "S": {
+    "name": "Santa Fe"
+  },
+  "G": {
+    "name": "Santiago del Estero"
+  },
+  "V": {
+    "name": "Tierra del Fuego"
+  },
+  "T": {
+    "name": "Tucumán"
   }
 }

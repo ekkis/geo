@@ -1,1 +1,44 @@
-{}
+{
+  "HA": {
+    "name": "Al-Hasakah"
+  },
+  "RA": {
+    "name": "Al-Raqqah"
+  },
+  "HL": {
+    "name": "Aleppo"
+  },
+  "SU": {
+    "name": "As-Suwayda"
+  },
+  "DI": {
+    "name": "Damascus"
+  },
+  "DR": {
+    "name": "Daraa"
+  },
+  "DY": {
+    "name": "Deir ez-Zor"
+  },
+  "HM": {
+    "name": "Hama"
+  },
+  "HI": {
+    "name": "Homs"
+  },
+  "ID": {
+    "name": "Idlib"
+  },
+  "LA": {
+    "name": "Latakia"
+  },
+  "QU": {
+    "name": "Quneitra"
+  },
+  "RD": {
+    "name": "Rif Dimashq"
+  },
+  "TA": {
+    "name": "Tartus"
+  }
+}

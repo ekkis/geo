@@ -1,32 +1,20 @@
 {
-  "Famagusta": {
-    "FAM": {
-      "name": "Famagusta"
-    }
+  "FAM": {
+    "name": "Famagusta (Mağusa)"
   },
-  "Kyrenia": {
-    "KYR": {
-      "name": "Kyrenia"
-    }
+  "KYR": {
+    "name": "Kyrenia (Keryneia)"
   },
-  "Larnaca": {
-    "LAR": {
-      "name": "Larnaca"
-    }
+  "LAR": {
+    "name": "Larnaca (Larnaka)"
   },
-  "Limassol": {
-    "LIM": {
-      "name": "Limassol"
-    }
+  "LIM": {
+    "name": "Limassol (Leymasun)"
   },
-  "Nicosia": {
-    "NIC": {
-      "name": "Nicosia"
-    }
+  "NIC": {
+    "name": "Nicosia (Lefkoşa)"
   },
-  "Paphos": {
-    "PAP": {
-      "name": "Paphos"
-    }
+  "PAP": {
+    "name": "Paphos (Pafos)"
   }
 }

@@ -1,1 +1,74 @@
-{}
+{
+  "A": {
+    "name": "Azuay"
+  },
+  "B": {
+    "name": "Bolívar"
+  },
+  "F": {
+    "name": "Cañar"
+  },
+  "C": {
+    "name": "Carchi"
+  },
+  "H": {
+    "name": "Chimborazo"
+  },
+  "X": {
+    "name": "Cotopaxi"
+  },
+  "O": {
+    "name": "El Oro"
+  },
+  "E": {
+    "name": "Esmeraldas"
+  },
+  "W": {
+    "name": "Galápagos"
+  },
+  "G": {
+    "name": "Guayas"
+  },
+  "I": {
+    "name": "Imbabura"
+  },
+  "L": {
+    "name": "Loja"
+  },
+  "R": {
+    "name": "Los Ríos"
+  },
+  "M": {
+    "name": "Manabí"
+  },
+  "S": {
+    "name": "Morona-Santiago"
+  },
+  "N": {
+    "name": "Napo"
+  },
+  "D": {
+    "name": "Orellana"
+  },
+  "Y": {
+    "name": "Pastaza"
+  },
+  "P": {
+    "name": "Pichincha"
+  },
+  "SE": {
+    "name": "Santa Elena"
+  },
+  "SD": {
+    "name": "Santo Domingo de los Tsáchilas"
+  },
+  "U": {
+    "name": "Sucumbíos"
+  },
+  "T": {
+    "name": "Tungurahua"
+  },
+  "Z": {
+    "name": "Zamora Chinchipe"
+  }
+}

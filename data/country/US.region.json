@@ -1,272 +1,182 @@
 {
-  "south": {
-    "name": "South",
-    "states": [
-      "AL",
-      "AR",
-      "FL",
-      "GA",
-      "KY",
-      "LA",
-      "MS",
-      "MO",
-      "NC",
-      "SC",
-      "TN",
-      "VA",
-      "WV"
-    ]
+  "AL": {
+    "name": "Alabama"
   },
-  "midwest": {
-    "name": "Midwest",
-    "states": [
-      "IL",
-      "IN",
-      "IA",
-      "KS",
-      "MI",
-      "MN",
-      "MO",
-      "NE",
-      "ND",
-      "OH",
-      "SD",
-      "WI"
-    ]
+  "AK": {
+    "name": "Alaska"
   },
-  "west": {
-    "name": "West",
-    "states": [
-      "AK",
-      "AZ",
-      "CA",
-      "CO",
-      "HI",
-      "ID",
-      "MT",
-      "NV",
-      "NM",
-      "OR",
-      "UT",
-      "WA",
-      "WY"
-    ]
+  "AS": {
+    "name": "American Samoa"
   },
-  "northeast": {
-    "name": "Northeast",
-    "states": [
-      "CT",
-      "ME",
-      "MA",
-      "NH",
-      "RI",
-      "VT",
-      "NJ",
-      "NY",
-      "PA"
-    ]
+  "AZ": {
+    "name": "Arizona"
   },
-  "southwest": {
-    "name": "Southwest",
-    "states": [
-      "AZ",
-      "NM",
-      "OK",
-      "TX"
-    ]
+  "AR": {
+    "name": "Arkansas"
   },
-  "southeast": {
-    "name": "Southeast",
-    "states": [
-      "AL",
-      "FL",
-      "GA",
-      "KY",
-      "MS",
-      "NC",
-      "SC",
-      "TN",
-      "VA",
-      "WV"
-    ]
+  "AE": {
+    "name": "Armed Forces Europe"
   },
-  "mid_atlantic": {
-    "name": "Mid-Atlantic",
-    "states": [
-      "DE",
-      "MD",
-      "NJ",
-      "NY",
-      "PA",
-      "VA",
-      "WV"
-    ]
+  "AA": {
+    "name": "Armed Forces of the Americas"
   },
-  "mountain": {
-    "name": "Mountain",
-    "states": [
-      "AZ",
-      "CO",
-      "ID",
-      "MT",
-      "NV",
-      "NM",
-      "UT",
-      "WY"
-    ]
+  "AP": {
+    "name": "Armed Forces Pacific"
   },
-  "pacific": {
-    "name": "Pacific",
-    "states": [
-      "CA",
-      "HI",
-      "OR",
-      "WA"
-    ]
+  "CA": {
+    "name": "California"
   },
-  "east_coast": {
-    "name": "East Coast",
-    "states": [
-      "CT",
-      "DE",
-      "FL",
-      "GA",
-      "ME",
-      "MD",
-      "MA",
-      "NH",
-      "NJ",
-      "NY",
-      "NC",
-      "RI",
-      "SC",
-      "VA"
-    ]
+  "CO": {
+    "name": "Colorado"
   },
-  "great_plains": {
-    "name": "Great Plains",
-    "states": [
-      "CO",
-      "IA",
-      "KS",
-      "MN",
-      "NE",
-      "ND",
-      "OK",
-      "SD",
-      "TX"
-    ]
+  "CT": {
+    "name": "Connecticut"
   },
-  "east_north_central": {
-    "name": "East North Central",
-    "states": [
-      "IL",
-      "IN",
-      "MI",
-      "OH",
-      "WI"
-    ]
+  "DE": {
+    "name": "Delaware"
   },
-  "west_north_central": {
-    "name": "West North Central",
-    "states": [
-      "IA",
-      "KS",
-      "MN",
-      "MO",
-      "NE",
-      "ND",
-      "SD"
-    ]
+  "DC": {
+    "name": "District of Columbia"
   },
-  "south_atlantic": {
-    "name": "South Atlantic",
-    "states": [
-      "DE",
-      "FL",
-      "GA",
-      "MD",
-      "NC",
-      "SC",
-      "VA"
-    ]
+  "FL": {
+    "name": "Florida"
   },
-  "east_south_central": {
-    "name": "East South Central",
-    "states": [
-      "AL",
-      "KY",
-      "MS",
-      "TN"
-    ]
+  "GA": {
+    "name": "Georgia"
   },
-  "west_south_central": {
-    "name": "West South Central",
-    "states": [
-      "AR",
-      "LA",
-      "OK",
-      "TX"
-    ]
+  "GU": {
+    "name": "Guam"
   },
-  "new_england": {
-    "name": "New England",
-    "states": [
-      "CT",
-      "ME",
-      "MA",
-      "NH",
-      "RI",
-      "VT"
-    ]
+  "HI": {
+    "name": "Hawaii"
   },
-  "mid_atlantic_region": {
-    "name": "Mid-Atlantic Region",
-    "states": [
-      "NJ",
-      "NY",
-      "PA"
-    ]
+  "ID": {
+    "name": "Idaho"
   },
-  "pacific_nw": {
-    "name": "Pacific Northwest",
-    "states": [
-      "OR",
-      "WA"
-    ]
+  "IL": {
+    "name": "Illinois"
   },
-  "east_south_central_region": {
-    "name": "East South Central",
-    "states": [
-      "AL",
-      "KY",
-      "MS",
-      "TN"
-    ]
+  "IN": {
+    "name": "Indiana"
   },
-  "west_south_central_region": {
-    "name": "West South Central",
-    "states": [
-      "AR",
-      "LA",
-      "OK",
-      "TX"
-    ]
+  "IA": {
+    "name": "Iowa"
   },
-  "mountain_pacific": {
-    "name": "Mountain/Pacific",
-    "states": [
-      "AZ",
-      "CA",
-      "CO",
-      "ID",
-      "MT",
-      "NV",
-      "NM",
-      "OR",
-      "UT",
-      "WA",
-      "WY"
-    ]
+  "KS": {
+    "name": "Kansas"
+  },
+  "KY": {
+    "name": "Kentucky"
+  },
+  "LA": {
+    "name": "Louisiana"
+  },
+  "ME": {
+    "name": "Maine"
+  },
+  "MD": {
+    "name": "Maryland"
+  },
+  "MA": {
+    "name": "Massachusetts"
+  },
+  "MI": {
+    "name": "Michigan"
+  },
+  "MN": {
+    "name": "Minnesota"
+  },
+  "MS": {
+    "name": "Mississippi"
+  },
+  "MO": {
+    "name": "Missouri"
+  },
+  "MT": {
+    "name": "Montana"
+  },
+  "NE": {
+    "name": "Nebraska"
+  },
+  "NV": {
+    "name": "Nevada"
+  },
+  "NH": {
+    "name": "New Hampshire"
+  },
+  "NJ": {
+    "name": "New Jersey"
+  },
+  "NM": {
+    "name": "New Mexico"
+  },
+  "NY": {
+    "name": "New York"
+  },
+  "NC": {
+    "name": "North Carolina"
+  },
+  "ND": {
+    "name": "North Dakota"
+  },
+  "MP": {
+    "name": "Northern Mariana Islands"
+  },
+  "OH": {
+    "name": "Ohio"
+  },
+  "OK": {
+    "name": "Oklahoma"
+  },
+  "OR": {
+    "name": "Oregon"
+  },
+  "PA": {
+    "name": "Pennsylvania"
+  },
+  "PR": {
+    "name": "Puerto Rico"
+  },
+  "RI": {
+    "name": "Rhode Island"
+  },
+  "SC": {
+    "name": "South Carolina"
+  },
+  "SD": {
+    "name": "South Dakota"
+  },
+  "TN": {
+    "name": "Tennessee"
+  },
+  "TX": {
+    "name": "Texas"
+  },
+  "UM": {
+    "name": "United States Minor Outlying Islands"
+  },
+  "VI": {
+    "name": "United States Virgin Islands"
+  },
+  "UT": {
+    "name": "Utah"
+  },
+  "VT": {
+    "name": "Vermont"
+  },
+  "VA": {
+    "name": "Virginia"
+  },
+  "WA": {
+    "name": "Washington"
+  },
+  "WV": {
+    "name": "West Virginia"
+  },
+  "WI": {
+    "name": "Wisconsin"
+  },
+  "WY": {
+    "name": "Wyoming"
   }
 }

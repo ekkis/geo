@@ -1,67 +1,41 @@
 {
-  "Aileu": {
-    "AILEU": {
-      "name": "Aileu"
-    }
+  "AL": {
+    "name": "Aileu"
   },
-  "Ainaro": {
-    "AINARO": {
-      "name": "Ainaro"
-    }
+  "AN": {
+    "name": "Ainaro"
   },
-  "Baucau": {
-    "BAUCAU": {
-      "name": "Baucau"
-    }
+  "BA": {
+    "name": "Baucau"
   },
-  "Bobonaro": {
-    "BOBONAR": {
-      "name": "Bobonaro"
-    }
+  "BO": {
+    "name": "Bobonaro"
   },
-  "Cova Lima": {
-    "COVAI": {
-      "name": "Cova Lima"
-    }
+  "CO": {
+    "name": "Cova Lima"
   },
-  "Dili": {
-    "DILI": {
-      "name": "Dili"
-    }
+  "DI": {
+    "name": "Dili"
   },
-  "Ermera": {
-    "ERME": {
-      "name": "Ermera"
-    }
+  "ER": {
+    "name": "Ermera"
   },
-  "Lautém": {
-    "LAUTEM": {
-      "name": "Lautém"
-    }
+  "LA": {
+    "name": "Lautém"
   },
-  "Liquiçá": {
-    "LIQUI": {
-      "name": "Liquiçá"
-    }
+  "LI": {
+    "name": "Liquiçá"
   },
-  "Manatuto": {
-    "MANATU": {
-      "name": "Manatuto"
-    }
+  "MT": {
+    "name": "Manatuto"
   },
-  "Manufahi": {
-    "MANUFA": {
-      "name": "Manufahi"
-    }
+  "MF": {
+    "name": "Manufahi"
   },
-  "Oecusse": {
-    "OECUSSE": {
-      "name": "Oecusse"
-    }
+  "OE": {
+    "name": "Oecusse"
   },
-  "Viqueque": {
-    "VIQUE": {
-      "name": "Viqueque"
-    }
+  "VI": {
+    "name": "Viqueque"
   }
 }

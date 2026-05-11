@@ -1,96 +1,98 @@
 {
-  "Belgrade": {
-    "BEL": {
-      "name": "Belgrade"
-    }
+  "BEL": {
+    "name": "Belgrade"
   },
-  "Bor": {
-    "BOR": {
-      "name": "Bor"
-    }
+  "BOR": {
+    "name": "Bor"
   },
-  "Braničevo": {
-    "BRA": {
-      "name": "Braničevo"
-    },
-    "BRA1": {
-      "name": "Braničevo"
-    }
+  "BRA": {
+    "name": "Braničevo"
   },
-  "Jablanica": {
-    "JAB": {
-      "name": "Jablanica"
-    }
+  "CEN": {
+    "name": "Central Banat"
   },
-  "Kolubara": {
-    "KOL": {
-      "name": "Kolubara"
-    }
+  "JAB": {
+    "name": "Jablanica"
   },
-  "Mačva": {
-    "MAC": {
-      "name": "Mačva"
-    }
+  "KOL": {
+    "name": "Kolubara"
   },
-  "Moravica": {
-    "MOR": {
-      "name": "Moravica"
-    }
+  "KOS": {
+    "name": "Kosovo"
   },
-  "Nišava": {
-    "NIS": {
-      "name": "Nišava"
-    }
+  "KM": {
+    "name": "Kosovo-Metohija"
   },
-  "Pčinja": {
-    "PCI": {
-      "name": "Pčinja"
-    },
-    "PCI1": {
-      "name": "Pčinja"
-    }
+  "KP": {
+    "name": "Kosovo-Pomoravlje"
   },
-  "Podunavlje": {
-    "POD": {
-      "name": "Podunavlje"
-    }
+  "KOSM": {
+    "name": "Kosovska Mitrovica"
   },
-  "Pomoravlje": {
-    "POM": {
-      "name": "Pomoravlje"
-    }
+  "MAC": {
+    "name": "Mačva"
   },
-  "Rasina": {
-    "RAS": {
-      "name": "Rasina"
-    }
+  "MOR": {
+    "name": "Moravica"
   },
-  "Raska": {
-    "RAS1": {
-      "name": "Raska"
-    }
+  "NIS": {
+    "name": "Nišava"
   },
-  "Southern and Eastern Serbia": {
-    "SOUAN": {
-      "name": "Southern and Eastern Serbia"
-    }
+  "NOR": {
+    "name": "North Bačka"
   },
-  "Šumadija and Western Serbia": {
-    "SUMAN": {
-      "name": "Šumadija and Western Serbia"
-    }
+  "NB": {
+    "name": "North Banat"
   },
-  "Vojvodina": {
-    "VOJ": {
-      "name": "Vojvodina"
-    }
+  "PCI": {
+    "name": "Pčinja"
   },
-  "Zlatibor": {
-    "ZLA": {
-      "name": "Zlatibor"
-    },
-    "ZLA1": {
-      "name": "Zlatibor"
-    }
+  "PEC": {
+    "name": "Peć"
+  },
+  "PIR": {
+    "name": "Pirot"
+  },
+  "POD": {
+    "name": "Podunavlje"
+  },
+  "POM": {
+    "name": "Pomoravlje"
+  },
+  "PRI": {
+    "name": "Prizren"
+  },
+  "RAS": {
+    "name": "Rasina"
+  },
+  "RASK": {
+    "name": "Raška"
+  },
+  "SOU": {
+    "name": "South Bačka"
+  },
+  "SB": {
+    "name": "South Banat"
+  },
+  "SRE": {
+    "name": "Srem"
+  },
+  "SUM": {
+    "name": "Šumadija"
+  },
+  "TOP": {
+    "name": "Toplica"
+  },
+  "VO": {
+    "name": "Vojvodina"
+  },
+  "WES": {
+    "name": "West Bačka"
+  },
+  "ZAJ": {
+    "name": "Zaječar"
+  },
+  "ZLA": {
+    "name": "Zlatibor"
   }
 }

@@ -1,1 +1,56 @@
-{}
+{
+  "GZ": {
+    "name": "Al Jazirah"
+  },
+  "GD": {
+    "name": "Al Qadarif"
+  },
+  "NB": {
+    "name": "Blue Nile"
+  },
+  "DC": {
+    "name": "Central Darfur"
+  },
+  "DE": {
+    "name": "East Darfur"
+  },
+  "KA": {
+    "name": "Kassala"
+  },
+  "KH": {
+    "name": "Khartoum"
+  },
+  "DN": {
+    "name": "North Darfur"
+  },
+  "KN": {
+    "name": "North Kordofan"
+  },
+  "NO": {
+    "name": "Northern"
+  },
+  "RS": {
+    "name": "Red Sea"
+  },
+  "NR": {
+    "name": "River Nile"
+  },
+  "SI": {
+    "name": "Sennar"
+  },
+  "DS": {
+    "name": "South Darfur"
+  },
+  "KS": {
+    "name": "South Kordofan"
+  },
+  "DW": {
+    "name": "West Darfur"
+  },
+  "GK": {
+    "name": "West Kordofan"
+  },
+  "NW": {
+    "name": "White Nile"
+  }
+}

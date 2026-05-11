@@ -1,9 +1,23 @@
-[
-  "Andorra la Vella",
-  "Canillo",
-  "Encamp",
-  "Escaldes-Engordany",
-  "La Massana",
-  "Ordino",
-  "Sant Julià de Lòria"
-]
+{
+  "AND": {
+    "name": "Andorra la Vella"
+  },
+  "CAN": {
+    "name": "Canillo"
+  },
+  "ENC": {
+    "name": "Encamp"
+  },
+  "ESC": {
+    "name": "Escaldes-Engordany"
+  },
+  "MAS": {
+    "name": "La Massana"
+  },
+  "ORD": {
+    "name": "Ordino"
+  },
+  "SAN": {
+    "name": "Sant Julià de Lòria"
+  }
+}

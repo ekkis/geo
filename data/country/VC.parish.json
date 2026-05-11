@@ -1,1 +1,20 @@
-{}
+{
+  "CHA": {
+    "name": "Charlotte"
+  },
+  "GRE": {
+    "name": "Grenadines"
+  },
+  "AND": {
+    "name": "Saint Andrew"
+  },
+  "DAV": {
+    "name": "Saint David"
+  },
+  "GEO": {
+    "name": "Saint George"
+  },
+  "PAT": {
+    "name": "Saint Patrick"
+  }
+}

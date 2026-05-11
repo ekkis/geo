@@ -1,22 +1,92 @@
 {
-  "Connacht": {
-    "CON": {
-      "name": "Connacht"
-    }
+  "CW": {
+    "name": "Carlow"
   },
-  "Leinster": {
-    "LEI": {
-      "name": "Leinster"
-    }
+  "CN": {
+    "name": "Cavan"
   },
-  "Munster": {
-    "MUN": {
-      "name": "Munster"
-    }
+  "CE": {
+    "name": "Clare"
   },
-  "Ulster": {
-    "ULS": {
-      "name": "Ulster"
-    }
+  "C": {
+    "name": "Connacht"
+  },
+  "CO": {
+    "name": "Cork"
+  },
+  "DL": {
+    "name": "Donegal"
+  },
+  "D": {
+    "name": "Dublin"
+  },
+  "G": {
+    "name": "Galway"
+  },
+  "KY": {
+    "name": "Kerry"
+  },
+  "KE": {
+    "name": "Kildare"
+  },
+  "KK": {
+    "name": "Kilkenny"
+  },
+  "LS": {
+    "name": "Laois"
+  },
+  "L": {
+    "name": "Leinster"
+  },
+  "LM": {
+    "name": "Leitrim"
+  },
+  "LK": {
+    "name": "Limerick"
+  },
+  "LD": {
+    "name": "Longford"
+  },
+  "LH": {
+    "name": "Louth"
+  },
+  "MO": {
+    "name": "Mayo"
+  },
+  "MH": {
+    "name": "Meath"
+  },
+  "MN": {
+    "name": "Monaghan"
+  },
+  "M": {
+    "name": "Munster"
+  },
+  "OY": {
+    "name": "Offaly"
+  },
+  "RN": {
+    "name": "Roscommon"
+  },
+  "SO": {
+    "name": "Sligo"
+  },
+  "TA": {
+    "name": "Tipperary"
+  },
+  "U": {
+    "name": "Ulster"
+  },
+  "WD": {
+    "name": "Waterford"
+  },
+  "WH": {
+    "name": "Westmeath"
+  },
+  "WX": {
+    "name": "Wexford"
+  },
+  "WW": {
+    "name": "Wicklow"
   }
 }

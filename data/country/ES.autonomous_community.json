@@ -1,170 +1,209 @@
 {
-  "Castile-La Mancha": {
-    "ALB": {
-      "name": "Albacete"
-    },
-    "CR": {
-      "name": "Ciudad Real"
-    },
-    "CUE": {
-      "name": "Cuenca"
-    },
-    "GUA": {
-      "name": "Guadalajara"
-    },
-    "TOL": {
-      "name": "Toledo"
-    }
+  "C": {
+    "name": "A Coruña"
   },
-  "Valencian Community": {
-    "ALI": {
-      "name": "Alicante"
-    },
-    "CAS": {
-      "name": "Castellón"
-    }
+  "AB": {
+    "name": "Albacete"
   },
-  "Andalusia": {
-    "ALM": {
-      "name": "Almeria"
-    },
-    "CÁD": {
-      "name": "Cádiz"
-    },
-    "CÓR": {
-      "name": "Córdoba"
-    },
-    "GRA": {
-      "name": "Granada"
-    },
-    "HUE": {
-      "name": "Huelva"
-    },
-    "JAÉ": {
-      "name": "Jaén"
-    },
-    "MÁL": {
-      "name": "Málaga"
-    },
-    "SEV": {
-      "name": "Sevilla"
-    }
+  "A": {
+    "name": "Alicante"
   },
-  "Asturias": {
-    "AST": {
-      "name": "Asturias"
-    }
+  "AL": {
+    "name": "Almeria"
   },
-  "Extremadura": {
-    "BAD": {
-      "name": "Badajoz"
-    },
-    "CÁC": {
-      "name": "Cáceres"
-    }
+  "AN": {
+    "name": "Andalusia"
   },
-  "Balearic Islands": {
-    "BAL": {
-      "name": "Baleares"
-    }
+  "VI": {
+    "name": "Araba"
   },
-  "Catalonia": {
-    "BAR": {
-      "name": "Barcelona"
-    },
-    "GER": {
-      "name": "Gerona"
-    },
-    "LÉR": {
-      "name": "Lérida"
-    },
-    "TAR": {
-      "name": "Tarragona"
-    }
+  "AR": {
+    "name": "Aragon"
   },
-  "Castile and León": {
-    "BUR": {
-      "name": "Burgos"
-    },
-    "LEÓ": {
-      "name": "León"
-    },
-    "PAL": {
-      "name": "Palencia"
-    },
-    "SAL": {
-      "name": "Salamanca"
-    },
-    "SEG": {
-      "name": "Segovia"
-    },
-    "SOR": {
-      "name": "Soria"
-    },
-    "VAL": {
-      "name": "Valladolid"
-    },
-    "ZAM": {
-      "name": "Zamora"
-    },
-    "ÁVI": {
-      "name": "Ávila"
-    }
+  "O": {
+    "name": "Asturias"
   },
-  "Basque Country": {
-    "GUI": {
-      "name": "Guipúzcoa"
-    },
-    "VIZ": {
-      "name": "Vizcaya"
-    },
-    "ÁLA": {
-      "name": "Álava"
-    }
+  "AS": {
+    "name": "Asturias, Principality of"
   },
-  "Galicia": {
-    "LC": {
-      "name": "La Coruña"
-    },
-    "LUG": {
-      "name": "Lugo"
-    },
-    "ORE": {
-      "name": "Orense"
-    },
-    "PON": {
-      "name": "Pontevedra"
-    }
+  "AV": {
+    "name": "Ávila"
   },
-  "Canary Islands": {
-    "LP": {
-      "name": "Las Palmas"
-    },
-    "TEN": {
-      "name": "Tenerife"
-    }
+  "BA": {
+    "name": "Badajoz"
   },
-  "La Rioja": {
-    "LR": {
-      "name": "La Rioja"
-    }
+  "IB": {
+    "name": "Balearic Islands"
   },
-  "Madrid": {
-    "MAD": {
-      "name": "Madrid"
-    }
+  "B": {
+    "name": "Barcelona"
   },
-  "Murcia": {
-    "MUR": {
-      "name": "Murcia"
-    }
+  "PV": {
+    "name": "Basque Country"
   },
-  "Aragon": {
-    "TER": {
-      "name": "Teruel"
-    },
-    "ZAR": {
-      "name": "Zaragoza"
-    }
+  "BI": {
+    "name": "Bizkaia"
+  },
+  "BU": {
+    "name": "Burgos"
+  },
+  "CC": {
+    "name": "Caceres"
+  },
+  "CA": {
+    "name": "Cádiz"
+  },
+  "CN": {
+    "name": "Canary Islands"
+  },
+  "S": {
+    "name": "Cantabria"
+  },
+  "CB": {
+    "name": "Cantabria"
+  },
+  "CS": {
+    "name": "Castellón"
+  },
+  "CL": {
+    "name": "Castile and Leon"
+  },
+  "CM": {
+    "name": "Castilla-La Mancha"
+  },
+  "CT": {
+    "name": "Catalonia"
+  },
+  "CE": {
+    "name": "Ceuta"
+  },
+  "CR": {
+    "name": "Ciudad Real"
+  },
+  "MD": {
+    "name": "Community of Madrid"
+  },
+  "CO": {
+    "name": "Córdoba"
+  },
+  "CU": {
+    "name": "Cuenca"
+  },
+  "EX": {
+    "name": "Estremadura"
+  },
+  "GA": {
+    "name": "Galicia"
+  },
+  "SS": {
+    "name": "Gipuzkoa"
+  },
+  "GI": {
+    "name": "Girona"
+  },
+  "GR": {
+    "name": "Granada"
+  },
+  "GU": {
+    "name": "Guadalajara"
+  },
+  "H": {
+    "name": "Huelva"
+  },
+  "HU": {
+    "name": "Huesca"
+  },
+  "PM": {
+    "name": "Islas Baleares"
+  },
+  "J": {
+    "name": "Jaén"
+  },
+  "RI": {
+    "name": "La Rioja"
+  },
+  "LO": {
+    "name": "La Rioja"
+  },
+  "GC": {
+    "name": "Las Palmas"
+  },
+  "LE": {
+    "name": "León"
+  },
+  "L": {
+    "name": "Lleida"
+  },
+  "LU": {
+    "name": "Lugo"
+  },
+  "M": {
+    "name": "Madrid"
+  },
+  "MA": {
+    "name": "Málaga"
+  },
+  "ML": {
+    "name": "Melilla"
+  },
+  "MU": {
+    "name": "Murcia"
+  },
+  "NA": {
+    "name": "Navarra"
+  },
+  "NC": {
+    "name": "Navarre"
+  },
+  "OR": {
+    "name": "Ourense"
+  },
+  "P": {
+    "name": "Palencia"
+  },
+  "PO": {
+    "name": "Pontevedra"
+  },
+  "MC": {
+    "name": "Region of Murcia"
+  },
+  "SA": {
+    "name": "Salamanca"
+  },
+  "TF": {
+    "name": "Santa Cruz de Tenerife"
+  },
+  "SG": {
+    "name": "Segovia"
+  },
+  "SE": {
+    "name": "Sevilla"
+  },
+  "SO": {
+    "name": "Soria"
+  },
+  "T": {
+    "name": "Tarragona"
+  },
+  "TE": {
+    "name": "Teruel"
+  },
+  "TO": {
+    "name": "Toledo"
+  },
+  "V": {
+    "name": "Valencia"
+  },
+  "VC": {
+    "name": "Valencian Community"
+  },
+  "VA": {
+    "name": "Valladolid"
+  },
+  "ZA": {
+    "name": "Zamora"
+  },
+  "Z": {
+    "name": "Zaragoza"
   }
 }

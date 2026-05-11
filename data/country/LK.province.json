@@ -1,1 +1,104 @@
-{}
+{
+  "AMP": {
+    "name": "Ampara"
+  },
+  "ANU": {
+    "name": "Anuradhapura"
+  },
+  "BAD": {
+    "name": "Badulla"
+  },
+  "BAT": {
+    "name": "Batticaloa"
+  },
+  "CEN": {
+    "name": "Central"
+  },
+  "COL": {
+    "name": "Colombo"
+  },
+  "EAS": {
+    "name": "Eastern"
+  },
+  "GAL": {
+    "name": "Galle"
+  },
+  "GAM": {
+    "name": "Gampaha"
+  },
+  "HAM": {
+    "name": "Hambantota"
+  },
+  "JAF": {
+    "name": "Jaffna"
+  },
+  "KAL": {
+    "name": "Kalutara"
+  },
+  "KAN": {
+    "name": "Kandy"
+  },
+  "KEG": {
+    "name": "Kegalle"
+  },
+  "KIL": {
+    "name": "Kilinochchi"
+  },
+  "KUR": {
+    "name": "Kurunegala"
+  },
+  "MAN": {
+    "name": "Mannar"
+  },
+  "MAT": {
+    "name": "Matale"
+  },
+  "MATA": {
+    "name": "Matara"
+  },
+  "MON": {
+    "name": "Monaragala"
+  },
+  "MUL": {
+    "name": "Mullaitivu"
+  },
+  "NOR": {
+    "name": "North Central"
+  },
+  "NW": {
+    "name": "North Western"
+  },
+  "NORT": {
+    "name": "Northern"
+  },
+  "NUW": {
+    "name": "Nuwara Eliya"
+  },
+  "POL": {
+    "name": "Polonnaruwa"
+  },
+  "PUT": {
+    "name": "Puttalam"
+  },
+  "RAT": {
+    "name": "Ratnapura"
+  },
+  "SAB": {
+    "name": "Sabaragamuwa"
+  },
+  "SOU": {
+    "name": "Southern"
+  },
+  "TRI": {
+    "name": "Trincomalee"
+  },
+  "UVA": {
+    "name": "Uva"
+  },
+  "VAV": {
+    "name": "Vavuniya"
+  },
+  "WES": {
+    "name": "Western"
+  }
+}

@@ -2,32 +2,119 @@
   "ADR": {
     "name": "Adrar"
   },
+  "AIN": {
+    "name": "Aïn Defla"
+  },
+  "AT": {
+    "name": "Aïn Témouchent"
+  },
+  "ALG": {
+    "name": "Algiers"
+  },
   "ANN": {
     "name": "Annaba"
-  },
-  "BSK": {
-    "name": "Biskra"
   },
   "BT": {
     "name": "Batna"
   },
-  "CHE": {
-    "name": "Cherchell"
+  "BEC": {
+    "name": "Béchar"
+  },
+  "BEJ": {
+    "name": "Béjaïa"
+  },
+  "BEN": {
+    "name": "Béni Abbès"
+  },
+  "BSK": {
+    "name": "Biskra"
+  },
+  "BLI": {
+    "name": "Blida"
+  },
+  "BOR": {
+    "name": "Bordj Baji Mokhtar"
+  },
+  "BBA": {
+    "name": "Bordj Bou Arréridj"
+  },
+  "BOU": {
+    "name": "Bouïra"
+  },
+  "BOUM": {
+    "name": "Boumerdès"
+  },
+  "CHL": {
+    "name": "Chlef"
   },
   "CON": {
     "name": "Constantine"
   },
+  "DJA": {
+    "name": "Djanet"
+  },
+  "DJE": {
+    "name": "Djelfa"
+  },
   "EO": {
     "name": "El Bayadh"
+  },
+  "MXX": {
+    "name": "El M'ghair"
+  },
+  "MEN": {
+    "name": "El Menia"
+  },
+  "OUE": {
+    "name": "El Oued"
+  },
+  "TAR": {
+    "name": "El Tarf"
+  },
+  "GHA": {
+    "name": "Ghardaïa"
+  },
+  "GUE": {
+    "name": "Guelma"
   },
   "IO": {
     "name": "Illizi"
   },
+  "INX": {
+    "name": "In Guezzam"
+  },
+  "IS": {
+    "name": "In Salah"
+  },
+  "JIJ": {
+    "name": "Jijel"
+  },
+  "KHE": {
+    "name": "Khenchela"
+  },
+  "LAG": {
+    "name": "Laghouat"
+  },
+  "MS": {
+    "name": "M'Sila"
+  },
+  "MAS": {
+    "name": "Mascara"
+  },
+  "MED": {
+    "name": "Médéa"
+  },
   "MIL": {
     "name": "Mila"
   },
-  "MSL": {
-    "name": "Msila"
+  "MOS": {
+    "name": "Mostaganem"
+  },
+  "NAA": {
+    "name": "Naama"
+  },
+  "OR": {
+    "name": "Oran"
   },
   "OA": {
     "name": "Ouargla"
@@ -35,8 +122,11 @@
   "OB": {
     "name": "Ouled Djellal"
   },
-  "OR": {
-    "name": "Oran"
+  "OUM": {
+    "name": "Oum El Bouaghi"
+  },
+  "REL": {
+    "name": "Relizane"
   },
   "SAI": {
     "name": "Saïda"
@@ -47,10 +137,40 @@
   "SK": {
     "name": "Sidi Bel Abbès"
   },
+  "SKI": {
+    "name": "Skikda"
+  },
+  "SOU": {
+    "name": "Souk Ahras"
+  },
+  "TAM": {
+    "name": "Tamanghasset"
+  },
   "TEB": {
     "name": "Tébessa"
   },
-  "TH": {
-    "name": "Tamanrasset"
+  "TIA": {
+    "name": "Tiaret"
+  },
+  "TIM": {
+    "name": "Timimoun"
+  },
+  "TIN": {
+    "name": "Tindouf"
+  },
+  "TIP": {
+    "name": "Tipasa"
+  },
+  "TIS": {
+    "name": "Tissemsilt"
+  },
+  "TIZ": {
+    "name": "Tizi Ouzou"
+  },
+  "TLE": {
+    "name": "Tlemcen"
+  },
+  "TOU": {
+    "name": "Touggourt"
   }
 }

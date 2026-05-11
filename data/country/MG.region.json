@@ -1,17 +1,20 @@
 {
-  "FF": {
+  "T": {
     "name": "Antananarivo"
   },
-  "MA": {
-    "name": "Antsirabe"
+  "D": {
+    "name": "Antsiranana"
   },
-  "ME": {
+  "F": {
+    "name": "Fianarantsoa"
+  },
+  "M": {
+    "name": "Mahajanga"
+  },
+  "A": {
+    "name": "Toamasina"
+  },
+  "U": {
     "name": "Toliara"
-  },
-  "TB": {
-    "name": "Taolagnaro"
-  },
-  "TM": {
-    "name": "Tamatave"
   }
 }

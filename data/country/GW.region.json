@@ -1,1 +1,38 @@
-{}
+{
+  "BA": {
+    "name": "Bafatá"
+  },
+  "BM": {
+    "name": "Biombo"
+  },
+  "BS": {
+    "name": "Bissau"
+  },
+  "BL": {
+    "name": "Bolama"
+  },
+  "CA": {
+    "name": "Cacheu"
+  },
+  "GA": {
+    "name": "Gabú"
+  },
+  "L": {
+    "name": "Leste"
+  },
+  "N": {
+    "name": "Norte"
+  },
+  "OI": {
+    "name": "Oio"
+  },
+  "QU": {
+    "name": "Quinara"
+  },
+  "S": {
+    "name": "Sul"
+  },
+  "TO": {
+    "name": "Tombali"
+  }
+}

@@ -1,41 +1,56 @@
 {
-  "BI": {
-    "name": "Bié"
+  "BGO": {
+    "name": "Bengo"
   },
-  "BN": {
+  "BGU": {
     "name": "Benguela"
   },
-  "CC": {
+  "BIE": {
+    "name": "Bié"
+  },
+  "CAB": {
+    "name": "Cabinda"
+  },
+  "CCU": {
     "name": "Cuando Cubango"
   },
-  "CN": {
-    "name": "Cunene"
+  "CUS": {
+    "name": "Cuanza"
   },
-  "CNB": {
+  "CNO": {
     "name": "Cuanza Norte"
   },
-  "CU": {
-    "name": "Cuanza Sul"
+  "CNN": {
+    "name": "Cunene"
   },
-  "HO": {
+  "HUA": {
     "name": "Huambo"
   },
-  "HS": {
+  "HUI": {
     "name": "Huíla"
-  },
-  "LN": {
-    "name": "Lunda Norte"
-  },
-  "LS": {
-    "name": "Lunda Sul"
   },
   "LUA": {
     "name": "Luanda"
   },
-  "MX": {
+  "LNO": {
+    "name": "Lunda Norte"
+  },
+  "LSU": {
+    "name": "Lunda Sul"
+  },
+  "MAL": {
+    "name": "Malanje"
+  },
+  "MOX": {
     "name": "Moxico"
   },
-  "NO": {
+  "NAM": {
     "name": "Namibe"
+  },
+  "UIG": {
+    "name": "Uíge"
+  },
+  "ZAI": {
+    "name": "Zaire"
   }
 }

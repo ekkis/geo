@@ -3,7 +3,7 @@
     "name": "Amazonas"
   },
   "ANC": {
-    "name": "Ancash"
+    "name": "Áncash"
   },
   "APU": {
     "name": "Apurímac"
@@ -23,11 +23,11 @@
   "CUS": {
     "name": "Cusco"
   },
-  "HUC": {
-    "name": "Huánuco"
-  },
   "HUV": {
     "name": "Huancavelica"
+  },
+  "HUC": {
+    "name": "Huanuco"
   },
   "ICA": {
     "name": "Ica"
@@ -52,6 +52,9 @@
   },
   "MOQ": {
     "name": "Moquegua"
+  },
+  "LMA": {
+    "name": "Municipalidad Metropolitana de Lima"
   },
   "PAS": {
     "name": "Pasco"

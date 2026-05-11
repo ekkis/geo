@@ -1,107 +1,80 @@
 {
-  "Aargau": {
-    "AAR": {
-      "name": "Aargau"
-    }
+  "AG": {
+    "name": "Aargau"
   },
-  "Appenzell Ausserrhoden": {
-    "APPAU": {
-      "name": "Appenzell Ausserrhoden"
-    }
+  "AR": {
+    "name": "Appenzell Ausserrhoden"
   },
-  "Appenzell Innerrhoden": {
-    "APPIN": {
-      "name": "Appenzell Innerrhoden"
-    }
+  "AI": {
+    "name": "Appenzell Innerrhoden"
   },
-  "Basel-Stadt": {
-    "BAS": {
-      "name": "Basel-Stadt"
-    }
+  "BL": {
+    "name": "Basel-Land"
   },
-  "Bern": {
-    "BER": {
-      "name": "Bern"
-    }
+  "BS": {
+    "name": "Basel-Stadt"
   },
-  "Fribourg": {
-    "FRI": {
-      "name": "Fribourg"
-    }
+  "BE": {
+    "name": "Bern"
   },
-  "Geneva": {
-    "GEN": {
-      "name": "Geneva"
-    }
+  "FR": {
+    "name": "Fribourg"
   },
-  "Glarus": {
-    "GLA": {
-      "name": "Glarus"
-    }
+  "GE": {
+    "name": "Geneva"
   },
-  "Graubünden": {
-    "GRA": {
-      "name": "Graubünden"
-    }
+  "GL": {
+    "name": "Glarus"
   },
-  "Luzern": {
-    "LUZ": {
-      "name": "Luzern"
-    }
+  "GR": {
+    "name": "Graubünden"
   },
-  "Neuchâtel": {
-    "NEU": {
-      "name": "Neuchâtel"
-    }
+  "JU": {
+    "name": "Jura"
   },
-  "Sankt Gallen": {
-    "SANGA": {
-      "name": "Sankt Gallen"
-    }
+  "LU": {
+    "name": "Lucerne"
   },
-  "Schaffhausen": {
-    "SCH": {
-      "name": "Schaffhausen"
-    }
+  "NE": {
+    "name": "Neuchâtel"
   },
-  "Schwyz": {
-    "SCH1": {
-      "name": "Schwyz"
-    }
+  "NW": {
+    "name": "Nidwalden"
   },
-  "Solothurn": {
-    "SOL": {
-      "name": "Solothurn"
-    }
+  "OW": {
+    "name": "Obwalden"
   },
-  "St. Gallen": {
-    "ST.GA": {
-      "name": "St. Gallen"
-    }
+  "SH": {
+    "name": "Schaffhausen"
   },
-  "Thurgau": {
-    "THU": {
-      "name": "Thurgau"
-    }
+  "SZ": {
+    "name": "Schwyz"
   },
-  "Ticino": {
-    "TIC": {
-      "name": "Ticino"
-    }
+  "SO": {
+    "name": "Solothurn"
   },
-  "Valais": {
-    "VAL": {
-      "name": "Valais"
-    }
+  "SG": {
+    "name": "St. Gallen"
   },
-  "Vaud": {
-    "VAU": {
-      "name": "Vaud"
-    }
+  "TG": {
+    "name": "Thurgau"
   },
-  "Zurich": {
-    "ZUR": {
-      "name": "Zurich"
-    }
+  "TI": {
+    "name": "Ticino"
+  },
+  "UR": {
+    "name": "Uri"
+  },
+  "VS": {
+    "name": "Valais"
+  },
+  "VD": {
+    "name": "Vaud"
+  },
+  "ZG": {
+    "name": "Zug"
+  },
+  "ZH": {
+    "name": "Zürich"
   }
 }

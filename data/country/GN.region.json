@@ -1,1 +1,125 @@
-{}
+{
+  "BE": {
+    "name": "Beyla"
+  },
+  "BF": {
+    "name": "Boffa"
+  },
+  "B": {
+    "name": "Boké"
+  },
+  "BK": {
+    "name": "Boké"
+  },
+  "C": {
+    "name": "Conakry"
+  },
+  "CO": {
+    "name": "Coyah"
+  },
+  "DB": {
+    "name": "Dabola"
+  },
+  "DL": {
+    "name": "Dalaba"
+  },
+  "DI": {
+    "name": "Dinguiraye"
+  },
+  "DU": {
+    "name": "Dubréka"
+  },
+  "F": {
+    "name": "Faranah"
+  },
+  "FA": {
+    "name": "Faranah"
+  },
+  "FO": {
+    "name": "Forécariah"
+  },
+  "FR": {
+    "name": "Fria"
+  },
+  "GA": {
+    "name": "Gaoual"
+  },
+  "GU": {
+    "name": "Guéckédou"
+  },
+  "KA": {
+    "name": "Kankan"
+  },
+  "K": {
+    "name": "Kankan"
+  },
+  "KE": {
+    "name": "Kérouané"
+  },
+  "D": {
+    "name": "Kindia"
+  },
+  "KD": {
+    "name": "Kindia"
+  },
+  "KS": {
+    "name": "Kissidougou"
+  },
+  "KB": {
+    "name": "Koubia"
+  },
+  "KN": {
+    "name": "Koundara"
+  },
+  "KO": {
+    "name": "Kouroussa"
+  },
+  "LA": {
+    "name": "Labé"
+  },
+  "L": {
+    "name": "Labé"
+  },
+  "LE": {
+    "name": "Lélouma"
+  },
+  "LO": {
+    "name": "Lola"
+  },
+  "MC": {
+    "name": "Macenta"
+  },
+  "ML": {
+    "name": "Mali"
+  },
+  "M": {
+    "name": "Mamou"
+  },
+  "MM": {
+    "name": "Mamou"
+  },
+  "MD": {
+    "name": "Mandiana"
+  },
+  "N": {
+    "name": "Nzérékoré"
+  },
+  "NZ": {
+    "name": "Nzérékoré"
+  },
+  "PI": {
+    "name": "Pita"
+  },
+  "SI": {
+    "name": "Siguiri"
+  },
+  "TE": {
+    "name": "Télimélé"
+  },
+  "TO": {
+    "name": "Tougué"
+  },
+  "YO": {
+    "name": "Yomou"
+  }
+}

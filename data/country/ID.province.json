@@ -1,83 +1,137 @@
 {
-  "BAL": {
+  "AC": {
+    "name": "Aceh"
+  },
+  "BA": {
     "name": "Bali"
   },
-  "BAN": {
+  "BT": {
     "name": "Banten"
   },
-  "BEN": {
+  "BE": {
     "name": "Bengkulu"
   },
-  "BI": {
-    "name": "Bangka–Belitung Islands"
+  "YO": {
+    "name": "DI Yogyakarta"
   },
-  "CJ": {
-    "name": "Central Java"
+  "JK": {
+    "name": "DKI Jakarta"
   },
-  "CK": {
-    "name": "Central Kalimantan"
-  },
-  "CS": {
-    "name": "Central Sulawesi"
-  },
-  "EJ": {
-    "name": "East Java"
-  },
-  "EK": {
-    "name": "East Kalimantan"
-  },
-  "EN": {
-    "name": "East Nusa Tenggara"
-  },
-  "GOR": {
+  "GO": {
     "name": "Gorontalo"
   },
-  "JAM": {
+  "JA": {
     "name": "Jambi"
   },
-  "JS": {
-    "name": "Jakarta Special Capital Region"
+  "JW": {
+    "name": "Jawa"
   },
-  "LAM": {
+  "JB": {
+    "name": "Jawa Barat"
+  },
+  "JT": {
+    "name": "Jawa Tengah"
+  },
+  "JI": {
+    "name": "Jawa Timur"
+  },
+  "KA": {
+    "name": "Kalimantan"
+  },
+  "KB": {
+    "name": "Kalimantan Barat"
+  },
+  "KS": {
+    "name": "Kalimantan Selatan"
+  },
+  "KT": {
+    "name": "Kalimantan Tengah"
+  },
+  "KI": {
+    "name": "Kalimantan Timur"
+  },
+  "KU": {
+    "name": "Kalimantan Utara"
+  },
+  "BB": {
+    "name": "Kepulauan Bangka Belitung"
+  },
+  "KR": {
+    "name": "Kepulauan Riau"
+  },
+  "LA": {
     "name": "Lampung"
   },
-  "MAL": {
+  "ML": {
     "name": "Maluku"
   },
-  "NK": {
-    "name": "North Kalimantan"
+  "MA": {
+    "name": "Maluku"
   },
-  "NM": {
-    "name": "North Maluku"
+  "MU": {
+    "name": "Maluku Utara"
   },
-  "NS": {
-    "name": "North Sumatra"
+  "NU": {
+    "name": "Nusa Tenggara"
+  },
+  "NB": {
+    "name": "Nusa Tenggara Barat"
+  },
+  "NT": {
+    "name": "Nusa Tenggara Timur"
+  },
+  "PA": {
+    "name": "Papua"
+  },
+  "PP": {
+    "name": "Papua"
+  },
+  "PB": {
+    "name": "Papua Barat"
+  },
+  "PD": {
+    "name": "Papua Barat Daya"
+  },
+  "PE": {
+    "name": "Papua Pegunungan"
+  },
+  "PS": {
+    "name": "Papua Selatan"
+  },
+  "PT": {
+    "name": "Papua Tengah"
   },
   "RI": {
-    "name": "Riau Islands"
-  },
-  "RIA": {
     "name": "Riau"
   },
-  "SK": {
-    "name": "South Kalimantan"
+  "SL": {
+    "name": "Sulawesi"
   },
   "SR": {
-    "name": "Special Region of Yogyakarta"
+    "name": "Sulawesi Barat"
+  },
+  "SN": {
+    "name": "Sulawesi Selatan"
+  },
+  "ST": {
+    "name": "Sulawesi Tengah"
+  },
+  "SG": {
+    "name": "Sulawesi Tenggara"
+  },
+  "SA": {
+    "name": "Sulawesi Utara"
+  },
+  "SM": {
+    "name": "Sumatera"
+  },
+  "SB": {
+    "name": "Sumatera Barat"
   },
   "SS": {
-    "name": "South Sumatra"
+    "name": "Sumatera Selatan"
   },
-  "WJ": {
-    "name": "West Java"
-  },
-  "WK": {
-    "name": "West Kalimantan"
-  },
-  "WN": {
-    "name": "West Nusa Tenggara"
-  },
-  "WS": {
-    "name": "West Sumatra"
+  "SU": {
+    "name": "Sumatera Utara"
   }
 }

@@ -1,1 +1,44 @@
-{}
+{
+  "BOC": {
+    "name": "Bocas del Toro"
+  },
+  "CHI": {
+    "name": "Chiriquí Province"
+  },
+  "COC": {
+    "name": "Coclé"
+  },
+  "COL": {
+    "name": "Colón"
+  },
+  "DAR": {
+    "name": "Darién"
+  },
+  "EM": {
+    "name": "Emberá-Wounaan Comarca"
+  },
+  "KY": {
+    "name": "Guna"
+  },
+  "HER": {
+    "name": "Herrera"
+  },
+  "LOS": {
+    "name": "Los Santos"
+  },
+  "NT": {
+    "name": "Naso Tjër Di"
+  },
+  "NB": {
+    "name": "Ngöbe-Buglé Comarca"
+  },
+  "PAN": {
+    "name": "Panamá"
+  },
+  "PO": {
+    "name": "Panamá Oeste"
+  },
+  "VER": {
+    "name": "Veraguas"
+  }
+}

@@ -1,36 +1,41 @@
 {
-  "Flanders": {
-    "ANT": {
-      "name": "Antwerpen"
-    },
-    "LIM": {
-      "name": "Limburg"
-    },
-    "OOS": {
-      "name": "Oost-Vlaanderen"
-    },
-    "VLA": {
-      "name": "Vlaams-Brabant"
-    },
-    "WES": {
-      "name": "West-Vlaanderen"
-    }
+  "VAN": {
+    "name": "Antwerp"
   },
-  "Wallonia": {
-    "HEN": {
-      "name": "Henegouwen"
-    },
-    "LUI": {
-      "name": "Luik"
-    },
-    "LUX": {
-      "name": "Luxemburg"
-    },
-    "NAM": {
-      "name": "Namen"
-    },
-    "WAA": {
-      "name": "Waals-Brabant"
-    }
+  "BRU": {
+    "name": "Brussels-Capital "
+  },
+  "VOV": {
+    "name": "East Flanders"
+  },
+  "VLG": {
+    "name": "Flanders"
+  },
+  "VBR": {
+    "name": "Flemish Brabant"
+  },
+  "WHT": {
+    "name": "Hainaut"
+  },
+  "WLG": {
+    "name": "Liège"
+  },
+  "VLI": {
+    "name": "Limburg"
+  },
+  "WLX": {
+    "name": "Luxembourg"
+  },
+  "WNA": {
+    "name": "Namur"
+  },
+  "WAL": {
+    "name": "Wallonia"
+  },
+  "WBR": {
+    "name": "Walloon Brabant"
+  },
+  "VWV": {
+    "name": "West Flanders"
   }
 }

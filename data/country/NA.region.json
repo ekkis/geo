@@ -1,1 +1,44 @@
-{}
+{
+  "ER": {
+    "name": "Erongo"
+  },
+  "HA": {
+    "name": "Hardap"
+  },
+  "KA": {
+    "name": "Karas"
+  },
+  "KE": {
+    "name": "Kavango East"
+  },
+  "KW": {
+    "name": "Kavango West"
+  },
+  "KH": {
+    "name": "Khomas"
+  },
+  "KU": {
+    "name": "Kunene"
+  },
+  "OW": {
+    "name": "Ohangwena"
+  },
+  "OH": {
+    "name": "Omaheke"
+  },
+  "OS": {
+    "name": "Omusati"
+  },
+  "ON": {
+    "name": "Oshana"
+  },
+  "OT": {
+    "name": "Oshikoto"
+  },
+  "OD": {
+    "name": "Otjozondjupa"
+  },
+  "CA": {
+    "name": "Zambezi"
+  }
+}

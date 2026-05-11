@@ -1,37 +1,29 @@
 {
-  "Borgo Maggiore": {
-    "BORMA": {
-      "name": "Borgo Maggiore"
-    }
+  "ACQ": {
+    "name": "Acquaviva"
   },
-  "Domagnano": {
-    "DOM": {
-      "name": "Domagnano"
-    }
+  "BORMA": {
+    "name": "Borgo Maggiore"
   },
-  "Faetano": {
-    "FAE": {
-      "name": "Faetano"
-    }
+  "CHI": {
+    "name": "Chiesanuova"
   },
-  "Fiorentino": {
-    "FIO": {
-      "name": "Fiorentino"
-    }
+  "DOM": {
+    "name": "Domagnano"
   },
-  "Montegiardino": {
-    "MON": {
-      "name": "Montegiardino"
-    }
+  "FAE": {
+    "name": "Faetano"
   },
-  "San Marino": {
-    "SANMA": {
-      "name": "San Marino"
-    }
+  "FIO": {
+    "name": "Fiorentino"
   },
-  "Serravalle": {
-    "SER": {
-      "name": "Serravalle"
-    }
+  "MON": {
+    "name": "Montegiardino"
+  },
+  "SANMA": {
+    "name": "San Marino"
+  },
+  "SER": {
+    "name": "Serravalle"
   }
 }
