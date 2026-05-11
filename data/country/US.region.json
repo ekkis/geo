@@ -1,5 +1,5 @@
 {
-  "south": {
+  "S": {
     "name": "South",
     "states": [
       "AL",
@@ -17,7 +17,7 @@
       "WV"
     ]
   },
-  "midwest": {
+  "M/W": {
     "name": "Midwest",
     "states": [
       "IL",
@@ -34,7 +34,7 @@
       "WI"
     ]
   },
-  "west": {
+  "W": {
     "name": "West",
     "states": [
       "AK",
@@ -52,7 +52,7 @@
       "WY"
     ]
   },
-  "northeast": {
+  "N/E": {
     "name": "Northeast",
     "states": [
       "CT",
@@ -66,7 +66,7 @@
       "PA"
     ]
   },
-  "southwest": {
+  "S/W": {
     "name": "Southwest",
     "states": [
       "AZ",
@@ -75,7 +75,7 @@
       "TX"
     ]
   },
-  "southeast": {
+  "S/E": {
     "name": "Southeast",
     "states": [
       "AL",
@@ -90,7 +90,7 @@
       "WV"
     ]
   },
-  "mid_atlantic": {
+  "MATL": {
     "name": "Mid-Atlantic",
     "states": [
       "DE",
@@ -102,7 +102,19 @@
       "WV"
     ]
   },
-  "mountain": {
+  "SATL": {
+    "name": "South Atlantic",
+    "states": [
+      "DE",
+      "FL",
+      "GA",
+      "MD",
+      "NC",
+      "SC",
+      "VA"
+    ]
+  },
+  "MTN": {
     "name": "Mountain",
     "states": [
       "AZ",
@@ -115,8 +127,24 @@
       "WY"
     ]
   },
-  "pacific": {
-    "name": "Pacific",
+  "MTN/P": {
+    "name": "Mountain/Pacific",
+    "states": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ]
+  },
+  "PC": {
+    "name": "Pacific Coast",
     "states": [
       "CA",
       "HI",
@@ -124,7 +152,14 @@
       "WA"
     ]
   },
-  "east_coast": {
+  "PNW": {
+    "name": "Pacific Northwest",
+    "states": [
+      "OR",
+      "WA"
+    ]
+  },
+  "EC": {
     "name": "East Coast",
     "states": [
       "CT",
@@ -143,7 +178,7 @@
       "VA"
     ]
   },
-  "great_plains": {
+  "GPL": {
     "name": "Great Plains",
     "states": [
       "CO",
@@ -157,7 +192,7 @@
       "TX"
     ]
   },
-  "east_north_central": {
+  "ENC": {
     "name": "East North Central",
     "states": [
       "IL",
@@ -167,7 +202,7 @@
       "WI"
     ]
   },
-  "west_north_central": {
+  "WNC": {
     "name": "West North Central",
     "states": [
       "IA",
@@ -179,19 +214,7 @@
       "SD"
     ]
   },
-  "south_atlantic": {
-    "name": "South Atlantic",
-    "states": [
-      "DE",
-      "FL",
-      "GA",
-      "MD",
-      "NC",
-      "SC",
-      "VA"
-    ]
-  },
-  "east_south_central": {
+  "ESC": {
     "name": "East South Central",
     "states": [
       "AL",
@@ -200,7 +223,7 @@
       "TN"
     ]
   },
-  "west_south_central": {
+  "WSC": {
     "name": "West South Central",
     "states": [
       "AR",
@@ -209,7 +232,7 @@
       "TX"
     ]
   },
-  "new_england": {
+  "NE": {
     "name": "New England",
     "states": [
       "CT",
@@ -218,55 +241,6 @@
       "NH",
       "RI",
       "VT"
-    ]
-  },
-  "mid_atlantic_region": {
-    "name": "Mid-Atlantic Region",
-    "states": [
-      "NJ",
-      "NY",
-      "PA"
-    ]
-  },
-  "pacific_nw": {
-    "name": "Pacific Northwest",
-    "states": [
-      "OR",
-      "WA"
-    ]
-  },
-  "east_south_central_region": {
-    "name": "East South Central",
-    "states": [
-      "AL",
-      "KY",
-      "MS",
-      "TN"
-    ]
-  },
-  "west_south_central_region": {
-    "name": "West South Central",
-    "states": [
-      "AR",
-      "LA",
-      "OK",
-      "TX"
-    ]
-  },
-  "mountain_pacific": {
-    "name": "Mountain/Pacific",
-    "states": [
-      "AZ",
-      "CA",
-      "CO",
-      "ID",
-      "MT",
-      "NV",
-      "NM",
-      "OR",
-      "UT",
-      "WA",
-      "WY"
     ]
   }
 }
