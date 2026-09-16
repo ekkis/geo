@@ -24,6 +24,32 @@ function pathChk(o, path) {
     }
     return JSON.stringify(o) == v
 }
+function clone(o) {
+    return o === undefined ? undefined : JSON.parse(JSON.stringify(o))
+}
+function recordData(record) {
+    return record && record.data ? record.data : record
+}
+function words(s) {
+    return s.replace(/[-_]/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+}
+function defaultLabel(field) {
+    return {
+        'recipient': 'Recipient',
+        'organization': 'Organization',
+        'street-address': 'Street Address',
+        'dependent-locality': 'Dependent Locality',
+        'locality': 'Locality',
+        'administrative-area': 'Administrative Area',
+        'postal-code': 'Postal Code',
+        'sorting-code': 'Sorting Code'
+    }[field] || words(field)
+}
+function labelFor(field, labels = {}) {
+    var label = labels[field]
+    if (label == 'zip') return 'ZIP'
+    return words(label || defaultLabel(field))
+}
 // Base Entity class with list and find methods
 class Entity {
     constructor(data) {
@@ -34,6 +60,56 @@ class Entity {
     }
     list() {
         return Object.values(this.data);
+    }
+    get(key) {
+        var record = this.data[key]
+        return record ? clone(record) : undefined
+    }
+    addressFormat(key) {
+        var record = recordData(this.data[key])
+        return record && record['address-format'] ? clone(record['address-format']) : undefined
+    }
+    addressHeaders(key) {
+        var format = this.addressFormat(key)
+        if (!format) return undefined
+
+        var labels = format['field-labels'] || {}
+        var fields = format.lines ? Array.from(new Set(format.lines.flat())) : []
+        return fields.reduce((headers, field) => {
+            headers[field] = labelFor(field, labels)
+            return headers
+        }, {})
+    }
+    addressForm(key) {
+        var format = this.addressFormat(key)
+        if (!format) return undefined
+
+        var headers = this.addressHeaders(key)
+        var required = new Set(format['required-fields'] || [])
+        var uppercase = new Set(format['uppercase-fields'] || [])
+        var fields = Object.keys(headers).map(field => {
+            var ret = {
+                key: field,
+                label: headers[field],
+                required: required.has(field),
+                uppercase: uppercase.has(field)
+            }
+            if (field == 'postal-code' && format['postal-code']) {
+                ret.validation = clone(format['postal-code'])
+            }
+            return ret
+        })
+
+        var ret = {
+            format: format.format,
+            lines: clone(format.lines || []),
+            headers,
+            fields
+        }
+        if (format['postal-code']) {
+            ret['postal-code'] = clone(format['postal-code'])
+        }
+        return ret
     }
     find(criteria, opts = {}) {
         // no criteria provided

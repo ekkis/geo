@@ -142,6 +142,27 @@ Format tokens use libaddressinput's field codes:
 
 Import metadata and coverage are stored in `data/address-format-meta.json`; the reproducible importer is `scripts/add-address-formats.py`.
 
+Clients can retrieve this data from the country entity:
+
+```js
+const usFormat = geo.country.addressFormat('US')
+// usFormat.format === '%N%n%O%n%A%n%C, %S %Z'
+
+const usHeaders = geo.country.addressHeaders('US')
+// {
+//   recipient: 'Recipient',
+//   organization: 'Organization',
+//   'street-address': 'Street Address',
+//   locality: 'City',
+//   'administrative-area': 'State',
+//   'postal-code': 'ZIP'
+// }
+
+const usForm = geo.country.addressForm('US')
+// Returns { format, lines, headers, fields, 'postal-code' }
+// fields includes label, required, uppercase, and postal-code validation metadata.
+```
+
 ## NPM Commands
 The built-in test suite may be run in the traditional way
 ```bash
