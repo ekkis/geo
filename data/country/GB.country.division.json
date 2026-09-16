@@ -2,1086 +2,1737 @@
   "ABC": {
     "name": "Armagh, Banbridge and Craigavon",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-ABC",
+    "iso-name": "Armagh City, Banbridge and Craigavon",
+    "iso-type": "District"
   },
   "ABD": {
     "name": "Aberdeenshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ABD",
+    "iso-name": "Aberdeenshire",
+    "iso-type": "Council area"
   },
   "ABE": {
     "name": "Aberdeen",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ABE",
+    "iso-name": "Aberdeen City",
+    "iso-type": "Council area"
   },
   "AGB": {
     "name": "Argyll and Bute",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-AGB",
+    "iso-name": "Argyll and Bute",
+    "iso-type": "Council area"
   },
   "AGY": {
     "name": "Isle of Anglesey",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-AGY",
+    "iso-name": "Isle of Anglesey [Sir Ynys Môn GB-YNM]",
+    "iso-type": "Unitary authority"
   },
   "AND": {
     "name": "Ards and North Down",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-AND",
+    "iso-name": "Ards and North Down",
+    "iso-type": "District"
   },
   "ANN": {
     "name": "Antrim and Newtownabbey",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-ANN",
+    "iso-name": "Antrim and Newtownabbey",
+    "iso-type": "District"
   },
   "ANS": {
     "name": "Angus",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ANS",
+    "iso-name": "Angus",
+    "iso-type": "Council area"
   },
   "BAS": {
     "name": "Bath and North East Somerset",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BAS",
+    "iso-name": "Bath and North East Somerset",
+    "iso-type": "Unitary authority"
   },
   "BBD": {
     "name": "Blackburn with Darwen",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BBD",
+    "iso-name": "Blackburn with Darwen",
+    "iso-type": "Unitary authority"
   },
   "BCP": {
     "name": "Bournemouth, Christchurch and Poole",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BCP",
+    "iso-name": "Bournemouth, Christchurch and Poole",
+    "iso-type": "Unitary authority"
   },
   "BDF": {
     "name": "Bedford",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BDF",
+    "iso-name": "Bedford",
+    "iso-type": "Unitary authority"
   },
   "BDG": {
     "name": "Barking and Dagenham",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BDG",
+    "iso-name": "Barking and Dagenham",
+    "iso-type": "London borough"
   },
   "BEN": {
     "name": "Brent",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BEN",
+    "iso-name": "Brent",
+    "iso-type": "London borough"
   },
   "BEX": {
     "name": "Bexley",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BEX",
+    "iso-name": "Bexley",
+    "iso-type": "London borough"
   },
   "BFS": {
     "name": "Belfast",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-BFS",
+    "iso-name": "Belfast City",
+    "iso-type": "District"
   },
   "BGE": {
     "name": "Bridgend",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-BGE",
+    "iso-name": "Bridgend [Pen-y-bont ar Ogwr GB-POG]",
+    "iso-type": "Unitary authority"
   },
   "BGW": {
     "name": "Blaenau Gwent",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-BGW",
+    "iso-name": "Blaenau Gwent",
+    "iso-type": "Unitary authority"
   },
   "BIR": {
     "name": "Birmingham",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BIR",
+    "iso-name": "Birmingham",
+    "iso-type": "Metropolitan district"
   },
   "BKM": {
     "name": "Buckinghamshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BKM",
+    "iso-name": "Buckinghamshire",
+    "iso-type": "Unitary authority"
   },
   "BNE": {
     "name": "Barnet",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BNE",
+    "iso-name": "Barnet",
+    "iso-type": "London borough"
   },
   "BNH": {
     "name": "Brighton and Hove",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BNH",
+    "iso-name": "Brighton and Hove",
+    "iso-type": "Unitary authority"
   },
   "BNS": {
     "name": "Barnsley",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BNS",
+    "iso-name": "Barnsley",
+    "iso-type": "Metropolitan district"
   },
   "BOL": {
     "name": "Bolton",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BOL",
+    "iso-name": "Bolton",
+    "iso-type": "Metropolitan district"
   },
   "BPL": {
     "name": "Blackpool",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BPL",
+    "iso-name": "Blackpool",
+    "iso-type": "Unitary authority"
   },
   "BRC": {
     "name": "Bracknell Forest",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BRC",
+    "iso-name": "Bracknell Forest",
+    "iso-type": "Unitary authority"
   },
   "BRD": {
     "name": "Bradford",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BRD",
+    "iso-name": "Bradford",
+    "iso-type": "Metropolitan district"
   },
   "BRY": {
     "name": "Bromley",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BRY",
+    "iso-name": "Bromley",
+    "iso-type": "London borough"
   },
   "BST": {
     "name": "Bristol",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BST",
+    "iso-name": "Bristol, City of",
+    "iso-type": "Unitary authority"
   },
   "BUR": {
     "name": "Bury",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-BUR",
+    "iso-name": "Bury",
+    "iso-type": "Metropolitan district"
   },
   "CAM": {
     "name": "Cambridgeshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CAM",
+    "iso-name": "Cambridgeshire",
+    "iso-type": "Two-tier county"
   },
   "CAY": {
     "name": "Caerphilly",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-CAY",
+    "iso-name": "Caerphilly [Caerffili GB-CAF]",
+    "iso-type": "Unitary authority"
   },
   "CBF": {
     "name": "Central Bedfordshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CBF",
+    "iso-name": "Central Bedfordshire",
+    "iso-type": "Unitary authority"
   },
   "CCG": {
     "name": "Causeway Coast and Glens",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-CCG",
+    "iso-name": "Causeway Coast and Glens",
+    "iso-type": "District"
   },
   "CGN": {
     "name": "Ceredigion",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-CGN",
+    "iso-name": "Ceredigion [Sir Ceredigion]",
+    "iso-type": "Unitary authority"
   },
   "CHE": {
     "name": "Cheshire East",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CHE",
+    "iso-name": "Cheshire East",
+    "iso-type": "Unitary authority"
   },
   "CHW": {
     "name": "Cheshire West and Chester",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CHW",
+    "iso-name": "Cheshire West and Chester",
+    "iso-type": "Unitary authority"
   },
   "CLD": {
     "name": "Calderdale",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CLD",
+    "iso-name": "Calderdale",
+    "iso-type": "Metropolitan district"
   },
   "CLK": {
     "name": "Clackmannanshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-CLK",
+    "iso-name": "Clackmannanshire",
+    "iso-type": "Council area"
   },
   "CMA": {
     "name": "Cumbria",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CMA",
+    "iso-name": "Cumbria",
+    "iso-type": "Two-tier county"
   },
   "CMD": {
     "name": "Camden",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CMD",
+    "iso-name": "Camden",
+    "iso-type": "London borough"
   },
   "CMN": {
     "name": "Carmarthenshire",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-CMN",
+    "iso-name": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]",
+    "iso-type": "Unitary authority"
   },
   "CON": {
     "name": "Cornwall",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CON",
+    "iso-name": "Cornwall",
+    "iso-type": "Unitary authority"
   },
   "COV": {
     "name": "Coventry",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-COV",
+    "iso-name": "Coventry",
+    "iso-type": "Metropolitan district"
   },
   "CRF": {
     "name": "Cardiff",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-CRF",
+    "iso-name": "Cardiff [Caerdydd GB-CRD]",
+    "iso-type": "Unitary authority"
   },
   "CRY": {
     "name": "Croydon",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-CRY",
+    "iso-name": "Croydon",
+    "iso-type": "London borough"
   },
   "CWY": {
     "name": "Conwy",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-CWY",
+    "iso-name": "Conwy",
+    "iso-type": "Unitary authority"
   },
   "DAL": {
     "name": "Darlington",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DAL",
+    "iso-name": "Darlington",
+    "iso-type": "Unitary authority"
   },
   "DBY": {
     "name": "Derbyshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DBY",
+    "iso-name": "Derbyshire",
+    "iso-type": "Two-tier county"
   },
   "DEN": {
     "name": "Denbighshire",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-DEN",
+    "iso-name": "Denbighshire [Sir Ddinbych GB-DDB]",
+    "iso-type": "Unitary authority"
   },
   "DER": {
     "name": "Derby",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DER",
+    "iso-name": "Derby",
+    "iso-type": "Unitary authority"
   },
   "DEV": {
     "name": "Devon",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DEV",
+    "iso-name": "Devon",
+    "iso-type": "Two-tier county"
   },
   "DGY": {
     "name": "Dumfries and Galloway",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-DGY",
+    "iso-name": "Dumfries and Galloway",
+    "iso-type": "Council area"
   },
   "DNC": {
     "name": "Doncaster",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DNC",
+    "iso-name": "Doncaster",
+    "iso-type": "Metropolitan district"
   },
   "DND": {
     "name": "Dundee",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-DND",
+    "iso-name": "Dundee City",
+    "iso-type": "Council area"
   },
   "DOR": {
     "name": "Dorset",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DOR",
+    "iso-name": "Dorset",
+    "iso-type": "Two-tier county"
   },
   "DRS": {
     "name": "Derry City and Strabane",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-DRS",
+    "iso-name": "Derry and Strabane",
+    "iso-type": "District"
   },
   "DUD": {
     "name": "Dudley",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DUD",
+    "iso-name": "Dudley",
+    "iso-type": "Metropolitan district"
   },
   "DUR": {
     "name": "Durham",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-DUR",
+    "iso-name": "Durham, County",
+    "iso-type": "Unitary authority"
   },
   "EAL": {
     "name": "Ealing",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-EAL",
+    "iso-name": "Ealing",
+    "iso-type": "London borough"
   },
   "EAY": {
     "name": "East Ayrshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-EAY",
+    "iso-name": "East Ayrshire",
+    "iso-type": "Council area"
   },
   "EDH": {
     "name": "Edinburgh",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-EDH",
+    "iso-name": "Edinburgh, City of",
+    "iso-type": "Council area"
   },
   "EDU": {
     "name": "East Dunbartonshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-EDU",
+    "iso-name": "East Dunbartonshire",
+    "iso-type": "Council area"
   },
   "ELN": {
     "name": "East Lothian",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ELN",
+    "iso-name": "East Lothian",
+    "iso-type": "Council area"
   },
   "ELS": {
     "name": "Outer Hebrides",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ELS",
+    "iso-name": "Eilean Siar",
+    "iso-type": "Council area"
   },
   "ENF": {
     "name": "Enfield",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-ENF",
+    "iso-name": "Enfield",
+    "iso-type": "London borough"
   },
   "ERW": {
     "name": "East Renfrewshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ERW",
+    "iso-name": "East Renfrewshire",
+    "iso-type": "Council area"
   },
   "ERY": {
     "name": "East Riding of Yorkshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-ERY",
+    "iso-name": "East Riding of Yorkshire",
+    "iso-type": "Unitary authority"
   },
   "ESS": {
     "name": "Essex",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-ESS",
+    "iso-name": "Essex",
+    "iso-type": "Two-tier county"
   },
   "ESX": {
     "name": "East Sussex",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-ESX",
+    "iso-name": "East Sussex",
+    "iso-type": "Two-tier county"
   },
   "FAL": {
     "name": "Falkirk",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-FAL",
+    "iso-name": "Falkirk",
+    "iso-type": "Council area"
   },
   "FIF": {
     "name": "Fife",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-FIF",
+    "iso-name": "Fife",
+    "iso-type": "Council area"
   },
   "FLN": {
     "name": "Flintshire",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-FLN",
+    "iso-name": "Flintshire [Sir y Fflint GB-FFL]",
+    "iso-type": "Unitary authority"
   },
   "FMO": {
     "name": "Fermanagh and Omagh",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-FMO",
+    "iso-name": "Fermanagh and Omagh",
+    "iso-type": "District"
   },
   "GAT": {
     "name": "Gateshead",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-GAT",
+    "iso-name": "Gateshead",
+    "iso-type": "Metropolitan district"
   },
   "GLG": {
     "name": "Glasgow",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-GLG",
+    "iso-name": "Glasgow City",
+    "iso-type": "Council area"
   },
   "GLS": {
     "name": "Gloucestershire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-GLS",
+    "iso-name": "Gloucestershire",
+    "iso-type": "Two-tier county"
   },
   "GRE": {
     "name": "Greenwich",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-GRE",
+    "iso-name": "Greenwich",
+    "iso-type": "London borough"
   },
   "GWN": {
     "name": "Gwynedd",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-GWN",
+    "iso-name": "Gwynedd",
+    "iso-type": "Unitary authority"
   },
   "HAL": {
     "name": "Halton",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HAL",
+    "iso-name": "Halton",
+    "iso-type": "Unitary authority"
   },
   "HAM": {
     "name": "Hampshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HAM",
+    "iso-name": "Hampshire",
+    "iso-type": "Two-tier county"
   },
   "HAV": {
     "name": "Havering",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HAV",
+    "iso-name": "Havering",
+    "iso-type": "London borough"
   },
   "HCK": {
     "name": "Hackney",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HCK",
+    "iso-name": "Hackney",
+    "iso-type": "London borough"
   },
   "HEF": {
     "name": "Herefordshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HEF",
+    "iso-name": "Herefordshire",
+    "iso-type": "Unitary authority"
   },
   "HIL": {
     "name": "Hillingdon",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HIL",
+    "iso-name": "Hillingdon",
+    "iso-type": "London borough"
   },
   "HLD": {
     "name": "Highland",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-HLD",
+    "iso-name": "Highland",
+    "iso-type": "Council area"
   },
   "HMF": {
     "name": "Hammersmith and Fulham",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HMF",
+    "iso-name": "Hammersmith and Fulham",
+    "iso-type": "London borough"
   },
   "HNS": {
     "name": "Hounslow",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HNS",
+    "iso-name": "Hounslow",
+    "iso-type": "London borough"
   },
   "HPL": {
     "name": "Hartlepool",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HPL",
+    "iso-name": "Hartlepool",
+    "iso-type": "Unitary authority"
   },
   "HRT": {
     "name": "Hertfordshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HRT",
+    "iso-name": "Hertfordshire",
+    "iso-type": "Two-tier county"
   },
   "HRW": {
     "name": "Harrow",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HRW",
+    "iso-name": "Harrow",
+    "iso-type": "London borough"
   },
   "HRY": {
     "name": "Haringey",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-HRY",
+    "iso-name": "Haringey",
+    "iso-type": "London borough"
   },
   "IOS": {
     "name": "Isles of Scilly",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-IOS",
+    "iso-name": "Isles of Scilly",
+    "iso-type": "Unitary authority"
   },
   "IOW": {
     "name": "Isle of Wight",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-IOW",
+    "iso-name": "Isle of Wight",
+    "iso-type": "Unitary authority"
   },
   "ISL": {
     "name": "Islington",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-ISL",
+    "iso-name": "Islington",
+    "iso-type": "London borough"
   },
   "IVC": {
     "name": "Inverclyde",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-IVC",
+    "iso-name": "Inverclyde",
+    "iso-type": "Council area"
   },
   "KEC": {
     "name": "Kensington and Chelsea",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-KEC",
+    "iso-name": "Kensington and Chelsea",
+    "iso-type": "London borough"
   },
   "KEN": {
     "name": "Kent",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-KEN",
+    "iso-name": "Kent",
+    "iso-type": "Two-tier county"
   },
   "KHL": {
     "name": "City of Kingston upon Hull",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-KHL",
+    "iso-name": "Kingston upon Hull",
+    "iso-type": "Unitary authority"
   },
   "KIR": {
     "name": "Kirklees",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-KIR",
+    "iso-name": "Kirklees",
+    "iso-type": "Metropolitan district"
   },
   "KTT": {
     "name": "Kingston upon Thames",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-KTT",
+    "iso-name": "Kingston upon Thames",
+    "iso-type": "London borough"
   },
   "KWL": {
     "name": "Knowsley",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-KWL",
+    "iso-name": "Knowsley",
+    "iso-type": "Metropolitan district"
   },
   "LAN": {
     "name": "Lancashire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LAN",
+    "iso-name": "Lancashire",
+    "iso-type": "Two-tier county"
   },
   "LBC": {
     "name": "Lisburn and Castlereagh",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-LBC",
+    "iso-name": "Lisburn and Castlereagh",
+    "iso-type": "District"
   },
   "LBH": {
     "name": "Lambeth",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LBH",
+    "iso-name": "Lambeth",
+    "iso-type": "London borough"
   },
   "LCE": {
     "name": "Leicester",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LCE",
+    "iso-name": "Leicester",
+    "iso-type": "Unitary authority"
   },
   "LDS": {
     "name": "Leeds",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LDS",
+    "iso-name": "Leeds",
+    "iso-type": "Metropolitan district"
   },
   "LEC": {
     "name": "Leicestershire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LEC",
+    "iso-name": "Leicestershire",
+    "iso-type": "Two-tier county"
   },
   "LEW": {
     "name": "Lewisham",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LEW",
+    "iso-name": "Lewisham",
+    "iso-type": "London borough"
   },
   "LIN": {
     "name": "Lincolnshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LIN",
+    "iso-name": "Lincolnshire",
+    "iso-type": "Two-tier county"
   },
   "LIV": {
     "name": "Liverpool",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LIV",
+    "iso-name": "Liverpool",
+    "iso-type": "Metropolitan district"
   },
   "LND": {
     "name": "London",
     "type": "City corporation",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LND",
+    "iso-name": "London, City of",
+    "iso-type": "City corporation"
   },
   "LUT": {
     "name": "Luton",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-LUT",
+    "iso-name": "Luton",
+    "iso-type": "Unitary authority"
   },
   "MAN": {
     "name": "Manchester",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-MAN",
+    "iso-name": "Manchester",
+    "iso-type": "Metropolitan district"
   },
   "MDB": {
     "name": "Middlesbrough",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-MDB",
+    "iso-name": "Middlesbrough",
+    "iso-type": "Unitary authority"
   },
   "MDW": {
     "name": "Medway",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-MDW",
+    "iso-name": "Medway",
+    "iso-type": "Unitary authority"
   },
   "MEA": {
     "name": "Mid and East Antrim",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-MEA",
+    "iso-name": "Mid and East Antrim",
+    "iso-type": "District"
   },
   "MIK": {
     "name": "Milton Keynes",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-MIK",
+    "iso-name": "Milton Keynes",
+    "iso-type": "Unitary authority"
   },
   "MLN": {
     "name": "Midlothian",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-MLN",
+    "iso-name": "Midlothian",
+    "iso-type": "Council area"
   },
   "MON": {
     "name": "Monmouthshire",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-MON",
+    "iso-name": "Monmouthshire [Sir Fynwy GB-FYN]",
+    "iso-type": "Unitary authority"
   },
   "MRT": {
     "name": "Merton",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-MRT",
+    "iso-name": "Merton",
+    "iso-type": "London borough"
   },
   "MRY": {
     "name": "Moray",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-MRY",
+    "iso-name": "Moray",
+    "iso-type": "Council area"
   },
   "MTY": {
     "name": "Merthyr Tydfil",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-MTY",
+    "iso-name": "Merthyr Tydfil [Merthyr Tudful GB-MTU]",
+    "iso-type": "Unitary authority"
   },
   "MUL": {
     "name": "Mid Ulster",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-MUL",
+    "iso-name": "Mid-Ulster",
+    "iso-type": "District"
   },
   "NAY": {
     "name": "North Ayrshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-NAY",
+    "iso-name": "North Ayrshire",
+    "iso-type": "Council area"
   },
   "NBL": {
     "name": "Northumberland",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NBL",
+    "iso-name": "Northumberland",
+    "iso-type": "Unitary authority"
   },
   "NEL": {
     "name": "North East Lincolnshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NEL",
+    "iso-name": "North East Lincolnshire",
+    "iso-type": "Unitary authority"
   },
   "NET": {
     "name": "Newcastle upon Tyne",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NET",
+    "iso-name": "Newcastle upon Tyne",
+    "iso-type": "Metropolitan district"
   },
   "NFK": {
     "name": "Norfolk",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NFK",
+    "iso-name": "Norfolk",
+    "iso-type": "Two-tier county"
   },
   "NGM": {
     "name": "Nottingham",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NGM",
+    "iso-name": "Nottingham",
+    "iso-type": "Unitary authority"
   },
   "NLK": {
     "name": "North Lanarkshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-NLK",
+    "iso-name": "North Lanarkshire",
+    "iso-type": "Council area"
   },
   "NLN": {
     "name": "North Lincolnshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NLN",
+    "iso-name": "North Lincolnshire",
+    "iso-type": "Unitary authority"
   },
   "NMD": {
     "name": "Newry, Mourne and Down",
     "type": "District",
-    "country-code": "NIR"
+    "country-code": "NIR",
+    "iso3166-2": "GB-NMD",
+    "iso-name": "Newry, Mourne and Down",
+    "iso-type": "District"
   },
   "NNH": {
     "name": "North Northamptonshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NNH",
+    "iso-name": "North Northamptonshire",
+    "iso-type": "Unitary authority"
   },
   "NSM": {
     "name": "North Somerset",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NSM",
+    "iso-name": "North Somerset",
+    "iso-type": "Unitary authority"
   },
   "NTL": {
     "name": "Neath Port Talbot",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-NTL",
+    "iso-name": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]",
+    "iso-type": "Unitary authority"
   },
   "NTT": {
     "name": "Nottinghamshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NTT",
+    "iso-name": "Nottinghamshire",
+    "iso-type": "Two-tier county"
   },
   "NTY": {
     "name": "North Tyneside",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NTY",
+    "iso-name": "North Tyneside",
+    "iso-type": "Metropolitan district"
   },
   "NWM": {
     "name": "Newham",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NWM",
+    "iso-name": "Newham",
+    "iso-type": "London borough"
   },
   "NWP": {
     "name": "Newport",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-NWP",
+    "iso-name": "Newport [Casnewydd GB-CNW]",
+    "iso-type": "Unitary authority"
   },
   "NYK": {
     "name": "North Yorkshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-NYK",
+    "iso-name": "North Yorkshire",
+    "iso-type": "Two-tier county"
   },
   "OLD": {
     "name": "Oldham",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-OLD",
+    "iso-name": "Oldham",
+    "iso-type": "Metropolitan district"
   },
   "ORK": {
     "name": "Orkney Islands",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ORK",
+    "iso-name": "Orkney Islands",
+    "iso-type": "Council area"
   },
   "OXF": {
     "name": "Oxfordshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-OXF",
+    "iso-name": "Oxfordshire",
+    "iso-type": "Two-tier county"
   },
   "PEM": {
     "name": "Pembrokeshire",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-PEM",
+    "iso-name": "Pembrokeshire [Sir Benfro GB-BNF]",
+    "iso-type": "Unitary authority"
   },
   "PKN": {
     "name": "Perth and Kinross",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-PKN",
+    "iso-name": "Perth and Kinross",
+    "iso-type": "Council area"
   },
   "PLY": {
     "name": "Plymouth",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-PLY",
+    "iso-name": "Plymouth",
+    "iso-type": "Unitary authority"
   },
   "POR": {
     "name": "Portsmouth",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-POR",
+    "iso-name": "Portsmouth",
+    "iso-type": "Unitary authority"
   },
   "POW": {
     "name": "Powys",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-POW",
+    "iso-name": "Powys",
+    "iso-type": "Unitary authority"
   },
   "PTE": {
     "name": "Peterborough",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-PTE",
+    "iso-name": "Peterborough",
+    "iso-type": "Unitary authority"
   },
   "RCC": {
     "name": "Redcar and Cleveland",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-RCC",
+    "iso-name": "Redcar and Cleveland",
+    "iso-type": "Unitary authority"
   },
   "RCH": {
     "name": "Rochdale",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-RCH",
+    "iso-name": "Rochdale",
+    "iso-type": "Metropolitan district"
   },
   "RCT": {
     "name": "Rhondda Cynon Taf",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-RCT",
+    "iso-name": "Rhondda Cynon Taff [Rhondda CynonTaf]",
+    "iso-type": "Unitary authority"
   },
   "RDB": {
     "name": "Redbridge",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-RDB",
+    "iso-name": "Redbridge",
+    "iso-type": "London borough"
   },
   "RDG": {
     "name": "Reading",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-RDG",
+    "iso-name": "Reading",
+    "iso-type": "Unitary authority"
   },
   "RFW": {
     "name": "Renfrewshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-RFW",
+    "iso-name": "Renfrewshire",
+    "iso-type": "Council area"
   },
   "RIC": {
     "name": "Richmond upon Thames",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-RIC",
+    "iso-name": "Richmond upon Thames",
+    "iso-type": "London borough"
   },
   "ROT": {
     "name": "Rotherham",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-ROT",
+    "iso-name": "Rotherham",
+    "iso-type": "Metropolitan district"
   },
   "RUT": {
     "name": "Rutland",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-RUT",
+    "iso-name": "Rutland",
+    "iso-type": "Unitary authority"
   },
   "SAW": {
     "name": "Sandwell",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SAW",
+    "iso-name": "Sandwell",
+    "iso-type": "Metropolitan district"
   },
   "SAY": {
     "name": "South Ayrshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-SAY",
+    "iso-name": "South Ayrshire",
+    "iso-type": "Council area"
   },
   "SCB": {
     "name": "Scottish Borders",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-SCB",
+    "iso-name": "Scottish Borders",
+    "iso-type": "Council area"
   },
   "SFK": {
     "name": "Suffolk",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SFK",
+    "iso-name": "Suffolk",
+    "iso-type": "Two-tier county"
   },
   "SFT": {
     "name": "Sefton",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SFT",
+    "iso-name": "Sefton",
+    "iso-type": "Metropolitan district"
   },
   "SGC": {
     "name": "South Gloucestershire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SGC",
+    "iso-name": "South Gloucestershire",
+    "iso-type": "Unitary authority"
   },
   "SHF": {
     "name": "Sheffield",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SHF",
+    "iso-name": "Sheffield",
+    "iso-type": "Metropolitan district"
   },
   "SHN": {
     "name": "St Helens",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SHN",
+    "iso-name": "St. Helens",
+    "iso-type": "Metropolitan district"
   },
   "SHR": {
     "name": "Shropshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SHR",
+    "iso-name": "Shropshire",
+    "iso-type": "Unitary authority"
   },
   "SKP": {
     "name": "Stockport",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SKP",
+    "iso-name": "Stockport",
+    "iso-type": "Metropolitan district"
   },
   "SLF": {
     "name": "Salford",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SLF",
+    "iso-name": "Salford",
+    "iso-type": "Metropolitan district"
   },
   "SLG": {
     "name": "Slough",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SLG",
+    "iso-name": "Slough",
+    "iso-type": "Unitary authority"
   },
   "SLK": {
     "name": "South Lanarkshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-SLK",
+    "iso-name": "South Lanarkshire",
+    "iso-type": "Council area"
   },
   "SND": {
     "name": "Sunderland",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SND",
+    "iso-name": "Sunderland",
+    "iso-type": "Metropolitan district"
   },
   "SOL": {
     "name": "Solihull",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SOL",
+    "iso-name": "Solihull",
+    "iso-type": "Metropolitan district"
   },
   "SOM": {
     "name": "Somerset",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SOM",
+    "iso-name": "Somerset",
+    "iso-type": "Two-tier county"
   },
   "SOS": {
     "name": "Southend-on-Sea",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SOS",
+    "iso-name": "Southend-on-Sea",
+    "iso-type": "Unitary authority"
   },
   "SRY": {
     "name": "Surrey",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SRY",
+    "iso-name": "Surrey",
+    "iso-type": "Two-tier county"
   },
   "STE": {
     "name": "Stoke-on-Trent",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-STE",
+    "iso-name": "Stoke-on-Trent",
+    "iso-type": "Unitary authority"
   },
   "STG": {
     "name": "Stirling",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-STG",
+    "iso-name": "Stirling",
+    "iso-type": "Council area"
   },
   "STH": {
     "name": "City of Southampton",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-STH",
+    "iso-name": "Southampton",
+    "iso-type": "Unitary authority"
   },
   "STN": {
     "name": "Sutton",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-STN",
+    "iso-name": "Sutton",
+    "iso-type": "London borough"
   },
   "STS": {
     "name": "Staffordshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-STS",
+    "iso-name": "Staffordshire",
+    "iso-type": "Two-tier county"
   },
   "STT": {
     "name": "Stockton-on-Tees",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-STT",
+    "iso-name": "Stockton-on-Tees",
+    "iso-type": "Unitary authority"
   },
   "STY": {
     "name": "South Tyneside",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-STY",
+    "iso-name": "South Tyneside",
+    "iso-type": "Metropolitan district"
   },
   "SWA": {
     "name": "Swansea",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-SWA",
+    "iso-name": "Swansea [Abertawe GB-ATA]",
+    "iso-type": "Unitary authority"
   },
   "SWD": {
     "name": "Swindon",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SWD",
+    "iso-name": "Swindon",
+    "iso-type": "Unitary authority"
   },
   "SWK": {
     "name": "Southwark",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-SWK",
+    "iso-name": "Southwark",
+    "iso-type": "London borough"
   },
   "TAM": {
     "name": "Tameside",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-TAM",
+    "iso-name": "Tameside",
+    "iso-type": "Metropolitan district"
   },
   "TFW": {
     "name": "Telford and Wrekin",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-TFW",
+    "iso-name": "Telford and Wrekin",
+    "iso-type": "Unitary authority"
   },
   "THR": {
     "name": "Thurrock",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-THR",
+    "iso-name": "Thurrock",
+    "iso-type": "Unitary authority"
   },
   "TOB": {
     "name": "Torbay",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-TOB",
+    "iso-name": "Torbay",
+    "iso-type": "Unitary authority"
   },
   "TOF": {
     "name": "Torfaen",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-TOF",
+    "iso-name": "Torfaen [Tor-faen]",
+    "iso-type": "Unitary authority"
   },
   "TRF": {
     "name": "Trafford",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-TRF",
+    "iso-name": "Trafford",
+    "iso-type": "Metropolitan district"
   },
   "TWH": {
     "name": "Tower Hamlets",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-TWH",
+    "iso-name": "Tower Hamlets",
+    "iso-type": "London borough"
   },
   "VGL": {
     "name": "Vale of Glamorgan",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-VGL",
+    "iso-name": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",
+    "iso-type": "Unitary authority"
   },
   "WAR": {
     "name": "Warwickshire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WAR",
+    "iso-name": "Warwickshire",
+    "iso-type": "Two-tier county"
   },
   "WBK": {
     "name": "West Berkshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WBK",
+    "iso-name": "West Berkshire",
+    "iso-type": "Unitary authority"
   },
   "WDU": {
     "name": "West Dunbartonshire",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-WDU",
+    "iso-name": "West Dunbartonshire",
+    "iso-type": "Council area"
   },
   "WFT": {
     "name": "Waltham Forest",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WFT",
+    "iso-name": "Waltham Forest",
+    "iso-type": "London borough"
   },
   "WGN": {
     "name": "Wigan",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WGN",
+    "iso-name": "Wigan",
+    "iso-type": "Metropolitan district"
   },
   "WIL": {
     "name": "Wiltshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WIL",
+    "iso-name": "Wiltshire",
+    "iso-type": "Unitary authority"
   },
   "WKF": {
     "name": "Wakefield",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WKF",
+    "iso-name": "Wakefield",
+    "iso-type": "Metropolitan district"
   },
   "WLL": {
     "name": "Walsall",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WLL",
+    "iso-name": "Walsall",
+    "iso-type": "Metropolitan district"
   },
   "WLN": {
     "name": "West Lothian",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-WLN",
+    "iso-name": "West Lothian",
+    "iso-type": "Council area"
   },
   "WLV": {
     "name": "Wolverhampton",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WLV",
+    "iso-name": "Wolverhampton",
+    "iso-type": "Metropolitan district"
   },
   "WND": {
     "name": "Wandsworth",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WND",
+    "iso-name": "Wandsworth",
+    "iso-type": "London borough"
   },
   "WNH": {
     "name": "West Northamptonshire",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WNH",
+    "iso-name": "West Northamptonshire",
+    "iso-type": "Unitary authority"
   },
   "WNM": {
     "name": "Windsor and Maidenhead",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WNM",
+    "iso-name": "Windsor and Maidenhead",
+    "iso-type": "Unitary authority"
   },
   "WOK": {
     "name": "Wokingham",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WOK",
+    "iso-name": "Wokingham",
+    "iso-type": "Unitary authority"
   },
   "WOR": {
     "name": "Worcestershire",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WOR",
+    "iso-name": "Worcestershire",
+    "iso-type": "Two-tier county"
   },
   "WRL": {
     "name": "Wirral",
     "type": "Metropolitan district",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WRL",
+    "iso-name": "Wirral",
+    "iso-type": "Metropolitan district"
   },
   "WRT": {
     "name": "Warrington",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WRT",
+    "iso-name": "Warrington",
+    "iso-type": "Unitary authority"
   },
   "WRX": {
     "name": "Wrexham",
     "type": "Unitary authority",
-    "country-code": "WLS"
+    "country-code": "WLS",
+    "iso3166-2": "GB-WRX",
+    "iso-name": "Wrexham [Wrecsam GB-WRC]",
+    "iso-type": "Unitary authority"
   },
   "WSM": {
     "name": "Westminster",
     "type": "London borough",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WSM",
+    "iso-name": "Westminster",
+    "iso-type": "London borough"
   },
   "WSX": {
     "name": "West Sussex",
     "type": "Two-tier county",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-WSX",
+    "iso-name": "West Sussex",
+    "iso-type": "Two-tier county"
   },
   "YOR": {
     "name": "York",
     "type": "Unitary authority",
-    "country-code": "ENG"
+    "country-code": "ENG",
+    "iso3166-2": "GB-YOR",
+    "iso-name": "York",
+    "iso-type": "Unitary authority"
   },
   "ZET": {
     "name": "Shetland Islands",
     "type": "Council area",
-    "country-code": "SCT"
+    "country-code": "SCT",
+    "iso3166-2": "GB-ZET",
+    "iso-name": "Shetland Islands",
+    "iso-type": "Council area"
   }
 }

@@ -155,7 +155,10 @@
       "WSM",
       "WSX",
       "YOR"
-    ]
+    ],
+    "iso3166-2": "GB-ENG",
+    "iso-name": "England",
+    "iso-type": "Country"
   },
   "SCT": {
     "name": "Scotland",
@@ -193,7 +196,10 @@
       "WDU",
       "WLN",
       "ZET"
-    ]
+    ],
+    "iso3166-2": "GB-SCT",
+    "iso-name": "Scotland",
+    "iso-type": "Country"
   },
   "WLS": {
     "name": "Wales",
@@ -221,7 +227,10 @@
       "TOF",
       "VGL",
       "WRX"
-    ]
+    ],
+    "iso3166-2": "GB-WLS",
+    "iso-name": "Wales [Cymru GB-CYM]",
+    "iso-type": "Country"
   },
   "NIR": {
     "name": "Northern Ireland",
@@ -238,6 +247,9 @@
       "MEA",
       "MUL",
       "NMD"
-    ]
+    ],
+    "iso3166-2": "GB-NIR",
+    "iso-name": "Northern Ireland",
+    "iso-type": "Province"
   }
 }
