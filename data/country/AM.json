@@ -60,6 +60,33 @@
     "continent-code": "AS",
     "currency-codes": [
       "AMD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z%n%C%n%S",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "hy"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:(?:37)?\\d{4})$",
+        "examples": [
+          "375010",
+          "0002",
+          "0010"
+        ]
+      }
+    }
   }
 }

@@ -51,6 +51,34 @@
     "continent-code": "OC",
     "currency-codes": [
       "PGK"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z %S",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "tpi",
+        "en",
+        "ho"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{3})$",
+        "examples": [
+          "111"
+        ]
+      }
+    }
   }
 }

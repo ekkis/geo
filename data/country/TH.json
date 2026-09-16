@@ -62,6 +62,33 @@
     "continent-code": "AS",
     "currency-codes": [
       "THB"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D %C%n%S %Z",
+      "latin-format": "%N%n%O%n%A%n%D, %C%n%S %Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "administrative-area"
+      ],
+      "languages": [
+        "th"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "10150",
+          "10210"
+        ]
+      }
+    }
   }
 }

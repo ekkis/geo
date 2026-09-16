@@ -84,6 +84,33 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%Z %C",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "sorting-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{2} ?\\d{3})$",
+        "examples": [
+          "33380",
+          "34092",
+          "33506"
+        ],
+        "lookup-url": "https://www.laposte.fr/outils/trouver-un-code-postal"
+      }
+    }
   }
 }

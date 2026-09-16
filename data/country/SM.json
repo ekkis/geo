@@ -52,6 +52,32 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "required-fields": [
+        "street-address",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:4789\\d)$",
+        "examples": [
+          "47890",
+          "47891",
+          "47895",
+          "47899"
+        ],
+        "lookup-url": "https://www.poste.it/cerca/index.html#/risultati-cerca-cap/"
+      }
+    }
   }
 }

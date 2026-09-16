@@ -55,6 +55,26 @@
     "continent-code": "NA",
     "currency-codes": [
       "PAB"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%S",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

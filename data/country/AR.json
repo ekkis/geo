@@ -60,6 +60,37 @@
     "continent-code": "SA",
     "currency-codes": [
       "ARS"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C%n%S",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:[A-HJ-NP-Z]\\d{4}[A-Z]{3})$",
+        "examples": [
+          "C1070AAM",
+          "C1000WAM",
+          "B1000TBU",
+          "X5187XAB"
+        ],
+        "lookup-url": "http://www.correoargentino.com.ar/formularios/cpa"
+      }
+    }
   }
 }

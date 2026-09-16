@@ -38,6 +38,33 @@
     "continent-code": "EU",
     "currency-codes": [
       "GIP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%nGIBRALTAR%n%Z",
+      "required-fields": [
+        "street-address"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:GX11 1AA)$",
+        "examples": [
+          "GX11 1AA"
+        ]
+      }
+    },
+    "postal-code": {
+      "regex": "^(GX11 1AA)$",
+      "examples": [
+        "GX11 1AA"
+      ]
+    }
   }
 }

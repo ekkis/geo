@@ -53,6 +53,22 @@
     "continent-code": "AF",
     "currency-codes": [
       "MWK"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %X",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

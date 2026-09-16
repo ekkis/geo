@@ -54,6 +54,31 @@
     "continent-code": "AF",
     "currency-codes": [
       "SZL"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:[HLMS]\\d{3})$",
+        "examples": [
+          "H100"
+        ],
+        "lookup-url": "https://www.eswatinipost.co.sz/postcode.php"
+      }
+    }
   }
 }

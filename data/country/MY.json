@@ -61,6 +61,37 @@
     "continent-code": "AS",
     "currency-codes": [
       "MYR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D%n%Z %C%n%S",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "ms"
+      ],
+      "field-labels": {
+        "administrative-area": "state",
+        "locality": "city",
+        "dependent-locality": "village_township",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "43000",
+          "50754",
+          "88990",
+          "50670"
+        ],
+        "lookup-url": "http://www.pos.com.my"
+      }
+    }
   }
 }

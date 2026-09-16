@@ -60,6 +60,31 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%Z %C",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z]))$",
+        "examples": [
+          "1234 AB",
+          "2490 AA"
+        ],
+        "lookup-url": "https://www.postnl.nl/en/find-a-postcode/"
+      }
+    }
   }
 }

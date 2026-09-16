@@ -46,6 +46,31 @@
     "continent-code": "AF",
     "currency-codes": [
       "CVE"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C%n%S",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "field-labels": {
+        "administrative-area": "island",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "7600"
+        ]
+      }
+    }
   }
 }

@@ -64,6 +64,40 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C %S",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "es",
+        "ca",
+        "gl",
+        "eu"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "28039",
+          "28300",
+          "28070"
+        ],
+        "lookup-url": "http://www.correos.es/contenido/13-MenuRec2/04-MenuRec24/1010_s-CodPostal.asp"
+      }
+    }
   }
 }

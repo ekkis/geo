@@ -55,6 +55,40 @@
     "continent-code": "OC",
     "currency-codes": [
       "AUD"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%C %S %Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "state",
+        "locality": "suburb",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "2060",
+          "3171",
+          "6430",
+          "4000",
+          "4006",
+          "3001"
+        ],
+        "lookup-url": "http://www1.auspost.com.au/postcodes/"
+      }
+    }
   }
 }

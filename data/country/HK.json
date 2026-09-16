@@ -45,6 +45,27 @@
     "continent-code": "AS",
     "currency-codes": [
       "HKD"
-    ]
+    ],
+    "address-format": {
+      "format": "%S%n%C%n%A%n%O%n%N",
+      "latin-format": "%N%n%O%n%A%n%C%n%S",
+      "required-fields": [
+        "street-address",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "administrative-area"
+      ],
+      "languages": [
+        "zh-Hant",
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "area",
+        "locality": "district",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

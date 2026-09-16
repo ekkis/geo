@@ -24,6 +24,94 @@ function pathChk(o, path) {
     }
     return JSON.stringify(o) == v
 }
+function clone(o) {
+    return o === undefined ? undefined : JSON.parse(JSON.stringify(o))
+}
+function recordData(record) {
+    return record && record.data ? record.data : record
+}
+function words(s) {
+    return s.replace(/[-_]/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+}
+function fieldsFromFormat(format) {
+    var fieldCodes = {
+        N: 'recipient',
+        O: 'organization',
+        A: 'street-address',
+        D: 'dependent-locality',
+        C: 'locality',
+        S: 'administrative-area',
+        Z: 'postal-code',
+        X: 'sorting-code'
+    }
+    var fields = []
+    var re = /%([NOADCSZX])/g
+    var match
+    while ((match = re.exec(format || ''))) {
+        var field = fieldCodes[match[1]]
+        if (field && !fields.includes(field)) fields.push(field)
+    }
+    return fields
+}
+function defaultLabel(field) {
+    return {
+        'recipient': 'Recipient',
+        'organization': 'Organization',
+        'street-address': 'Street Address',
+        'dependent-locality': 'Dependent Locality',
+        'locality': 'Locality',
+        'administrative-area': 'Administrative Area',
+        'postal-code': 'Postal Code',
+        'sorting-code': 'Sorting Code'
+    }[field] || words(field)
+}
+function labelFor(field, labels = {}) {
+    var label = labels[field]
+    if (label == 'zip') return 'ZIP'
+    return words(label || defaultLabel(field))
+}
+function placeholderFor(field, format = {}) {
+    if (field == 'postal-code') {
+        var postal = format['postal-code'] || {}
+        if (postal.examples && postal.examples.length) return postal.examples[0]
+        if (postal.format) return postal.format
+    }
+
+    var labels = format['field-labels'] || {}
+    var label = (labels[field] || '').toLowerCase().replace(/_/g, ' ')
+    var examples = {
+        'recipient': 'Jane Smith',
+        'organization': 'Example Company',
+        'street-address': '123 Main St',
+        'dependent-locality': 'Neighborhood',
+        'locality': 'City',
+        'administrative-area': 'State / Province',
+        'postal-code': 'Postal Code',
+        'sorting-code': 'Sorting Code'
+    }
+    var labelExamples = {
+        'area': 'Area',
+        'city': 'City',
+        'county': 'County',
+        'department': 'Department',
+        'district': 'District',
+        'do si': 'Do/Si',
+        'emirate': 'Emirate',
+        'island': 'Island',
+        'neighborhood': 'Neighborhood',
+        'oblast': 'Oblast',
+        'parish': 'Parish',
+        'post town': 'Post Town',
+        'prefecture': 'Prefecture',
+        'province': 'Province',
+        'state': 'State',
+        'suburb': 'Suburb',
+        'townland': 'Townland',
+        'village township': 'Village / Township',
+        'zip': '95014'
+    }
+    return labelExamples[label] || examples[field] || defaultLabel(field)
+}
 // Base Entity class with list and find methods
 class Entity {
     constructor(data) {
@@ -34,6 +122,51 @@ class Entity {
     }
     list() {
         return Object.values(this.data);
+    }
+    get(key) {
+        var record = this.data[key]
+        return record ? clone(record) : undefined
+    }
+    addressFormat(key) {
+        var record = recordData(this.data[key])
+        return record && record['address-format'] ? clone(record['address-format']) : undefined
+    }
+    addressHeaders(key) {
+        var format = this.addressFormat(key)
+        if (!format) return undefined
+
+        var labels = format['field-labels'] || {}
+        var fields = fieldsFromFormat(format.format)
+        return fields.reduce((headers, field) => {
+            headers[field] = labelFor(field, labels)
+            return headers
+        }, {})
+    }
+    addressForm(key) {
+        var format = this.addressFormat(key)
+        if (!format) return undefined
+
+        var labels = format['field-labels'] || {}
+        var required = new Set(format['required-fields'] || [])
+        var uppercase = new Set(format['uppercase-fields'] || [])
+        var fields = fieldsFromFormat(format.format).reduce((ret, field) => {
+            ret[field] = {
+                header: labelFor(field, labels),
+                placeholder: placeholderFor(field, format),
+                required: required.has(field),
+                uppercase: uppercase.has(field)
+            }
+            if (field == 'postal-code' && format['postal-code']) {
+                ret[field].validation = clone(format['postal-code'])
+                delete ret[field].validation.examples
+            }
+            return ret
+        }, {})
+
+        return {
+            format: format.format,
+            fields
+        }
     }
     find(criteria, opts = {}) {
         // no criteria provided

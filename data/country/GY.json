@@ -52,6 +52,22 @@
     "continent-code": "SA",
     "currency-codes": [
       "GYD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

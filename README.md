@@ -5,7 +5,7 @@
 [![Total Downloads](https://img.shields.io/npm/dt/geo.svg)](https://www.npmjs.com/package/geo)
 [![License](https://shields.io/github/license/i-rocky/geo.svg)](https://github.com/i-rocky/geo/blob/master/LICENSE)
 
-This module contains country information including 2 and 3 character ISO codes, country and capital names, currency information, telephone calling codes, and provinces (first-tier political subdivisions).
+This module contains country information including 2 and 3 character ISO codes, country and capital names, currency information, telephone calling codes, provinces (first-tier political subdivisions), postal-code rules, and country-specific physical address formats.
 
 The functionality in this module is also available as a service, hosted using **remote-lib**. Deploy your own instance:
 
@@ -122,6 +122,48 @@ const northEastNeighbors = geo.neighbours('DE', 'NE');
 
 // Get all neighbors (any direction)
 const allNeighbors = geo.neighbours('CA');
+```
+
+## Address formats
+
+Each country record may include an `address-format` object sourced from Google libaddressinput/Chromium international address metadata.  It stores the original format template, required and uppercase fields, country-specific field labels (for example `state`, `province`, `post_town`, or `zip`), and postal-code validation metadata where available.
+
+Format tokens use libaddressinput's field codes:
+
+- `%N`: recipient
+- `%O`: organization
+- `%A`: street address
+- `%D`: dependent locality / neighborhood / suburb
+- `%C`: locality / city / post town
+- `%S`: administrative area / state / province
+- `%Z`: postal code
+- `%X`: sorting code
+- `%n`: line break
+
+Import metadata and coverage are stored in `data/address-format-meta.json`; the reproducible importer is `scripts/add-address-formats.py`.
+
+Clients can retrieve this data from the country entity:
+
+```js
+const usFormat = geo.country.addressFormat('US')
+// usFormat.format === '%N%n%O%n%A%n%C, %S %Z'
+
+const usHeaders = geo.country.addressHeaders('US')
+// Still available as a compact lookup map:
+// {
+//   recipient: 'Recipient',
+//   organization: 'Organization',
+//   'street-address': 'Street Address',
+//   locality: 'City',
+//   'administrative-area': 'State',
+//   'postal-code': 'ZIP'
+// }
+
+const usForm = geo.country.addressForm('US')
+// Returns { format, fields }
+// fields is an object keyed by address field name; the format string controls layout/order.
+// Each field includes header, placeholder, required, uppercase, and postal-code validation metadata.
+// Postal-code examples remain on addressFormat(), while addressForm() exposes only one placeholder example.
 ```
 
 ## NPM Commands

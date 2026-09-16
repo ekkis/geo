@@ -41,6 +41,35 @@
     "continent-code": "AF",
     "currency-codes": [
       "MUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z%n%C",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3}))$",
+        "examples": [
+          "42602"
+        ]
+      }
+    },
+    "postal-code": {
+      "regex": "^(\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3}))$",
+      "examples": [
+        "42602"
+      ]
+    }
   }
 }

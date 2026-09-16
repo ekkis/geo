@@ -47,6 +47,26 @@
     "continent-code": "OC",
     "currency-codes": [
       "AUD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%S%n%C",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "recipient",
+        "organization",
+        "administrative-area"
+      ],
+      "field-labels": {
+        "administrative-area": "island",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

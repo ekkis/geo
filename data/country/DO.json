@@ -54,6 +54,30 @@
     "continent-code": "NA",
     "currency-codes": [
       "DOP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "11903",
+          "10101"
+        ],
+        "lookup-url": "http://inposdom.gob.do/"
+      }
+    }
   }
 }

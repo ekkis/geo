@@ -65,6 +65,36 @@
     "continent-code": "AS",
     "currency-codes": [
       "INR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%T%n%F%n%L%n%C %Z%n%S",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "field-labels": {
+        "administrative-area": "state",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "pin"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "110034",
+          "110001"
+        ],
+        "lookup-url": "https://dac.indiapost.gov.in/"
+      }
+    }
   }
 }

@@ -65,6 +65,35 @@
     "continent-code": "SA",
     "currency-codes": [
       "PEN"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z%n%S",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "district",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4})$",
+        "examples": [
+          "LIMA 23",
+          "LIMA 42",
+          "CALLAO 2",
+          "02001"
+        ],
+        "lookup-url": "http://www.codigopostal.gob.pe/pages/invitado/consulta.jsf"
+      }
+    }
   }
 }

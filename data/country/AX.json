@@ -33,6 +33,43 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nAX-%Z %C%nÅLAND",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:22\\d{3})$",
+        "examples": [
+          "22150",
+          "22550",
+          "22240",
+          "22710",
+          "22270",
+          "22730",
+          "22430"
+        ],
+        "lookup-url": "https://www.alandpost.ax/privat/skicka-brev/postnummer-pa-aland/postnummersokning"
+      },
+      "postal-code-prefix": "AX-"
+    },
+    "postal-code": {
+      "regex": "^(22\\d{3})$",
+      "examples": [
+        "22150,22550,22240,22710,22270,22730,22430"
+      ]
+    }
   }
 }

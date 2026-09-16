@@ -63,6 +63,35 @@
     "continent-code": "EU",
     "currency-codes": [
       "UAH"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%S%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "uk"
+      ],
+      "field-labels": {
+        "administrative-area": "oblast",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "15432",
+          "01055",
+          "01001"
+        ],
+        "lookup-url": "http://services.ukrposhta.com/postindex_new/"
+      }
+    }
   }
 }

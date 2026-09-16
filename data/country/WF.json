@@ -37,6 +37,31 @@
     "continent-code": "OC",
     "currency-codes": [
       "XPF"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%Z %C %X",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "sorting-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:986\\d{2})$",
+        "examples": [
+          "98600"
+        ]
+      }
+    }
   }
 }

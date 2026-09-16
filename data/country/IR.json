@@ -62,6 +62,31 @@
     "continent-code": "AS",
     "currency-codes": [
       "IRR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%S%n%C, %D%n%A%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "fa"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "neighborhood",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5}-?\\d{5})$",
+        "examples": [
+          "11936-12345"
+        ]
+      }
+    }
   }
 }

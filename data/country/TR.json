@@ -70,6 +70,34 @@
     "continent-code": "AS",
     "currency-codes": [
       "TRY"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C/%S",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "district",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "01960",
+          "06101"
+        ],
+        "lookup-url": "http://postakodu.ptt.gov.tr/"
+      }
+    }
   }
 }

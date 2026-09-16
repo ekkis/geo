@@ -43,6 +43,26 @@
     "continent-code": "NA",
     "currency-codes": [
       "JMD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%S %X",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "parish",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

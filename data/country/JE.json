@@ -37,6 +37,32 @@
     "continent-code": "EU",
     "currency-codes": [
       "GBP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%nJERSEY%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2})$",
+        "examples": [
+          "JE1 1AA",
+          "JE2 2BT"
+        ],
+        "lookup-url": "http://www.jerseypost.com/tools/postcode-address-finder/"
+      }
+    }
   }
 }

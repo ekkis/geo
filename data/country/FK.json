@@ -33,6 +33,36 @@
     "continent-code": "SA",
     "currency-codes": [
       "FKP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:FIQQ 1ZZ)$",
+        "examples": [
+          "FIQQ 1ZZ"
+        ]
+      }
+    },
+    "postal-code": {
+      "regex": "^(FIQQ 1ZZ)$",
+      "examples": [
+        "FIQQ 1ZZ"
+      ]
+    }
   }
 }

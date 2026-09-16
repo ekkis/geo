@@ -49,6 +49,38 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "county",
+        "locality": "city",
+        "dependent-locality": "townland",
+        "postal-code": "eircode"
+      },
+      "postal-code": {
+        "regex": "^(?:[\\dA-Z]{3} ?[\\dA-Z]{4})$",
+        "examples": [
+          "A65 F4E2"
+        ],
+        "lookup-url": "https://finder.eircode.ie"
+      }
+    },
+    "postal-code": {
+      "regex": "^([\\dA-Z]{3} ?[\\dA-Z]{4})$",
+      "examples": [
+        "A65 F4E2"
+      ]
+    }
   }
 }

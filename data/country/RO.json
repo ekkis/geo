@@ -64,6 +64,36 @@
     "continent-code": "EU",
     "currency-codes": [
       "RON"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %S %C",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality"
+      ],
+      "languages": [
+        "ro"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "060274",
+          "061357",
+          "200716"
+        ],
+        "lookup-url": "http://www.posta-romana.ro/zip_codes"
+      }
+    }
   }
 }

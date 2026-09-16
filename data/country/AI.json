@@ -33,6 +33,34 @@
     "continent-code": "NA",
     "currency-codes": [
       "XCD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:(?:AI-)?2640)$",
+        "examples": [
+          "2640"
+        ]
+      }
+    },
+    "postal-code": {
+      "regex": "^((?:AI-)?2640)$",
+      "examples": [
+        "2640"
+      ]
+    }
   }
 }

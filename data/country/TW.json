@@ -40,6 +40,38 @@
     "continent-code": "AS",
     "currency-codes": [
       "TWD"
-    ]
+    ],
+    "address-format": {
+      "format": "%Z%n%S%C%n%A%n%O%n%N",
+      "latin-format": "%N%n%O%n%A%n%C, %S %Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "field-labels": {
+        "administrative-area": "county",
+        "locality": "district",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{3}(?:\\d{2,3})?)$",
+        "examples": [
+          "104",
+          "106",
+          "10603",
+          "40867"
+        ],
+        "lookup-url": "http://www.post.gov.tw/post/internet/f_searchzone/index.jsp?ID=190102"
+      }
+    }
   }
 }

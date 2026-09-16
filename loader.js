@@ -1,11 +1,17 @@
 import { readdir } from "node:fs/promises";
 const root = './data'
 
+function isObj(o) {
+    return o && typeof o === 'object' && !Array.isArray(o)
+}
 function set(o, path, val) {
     var ls = path.split('.')
     for (var i = 0; i < ls.length - 1; i++) {
         if (!(ls[i] in o)) o[ls[i]] = {}
         o = o[ls[i]]
+    }
+    if (isObj(o[ls[i]]) && isObj(val)) {
+        return o[ls[i]] = Object.assign(o[ls[i]], val)
     }
     return o[ls[i]] = val
 }

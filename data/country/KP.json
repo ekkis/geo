@@ -51,6 +51,26 @@
     "continent-code": "AS",
     "currency-codes": [
       "KPW"
-    ]
+    ],
+    "address-format": {
+      "format": "%Z%n%S%n%C%n%A%n%O%n%N",
+      "latin-format": "%N%n%O%n%A%n%C%n%S, %Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

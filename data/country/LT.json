@@ -62,6 +62,32 @@
     "continent-code": "EU",
     "currency-codes": [
       "LTL"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nLT-%Z %C %S",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "04340",
+          "03500"
+        ],
+        "lookup-url": "http://www.post.lt/lt/?id=316"
+      },
+      "postal-code-prefix": "LT-"
+    }
   }
 }

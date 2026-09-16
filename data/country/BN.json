@@ -52,6 +52,31 @@
     "continent-code": "AS",
     "currency-codes": [
       "BND"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z",
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:[A-Z]{2} ?\\d{4})$",
+        "examples": [
+          "BT2328",
+          "KA1131",
+          "BA1511"
+        ],
+        "lookup-url": "http://webapps.mtic.gov.bn/SitePages/Post/postcode.aspx"
+      }
+    }
   }
 }

@@ -51,6 +51,39 @@
     "continent-code": "AS",
     "currency-codes": [
       "JPY"
-    ]
+    ],
+    "address-format": {
+      "format": "〒%Z%n%S%n%A%n%O%n%N",
+      "latin-format": "%N%n%O%n%A, %S%n%Z",
+      "required-fields": [
+        "street-address",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "administrative-area"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "field-labels": {
+        "administrative-area": "prefecture",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{3}-?\\d{4})$",
+        "examples": [
+          "154-0023",
+          "350-1106",
+          "951-8073",
+          "112-0001",
+          "208-0032",
+          "231-0012"
+        ],
+        "lookup-url": "http://www.post.japanpost.jp/zipcode/"
+      }
+    }
   }
 }

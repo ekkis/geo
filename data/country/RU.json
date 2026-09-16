@@ -84,6 +84,37 @@
     "continent-code": "EU",
     "currency-codes": [
       "RUB"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%S%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "field-labels": {
+        "administrative-area": "oblast",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "247112",
+          "103375",
+          "188300"
+        ],
+        "lookup-url": "https://www.pochta.ru/post-index"
+      }
+    }
   }
 }

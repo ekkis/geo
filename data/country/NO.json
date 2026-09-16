@@ -57,6 +57,32 @@
     "continent-code": "EU",
     "currency-codes": [
       "NOK"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "post_town",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "0025",
+          "0107",
+          "6631"
+        ],
+        "lookup-url": "http://adressesok.posten.no/nb/postal_codes/search"
+      }
+    }
   }
 }

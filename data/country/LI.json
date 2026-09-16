@@ -54,6 +54,34 @@
     "continent-code": "EU",
     "currency-codes": [
       "CHF"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nFL-%Z %C",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:948[5-9]|949[0-8])$",
+        "examples": [
+          "9496",
+          "9491",
+          "9490",
+          "9485"
+        ],
+        "lookup-url": "http://www.post.ch/db/owa/pv_plz_pack/pr_main"
+      },
+      "postal-code-prefix": "FL-"
+    }
   }
 }

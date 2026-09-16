@@ -41,6 +41,34 @@
     "continent-code": "OC",
     "currency-codes": [
       "USD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "recipient",
+        "organization"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "zip"
+      },
+      "postal-code": {
+        "regex": "^(?:(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?)$",
+        "examples": [
+          "96910",
+          "96931"
+        ],
+        "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp"
+      }
+    }
   }
 }

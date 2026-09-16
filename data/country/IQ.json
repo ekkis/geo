@@ -61,6 +61,33 @@
     "continent-code": "AS",
     "currency-codes": [
       "IQD"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%C, %S%n%Z",
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "31001"
+        ]
+      }
+    }
   }
 }
