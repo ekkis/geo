@@ -92,7 +92,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "UG.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -101,7 +100,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "UG.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -110,7 +108,6 @@
         "key": "geographical_region",
         "label": "Geographical Region",
         "standard": "ISO 3166-2",
-        "file": "UG.geographical_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

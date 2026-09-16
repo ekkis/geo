@@ -100,7 +100,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "SM.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

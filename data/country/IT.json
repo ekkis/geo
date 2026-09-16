@@ -123,7 +123,6 @@
         "key": "autonomous_province",
         "label": "Autonomous Province",
         "standard": "ISO 3166-2",
-        "file": "IT.autonomous_province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -132,7 +131,6 @@
         "key": "autonomous_region",
         "label": "Autonomous Region",
         "standard": "ISO 3166-2",
-        "file": "IT.autonomous_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -140,7 +138,6 @@
         "key": "decentralized_regional_entity",
         "label": "Decentralized Regional Entity",
         "standard": "ISO 3166-2",
-        "file": "IT.decentralized_regional_entity.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -149,7 +146,6 @@
         "key": "free_municipal_consortium",
         "label": "Free Municipal Consortium",
         "standard": "ISO 3166-2",
-        "file": "IT.free_municipal_consortium.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -158,7 +154,6 @@
         "key": "metropolitan_city",
         "label": "Metropolitan City",
         "standard": "ISO 3166-2",
-        "file": "IT.metropolitan_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -167,7 +162,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "IT.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -176,7 +170,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "IT.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

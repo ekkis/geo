@@ -90,7 +90,6 @@
         "key": "islands_groups_of_islands",
         "label": "Islands Groups Of Islands",
         "standard": "ISO 3166-2",
-        "file": "UM.islands_groups_of_islands.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

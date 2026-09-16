@@ -116,7 +116,6 @@
         "key": "voivodship",
         "label": "Voivodship",
         "standard": "ISO 3166-2",
-        "file": "PL.voivodship.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

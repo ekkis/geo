@@ -110,7 +110,6 @@
         "key": "prefecture",
         "label": "Prefecture",
         "standard": "ISO 3166-2",
-        "file": "LA.prefecture.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -118,7 +117,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "LA.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

@@ -99,7 +99,6 @@
         "key": "geographical_region",
         "label": "Geographical Region",
         "standard": "ISO 3166-2",
-        "file": "CV.geographical_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -107,7 +106,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "CV.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

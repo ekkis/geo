@@ -115,7 +115,6 @@
         "key": "city_municipality",
         "label": "City Municipality",
         "standard": "ISO 3166-2",
-        "file": "LT.city_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -124,7 +123,6 @@
         "key": "county",
         "label": "County",
         "standard": "ISO 3166-2",
-        "file": "LT.county.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -132,7 +130,6 @@
         "key": "district_municipality",
         "label": "District Municipality",
         "standard": "ISO 3166-2",
-        "file": "LT.district_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -141,7 +138,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "LT.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

@@ -140,7 +140,6 @@
         "key": "administrative_region",
         "label": "Administrative Region",
         "standard": "ISO 3166-2",
-        "file": "RU.administrative_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -148,7 +147,6 @@
         "key": "administrative_territory",
         "label": "Administrative Territory",
         "standard": "ISO 3166-2",
-        "file": "RU.administrative_territory.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -156,7 +154,6 @@
         "key": "autonomous_city",
         "label": "Autonomous City",
         "standard": "ISO 3166-2",
-        "file": "RU.autonomous_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -164,7 +161,6 @@
         "key": "autonomous_district",
         "label": "Autonomous District",
         "standard": "ISO 3166-2",
-        "file": "RU.autonomous_district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -172,7 +168,6 @@
         "key": "autonomous_region",
         "label": "Autonomous Region",
         "standard": "ISO 3166-2",
-        "file": "RU.autonomous_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -180,7 +175,6 @@
         "key": "republic",
         "label": "Republic",
         "standard": "ISO 3166-2",
-        "file": "RU.republic.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

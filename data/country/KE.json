@@ -108,7 +108,6 @@
         "key": "county",
         "label": "County",
         "standard": "ISO 3166-2",
-        "file": "KE.county.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

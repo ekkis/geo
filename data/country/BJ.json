@@ -93,7 +93,6 @@
         "key": "department",
         "label": "Department",
         "standard": "ISO 3166-2",
-        "file": "BJ.department.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

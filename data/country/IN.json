@@ -121,7 +121,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "IN.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -129,7 +128,6 @@
         "key": "union_territory",
         "label": "Union Territory",
         "standard": "ISO 3166-2",
-        "file": "IN.union_territory.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

@@ -120,7 +120,6 @@
         "key": "land",
         "label": "Land",
         "standard": "ISO 3166-2",
-        "file": "DE.land.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

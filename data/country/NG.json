@@ -125,7 +125,6 @@
         "key": "capital_territory",
         "label": "Capital Territory",
         "standard": "ISO 3166-2",
-        "file": "NG.capital_territory.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -133,7 +132,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "NG.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

@@ -120,7 +120,6 @@
         "key": "department",
         "label": "Department",
         "standard": "ISO 3166-2",
-        "file": "RO.department.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -128,7 +127,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "RO.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

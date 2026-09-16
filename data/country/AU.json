@@ -114,7 +114,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "AU.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -122,7 +121,6 @@
         "key": "territory",
         "label": "Territory",
         "standard": "ISO 3166-2",
-        "file": "AU.territory.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

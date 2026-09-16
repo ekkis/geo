@@ -124,7 +124,6 @@
         "key": "federal_territory",
         "label": "Federal Territory",
         "standard": "ISO 3166-2",
-        "file": "MY.federal_territory.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -132,7 +131,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "MY.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

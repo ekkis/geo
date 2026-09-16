@@ -111,7 +111,6 @@
         "key": "administrative_region",
         "label": "Administrative Region",
         "standard": "ISO 3166-2",
-        "file": "GR.administrative_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -119,7 +118,6 @@
         "key": "self_governed_part",
         "label": "Self Governed Part",
         "standard": "ISO 3166-2",
-        "file": "GR.self_governed_part.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

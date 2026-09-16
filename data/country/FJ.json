@@ -76,7 +76,6 @@
         "key": "dependency",
         "label": "Dependency",
         "standard": "ISO 3166-2",
-        "file": "FJ.dependency.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -84,7 +83,6 @@
         "key": "division",
         "label": "Division",
         "standard": "ISO 3166-2",
-        "file": "FJ.division.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -92,7 +90,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "FJ.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

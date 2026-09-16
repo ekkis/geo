@@ -102,7 +102,6 @@
         "key": "autonomous_sector",
         "label": "Autonomous Sector",
         "standard": "ISO 3166-2",
-        "file": "GW.autonomous_sector.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -110,7 +109,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "GW.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -118,7 +116,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "GW.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

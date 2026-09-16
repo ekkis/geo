@@ -83,7 +83,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "GM.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -91,7 +90,6 @@
         "key": "division",
         "label": "Division",
         "standard": "ISO 3166-2",
-        "file": "GM.division.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

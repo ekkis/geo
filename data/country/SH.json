@@ -81,7 +81,6 @@
         "key": "geographical_entity",
         "label": "Geographical Entity",
         "standard": "ISO 3166-2",
-        "file": "SH.geographical_entity.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

@@ -114,7 +114,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "LV.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -122,7 +121,6 @@
         "key": "state_city",
         "label": "State City",
         "standard": "ISO 3166-2",
-        "file": "LV.state_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

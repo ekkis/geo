@@ -98,7 +98,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "TW.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -106,7 +105,6 @@
         "key": "county",
         "label": "County",
         "standard": "ISO 3166-2",
-        "file": "TW.county.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -114,7 +112,6 @@
         "key": "special_municipality",
         "label": "Special Municipality",
         "standard": "ISO 3166-2",
-        "file": "TW.special_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

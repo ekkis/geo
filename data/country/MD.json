@@ -99,7 +99,6 @@
         "key": "autonomous_territorial_unit",
         "label": "Autonomous Territorial Unit",
         "standard": "ISO 3166-2",
-        "file": "MD.autonomous_territorial_unit.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -107,7 +106,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "MD.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -115,7 +113,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "MD.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -123,7 +120,6 @@
         "key": "territorial_unit",
         "label": "Territorial Unit",
         "standard": "ISO 3166-2",
-        "file": "MD.territorial_unit.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

@@ -102,7 +102,6 @@
         "key": "capital_city",
         "label": "Capital City",
         "standard": "ISO 3166-2",
-        "file": "KP.capital_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -110,7 +109,6 @@
         "key": "metropolitan_city",
         "label": "Metropolitan City",
         "standard": "ISO 3166-2",
-        "file": "KP.metropolitan_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -118,7 +116,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "KP.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -126,7 +123,6 @@
         "key": "special_city",
         "label": "Special City",
         "standard": "ISO 3166-2",
-        "file": "KP.special_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

@@ -65,7 +65,6 @@
         "key": "special_municipality",
         "label": "Special Municipality",
         "standard": "ISO 3166-2",
-        "file": "BQ.special_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

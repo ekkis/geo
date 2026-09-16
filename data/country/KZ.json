@@ -117,7 +117,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "KZ.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -125,7 +124,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "KZ.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

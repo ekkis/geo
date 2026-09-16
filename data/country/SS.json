@@ -95,7 +95,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "SS.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

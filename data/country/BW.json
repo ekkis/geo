@@ -90,7 +90,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "BW.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -98,7 +97,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "BW.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -106,7 +104,6 @@
         "key": "town",
         "label": "Town",
         "standard": "ISO 3166-2",
-        "file": "BW.town.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

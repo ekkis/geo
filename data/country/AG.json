@@ -77,7 +77,6 @@
         "key": "dependency",
         "label": "Dependency",
         "standard": "ISO 3166-2",
-        "file": "AG.dependency.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -85,7 +84,6 @@
         "key": "parish",
         "label": "Parish",
         "standard": "ISO 3166-2",
-        "file": "AG.parish.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

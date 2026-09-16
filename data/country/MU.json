@@ -88,7 +88,6 @@
         "key": "dependency",
         "label": "Dependency",
         "standard": "ISO 3166-2",
-        "file": "MU.dependency.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -96,7 +95,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "MU.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

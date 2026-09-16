@@ -88,7 +88,6 @@
         "key": "group_of_islands_20_inhabited_islands",
         "label": "Group Of Islands 20 Inhabited Islands",
         "standard": "ISO 3166-2",
-        "file": "KI.group_of_islands_20_inhabited_islands.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

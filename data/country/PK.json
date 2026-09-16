@@ -111,7 +111,6 @@
         "key": "federal_capital_territory",
         "label": "Federal Capital Territory",
         "standard": "ISO 3166-2",
-        "file": "PK.federal_capital_territory.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -119,7 +118,6 @@
         "key": "pakistan_administered_area",
         "label": "Pakistan Administered Area",
         "standard": "ISO 3166-2",
-        "file": "PK.pakistan_administered_area.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -127,7 +125,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "PK.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

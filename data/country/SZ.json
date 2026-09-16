@@ -99,7 +99,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "SZ.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

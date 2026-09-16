@@ -105,7 +105,6 @@
         "key": "prefecture",
         "label": "Prefecture",
         "standard": "ISO 3166-2",
-        "file": "JP.prefecture.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

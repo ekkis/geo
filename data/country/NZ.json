@@ -106,7 +106,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "NZ.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -114,7 +113,6 @@
         "key": "special_island_authority",
         "label": "Special Island Authority",
         "standard": "ISO 3166-2",
-        "file": "NZ.special_island_authority.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

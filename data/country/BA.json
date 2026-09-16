@@ -98,7 +98,6 @@
         "key": "district_with_special_status",
         "label": "District With Special Status",
         "standard": "ISO 3166-2",
-        "file": "BA.district_with_special_status.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -106,7 +105,6 @@
         "key": "entity",
         "label": "Entity",
         "standard": "ISO 3166-2",
-        "file": "BA.entity.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

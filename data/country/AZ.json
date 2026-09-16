@@ -107,7 +107,6 @@
         "key": "autonomous_republic",
         "label": "Autonomous Republic",
         "standard": "ISO 3166-2",
-        "file": "AZ.autonomous_republic.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -115,7 +114,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "AZ.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -124,7 +122,6 @@
         "key": "rayon",
         "label": "Rayon",
         "standard": "ISO 3166-2",
-        "file": "AZ.rayon.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

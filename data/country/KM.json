@@ -78,7 +78,6 @@
         "key": "island",
         "label": "Island",
         "standard": "ISO 3166-2",
-        "file": "KM.island.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

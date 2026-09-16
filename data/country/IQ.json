@@ -114,7 +114,6 @@
         "key": "governorate",
         "label": "Governorate",
         "standard": "ISO 3166-2",
-        "file": "IQ.governorate.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -123,7 +122,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "IQ.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

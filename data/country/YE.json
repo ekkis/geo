@@ -89,7 +89,6 @@
         "key": "governorate",
         "label": "Governorate",
         "standard": "ISO 3166-2",
-        "file": "YE.governorate.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -97,7 +96,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "YE.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

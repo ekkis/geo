@@ -121,7 +121,6 @@
         "key": "autonomous_province",
         "label": "Autonomous Province",
         "standard": "ISO 3166-2",
-        "file": "RS.autonomous_province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -129,7 +128,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "RS.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -137,7 +135,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "RS.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

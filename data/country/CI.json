@@ -98,7 +98,6 @@
         "key": "autonomous_district",
         "label": "Autonomous District",
         "standard": "ISO 3166-2",
-        "file": "CI.autonomous_district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -106,7 +105,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "CI.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

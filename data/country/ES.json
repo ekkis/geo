@@ -123,7 +123,6 @@
         "key": "autonomous_city_in_north_africa",
         "label": "Autonomous City In North Africa",
         "standard": "ISO 3166-2",
-        "file": "ES.autonomous_city_in_north_africa.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -131,7 +130,6 @@
         "key": "autonomous_community",
         "label": "Autonomous Community",
         "standard": "ISO 3166-2",
-        "file": "ES.autonomous_community.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -139,7 +137,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "ES.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

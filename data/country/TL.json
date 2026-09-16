@@ -86,7 +86,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "TL.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -94,7 +93,6 @@
         "key": "special_administrative_region",
         "label": "Special Administrative Region",
         "standard": "ISO 3166-2",
-        "file": "TL.special_administrative_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

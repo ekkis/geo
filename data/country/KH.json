@@ -106,7 +106,6 @@
         "key": "autonomous_municipality",
         "label": "Autonomous Municipality",
         "standard": "ISO 3166-2",
-        "file": "KH.autonomous_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -114,7 +113,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "KH.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

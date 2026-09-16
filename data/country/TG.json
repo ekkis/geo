@@ -91,7 +91,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "TG.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

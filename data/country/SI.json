@@ -111,7 +111,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "SI.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -119,7 +118,6 @@
         "key": "urban_municipality",
         "label": "Urban Municipality",
         "standard": "ISO 3166-2",
-        "file": "SI.urban_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

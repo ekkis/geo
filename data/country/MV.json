@@ -91,7 +91,6 @@
         "key": "administrative_atoll",
         "label": "Administrative Atoll",
         "standard": "ISO 3166-2",
-        "file": "MV.administrative_atoll.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -99,7 +98,6 @@
         "key": "city",
         "label": "City",
         "standard": "ISO 3166-2",
-        "file": "MV.city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

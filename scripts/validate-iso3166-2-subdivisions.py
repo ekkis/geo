@@ -137,14 +137,18 @@ def main() -> None:
         if not isinstance(hierarchy, list) or not hierarchy:
             errors.append(f"{country_code}: missing data.division-hierarchy")
         else:
-            hierarchy_files = {entry.get("file") for entry in hierarchy if isinstance(entry, dict)}
-            for path in paths:
-                if path.name not in hierarchy_files:
-                    errors.append(f"{country_code}: hierarchy does not reference {path.name}")
+            hierarchy_keys = {entry.get("key") for entry in hierarchy if isinstance(entry, dict)}
+            expected_hierarchy_keys = {"country", "division", "city"} if country_code == "GB" else set(grouped_by_type(subdivisions))
+            if not expected_hierarchy_keys.issubset(hierarchy_keys):
+                errors.append(
+                    f"{country_code}: hierarchy key mismatch missing={sorted(expected_hierarchy_keys - hierarchy_keys)} extra={sorted(hierarchy_keys - expected_hierarchy_keys)}"
+                )
             for entry in hierarchy:
-                file_name = entry.get("file") if isinstance(entry, dict) else None
-                if file_name and not (COUNTRY_DIR / file_name).exists():
-                    errors.append(f"{country_code}: hierarchy references missing file {file_name}")
+                if not isinstance(entry, dict):
+                    errors.append(f"{country_code}: hierarchy entry is not an object")
+                    continue
+                if "file" in entry:
+                    errors.append(f"{country_code}: hierarchy entry {entry.get('key')!r} still contains redundant file key")
 
     if errors:
         print(f"ISO 3166-2 validation failed with {len(errors)} error(s)")

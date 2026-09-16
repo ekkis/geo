@@ -125,7 +125,6 @@
         "key": "federal_entity",
         "label": "Federal Entity",
         "standard": "ISO 3166-2",
-        "file": "MX.federal_entity.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -133,7 +132,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "MX.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

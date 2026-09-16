@@ -123,7 +123,6 @@
         "key": "metropolitan_administration",
         "label": "Metropolitan Administration",
         "standard": "ISO 3166-2",
-        "file": "TH.metropolitan_administration.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -131,7 +130,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "TH.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -139,7 +137,6 @@
         "key": "special_administrative_city",
         "label": "Special Administrative City",
         "standard": "ISO 3166-2",
-        "file": "TH.special_administrative_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

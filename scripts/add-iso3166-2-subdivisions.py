@@ -8,8 +8,8 @@ Files are named for each ISO subdivision domain, e.g.:
 - US.state.json, US.outlying_area.json, and US.district.json
 
 Each file uses the ISO subdivision suffix as the key and preserves exact ISO
-audit fields. Country records get a `data.division-hierarchy` array pointing to
-the political subdivision files.
+audit fields. Country records get a `data.division-hierarchy` array naming the
+political subdivision domains in order.
 
 GB keeps the project-specific hierarchy requested by the user: GB.country.json
 for constituent countries and GB.country.division.json for lower ISO
@@ -105,7 +105,6 @@ def hierarchy_entry(country_code: str, type_slug: str, subdivisions: list[Any]) 
         "key": type_slug,
         "label": label,
         "standard": "ISO 3166-2",
-        "file": file_for(country_code, type_slug),
         "code-field": "iso3166-2",
         "type-field": "iso-type",
     }
@@ -184,7 +183,6 @@ def generate_gb(subdivisions: list[Any]) -> tuple[list[str], int]:
                 "key": "country",
                 "label": "Constituent country",
                 "standard": "ISO 3166-2",
-                "file": "GB.country.json",
                 "code-field": "iso3166-2",
                 "type-field": "iso-type",
             },
@@ -193,7 +191,6 @@ def generate_gb(subdivisions: list[Any]) -> tuple[list[str], int]:
                 "label": "Administrative division / local authority",
                 "standard": "ISO 3166-2",
                 "parent": "country",
-                "file": "GB.country.division.json",
                 "code-field": "iso3166-2",
                 "type-field": "iso-type",
                 "parent-field": "parent-code",
@@ -202,7 +199,6 @@ def generate_gb(subdivisions: list[Any]) -> tuple[list[str], int]:
                 "key": "city",
                 "label": "City / locality",
                 "parent": "division",
-                "file": "GB.country.division.city.json",
             },
         ],
     )

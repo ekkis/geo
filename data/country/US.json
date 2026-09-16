@@ -123,7 +123,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "US.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -131,7 +130,6 @@
         "key": "outlying_area",
         "label": "Outlying Area",
         "standard": "ISO 3166-2",
-        "file": "US.outlying_area.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -139,7 +137,6 @@
         "key": "state",
         "label": "State",
         "standard": "ISO 3166-2",
-        "file": "US.state.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

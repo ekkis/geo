@@ -100,7 +100,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "DO.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -109,7 +108,6 @@
         "key": "province",
         "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "DO.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
@@ -118,7 +116,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "DO.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

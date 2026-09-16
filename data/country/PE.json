@@ -122,7 +122,6 @@
         "key": "municipality",
         "label": "Municipality",
         "standard": "ISO 3166-2",
-        "file": "PE.municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -130,7 +129,6 @@
         "key": "region",
         "label": "Region",
         "standard": "ISO 3166-2",
-        "file": "PE.region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

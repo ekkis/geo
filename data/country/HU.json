@@ -116,7 +116,6 @@
         "key": "capital_city",
         "label": "Capital City",
         "standard": "ISO 3166-2",
-        "file": "HU.capital_city.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -124,7 +123,6 @@
         "key": "city_with_county_rights",
         "label": "City With County Rights",
         "standard": "ISO 3166-2",
-        "file": "HU.city_with_county_rights.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -132,7 +130,6 @@
         "key": "county",
         "label": "County",
         "standard": "ISO 3166-2",
-        "file": "HU.county.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

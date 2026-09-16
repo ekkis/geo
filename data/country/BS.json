@@ -86,7 +86,6 @@
         "key": "district",
         "label": "District",
         "standard": "ISO 3166-2",
-        "file": "BS.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -94,7 +93,6 @@
         "key": "island",
         "label": "Island",
         "standard": "ISO 3166-2",
-        "file": "BS.island.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }

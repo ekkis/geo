@@ -98,7 +98,6 @@
         "key": "commune",
         "label": "Commune",
         "standard": "ISO 3166-2",
-        "file": "CF.commune.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -106,7 +105,6 @@
         "key": "economic_prefecture",
         "label": "Economic Prefecture",
         "standard": "ISO 3166-2",
-        "file": "CF.economic_prefecture.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       },
@@ -114,7 +112,6 @@
         "key": "prefecture",
         "label": "Prefecture",
         "standard": "ISO 3166-2",
-        "file": "CF.prefecture.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type"
       }
