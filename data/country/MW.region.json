@@ -1,0 +1,23 @@
+{
+  "C": {
+    "name": "Central Region",
+    "type": "Region",
+    "iso3166-2": "MW-C",
+    "iso-name": "Central Region",
+    "iso-type": "Region"
+  },
+  "N": {
+    "name": "Northern Region",
+    "type": "Region",
+    "iso3166-2": "MW-N",
+    "iso-name": "Northern Region",
+    "iso-type": "Region"
+  },
+  "S": {
+    "name": "Southern Region",
+    "type": "Region",
+    "iso3166-2": "MW-S",
+    "iso-name": "Southern Region",
+    "iso-type": "Region"
+  }
+}

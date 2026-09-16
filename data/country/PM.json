@@ -26,10 +26,6 @@
     "demonym": {
       "en": "Saint-Pierrais, Miquelonnais"
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(97500)$"
-    },
     "phone-code": "508",
     "language-codes": [
       "spm"
@@ -40,27 +36,50 @@
     ],
     "address-format": {
       "format": "%O%n%N%n%A%n%Z %C %X",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "sorting-code"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:9[78]5\\d{2})$",
-        "examples": [
-          "97500"
-        ]
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "97500",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:9[78]5\\d{2})$",
+            "examples": [
+              "97500"
+            ]
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "sorting-code": {
+          "header": "Sorting Code",
+          "placeholder": "Sorting Code",
+          "required": false,
+          "uppercase": true
+        }
       }
     }
   }

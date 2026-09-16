@@ -31,10 +31,6 @@
       "value": 6393564189.61345,
       "year": 2023
     },
-    "postal-code": {
-      "format": "BB#####",
-      "regex": "^(?:BB)*(\\d{5})$"
-    },
     "organisation-codes": [
       "WTO",
       "OAS",
@@ -50,29 +46,64 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C, %S %Z",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Parish",
+          "placeholder": "Parish",
+          "required": false,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "BB23026",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "BB#####",
+            "regex": "^(?:BB\\d{5})$",
+            "examples": [
+              "BB23026",
+              "BB22025"
+            ]
+          }
+        }
+      },
       "languages": [
         "en"
-      ],
-      "field-labels": {
-        "administrative-area": "parish",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:BB\\d{5})$",
-        "examples": [
-          "BB23026",
-          "BB22025"
-        ]
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "parish",
+        "label": "Parish",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

@@ -1,0 +1,30 @@
+{
+  "C": {
+    "name": "Connaught",
+    "type": "Province",
+    "iso3166-2": "IE-C",
+    "iso-name": "Connaught",
+    "iso-type": "Province"
+  },
+  "L": {
+    "name": "Leinster",
+    "type": "Province",
+    "iso3166-2": "IE-L",
+    "iso-name": "Leinster",
+    "iso-type": "Province"
+  },
+  "M": {
+    "name": "Munster",
+    "type": "Province",
+    "iso3166-2": "IE-M",
+    "iso-name": "Munster",
+    "iso-type": "Province"
+  },
+  "U": {
+    "name": "Ulster",
+    "type": "Province",
+    "iso3166-2": "IE-U",
+    "iso-name": "Ulster",
+    "iso-type": "Province"
+  }
+}

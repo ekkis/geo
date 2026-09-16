@@ -1,0 +1,100 @@
+{
+  "DI": {
+    "name": "Dimashq",
+    "type": "Province",
+    "iso3166-2": "SY-DI",
+    "iso-name": "Dimashq",
+    "iso-type": "Province"
+  },
+  "DR": {
+    "name": "Dar'ā",
+    "type": "Province",
+    "iso3166-2": "SY-DR",
+    "iso-name": "Dar'ā",
+    "iso-type": "Province"
+  },
+  "DY": {
+    "name": "Dayr az Zawr",
+    "type": "Province",
+    "iso3166-2": "SY-DY",
+    "iso-name": "Dayr az Zawr",
+    "iso-type": "Province"
+  },
+  "HA": {
+    "name": "Al Ḩasakah",
+    "type": "Province",
+    "iso3166-2": "SY-HA",
+    "iso-name": "Al Ḩasakah",
+    "iso-type": "Province"
+  },
+  "HI": {
+    "name": "Ḩimş",
+    "type": "Province",
+    "iso3166-2": "SY-HI",
+    "iso-name": "Ḩimş",
+    "iso-type": "Province"
+  },
+  "HL": {
+    "name": "Ḩalab",
+    "type": "Province",
+    "iso3166-2": "SY-HL",
+    "iso-name": "Ḩalab",
+    "iso-type": "Province"
+  },
+  "HM": {
+    "name": "Ḩamāh",
+    "type": "Province",
+    "iso3166-2": "SY-HM",
+    "iso-name": "Ḩamāh",
+    "iso-type": "Province"
+  },
+  "ID": {
+    "name": "Idlib",
+    "type": "Province",
+    "iso3166-2": "SY-ID",
+    "iso-name": "Idlib",
+    "iso-type": "Province"
+  },
+  "LA": {
+    "name": "Al Lādhiqīyah",
+    "type": "Province",
+    "iso3166-2": "SY-LA",
+    "iso-name": "Al Lādhiqīyah",
+    "iso-type": "Province"
+  },
+  "QU": {
+    "name": "Al Qunayţirah",
+    "type": "Province",
+    "iso3166-2": "SY-QU",
+    "iso-name": "Al Qunayţirah",
+    "iso-type": "Province"
+  },
+  "RA": {
+    "name": "Ar Raqqah",
+    "type": "Province",
+    "iso3166-2": "SY-RA",
+    "iso-name": "Ar Raqqah",
+    "iso-type": "Province"
+  },
+  "RD": {
+    "name": "Rīf Dimashq",
+    "type": "Province",
+    "iso3166-2": "SY-RD",
+    "iso-name": "Rīf Dimashq",
+    "iso-type": "Province"
+  },
+  "SU": {
+    "name": "As Suwaydā'",
+    "type": "Province",
+    "iso3166-2": "SY-SU",
+    "iso-name": "As Suwaydā'",
+    "iso-type": "Province"
+  },
+  "TA": {
+    "name": "Ţarţūs",
+    "type": "Province",
+    "iso3166-2": "SY-TA",
+    "iso-name": "Ţarţūs",
+    "iso-type": "Province"
+  }
+}

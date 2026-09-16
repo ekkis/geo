@@ -1,0 +1,121 @@
+{
+  "CL": {
+    "name": "La Colle",
+    "type": "Quarter",
+    "iso3166-2": "MC-CL",
+    "iso-name": "La Colle",
+    "iso-type": "Quarter"
+  },
+  "CO": {
+    "name": "La Condamine",
+    "type": "Quarter",
+    "iso3166-2": "MC-CO",
+    "iso-name": "La Condamine",
+    "iso-type": "Quarter"
+  },
+  "FO": {
+    "name": "Fontvieille",
+    "type": "Quarter",
+    "iso3166-2": "MC-FO",
+    "iso-name": "Fontvieille",
+    "iso-type": "Quarter"
+  },
+  "GA": {
+    "name": "La Gare",
+    "type": "Quarter",
+    "iso3166-2": "MC-GA",
+    "iso-name": "La Gare",
+    "iso-type": "Quarter"
+  },
+  "JE": {
+    "name": "Jardin Exotique",
+    "type": "Quarter",
+    "iso3166-2": "MC-JE",
+    "iso-name": "Jardin Exotique",
+    "iso-type": "Quarter"
+  },
+  "LA": {
+    "name": "Larvotto",
+    "type": "Quarter",
+    "iso3166-2": "MC-LA",
+    "iso-name": "Larvotto",
+    "iso-type": "Quarter"
+  },
+  "MA": {
+    "name": "Malbousquet",
+    "type": "Quarter",
+    "iso3166-2": "MC-MA",
+    "iso-name": "Malbousquet",
+    "iso-type": "Quarter"
+  },
+  "MC": {
+    "name": "Monte-Carlo",
+    "type": "Quarter",
+    "iso3166-2": "MC-MC",
+    "iso-name": "Monte-Carlo",
+    "iso-type": "Quarter"
+  },
+  "MG": {
+    "name": "Moneghetti",
+    "type": "Quarter",
+    "iso3166-2": "MC-MG",
+    "iso-name": "Moneghetti",
+    "iso-type": "Quarter"
+  },
+  "MO": {
+    "name": "Monaco-Ville",
+    "type": "Quarter",
+    "iso3166-2": "MC-MO",
+    "iso-name": "Monaco-Ville",
+    "iso-type": "Quarter"
+  },
+  "MU": {
+    "name": "Moulins",
+    "type": "Quarter",
+    "iso3166-2": "MC-MU",
+    "iso-name": "Moulins",
+    "iso-type": "Quarter"
+  },
+  "PH": {
+    "name": "Port-Hercule",
+    "type": "Quarter",
+    "iso3166-2": "MC-PH",
+    "iso-name": "Port-Hercule",
+    "iso-type": "Quarter"
+  },
+  "SD": {
+    "name": "Sainte-Dévote",
+    "type": "Quarter",
+    "iso3166-2": "MC-SD",
+    "iso-name": "Sainte-Dévote",
+    "iso-type": "Quarter"
+  },
+  "SO": {
+    "name": "La Source",
+    "type": "Quarter",
+    "iso3166-2": "MC-SO",
+    "iso-name": "La Source",
+    "iso-type": "Quarter"
+  },
+  "SP": {
+    "name": "Spélugues",
+    "type": "Quarter",
+    "iso3166-2": "MC-SP",
+    "iso-name": "Spélugues",
+    "iso-type": "Quarter"
+  },
+  "SR": {
+    "name": "Saint-Roman",
+    "type": "Quarter",
+    "iso3166-2": "MC-SR",
+    "iso-name": "Saint-Roman",
+    "iso-type": "Quarter"
+  },
+  "VR": {
+    "name": "Vallon de la Rousse",
+    "type": "Quarter",
+    "iso3166-2": "MC-VR",
+    "iso-name": "Vallon de la Rousse",
+    "iso-type": "Quarter"
+  }
+}

@@ -30,10 +30,6 @@
       "value": 7931193222.064053,
       "year": 2021
     },
-    "postal-code": {
-      "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-      "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
-    },
     "phone-code": "+44-1624",
     "language-codes": [
       "imn"
@@ -44,28 +40,46 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%n%Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality",
-        "postal-code"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2})$",
-        "examples": [
-          "IM2 1AA",
-          "IM99 1PS"
-        ],
-        "lookup-url": "https://www.iompost.com/tools-forms/postcode-finder/"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "IM2 1AA",
+          "required": true,
+          "uppercase": true,
+          "validation": {
+            "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+            "regex": "^(?:IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2})$",
+            "examples": [
+              "IM2 1AA",
+              "IM99 1PS"
+            ],
+            "lookup-url": "https://www.iompost.com/tools-forms/postcode-finder/"
+          }
+        }
       }
     }
   }

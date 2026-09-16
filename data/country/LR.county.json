@@ -1,47 +1,107 @@
 {
-  "BM": {
-    "name": "Bomi"
-  },
   "BG": {
-    "name": "Bong"
+    "name": "Bong",
+    "type": "County",
+    "iso3166-2": "LR-BG",
+    "iso-name": "Bong",
+    "iso-type": "County"
   },
-  "GP": {
-    "name": "Gbarpolu"
-  },
-  "GB": {
-    "name": "Grand Bassa"
+  "BM": {
+    "name": "Bomi",
+    "type": "County",
+    "iso3166-2": "LR-BM",
+    "iso-name": "Bomi",
+    "iso-type": "County"
   },
   "CM": {
-    "name": "Grand Cape Mount"
+    "name": "Grand Cape Mount",
+    "type": "County",
+    "iso3166-2": "LR-CM",
+    "iso-name": "Grand Cape Mount",
+    "iso-type": "County"
+  },
+  "GB": {
+    "name": "Grand Bassa",
+    "type": "County",
+    "iso3166-2": "LR-GB",
+    "iso-name": "Grand Bassa",
+    "iso-type": "County"
   },
   "GG": {
-    "name": "Grand Gedeh"
+    "name": "Grand Gedeh",
+    "type": "County",
+    "iso3166-2": "LR-GG",
+    "iso-name": "Grand Gedeh",
+    "iso-type": "County"
   },
   "GK": {
-    "name": "Grand Kru"
+    "name": "Grand Kru",
+    "type": "County",
+    "iso3166-2": "LR-GK",
+    "iso-name": "Grand Kru",
+    "iso-type": "County"
+  },
+  "GP": {
+    "name": "Gbarpolu",
+    "type": "County",
+    "iso3166-2": "LR-GP",
+    "iso-name": "Gbarpolu",
+    "iso-type": "County"
   },
   "LO": {
-    "name": "Lofa"
+    "name": "Lofa",
+    "type": "County",
+    "iso3166-2": "LR-LO",
+    "iso-name": "Lofa",
+    "iso-type": "County"
   },
   "MG": {
-    "name": "Margibi"
-  },
-  "MY": {
-    "name": "Maryland"
+    "name": "Margibi",
+    "type": "County",
+    "iso3166-2": "LR-MG",
+    "iso-name": "Margibi",
+    "iso-type": "County"
   },
   "MO": {
-    "name": "Montserrado"
+    "name": "Montserrado",
+    "type": "County",
+    "iso3166-2": "LR-MO",
+    "iso-name": "Montserrado",
+    "iso-type": "County"
+  },
+  "MY": {
+    "name": "Maryland",
+    "type": "County",
+    "iso3166-2": "LR-MY",
+    "iso-name": "Maryland",
+    "iso-type": "County"
   },
   "NI": {
-    "name": "Nimba"
-  },
-  "RI": {
-    "name": "River Cess"
+    "name": "Nimba",
+    "type": "County",
+    "iso3166-2": "LR-NI",
+    "iso-name": "Nimba",
+    "iso-type": "County"
   },
   "RG": {
-    "name": "River Gee"
+    "name": "River Gee",
+    "type": "County",
+    "iso3166-2": "LR-RG",
+    "iso-name": "River Gee",
+    "iso-type": "County"
+  },
+  "RI": {
+    "name": "River Cess",
+    "type": "County",
+    "iso3166-2": "LR-RI",
+    "iso-name": "River Cess",
+    "iso-type": "County"
   },
   "SI": {
-    "name": "Sinoe"
+    "name": "Sinoe",
+    "type": "County",
+    "iso3166-2": "LR-SI",
+    "iso-name": "Sinoe",
+    "iso-type": "County"
   }
 }

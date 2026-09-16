@@ -1,74 +1,163 @@
 {
-  "C": {
-    "name": "Autonomous City of Buenos Aires"
+  "A": {
+    "name": "Salta",
+    "type": "Province",
+    "iso3166-2": "AR-A",
+    "iso-name": "Salta",
+    "iso-type": "Province"
   },
   "B": {
-    "name": "Buenos Aires"
-  },
-  "K": {
-    "name": "Catamarca"
-  },
-  "H": {
-    "name": "Chaco"
-  },
-  "U": {
-    "name": "Chubut"
-  },
-  "X": {
-    "name": "Córdoba"
-  },
-  "W": {
-    "name": "Corrientes"
-  },
-  "E": {
-    "name": "Entre Ríos"
-  },
-  "P": {
-    "name": "Formosa"
-  },
-  "Y": {
-    "name": "Jujuy"
-  },
-  "L": {
-    "name": "La Pampa"
-  },
-  "F": {
-    "name": "La Rioja"
-  },
-  "M": {
-    "name": "Mendoza"
-  },
-  "N": {
-    "name": "Misiones"
-  },
-  "Q": {
-    "name": "Neuquén"
-  },
-  "R": {
-    "name": "Río Negro"
-  },
-  "A": {
-    "name": "Salta"
-  },
-  "J": {
-    "name": "San Juan"
+    "name": "Buenos Aires",
+    "type": "Province",
+    "iso3166-2": "AR-B",
+    "iso-name": "Buenos Aires",
+    "iso-type": "Province"
   },
   "D": {
-    "name": "San Luis"
+    "name": "San Luis",
+    "type": "Province",
+    "iso3166-2": "AR-D",
+    "iso-name": "San Luis",
+    "iso-type": "Province"
   },
-  "Z": {
-    "name": "Santa Cruz"
+  "E": {
+    "name": "Entre Ríos",
+    "type": "Province",
+    "iso3166-2": "AR-E",
+    "iso-name": "Entre Ríos",
+    "iso-type": "Province"
   },
-  "S": {
-    "name": "Santa Fe"
+  "F": {
+    "name": "La Rioja",
+    "type": "Province",
+    "iso3166-2": "AR-F",
+    "iso-name": "La Rioja",
+    "iso-type": "Province"
   },
   "G": {
-    "name": "Santiago del Estero"
+    "name": "Santiago del Estero",
+    "type": "Province",
+    "iso3166-2": "AR-G",
+    "iso-name": "Santiago del Estero",
+    "iso-type": "Province"
   },
-  "V": {
-    "name": "Tierra del Fuego"
+  "H": {
+    "name": "Chaco",
+    "type": "Province",
+    "iso3166-2": "AR-H",
+    "iso-name": "Chaco",
+    "iso-type": "Province"
+  },
+  "J": {
+    "name": "San Juan",
+    "type": "Province",
+    "iso3166-2": "AR-J",
+    "iso-name": "San Juan",
+    "iso-type": "Province"
+  },
+  "K": {
+    "name": "Catamarca",
+    "type": "Province",
+    "iso3166-2": "AR-K",
+    "iso-name": "Catamarca",
+    "iso-type": "Province"
+  },
+  "L": {
+    "name": "La Pampa",
+    "type": "Province",
+    "iso3166-2": "AR-L",
+    "iso-name": "La Pampa",
+    "iso-type": "Province"
+  },
+  "M": {
+    "name": "Mendoza",
+    "type": "Province",
+    "iso3166-2": "AR-M",
+    "iso-name": "Mendoza",
+    "iso-type": "Province"
+  },
+  "N": {
+    "name": "Misiones",
+    "type": "Province",
+    "iso3166-2": "AR-N",
+    "iso-name": "Misiones",
+    "iso-type": "Province"
+  },
+  "P": {
+    "name": "Formosa",
+    "type": "Province",
+    "iso3166-2": "AR-P",
+    "iso-name": "Formosa",
+    "iso-type": "Province"
+  },
+  "Q": {
+    "name": "Neuquén",
+    "type": "Province",
+    "iso3166-2": "AR-Q",
+    "iso-name": "Neuquén",
+    "iso-type": "Province"
+  },
+  "R": {
+    "name": "Río Negro",
+    "type": "Province",
+    "iso3166-2": "AR-R",
+    "iso-name": "Río Negro",
+    "iso-type": "Province"
+  },
+  "S": {
+    "name": "Santa Fe",
+    "type": "Province",
+    "iso3166-2": "AR-S",
+    "iso-name": "Santa Fe",
+    "iso-type": "Province"
   },
   "T": {
-    "name": "Tucumán"
+    "name": "Tucumán",
+    "type": "Province",
+    "iso3166-2": "AR-T",
+    "iso-name": "Tucumán",
+    "iso-type": "Province"
+  },
+  "U": {
+    "name": "Chubut",
+    "type": "Province",
+    "iso3166-2": "AR-U",
+    "iso-name": "Chubut",
+    "iso-type": "Province"
+  },
+  "V": {
+    "name": "Tierra del Fuego",
+    "type": "Province",
+    "iso3166-2": "AR-V",
+    "iso-name": "Tierra del Fuego",
+    "iso-type": "Province"
+  },
+  "W": {
+    "name": "Corrientes",
+    "type": "Province",
+    "iso3166-2": "AR-W",
+    "iso-name": "Corrientes",
+    "iso-type": "Province"
+  },
+  "X": {
+    "name": "Córdoba",
+    "type": "Province",
+    "iso3166-2": "AR-X",
+    "iso-name": "Córdoba",
+    "iso-type": "Province"
+  },
+  "Y": {
+    "name": "Jujuy",
+    "type": "Province",
+    "iso3166-2": "AR-Y",
+    "iso-name": "Jujuy",
+    "iso-type": "Province"
+  },
+  "Z": {
+    "name": "Santa Cruz",
+    "type": "Province",
+    "iso3166-2": "AR-Z",
+    "iso-name": "Santa Cruz",
+    "iso-type": "Province"
   }
 }

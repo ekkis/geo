@@ -1,0 +1,16 @@
+{
+  "AA": {
+    "name": "Addis Ababa",
+    "type": "Administration",
+    "iso3166-2": "ET-AA",
+    "iso-name": "Addis Ababa",
+    "iso-type": "Administration"
+  },
+  "DD": {
+    "name": "Dire Dawa",
+    "type": "Administration",
+    "iso3166-2": "ET-DD",
+    "iso-name": "Dire Dawa",
+    "iso-type": "Administration"
+  }
+}

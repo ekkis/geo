@@ -1,0 +1,23 @@
+{
+  "AL": {
+    "name": "Alo",
+    "type": "Administrative precinct",
+    "iso3166-2": "WF-AL",
+    "iso-name": "Alo",
+    "iso-type": "Administrative precinct"
+  },
+  "SG": {
+    "name": "Sigave",
+    "type": "Administrative precinct",
+    "iso3166-2": "WF-SG",
+    "iso-name": "Sigave",
+    "iso-type": "Administrative precinct"
+  },
+  "UV": {
+    "name": "Uvea",
+    "type": "Administrative precinct",
+    "iso3166-2": "WF-UV",
+    "iso-name": "Uvea",
+    "iso-type": "Administrative precinct"
+  }
+}

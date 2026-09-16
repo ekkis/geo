@@ -1,0 +1,16 @@
+{
+  "C": {
+    "name": "Région Continentale",
+    "type": "Region",
+    "iso3166-2": "GQ-C",
+    "iso-name": "Région Continentale",
+    "iso-type": "Region"
+  },
+  "I": {
+    "name": "Région Insulaire",
+    "type": "Region",
+    "iso3166-2": "GQ-I",
+    "iso-name": "Région Insulaire",
+    "iso-type": "Region"
+  }
+}

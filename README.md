@@ -126,7 +126,7 @@ const allNeighbors = geo.neighbours('CA');
 
 ## Address formats
 
-Each country record may include an `address-format` object sourced from Google libaddressinput/Chromium international address metadata.  It stores the original format template, required and uppercase fields, country-specific field labels (for example `state`, `province`, `post_town`, or `zip`), and postal-code validation metadata where available.
+Each country record may include an `address-format` object sourced from Google libaddressinput/Chromium international address metadata. It stores the original format template and a `fields` object keyed by address field name. Each field can include country-specific `header`, `placeholder`, `required`, `uppercase`, and postal-code `validation` metadata where available. Postal-code metadata is stored only under the postal-code field validation, not as a duplicate top-level country property.
 
 Format tokens use libaddressinput's field codes:
 
@@ -141,6 +141,8 @@ Format tokens use libaddressinput's field codes:
 - `%n`: line break
 
 Import metadata and coverage are stored in `data/address-format-meta.json`; the reproducible importer is `scripts/add-address-formats.py`.
+
+Canonical ISO 3166-2 subdivisions are available in politically named files under `data/country/`. A country with multiple political subdivision domains gets one file per domain, such as `US.state.json`, `US.outlying_area.json`, and `US.district.json`; single-domain countries use names such as `AD.parish.json`. These files use ISO subdivision suffixes as keys, include the full ISO code in `iso3166-2`, preserve exact ISO names/types in `iso-name` and `iso-type`, and include `parent-code` where ISO defines a parent subdivision. Each country file's `data.division-hierarchy` describes the political subdivision hierarchy by domain key; backing filenames are derived from the country code plus hierarchy path (for example `AD.parish.json` or `GB.country.division.json`). Regenerate them with `scripts/add-iso3166-2-subdivisions.py` and validate them with `scripts/validate-iso3166-2-subdivisions.py`.
 
 Clients can retrieve this data from the country entity:
 

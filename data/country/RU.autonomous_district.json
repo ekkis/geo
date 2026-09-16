@@ -1,0 +1,30 @@
+{
+  "CHU": {
+    "name": "Chukotskiy avtonomnyy okrug",
+    "type": "Autonomous district",
+    "iso3166-2": "RU-CHU",
+    "iso-name": "Chukotskiy avtonomnyy okrug",
+    "iso-type": "Autonomous district"
+  },
+  "KHM": {
+    "name": "Khanty-Mansiyskiy avtonomnyy okrug",
+    "type": "Autonomous district",
+    "iso3166-2": "RU-KHM",
+    "iso-name": "Khanty-Mansiyskiy avtonomnyy okrug",
+    "iso-type": "Autonomous district"
+  },
+  "NEN": {
+    "name": "Nenetskiy avtonomnyy okrug",
+    "type": "Autonomous district",
+    "iso3166-2": "RU-NEN",
+    "iso-name": "Nenetskiy avtonomnyy okrug",
+    "iso-type": "Autonomous district"
+  },
+  "YAN": {
+    "name": "Yamalo-Nenetskiy avtonomnyy okrug",
+    "type": "Autonomous district",
+    "iso3166-2": "RU-YAN",
+    "iso-name": "Yamalo-Nenetskiy avtonomnyy okrug",
+    "iso-type": "Autonomous district"
+  }
+}

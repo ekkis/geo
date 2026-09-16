@@ -1,0 +1,16 @@
+{
+  "GB": {
+    "name": "Gilgit-Baltistan",
+    "type": "Pakistan administered area",
+    "iso3166-2": "PK-GB",
+    "iso-name": "Gilgit-Baltistan",
+    "iso-type": "Pakistan administered area"
+  },
+  "JK": {
+    "name": "Azad Jammu and Kashmir",
+    "type": "Pakistan administered area",
+    "iso3166-2": "PK-JK",
+    "iso-name": "Azad Jammu and Kashmir",
+    "iso-type": "Pakistan administered area"
+  }
+}

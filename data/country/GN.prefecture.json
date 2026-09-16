@@ -1,0 +1,266 @@
+{
+  "BE": {
+    "name": "Beyla",
+    "type": "Prefecture",
+    "iso3166-2": "GN-BE",
+    "iso-name": "Beyla",
+    "iso-type": "Prefecture",
+    "parent-code": "N"
+  },
+  "BF": {
+    "name": "Boffa",
+    "type": "Prefecture",
+    "iso3166-2": "GN-BF",
+    "iso-name": "Boffa",
+    "iso-type": "Prefecture",
+    "parent-code": "B"
+  },
+  "BK": {
+    "name": "Boké",
+    "type": "Prefecture",
+    "iso3166-2": "GN-BK",
+    "iso-name": "Boké",
+    "iso-type": "Prefecture",
+    "parent-code": "B"
+  },
+  "CO": {
+    "name": "Coyah",
+    "type": "Prefecture",
+    "iso3166-2": "GN-CO",
+    "iso-name": "Coyah",
+    "iso-type": "Prefecture",
+    "parent-code": "D"
+  },
+  "DB": {
+    "name": "Dabola",
+    "type": "Prefecture",
+    "iso3166-2": "GN-DB",
+    "iso-name": "Dabola",
+    "iso-type": "Prefecture",
+    "parent-code": "F"
+  },
+  "DI": {
+    "name": "Dinguiraye",
+    "type": "Prefecture",
+    "iso3166-2": "GN-DI",
+    "iso-name": "Dinguiraye",
+    "iso-type": "Prefecture",
+    "parent-code": "F"
+  },
+  "DL": {
+    "name": "Dalaba",
+    "type": "Prefecture",
+    "iso3166-2": "GN-DL",
+    "iso-name": "Dalaba",
+    "iso-type": "Prefecture",
+    "parent-code": "M"
+  },
+  "DU": {
+    "name": "Dubréka",
+    "type": "Prefecture",
+    "iso3166-2": "GN-DU",
+    "iso-name": "Dubréka",
+    "iso-type": "Prefecture",
+    "parent-code": "D"
+  },
+  "FA": {
+    "name": "Faranah",
+    "type": "Prefecture",
+    "iso3166-2": "GN-FA",
+    "iso-name": "Faranah",
+    "iso-type": "Prefecture",
+    "parent-code": "F"
+  },
+  "FO": {
+    "name": "Forécariah",
+    "type": "Prefecture",
+    "iso3166-2": "GN-FO",
+    "iso-name": "Forécariah",
+    "iso-type": "Prefecture",
+    "parent-code": "D"
+  },
+  "FR": {
+    "name": "Fria",
+    "type": "Prefecture",
+    "iso3166-2": "GN-FR",
+    "iso-name": "Fria",
+    "iso-type": "Prefecture",
+    "parent-code": "B"
+  },
+  "GA": {
+    "name": "Gaoual",
+    "type": "Prefecture",
+    "iso3166-2": "GN-GA",
+    "iso-name": "Gaoual",
+    "iso-type": "Prefecture",
+    "parent-code": "B"
+  },
+  "GU": {
+    "name": "Guékédou",
+    "type": "Prefecture",
+    "iso3166-2": "GN-GU",
+    "iso-name": "Guékédou",
+    "iso-type": "Prefecture",
+    "parent-code": "N"
+  },
+  "KA": {
+    "name": "Kankan",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KA",
+    "iso-name": "Kankan",
+    "iso-type": "Prefecture",
+    "parent-code": "K"
+  },
+  "KB": {
+    "name": "Koubia",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KB",
+    "iso-name": "Koubia",
+    "iso-type": "Prefecture",
+    "parent-code": "L"
+  },
+  "KD": {
+    "name": "Kindia",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KD",
+    "iso-name": "Kindia",
+    "iso-type": "Prefecture",
+    "parent-code": "D"
+  },
+  "KE": {
+    "name": "Kérouané",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KE",
+    "iso-name": "Kérouané",
+    "iso-type": "Prefecture",
+    "parent-code": "K"
+  },
+  "KN": {
+    "name": "Koundara",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KN",
+    "iso-name": "Koundara",
+    "iso-type": "Prefecture",
+    "parent-code": "B"
+  },
+  "KO": {
+    "name": "Kouroussa",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KO",
+    "iso-name": "Kouroussa",
+    "iso-type": "Prefecture",
+    "parent-code": "K"
+  },
+  "KS": {
+    "name": "Kissidougou",
+    "type": "Prefecture",
+    "iso3166-2": "GN-KS",
+    "iso-name": "Kissidougou",
+    "iso-type": "Prefecture",
+    "parent-code": "F"
+  },
+  "LA": {
+    "name": "Labé",
+    "type": "Prefecture",
+    "iso3166-2": "GN-LA",
+    "iso-name": "Labé",
+    "iso-type": "Prefecture",
+    "parent-code": "L"
+  },
+  "LE": {
+    "name": "Lélouma",
+    "type": "Prefecture",
+    "iso3166-2": "GN-LE",
+    "iso-name": "Lélouma",
+    "iso-type": "Prefecture",
+    "parent-code": "L"
+  },
+  "LO": {
+    "name": "Lola",
+    "type": "Prefecture",
+    "iso3166-2": "GN-LO",
+    "iso-name": "Lola",
+    "iso-type": "Prefecture",
+    "parent-code": "N"
+  },
+  "MC": {
+    "name": "Macenta",
+    "type": "Prefecture",
+    "iso3166-2": "GN-MC",
+    "iso-name": "Macenta",
+    "iso-type": "Prefecture",
+    "parent-code": "N"
+  },
+  "MD": {
+    "name": "Mandiana",
+    "type": "Prefecture",
+    "iso3166-2": "GN-MD",
+    "iso-name": "Mandiana",
+    "iso-type": "Prefecture",
+    "parent-code": "K"
+  },
+  "ML": {
+    "name": "Mali",
+    "type": "Prefecture",
+    "iso3166-2": "GN-ML",
+    "iso-name": "Mali",
+    "iso-type": "Prefecture",
+    "parent-code": "L"
+  },
+  "MM": {
+    "name": "Mamou",
+    "type": "Prefecture",
+    "iso3166-2": "GN-MM",
+    "iso-name": "Mamou",
+    "iso-type": "Prefecture",
+    "parent-code": "M"
+  },
+  "NZ": {
+    "name": "Nzérékoré",
+    "type": "Prefecture",
+    "iso3166-2": "GN-NZ",
+    "iso-name": "Nzérékoré",
+    "iso-type": "Prefecture",
+    "parent-code": "N"
+  },
+  "PI": {
+    "name": "Pita",
+    "type": "Prefecture",
+    "iso3166-2": "GN-PI",
+    "iso-name": "Pita",
+    "iso-type": "Prefecture",
+    "parent-code": "M"
+  },
+  "SI": {
+    "name": "Siguiri",
+    "type": "Prefecture",
+    "iso3166-2": "GN-SI",
+    "iso-name": "Siguiri",
+    "iso-type": "Prefecture",
+    "parent-code": "K"
+  },
+  "TE": {
+    "name": "Télimélé",
+    "type": "Prefecture",
+    "iso3166-2": "GN-TE",
+    "iso-name": "Télimélé",
+    "iso-type": "Prefecture",
+    "parent-code": "D"
+  },
+  "TO": {
+    "name": "Tougué",
+    "type": "Prefecture",
+    "iso3166-2": "GN-TO",
+    "iso-name": "Tougué",
+    "iso-type": "Prefecture",
+    "parent-code": "L"
+  },
+  "YO": {
+    "name": "Yomou",
+    "type": "Prefecture",
+    "iso3166-2": "GN-YO",
+    "iso-name": "Yomou",
+    "iso-type": "Prefecture",
+    "parent-code": "N"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "011": {
+    "name": "Celje",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-011",
+    "iso-name": "Celje",
+    "iso-type": "Urban municipality"
+  },
+  "050": {
+    "name": "Koper",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-050",
+    "iso-name": "Koper",
+    "iso-type": "Urban municipality"
+  },
+  "052": {
+    "name": "Kranj",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-052",
+    "iso-name": "Kranj",
+    "iso-type": "Urban municipality"
+  },
+  "054": {
+    "name": "Krško",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-054",
+    "iso-name": "Krško",
+    "iso-type": "Urban municipality"
+  },
+  "061": {
+    "name": "Ljubljana",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-061",
+    "iso-name": "Ljubljana",
+    "iso-type": "Urban municipality"
+  },
+  "070": {
+    "name": "Maribor",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-070",
+    "iso-name": "Maribor",
+    "iso-type": "Urban municipality"
+  },
+  "080": {
+    "name": "Murska Sobota",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-080",
+    "iso-name": "Murska Sobota",
+    "iso-type": "Urban municipality"
+  },
+  "084": {
+    "name": "Nova Gorica",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-084",
+    "iso-name": "Nova Gorica",
+    "iso-type": "Urban municipality"
+  },
+  "085": {
+    "name": "Novo Mesto",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-085",
+    "iso-name": "Novo Mesto",
+    "iso-type": "Urban municipality"
+  },
+  "096": {
+    "name": "Ptuj",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-096",
+    "iso-name": "Ptuj",
+    "iso-type": "Urban municipality"
+  },
+  "112": {
+    "name": "Slovenj Gradec",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-112",
+    "iso-name": "Slovenj Gradec",
+    "iso-type": "Urban municipality"
+  },
+  "133": {
+    "name": "Velenje",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-133",
+    "iso-name": "Velenje",
+    "iso-type": "Urban municipality"
+  }
+}

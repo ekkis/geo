@@ -1,0 +1,18 @@
+{
+  "BZ": {
+    "name": "Bolzano",
+    "type": "Autonomous province",
+    "iso3166-2": "IT-BZ",
+    "iso-name": "Bolzano",
+    "iso-type": "Autonomous province",
+    "parent-code": "32"
+  },
+  "TN": {
+    "name": "Trento",
+    "type": "Autonomous province",
+    "iso3166-2": "IT-TN",
+    "iso-name": "Trento",
+    "iso-type": "Autonomous province",
+    "parent-code": "32"
+  }
+}

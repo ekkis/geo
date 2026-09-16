@@ -1,0 +1,51 @@
+{
+  "DGV": {
+    "name": "Daugavpils",
+    "type": "State city",
+    "iso3166-2": "LV-DGV",
+    "iso-name": "Daugavpils",
+    "iso-type": "State city"
+  },
+  "JEL": {
+    "name": "Jelgava",
+    "type": "State city",
+    "iso3166-2": "LV-JEL",
+    "iso-name": "Jelgava",
+    "iso-type": "State city"
+  },
+  "JUR": {
+    "name": "Jūrmala",
+    "type": "State city",
+    "iso3166-2": "LV-JUR",
+    "iso-name": "Jūrmala",
+    "iso-type": "State city"
+  },
+  "LPX": {
+    "name": "Liepāja",
+    "type": "State city",
+    "iso3166-2": "LV-LPX",
+    "iso-name": "Liepāja",
+    "iso-type": "State city"
+  },
+  "REZ": {
+    "name": "Rēzekne",
+    "type": "State city",
+    "iso3166-2": "LV-REZ",
+    "iso-name": "Rēzekne",
+    "iso-type": "State city"
+  },
+  "RIX": {
+    "name": "Rīga",
+    "type": "State city",
+    "iso3166-2": "LV-RIX",
+    "iso-name": "Rīga",
+    "iso-type": "State city"
+  },
+  "VEN": {
+    "name": "Ventspils",
+    "type": "State city",
+    "iso3166-2": "LV-VEN",
+    "iso-name": "Ventspils",
+    "iso-type": "State city"
+  }
+}

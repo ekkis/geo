@@ -35,10 +35,6 @@
       "value": 1788886821046.8132,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "OECD",
       "BIS",
@@ -66,35 +62,79 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%D%n%Z %C, %S",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality",
-        "administrative-area",
-        "postal-code"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "dependent-locality": {
+          "header": "Neighborhood",
+          "placeholder": "Neighborhood",
+          "required": false,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "02860",
+          "required": true,
+          "uppercase": true,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "02860",
+              "77520",
+              "06082"
+            ],
+            "lookup-url": "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "State",
+          "placeholder": "State",
+          "required": true,
+          "uppercase": true
+        }
+      },
       "languages": [
         "es"
-      ],
-      "field-labels": {
-        "administrative-area": "state",
-        "locality": "city",
-        "dependent-locality": "neighborhood",
-        "postal-code": "postal"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "federal_entity",
+        "label": "Federal Entity",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "02860",
-          "77520",
-          "06082"
-        ],
-        "lookup-url": "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx"
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

@@ -1,0 +1,79 @@
+{
+  "01": {
+    "name": "Balzers",
+    "type": "Commune",
+    "iso3166-2": "LI-01",
+    "iso-name": "Balzers",
+    "iso-type": "Commune"
+  },
+  "02": {
+    "name": "Eschen",
+    "type": "Commune",
+    "iso3166-2": "LI-02",
+    "iso-name": "Eschen",
+    "iso-type": "Commune"
+  },
+  "03": {
+    "name": "Gamprin",
+    "type": "Commune",
+    "iso3166-2": "LI-03",
+    "iso-name": "Gamprin",
+    "iso-type": "Commune"
+  },
+  "04": {
+    "name": "Mauren",
+    "type": "Commune",
+    "iso3166-2": "LI-04",
+    "iso-name": "Mauren",
+    "iso-type": "Commune"
+  },
+  "05": {
+    "name": "Planken",
+    "type": "Commune",
+    "iso3166-2": "LI-05",
+    "iso-name": "Planken",
+    "iso-type": "Commune"
+  },
+  "06": {
+    "name": "Ruggell",
+    "type": "Commune",
+    "iso3166-2": "LI-06",
+    "iso-name": "Ruggell",
+    "iso-type": "Commune"
+  },
+  "07": {
+    "name": "Schaan",
+    "type": "Commune",
+    "iso3166-2": "LI-07",
+    "iso-name": "Schaan",
+    "iso-type": "Commune"
+  },
+  "08": {
+    "name": "Schellenberg",
+    "type": "Commune",
+    "iso3166-2": "LI-08",
+    "iso-name": "Schellenberg",
+    "iso-type": "Commune"
+  },
+  "09": {
+    "name": "Triesen",
+    "type": "Commune",
+    "iso3166-2": "LI-09",
+    "iso-name": "Triesen",
+    "iso-type": "Commune"
+  },
+  "10": {
+    "name": "Triesenberg",
+    "type": "Commune",
+    "iso3166-2": "LI-10",
+    "iso-name": "Triesenberg",
+    "iso-type": "Commune"
+  },
+  "11": {
+    "name": "Vaduz",
+    "type": "Commune",
+    "iso3166-2": "LI-11",
+    "iso-name": "Vaduz",
+    "iso-type": "Commune"
+  }
+}

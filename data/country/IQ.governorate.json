@@ -1,59 +1,131 @@
 {
   "AN": {
-    "name": "Al Anbar"
-  },
-  "MU": {
-    "name": "Al Muthanna"
-  },
-  "QA": {
-    "name": "Al-Qādisiyyah"
-  },
-  "BB": {
-    "name": "Babylon"
-  },
-  "BG": {
-    "name": "Baghdad"
-  },
-  "BA": {
-    "name": "Basra"
-  },
-  "DQ": {
-    "name": "Dhi Qar"
-  },
-  "DI": {
-    "name": "Diyala"
-  },
-  "DA": {
-    "name": "Dohuk"
+    "name": "Al Anbār",
+    "type": "Governorate",
+    "iso3166-2": "IQ-AN",
+    "iso-name": "Al Anbār",
+    "iso-type": "Governorate"
   },
   "AR": {
-    "name": "Erbil"
+    "name": "Arbīl",
+    "type": "Governorate",
+    "iso3166-2": "IQ-AR",
+    "iso-name": "Arbīl",
+    "iso-type": "Governorate",
+    "parent-code": "KR"
   },
-  "KR": {
-    "name": "Iqlim Kurdistan"
+  "BA": {
+    "name": "Al Başrah",
+    "type": "Governorate",
+    "iso3166-2": "IQ-BA",
+    "iso-name": "Al Başrah",
+    "iso-type": "Governorate"
+  },
+  "BB": {
+    "name": "Bābil",
+    "type": "Governorate",
+    "iso3166-2": "IQ-BB",
+    "iso-name": "Bābil",
+    "iso-type": "Governorate"
+  },
+  "BG": {
+    "name": "Baghdād",
+    "type": "Governorate",
+    "iso3166-2": "IQ-BG",
+    "iso-name": "Baghdād",
+    "iso-type": "Governorate"
+  },
+  "DA": {
+    "name": "Dahūk",
+    "type": "Governorate",
+    "iso3166-2": "IQ-DA",
+    "iso-name": "Dahūk",
+    "iso-type": "Governorate",
+    "parent-code": "KR"
+  },
+  "DI": {
+    "name": "Diyālá",
+    "type": "Governorate",
+    "iso3166-2": "IQ-DI",
+    "iso-name": "Diyālá",
+    "iso-type": "Governorate"
+  },
+  "DQ": {
+    "name": "Dhī Qār",
+    "type": "Governorate",
+    "iso3166-2": "IQ-DQ",
+    "iso-name": "Dhī Qār",
+    "iso-type": "Governorate"
   },
   "KA": {
-    "name": "Karbala"
+    "name": "Karbalā’",
+    "type": "Governorate",
+    "iso3166-2": "IQ-KA",
+    "iso-name": "Karbalā’",
+    "iso-type": "Governorate"
   },
   "KI": {
-    "name": "Kirkuk"
+    "name": "Kirkūk",
+    "type": "Governorate",
+    "iso3166-2": "IQ-KI",
+    "iso-name": "Kirkūk",
+    "iso-type": "Governorate"
   },
   "MA": {
-    "name": "Maysan"
+    "name": "Maysān",
+    "type": "Governorate",
+    "iso3166-2": "IQ-MA",
+    "iso-name": "Maysān",
+    "iso-type": "Governorate"
+  },
+  "MU": {
+    "name": "Al Muthanná",
+    "type": "Governorate",
+    "iso3166-2": "IQ-MU",
+    "iso-name": "Al Muthanná",
+    "iso-type": "Governorate"
   },
   "NA": {
-    "name": "Najaf"
+    "name": "An Najaf",
+    "type": "Governorate",
+    "iso3166-2": "IQ-NA",
+    "iso-name": "An Najaf",
+    "iso-type": "Governorate"
   },
   "NI": {
-    "name": "Nineveh"
+    "name": "Nīnawá",
+    "type": "Governorate",
+    "iso3166-2": "IQ-NI",
+    "iso-name": "Nīnawá",
+    "iso-type": "Governorate"
+  },
+  "QA": {
+    "name": "Al Qādisīyah",
+    "type": "Governorate",
+    "iso3166-2": "IQ-QA",
+    "iso-name": "Al Qādisīyah",
+    "iso-type": "Governorate"
   },
   "SD": {
-    "name": "Saladin"
+    "name": "Şalāḩ ad Dīn",
+    "type": "Governorate",
+    "iso3166-2": "IQ-SD",
+    "iso-name": "Şalāḩ ad Dīn",
+    "iso-type": "Governorate"
   },
   "SU": {
-    "name": "Sulaymaniyah"
+    "name": "As Sulaymānīyah",
+    "type": "Governorate",
+    "iso3166-2": "IQ-SU",
+    "iso-name": "As Sulaymānīyah",
+    "iso-type": "Governorate",
+    "parent-code": "KR"
   },
   "WA": {
-    "name": "Wasit"
+    "name": "Wāsiţ",
+    "type": "Governorate",
+    "iso3166-2": "IQ-WA",
+    "iso-name": "Wāsiţ",
+    "iso-type": "Governorate"
   }
 }

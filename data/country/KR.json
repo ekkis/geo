@@ -33,10 +33,6 @@
       "value": 1712792854202.3687,
       "year": 2023
     },
-    "postal-code": {
-      "format": "SEOUL ###-###",
-      "regex": "^(?:SEOUL)*(\\d{6})$"
-    },
     "organisation-codes": [
       "OECD",
       "BIS",
@@ -57,32 +53,99 @@
     ],
     "address-format": {
       "format": "%S %C%D%n%A%n%O%n%N%n%Z",
+      "fields": {
+        "administrative-area": {
+          "header": "Do Si",
+          "placeholder": "Do/Si",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": false
+        },
+        "dependent-locality": {
+          "header": "District",
+          "placeholder": "District",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "03051",
+          "required": true,
+          "uppercase": true,
+          "validation": {
+            "format": "SEOUL ###-###",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "03051"
+            ],
+            "lookup-url": "http://www.epost.go.kr/search/zipcode/search5.jsp"
+          }
+        }
+      },
       "latin-format": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "postal-code"
-      ],
       "languages": [
         "ko"
-      ],
-      "field-labels": {
-        "administrative-area": "do_si",
-        "locality": "city",
-        "dependent-locality": "district",
-        "postal-code": "postal"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "metropolitan_city",
+        "label": "Metropolitan City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "03051"
-        ],
-        "lookup-url": "http://www.epost.go.kr/search/zipcode/search5.jsp"
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_city",
+        "label": "Special City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_self_governing_city",
+        "label": "Special Self Governing City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_self_governing_province",
+        "label": "Special Self Governing Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

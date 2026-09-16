@@ -1,218 +1,58 @@
 {
-  "BAG": {
-    "name": "Bagerhat"
-  },
-  "BAN": {
-    "name": "Bandarban"
-  },
-  "BAR": {
-    "name": "Barguna"
-  },
   "A": {
-    "name": "Barisal "
-  },
-  "BARI": {
-    "name": "Barishal"
-  },
-  "BHO": {
-    "name": "Bhola"
-  },
-  "BOG": {
-    "name": "Bogura"
-  },
-  "BRA": {
-    "name": "Brahmanbaria"
-  },
-  "CHA": {
-    "name": "Chandpur"
-  },
-  "CN": {
-    "name": "Chapai Nawabganj"
-  },
-  "CHAT": {
-    "name": "Chattogram"
+    "name": "Barishal",
+    "type": "Division",
+    "iso3166-2": "BD-A",
+    "iso-name": "Barishal",
+    "iso-type": "Division"
   },
   "B": {
-    "name": "Chittagong "
-  },
-  "CHU": {
-    "name": "Chuadanga"
-  },
-  "COX": {
-    "name": "Cox's Bazar"
-  },
-  "CUM": {
-    "name": "Cumilla"
-  },
-  "DHA": {
-    "name": "Dhaka"
+    "name": "Chattogram",
+    "type": "Division",
+    "iso3166-2": "BD-B",
+    "iso-name": "Chattogram",
+    "iso-type": "Division"
   },
   "C": {
-    "name": "Dhaka "
-  },
-  "DIN": {
-    "name": "Dinajpur"
-  },
-  "FAR": {
-    "name": "Faridpur"
-  },
-  "FEN": {
-    "name": "Feni"
-  },
-  "GAI": {
-    "name": "Gaibandha"
-  },
-  "GAZ": {
-    "name": "Gazipur"
-  },
-  "GOP": {
-    "name": "Gopalganj"
-  },
-  "HAB": {
-    "name": "Habiganj"
-  },
-  "JAM": {
-    "name": "Jamalpur"
-  },
-  "JAS": {
-    "name": "Jashore"
-  },
-  "JHA": {
-    "name": "Jhalakathi"
-  },
-  "JHE": {
-    "name": "Jhenaidah"
-  },
-  "JOY": {
-    "name": "Joypurhat"
-  },
-  "KHA": {
-    "name": "Khagrachhari"
-  },
-  "KHU": {
-    "name": "Khulna"
+    "name": "Dhaka",
+    "type": "Division",
+    "iso3166-2": "BD-C",
+    "iso-name": "Dhaka",
+    "iso-type": "Division"
   },
   "D": {
-    "name": "Khulna "
-  },
-  "KIS": {
-    "name": "Kishoreganj"
-  },
-  "KUR": {
-    "name": "Kurigram"
-  },
-  "KUS": {
-    "name": "Kushtia"
-  },
-  "LAK": {
-    "name": "Lakshmipur"
-  },
-  "LAL": {
-    "name": "Lalmonirhat"
-  },
-  "MAD": {
-    "name": "Madaripur"
-  },
-  "MAG": {
-    "name": "Magura"
-  },
-  "MAN": {
-    "name": "Manikganj"
-  },
-  "MEH": {
-    "name": "Meherpur"
-  },
-  "MOU": {
-    "name": "Moulvibazar"
-  },
-  "MUN": {
-    "name": "Munshiganj"
-  },
-  "MYM": {
-    "name": "Mymensingh"
-  },
-  "H": {
-    "name": "Mymensingh "
-  },
-  "NAO": {
-    "name": "Naogaon"
-  },
-  "NAR": {
-    "name": "Narail"
-  },
-  "NARA": {
-    "name": "Narayanganj"
-  },
-  "NARS": {
-    "name": "Narsingdi"
-  },
-  "NAT": {
-    "name": "Natore"
-  },
-  "NET": {
-    "name": "Netrakona"
-  },
-  "NIL": {
-    "name": "Nilphamari"
-  },
-  "NOA": {
-    "name": "Noakhali"
-  },
-  "PAB": {
-    "name": "Pabna"
-  },
-  "PAN": {
-    "name": "Panchagarh"
-  },
-  "PAT": {
-    "name": "Patuakhali"
-  },
-  "PIR": {
-    "name": "Pirojpur"
-  },
-  "RAJ": {
-    "name": "Rajbari"
-  },
-  "RAJS": {
-    "name": "Rajshahi"
+    "name": "Khulna",
+    "type": "Division",
+    "iso3166-2": "BD-D",
+    "iso-name": "Khulna",
+    "iso-type": "Division"
   },
   "E": {
-    "name": "Rajshahi "
-  },
-  "RAN": {
-    "name": "Rangamati"
+    "name": "Rajshahi",
+    "type": "Division",
+    "iso3166-2": "BD-E",
+    "iso-name": "Rajshahi",
+    "iso-type": "Division"
   },
   "F": {
-    "name": "Rangpur "
-  },
-  "RANG": {
-    "name": "Rangpur"
-  },
-  "SAT": {
-    "name": "Satkhira"
-  },
-  "SHA": {
-    "name": "Shariatpur"
-  },
-  "SHE": {
-    "name": "Sherpur"
-  },
-  "SIR": {
-    "name": "Sirajganj"
-  },
-  "SUN": {
-    "name": "Sunamganj"
+    "name": "Rangpur",
+    "type": "Division",
+    "iso3166-2": "BD-F",
+    "iso-name": "Rangpur",
+    "iso-type": "Division"
   },
   "G": {
-    "name": "Sylhet "
+    "name": "Sylhet",
+    "type": "Division",
+    "iso3166-2": "BD-G",
+    "iso-name": "Sylhet",
+    "iso-type": "Division"
   },
-  "SYL": {
-    "name": "Sylhet"
-  },
-  "TAN": {
-    "name": "Tangail"
-  },
-  "THA": {
-    "name": "Thakurgaon"
+  "H": {
+    "name": "Mymensingh",
+    "type": "Division",
+    "iso3166-2": "BD-H",
+    "iso-name": "Mymensingh",
+    "iso-type": "Division"
   }
 }

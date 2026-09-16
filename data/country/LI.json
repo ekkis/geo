@@ -31,10 +31,6 @@
       "value": 7364654515.139836,
       "year": 2022
     },
-    "postal-code": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    },
     "organisation-codes": [
       "WTO",
       "UN"
@@ -57,31 +53,59 @@
     ],
     "address-format": {
       "format": "%O%n%N%n%A%nFL-%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:948[5-9]|949[0-8])$",
-        "examples": [
-          "9496",
-          "9491",
-          "9490",
-          "9485"
-        ],
-        "lookup-url": "http://www.post.ch/db/owa/pv_plz_pack/pr_main"
-      },
-      "postal-code-prefix": "FL-"
-    }
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "9496",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "####",
+            "regex": "^(?:948[5-9]|949[0-8])$",
+            "examples": [
+              "9496",
+              "9491",
+              "9490",
+              "9485"
+            ],
+            "lookup-url": "http://www.post.ch/db/owa/pv_plz_pack/pr_main",
+            "prefix": "FL-"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "commune",
+        "label": "Commune",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

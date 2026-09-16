@@ -23,10 +23,6 @@
     "demonym": {
       "en": "Wallis and Futuna Islander"
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(986\\d{2})$"
-    },
     "phone-code": "681",
     "language-codes": [
       "wlf"
@@ -40,28 +36,60 @@
     ],
     "address-format": {
       "format": "%O%n%N%n%A%n%Z %C %X",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "sorting-code"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:986\\d{2})$",
-        "examples": [
-          "98600"
-        ]
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "98600",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:986\\d{2})$",
+            "examples": [
+              "98600"
+            ]
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "sorting-code": {
+          "header": "Sorting Code",
+          "placeholder": "Sorting Code",
+          "required": false,
+          "uppercase": true
+        }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "administrative_precinct",
+        "label": "Administrative Precinct",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

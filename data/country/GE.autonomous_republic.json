@@ -1,0 +1,16 @@
+{
+  "AB": {
+    "name": "Abkhazia",
+    "type": "Autonomous republic",
+    "iso3166-2": "GE-AB",
+    "iso-name": "Abkhazia",
+    "iso-type": "Autonomous republic"
+  },
+  "AJ": {
+    "name": "Ajaria",
+    "type": "Autonomous republic",
+    "iso3166-2": "GE-AJ",
+    "iso-name": "Ajaria",
+    "iso-type": "Autonomous republic"
+  }
+}

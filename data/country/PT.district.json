@@ -1,0 +1,128 @@
+{
+  "01": {
+    "name": "Aveiro",
+    "type": "District",
+    "iso3166-2": "PT-01",
+    "iso-name": "Aveiro",
+    "iso-type": "District"
+  },
+  "02": {
+    "name": "Beja",
+    "type": "District",
+    "iso3166-2": "PT-02",
+    "iso-name": "Beja",
+    "iso-type": "District"
+  },
+  "03": {
+    "name": "Braga",
+    "type": "District",
+    "iso3166-2": "PT-03",
+    "iso-name": "Braga",
+    "iso-type": "District"
+  },
+  "04": {
+    "name": "Bragança",
+    "type": "District",
+    "iso3166-2": "PT-04",
+    "iso-name": "Bragança",
+    "iso-type": "District"
+  },
+  "05": {
+    "name": "Castelo Branco",
+    "type": "District",
+    "iso3166-2": "PT-05",
+    "iso-name": "Castelo Branco",
+    "iso-type": "District"
+  },
+  "06": {
+    "name": "Coimbra",
+    "type": "District",
+    "iso3166-2": "PT-06",
+    "iso-name": "Coimbra",
+    "iso-type": "District"
+  },
+  "07": {
+    "name": "Évora",
+    "type": "District",
+    "iso3166-2": "PT-07",
+    "iso-name": "Évora",
+    "iso-type": "District"
+  },
+  "08": {
+    "name": "Faro",
+    "type": "District",
+    "iso3166-2": "PT-08",
+    "iso-name": "Faro",
+    "iso-type": "District"
+  },
+  "09": {
+    "name": "Guarda",
+    "type": "District",
+    "iso3166-2": "PT-09",
+    "iso-name": "Guarda",
+    "iso-type": "District"
+  },
+  "10": {
+    "name": "Leiria",
+    "type": "District",
+    "iso3166-2": "PT-10",
+    "iso-name": "Leiria",
+    "iso-type": "District"
+  },
+  "11": {
+    "name": "Lisboa",
+    "type": "District",
+    "iso3166-2": "PT-11",
+    "iso-name": "Lisboa",
+    "iso-type": "District"
+  },
+  "12": {
+    "name": "Portalegre",
+    "type": "District",
+    "iso3166-2": "PT-12",
+    "iso-name": "Portalegre",
+    "iso-type": "District"
+  },
+  "13": {
+    "name": "Porto",
+    "type": "District",
+    "iso3166-2": "PT-13",
+    "iso-name": "Porto",
+    "iso-type": "District"
+  },
+  "14": {
+    "name": "Santarém",
+    "type": "District",
+    "iso3166-2": "PT-14",
+    "iso-name": "Santarém",
+    "iso-type": "District"
+  },
+  "15": {
+    "name": "Setúbal",
+    "type": "District",
+    "iso3166-2": "PT-15",
+    "iso-name": "Setúbal",
+    "iso-type": "District"
+  },
+  "16": {
+    "name": "Viana do Castelo",
+    "type": "District",
+    "iso3166-2": "PT-16",
+    "iso-name": "Viana do Castelo",
+    "iso-type": "District"
+  },
+  "17": {
+    "name": "Vila Real",
+    "type": "District",
+    "iso3166-2": "PT-17",
+    "iso-name": "Vila Real",
+    "iso-type": "District"
+  },
+  "18": {
+    "name": "Viseu",
+    "type": "District",
+    "iso3166-2": "PT-18",
+    "iso-name": "Viseu",
+    "iso-type": "District"
+  }
+}

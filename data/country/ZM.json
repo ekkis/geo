@@ -28,10 +28,6 @@
       "value": 28162630953.9285,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "WTO",
       "AU",
@@ -70,26 +66,55 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "50100",
-          "50101"
-        ]
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "50100",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "50100",
+              "50101"
+            ]
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

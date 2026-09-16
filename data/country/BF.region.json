@@ -1,176 +1,93 @@
 {
-  "BAL": {
-    "name": "Balé"
+  "01": {
+    "name": "Boucle du Mouhoun",
+    "type": "Region",
+    "iso3166-2": "BF-01",
+    "iso-name": "Boucle du Mouhoun",
+    "iso-type": "Region"
   },
-  "BAM": {
-    "name": "Bam"
+  "02": {
+    "name": "Cascades",
+    "type": "Region",
+    "iso3166-2": "BF-02",
+    "iso-name": "Cascades",
+    "iso-type": "Region"
   },
-  "BAN": {
-    "name": "Banwa"
+  "03": {
+    "name": "Centre",
+    "type": "Region",
+    "iso3166-2": "BF-03",
+    "iso-name": "Centre",
+    "iso-type": "Region"
   },
-  "BAZ": {
-    "name": "Bazèga"
+  "04": {
+    "name": "Centre-Est",
+    "type": "Region",
+    "iso3166-2": "BF-04",
+    "iso-name": "Centre-Est",
+    "iso-type": "Region"
   },
-  "BOU": {
-    "name": "Boucle du Mouhoun"
+  "05": {
+    "name": "Centre-Nord",
+    "type": "Region",
+    "iso3166-2": "BF-05",
+    "iso-name": "Centre-Nord",
+    "iso-type": "Region"
   },
-  "BGR": {
-    "name": "Bougouriba"
+  "06": {
+    "name": "Centre-Ouest",
+    "type": "Region",
+    "iso3166-2": "BF-06",
+    "iso-name": "Centre-Ouest",
+    "iso-type": "Region"
   },
-  "BLG": {
-    "name": "Boulgou"
+  "07": {
+    "name": "Centre-Sud",
+    "type": "Region",
+    "iso3166-2": "BF-07",
+    "iso-name": "Centre-Sud",
+    "iso-type": "Region"
   },
-  "BLK": {
-    "name": "Boulkiemde"
+  "08": {
+    "name": "Est",
+    "type": "Region",
+    "iso3166-2": "BF-08",
+    "iso-name": "Est",
+    "iso-type": "Region"
   },
-  "CAS": {
-    "name": "Cascades"
+  "09": {
+    "name": "Hauts-Bassins",
+    "type": "Region",
+    "iso3166-2": "BF-09",
+    "iso-name": "Hauts-Bassins",
+    "iso-type": "Region"
   },
-  "CEN": {
-    "name": "Centre"
+  "10": {
+    "name": "Nord",
+    "type": "Region",
+    "iso3166-2": "BF-10",
+    "iso-name": "Nord",
+    "iso-type": "Region"
   },
-  "CE": {
-    "name": "Centre-Est"
+  "11": {
+    "name": "Plateau-Central",
+    "type": "Region",
+    "iso3166-2": "BF-11",
+    "iso-name": "Plateau-Central",
+    "iso-type": "Region"
   },
-  "CN": {
-    "name": "Centre-Nord"
+  "12": {
+    "name": "Sahel",
+    "type": "Region",
+    "iso3166-2": "BF-12",
+    "iso-name": "Sahel",
+    "iso-type": "Region"
   },
-  "CO": {
-    "name": "Centre-Ouest"
-  },
-  "CS": {
-    "name": "Centre-Sud"
-  },
-  "COM": {
-    "name": "Comoé"
-  },
-  "EST": {
-    "name": "Est"
-  },
-  "GAN": {
-    "name": "Ganzourgou"
-  },
-  "GNA": {
-    "name": "Gnagna"
-  },
-  "GOU": {
-    "name": "Gourma"
-  },
-  "HAU": {
-    "name": "Hauts-Bassins"
-  },
-  "HOU": {
-    "name": "Houet"
-  },
-  "IOB": {
-    "name": "Ioba"
-  },
-  "KAD": {
-    "name": "Kadiogo"
-  },
-  "KEN": {
-    "name": "Kénédougou"
-  },
-  "KMD": {
-    "name": "Komondjari"
-  },
-  "KMP": {
-    "name": "Kompienga"
-  },
-  "KOS": {
-    "name": "Kossi"
-  },
-  "KOP": {
-    "name": "Koulpélogo"
-  },
-  "KOT": {
-    "name": "Kouritenga"
-  },
-  "KOW": {
-    "name": "Kourwéogo"
-  },
-  "LER": {
-    "name": "Léraba"
-  },
-  "LOR": {
-    "name": "Loroum"
-  },
-  "MOU": {
-    "name": "Mouhoun"
-  },
-  "NAO": {
-    "name": "Nahouri"
-  },
-  "NAM": {
-    "name": "Namentenga"
-  },
-  "NAY": {
-    "name": "Nayala"
-  },
-  "NOR": {
-    "name": "Nord"
-  },
-  "NOU": {
-    "name": "Noumbiel"
-  },
-  "OUB": {
-    "name": "Oubritenga"
-  },
-  "OUD": {
-    "name": "Oudalan"
-  },
-  "PAS": {
-    "name": "Passoré"
-  },
-  "PLA": {
-    "name": "Plateau-Central"
-  },
-  "PON": {
-    "name": "Poni"
-  },
-  "SAH": {
-    "name": "Sahel"
-  },
-  "SNG": {
-    "name": "Sanguié"
-  },
-  "SMT": {
-    "name": "Sanmatenga"
-  },
-  "SEN": {
-    "name": "Séno"
-  },
-  "SIS": {
-    "name": "Sissili"
-  },
-  "SOM": {
-    "name": "Soum"
-  },
-  "SOR": {
-    "name": "Sourou"
-  },
-  "SUD": {
-    "name": "Sud-Ouest"
-  },
-  "TAP": {
-    "name": "Tapoa"
-  },
-  "TUI": {
-    "name": "Tuy"
-  },
-  "YAG": {
-    "name": "Yagha"
-  },
-  "YAT": {
-    "name": "Yatenga"
-  },
-  "ZIR": {
-    "name": "Ziro"
-  },
-  "ZON": {
-    "name": "Zondoma"
-  },
-  "ZOU": {
-    "name": "Zoundwéogo"
+  "13": {
+    "name": "Sud-Ouest",
+    "type": "Region",
+    "iso3166-2": "BF-13",
+    "iso-name": "Sud-Ouest",
+    "iso-type": "Region"
   }
 }

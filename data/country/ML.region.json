@@ -1,35 +1,72 @@
 {
-  "BKO": {
-    "name": "Bamako"
+  "1": {
+    "name": "Kayes",
+    "type": "Region",
+    "iso3166-2": "ML-1",
+    "iso-name": "Kayes",
+    "iso-type": "Region"
   },
-  "GA": {
-    "name": "Gao"
+  "10": {
+    "name": "Taoudénit",
+    "type": "Region",
+    "iso3166-2": "ML-10",
+    "iso-name": "Taoudénit",
+    "iso-type": "Region"
   },
-  "KAY": {
-    "name": "Kayes"
+  "2": {
+    "name": "Koulikoro",
+    "type": "Region",
+    "iso3166-2": "ML-2",
+    "iso-name": "Koulikoro",
+    "iso-type": "Region"
   },
-  "KY": {
-    "name": "Kidal"
+  "3": {
+    "name": "Sikasso",
+    "type": "Region",
+    "iso3166-2": "ML-3",
+    "iso-name": "Sikasso",
+    "iso-type": "Region"
   },
-  "KOU": {
-    "name": "Koulikoro"
+  "4": {
+    "name": "Ségou",
+    "type": "Region",
+    "iso3166-2": "ML-4",
+    "iso-name": "Ségou",
+    "iso-type": "Region"
   },
-  "MEN": {
-    "name": "Ménaka"
+  "5": {
+    "name": "Mopti",
+    "type": "Region",
+    "iso3166-2": "ML-5",
+    "iso-name": "Mopti",
+    "iso-type": "Region"
   },
-  "MO": {
-    "name": "Mopti"
+  "6": {
+    "name": "Tombouctou",
+    "type": "Region",
+    "iso3166-2": "ML-6",
+    "iso-name": "Tombouctou",
+    "iso-type": "Region"
   },
-  "SH": {
-    "name": "Ségou"
+  "7": {
+    "name": "Gao",
+    "type": "Region",
+    "iso3166-2": "ML-7",
+    "iso-name": "Gao",
+    "iso-type": "Region"
   },
-  "SL": {
-    "name": "Sikasso"
+  "8": {
+    "name": "Kidal",
+    "type": "Region",
+    "iso3166-2": "ML-8",
+    "iso-name": "Kidal",
+    "iso-type": "Region"
   },
-  "TAO": {
-    "name": "Taoudénit"
-  },
-  "TB": {
-    "name": "Tombouctou"
+  "9": {
+    "name": "Ménaka",
+    "type": "Region",
+    "iso3166-2": "ML-9",
+    "iso-name": "Ménaka",
+    "iso-type": "Region"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "10": {
+    "name": "Barbuda",
+    "type": "Dependency",
+    "iso3166-2": "AG-10",
+    "iso-name": "Barbuda",
+    "iso-type": "Dependency"
+  },
+  "11": {
+    "name": "Redonda",
+    "type": "Dependency",
+    "iso3166-2": "AG-11",
+    "iso-name": "Redonda",
+    "iso-type": "Dependency"
+  }
+}

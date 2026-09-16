@@ -1,23 +1,44 @@
 {
-  "CAR": {
-    "name": "Carriacou"
+  "01": {
+    "name": "Saint Andrew",
+    "type": "Parish",
+    "iso3166-2": "GD-01",
+    "iso-name": "Saint Andrew",
+    "iso-type": "Parish"
   },
-  "AND": {
-    "name": "Saint Andrew"
+  "02": {
+    "name": "Saint David",
+    "type": "Parish",
+    "iso3166-2": "GD-02",
+    "iso-name": "Saint David",
+    "iso-type": "Parish"
   },
-  "DAV": {
-    "name": "Saint David"
+  "03": {
+    "name": "Saint George",
+    "type": "Parish",
+    "iso3166-2": "GD-03",
+    "iso-name": "Saint George",
+    "iso-type": "Parish"
   },
-  "GEO": {
-    "name": "Saint George"
+  "04": {
+    "name": "Saint John",
+    "type": "Parish",
+    "iso3166-2": "GD-04",
+    "iso-name": "Saint John",
+    "iso-type": "Parish"
   },
-  "JOH": {
-    "name": "Saint John"
+  "05": {
+    "name": "Saint Mark",
+    "type": "Parish",
+    "iso3166-2": "GD-05",
+    "iso-name": "Saint Mark",
+    "iso-type": "Parish"
   },
-  "MAR": {
-    "name": "Saint Mark"
-  },
-  "PAT": {
-    "name": "Saint Patrick"
+  "06": {
+    "name": "Saint Patrick",
+    "type": "Parish",
+    "iso3166-2": "GD-06",
+    "iso-name": "Saint Patrick",
+    "iso-type": "Parish"
   }
 }

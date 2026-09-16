@@ -34,10 +34,6 @@
       "value": 19872180369.6275,
       "year": 2023
     },
-    "postal-code": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    },
     "organisation-codes": [
       "WTO",
       "UN"
@@ -60,30 +56,72 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%n%S %Z",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": false,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "65030",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "######",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "65030",
+              "65270"
+            ],
+            "lookup-url": "http://www.zipcode.mn/"
+          }
+        }
+      },
       "languages": [
         "mn"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "capital_city",
+        "label": "Capital City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "65030",
-          "65270"
-        ],
-        "lookup-url": "http://www.zipcode.mn/"
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

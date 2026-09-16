@@ -1,80 +1,184 @@
 {
   "AG": {
-    "name": "Aargau"
-  },
-  "AR": {
-    "name": "Appenzell Ausserrhoden"
+    "name": "Aargau",
+    "type": "Canton",
+    "iso3166-2": "CH-AG",
+    "iso-name": "Aargau",
+    "iso-type": "Canton"
   },
   "AI": {
-    "name": "Appenzell Innerrhoden"
+    "name": "Appenzell Innerrhoden",
+    "type": "Canton",
+    "iso3166-2": "CH-AI",
+    "iso-name": "Appenzell Innerrhoden",
+    "iso-type": "Canton"
   },
-  "BL": {
-    "name": "Basel-Land"
-  },
-  "BS": {
-    "name": "Basel-Stadt"
+  "AR": {
+    "name": "Appenzell Ausserrhoden",
+    "type": "Canton",
+    "iso3166-2": "CH-AR",
+    "iso-name": "Appenzell Ausserrhoden",
+    "iso-type": "Canton"
   },
   "BE": {
-    "name": "Bern"
+    "name": "Berne",
+    "type": "Canton",
+    "iso3166-2": "CH-BE",
+    "iso-name": "Berne",
+    "iso-type": "Canton"
+  },
+  "BL": {
+    "name": "Basel-Landschaft",
+    "type": "Canton",
+    "iso3166-2": "CH-BL",
+    "iso-name": "Basel-Landschaft",
+    "iso-type": "Canton"
+  },
+  "BS": {
+    "name": "Basel-Stadt",
+    "type": "Canton",
+    "iso3166-2": "CH-BS",
+    "iso-name": "Basel-Stadt",
+    "iso-type": "Canton"
   },
   "FR": {
-    "name": "Fribourg"
+    "name": "Fribourg",
+    "type": "Canton",
+    "iso3166-2": "CH-FR",
+    "iso-name": "Fribourg",
+    "iso-type": "Canton"
   },
   "GE": {
-    "name": "Geneva"
+    "name": "Genève",
+    "type": "Canton",
+    "iso3166-2": "CH-GE",
+    "iso-name": "Genève",
+    "iso-type": "Canton"
   },
   "GL": {
-    "name": "Glarus"
+    "name": "Glarus",
+    "type": "Canton",
+    "iso3166-2": "CH-GL",
+    "iso-name": "Glarus",
+    "iso-type": "Canton"
   },
   "GR": {
-    "name": "Graubünden"
+    "name": "Graubünden",
+    "type": "Canton",
+    "iso3166-2": "CH-GR",
+    "iso-name": "Graubünden",
+    "iso-type": "Canton"
   },
   "JU": {
-    "name": "Jura"
+    "name": "Jura",
+    "type": "Canton",
+    "iso3166-2": "CH-JU",
+    "iso-name": "Jura",
+    "iso-type": "Canton"
   },
   "LU": {
-    "name": "Lucerne"
+    "name": "Luzern",
+    "type": "Canton",
+    "iso3166-2": "CH-LU",
+    "iso-name": "Luzern",
+    "iso-type": "Canton"
   },
   "NE": {
-    "name": "Neuchâtel"
+    "name": "Neuchâtel",
+    "type": "Canton",
+    "iso3166-2": "CH-NE",
+    "iso-name": "Neuchâtel",
+    "iso-type": "Canton"
   },
   "NW": {
-    "name": "Nidwalden"
+    "name": "Nidwalden",
+    "type": "Canton",
+    "iso3166-2": "CH-NW",
+    "iso-name": "Nidwalden",
+    "iso-type": "Canton"
   },
   "OW": {
-    "name": "Obwalden"
-  },
-  "SH": {
-    "name": "Schaffhausen"
-  },
-  "SZ": {
-    "name": "Schwyz"
-  },
-  "SO": {
-    "name": "Solothurn"
+    "name": "Obwalden",
+    "type": "Canton",
+    "iso3166-2": "CH-OW",
+    "iso-name": "Obwalden",
+    "iso-type": "Canton"
   },
   "SG": {
-    "name": "St. Gallen"
+    "name": "Sankt Gallen",
+    "type": "Canton",
+    "iso3166-2": "CH-SG",
+    "iso-name": "Sankt Gallen",
+    "iso-type": "Canton"
+  },
+  "SH": {
+    "name": "Schaffhausen",
+    "type": "Canton",
+    "iso3166-2": "CH-SH",
+    "iso-name": "Schaffhausen",
+    "iso-type": "Canton"
+  },
+  "SO": {
+    "name": "Solothurn",
+    "type": "Canton",
+    "iso3166-2": "CH-SO",
+    "iso-name": "Solothurn",
+    "iso-type": "Canton"
+  },
+  "SZ": {
+    "name": "Schwyz",
+    "type": "Canton",
+    "iso3166-2": "CH-SZ",
+    "iso-name": "Schwyz",
+    "iso-type": "Canton"
   },
   "TG": {
-    "name": "Thurgau"
+    "name": "Thurgau",
+    "type": "Canton",
+    "iso3166-2": "CH-TG",
+    "iso-name": "Thurgau",
+    "iso-type": "Canton"
   },
   "TI": {
-    "name": "Ticino"
+    "name": "Ticino",
+    "type": "Canton",
+    "iso3166-2": "CH-TI",
+    "iso-name": "Ticino",
+    "iso-type": "Canton"
   },
   "UR": {
-    "name": "Uri"
-  },
-  "VS": {
-    "name": "Valais"
+    "name": "Uri",
+    "type": "Canton",
+    "iso3166-2": "CH-UR",
+    "iso-name": "Uri",
+    "iso-type": "Canton"
   },
   "VD": {
-    "name": "Vaud"
+    "name": "Vaud",
+    "type": "Canton",
+    "iso3166-2": "CH-VD",
+    "iso-name": "Vaud",
+    "iso-type": "Canton"
+  },
+  "VS": {
+    "name": "Valais",
+    "type": "Canton",
+    "iso3166-2": "CH-VS",
+    "iso-name": "Valais",
+    "iso-type": "Canton"
   },
   "ZG": {
-    "name": "Zug"
+    "name": "Zug",
+    "type": "Canton",
+    "iso3166-2": "CH-ZG",
+    "iso-name": "Zug",
+    "iso-type": "Canton"
   },
   "ZH": {
-    "name": "Zürich"
+    "name": "Zürich",
+    "type": "Canton",
+    "iso3166-2": "CH-ZH",
+    "iso-name": "Zürich",
+    "iso-type": "Canton"
   }
 }

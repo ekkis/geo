@@ -1,20 +1,44 @@
 {
   "BZ": {
-    "name": "Belize"
+    "name": "Belize",
+    "type": "District",
+    "iso3166-2": "BZ-BZ",
+    "iso-name": "Belize",
+    "iso-type": "District"
   },
   "CY": {
-    "name": "Cayo"
+    "name": "Cayo",
+    "type": "District",
+    "iso3166-2": "BZ-CY",
+    "iso-name": "Cayo",
+    "iso-type": "District"
   },
   "CZL": {
-    "name": "Corozal"
+    "name": "Corozal",
+    "type": "District",
+    "iso3166-2": "BZ-CZL",
+    "iso-name": "Corozal",
+    "iso-type": "District"
   },
   "OW": {
-    "name": "Orange Walk"
+    "name": "Orange Walk",
+    "type": "District",
+    "iso3166-2": "BZ-OW",
+    "iso-name": "Orange Walk",
+    "iso-type": "District"
   },
   "SC": {
-    "name": "Stann Creek"
+    "name": "Stann Creek",
+    "type": "District",
+    "iso3166-2": "BZ-SC",
+    "iso-name": "Stann Creek",
+    "iso-type": "District"
   },
   "TOL": {
-    "name": "Toledo"
+    "name": "Toledo",
+    "type": "District",
+    "iso3166-2": "BZ-TOL",
+    "iso-name": "Toledo",
+    "iso-type": "District"
   }
 }

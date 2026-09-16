@@ -1,0 +1,37 @@
+{
+  "01": {
+    "name": "Central Singapore",
+    "type": "District",
+    "iso3166-2": "SG-01",
+    "iso-name": "Central Singapore",
+    "iso-type": "District"
+  },
+  "02": {
+    "name": "North East",
+    "type": "District",
+    "iso3166-2": "SG-02",
+    "iso-name": "North East",
+    "iso-type": "District"
+  },
+  "03": {
+    "name": "North West",
+    "type": "District",
+    "iso3166-2": "SG-03",
+    "iso-name": "North West",
+    "iso-type": "District"
+  },
+  "04": {
+    "name": "South East",
+    "type": "District",
+    "iso3166-2": "SG-04",
+    "iso-name": "South East",
+    "iso-type": "District"
+  },
+  "05": {
+    "name": "South West",
+    "type": "District",
+    "iso3166-2": "SG-05",
+    "iso-name": "South West",
+    "iso-type": "District"
+  }
+}

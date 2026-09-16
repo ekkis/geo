@@ -1,11 +1,16 @@
 {
-  "BRC": {
-    "name": "Brčko"
-  },
   "BIH": {
-    "name": "Federation of Bosnia and Herzegovina"
+    "name": "Federacija Bosne i Hercegovine",
+    "type": "Entity",
+    "iso3166-2": "BA-BIH",
+    "iso-name": "Federacija Bosne i Hercegovine",
+    "iso-type": "Entity"
   },
   "SRP": {
-    "name": "Republika Srpska"
+    "name": "Republika Srpska",
+    "type": "Entity",
+    "iso3166-2": "BA-SRP",
+    "iso-name": "Republika Srpska",
+    "iso-type": "Entity"
   }
 }

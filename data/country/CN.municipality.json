@@ -1,0 +1,30 @@
+{
+  "BJ": {
+    "name": "Beijing Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-BJ",
+    "iso-name": "Beijing Shi",
+    "iso-type": "Municipality"
+  },
+  "CQ": {
+    "name": "Chongqing Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-CQ",
+    "iso-name": "Chongqing Shi",
+    "iso-type": "Municipality"
+  },
+  "SH": {
+    "name": "Shanghai Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-SH",
+    "iso-name": "Shanghai Shi",
+    "iso-type": "Municipality"
+  },
+  "TJ": {
+    "name": "Tianjin Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-TJ",
+    "iso-name": "Tianjin Shi",
+    "iso-type": "Municipality"
+  }
+}

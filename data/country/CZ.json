@@ -31,10 +31,6 @@
       "value": 330858339871.6861,
       "year": 2023
     },
-    "postal-code": {
-      "format": "### ##",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "EU",
       "UN"
@@ -63,31 +59,74 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{3} ?\\d{2})$",
-        "examples": [
-          "100 00",
-          "251 66",
-          "530 87",
-          "110 00",
-          "225 99"
-        ],
-        "lookup-url": "http://psc.ceskaposta.cz/CleanForm.action"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "100 00",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "### ##",
+            "regex": "^(?:\\d{3} ?\\d{2})$",
+            "examples": [
+              "100 00",
+              "251 66",
+              "530 87",
+              "110 00",
+              "225 99"
+            ],
+            "lookup-url": "http://psc.ceskaposta.cz/CleanForm.action"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "capital_city",
+        "label": "Capital City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "district",
+        "label": "District",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

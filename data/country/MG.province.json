@@ -1,0 +1,44 @@
+{
+  "A": {
+    "name": "Toamasina",
+    "type": "Province",
+    "iso3166-2": "MG-A",
+    "iso-name": "Toamasina",
+    "iso-type": "Province"
+  },
+  "D": {
+    "name": "Antsiranana",
+    "type": "Province",
+    "iso3166-2": "MG-D",
+    "iso-name": "Antsiranana",
+    "iso-type": "Province"
+  },
+  "F": {
+    "name": "Fianarantsoa",
+    "type": "Province",
+    "iso3166-2": "MG-F",
+    "iso-name": "Fianarantsoa",
+    "iso-type": "Province"
+  },
+  "M": {
+    "name": "Mahajanga",
+    "type": "Province",
+    "iso3166-2": "MG-M",
+    "iso-name": "Mahajanga",
+    "iso-type": "Province"
+  },
+  "T": {
+    "name": "Antananarivo",
+    "type": "Province",
+    "iso3166-2": "MG-T",
+    "iso-name": "Antananarivo",
+    "iso-type": "Province"
+  },
+  "U": {
+    "name": "Toliara",
+    "type": "Province",
+    "iso3166-2": "MG-U",
+    "iso-name": "Toliara",
+    "iso-type": "Province"
+  }
+}

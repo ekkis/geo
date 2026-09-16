@@ -1,104 +1,65 @@
 {
-  "AMP": {
-    "name": "Ampara"
+  "1": {
+    "name": "Western Province",
+    "type": "Province",
+    "iso3166-2": "LK-1",
+    "iso-name": "Western Province",
+    "iso-type": "Province"
   },
-  "ANU": {
-    "name": "Anuradhapura"
+  "2": {
+    "name": "Central Province",
+    "type": "Province",
+    "iso3166-2": "LK-2",
+    "iso-name": "Central Province",
+    "iso-type": "Province"
   },
-  "BAD": {
-    "name": "Badulla"
+  "3": {
+    "name": "Southern Province",
+    "type": "Province",
+    "iso3166-2": "LK-3",
+    "iso-name": "Southern Province",
+    "iso-type": "Province"
   },
-  "BAT": {
-    "name": "Batticaloa"
+  "4": {
+    "name": "Northern Province",
+    "type": "Province",
+    "iso3166-2": "LK-4",
+    "iso-name": "Northern Province",
+    "iso-type": "Province"
   },
-  "CEN": {
-    "name": "Central"
+  "5": {
+    "name": "Eastern Province",
+    "type": "Province",
+    "iso3166-2": "LK-5",
+    "iso-name": "Eastern Province",
+    "iso-type": "Province"
   },
-  "COL": {
-    "name": "Colombo"
+  "6": {
+    "name": "North Western Province",
+    "type": "Province",
+    "iso3166-2": "LK-6",
+    "iso-name": "North Western Province",
+    "iso-type": "Province"
   },
-  "EAS": {
-    "name": "Eastern"
+  "7": {
+    "name": "North Central Province",
+    "type": "Province",
+    "iso3166-2": "LK-7",
+    "iso-name": "North Central Province",
+    "iso-type": "Province"
   },
-  "GAL": {
-    "name": "Galle"
+  "8": {
+    "name": "Uva Province",
+    "type": "Province",
+    "iso3166-2": "LK-8",
+    "iso-name": "Uva Province",
+    "iso-type": "Province"
   },
-  "GAM": {
-    "name": "Gampaha"
-  },
-  "HAM": {
-    "name": "Hambantota"
-  },
-  "JAF": {
-    "name": "Jaffna"
-  },
-  "KAL": {
-    "name": "Kalutara"
-  },
-  "KAN": {
-    "name": "Kandy"
-  },
-  "KEG": {
-    "name": "Kegalle"
-  },
-  "KIL": {
-    "name": "Kilinochchi"
-  },
-  "KUR": {
-    "name": "Kurunegala"
-  },
-  "MAN": {
-    "name": "Mannar"
-  },
-  "MAT": {
-    "name": "Matale"
-  },
-  "MATA": {
-    "name": "Matara"
-  },
-  "MON": {
-    "name": "Monaragala"
-  },
-  "MUL": {
-    "name": "Mullaitivu"
-  },
-  "NOR": {
-    "name": "North Central"
-  },
-  "NW": {
-    "name": "North Western"
-  },
-  "NORT": {
-    "name": "Northern"
-  },
-  "NUW": {
-    "name": "Nuwara Eliya"
-  },
-  "POL": {
-    "name": "Polonnaruwa"
-  },
-  "PUT": {
-    "name": "Puttalam"
-  },
-  "RAT": {
-    "name": "Ratnapura"
-  },
-  "SAB": {
-    "name": "Sabaragamuwa"
-  },
-  "SOU": {
-    "name": "Southern"
-  },
-  "TRI": {
-    "name": "Trincomalee"
-  },
-  "UVA": {
-    "name": "Uva"
-  },
-  "VAV": {
-    "name": "Vavuniya"
-  },
-  "WES": {
-    "name": "Western"
+  "9": {
+    "name": "Sabaragamuwa Province",
+    "type": "Province",
+    "iso3166-2": "LK-9",
+    "iso-name": "Sabaragamuwa Province",
+    "iso-type": "Province"
   }
 }

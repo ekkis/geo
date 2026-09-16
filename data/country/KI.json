@@ -50,23 +50,47 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%S%n%C",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "recipient",
-        "organization",
-        "administrative-area"
-      ],
-      "field-labels": {
-        "administrative-area": "island",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": true
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": true
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Island",
+          "placeholder": "Island",
+          "required": false,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "group_of_islands_20_inhabited_islands",
+        "label": "Group Of Islands 20 Inhabited Islands",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

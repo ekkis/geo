@@ -1,0 +1,74 @@
+{
+  "05": {
+    "name": "Birštonas",
+    "type": "Municipality",
+    "iso3166-2": "LT-05",
+    "iso-name": "Birštonas",
+    "iso-type": "Municipality",
+    "parent-code": "KU"
+  },
+  "07": {
+    "name": "Druskininkai",
+    "type": "Municipality",
+    "iso3166-2": "LT-07",
+    "iso-name": "Druskininkai",
+    "iso-type": "Municipality",
+    "parent-code": "AL"
+  },
+  "08": {
+    "name": "Elektrėnai",
+    "type": "Municipality",
+    "iso3166-2": "LT-08",
+    "iso-name": "Elektrėnai",
+    "iso-type": "Municipality",
+    "parent-code": "VL"
+  },
+  "14": {
+    "name": "Kalvarija",
+    "type": "Municipality",
+    "iso3166-2": "LT-14",
+    "iso-name": "Kalvarija",
+    "iso-type": "Municipality",
+    "parent-code": "MR"
+  },
+  "17": {
+    "name": "Kazlų Rūdos",
+    "type": "Municipality",
+    "iso3166-2": "LT-17",
+    "iso-name": "Kazlų Rūdos",
+    "iso-type": "Municipality",
+    "parent-code": "MR"
+  },
+  "28": {
+    "name": "Neringa",
+    "type": "Municipality",
+    "iso3166-2": "LT-28",
+    "iso-name": "Neringa",
+    "iso-type": "Municipality",
+    "parent-code": "KL"
+  },
+  "29": {
+    "name": "Pagėgiai",
+    "type": "Municipality",
+    "iso3166-2": "LT-29",
+    "iso-name": "Pagėgiai",
+    "iso-type": "Municipality",
+    "parent-code": "TA"
+  },
+  "39": {
+    "name": "Rietavas",
+    "type": "Municipality",
+    "iso3166-2": "LT-39",
+    "iso-name": "Rietavas",
+    "iso-type": "Municipality",
+    "parent-code": "TE"
+  },
+  "59": {
+    "name": "Visaginas",
+    "type": "Municipality",
+    "iso3166-2": "LT-59",
+    "iso-name": "Visaginas",
+    "iso-type": "Municipality",
+    "parent-code": "UT"
+  }
+}

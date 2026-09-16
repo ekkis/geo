@@ -1,263 +1,86 @@
 {
-  "AGD": {
-    "name": "Agadir-Ida-Ou-Tanane"
-  },
-  "HAO": {
-    "name": "Al Haouz"
-  },
-  "HOC": {
-    "name": "Al Hoceïma"
-  },
-  "AOU": {
-    "name": "Aousserd (EH)"
-  },
-  "ASZ": {
-    "name": "Assa-Zag (EH-partial)"
-  },
-  "AZI": {
-    "name": "Azilal"
-  },
-  "BEM": {
-    "name": "Béni Mellal"
-  },
-  "BEN": {
-    "name": "Béni Mellal-Khénifra"
-  },
-  "BES": {
-    "name": "Benslimane"
-  },
-  "BER": {
-    "name": "Berkane"
-  },
-  "BRR": {
-    "name": "Berrechid"
-  },
-  "BOD": {
-    "name": "Boujdour (EH)"
-  },
-  "BOM": {
-    "name": "Boulemane"
-  },
-  "CAS": {
-    "name": "Casablanca"
-  },
-  "CS": {
-    "name": "Casablanca-Settat"
-  },
-  "CHE": {
-    "name": "Chefchaouen"
-  },
-  "CHI": {
-    "name": "Chichaoua"
-  },
-  "CHT": {
-    "name": "Chtouka-Ait Baha"
-  },
-  "DAK": {
-    "name": "Dakhla-Oued Ed-Dahab (EH)"
-  },
-  "DRA": {
-    "name": "Drâa-Tafilalet"
-  },
-  "DRI": {
-    "name": "Driouch"
-  },
-  "HAJ": {
-    "name": "El Hajeb"
-  },
-  "JDI": {
-    "name": "El Jadida"
-  },
-  "KES": {
-    "name": "El Kelâa des Sraghna"
-  },
-  "ERR": {
-    "name": "Errachidia"
-  },
-  "ESM": {
-    "name": "Es-Semara (EH-partial)"
-  },
-  "ESI": {
-    "name": "Essaouira"
-  },
-  "FAH": {
-    "name": "Fahs-Anjra"
-  },
-  "FES": {
-    "name": "Fès"
-  },
-  "FM": {
-    "name": "Fès-Meknès"
-  },
-  "FIG": {
-    "name": "Figuig"
-  },
-  "FQH": {
-    "name": "Fquih Ben Salah"
-  },
-  "GUE": {
-    "name": "Guelmim"
-  },
-  "GONEP": {
-    "name": "Guelmim-Oued Noun (EH-partial)"
-  },
-  "GUF": {
-    "name": "Guercif"
-  },
-  "IFR": {
-    "name": "Ifrane"
-  },
-  "INE": {
-    "name": "Inezgane-Ait Melloul"
-  },
-  "JRA": {
-    "name": "Jerada"
-  },
-  "KEN": {
-    "name": "Kénitra"
-  },
-  "KHE": {
-    "name": "Khémisset"
-  },
-  "KHN": {
-    "name": "Khénifra"
-  },
-  "KHO": {
-    "name": "Khouribga"
-  },
-  "LXX": {
-    "name": "L'Oriental"
-  },
-  "LAA": {
-    "name": "Laâyoune (EH)"
-  },
-  "LSHEP": {
-    "name": "Laâyoune-Sakia El Hamra (EH-partial)"
-  },
-  "LAR": {
-    "name": "Larache"
-  },
-  "MDF": {
-    "name": "M’diq-Fnideq"
-  },
-  "MAR": {
-    "name": "Marrakech"
-  },
-  "MS": {
-    "name": "Marrakesh-Safi"
-  },
-  "MED": {
-    "name": "Médiouna"
-  },
-  "MEK": {
-    "name": "Meknès"
-  },
-  "MID": {
-    "name": "Midelt"
-  },
-  "MOH": {
-    "name": "Mohammadia"
-  },
-  "MOU": {
-    "name": "Moulay Yacoub"
-  },
-  "NAD": {
-    "name": "Nador"
-  },
-  "NOU": {
-    "name": "Nouaceur"
-  },
-  "OUA": {
-    "name": "Ouarzazate"
-  },
-  "OUD": {
-    "name": "Oued Ed-Dahab (EH)"
-  },
-  "OUZ": {
-    "name": "Ouezzane"
-  },
-  "OUJ": {
-    "name": "Oujda-Angad"
-  },
-  "RAB": {
-    "name": "Rabat"
-  },
-  "RSK": {
-    "name": "Rabat-Salé-Kénitra"
-  },
-  "REH": {
-    "name": "Rehamna"
-  },
-  "SAF": {
-    "name": "Safi"
-  },
-  "SAL": {
-    "name": "Salé"
-  },
-  "SEF": {
-    "name": "Sefrou"
-  },
-  "SET": {
-    "name": "Settat"
-  },
-  "SIB": {
-    "name": "Sidi Bennour"
-  },
-  "SIF": {
-    "name": "Sidi Ifni"
-  },
-  "SIK": {
-    "name": "Sidi Kacem"
-  },
-  "SIL": {
-    "name": "Sidi Slimane"
-  },
-  "SKH": {
-    "name": "Skhirate-Témara"
-  },
-  "SOU": {
-    "name": "Souss-Massa"
-  },
-  "TNT": {
-    "name": "Tan-Tan (EH-partial)"
-  },
-  "TNG": {
-    "name": "Tanger-Assilah"
-  },
-  "TAN": {
-    "name": "Tanger-Tétouan-Al Hoceïma"
-  },
-  "TAO": {
-    "name": "Taounate"
-  },
-  "TAI": {
-    "name": "Taourirt"
-  },
-  "TAF": {
-    "name": "Tarfaya (EH-partial)"
-  },
-  "TAR": {
-    "name": "Taroudannt"
-  },
-  "TAT": {
-    "name": "Tata"
-  },
-  "TAZ": {
-    "name": "Taza"
-  },
-  "TET": {
-    "name": "Tétouan"
-  },
-  "TIN": {
-    "name": "Tinghir"
-  },
-  "TIZ": {
-    "name": "Tiznit"
-  },
-  "YUS": {
-    "name": "Youssoufia"
-  },
-  "ZAG": {
-    "name": "Zagora"
+  "01": {
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "type": "Region",
+    "iso3166-2": "MA-01",
+    "iso-name": "Tanger-Tétouan-Al Hoceïma",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "L'Oriental",
+    "type": "Region",
+    "iso3166-2": "MA-02",
+    "iso-name": "L'Oriental",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Fès-Meknès",
+    "type": "Region",
+    "iso3166-2": "MA-03",
+    "iso-name": "Fès-Meknès",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Rabat-Salé-Kénitra",
+    "type": "Region",
+    "iso3166-2": "MA-04",
+    "iso-name": "Rabat-Salé-Kénitra",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Béni Mellal-Khénifra",
+    "type": "Region",
+    "iso3166-2": "MA-05",
+    "iso-name": "Béni Mellal-Khénifra",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Casablanca-Settat",
+    "type": "Region",
+    "iso3166-2": "MA-06",
+    "iso-name": "Casablanca-Settat",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Marrakech-Safi",
+    "type": "Region",
+    "iso3166-2": "MA-07",
+    "iso-name": "Marrakech-Safi",
+    "iso-type": "Region"
+  },
+  "08": {
+    "name": "Drâa-Tafilalet",
+    "type": "Region",
+    "iso3166-2": "MA-08",
+    "iso-name": "Drâa-Tafilalet",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Souss-Massa",
+    "type": "Region",
+    "iso3166-2": "MA-09",
+    "iso-name": "Souss-Massa",
+    "iso-type": "Region"
+  },
+  "10": {
+    "name": "Guelmim-Oued Noun (EH-partial)",
+    "type": "Region",
+    "iso3166-2": "MA-10",
+    "iso-name": "Guelmim-Oued Noun (EH-partial)",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "type": "Region",
+    "iso3166-2": "MA-11",
+    "iso-name": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Dakhla-Oued Ed-Dahab (EH)",
+    "type": "Region",
+    "iso3166-2": "MA-12",
+    "iso-name": "Dakhla-Oued Ed-Dahab (EH)",
+    "iso-type": "Region"
   }
 }

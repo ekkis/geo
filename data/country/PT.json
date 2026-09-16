@@ -34,10 +34,6 @@
       "value": 287080013574.4972,
       "year": 2023
     },
-    "postal-code": {
-      "format": "####-###",
-      "regex": "^(\\d{7})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -61,31 +57,66 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{4}-\\d{3})$",
-        "examples": [
-          "2725-079",
-          "1250-096",
-          "1201-950",
-          "2860-571",
-          "1208-148"
-        ],
-        "lookup-url": "http://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "2725-079",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "####-###",
+            "regex": "^(?:\\d{4}-\\d{3})$",
+            "examples": [
+              "2725-079",
+              "1250-096",
+              "1201-950",
+              "2860-571",
+              "1208-148"
+            ],
+            "lookup-url": "http://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "autonomous_region",
+        "label": "Autonomous Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "district",
+        "label": "District",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

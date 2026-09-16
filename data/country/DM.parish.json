@@ -1,32 +1,72 @@
 {
-  "AND": {
-    "name": "Saint Andrew"
+  "02": {
+    "name": "Saint Andrew",
+    "type": "Parish",
+    "iso3166-2": "DM-02",
+    "iso-name": "Saint Andrew",
+    "iso-type": "Parish"
   },
-  "DAV": {
-    "name": "Saint David"
+  "03": {
+    "name": "Saint David",
+    "type": "Parish",
+    "iso3166-2": "DM-03",
+    "iso-name": "Saint David",
+    "iso-type": "Parish"
   },
-  "GEO": {
-    "name": "Saint George"
+  "04": {
+    "name": "Saint George",
+    "type": "Parish",
+    "iso3166-2": "DM-04",
+    "iso-name": "Saint George",
+    "iso-type": "Parish"
   },
-  "JOH": {
-    "name": "Saint John"
+  "05": {
+    "name": "Saint John",
+    "type": "Parish",
+    "iso3166-2": "DM-05",
+    "iso-name": "Saint John",
+    "iso-type": "Parish"
   },
-  "JOS": {
-    "name": "Saint Joseph"
+  "06": {
+    "name": "Saint Joseph",
+    "type": "Parish",
+    "iso3166-2": "DM-06",
+    "iso-name": "Saint Joseph",
+    "iso-type": "Parish"
   },
-  "LUK": {
-    "name": "Saint Luke"
+  "07": {
+    "name": "Saint Luke",
+    "type": "Parish",
+    "iso3166-2": "DM-07",
+    "iso-name": "Saint Luke",
+    "iso-type": "Parish"
   },
-  "MAR": {
-    "name": "Saint Mark"
+  "08": {
+    "name": "Saint Mark",
+    "type": "Parish",
+    "iso3166-2": "DM-08",
+    "iso-name": "Saint Mark",
+    "iso-type": "Parish"
   },
-  "PAT": {
-    "name": "Saint Patrick"
+  "09": {
+    "name": "Saint Patrick",
+    "type": "Parish",
+    "iso3166-2": "DM-09",
+    "iso-name": "Saint Patrick",
+    "iso-type": "Parish"
   },
-  "PAU": {
-    "name": "Saint Paul"
+  "10": {
+    "name": "Saint Paul",
+    "type": "Parish",
+    "iso3166-2": "DM-10",
+    "iso-name": "Saint Paul",
+    "iso-type": "Parish"
   },
-  "PET": {
-    "name": "Saint Peter"
+  "11": {
+    "name": "Saint Peter",
+    "type": "Parish",
+    "iso3166-2": "DM-11",
+    "iso-name": "Saint Peter",
+    "iso-type": "Parish"
   }
 }

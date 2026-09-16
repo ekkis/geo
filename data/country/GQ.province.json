@@ -1,32 +1,66 @@
 {
   "AN": {
-    "name": "Annobón"
+    "name": "Annobon",
+    "type": "Province",
+    "iso3166-2": "GQ-AN",
+    "iso-name": "Annobon",
+    "iso-type": "Province",
+    "parent-code": "I"
   },
   "BN": {
-    "name": "Bioko Norte"
+    "name": "Bioko Nord",
+    "type": "Province",
+    "iso3166-2": "GQ-BN",
+    "iso-name": "Bioko Nord",
+    "iso-type": "Province",
+    "parent-code": "I"
   },
   "BS": {
-    "name": "Bioko Sur"
+    "name": "Bioko Sud",
+    "type": "Province",
+    "iso3166-2": "GQ-BS",
+    "iso-name": "Bioko Sud",
+    "iso-type": "Province",
+    "parent-code": "I"
   },
   "CS": {
-    "name": "Centro Sur"
+    "name": "Centro Sud",
+    "type": "Province",
+    "iso3166-2": "GQ-CS",
+    "iso-name": "Centro Sud",
+    "iso-type": "Province",
+    "parent-code": "C"
   },
   "DJ": {
-    "name": "Djibloho"
-  },
-  "I": {
-    "name": "Insular"
+    "name": "Djibloho",
+    "type": "Province",
+    "iso3166-2": "GQ-DJ",
+    "iso-name": "Djibloho",
+    "iso-type": "Province",
+    "parent-code": "C"
   },
   "KN": {
-    "name": "Kié-Ntem"
+    "name": "Kié-Ntem",
+    "type": "Province",
+    "iso3166-2": "GQ-KN",
+    "iso-name": "Kié-Ntem",
+    "iso-type": "Province",
+    "parent-code": "C"
   },
   "LI": {
-    "name": "Litoral"
-  },
-  "C": {
-    "name": "Río Muni"
+    "name": "Littoral",
+    "type": "Province",
+    "iso3166-2": "GQ-LI",
+    "iso-name": "Littoral",
+    "iso-type": "Province",
+    "parent-code": "C"
   },
   "WN": {
-    "name": "Wele-Nzas"
+    "name": "Wele-Nzas",
+    "type": "Province",
+    "iso3166-2": "GQ-WN",
+    "iso-name": "Wele-Nzas",
+    "iso-type": "Province",
+    "parent-code": "C"
   }
 }

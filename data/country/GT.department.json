@@ -1,68 +1,156 @@
 {
-  "ALT": {
-    "name": "Alta Verapaz "
+  "01": {
+    "name": "Guatemala",
+    "type": "Department",
+    "iso3166-2": "GT-01",
+    "iso-name": "Guatemala",
+    "iso-type": "Department"
   },
-  "BAJ": {
-    "name": "Baja Verapaz "
+  "02": {
+    "name": "El Progreso",
+    "type": "Department",
+    "iso3166-2": "GT-02",
+    "iso-name": "El Progreso",
+    "iso-type": "Department"
   },
-  "CHI": {
-    "name": "Chimaltenango "
+  "03": {
+    "name": "Sacatepéquez",
+    "type": "Department",
+    "iso3166-2": "GT-03",
+    "iso-name": "Sacatepéquez",
+    "iso-type": "Department"
   },
-  "CHIQ": {
-    "name": "Chiquimula "
+  "04": {
+    "name": "Chimaltenango",
+    "type": "Department",
+    "iso3166-2": "GT-04",
+    "iso-name": "Chimaltenango",
+    "iso-type": "Department"
   },
-  "PRO": {
-    "name": "El Progreso "
+  "05": {
+    "name": "Escuintla",
+    "type": "Department",
+    "iso3166-2": "GT-05",
+    "iso-name": "Escuintla",
+    "iso-type": "Department"
   },
-  "ESC": {
-    "name": "Escuintla "
+  "06": {
+    "name": "Santa Rosa",
+    "type": "Department",
+    "iso3166-2": "GT-06",
+    "iso-name": "Santa Rosa",
+    "iso-type": "Department"
   },
-  "GUA": {
-    "name": "Guatemala "
+  "07": {
+    "name": "Sololá",
+    "type": "Department",
+    "iso3166-2": "GT-07",
+    "iso-name": "Sololá",
+    "iso-type": "Department"
   },
-  "HUE": {
-    "name": "Huehuetenango "
+  "08": {
+    "name": "Totonicapán",
+    "type": "Department",
+    "iso3166-2": "GT-08",
+    "iso-name": "Totonicapán",
+    "iso-type": "Department"
   },
-  "IZA": {
-    "name": "Izabal "
+  "09": {
+    "name": "Quetzaltenango",
+    "type": "Department",
+    "iso3166-2": "GT-09",
+    "iso-name": "Quetzaltenango",
+    "iso-type": "Department"
   },
-  "JAL": {
-    "name": "Jalapa "
+  "10": {
+    "name": "Suchitepéquez",
+    "type": "Department",
+    "iso3166-2": "GT-10",
+    "iso-name": "Suchitepéquez",
+    "iso-type": "Department"
   },
-  "JUT": {
-    "name": "Jutiapa "
+  "11": {
+    "name": "Retalhuleu",
+    "type": "Department",
+    "iso3166-2": "GT-11",
+    "iso-name": "Retalhuleu",
+    "iso-type": "Department"
   },
-  "PET": {
-    "name": "Petén "
+  "12": {
+    "name": "San Marcos",
+    "type": "Department",
+    "iso3166-2": "GT-12",
+    "iso-name": "San Marcos",
+    "iso-type": "Department"
   },
-  "QUE": {
-    "name": "Quetzaltenango "
+  "13": {
+    "name": "Huehuetenango",
+    "type": "Department",
+    "iso3166-2": "GT-13",
+    "iso-name": "Huehuetenango",
+    "iso-type": "Department"
   },
-  "QUI": {
-    "name": "Quiché "
+  "14": {
+    "name": "Quiché",
+    "type": "Department",
+    "iso3166-2": "GT-14",
+    "iso-name": "Quiché",
+    "iso-type": "Department"
   },
-  "RET": {
-    "name": "Retalhuleu "
+  "15": {
+    "name": "Baja Verapaz",
+    "type": "Department",
+    "iso3166-2": "GT-15",
+    "iso-name": "Baja Verapaz",
+    "iso-type": "Department"
   },
-  "SAC": {
-    "name": "Sacatepéquez "
+  "16": {
+    "name": "Alta Verapaz",
+    "type": "Department",
+    "iso3166-2": "GT-16",
+    "iso-name": "Alta Verapaz",
+    "iso-type": "Department"
   },
-  "MAR": {
-    "name": "San Marcos "
+  "17": {
+    "name": "Petén",
+    "type": "Department",
+    "iso3166-2": "GT-17",
+    "iso-name": "Petén",
+    "iso-type": "Department"
   },
-  "ROS": {
-    "name": "Santa Rosa "
+  "18": {
+    "name": "Izabal",
+    "type": "Department",
+    "iso3166-2": "GT-18",
+    "iso-name": "Izabal",
+    "iso-type": "Department"
   },
-  "SOL": {
-    "name": "Sololá "
+  "19": {
+    "name": "Zacapa",
+    "type": "Department",
+    "iso3166-2": "GT-19",
+    "iso-name": "Zacapa",
+    "iso-type": "Department"
   },
-  "SUC": {
-    "name": "Suchitepéquez "
+  "20": {
+    "name": "Chiquimula",
+    "type": "Department",
+    "iso3166-2": "GT-20",
+    "iso-name": "Chiquimula",
+    "iso-type": "Department"
   },
-  "TOT": {
-    "name": "Totonicapán "
+  "21": {
+    "name": "Jalapa",
+    "type": "Department",
+    "iso3166-2": "GT-21",
+    "iso-name": "Jalapa",
+    "iso-type": "Department"
   },
-  "ZAC": {
-    "name": "Zacapa"
+  "22": {
+    "name": "Jutiapa",
+    "type": "Department",
+    "iso3166-2": "GT-22",
+    "iso-name": "Jutiapa",
+    "iso-type": "Department"
   }
 }

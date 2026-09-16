@@ -1,0 +1,402 @@
+{
+  "A": {
+    "name": "Alicante",
+    "type": "Province",
+    "iso3166-2": "ES-A",
+    "iso-name": "Alicante",
+    "iso-type": "Province",
+    "parent-code": "VC"
+  },
+  "AB": {
+    "name": "Albacete",
+    "type": "Province",
+    "iso3166-2": "ES-AB",
+    "iso-name": "Albacete",
+    "iso-type": "Province",
+    "parent-code": "CM"
+  },
+  "AL": {
+    "name": "Almería",
+    "type": "Province",
+    "iso3166-2": "ES-AL",
+    "iso-name": "Almería",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "AV": {
+    "name": "Ávila",
+    "type": "Province",
+    "iso3166-2": "ES-AV",
+    "iso-name": "Ávila",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "B": {
+    "name": "Barcelona",
+    "type": "Province",
+    "iso3166-2": "ES-B",
+    "iso-name": "Barcelona [Barcelona]",
+    "iso-type": "Province",
+    "parent-code": "CT"
+  },
+  "BA": {
+    "name": "Badajoz",
+    "type": "Province",
+    "iso3166-2": "ES-BA",
+    "iso-name": "Badajoz",
+    "iso-type": "Province",
+    "parent-code": "EX"
+  },
+  "BI": {
+    "name": "Bizkaia",
+    "type": "Province",
+    "iso3166-2": "ES-BI",
+    "iso-name": "Bizkaia",
+    "iso-type": "Province",
+    "parent-code": "PV"
+  },
+  "BU": {
+    "name": "Burgos",
+    "type": "Province",
+    "iso3166-2": "ES-BU",
+    "iso-name": "Burgos",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "C": {
+    "name": "A Coruña",
+    "type": "Province",
+    "iso3166-2": "ES-C",
+    "iso-name": "A Coruña [La Coruña]",
+    "iso-type": "Province",
+    "parent-code": "GA"
+  },
+  "CA": {
+    "name": "Cádiz",
+    "type": "Province",
+    "iso3166-2": "ES-CA",
+    "iso-name": "Cádiz",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "CC": {
+    "name": "Cáceres",
+    "type": "Province",
+    "iso3166-2": "ES-CC",
+    "iso-name": "Cáceres",
+    "iso-type": "Province",
+    "parent-code": "EX"
+  },
+  "CO": {
+    "name": "Córdoba",
+    "type": "Province",
+    "iso3166-2": "ES-CO",
+    "iso-name": "Córdoba",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "CR": {
+    "name": "Ciudad Real",
+    "type": "Province",
+    "iso3166-2": "ES-CR",
+    "iso-name": "Ciudad Real",
+    "iso-type": "Province",
+    "parent-code": "CM"
+  },
+  "CS": {
+    "name": "Castellón",
+    "type": "Province",
+    "iso3166-2": "ES-CS",
+    "iso-name": "Castellón",
+    "iso-type": "Province",
+    "parent-code": "VC"
+  },
+  "CU": {
+    "name": "Cuenca",
+    "type": "Province",
+    "iso3166-2": "ES-CU",
+    "iso-name": "Cuenca",
+    "iso-type": "Province",
+    "parent-code": "CM"
+  },
+  "GC": {
+    "name": "Las Palmas",
+    "type": "Province",
+    "iso3166-2": "ES-GC",
+    "iso-name": "Las Palmas",
+    "iso-type": "Province",
+    "parent-code": "CN"
+  },
+  "GI": {
+    "name": "Girona",
+    "type": "Province",
+    "iso3166-2": "ES-GI",
+    "iso-name": "Girona [Gerona]",
+    "iso-type": "Province",
+    "parent-code": "CT"
+  },
+  "GR": {
+    "name": "Granada",
+    "type": "Province",
+    "iso3166-2": "ES-GR",
+    "iso-name": "Granada",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "GU": {
+    "name": "Guadalajara",
+    "type": "Province",
+    "iso3166-2": "ES-GU",
+    "iso-name": "Guadalajara",
+    "iso-type": "Province",
+    "parent-code": "CM"
+  },
+  "H": {
+    "name": "Huelva",
+    "type": "Province",
+    "iso3166-2": "ES-H",
+    "iso-name": "Huelva",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "HU": {
+    "name": "Huesca",
+    "type": "Province",
+    "iso3166-2": "ES-HU",
+    "iso-name": "Huesca",
+    "iso-type": "Province",
+    "parent-code": "AR"
+  },
+  "J": {
+    "name": "Jaén",
+    "type": "Province",
+    "iso3166-2": "ES-J",
+    "iso-name": "Jaén",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "L": {
+    "name": "Lleida",
+    "type": "Province",
+    "iso3166-2": "ES-L",
+    "iso-name": "Lleida [Lérida]",
+    "iso-type": "Province",
+    "parent-code": "CT"
+  },
+  "LE": {
+    "name": "León",
+    "type": "Province",
+    "iso3166-2": "ES-LE",
+    "iso-name": "León",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "LO": {
+    "name": "La Rioja",
+    "type": "Province",
+    "iso3166-2": "ES-LO",
+    "iso-name": "La Rioja",
+    "iso-type": "Province",
+    "parent-code": "RI"
+  },
+  "LU": {
+    "name": "Lugo",
+    "type": "Province",
+    "iso3166-2": "ES-LU",
+    "iso-name": "Lugo [Lugo]",
+    "iso-type": "Province",
+    "parent-code": "GA"
+  },
+  "M": {
+    "name": "Madrid",
+    "type": "Province",
+    "iso3166-2": "ES-M",
+    "iso-name": "Madrid",
+    "iso-type": "Province",
+    "parent-code": "MD"
+  },
+  "MA": {
+    "name": "Málaga",
+    "type": "Province",
+    "iso3166-2": "ES-MA",
+    "iso-name": "Málaga",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "MU": {
+    "name": "Murcia",
+    "type": "Province",
+    "iso3166-2": "ES-MU",
+    "iso-name": "Murcia",
+    "iso-type": "Province",
+    "parent-code": "MC"
+  },
+  "NA": {
+    "name": "Navarra",
+    "type": "Province",
+    "iso3166-2": "ES-NA",
+    "iso-name": "Navarra",
+    "iso-type": "Province",
+    "parent-code": "NC"
+  },
+  "O": {
+    "name": "Asturias",
+    "type": "Province",
+    "iso3166-2": "ES-O",
+    "iso-name": "Asturias",
+    "iso-type": "Province",
+    "parent-code": "AS"
+  },
+  "OR": {
+    "name": "Ourense",
+    "type": "Province",
+    "iso3166-2": "ES-OR",
+    "iso-name": "Ourense [Orense]",
+    "iso-type": "Province",
+    "parent-code": "GA"
+  },
+  "P": {
+    "name": "Palencia",
+    "type": "Province",
+    "iso3166-2": "ES-P",
+    "iso-name": "Palencia",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "PM": {
+    "name": "Illes Balears",
+    "type": "Province",
+    "iso3166-2": "ES-PM",
+    "iso-name": "Illes Balears [Islas Baleares]",
+    "iso-type": "Province",
+    "parent-code": "IB"
+  },
+  "PO": {
+    "name": "Pontevedra",
+    "type": "Province",
+    "iso3166-2": "ES-PO",
+    "iso-name": "Pontevedra [Pontevedra]",
+    "iso-type": "Province",
+    "parent-code": "GA"
+  },
+  "S": {
+    "name": "Cantabria",
+    "type": "Province",
+    "iso3166-2": "ES-S",
+    "iso-name": "Cantabria",
+    "iso-type": "Province",
+    "parent-code": "CB"
+  },
+  "SA": {
+    "name": "Salamanca",
+    "type": "Province",
+    "iso3166-2": "ES-SA",
+    "iso-name": "Salamanca",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "SE": {
+    "name": "Sevilla",
+    "type": "Province",
+    "iso3166-2": "ES-SE",
+    "iso-name": "Sevilla",
+    "iso-type": "Province",
+    "parent-code": "AN"
+  },
+  "SG": {
+    "name": "Segovia",
+    "type": "Province",
+    "iso3166-2": "ES-SG",
+    "iso-name": "Segovia",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "SO": {
+    "name": "Soria",
+    "type": "Province",
+    "iso3166-2": "ES-SO",
+    "iso-name": "Soria",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "SS": {
+    "name": "Gipuzkoa",
+    "type": "Province",
+    "iso3166-2": "ES-SS",
+    "iso-name": "Gipuzkoa",
+    "iso-type": "Province",
+    "parent-code": "PV"
+  },
+  "T": {
+    "name": "Tarragona",
+    "type": "Province",
+    "iso3166-2": "ES-T",
+    "iso-name": "Tarragona [Tarragona]",
+    "iso-type": "Province",
+    "parent-code": "CT"
+  },
+  "TE": {
+    "name": "Teruel",
+    "type": "Province",
+    "iso3166-2": "ES-TE",
+    "iso-name": "Teruel",
+    "iso-type": "Province",
+    "parent-code": "AR"
+  },
+  "TF": {
+    "name": "Santa Cruz de Tenerife",
+    "type": "Province",
+    "iso3166-2": "ES-TF",
+    "iso-name": "Santa Cruz de Tenerife",
+    "iso-type": "Province",
+    "parent-code": "CN"
+  },
+  "TO": {
+    "name": "Toledo",
+    "type": "Province",
+    "iso3166-2": "ES-TO",
+    "iso-name": "Toledo",
+    "iso-type": "Province",
+    "parent-code": "CM"
+  },
+  "V": {
+    "name": "Valencia",
+    "type": "Province",
+    "iso3166-2": "ES-V",
+    "iso-name": "Valencia",
+    "iso-type": "Province",
+    "parent-code": "VC"
+  },
+  "VA": {
+    "name": "Valladolid",
+    "type": "Province",
+    "iso3166-2": "ES-VA",
+    "iso-name": "Valladolid",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  },
+  "VI": {
+    "name": "Álava",
+    "type": "Province",
+    "iso3166-2": "ES-VI",
+    "iso-name": "Álava",
+    "iso-type": "Province",
+    "parent-code": "PV"
+  },
+  "Z": {
+    "name": "Zaragoza",
+    "type": "Province",
+    "iso3166-2": "ES-Z",
+    "iso-name": "Zaragoza",
+    "iso-type": "Province",
+    "parent-code": "AR"
+  },
+  "ZA": {
+    "name": "Zamora",
+    "type": "Province",
+    "iso3166-2": "ES-ZA",
+    "iso-name": "Zamora",
+    "iso-type": "Province",
+    "parent-code": "CL"
+  }
+}

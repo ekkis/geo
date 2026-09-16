@@ -1,0 +1,65 @@
+{
+  "CTT": {
+    "name": "Couva-Tabaquite-Talparo",
+    "type": "Region",
+    "iso3166-2": "TT-CTT",
+    "iso-name": "Couva-Tabaquite-Talparo",
+    "iso-type": "Region"
+  },
+  "DMN": {
+    "name": "Diego Martin",
+    "type": "Region",
+    "iso3166-2": "TT-DMN",
+    "iso-name": "Diego Martin",
+    "iso-type": "Region"
+  },
+  "MRC": {
+    "name": "Mayaro-Rio Claro",
+    "type": "Region",
+    "iso3166-2": "TT-MRC",
+    "iso-name": "Mayaro-Rio Claro",
+    "iso-type": "Region"
+  },
+  "PED": {
+    "name": "Penal-Debe",
+    "type": "Region",
+    "iso3166-2": "TT-PED",
+    "iso-name": "Penal-Debe",
+    "iso-type": "Region"
+  },
+  "PRT": {
+    "name": "Princes Town",
+    "type": "Region",
+    "iso3166-2": "TT-PRT",
+    "iso-name": "Princes Town",
+    "iso-type": "Region"
+  },
+  "SGE": {
+    "name": "Sangre Grande",
+    "type": "Region",
+    "iso3166-2": "TT-SGE",
+    "iso-name": "Sangre Grande",
+    "iso-type": "Region"
+  },
+  "SIP": {
+    "name": "Siparia",
+    "type": "Region",
+    "iso3166-2": "TT-SIP",
+    "iso-name": "Siparia",
+    "iso-type": "Region"
+  },
+  "SJL": {
+    "name": "San Juan-Laventille",
+    "type": "Region",
+    "iso3166-2": "TT-SJL",
+    "iso-name": "San Juan-Laventille",
+    "iso-type": "Region"
+  },
+  "TUP": {
+    "name": "Tunapuna-Piarco",
+    "type": "Region",
+    "iso3166-2": "TT-TUP",
+    "iso-name": "Tunapuna-Piarco",
+    "iso-type": "Region"
+  }
+}

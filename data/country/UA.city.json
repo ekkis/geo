@@ -1,0 +1,16 @@
+{
+  "30": {
+    "name": "Kyiv",
+    "type": "City",
+    "iso3166-2": "UA-30",
+    "iso-name": "Kyiv",
+    "iso-type": "City"
+  },
+  "40": {
+    "name": "Sevastopol",
+    "type": "City",
+    "iso3166-2": "UA-40",
+    "iso-name": "Sevastopol",
+    "iso-type": "City"
+  }
+}

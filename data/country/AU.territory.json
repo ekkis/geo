@@ -1,0 +1,16 @@
+{
+  "ACT": {
+    "name": "Australian Capital Territory",
+    "type": "Territory",
+    "iso3166-2": "AU-ACT",
+    "iso-name": "Australian Capital Territory",
+    "iso-type": "Territory"
+  },
+  "NT": {
+    "name": "Northern Territory",
+    "type": "Territory",
+    "iso3166-2": "AU-NT",
+    "iso-name": "Northern Territory",
+    "iso-type": "Territory"
+  }
+}

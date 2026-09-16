@@ -1,0 +1,16 @@
+{
+  "20": {
+    "name": "Região Autónoma dos Açores",
+    "type": "Autonomous region",
+    "iso3166-2": "PT-20",
+    "iso-name": "Região Autónoma dos Açores",
+    "iso-type": "Autonomous region"
+  },
+  "30": {
+    "name": "Região Autónoma da Madeira",
+    "type": "Autonomous region",
+    "iso3166-2": "PT-30",
+    "iso-name": "Região Autónoma da Madeira",
+    "iso-type": "Autonomous region"
+  }
+}

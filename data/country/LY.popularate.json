@@ -1,0 +1,156 @@
+{
+  "BA": {
+    "name": "Banghāzī",
+    "type": "Popularate",
+    "iso3166-2": "LY-BA",
+    "iso-name": "Banghāzī",
+    "iso-type": "Popularate"
+  },
+  "BU": {
+    "name": "Al Buţnān",
+    "type": "Popularate",
+    "iso3166-2": "LY-BU",
+    "iso-name": "Al Buţnān",
+    "iso-type": "Popularate"
+  },
+  "DR": {
+    "name": "Darnah",
+    "type": "Popularate",
+    "iso3166-2": "LY-DR",
+    "iso-name": "Darnah",
+    "iso-type": "Popularate"
+  },
+  "GT": {
+    "name": "Ghāt",
+    "type": "Popularate",
+    "iso3166-2": "LY-GT",
+    "iso-name": "Ghāt",
+    "iso-type": "Popularate"
+  },
+  "JA": {
+    "name": "Al Jabal al Akhḑar",
+    "type": "Popularate",
+    "iso3166-2": "LY-JA",
+    "iso-name": "Al Jabal al Akhḑar",
+    "iso-type": "Popularate"
+  },
+  "JG": {
+    "name": "Al Jabal al Gharbī",
+    "type": "Popularate",
+    "iso3166-2": "LY-JG",
+    "iso-name": "Al Jabal al Gharbī",
+    "iso-type": "Popularate"
+  },
+  "JI": {
+    "name": "Al Jafārah",
+    "type": "Popularate",
+    "iso3166-2": "LY-JI",
+    "iso-name": "Al Jafārah",
+    "iso-type": "Popularate"
+  },
+  "JU": {
+    "name": "Al Jufrah",
+    "type": "Popularate",
+    "iso3166-2": "LY-JU",
+    "iso-name": "Al Jufrah",
+    "iso-type": "Popularate"
+  },
+  "KF": {
+    "name": "Al Kufrah",
+    "type": "Popularate",
+    "iso3166-2": "LY-KF",
+    "iso-name": "Al Kufrah",
+    "iso-type": "Popularate"
+  },
+  "MB": {
+    "name": "Al Marqab",
+    "type": "Popularate",
+    "iso3166-2": "LY-MB",
+    "iso-name": "Al Marqab",
+    "iso-type": "Popularate"
+  },
+  "MI": {
+    "name": "Mişrātah",
+    "type": "Popularate",
+    "iso3166-2": "LY-MI",
+    "iso-name": "Mişrātah",
+    "iso-type": "Popularate"
+  },
+  "MJ": {
+    "name": "Al Marj",
+    "type": "Popularate",
+    "iso3166-2": "LY-MJ",
+    "iso-name": "Al Marj",
+    "iso-type": "Popularate"
+  },
+  "MQ": {
+    "name": "Murzuq",
+    "type": "Popularate",
+    "iso3166-2": "LY-MQ",
+    "iso-name": "Murzuq",
+    "iso-type": "Popularate"
+  },
+  "NL": {
+    "name": "Nālūt",
+    "type": "Popularate",
+    "iso3166-2": "LY-NL",
+    "iso-name": "Nālūt",
+    "iso-type": "Popularate"
+  },
+  "NQ": {
+    "name": "An Nuqāţ al Khams",
+    "type": "Popularate",
+    "iso3166-2": "LY-NQ",
+    "iso-name": "An Nuqāţ al Khams",
+    "iso-type": "Popularate"
+  },
+  "SB": {
+    "name": "Sabhā",
+    "type": "Popularate",
+    "iso3166-2": "LY-SB",
+    "iso-name": "Sabhā",
+    "iso-type": "Popularate"
+  },
+  "SR": {
+    "name": "Surt",
+    "type": "Popularate",
+    "iso3166-2": "LY-SR",
+    "iso-name": "Surt",
+    "iso-type": "Popularate"
+  },
+  "TB": {
+    "name": "Ţarābulus",
+    "type": "Popularate",
+    "iso3166-2": "LY-TB",
+    "iso-name": "Ţarābulus",
+    "iso-type": "Popularate"
+  },
+  "WA": {
+    "name": "Al Wāḩāt",
+    "type": "Popularate",
+    "iso3166-2": "LY-WA",
+    "iso-name": "Al Wāḩāt",
+    "iso-type": "Popularate"
+  },
+  "WD": {
+    "name": "Wādī al Ḩayāt",
+    "type": "Popularate",
+    "iso3166-2": "LY-WD",
+    "iso-name": "Wādī al Ḩayāt",
+    "iso-type": "Popularate"
+  },
+  "WS": {
+    "name": "Wādī ash Shāţi’",
+    "type": "Popularate",
+    "iso3166-2": "LY-WS",
+    "iso-name": "Wādī ash Shāţi’",
+    "iso-type": "Popularate"
+  },
+  "ZA": {
+    "name": "Az Zāwiyah",
+    "type": "Popularate",
+    "iso3166-2": "LY-ZA",
+    "iso-name": "Az Zāwiyah",
+    "iso-type": "Popularate"
+  }
+}

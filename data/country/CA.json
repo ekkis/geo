@@ -35,10 +35,6 @@
       "value": 2140085567791.4514,
       "year": 2023
     },
-    "postal-code": {
-      "format": "@#@ #@#",
-      "regex": "^([ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJKLMNPRSTVWXYZ]) ?(\\d[ABCEGHJKLMNPRSTVWXYZ]\\d)$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -63,41 +59,76 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C %S %Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "recipient",
-        "organization",
-        "administrative-area",
-        "postal-code"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": true
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": true
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "H3Z 2Y7",
+          "required": true,
+          "uppercase": true,
+          "validation": {
+            "format": "@#@ #@#",
+            "regex": "^(?:[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d)$",
+            "examples": [
+              "H3Z 2Y7",
+              "V8X 3X4",
+              "T0L 1K0",
+              "T0H 1A0",
+              "K1A 0B1"
+            ],
+            "lookup-url": "https://www.canadapost-postescanada.ca/cpo/mc/personal/postalcode/fpc.jsf"
+          }
+        }
+      },
       "languages": [
         "en",
         "fr"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       },
-      "postal-code": {
-        "regex": "^(?:[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d)$",
-        "examples": [
-          "H3Z 2Y7",
-          "V8X 3X4",
-          "T0L 1K0",
-          "T0H 1A0",
-          "K1A 0B1"
-        ],
-        "lookup-url": "https://www.canadapost-postescanada.ca/cpo/mc/personal/postalcode/fpc.jsf"
+      {
+        "key": "territory",
+        "label": "Territory",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

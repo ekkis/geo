@@ -1,56 +1,135 @@
 {
-  "CENFI": {
-    "name": "Central Finland"
+  "01": {
+    "name": "Landskapet Åland",
+    "type": "Region",
+    "iso3166-2": "FI-01",
+    "iso-name": "Landskapet Åland",
+    "iso-type": "Region"
   },
-  "CENOS": {
-    "name": "Central Ostrobothnia"
+  "02": {
+    "name": "Etelä-Karjala",
+    "type": "Region",
+    "iso3166-2": "FI-02",
+    "iso-name": "Etelä-Karjala",
+    "iso-type": "Region"
   },
-  "FIN": {
-    "name": "Finland Proper"
+  "03": {
+    "name": "Etelä-Pohjanmaa",
+    "type": "Region",
+    "iso3166-2": "FI-03",
+    "iso-name": "Etelä-Pohjanmaa",
+    "iso-type": "Region"
   },
-  "KAI": {
-    "name": "Kainuu"
+  "04": {
+    "name": "Etelä-Savo",
+    "type": "Region",
+    "iso3166-2": "FI-04",
+    "iso-name": "Etelä-Savo",
+    "iso-type": "Region"
   },
-  "KYM": {
-    "name": "Kymenlaakso"
+  "05": {
+    "name": "Kainuu",
+    "type": "Region",
+    "iso3166-2": "FI-05",
+    "iso-name": "Kainuu",
+    "iso-type": "Region"
   },
-  "LAP": {
-    "name": "Lapland"
+  "06": {
+    "name": "Kanta-Häme",
+    "type": "Region",
+    "iso3166-2": "FI-06",
+    "iso-name": "Kanta-Häme",
+    "iso-type": "Region"
   },
-  "NORKA": {
-    "name": "North Karelia"
+  "07": {
+    "name": "Keski-Pohjanmaa",
+    "type": "Region",
+    "iso3166-2": "FI-07",
+    "iso-name": "Keski-Pohjanmaa",
+    "iso-type": "Region"
   },
-  "NOROS": {
-    "name": "Northern Ostrobothnia"
+  "08": {
+    "name": "Keski-Suomi",
+    "type": "Region",
+    "iso3166-2": "FI-08",
+    "iso-name": "Keski-Suomi",
+    "iso-type": "Region"
   },
-  "NOR": {
-    "name": "Northern Savonia"
+  "09": {
+    "name": "Kymenlaakso",
+    "type": "Region",
+    "iso3166-2": "FI-09",
+    "iso-name": "Kymenlaakso",
+    "iso-type": "Region"
   },
-  "OST": {
-    "name": "Ostrobothnia"
+  "10": {
+    "name": "Lappi",
+    "type": "Region",
+    "iso3166-2": "FI-10",
+    "iso-name": "Lappi",
+    "iso-type": "Region"
   },
-  "PAI": {
-    "name": "Päijänne Tavastia"
+  "11": {
+    "name": "Pirkanmaa",
+    "type": "Region",
+    "iso3166-2": "FI-11",
+    "iso-name": "Pirkanmaa",
+    "iso-type": "Region"
   },
-  "PIR": {
-    "name": "Pirkanmaa"
+  "12": {
+    "name": "Pohjanmaa",
+    "type": "Region",
+    "iso3166-2": "FI-12",
+    "iso-name": "Pohjanmaa",
+    "iso-type": "Region"
   },
-  "SAT": {
-    "name": "Satakunta"
+  "13": {
+    "name": "Pohjois-Karjala",
+    "type": "Region",
+    "iso3166-2": "FI-13",
+    "iso-name": "Pohjois-Karjala",
+    "iso-type": "Region"
   },
-  "SOUKA": {
-    "name": "South Karelia"
+  "14": {
+    "name": "Pohjois-Pohjanmaa",
+    "type": "Region",
+    "iso3166-2": "FI-14",
+    "iso-name": "Pohjois-Pohjanmaa",
+    "iso-type": "Region"
   },
-  "SOU": {
-    "name": "Southern Ostrobothnia"
+  "15": {
+    "name": "Pohjois-Savo",
+    "type": "Region",
+    "iso3166-2": "FI-15",
+    "iso-name": "Pohjois-Savo",
+    "iso-type": "Region"
   },
-  "SS": {
-    "name": "Southern Savonia"
+  "16": {
+    "name": "Päijät-Häme",
+    "type": "Region",
+    "iso3166-2": "FI-16",
+    "iso-name": "Päijät-Häme",
+    "iso-type": "Region"
   },
-  "TAV": {
-    "name": "Tavastia Proper"
+  "17": {
+    "name": "Satakunta",
+    "type": "Region",
+    "iso3166-2": "FI-17",
+    "iso-name": "Satakunta",
+    "iso-type": "Region"
   },
-  "UUS": {
-    "name": "Uusimaa"
+  "18": {
+    "name": "Uusimaa",
+    "type": "Region",
+    "iso3166-2": "FI-18",
+    "iso-name": "Uusimaa",
+    "iso-type": "Region"
+  },
+  "19": {
+    "name": "Varsinais-Suomi",
+    "type": "Region",
+    "iso3166-2": "FI-19",
+    "iso-name": "Varsinais-Suomi",
+    "iso-type": "Region"
   }
 }

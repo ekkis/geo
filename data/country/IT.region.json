@@ -1,380 +1,107 @@
 {
-  "ABR": {
-    "name": "Abruzzo"
-  },
-  "AG": {
-    "name": "Agrigento"
-  },
-  "AL": {
-    "name": "Alessandria"
-  },
-  "AN": {
-    "name": "Ancona"
-  },
-  "AOS": {
-    "name": "Aosta Valley"
-  },
-  "APU": {
-    "name": "Apulia"
-  },
-  "AR": {
-    "name": "Arezzo"
-  },
-  "AP": {
-    "name": "Ascoli Piceno"
-  },
-  "AT": {
-    "name": "Asti"
-  },
-  "AV": {
-    "name": "Avellino"
-  },
-  "BA": {
-    "name": "Bari"
-  },
-  "BT": {
-    "name": "Barletta-Andria-Trani"
-  },
-  "BAS": {
-    "name": "Basilicata"
-  },
-  "BL": {
-    "name": "Belluno"
-  },
-  "BN": {
-    "name": "Benevento"
-  },
-  "BG": {
-    "name": "Bergamo"
-  },
-  "BI": {
-    "name": "Biella"
-  },
-  "BO": {
-    "name": "Bologna"
-  },
-  "BS": {
-    "name": "Brescia"
-  },
-  "BR": {
-    "name": "Brindisi"
-  },
-  "CA": {
-    "name": "Cagliari"
-  },
-  "CAL": {
-    "name": "Calabria"
-  },
-  "CL": {
-    "name": "Caltanissetta"
-  },
-  "CAM": {
-    "name": "Campania"
-  },
-  "CB": {
-    "name": "Campobasso"
-  },
-  "CE": {
-    "name": "Caserta"
-  },
-  "CT": {
-    "name": "Catania"
-  },
-  "CZ": {
-    "name": "Catanzaro"
-  },
-  "CH": {
-    "name": "Chieti"
-  },
-  "CO": {
-    "name": "Como"
-  },
-  "CS": {
-    "name": "Cosenza"
-  },
-  "CR": {
-    "name": "Cremona"
-  },
-  "KR": {
-    "name": "Crotone"
-  },
-  "CN": {
-    "name": "Cuneo"
-  },
-  "EMI": {
-    "name": "Emilia-Romagna"
-  },
-  "EN": {
-    "name": "Enna"
-  },
-  "FM": {
-    "name": "Fermo"
-  },
-  "FE": {
-    "name": "Ferrara"
-  },
-  "FI": {
-    "name": "Florence"
-  },
-  "FG": {
-    "name": "Foggia"
-  },
-  "FC": {
-    "name": "Forlì-Cesena"
-  },
-  "FRI": {
-    "name": "Friuli–Venezia Giulia"
-  },
-  "FR": {
-    "name": "Frosinone"
-  },
-  "GE": {
-    "name": "Genoa"
-  },
-  "GO": {
-    "name": "Gorizia"
-  },
-  "GR": {
-    "name": "Grosseto"
-  },
-  "IM": {
-    "name": "Imperia"
-  },
-  "IS": {
-    "name": "Isernia"
-  },
-  "AQ": {
-    "name": "L'Aquila"
-  },
-  "SP": {
-    "name": "La Spezia"
-  },
-  "LT": {
-    "name": "Latina"
-  },
-  "LAZ": {
-    "name": "Lazio"
-  },
-  "LE": {
-    "name": "Lecce"
-  },
-  "LC": {
-    "name": "Lecco"
-  },
-  "LIG": {
-    "name": "Liguria"
-  },
-  "LI": {
-    "name": "Livorno"
-  },
-  "LO": {
-    "name": "Lodi"
-  },
-  "LOM": {
-    "name": "Lombardy"
-  },
-  "LU": {
-    "name": "Lucca"
-  },
-  "MC": {
-    "name": "Macerata"
-  },
-  "MN": {
-    "name": "Mantua"
-  },
-  "MAR": {
-    "name": "Marche"
-  },
-  "MS": {
-    "name": "Massa and Carrara"
-  },
-  "MT": {
-    "name": "Matera"
-  },
-  "ME": {
-    "name": "Messina"
-  },
-  "MI": {
-    "name": "Milan"
-  },
-  "MO": {
-    "name": "Modena"
-  },
-  "MOL": {
-    "name": "Molise"
-  },
-  "MB": {
-    "name": "Monza and Brianza"
-  },
-  "NA": {
-    "name": "Naples"
-  },
-  "NO": {
-    "name": "Novara"
-  },
-  "NU": {
-    "name": "Nuoro"
-  },
-  "OR": {
-    "name": "Oristano"
-  },
-  "PD": {
-    "name": "Padua"
-  },
-  "PA": {
-    "name": "Palermo"
-  },
-  "PR": {
-    "name": "Parma"
-  },
-  "PV": {
-    "name": "Pavia"
-  },
-  "PG": {
-    "name": "Perugia"
-  },
-  "PU": {
-    "name": "Pesaro and Urbino"
-  },
-  "PE": {
-    "name": "Pescara"
-  },
-  "PC": {
-    "name": "Piacenza"
-  },
-  "PIE": {
-    "name": "Piedmont"
-  },
-  "PI": {
-    "name": "Pisa"
-  },
-  "PT": {
-    "name": "Pistoia"
-  },
-  "PN": {
-    "name": "Pordenone"
-  },
-  "PZ": {
-    "name": "Potenza"
-  },
-  "PO": {
-    "name": "Prato"
-  },
-  "RG": {
-    "name": "Ragusa"
-  },
-  "RA": {
-    "name": "Ravenna"
-  },
-  "RC": {
-    "name": "Reggio Calabria"
-  },
-  "RE": {
-    "name": "Reggio Emilia"
-  },
-  "RI": {
-    "name": "Rieti"
-  },
-  "RN": {
-    "name": "Rimini"
-  },
-  "RM": {
-    "name": "Rome"
-  },
-  "RO": {
-    "name": "Rovigo"
-  },
-  "SA": {
-    "name": "Salerno"
-  },
-  "SAR": {
-    "name": "Sardinia"
-  },
-  "SS": {
-    "name": "Sassari"
-  },
-  "SV": {
-    "name": "Savona"
-  },
-  "SIC": {
-    "name": "Sicily"
-  },
-  "SI": {
-    "name": "Siena"
-  },
-  "SR": {
-    "name": "Siracusa"
-  },
-  "SO": {
-    "name": "Sondrio"
-  },
-  "SU": {
-    "name": "South Sardinia"
-  },
-  "BZ": {
-    "name": "South Tyrol"
-  },
-  "TA": {
-    "name": "Taranto"
-  },
-  "TE": {
-    "name": "Teramo"
-  },
-  "TR": {
-    "name": "Terni"
-  },
-  "TP": {
-    "name": "Trapani"
-  },
-  "TN": {
-    "name": "Trentino"
-  },
-  "TRE": {
-    "name": "Trentino-South Tyrol"
-  },
-  "TV": {
-    "name": "Treviso"
-  },
-  "TS": {
-    "name": "Trieste"
-  },
-  "TO": {
-    "name": "Turin"
-  },
-  "TUS": {
-    "name": "Tuscany"
-  },
-  "UD": {
-    "name": "Udine"
-  },
-  "UMB": {
-    "name": "Umbria"
-  },
-  "VA": {
-    "name": "Varese"
-  },
-  "VEN": {
-    "name": "Veneto"
-  },
-  "VE": {
-    "name": "Venice"
-  },
-  "VB": {
-    "name": "Verbano-Cusio-Ossola"
-  },
-  "VC": {
-    "name": "Vercelli"
-  },
-  "VR": {
-    "name": "Verona"
-  },
-  "VV": {
-    "name": "Vibo Valentia"
-  },
-  "VI": {
-    "name": "Vicenza"
-  },
-  "VT": {
-    "name": "Viterbo"
+  "21": {
+    "name": "Piemonte",
+    "type": "Region",
+    "iso3166-2": "IT-21",
+    "iso-name": "Piemonte",
+    "iso-type": "Region"
+  },
+  "25": {
+    "name": "Lombardia",
+    "type": "Region",
+    "iso3166-2": "IT-25",
+    "iso-name": "Lombardia",
+    "iso-type": "Region"
+  },
+  "34": {
+    "name": "Veneto",
+    "type": "Region",
+    "iso3166-2": "IT-34",
+    "iso-name": "Veneto",
+    "iso-type": "Region"
+  },
+  "42": {
+    "name": "Liguria",
+    "type": "Region",
+    "iso3166-2": "IT-42",
+    "iso-name": "Liguria",
+    "iso-type": "Region"
+  },
+  "45": {
+    "name": "Emilia-Romagna",
+    "type": "Region",
+    "iso3166-2": "IT-45",
+    "iso-name": "Emilia-Romagna",
+    "iso-type": "Region"
+  },
+  "52": {
+    "name": "Toscana",
+    "type": "Region",
+    "iso3166-2": "IT-52",
+    "iso-name": "Toscana",
+    "iso-type": "Region"
+  },
+  "55": {
+    "name": "Umbria",
+    "type": "Region",
+    "iso3166-2": "IT-55",
+    "iso-name": "Umbria",
+    "iso-type": "Region"
+  },
+  "57": {
+    "name": "Marche",
+    "type": "Region",
+    "iso3166-2": "IT-57",
+    "iso-name": "Marche",
+    "iso-type": "Region"
+  },
+  "62": {
+    "name": "Lazio",
+    "type": "Region",
+    "iso3166-2": "IT-62",
+    "iso-name": "Lazio",
+    "iso-type": "Region"
+  },
+  "65": {
+    "name": "Abruzzo",
+    "type": "Region",
+    "iso3166-2": "IT-65",
+    "iso-name": "Abruzzo",
+    "iso-type": "Region"
+  },
+  "67": {
+    "name": "Molise",
+    "type": "Region",
+    "iso3166-2": "IT-67",
+    "iso-name": "Molise",
+    "iso-type": "Region"
+  },
+  "72": {
+    "name": "Campania",
+    "type": "Region",
+    "iso3166-2": "IT-72",
+    "iso-name": "Campania",
+    "iso-type": "Region"
+  },
+  "75": {
+    "name": "Puglia",
+    "type": "Region",
+    "iso3166-2": "IT-75",
+    "iso-name": "Puglia",
+    "iso-type": "Region"
+  },
+  "77": {
+    "name": "Basilicata",
+    "type": "Region",
+    "iso3166-2": "IT-77",
+    "iso-name": "Basilicata",
+    "iso-type": "Region"
+  },
+  "78": {
+    "name": "Calabria",
+    "type": "Region",
+    "iso3166-2": "IT-78",
+    "iso-name": "Calabria",
+    "iso-type": "Region"
   }
 }

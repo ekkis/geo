@@ -1,0 +1,16 @@
+{
+  "B": {
+    "name": "Ilhas de Barlavento",
+    "type": "Geographical region",
+    "iso3166-2": "CV-B",
+    "iso-name": "Ilhas de Barlavento",
+    "iso-type": "Geographical region"
+  },
+  "S": {
+    "name": "Ilhas de Sotavento",
+    "type": "Geographical region",
+    "iso3166-2": "CV-S",
+    "iso-name": "Ilhas de Sotavento",
+    "iso-type": "Geographical region"
+  }
+}

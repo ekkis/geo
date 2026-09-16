@@ -1,59 +1,44 @@
 {
-  "Christmas Island": {
-    "CX": {
-      "name": "Christmas Island"
-    }
-  },
-  "Jervis Bay Territory": {
-    "JBT": {
-      "name": "Jervis Bay Territory"
-    }
-  },
-  "Norfolk Island": {
-    "NF": {
-      "name": "Norfolk Island"
-    }
-  },
-  "AA": {
-    "name": "Australian Antarctic Territory"
-  },
-  "ACT": {
-    "name": "Australian Capital Territory"
-  },
-  "CI": {
-    "name": "Cocos Islands"
-  },
-  "CS": {
-    "name": "Coral Sea Islands"
-  },
-  "HI": {
-    "name": "Heard Island and McDonald Islands"
-  },
-  "JB": {
-    "name": "Jervis Bay Territory"
-  },
-  "NI": {
-    "name": "Norfolk Island"
-  },
   "NSW": {
-    "name": "New South Wales"
-  },
-  "NT": {
-    "name": "Northern Territory"
+    "name": "New South Wales",
+    "type": "State",
+    "iso3166-2": "AU-NSW",
+    "iso-name": "New South Wales",
+    "iso-type": "State"
   },
   "QLD": {
-    "name": "Queensland"
+    "name": "Queensland",
+    "type": "State",
+    "iso3166-2": "AU-QLD",
+    "iso-name": "Queensland",
+    "iso-type": "State"
   },
   "SA": {
-    "name": "South Australia"
+    "name": "South Australia",
+    "type": "State",
+    "iso3166-2": "AU-SA",
+    "iso-name": "South Australia",
+    "iso-type": "State"
   },
   "TAS": {
-    "name": "Tasmania"
+    "name": "Tasmania",
+    "type": "State",
+    "iso3166-2": "AU-TAS",
+    "iso-name": "Tasmania",
+    "iso-type": "State"
   },
   "VIC": {
-    "name": "Victoria"
+    "name": "Victoria",
+    "type": "State",
+    "iso3166-2": "AU-VIC",
+    "iso-name": "Victoria",
+    "iso-type": "State"
   },
   "WA": {
-    "name": "Western Australia"
+    "name": "Western Australia",
+    "type": "State",
+    "iso3166-2": "AU-WA",
+    "iso-name": "Western Australia",
+    "iso-type": "State"
   }
 }

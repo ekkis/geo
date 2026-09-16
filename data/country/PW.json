@@ -27,10 +27,6 @@
       "value": 263020733.717011,
       "year": 2023
     },
-    "postal-code": {
-      "format": "96940",
-      "regex": "^(96940)$"
-    },
     "organisation-codes": [
       "UN"
     ],
@@ -47,36 +43,65 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C %S %Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "recipient",
-        "organization",
-        "administrative-area"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": true
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": true
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "State",
+          "placeholder": "State",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "ZIP",
+          "placeholder": "96940",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "96940",
+            "regex": "^(?:(969(?:39|40))(?:[ \\-](\\d{4}))?)$",
+            "examples": [
+              "96940"
+            ],
+            "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp"
+          }
+        }
+      },
       "languages": [
         "pau",
         "en"
-      ],
-      "field-labels": {
-        "administrative-area": "state",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "zip"
-      },
-      "postal-code": {
-        "regex": "^(?:(969(?:39|40))(?:[ \\-](\\d{4}))?)$",
-        "examples": [
-          "96940"
-        ],
-        "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

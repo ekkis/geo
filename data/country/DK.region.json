@@ -1,17 +1,37 @@
 {
-  "CEN": {
-    "name": "Central Denmark"
+  "81": {
+    "name": "Nordjylland",
+    "type": "Region",
+    "iso3166-2": "DK-81",
+    "iso-name": "Nordjylland",
+    "iso-type": "Region"
   },
-  "DEN": {
-    "name": "Denmark"
+  "82": {
+    "name": "Midtjylland",
+    "type": "Region",
+    "iso3166-2": "DK-82",
+    "iso-name": "Midtjylland",
+    "iso-type": "Region"
   },
-  "NOR": {
-    "name": "North Denmark"
+  "83": {
+    "name": "Syddanmark",
+    "type": "Region",
+    "iso3166-2": "DK-83",
+    "iso-name": "Syddanmark",
+    "iso-type": "Region"
   },
-  "SOU": {
-    "name": "Southern Denmark"
+  "84": {
+    "name": "Hovedstaden",
+    "type": "Region",
+    "iso3166-2": "DK-84",
+    "iso-name": "Hovedstaden",
+    "iso-type": "Region"
   },
-  "ZEA": {
-    "name": "Zealand"
+  "85": {
+    "name": "Sjælland",
+    "type": "Region",
+    "iso3166-2": "DK-85",
+    "iso-name": "Sjælland",
+    "iso-type": "Region"
   }
 }

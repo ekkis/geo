@@ -30,10 +30,6 @@
       "value": 109327023588.73239,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "AU",
       "UN"
@@ -74,26 +70,55 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%n%Z",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "district",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "11042",
-          "11113"
-        ]
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "District",
+          "placeholder": "District",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "11042",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "11042",
+              "11113"
+            ]
+          }
+        }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
+    ]
   }
 }

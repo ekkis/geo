@@ -1,218 +1,58 @@
 {
-  "AKN": {
-    "name": "Akranes"
-  },
-  "AKU": {
-    "name": "Akureyri"
-  },
-  "SFA": {
-    "name": "Árborg"
-  },
-  "ARN": {
-    "name": "Árneshreppur"
-  },
-  "ASA": {
-    "name": "Ásahreppur"
-  },
-  "BLA": {
-    "name": "Bláskógabyggð"
-  },
-  "BOL": {
-    "name": "Bolungarvík"
-  },
-  "BOG": {
-    "name": "Borgarbyggð"
-  },
-  "CAP": {
-    "name": "Capital"
-  },
-  "DAB": {
-    "name": "Dalabyggð"
-  },
-  "DAV": {
-    "name": "Dalvíkurbyggð"
-  },
-  "EAS": {
-    "name": "Eastern"
-  },
-  "EOM": {
-    "name": "Eyja- og Miklaholtshreppur"
-  },
-  "EYF": {
-    "name": "Eyjafjarðarsveit"
-  },
-  "FJL": {
-    "name": "Fjallabyggð"
-  },
-  "FJD": {
-    "name": "Fjarðabyggð"
-  },
-  "FLR": {
-    "name": "Fljótsdalshreppur"
-  },
-  "FLA": {
-    "name": "Flóahreppur"
-  },
-  "GAR": {
-    "name": "Garðabær"
-  },
-  "GOG": {
-    "name": "Grímsnes- og Grafningshreppur"
-  },
-  "GRN": {
-    "name": "Grindavík"
-  },
-  "GRU": {
-    "name": "Grundarfjörður"
-  },
-  "GRY": {
-    "name": "Grýtubakkahreppur"
-  },
-  "HAF": {
-    "name": "Hafnarfjörður"
-  },
-  "HRG": {
-    "name": "Hörðarsveit"
-  },
-  "SHF": {
-    "name": "Hornafjörður"
-  },
-  "HRU": {
-    "name": "Hrunamannahreppur"
-  },
-  "HUG": {
-    "name": "Húnabyggð"
-  },
-  "HUV": {
-    "name": "Húnaþing vestra"
-  },
-  "HVA": {
-    "name": "Hvalfjarðarsveit"
-  },
-  "HVE": {
-    "name": "Hveragerði"
-  },
-  "ISA": {
-    "name": "Ísafjörður"
-  },
-  "KAL": {
-    "name": "Kaldrananeshreppur"
-  },
-  "KJO": {
-    "name": "Kjósarhreppur"
-  },
-  "KOP": {
-    "name": "Kópavogur"
-  },
-  "LAN": {
-    "name": "Langanesbyggð"
-  },
-  "MOS": {
-    "name": "Mosfellsbær"
-  },
-  "MUL": {
-    "name": "Múlaþing"
-  },
-  "MYR": {
-    "name": "Mýrdalshreppur"
-  },
-  "NOR": {
-    "name": "Norðurþing"
-  },
-  "NORT": {
-    "name": "Northeastern"
-  },
-  "NORTH": {
-    "name": "Northwestern"
-  },
-  "SOL": {
-    "name": "Ölfus"
-  },
-  "RGE": {
-    "name": "Rangárþing eystra"
-  },
-  "RGY": {
-    "name": "Rangárþing ytra"
-  },
-  "RHH": {
-    "name": "Reykhólahreppur"
-  },
-  "RKN": {
-    "name": "Reykjanesbær"
-  },
-  "RKV": {
-    "name": "Reykjavík"
-  },
-  "SEL": {
-    "name": "Seltjarnarnes"
-  },
-  "SKF": {
-    "name": "Skaftárhreppur"
-  },
-  "SKG": {
-    "name": "Skagabyggð"
-  },
-  "SKR": {
-    "name": "Skagafjörður"
-  },
-  "SSS": {
-    "name": "Skagaströnd"
-  },
-  "SOG": {
-    "name": "Skeiða- og Gnúpverjahreppur"
-  },
-  "SKO": {
-    "name": "Skorradalshreppur"
-  },
-  "SNF": {
-    "name": "Snæfellsbær"
-  },
-  "SOU": {
-    "name": "Southern"
-  },
-  "SOUTHERNPEN": {
-    "name": "Southern Peninsula"
-  },
-  "STR": {
-    "name": "Strandabyggð"
-  },
-  "STY": {
-    "name": "Stykkishólmur"
-  },
-  "SDV": {
-    "name": "Súðavík"
-  },
-  "SDN": {
-    "name": "Suðurnesjabær"
-  },
-  "SBT": {
-    "name": "Svalbardsstrandarhreppur"
-  },
-  "TAL": {
-    "name": "Tálknafjarðarhreppur"
-  },
-  "TJO": {
-    "name": "Tjörneshreppur"
-  },
-  "VEM": {
-    "name": "Vestmannaeyjar"
-  },
-  "VER": {
-    "name": "Vesturbyggð"
-  },
-  "SVG": {
-    "name": "Vogar"
-  },
-  "VOP": {
-    "name": "Vopnafjarðarhreppur"
-  },
-  "WES": {
-    "name": "Western"
-  },
-  "WESTFJORD": {
-    "name": "Westfjords"
-  },
-  "THG": {
-    "name": "Þingeyjarsveit"
+  "1": {
+    "name": "Höfuðborgarsvæði",
+    "type": "Region",
+    "iso3166-2": "IS-1",
+    "iso-name": "Höfuðborgarsvæði",
+    "iso-type": "Region"
+  },
+  "2": {
+    "name": "Suðurnes",
+    "type": "Region",
+    "iso3166-2": "IS-2",
+    "iso-name": "Suðurnes",
+    "iso-type": "Region"
+  },
+  "3": {
+    "name": "Vesturland",
+    "type": "Region",
+    "iso3166-2": "IS-3",
+    "iso-name": "Vesturland",
+    "iso-type": "Region"
+  },
+  "4": {
+    "name": "Vestfirðir",
+    "type": "Region",
+    "iso3166-2": "IS-4",
+    "iso-name": "Vestfirðir",
+    "iso-type": "Region"
+  },
+  "5": {
+    "name": "Norðurland vestra",
+    "type": "Region",
+    "iso3166-2": "IS-5",
+    "iso-name": "Norðurland vestra",
+    "iso-type": "Region"
+  },
+  "6": {
+    "name": "Norðurland eystra",
+    "type": "Region",
+    "iso3166-2": "IS-6",
+    "iso-name": "Norðurland eystra",
+    "iso-type": "Region"
+  },
+  "7": {
+    "name": "Austurland",
+    "type": "Region",
+    "iso3166-2": "IS-7",
+    "iso-name": "Austurland",
+    "iso-type": "Region"
+  },
+  "8": {
+    "name": "Suðurland",
+    "type": "Region",
+    "iso3166-2": "IS-8",
+    "iso-name": "Suðurland",
+    "iso-type": "Region"
   }
 }

@@ -1,17 +1,30 @@
 {
   "E": {
-    "name": "Eastern"
-  },
-  "NW": {
-    "name": "North Western"
+    "name": "Eastern",
+    "type": "Province",
+    "iso3166-2": "SL-E",
+    "iso-name": "Eastern",
+    "iso-type": "Province"
   },
   "N": {
-    "name": "Northern"
+    "name": "Northern",
+    "type": "Province",
+    "iso3166-2": "SL-N",
+    "iso-name": "Northern",
+    "iso-type": "Province"
+  },
+  "NW": {
+    "name": "North Western",
+    "type": "Province",
+    "iso3166-2": "SL-NW",
+    "iso-name": "North Western",
+    "iso-type": "Province"
   },
   "S": {
-    "name": "Southern"
-  },
-  "W": {
-    "name": "Western"
+    "name": "Southern",
+    "type": "Province",
+    "iso3166-2": "SL-S",
+    "iso-name": "Southern",
+    "iso-type": "Province"
   }
 }

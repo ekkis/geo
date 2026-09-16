@@ -1,0 +1,16 @@
+{
+  "CE": {
+    "name": "Ceuta",
+    "type": "Autonomous city in north africa",
+    "iso3166-2": "ES-CE",
+    "iso-name": "Ceuta",
+    "iso-type": "Autonomous city in north africa"
+  },
+  "ML": {
+    "name": "Melilla",
+    "type": "Autonomous city in north africa",
+    "iso3166-2": "ES-ML",
+    "iso-name": "Melilla",
+    "iso-type": "Autonomous city in north africa"
+  }
+}

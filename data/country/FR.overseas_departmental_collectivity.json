@@ -1,0 +1,23 @@
+{
+  "971": {
+    "name": "Guadeloupe",
+    "type": "Overseas departmental collectivity",
+    "iso3166-2": "FR-971",
+    "iso-name": "Guadeloupe",
+    "iso-type": "Overseas departmental collectivity"
+  },
+  "974": {
+    "name": "La Réunion",
+    "type": "Overseas departmental collectivity",
+    "iso3166-2": "FR-974",
+    "iso-name": "La Réunion",
+    "iso-type": "Overseas departmental collectivity"
+  },
+  "976": {
+    "name": "Mayotte",
+    "type": "Overseas departmental collectivity",
+    "iso3166-2": "FR-976",
+    "iso-name": "Mayotte",
+    "iso-type": "Overseas departmental collectivity"
+  }
+}

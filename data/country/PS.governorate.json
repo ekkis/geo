@@ -1,0 +1,114 @@
+{
+  "BTH": {
+    "name": "Bethlehem",
+    "type": "Governorate",
+    "iso3166-2": "PS-BTH",
+    "iso-name": "Bethlehem",
+    "iso-type": "Governorate"
+  },
+  "DEB": {
+    "name": "Deir El Balah",
+    "type": "Governorate",
+    "iso3166-2": "PS-DEB",
+    "iso-name": "Deir El Balah",
+    "iso-type": "Governorate"
+  },
+  "GZA": {
+    "name": "Gaza",
+    "type": "Governorate",
+    "iso3166-2": "PS-GZA",
+    "iso-name": "Gaza",
+    "iso-type": "Governorate"
+  },
+  "HBN": {
+    "name": "Hebron",
+    "type": "Governorate",
+    "iso3166-2": "PS-HBN",
+    "iso-name": "Hebron",
+    "iso-type": "Governorate"
+  },
+  "JEM": {
+    "name": "Jerusalem",
+    "type": "Governorate",
+    "iso3166-2": "PS-JEM",
+    "iso-name": "Jerusalem",
+    "iso-type": "Governorate"
+  },
+  "JEN": {
+    "name": "Jenin",
+    "type": "Governorate",
+    "iso3166-2": "PS-JEN",
+    "iso-name": "Jenin",
+    "iso-type": "Governorate"
+  },
+  "JRH": {
+    "name": "Jericho and Al Aghwar",
+    "type": "Governorate",
+    "iso3166-2": "PS-JRH",
+    "iso-name": "Jericho and Al Aghwar",
+    "iso-type": "Governorate"
+  },
+  "KYS": {
+    "name": "Khan Yunis",
+    "type": "Governorate",
+    "iso3166-2": "PS-KYS",
+    "iso-name": "Khan Yunis",
+    "iso-type": "Governorate"
+  },
+  "NBS": {
+    "name": "Nablus",
+    "type": "Governorate",
+    "iso3166-2": "PS-NBS",
+    "iso-name": "Nablus",
+    "iso-type": "Governorate"
+  },
+  "NGZ": {
+    "name": "North Gaza",
+    "type": "Governorate",
+    "iso3166-2": "PS-NGZ",
+    "iso-name": "North Gaza",
+    "iso-type": "Governorate"
+  },
+  "QQA": {
+    "name": "Qalqilya",
+    "type": "Governorate",
+    "iso3166-2": "PS-QQA",
+    "iso-name": "Qalqilya",
+    "iso-type": "Governorate"
+  },
+  "RBH": {
+    "name": "Ramallah",
+    "type": "Governorate",
+    "iso3166-2": "PS-RBH",
+    "iso-name": "Ramallah",
+    "iso-type": "Governorate"
+  },
+  "RFH": {
+    "name": "Rafah",
+    "type": "Governorate",
+    "iso3166-2": "PS-RFH",
+    "iso-name": "Rafah",
+    "iso-type": "Governorate"
+  },
+  "SLT": {
+    "name": "Salfit",
+    "type": "Governorate",
+    "iso3166-2": "PS-SLT",
+    "iso-name": "Salfit",
+    "iso-type": "Governorate"
+  },
+  "TBS": {
+    "name": "Tubas",
+    "type": "Governorate",
+    "iso3166-2": "PS-TBS",
+    "iso-name": "Tubas",
+    "iso-type": "Governorate"
+  },
+  "TKM": {
+    "name": "Tulkarm",
+    "type": "Governorate",
+    "iso3166-2": "PS-TKM",
+    "iso-name": "Tulkarm",
+    "iso-type": "Governorate"
+  }
+}

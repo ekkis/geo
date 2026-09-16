@@ -1,0 +1,23 @@
+{
+  "ARI": {
+    "name": "Arima",
+    "type": "Borough",
+    "iso3166-2": "TT-ARI",
+    "iso-name": "Arima",
+    "iso-type": "Borough"
+  },
+  "CHA": {
+    "name": "Chaguanas",
+    "type": "Borough",
+    "iso3166-2": "TT-CHA",
+    "iso-name": "Chaguanas",
+    "iso-type": "Borough"
+  },
+  "PTF": {
+    "name": "Point Fortin",
+    "type": "Borough",
+    "iso3166-2": "TT-PTF",
+    "iso-name": "Point Fortin",
+    "iso-type": "Borough"
+  }
+}

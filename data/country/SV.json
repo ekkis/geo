@@ -33,10 +33,6 @@
       "value": 34015620000.000004,
       "year": 2023
     },
-    "postal-code": {
-      "format": "CP ####",
-      "regex": "^(?:CP)*(\\d{4})$"
-    },
     "organisation-codes": [
       "WTO",
       "OAS",
@@ -60,31 +56,63 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z-%C%n%S",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area"
-      ],
-      "uppercase-fields": [
-        "locality",
-        "administrative-area",
-        "postal-code"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "1101",
+          "required": false,
+          "uppercase": true,
+          "validation": {
+            "format": "CP ####",
+            "regex": "^(?:[1-3][1-7][0-2]\\d)$",
+            "examples": [
+              "1101"
+            ]
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": true,
+          "uppercase": true
+        }
+      },
       "languages": [
         "es"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:[1-3][1-7][0-2]\\d)$",
-        "examples": [
-          "1101"
-        ]
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "department",
+        "label": "Department",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
-    }
+    ]
   }
 }

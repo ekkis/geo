@@ -1,47 +1,107 @@
 {
-  "AD": {
-    "name": "Adrar"
+  "01": {
+    "name": "Hodh ech Chargui",
+    "type": "Region",
+    "iso3166-2": "MR-01",
+    "iso-name": "Hodh ech Chargui",
+    "iso-type": "Region"
   },
-  "AS": {
-    "name": "Assaba"
+  "02": {
+    "name": "Hodh el Gharbi",
+    "type": "Region",
+    "iso3166-2": "MR-02",
+    "iso-name": "Hodh el Gharbi",
+    "iso-type": "Region"
   },
-  "BR": {
-    "name": "Brakna"
+  "03": {
+    "name": "Assaba",
+    "type": "Region",
+    "iso3166-2": "MR-03",
+    "iso-name": "Assaba",
+    "iso-type": "Region"
   },
-  "DN": {
-    "name": "Dakhlet Nouadhibou"
+  "04": {
+    "name": "Gorgol",
+    "type": "Region",
+    "iso3166-2": "MR-04",
+    "iso-name": "Gorgol",
+    "iso-type": "Region"
   },
-  "GO": {
-    "name": "Gorgol"
+  "05": {
+    "name": "Brakna",
+    "type": "Region",
+    "iso3166-2": "MR-05",
+    "iso-name": "Brakna",
+    "iso-type": "Region"
   },
-  "GM": {
-    "name": "Guidimaka"
+  "06": {
+    "name": "Trarza",
+    "type": "Region",
+    "iso3166-2": "MR-06",
+    "iso-name": "Trarza",
+    "iso-type": "Region"
   },
-  "HC": {
-    "name": "Hodh Ech Chargui"
+  "07": {
+    "name": "Adrar",
+    "type": "Region",
+    "iso3166-2": "MR-07",
+    "iso-name": "Adrar",
+    "iso-type": "Region"
   },
-  "HD": {
-    "name": "Hodh El Gharbi"
+  "08": {
+    "name": "Dakhlet Nouâdhibou",
+    "type": "Region",
+    "iso3166-2": "MR-08",
+    "iso-name": "Dakhlet Nouâdhibou",
+    "iso-type": "Region"
   },
-  "IN": {
-    "name": "Inchiri"
+  "09": {
+    "name": "Tagant",
+    "type": "Region",
+    "iso3166-2": "MR-09",
+    "iso-name": "Tagant",
+    "iso-type": "Region"
   },
-  "NOU": {
-    "name": "Nouakchott-Nord"
+  "10": {
+    "name": "Guidimaka",
+    "type": "Region",
+    "iso3166-2": "MR-10",
+    "iso-name": "Guidimaka",
+    "iso-type": "Region"
   },
-  "NO": {
-    "name": "Nouakchott-Ouest"
+  "11": {
+    "name": "Tiris Zemmour",
+    "type": "Region",
+    "iso3166-2": "MR-11",
+    "iso-name": "Tiris Zemmour",
+    "iso-type": "Region"
   },
-  "NS": {
-    "name": "Nouakchott-Sud"
+  "12": {
+    "name": "Inchiri",
+    "type": "Region",
+    "iso3166-2": "MR-12",
+    "iso-name": "Inchiri",
+    "iso-type": "Region"
   },
-  "TA": {
-    "name": "Tagant"
+  "13": {
+    "name": "Nouakchott Ouest",
+    "type": "Region",
+    "iso3166-2": "MR-13",
+    "iso-name": "Nouakchott Ouest",
+    "iso-type": "Region"
   },
-  "TIR": {
-    "name": "Tiris Zemmour"
+  "14": {
+    "name": "Nouakchott Nord",
+    "type": "Region",
+    "iso3166-2": "MR-14",
+    "iso-name": "Nouakchott Nord",
+    "iso-type": "Region"
   },
-  "TRA": {
-    "name": "Trarza"
+  "15": {
+    "name": "Nouakchott Sud",
+    "type": "Region",
+    "iso3166-2": "MR-15",
+    "iso-name": "Nouakchott Sud",
+    "iso-type": "Region"
   }
 }

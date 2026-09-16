@@ -1,0 +1,514 @@
+{
+  "130": {
+    "name": "Alutaguse",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-130",
+    "iso-name": "Alutaguse",
+    "iso-type": "Rural municipality",
+    "parent-code": "45"
+  },
+  "141": {
+    "name": "Anija",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-141",
+    "iso-name": "Anija",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "142": {
+    "name": "Antsla",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-142",
+    "iso-name": "Antsla",
+    "iso-type": "Rural municipality",
+    "parent-code": "87"
+  },
+  "171": {
+    "name": "Elva",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-171",
+    "iso-name": "Elva",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "191": {
+    "name": "Haljala",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-191",
+    "iso-name": "Haljala",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  },
+  "198": {
+    "name": "Harku",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-198",
+    "iso-name": "Harku",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "205": {
+    "name": "Hiiumaa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-205",
+    "iso-name": "Hiiumaa",
+    "iso-type": "Rural municipality",
+    "parent-code": "39"
+  },
+  "214": {
+    "name": "Häädemeeste",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-214",
+    "iso-name": "Häädemeeste",
+    "iso-type": "Rural municipality",
+    "parent-code": "68"
+  },
+  "245": {
+    "name": "Jõelähtme",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-245",
+    "iso-name": "Jõelähtme",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "247": {
+    "name": "Jõgeva",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-247",
+    "iso-name": "Jõgeva",
+    "iso-type": "Rural municipality",
+    "parent-code": "50"
+  },
+  "251": {
+    "name": "Jõhvi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-251",
+    "iso-name": "Jõhvi",
+    "iso-type": "Rural municipality",
+    "parent-code": "45"
+  },
+  "255": {
+    "name": "Järva",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-255",
+    "iso-name": "Järva",
+    "iso-type": "Rural municipality",
+    "parent-code": "52"
+  },
+  "272": {
+    "name": "Kadrina",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-272",
+    "iso-name": "Kadrina",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  },
+  "283": {
+    "name": "Kambja",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-283",
+    "iso-name": "Kambja",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "284": {
+    "name": "Kanepi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-284",
+    "iso-name": "Kanepi",
+    "iso-type": "Rural municipality",
+    "parent-code": "64"
+  },
+  "291": {
+    "name": "Kastre",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-291",
+    "iso-name": "Kastre",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "293": {
+    "name": "Kehtna",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-293",
+    "iso-name": "Kehtna",
+    "iso-type": "Rural municipality",
+    "parent-code": "71"
+  },
+  "303": {
+    "name": "Kihnu",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-303",
+    "iso-name": "Kihnu",
+    "iso-type": "Rural municipality",
+    "parent-code": "68"
+  },
+  "305": {
+    "name": "Kiili",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-305",
+    "iso-name": "Kiili",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "317": {
+    "name": "Kohila",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-317",
+    "iso-name": "Kohila",
+    "iso-type": "Rural municipality",
+    "parent-code": "71"
+  },
+  "338": {
+    "name": "Kose",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-338",
+    "iso-name": "Kose",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "353": {
+    "name": "Kuusalu",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-353",
+    "iso-name": "Kuusalu",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "430": {
+    "name": "Lääneranna",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-430",
+    "iso-name": "Lääneranna",
+    "iso-type": "Rural municipality",
+    "parent-code": "68"
+  },
+  "431": {
+    "name": "Lääne-Harju",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-431",
+    "iso-name": "Lääne-Harju",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "432": {
+    "name": "Luunja",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-432",
+    "iso-name": "Luunja",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "441": {
+    "name": "Lääne-Nigula",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-441",
+    "iso-name": "Lääne-Nigula",
+    "iso-type": "Rural municipality",
+    "parent-code": "56"
+  },
+  "442": {
+    "name": "Lüganuse",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-442",
+    "iso-name": "Lüganuse",
+    "iso-type": "Rural municipality",
+    "parent-code": "45"
+  },
+  "478": {
+    "name": "Muhu",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-478",
+    "iso-name": "Muhu",
+    "iso-type": "Rural municipality",
+    "parent-code": "74"
+  },
+  "480": {
+    "name": "Mulgi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-480",
+    "iso-name": "Mulgi",
+    "iso-type": "Rural municipality",
+    "parent-code": "84"
+  },
+  "486": {
+    "name": "Mustvee",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-486",
+    "iso-name": "Mustvee",
+    "iso-type": "Rural municipality",
+    "parent-code": "50"
+  },
+  "503": {
+    "name": "Märjamaa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-503",
+    "iso-name": "Märjamaa",
+    "iso-type": "Rural municipality",
+    "parent-code": "71"
+  },
+  "528": {
+    "name": "Nõo",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-528",
+    "iso-name": "Nõo",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "557": {
+    "name": "Otepää",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-557",
+    "iso-name": "Otepää",
+    "iso-type": "Rural municipality",
+    "parent-code": "81"
+  },
+  "586": {
+    "name": "Peipsiääre",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-586",
+    "iso-name": "Peipsiääre",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "615": {
+    "name": "Põhja-Sakala",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-615",
+    "iso-name": "Põhja-Sakala",
+    "iso-type": "Rural municipality",
+    "parent-code": "84"
+  },
+  "618": {
+    "name": "Põltsamaa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-618",
+    "iso-name": "Põltsamaa",
+    "iso-type": "Rural municipality",
+    "parent-code": "50"
+  },
+  "622": {
+    "name": "Põlva",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-622",
+    "iso-name": "Põlva",
+    "iso-type": "Rural municipality",
+    "parent-code": "64"
+  },
+  "638": {
+    "name": "Põhja-Pärnumaa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-638",
+    "iso-name": "Põhja-Pärnumaa",
+    "iso-type": "Rural municipality",
+    "parent-code": "68"
+  },
+  "651": {
+    "name": "Raasiku",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-651",
+    "iso-name": "Raasiku",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "653": {
+    "name": "Rae",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-653",
+    "iso-name": "Rae",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "661": {
+    "name": "Rakvere",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-661",
+    "iso-name": "Rakvere",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  },
+  "668": {
+    "name": "Rapla",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-668",
+    "iso-name": "Rapla",
+    "iso-type": "Rural municipality",
+    "parent-code": "71"
+  },
+  "689": {
+    "name": "Ruhnu",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-689",
+    "iso-name": "Ruhnu",
+    "iso-type": "Rural municipality",
+    "parent-code": "74"
+  },
+  "698": {
+    "name": "Rõuge",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-698",
+    "iso-name": "Rõuge",
+    "iso-type": "Rural municipality",
+    "parent-code": "87"
+  },
+  "708": {
+    "name": "Räpina",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-708",
+    "iso-name": "Räpina",
+    "iso-type": "Rural municipality",
+    "parent-code": "64"
+  },
+  "712": {
+    "name": "Saarde",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-712",
+    "iso-name": "Saarde",
+    "iso-type": "Rural municipality",
+    "parent-code": "68"
+  },
+  "714": {
+    "name": "Saaremaa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-714",
+    "iso-name": "Saaremaa",
+    "iso-type": "Rural municipality",
+    "parent-code": "74"
+  },
+  "719": {
+    "name": "Saku",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-719",
+    "iso-name": "Saku",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "726": {
+    "name": "Saue",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-726",
+    "iso-name": "Saue",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "732": {
+    "name": "Setomaa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-732",
+    "iso-name": "Setomaa",
+    "iso-type": "Rural municipality",
+    "parent-code": "87"
+  },
+  "792": {
+    "name": "Tapa",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-792",
+    "iso-name": "Tapa",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  },
+  "796": {
+    "name": "Tartu",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-796",
+    "iso-name": "Tartu",
+    "iso-type": "Rural municipality",
+    "parent-code": "79"
+  },
+  "803": {
+    "name": "Toila",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-803",
+    "iso-name": "Toila",
+    "iso-type": "Rural municipality",
+    "parent-code": "45"
+  },
+  "809": {
+    "name": "Tori",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-809",
+    "iso-name": "Tori",
+    "iso-type": "Rural municipality",
+    "parent-code": "68"
+  },
+  "824": {
+    "name": "Tõrva",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-824",
+    "iso-name": "Tõrva",
+    "iso-type": "Rural municipality",
+    "parent-code": "81"
+  },
+  "834": {
+    "name": "Türi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-834",
+    "iso-name": "Türi",
+    "iso-type": "Rural municipality",
+    "parent-code": "52"
+  },
+  "855": {
+    "name": "Valga",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-855",
+    "iso-name": "Valga",
+    "iso-type": "Rural municipality",
+    "parent-code": "81"
+  },
+  "890": {
+    "name": "Viimsi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-890",
+    "iso-name": "Viimsi",
+    "iso-type": "Rural municipality",
+    "parent-code": "37"
+  },
+  "899": {
+    "name": "Viljandi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-899",
+    "iso-name": "Viljandi",
+    "iso-type": "Rural municipality",
+    "parent-code": "84"
+  },
+  "901": {
+    "name": "Vinni",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-901",
+    "iso-name": "Vinni",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  },
+  "903": {
+    "name": "Viru-Nigula",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-903",
+    "iso-name": "Viru-Nigula",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  },
+  "907": {
+    "name": "Vormsi",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-907",
+    "iso-name": "Vormsi",
+    "iso-type": "Rural municipality",
+    "parent-code": "56"
+  },
+  "917": {
+    "name": "Võru",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-917",
+    "iso-name": "Võru",
+    "iso-type": "Rural municipality",
+    "parent-code": "87"
+  },
+  "928": {
+    "name": "Väike-Maarja",
+    "type": "Rural municipality",
+    "iso3166-2": "EE-928",
+    "iso-name": "Väike-Maarja",
+    "iso-type": "Rural municipality",
+    "parent-code": "60"
+  }
+}
