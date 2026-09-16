@@ -37,10 +37,6 @@
       "value": 75187125426.73755,
       "year": 2023
     },
-    "postal-code": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    },
     "organisation-codes": [
       "BIS",
       "UN"
@@ -79,25 +75,45 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{5,6})$",
-        "examples": [
-          "106314"
-        ],
-        "lookup-url": "http://www.posta.rs/struktura/lat/aplikacije/pronadji/nadji-postu.asp"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "106314",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "######",
+            "regex": "^(?:\\d{5,6})$",
+            "examples": [
+              "106314"
+            ],
+            "lookup-url": "http://www.posta.rs/struktura/lat/aplikacije/pronadji/nadji-postu.asp"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
       }
     }
   }

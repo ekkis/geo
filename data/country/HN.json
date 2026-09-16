@@ -33,10 +33,6 @@
       "value": 34400509852.04365,
       "year": 2023
     },
-    "postal-code": {
-      "format": "@@####",
-      "regex": "^([A-Z]{2}\\d{4})$"
-    },
     "organisation-codes": [
       "WTO",
       "OAS",
@@ -63,29 +59,54 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C, %S%n%Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Department",
+          "placeholder": "Department",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "31301",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "@@####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "31301"
+            ]
+          }
+        }
+      },
       "languages": [
         "es"
-      ],
-      "field-labels": {
-        "administrative-area": "department",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "31301"
-        ]
-      }
+      ]
     }
   }
 }

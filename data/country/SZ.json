@@ -27,10 +27,6 @@
       "value": 4597855845.042758,
       "year": 2023
     },
-    "postal-code": {
-      "format": "@###",
-      "regex": "^([A-Z]\\d{3})$"
-    },
     "organisation-codes": [
       "WTO",
       "AU",
@@ -57,27 +53,45 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%n%Z",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:[HLMS]\\d{3})$",
-        "examples": [
-          "H100"
-        ],
-        "lookup-url": "https://www.eswatinipost.co.sz/postcode.php"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "H100",
+          "required": false,
+          "uppercase": true,
+          "validation": {
+            "format": "@###",
+            "regex": "^(?:[HLMS]\\d{3})$",
+            "examples": [
+              "H100"
+            ],
+            "lookup-url": "https://www.eswatinipost.co.sz/postcode.php"
+          }
+        }
       }
     }
   }

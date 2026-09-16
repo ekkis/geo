@@ -39,37 +39,51 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C %S %Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "recipient",
-        "organization",
-        "administrative-area"
-      ],
-      "field-labels": {
-        "administrative-area": "state",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "zip"
-      },
-      "postal-code": {
-        "regex": "^(?:96898)$",
-        "examples": [
-          "96898"
-        ],
-        "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": true
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": true
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "State",
+          "placeholder": "State",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "ZIP",
+          "placeholder": "96898",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "regex": "^(?:96898)$",
+            "examples": [
+              "96898"
+            ],
+            "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp"
+          }
+        }
       }
-    },
-    "postal-code": {
-      "regex": "^(96898)$",
-      "examples": [
-        "96898"
-      ]
     }
   }
 }

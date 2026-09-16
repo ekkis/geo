@@ -36,32 +36,46 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%n%Z",
-      "required-fields": [
-        "street-address"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:VG\\d{4})$",
-        "examples": [
-          "VG1110",
-          "VG1150",
-          "VG1160"
-        ]
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": false,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "VG1110",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "regex": "^(?:VG\\d{4})$",
+            "examples": [
+              "VG1110",
+              "VG1150",
+              "VG1160"
+            ]
+          }
+        }
       }
-    },
-    "postal-code": {
-      "regex": "^(VG\\d{4})$",
-      "examples": [
-        "VG1110,VG1150,VG1160"
-      ]
     }
   }
 }

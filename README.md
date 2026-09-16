@@ -126,7 +126,7 @@ const allNeighbors = geo.neighbours('CA');
 
 ## Address formats
 
-Each country record may include an `address-format` object sourced from Google libaddressinput/Chromium international address metadata.  It stores the original format template, required and uppercase fields, country-specific field labels (for example `state`, `province`, `post_town`, or `zip`), and postal-code validation metadata where available.
+Each country record may include an `address-format` object sourced from Google libaddressinput/Chromium international address metadata. It stores the original format template and a `fields` object keyed by address field name. Each field can include country-specific `header`, `placeholder`, `required`, `uppercase`, and postal-code `validation` metadata where available. Postal-code metadata is stored only under the postal-code field validation, not as a duplicate top-level country property.
 
 Format tokens use libaddressinput's field codes:
 

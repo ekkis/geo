@@ -30,10 +30,6 @@
       "value": 20624597846.549507,
       "year": 2023
     },
-    "postal-code": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    },
     "organisation-codes": [
       "WTO",
       "AU",
@@ -66,30 +62,56 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z %C%S",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "1102",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "####",
+            "regex": "^(?:\\d{4})$",
+            "examples": [
+              "1102",
+              "1119",
+              "3212"
+            ]
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": false,
+          "uppercase": false
+        }
+      },
       "languages": [
         "pt"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{4})$",
-        "examples": [
-          "1102",
-          "1119",
-          "3212"
-        ]
-      }
+      ]
     }
   }
 }

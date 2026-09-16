@@ -31,10 +31,6 @@
       "value": 3727673593.0192156,
       "year": 2023
     },
-    "postal-code": {
-      "format": "AD###",
-      "regex": "^(?:AD)*(\\d{3})$"
-    },
     "organisation-codes": [
       "UN"
     ],
@@ -56,31 +52,51 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "AD100",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "AD###",
+            "regex": "^(?:AD[1-7]0\\d)$",
+            "examples": [
+              "AD100",
+              "AD501",
+              "AD700"
+            ],
+            "lookup-url": "http://www.correos.es/comun/CodigosPostales/1010_s-CodPostal.asp?Provincia="
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      },
       "languages": [
         "ca"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:AD[1-7]0\\d)$",
-        "examples": [
-          "AD100",
-          "AD501",
-          "AD700"
-        ],
-        "lookup-url": "http://www.correos.es/comun/CodigosPostales/1010_s-CodPostal.asp?Provincia="
-      }
+      ]
     }
   }
 }

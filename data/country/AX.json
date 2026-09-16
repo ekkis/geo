@@ -36,40 +36,52 @@
     ],
     "address-format": {
       "format": "%O%n%N%n%A%nAX-%Z %C%nÅLAND",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:22\\d{3})$",
-        "examples": [
-          "22150",
-          "22550",
-          "22240",
-          "22710",
-          "22270",
-          "22730",
-          "22430"
-        ],
-        "lookup-url": "https://www.alandpost.ax/privat/skicka-brev/postnummer-pa-aland/postnummersokning"
-      },
-      "postal-code-prefix": "AX-"
-    },
-    "postal-code": {
-      "regex": "^(22\\d{3})$",
-      "examples": [
-        "22150,22550,22240,22710,22270,22730,22430"
-      ]
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "22150",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "regex": "^(?:22\\d{3})$",
+            "examples": [
+              "22150",
+              "22550",
+              "22240",
+              "22710",
+              "22270",
+              "22730",
+              "22430"
+            ],
+            "lookup-url": "https://www.alandpost.ax/privat/skicka-brev/postnummer-pa-aland/postnummersokning",
+            "prefix": "AX-"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
     }
   }
 }

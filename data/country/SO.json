@@ -30,10 +30,6 @@
       "value": 11679800110.152267,
       "year": 2023
     },
-    "postal-code": {
-      "format": "@@  #####",
-      "regex": "^([A-Z]{2}\\d{5})$"
-    },
     "organisation-codes": [
       "AU",
       "UN"
@@ -60,32 +56,55 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C, %S %Z",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "administrative-area"
-      ],
-      "uppercase-fields": [
-        "street-address",
-        "locality",
-        "administrative-area"
-      ],
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "JH 09010",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "@@  #####",
+            "regex": "^(?:[A-Z]{2} ?\\d{5})$",
+            "examples": [
+              "JH 09010",
+              "AD 11010"
+            ]
+          }
+        }
+      },
       "languages": [
         "so"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:[A-Z]{2} ?\\d{5})$",
-        "examples": [
-          "JH 09010",
-          "AD 11010"
-        ]
-      }
+      ]
     }
   }
 }

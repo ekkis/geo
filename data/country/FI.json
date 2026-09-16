@@ -33,10 +33,6 @@
       "value": 300187202696.08374,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(?:FI)*(\\d{5})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -64,29 +60,48 @@
     ],
     "address-format": {
       "format": "%O%n%N%n%A%nFI-%Z %C",
-      "required-fields": [
-        "street-address",
-        "locality",
-        "postal-code"
-      ],
-      "uppercase-fields": [
-        "locality"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "00550",
-          "00011"
-        ],
-        "lookup-url": "https://support.posti.fi/fi/tyokalut/postinumerohaku.html"
-      },
-      "postal-code-prefix": "FI-"
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "00550",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "00550",
+              "00011"
+            ],
+            "lookup-url": "https://support.posti.fi/fi/tyokalut/postinumerohaku.html",
+            "prefix": "FI-"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
     }
   }
 }

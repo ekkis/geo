@@ -44,18 +44,37 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%n%S",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "administrative-area"
-      ],
-      "field-labels": {
-        "administrative-area": "island",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": false
+        },
+        "administrative-area": {
+          "header": "Island",
+          "placeholder": "Island",
+          "required": false,
+          "uppercase": true
+        }
       }
     }
   }

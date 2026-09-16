@@ -33,10 +33,6 @@
       "value": 514944993833.5776,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "ASEAN",
       "BIS",
@@ -65,30 +61,62 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%D %C%n%S %Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "dependent-locality": {
+          "header": "Suburb",
+          "placeholder": "Suburb",
+          "required": false,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": false
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": false,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "10150",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "10150",
+              "10210"
+            ]
+          }
+        }
+      },
       "latin-format": "%N%n%O%n%A%n%D, %C%n%S %Z",
-      "required-fields": [
-        "street-address",
-        "locality"
-      ],
-      "uppercase-fields": [
-        "administrative-area"
-      ],
       "languages": [
         "th"
-      ],
-      "field-labels": {
-        "administrative-area": "province",
-        "locality": "city",
-        "dependent-locality": "suburb",
-        "postal-code": "postal"
-      },
-      "postal-code": {
-        "regex": "^(?:\\d{5})$",
-        "examples": [
-          "10150",
-          "10210"
-        ]
-      }
+      ]
     }
   }
 }

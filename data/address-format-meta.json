@@ -19,6 +19,8 @@
   },
   "notes": [
     "Country data stores the original libaddressinput format template.",
+    "Address-format field metadata is normalized under address-format.fields[field].",
+    "Top-level country postal-code metadata is merged into address-format.fields.postal-code.validation.",
     "Postal-code regexes are anchored for full-string validation.",
     "Countries whose country-specific record omits a format inherit libaddressinput's ZZ default format."
   ],
