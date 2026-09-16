@@ -1,0 +1,23 @@
+{
+  "BQ1": {
+    "name": "Bonaire",
+    "type": "Special municipality",
+    "iso3166-2": "NL-BQ1",
+    "iso-name": "Bonaire",
+    "iso-type": "Special municipality"
+  },
+  "BQ2": {
+    "name": "Saba",
+    "type": "Special municipality",
+    "iso3166-2": "NL-BQ2",
+    "iso-name": "Saba",
+    "iso-type": "Special municipality"
+  },
+  "BQ3": {
+    "name": "Sint Eustatius",
+    "type": "Special municipality",
+    "iso3166-2": "NL-BQ3",
+    "iso-name": "Sint Eustatius",
+    "iso-type": "Special municipality"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "KT": {
+    "name": "Khatlon",
+    "type": "Region",
+    "iso3166-2": "TJ-KT",
+    "iso-name": "Khatlon",
+    "iso-type": "Region"
+  },
+  "SU": {
+    "name": "Sughd",
+    "type": "Region",
+    "iso3166-2": "TJ-SU",
+    "iso-name": "Sughd",
+    "iso-type": "Region"
+  }
+}

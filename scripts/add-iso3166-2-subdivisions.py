@@ -1,27 +1,26 @@
 #!/usr/bin/env python3
-"""Generate ISO 3166-2-backed subdivision files using political names.
+"""Generate ISO 3166-2-backed subdivision files using political domain names.
 
-Files are named for the ISO subdivision type when practical, e.g.:
+Files are named for each ISO subdivision domain, e.g.:
 
 - AD.parish.json
-- CA.province_territory.json
-- US.state_district_outlying_area.json
+- CA.province.json and CA.territory.json
+- US.state.json, US.outlying_area.json, and US.district.json
 
-When ISO defines more than three subdivision types for one country, the file is
-named {ISO2}.subdivision.json to avoid unusably long filenames; every record
-still preserves its exact `iso-type`.
+Each file uses the ISO subdivision suffix as the key and preserves exact ISO
+audit fields. Country records get a `data.division-hierarchy` array pointing to
+the political subdivision files.
 
-Existing city/locality files are left untouched. Country records get a
-`data.division-hierarchy` entry pointing to the canonical ISO 3166-2 file.
-GB keeps the project-specific two-level hierarchy requested by the user:
-GB.country.json for constituent countries and GB.country.division.json for the
-lower ISO subdivisions.
+GB keeps the project-specific hierarchy requested by the user: GB.country.json
+for constituent countries and GB.country.division.json for lower ISO
+subdivisions, both with ISO audit fields.
 """
 
 from __future__ import annotations
 
 import json
 import re
+from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
@@ -48,20 +47,6 @@ def write_json(path: Path, data: Any) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def ordered_types(subdivisions: list[Any]) -> list[str]:
-    types: list[str] = []
-    for subdivision in subdivisions:
-        type_slug = slug(subdivision.type)
-        if type_slug not in types:
-            types.append(type_slug)
-    return types
-
-
-def target_level(subdivisions: list[Any]) -> str:
-    types = ordered_types(subdivisions)
-    return "_".join(types) if len(types) <= 3 else "subdivision"
-
-
 def subdivision_record(subdivision: Any) -> dict[str, Any]:
     parent_code = (getattr(subdivision, "parent_code", None) or "").split("-")[-1]
     record: dict[str, Any] = {
@@ -76,18 +61,57 @@ def subdivision_record(subdivision: Any) -> dict[str, Any]:
     return record
 
 
-def hierarchy_entry(country_code: str, subdivisions: list[Any]) -> dict[str, Any]:
-    level = target_level(subdivisions)
-    labels = [type_slug.replace("_", " ").title() for type_slug in ordered_types(subdivisions)]
-    return {
-        "key": level,
-        "label": " / ".join(labels),
+def grouped_by_type(subdivisions: list[Any]) -> dict[str, list[Any]]:
+    groups: dict[str, list[Any]] = defaultdict(list)
+    for subdivision in subdivisions:
+        groups[slug(subdivision.type)].append(subdivision)
+    return dict(sorted(groups.items()))
+
+
+def file_for(country_code: str, type_slug: str) -> str:
+    return f"{country_code}.{type_slug}.json"
+
+
+def generated_iso_file(path: Path, country_code: str) -> bool:
+    """Return true if path appears to be generated ISO 3166-2 subdivision data."""
+    if path.name == f"{country_code}.json" or not path.name.startswith(f"{country_code}."):
+        return False
+    if path.name.endswith(".city.json"):
+        return False
+    try:
+        data = load_json(path)
+    except Exception:
+        return False
+    if not isinstance(data, dict) or not data:
+        return False
+    values = [value for value in data.values() if isinstance(value, dict)]
+    if len(values) != len(data):
+        return False
+    iso_values = [value.get("iso3166-2") for value in values]
+    return bool(iso_values) and all(isinstance(code, str) and code.startswith(f"{country_code}-") for code in iso_values)
+
+
+def remove_stale_generated_files(country_code: str, keep_files: set[str]) -> None:
+    for path in COUNTRY_DIR.glob(f"{country_code}.*.json"):
+        if path.name in keep_files:
+            continue
+        if generated_iso_file(path, country_code):
+            path.unlink()
+
+
+def hierarchy_entry(country_code: str, type_slug: str, subdivisions: list[Any]) -> dict[str, Any]:
+    label = type_slug.replace("_", " ").title()
+    entry: dict[str, Any] = {
+        "key": type_slug,
+        "label": label,
         "standard": "ISO 3166-2",
-        "file": f"{country_code}.{level}.json",
+        "file": file_for(country_code, type_slug),
         "code-field": "iso3166-2",
         "type-field": "iso-type",
-        "parent-field": "parent-code",
     }
+    if any(getattr(subdivision, "parent_code", None) for subdivision in subdivisions):
+        entry["parent-field"] = "parent-code"
+    return entry
 
 
 def set_country_hierarchy(country_code: str, hierarchy: list[dict[str, Any]]) -> None:
@@ -101,30 +125,33 @@ def set_country_hierarchy(country_code: str, hierarchy: list[dict[str, Any]]) ->
     write_json(path, country)
 
 
-def remove_old_iso_file(country_code: str) -> None:
-    old_path = COUNTRY_DIR / f"{country_code}.iso3166-2.json"
-    if old_path.exists():
-        old_path.unlink()
+def generate_regular_country(country_code: str, subdivisions: list[Any]) -> tuple[list[str], int]:
+    groups = grouped_by_type(subdivisions)
+    keep_files: set[str] = set()
+    hierarchy: list[dict[str, Any]] = []
+    count = 0
 
+    for type_slug, group in groups.items():
+        filename = file_for(country_code, type_slug)
+        keep_files.add(filename)
+        data = {
+            subdivision.code.split("-")[1]: subdivision_record(subdivision)
+            for subdivision in sorted(group, key=lambda subdivision: subdivision.code)
+        }
+        write_json(COUNTRY_DIR / filename, dict(sorted(data.items())))
+        hierarchy.append(hierarchy_entry(country_code, type_slug, group))
+        count += len(data)
 
-def generate_regular_country(country_code: str, subdivisions: list[Any]) -> tuple[str, int]:
-    level = target_level(subdivisions)
-    path = COUNTRY_DIR / f"{country_code}.{level}.json"
-    data = {
-        subdivision.code.split("-")[1]: subdivision_record(subdivision)
-        for subdivision in subdivisions
-    }
-    write_json(path, dict(sorted(data.items())))
-    remove_old_iso_file(country_code)
-    set_country_hierarchy(country_code, [hierarchy_entry(country_code, subdivisions)])
-    return path.name, len(data)
+    remove_stale_generated_files(country_code, keep_files)
+    set_country_hierarchy(country_code, hierarchy)
+    return sorted(keep_files), count
 
 
 def generate_gb(subdivisions: list[Any]) -> tuple[list[str], int]:
     countries: dict[str, Any] = {}
     divisions: dict[str, Any] = {}
 
-    for subdivision in subdivisions:
+    for subdivision in sorted(subdivisions, key=lambda subdivision: subdivision.code):
         suffix = subdivision.code.split("-")[1]
         record = subdivision_record(subdivision)
         if suffix in GB_TOP_LEVEL:
@@ -146,9 +173,10 @@ def generate_gb(subdivisions: list[Any]) -> tuple[list[str], int]:
     for record in countries.values():
         record["division-codes"] = sorted(record["division-codes"])
 
+    keep_files = {"GB.country.json", "GB.country.division.json"}
     write_json(COUNTRY_DIR / "GB.country.json", dict(sorted(countries.items())))
     write_json(COUNTRY_DIR / "GB.country.division.json", dict(sorted(divisions.items())))
-    remove_old_iso_file("GB")
+    remove_stale_generated_files("GB", keep_files)
     set_country_hierarchy(
         "GB",
         [
@@ -178,7 +206,7 @@ def generate_gb(subdivisions: list[Any]) -> tuple[list[str], int]:
             },
         ],
     )
-    return ["GB.country.json", "GB.country.division.json"], len(countries) + len(divisions)
+    return sorted(keep_files), len(countries) + len(divisions)
 
 
 def main() -> None:
@@ -187,16 +215,12 @@ def main() -> None:
     record_count = 0
 
     for country_code in country_codes:
-        subdivisions = sorted(
-            pycountry.subdivisions.get(country_code=country_code) or [],
-            key=lambda subdivision: subdivision.code,
-        )
+        subdivisions = list(pycountry.subdivisions.get(country_code=country_code) or [])
         if country_code == "GB":
             files, count = generate_gb(subdivisions)
-            file_count += len(files)
         else:
-            _, count = generate_regular_country(country_code, subdivisions)
-            file_count += 1
+            files, count = generate_regular_country(country_code, subdivisions)
+        file_count += len(files)
         record_count += count
 
     print(f"Wrote {file_count} ISO 3166-2-backed subdivision files")

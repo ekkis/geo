@@ -1,0 +1,16 @@
+{
+  "MOW": {
+    "name": "Moskva",
+    "type": "Autonomous city",
+    "iso3166-2": "RU-MOW",
+    "iso-name": "Moskva",
+    "iso-type": "Autonomous city"
+  },
+  "SPE": {
+    "name": "Sankt-Peterburg",
+    "type": "Autonomous city",
+    "iso3166-2": "RU-SPE",
+    "iso-name": "Sankt-Peterburg",
+    "iso-type": "Autonomous city"
+  }
+}

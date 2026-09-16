@@ -1,0 +1,23 @@
+{
+  "71": {
+    "name": "Astana",
+    "type": "City",
+    "iso3166-2": "KZ-71",
+    "iso-name": "Astana",
+    "iso-type": "City"
+  },
+  "75": {
+    "name": "Almaty",
+    "type": "City",
+    "iso3166-2": "KZ-75",
+    "iso-name": "Almaty",
+    "iso-type": "City"
+  },
+  "79": {
+    "name": "Shymkent",
+    "type": "City",
+    "iso3166-2": "KZ-79",
+    "iso-name": "Shymkent",
+    "iso-type": "City"
+  }
+}

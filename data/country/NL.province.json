@@ -1,38 +1,86 @@
 {
   "DR": {
-    "name": "Drenthe"
+    "name": "Drenthe",
+    "type": "Province",
+    "iso3166-2": "NL-DR",
+    "iso-name": "Drenthe",
+    "iso-type": "Province"
   },
   "FL": {
-    "name": "Flevoland"
+    "name": "Flevoland",
+    "type": "Province",
+    "iso3166-2": "NL-FL",
+    "iso-name": "Flevoland",
+    "iso-type": "Province"
   },
   "FR": {
-    "name": "Friesland"
+    "name": "Fryslân",
+    "type": "Province",
+    "iso3166-2": "NL-FR",
+    "iso-name": "Fryslân",
+    "iso-type": "Province"
   },
   "GE": {
-    "name": "Gelderland"
+    "name": "Gelderland",
+    "type": "Province",
+    "iso3166-2": "NL-GE",
+    "iso-name": "Gelderland",
+    "iso-type": "Province"
   },
   "GR": {
-    "name": "Groningen"
+    "name": "Groningen",
+    "type": "Province",
+    "iso3166-2": "NL-GR",
+    "iso-name": "Groningen",
+    "iso-type": "Province"
   },
   "LI": {
-    "name": "Limburg"
+    "name": "Limburg",
+    "type": "Province",
+    "iso3166-2": "NL-LI",
+    "iso-name": "Limburg",
+    "iso-type": "Province"
   },
   "NB": {
-    "name": "North Brabant"
+    "name": "Noord-Brabant",
+    "type": "Province",
+    "iso3166-2": "NL-NB",
+    "iso-name": "Noord-Brabant",
+    "iso-type": "Province"
   },
   "NH": {
-    "name": "North Holland"
+    "name": "Noord-Holland",
+    "type": "Province",
+    "iso3166-2": "NL-NH",
+    "iso-name": "Noord-Holland",
+    "iso-type": "Province"
   },
   "OV": {
-    "name": "Overijssel"
-  },
-  "ZH": {
-    "name": "South Holland"
+    "name": "Overijssel",
+    "type": "Province",
+    "iso3166-2": "NL-OV",
+    "iso-name": "Overijssel",
+    "iso-type": "Province"
   },
   "UT": {
-    "name": "Utrecht"
+    "name": "Utrecht",
+    "type": "Province",
+    "iso3166-2": "NL-UT",
+    "iso-name": "Utrecht",
+    "iso-type": "Province"
   },
   "ZE": {
-    "name": "Zeeland"
+    "name": "Zeeland",
+    "type": "Province",
+    "iso3166-2": "NL-ZE",
+    "iso-name": "Zeeland",
+    "iso-type": "Province"
+  },
+  "ZH": {
+    "name": "Zuid-Holland",
+    "type": "Province",
+    "iso3166-2": "NL-ZH",
+    "iso-name": "Zuid-Holland",
+    "iso-type": "Province"
   }
 }

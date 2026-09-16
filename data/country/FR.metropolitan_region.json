@@ -1,0 +1,86 @@
+{
+  "ARA": {
+    "name": "Auvergne-Rhône-Alpes",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-ARA",
+    "iso-name": "Auvergne-Rhône-Alpes",
+    "iso-type": "Metropolitan region"
+  },
+  "BFC": {
+    "name": "Bourgogne-Franche-Comté",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-BFC",
+    "iso-name": "Bourgogne-Franche-Comté",
+    "iso-type": "Metropolitan region"
+  },
+  "BRE": {
+    "name": "Bretagne",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-BRE",
+    "iso-name": "Bretagne",
+    "iso-type": "Metropolitan region"
+  },
+  "CVL": {
+    "name": "Centre-Val de Loire",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-CVL",
+    "iso-name": "Centre-Val de Loire",
+    "iso-type": "Metropolitan region"
+  },
+  "GES": {
+    "name": "Grand-Est",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-GES",
+    "iso-name": "Grand-Est",
+    "iso-type": "Metropolitan region"
+  },
+  "HDF": {
+    "name": "Hauts-de-France",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-HDF",
+    "iso-name": "Hauts-de-France",
+    "iso-type": "Metropolitan region"
+  },
+  "IDF": {
+    "name": "Île-de-France",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-IDF",
+    "iso-name": "Île-de-France",
+    "iso-type": "Metropolitan region"
+  },
+  "NAQ": {
+    "name": "Nouvelle-Aquitaine",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-NAQ",
+    "iso-name": "Nouvelle-Aquitaine",
+    "iso-type": "Metropolitan region"
+  },
+  "NOR": {
+    "name": "Normandie",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-NOR",
+    "iso-name": "Normandie",
+    "iso-type": "Metropolitan region"
+  },
+  "OCC": {
+    "name": "Occitanie",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-OCC",
+    "iso-name": "Occitanie",
+    "iso-type": "Metropolitan region"
+  },
+  "PAC": {
+    "name": "Provence-Alpes-Côte-d’Azur",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-PAC",
+    "iso-name": "Provence-Alpes-Côte-d’Azur",
+    "iso-type": "Metropolitan region"
+  },
+  "PDL": {
+    "name": "Pays-de-la-Loire",
+    "type": "Metropolitan region",
+    "iso3166-2": "FR-PDL",
+    "iso-name": "Pays-de-la-Loire",
+    "iso-type": "Metropolitan region"
+  }
+}

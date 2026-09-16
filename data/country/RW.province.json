@@ -1,17 +1,30 @@
 {
-  "EAS": {
-    "name": "Eastern"
+  "02": {
+    "name": "Eastern",
+    "type": "Province",
+    "iso3166-2": "RW-02",
+    "iso-name": "Eastern",
+    "iso-type": "Province"
   },
-  "KIG": {
-    "name": "Kigali"
+  "03": {
+    "name": "Northern",
+    "type": "Province",
+    "iso3166-2": "RW-03",
+    "iso-name": "Northern",
+    "iso-type": "Province"
   },
-  "NOR": {
-    "name": "Northern"
+  "04": {
+    "name": "Western",
+    "type": "Province",
+    "iso3166-2": "RW-04",
+    "iso-name": "Western",
+    "iso-type": "Province"
   },
-  "SOU": {
-    "name": "Southern"
-  },
-  "WES": {
-    "name": "Western"
+  "05": {
+    "name": "Southern",
+    "type": "Province",
+    "iso3166-2": "RW-05",
+    "iso-name": "Southern",
+    "iso-type": "Province"
   }
 }

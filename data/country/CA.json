@@ -116,13 +116,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "province_territory",
-        "label": "Province / Territory",
+        "key": "province",
+        "label": "Province",
         "standard": "ISO 3166-2",
-        "file": "CA.province_territory.json",
+        "file": "CA.province.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "territory",
+        "label": "Territory",
+        "standard": "ISO 3166-2",
+        "file": "CA.territory.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

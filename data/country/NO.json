@@ -101,13 +101,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "county_arctic_region",
-        "label": "County / Arctic Region",
+        "key": "arctic_region",
+        "label": "Arctic Region",
         "standard": "ISO 3166-2",
-        "file": "NO.county_arctic_region.json",
+        "file": "NO.arctic_region.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "file": "NO.county.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

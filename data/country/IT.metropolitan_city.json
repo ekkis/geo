@@ -1,0 +1,114 @@
+{
+  "BA": {
+    "name": "Bari",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-BA",
+    "iso-name": "Bari",
+    "iso-type": "Metropolitan city",
+    "parent-code": "75"
+  },
+  "BO": {
+    "name": "Bologna",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-BO",
+    "iso-name": "Bologna",
+    "iso-type": "Metropolitan city",
+    "parent-code": "45"
+  },
+  "CA": {
+    "name": "Cagliari",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-CA",
+    "iso-name": "Cagliari",
+    "iso-type": "Metropolitan city",
+    "parent-code": "88"
+  },
+  "CT": {
+    "name": "Catania",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-CT",
+    "iso-name": "Catania",
+    "iso-type": "Metropolitan city",
+    "parent-code": "82"
+  },
+  "FI": {
+    "name": "Firenze",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-FI",
+    "iso-name": "Firenze",
+    "iso-type": "Metropolitan city",
+    "parent-code": "52"
+  },
+  "GE": {
+    "name": "Genova",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-GE",
+    "iso-name": "Genova",
+    "iso-type": "Metropolitan city",
+    "parent-code": "42"
+  },
+  "ME": {
+    "name": "Messina",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-ME",
+    "iso-name": "Messina",
+    "iso-type": "Metropolitan city",
+    "parent-code": "82"
+  },
+  "MI": {
+    "name": "Milano",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-MI",
+    "iso-name": "Milano",
+    "iso-type": "Metropolitan city",
+    "parent-code": "25"
+  },
+  "NA": {
+    "name": "Napoli",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-NA",
+    "iso-name": "Napoli",
+    "iso-type": "Metropolitan city",
+    "parent-code": "72"
+  },
+  "PA": {
+    "name": "Palermo",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-PA",
+    "iso-name": "Palermo",
+    "iso-type": "Metropolitan city",
+    "parent-code": "82"
+  },
+  "RC": {
+    "name": "Reggio Calabria",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-RC",
+    "iso-name": "Reggio Calabria",
+    "iso-type": "Metropolitan city",
+    "parent-code": "78"
+  },
+  "RM": {
+    "name": "Roma",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-RM",
+    "iso-name": "Roma",
+    "iso-type": "Metropolitan city",
+    "parent-code": "62"
+  },
+  "TO": {
+    "name": "Torino",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-TO",
+    "iso-name": "Torino",
+    "iso-type": "Metropolitan city",
+    "parent-code": "21"
+  },
+  "VE": {
+    "name": "Venezia",
+    "type": "Metropolitan city",
+    "iso3166-2": "IT-VE",
+    "iso-name": "Venezia",
+    "iso-type": "Metropolitan city",
+    "parent-code": "34"
+  }
+}

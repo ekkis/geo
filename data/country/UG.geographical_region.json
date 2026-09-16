@@ -1,0 +1,30 @@
+{
+  "C": {
+    "name": "Central",
+    "type": "Geographical region",
+    "iso3166-2": "UG-C",
+    "iso-name": "Central",
+    "iso-type": "Geographical region"
+  },
+  "E": {
+    "name": "Eastern",
+    "type": "Geographical region",
+    "iso3166-2": "UG-E",
+    "iso-name": "Eastern",
+    "iso-type": "Geographical region"
+  },
+  "N": {
+    "name": "Northern",
+    "type": "Geographical region",
+    "iso3166-2": "UG-N",
+    "iso-name": "Northern",
+    "iso-type": "Geographical region"
+  },
+  "W": {
+    "name": "Western",
+    "type": "Geographical region",
+    "iso3166-2": "UG-W",
+    "iso-name": "Western",
+    "iso-type": "Geographical region"
+  }
+}

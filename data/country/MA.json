@@ -105,13 +105,30 @@
     },
     "division-hierarchy": [
       {
-        "key": "region_prefecture_province",
-        "label": "Region / Prefecture / Province",
+        "key": "prefecture",
+        "label": "Prefecture",
         "standard": "ISO 3166-2",
-        "file": "MA.region_prefecture_province.json",
+        "file": "MA.prefecture.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "MA.province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "file": "MA.region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

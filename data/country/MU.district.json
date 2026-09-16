@@ -1,38 +1,65 @@
 {
-  "AG": {
-    "name": "Agalega Islands"
-  },
   "BL": {
-    "name": "Black River"
+    "name": "Black River",
+    "type": "District",
+    "iso3166-2": "MU-BL",
+    "iso-name": "Black River",
+    "iso-type": "District"
   },
   "FL": {
-    "name": "Flacq"
+    "name": "Flacq",
+    "type": "District",
+    "iso3166-2": "MU-FL",
+    "iso-name": "Flacq",
+    "iso-type": "District"
   },
   "GP": {
-    "name": "Grand Port"
+    "name": "Grand Port",
+    "type": "District",
+    "iso3166-2": "MU-GP",
+    "iso-name": "Grand Port",
+    "iso-type": "District"
   },
   "MO": {
-    "name": "Moka"
+    "name": "Moka",
+    "type": "District",
+    "iso3166-2": "MU-MO",
+    "iso-name": "Moka",
+    "iso-type": "District"
   },
   "PA": {
-    "name": "Pamplemousses"
-  },
-  "PW": {
-    "name": "Plaines Wilhems"
+    "name": "Pamplemousses",
+    "type": "District",
+    "iso3166-2": "MU-PA",
+    "iso-name": "Pamplemousses",
+    "iso-type": "District"
   },
   "PL": {
-    "name": "Port Louis"
+    "name": "Port Louis",
+    "type": "District",
+    "iso3166-2": "MU-PL",
+    "iso-name": "Port Louis",
+    "iso-type": "District"
+  },
+  "PW": {
+    "name": "Plaines Wilhems",
+    "type": "District",
+    "iso3166-2": "MU-PW",
+    "iso-name": "Plaines Wilhems",
+    "iso-type": "District"
   },
   "RR": {
-    "name": "Rivière du Rempart"
-  },
-  "RO": {
-    "name": "Rodrigues Island"
-  },
-  "CC": {
-    "name": "Saint Brandon Islands"
+    "name": "Rivière du Rempart",
+    "type": "District",
+    "iso3166-2": "MU-RR",
+    "iso-name": "Rivière du Rempart",
+    "iso-type": "District"
   },
   "SA": {
-    "name": "Savanne"
+    "name": "Savanne",
+    "type": "District",
+    "iso3166-2": "MU-SA",
+    "iso-name": "Savanne",
+    "iso-type": "District"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "EM": {
+    "name": "Emberá",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-EM",
+    "iso-name": "Emberá",
+    "iso-type": "Indigenous region"
+  },
+  "KY": {
+    "name": "Guna Yala",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-KY",
+    "iso-name": "Guna Yala",
+    "iso-type": "Indigenous region"
+  },
+  "NB": {
+    "name": "Ngäbe-Buglé",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-NB",
+    "iso-name": "Ngäbe-Buglé",
+    "iso-type": "Indigenous region"
+  },
+  "NT": {
+    "name": "Naso Tjër Di",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-NT",
+    "iso-name": "Naso Tjër Di",
+    "iso-type": "Indigenous region"
+  }
+}

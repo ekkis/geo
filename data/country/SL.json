@@ -83,13 +83,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "province_area",
-        "label": "Province / Area",
+        "key": "area",
+        "label": "Area",
         "standard": "ISO 3166-2",
-        "file": "SL.province_area.json",
+        "file": "SL.area.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "SL.province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

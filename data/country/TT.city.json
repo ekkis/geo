@@ -1,0 +1,16 @@
+{
+  "POS": {
+    "name": "Port of Spain",
+    "type": "City",
+    "iso3166-2": "TT-POS",
+    "iso-name": "Port of Spain",
+    "iso-type": "City"
+  },
+  "SFO": {
+    "name": "San Fernando",
+    "type": "City",
+    "iso3166-2": "TT-SFO",
+    "iso-name": "San Fernando",
+    "iso-type": "City"
+  }
+}

@@ -112,13 +112,44 @@
     },
     "division-hierarchy": [
       {
-        "key": "subdivision",
-        "label": "Special City / Metropolitan City / Province / Special Self Governing Province / Special Self Governing City",
+        "key": "metropolitan_city",
+        "label": "Metropolitan City",
         "standard": "ISO 3166-2",
-        "file": "KR.subdivision.json",
+        "file": "KR.metropolitan_city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "KR.province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_city",
+        "label": "Special City",
+        "standard": "ISO 3166-2",
+        "file": "KR.special_city.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_self_governing_city",
+        "label": "Special Self Governing City",
+        "standard": "ISO 3166-2",
+        "file": "KR.special_self_governing_city.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_self_governing_province",
+        "label": "Special Self Governing Province",
+        "standard": "ISO 3166-2",
+        "file": "KR.special_self_governing_province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

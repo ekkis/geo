@@ -1,0 +1,642 @@
+{
+  "AL": {
+    "name": "Alessandria",
+    "type": "Province",
+    "iso3166-2": "IT-AL",
+    "iso-name": "Alessandria",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "AN": {
+    "name": "Ancona",
+    "type": "Province",
+    "iso3166-2": "IT-AN",
+    "iso-name": "Ancona",
+    "iso-type": "Province",
+    "parent-code": "57"
+  },
+  "AP": {
+    "name": "Ascoli Piceno",
+    "type": "Province",
+    "iso3166-2": "IT-AP",
+    "iso-name": "Ascoli Piceno",
+    "iso-type": "Province",
+    "parent-code": "57"
+  },
+  "AQ": {
+    "name": "L'Aquila",
+    "type": "Province",
+    "iso3166-2": "IT-AQ",
+    "iso-name": "L'Aquila",
+    "iso-type": "Province",
+    "parent-code": "65"
+  },
+  "AR": {
+    "name": "Arezzo",
+    "type": "Province",
+    "iso3166-2": "IT-AR",
+    "iso-name": "Arezzo",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "AT": {
+    "name": "Asti",
+    "type": "Province",
+    "iso3166-2": "IT-AT",
+    "iso-name": "Asti",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "AV": {
+    "name": "Avellino",
+    "type": "Province",
+    "iso3166-2": "IT-AV",
+    "iso-name": "Avellino",
+    "iso-type": "Province",
+    "parent-code": "72"
+  },
+  "BG": {
+    "name": "Bergamo",
+    "type": "Province",
+    "iso3166-2": "IT-BG",
+    "iso-name": "Bergamo",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "BI": {
+    "name": "Biella",
+    "type": "Province",
+    "iso3166-2": "IT-BI",
+    "iso-name": "Biella",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "BL": {
+    "name": "Belluno",
+    "type": "Province",
+    "iso3166-2": "IT-BL",
+    "iso-name": "Belluno",
+    "iso-type": "Province",
+    "parent-code": "34"
+  },
+  "BN": {
+    "name": "Benevento",
+    "type": "Province",
+    "iso3166-2": "IT-BN",
+    "iso-name": "Benevento",
+    "iso-type": "Province",
+    "parent-code": "72"
+  },
+  "BR": {
+    "name": "Brindisi",
+    "type": "Province",
+    "iso3166-2": "IT-BR",
+    "iso-name": "Brindisi",
+    "iso-type": "Province",
+    "parent-code": "75"
+  },
+  "BS": {
+    "name": "Brescia",
+    "type": "Province",
+    "iso3166-2": "IT-BS",
+    "iso-name": "Brescia",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "BT": {
+    "name": "Barletta-Andria-Trani",
+    "type": "Province",
+    "iso3166-2": "IT-BT",
+    "iso-name": "Barletta-Andria-Trani",
+    "iso-type": "Province",
+    "parent-code": "75"
+  },
+  "CB": {
+    "name": "Campobasso",
+    "type": "Province",
+    "iso3166-2": "IT-CB",
+    "iso-name": "Campobasso",
+    "iso-type": "Province",
+    "parent-code": "67"
+  },
+  "CE": {
+    "name": "Caserta",
+    "type": "Province",
+    "iso3166-2": "IT-CE",
+    "iso-name": "Caserta",
+    "iso-type": "Province",
+    "parent-code": "72"
+  },
+  "CH": {
+    "name": "Chieti",
+    "type": "Province",
+    "iso3166-2": "IT-CH",
+    "iso-name": "Chieti",
+    "iso-type": "Province",
+    "parent-code": "65"
+  },
+  "CN": {
+    "name": "Cuneo",
+    "type": "Province",
+    "iso3166-2": "IT-CN",
+    "iso-name": "Cuneo",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "CO": {
+    "name": "Como",
+    "type": "Province",
+    "iso3166-2": "IT-CO",
+    "iso-name": "Como",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "CR": {
+    "name": "Cremona",
+    "type": "Province",
+    "iso3166-2": "IT-CR",
+    "iso-name": "Cremona",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "CS": {
+    "name": "Cosenza",
+    "type": "Province",
+    "iso3166-2": "IT-CS",
+    "iso-name": "Cosenza",
+    "iso-type": "Province",
+    "parent-code": "78"
+  },
+  "CZ": {
+    "name": "Catanzaro",
+    "type": "Province",
+    "iso3166-2": "IT-CZ",
+    "iso-name": "Catanzaro",
+    "iso-type": "Province",
+    "parent-code": "78"
+  },
+  "FC": {
+    "name": "Forlì-Cesena",
+    "type": "Province",
+    "iso3166-2": "IT-FC",
+    "iso-name": "Forlì-Cesena",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "FE": {
+    "name": "Ferrara",
+    "type": "Province",
+    "iso3166-2": "IT-FE",
+    "iso-name": "Ferrara",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "FG": {
+    "name": "Foggia",
+    "type": "Province",
+    "iso3166-2": "IT-FG",
+    "iso-name": "Foggia",
+    "iso-type": "Province",
+    "parent-code": "75"
+  },
+  "FM": {
+    "name": "Fermo",
+    "type": "Province",
+    "iso3166-2": "IT-FM",
+    "iso-name": "Fermo",
+    "iso-type": "Province",
+    "parent-code": "57"
+  },
+  "FR": {
+    "name": "Frosinone",
+    "type": "Province",
+    "iso3166-2": "IT-FR",
+    "iso-name": "Frosinone",
+    "iso-type": "Province",
+    "parent-code": "62"
+  },
+  "GR": {
+    "name": "Grosseto",
+    "type": "Province",
+    "iso3166-2": "IT-GR",
+    "iso-name": "Grosseto",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "IM": {
+    "name": "Imperia",
+    "type": "Province",
+    "iso3166-2": "IT-IM",
+    "iso-name": "Imperia",
+    "iso-type": "Province",
+    "parent-code": "42"
+  },
+  "IS": {
+    "name": "Isernia",
+    "type": "Province",
+    "iso3166-2": "IT-IS",
+    "iso-name": "Isernia",
+    "iso-type": "Province",
+    "parent-code": "67"
+  },
+  "KR": {
+    "name": "Crotone",
+    "type": "Province",
+    "iso3166-2": "IT-KR",
+    "iso-name": "Crotone",
+    "iso-type": "Province",
+    "parent-code": "78"
+  },
+  "LC": {
+    "name": "Lecco",
+    "type": "Province",
+    "iso3166-2": "IT-LC",
+    "iso-name": "Lecco",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "LE": {
+    "name": "Lecce",
+    "type": "Province",
+    "iso3166-2": "IT-LE",
+    "iso-name": "Lecce",
+    "iso-type": "Province",
+    "parent-code": "75"
+  },
+  "LI": {
+    "name": "Livorno",
+    "type": "Province",
+    "iso3166-2": "IT-LI",
+    "iso-name": "Livorno",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "LO": {
+    "name": "Lodi",
+    "type": "Province",
+    "iso3166-2": "IT-LO",
+    "iso-name": "Lodi",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "LT": {
+    "name": "Latina",
+    "type": "Province",
+    "iso3166-2": "IT-LT",
+    "iso-name": "Latina",
+    "iso-type": "Province",
+    "parent-code": "62"
+  },
+  "LU": {
+    "name": "Lucca",
+    "type": "Province",
+    "iso3166-2": "IT-LU",
+    "iso-name": "Lucca",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "MB": {
+    "name": "Monza e Brianza",
+    "type": "Province",
+    "iso3166-2": "IT-MB",
+    "iso-name": "Monza e Brianza",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "MC": {
+    "name": "Macerata",
+    "type": "Province",
+    "iso3166-2": "IT-MC",
+    "iso-name": "Macerata",
+    "iso-type": "Province",
+    "parent-code": "57"
+  },
+  "MN": {
+    "name": "Mantova",
+    "type": "Province",
+    "iso3166-2": "IT-MN",
+    "iso-name": "Mantova",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "MO": {
+    "name": "Modena",
+    "type": "Province",
+    "iso3166-2": "IT-MO",
+    "iso-name": "Modena",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "MS": {
+    "name": "Massa-Carrara",
+    "type": "Province",
+    "iso3166-2": "IT-MS",
+    "iso-name": "Massa-Carrara",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "MT": {
+    "name": "Matera",
+    "type": "Province",
+    "iso3166-2": "IT-MT",
+    "iso-name": "Matera",
+    "iso-type": "Province",
+    "parent-code": "77"
+  },
+  "NO": {
+    "name": "Novara",
+    "type": "Province",
+    "iso3166-2": "IT-NO",
+    "iso-name": "Novara",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "NU": {
+    "name": "Nuoro",
+    "type": "Province",
+    "iso3166-2": "IT-NU",
+    "iso-name": "Nuoro",
+    "iso-type": "Province",
+    "parent-code": "88"
+  },
+  "OR": {
+    "name": "Oristano",
+    "type": "Province",
+    "iso3166-2": "IT-OR",
+    "iso-name": "Oristano",
+    "iso-type": "Province",
+    "parent-code": "88"
+  },
+  "PC": {
+    "name": "Piacenza",
+    "type": "Province",
+    "iso3166-2": "IT-PC",
+    "iso-name": "Piacenza",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "PD": {
+    "name": "Padova",
+    "type": "Province",
+    "iso3166-2": "IT-PD",
+    "iso-name": "Padova",
+    "iso-type": "Province",
+    "parent-code": "34"
+  },
+  "PE": {
+    "name": "Pescara",
+    "type": "Province",
+    "iso3166-2": "IT-PE",
+    "iso-name": "Pescara",
+    "iso-type": "Province",
+    "parent-code": "65"
+  },
+  "PG": {
+    "name": "Perugia",
+    "type": "Province",
+    "iso3166-2": "IT-PG",
+    "iso-name": "Perugia",
+    "iso-type": "Province",
+    "parent-code": "55"
+  },
+  "PI": {
+    "name": "Pisa",
+    "type": "Province",
+    "iso3166-2": "IT-PI",
+    "iso-name": "Pisa",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "PO": {
+    "name": "Prato",
+    "type": "Province",
+    "iso3166-2": "IT-PO",
+    "iso-name": "Prato",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "PR": {
+    "name": "Parma",
+    "type": "Province",
+    "iso3166-2": "IT-PR",
+    "iso-name": "Parma",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "PT": {
+    "name": "Pistoia",
+    "type": "Province",
+    "iso3166-2": "IT-PT",
+    "iso-name": "Pistoia",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "PU": {
+    "name": "Pesaro e Urbino",
+    "type": "Province",
+    "iso3166-2": "IT-PU",
+    "iso-name": "Pesaro e Urbino",
+    "iso-type": "Province",
+    "parent-code": "57"
+  },
+  "PV": {
+    "name": "Pavia",
+    "type": "Province",
+    "iso3166-2": "IT-PV",
+    "iso-name": "Pavia",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "PZ": {
+    "name": "Potenza",
+    "type": "Province",
+    "iso3166-2": "IT-PZ",
+    "iso-name": "Potenza",
+    "iso-type": "Province",
+    "parent-code": "77"
+  },
+  "RA": {
+    "name": "Ravenna",
+    "type": "Province",
+    "iso3166-2": "IT-RA",
+    "iso-name": "Ravenna",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "RE": {
+    "name": "Reggio Emilia",
+    "type": "Province",
+    "iso3166-2": "IT-RE",
+    "iso-name": "Reggio Emilia",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "RI": {
+    "name": "Rieti",
+    "type": "Province",
+    "iso3166-2": "IT-RI",
+    "iso-name": "Rieti",
+    "iso-type": "Province",
+    "parent-code": "62"
+  },
+  "RN": {
+    "name": "Rimini",
+    "type": "Province",
+    "iso3166-2": "IT-RN",
+    "iso-name": "Rimini",
+    "iso-type": "Province",
+    "parent-code": "45"
+  },
+  "RO": {
+    "name": "Rovigo",
+    "type": "Province",
+    "iso3166-2": "IT-RO",
+    "iso-name": "Rovigo",
+    "iso-type": "Province",
+    "parent-code": "34"
+  },
+  "SA": {
+    "name": "Salerno",
+    "type": "Province",
+    "iso3166-2": "IT-SA",
+    "iso-name": "Salerno",
+    "iso-type": "Province",
+    "parent-code": "72"
+  },
+  "SI": {
+    "name": "Siena",
+    "type": "Province",
+    "iso3166-2": "IT-SI",
+    "iso-name": "Siena",
+    "iso-type": "Province",
+    "parent-code": "52"
+  },
+  "SO": {
+    "name": "Sondrio",
+    "type": "Province",
+    "iso3166-2": "IT-SO",
+    "iso-name": "Sondrio",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "SP": {
+    "name": "La Spezia",
+    "type": "Province",
+    "iso3166-2": "IT-SP",
+    "iso-name": "La Spezia",
+    "iso-type": "Province",
+    "parent-code": "42"
+  },
+  "SS": {
+    "name": "Sassari",
+    "type": "Province",
+    "iso3166-2": "IT-SS",
+    "iso-name": "Sassari",
+    "iso-type": "Province",
+    "parent-code": "88"
+  },
+  "SU": {
+    "name": "Sud Sardegna",
+    "type": "Province",
+    "iso3166-2": "IT-SU",
+    "iso-name": "Sud Sardegna",
+    "iso-type": "Province",
+    "parent-code": "88"
+  },
+  "SV": {
+    "name": "Savona",
+    "type": "Province",
+    "iso3166-2": "IT-SV",
+    "iso-name": "Savona",
+    "iso-type": "Province",
+    "parent-code": "42"
+  },
+  "TA": {
+    "name": "Taranto",
+    "type": "Province",
+    "iso3166-2": "IT-TA",
+    "iso-name": "Taranto",
+    "iso-type": "Province",
+    "parent-code": "75"
+  },
+  "TE": {
+    "name": "Teramo",
+    "type": "Province",
+    "iso3166-2": "IT-TE",
+    "iso-name": "Teramo",
+    "iso-type": "Province",
+    "parent-code": "65"
+  },
+  "TR": {
+    "name": "Terni",
+    "type": "Province",
+    "iso3166-2": "IT-TR",
+    "iso-name": "Terni",
+    "iso-type": "Province",
+    "parent-code": "55"
+  },
+  "TV": {
+    "name": "Treviso",
+    "type": "Province",
+    "iso3166-2": "IT-TV",
+    "iso-name": "Treviso",
+    "iso-type": "Province",
+    "parent-code": "34"
+  },
+  "VA": {
+    "name": "Varese",
+    "type": "Province",
+    "iso3166-2": "IT-VA",
+    "iso-name": "Varese",
+    "iso-type": "Province",
+    "parent-code": "25"
+  },
+  "VB": {
+    "name": "Verbano-Cusio-Ossola",
+    "type": "Province",
+    "iso3166-2": "IT-VB",
+    "iso-name": "Verbano-Cusio-Ossola",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "VC": {
+    "name": "Vercelli",
+    "type": "Province",
+    "iso3166-2": "IT-VC",
+    "iso-name": "Vercelli",
+    "iso-type": "Province",
+    "parent-code": "21"
+  },
+  "VI": {
+    "name": "Vicenza",
+    "type": "Province",
+    "iso3166-2": "IT-VI",
+    "iso-name": "Vicenza",
+    "iso-type": "Province",
+    "parent-code": "34"
+  },
+  "VR": {
+    "name": "Verona",
+    "type": "Province",
+    "iso3166-2": "IT-VR",
+    "iso-name": "Verona",
+    "iso-type": "Province",
+    "parent-code": "34"
+  },
+  "VT": {
+    "name": "Viterbo",
+    "type": "Province",
+    "iso3166-2": "IT-VT",
+    "iso-name": "Viterbo",
+    "iso-type": "Province",
+    "parent-code": "62"
+  },
+  "VV": {
+    "name": "Vibo Valentia",
+    "type": "Province",
+    "iso3166-2": "IT-VV",
+    "iso-name": "Vibo Valentia",
+    "iso-type": "Province",
+    "parent-code": "78"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "GX": {
+    "name": "Guangxi Zhuangzu Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-GX",
+    "iso-name": "Guangxi Zhuangzu Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "NM": {
+    "name": "Nei Mongol Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-NM",
+    "iso-name": "Nei Mongol Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "NX": {
+    "name": "Ningxia Huizu Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-NX",
+    "iso-name": "Ningxia Huizu Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "XJ": {
+    "name": "Xinjiang Uygur Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-XJ",
+    "iso-name": "Xinjiang Uygur Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "XZ": {
+    "name": "Xizang Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-XZ",
+    "iso-name": "Xizang Zizhiqu",
+    "iso-type": "Autonomous region"
+  }
+}

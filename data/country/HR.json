@@ -109,13 +109,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "county_city",
-        "label": "County / City",
+        "key": "city",
+        "label": "City",
         "standard": "ISO 3166-2",
-        "file": "HR.county_city.json",
+        "file": "HR.city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "file": "HR.county.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

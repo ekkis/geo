@@ -87,13 +87,28 @@
     },
     "division-hierarchy": [
       {
-        "key": "district_city_town",
-        "label": "District / City / Town",
+        "key": "city",
+        "label": "City",
         "standard": "ISO 3166-2",
-        "file": "BW.district_city_town.json",
+        "file": "BW.city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "district",
+        "label": "District",
+        "standard": "ISO 3166-2",
+        "file": "BW.district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "town",
+        "label": "Town",
+        "standard": "ISO 3166-2",
+        "file": "BW.town.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

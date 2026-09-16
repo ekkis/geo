@@ -121,13 +121,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "state_federal_territory",
-        "label": "State / Federal Territory",
+        "key": "federal_territory",
+        "label": "Federal Territory",
         "standard": "ISO 3166-2",
-        "file": "MY.state_federal_territory.json",
+        "file": "MY.federal_territory.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "file": "MY.state.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

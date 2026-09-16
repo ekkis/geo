@@ -1,0 +1,122 @@
+{
+  "184": {
+    "name": "Haapsalu",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-184",
+    "iso-name": "Haapsalu",
+    "iso-type": "Urban municipality",
+    "parent-code": "56"
+  },
+  "296": {
+    "name": "Keila",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-296",
+    "iso-name": "Keila",
+    "iso-type": "Urban municipality",
+    "parent-code": "37"
+  },
+  "321": {
+    "name": "Kohtla-Järve",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-321",
+    "iso-name": "Kohtla-Järve",
+    "iso-type": "Urban municipality",
+    "parent-code": "45"
+  },
+  "424": {
+    "name": "Loksa",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-424",
+    "iso-name": "Loksa",
+    "iso-type": "Urban municipality",
+    "parent-code": "37"
+  },
+  "446": {
+    "name": "Maardu",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-446",
+    "iso-name": "Maardu",
+    "iso-type": "Urban municipality",
+    "parent-code": "37"
+  },
+  "511": {
+    "name": "Narva",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-511",
+    "iso-name": "Narva",
+    "iso-type": "Urban municipality",
+    "parent-code": "45"
+  },
+  "514": {
+    "name": "Narva-Jõesuu",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-514",
+    "iso-name": "Narva-Jõesuu",
+    "iso-type": "Urban municipality",
+    "parent-code": "45"
+  },
+  "567": {
+    "name": "Paide",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-567",
+    "iso-name": "Paide",
+    "iso-type": "Urban municipality",
+    "parent-code": "52"
+  },
+  "624": {
+    "name": "Pärnu",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-624",
+    "iso-name": "Pärnu",
+    "iso-type": "Urban municipality",
+    "parent-code": "68"
+  },
+  "663": {
+    "name": "Rakvere",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-663",
+    "iso-name": "Rakvere",
+    "iso-type": "Urban municipality",
+    "parent-code": "60"
+  },
+  "735": {
+    "name": "Sillamäe",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-735",
+    "iso-name": "Sillamäe",
+    "iso-type": "Urban municipality",
+    "parent-code": "45"
+  },
+  "784": {
+    "name": "Tallinn",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-784",
+    "iso-name": "Tallinn",
+    "iso-type": "Urban municipality",
+    "parent-code": "37"
+  },
+  "793": {
+    "name": "Tartu",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-793",
+    "iso-name": "Tartu",
+    "iso-type": "Urban municipality",
+    "parent-code": "79"
+  },
+  "897": {
+    "name": "Viljandi",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-897",
+    "iso-name": "Viljandi",
+    "iso-type": "Urban municipality",
+    "parent-code": "84"
+  },
+  "919": {
+    "name": "Võru",
+    "type": "Urban municipality",
+    "iso3166-2": "EE-919",
+    "iso-name": "Võru",
+    "iso-type": "Urban municipality",
+    "parent-code": "87"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "NIT": {
+    "name": "Niutao",
+    "type": "Island council",
+    "iso3166-2": "TV-NIT",
+    "iso-name": "Niutao",
+    "iso-type": "Island council"
+  },
+  "NKF": {
+    "name": "Nukufetau",
+    "type": "Island council",
+    "iso3166-2": "TV-NKF",
+    "iso-name": "Nukufetau",
+    "iso-type": "Island council"
+  },
+  "NKL": {
+    "name": "Nukulaelae",
+    "type": "Island council",
+    "iso3166-2": "TV-NKL",
+    "iso-name": "Nukulaelae",
+    "iso-type": "Island council"
+  },
+  "NMA": {
+    "name": "Nanumea",
+    "type": "Island council",
+    "iso3166-2": "TV-NMA",
+    "iso-name": "Nanumea",
+    "iso-type": "Island council"
+  },
+  "NMG": {
+    "name": "Nanumaga",
+    "type": "Island council",
+    "iso3166-2": "TV-NMG",
+    "iso-name": "Nanumaga",
+    "iso-type": "Island council"
+  },
+  "NUI": {
+    "name": "Nui",
+    "type": "Island council",
+    "iso3166-2": "TV-NUI",
+    "iso-name": "Nui",
+    "iso-type": "Island council"
+  },
+  "VAI": {
+    "name": "Vaitupu",
+    "type": "Island council",
+    "iso3166-2": "TV-VAI",
+    "iso-name": "Vaitupu",
+    "iso-type": "Island council"
+  }
+}

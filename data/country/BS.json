@@ -83,13 +83,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "district_island",
-        "label": "District / Island",
+        "key": "district",
+        "label": "District",
         "standard": "ISO 3166-2",
-        "file": "BS.district_island.json",
+        "file": "BS.district.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "island",
+        "label": "Island",
+        "standard": "ISO 3166-2",
+        "file": "BS.island.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

@@ -1,0 +1,254 @@
+{
+  "AB": {
+    "name": "Abia",
+    "type": "State",
+    "iso3166-2": "NG-AB",
+    "iso-name": "Abia",
+    "iso-type": "State"
+  },
+  "AD": {
+    "name": "Adamawa",
+    "type": "State",
+    "iso3166-2": "NG-AD",
+    "iso-name": "Adamawa",
+    "iso-type": "State"
+  },
+  "AK": {
+    "name": "Akwa Ibom",
+    "type": "State",
+    "iso3166-2": "NG-AK",
+    "iso-name": "Akwa Ibom",
+    "iso-type": "State"
+  },
+  "AN": {
+    "name": "Anambra",
+    "type": "State",
+    "iso3166-2": "NG-AN",
+    "iso-name": "Anambra",
+    "iso-type": "State"
+  },
+  "BA": {
+    "name": "Bauchi",
+    "type": "State",
+    "iso3166-2": "NG-BA",
+    "iso-name": "Bauchi",
+    "iso-type": "State"
+  },
+  "BE": {
+    "name": "Benue",
+    "type": "State",
+    "iso3166-2": "NG-BE",
+    "iso-name": "Benue",
+    "iso-type": "State"
+  },
+  "BO": {
+    "name": "Borno",
+    "type": "State",
+    "iso3166-2": "NG-BO",
+    "iso-name": "Borno",
+    "iso-type": "State"
+  },
+  "BY": {
+    "name": "Bayelsa",
+    "type": "State",
+    "iso3166-2": "NG-BY",
+    "iso-name": "Bayelsa",
+    "iso-type": "State"
+  },
+  "CR": {
+    "name": "Cross River",
+    "type": "State",
+    "iso3166-2": "NG-CR",
+    "iso-name": "Cross River",
+    "iso-type": "State"
+  },
+  "DE": {
+    "name": "Delta",
+    "type": "State",
+    "iso3166-2": "NG-DE",
+    "iso-name": "Delta",
+    "iso-type": "State"
+  },
+  "EB": {
+    "name": "Ebonyi",
+    "type": "State",
+    "iso3166-2": "NG-EB",
+    "iso-name": "Ebonyi",
+    "iso-type": "State"
+  },
+  "ED": {
+    "name": "Edo",
+    "type": "State",
+    "iso3166-2": "NG-ED",
+    "iso-name": "Edo",
+    "iso-type": "State"
+  },
+  "EK": {
+    "name": "Ekiti",
+    "type": "State",
+    "iso3166-2": "NG-EK",
+    "iso-name": "Ekiti",
+    "iso-type": "State"
+  },
+  "EN": {
+    "name": "Enugu",
+    "type": "State",
+    "iso3166-2": "NG-EN",
+    "iso-name": "Enugu",
+    "iso-type": "State"
+  },
+  "GO": {
+    "name": "Gombe",
+    "type": "State",
+    "iso3166-2": "NG-GO",
+    "iso-name": "Gombe",
+    "iso-type": "State"
+  },
+  "IM": {
+    "name": "Imo",
+    "type": "State",
+    "iso3166-2": "NG-IM",
+    "iso-name": "Imo",
+    "iso-type": "State"
+  },
+  "JI": {
+    "name": "Jigawa",
+    "type": "State",
+    "iso3166-2": "NG-JI",
+    "iso-name": "Jigawa",
+    "iso-type": "State"
+  },
+  "KD": {
+    "name": "Kaduna",
+    "type": "State",
+    "iso3166-2": "NG-KD",
+    "iso-name": "Kaduna",
+    "iso-type": "State"
+  },
+  "KE": {
+    "name": "Kebbi",
+    "type": "State",
+    "iso3166-2": "NG-KE",
+    "iso-name": "Kebbi",
+    "iso-type": "State"
+  },
+  "KN": {
+    "name": "Kano",
+    "type": "State",
+    "iso3166-2": "NG-KN",
+    "iso-name": "Kano",
+    "iso-type": "State"
+  },
+  "KO": {
+    "name": "Kogi",
+    "type": "State",
+    "iso3166-2": "NG-KO",
+    "iso-name": "Kogi",
+    "iso-type": "State"
+  },
+  "KT": {
+    "name": "Katsina",
+    "type": "State",
+    "iso3166-2": "NG-KT",
+    "iso-name": "Katsina",
+    "iso-type": "State"
+  },
+  "KW": {
+    "name": "Kwara",
+    "type": "State",
+    "iso3166-2": "NG-KW",
+    "iso-name": "Kwara",
+    "iso-type": "State"
+  },
+  "LA": {
+    "name": "Lagos",
+    "type": "State",
+    "iso3166-2": "NG-LA",
+    "iso-name": "Lagos",
+    "iso-type": "State"
+  },
+  "NA": {
+    "name": "Nasarawa",
+    "type": "State",
+    "iso3166-2": "NG-NA",
+    "iso-name": "Nasarawa",
+    "iso-type": "State"
+  },
+  "NI": {
+    "name": "Niger",
+    "type": "State",
+    "iso3166-2": "NG-NI",
+    "iso-name": "Niger",
+    "iso-type": "State"
+  },
+  "OG": {
+    "name": "Ogun",
+    "type": "State",
+    "iso3166-2": "NG-OG",
+    "iso-name": "Ogun",
+    "iso-type": "State"
+  },
+  "ON": {
+    "name": "Ondo",
+    "type": "State",
+    "iso3166-2": "NG-ON",
+    "iso-name": "Ondo",
+    "iso-type": "State"
+  },
+  "OS": {
+    "name": "Osun",
+    "type": "State",
+    "iso3166-2": "NG-OS",
+    "iso-name": "Osun",
+    "iso-type": "State"
+  },
+  "OY": {
+    "name": "Oyo",
+    "type": "State",
+    "iso3166-2": "NG-OY",
+    "iso-name": "Oyo",
+    "iso-type": "State"
+  },
+  "PL": {
+    "name": "Plateau",
+    "type": "State",
+    "iso3166-2": "NG-PL",
+    "iso-name": "Plateau",
+    "iso-type": "State"
+  },
+  "RI": {
+    "name": "Rivers",
+    "type": "State",
+    "iso3166-2": "NG-RI",
+    "iso-name": "Rivers",
+    "iso-type": "State"
+  },
+  "SO": {
+    "name": "Sokoto",
+    "type": "State",
+    "iso3166-2": "NG-SO",
+    "iso-name": "Sokoto",
+    "iso-type": "State"
+  },
+  "TA": {
+    "name": "Taraba",
+    "type": "State",
+    "iso3166-2": "NG-TA",
+    "iso-name": "Taraba",
+    "iso-type": "State"
+  },
+  "YO": {
+    "name": "Yobe",
+    "type": "State",
+    "iso3166-2": "NG-YO",
+    "iso-name": "Yobe",
+    "iso-type": "State"
+  },
+  "ZA": {
+    "name": "Zamfara",
+    "type": "State",
+    "iso3166-2": "NG-ZA",
+    "iso-name": "Zamfara",
+    "iso-type": "State"
+  }
+}

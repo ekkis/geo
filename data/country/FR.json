@@ -128,13 +128,87 @@
     },
     "division-hierarchy": [
       {
-        "key": "subdivision",
-        "label": "Metropolitan Department / Metropolitan Collectivity With Special Status / European Collectivity / Overseas Departmental Collectivity / Overseas Unique Territorial Collectivity / Metropolitan Region / Overseas Collectivity / Dependency / Overseas Collectivity With Special Status / Overseas Territory",
+        "key": "dependency",
+        "label": "Dependency",
         "standard": "ISO 3166-2",
-        "file": "FR.subdivision.json",
+        "file": "FR.dependency.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "european_collectivity",
+        "label": "European Collectivity",
+        "standard": "ISO 3166-2",
+        "file": "FR.european_collectivity.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
+      },
+      {
+        "key": "metropolitan_collectivity_with_special_status",
+        "label": "Metropolitan Collectivity With Special Status",
+        "standard": "ISO 3166-2",
+        "file": "FR.metropolitan_collectivity_with_special_status.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "metropolitan_department",
+        "label": "Metropolitan Department",
+        "standard": "ISO 3166-2",
+        "file": "FR.metropolitan_department.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "metropolitan_region",
+        "label": "Metropolitan Region",
+        "standard": "ISO 3166-2",
+        "file": "FR.metropolitan_region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "overseas_collectivity",
+        "label": "Overseas Collectivity",
+        "standard": "ISO 3166-2",
+        "file": "FR.overseas_collectivity.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "overseas_collectivity_with_special_status",
+        "label": "Overseas Collectivity With Special Status",
+        "standard": "ISO 3166-2",
+        "file": "FR.overseas_collectivity_with_special_status.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "overseas_departmental_collectivity",
+        "label": "Overseas Departmental Collectivity",
+        "standard": "ISO 3166-2",
+        "file": "FR.overseas_departmental_collectivity.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "overseas_territory",
+        "label": "Overseas Territory",
+        "standard": "ISO 3166-2",
+        "file": "FR.overseas_territory.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "overseas_unique_territorial_collectivity",
+        "label": "Overseas Unique Territorial Collectivity",
+        "standard": "ISO 3166-2",
+        "file": "FR.overseas_unique_territorial_collectivity.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

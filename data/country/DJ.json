@@ -86,13 +86,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "region_city",
-        "label": "Region / City",
+        "key": "city",
+        "label": "City",
         "standard": "ISO 3166-2",
-        "file": "DJ.region_city.json",
+        "file": "DJ.city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "file": "DJ.region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

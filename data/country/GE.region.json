@@ -1,38 +1,65 @@
 {
-  "AB": {
-    "name": "Abkhazia"
-  },
-  "AJ": {
-    "name": "Adjara"
-  },
   "GU": {
-    "name": "Guria"
+    "name": "Guria",
+    "type": "Region",
+    "iso3166-2": "GE-GU",
+    "iso-name": "Guria",
+    "iso-type": "Region"
   },
   "IM": {
-    "name": "Imereti"
+    "name": "Imereti",
+    "type": "Region",
+    "iso3166-2": "GE-IM",
+    "iso-name": "Imereti",
+    "iso-type": "Region"
   },
   "KA": {
-    "name": "Kakheti"
+    "name": "K'akheti",
+    "type": "Region",
+    "iso3166-2": "GE-KA",
+    "iso-name": "K'akheti",
+    "iso-type": "Region"
   },
   "KK": {
-    "name": "Kvemo Kartli"
+    "name": "Kvemo Kartli",
+    "type": "Region",
+    "iso3166-2": "GE-KK",
+    "iso-name": "Kvemo Kartli",
+    "iso-type": "Region"
   },
   "MM": {
-    "name": "Mtskheta-Mtianeti"
+    "name": "Mtskheta-Mtianeti",
+    "type": "Region",
+    "iso3166-2": "GE-MM",
+    "iso-name": "Mtskheta-Mtianeti",
+    "iso-type": "Region"
   },
   "RL": {
-    "name": "Racha-Lechkhumi and Kvemo Svaneti"
-  },
-  "SZ": {
-    "name": "Samegrelo-Zemo Svaneti"
+    "name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+    "type": "Region",
+    "iso3166-2": "GE-RL",
+    "iso-name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+    "iso-type": "Region"
   },
   "SJ": {
-    "name": "Samtskhe-Javakheti"
+    "name": "Samtskhe-Javakheti",
+    "type": "Region",
+    "iso3166-2": "GE-SJ",
+    "iso-name": "Samtskhe-Javakheti",
+    "iso-type": "Region"
   },
   "SK": {
-    "name": "Shida Kartli"
+    "name": "Shida Kartli",
+    "type": "Region",
+    "iso3166-2": "GE-SK",
+    "iso-name": "Shida Kartli",
+    "iso-type": "Region"
   },
-  "TB": {
-    "name": "Tbilisi"
+  "SZ": {
+    "name": "Samegrelo-Zemo Svaneti",
+    "type": "Region",
+    "iso3166-2": "GE-SZ",
+    "iso-name": "Samegrelo-Zemo Svaneti",
+    "iso-type": "Region"
   }
 }

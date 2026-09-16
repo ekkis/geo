@@ -1,0 +1,23 @@
+{
+  "AG": {
+    "name": "Agalega Islands",
+    "type": "Dependency",
+    "iso3166-2": "MU-AG",
+    "iso-name": "Agalega Islands",
+    "iso-type": "Dependency"
+  },
+  "CC": {
+    "name": "Cargados Carajos Shoals",
+    "type": "Dependency",
+    "iso3166-2": "MU-CC",
+    "iso-name": "Cargados Carajos Shoals",
+    "iso-type": "Dependency"
+  },
+  "RO": {
+    "name": "Rodrigues Island",
+    "type": "Dependency",
+    "iso3166-2": "MU-RO",
+    "iso-name": "Rodrigues Island",
+    "iso-type": "Dependency"
+  }
+}

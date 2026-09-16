@@ -116,13 +116,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "oblast_city",
-        "label": "Oblast / City",
+        "key": "city",
+        "label": "City",
         "standard": "ISO 3166-2",
-        "file": "BY.oblast_city.json",
+        "file": "BY.city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "oblast",
+        "label": "Oblast",
+        "standard": "ISO 3166-2",
+        "file": "BY.oblast.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

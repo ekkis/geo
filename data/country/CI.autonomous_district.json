@@ -1,0 +1,16 @@
+{
+  "AB": {
+    "name": "Abidjan",
+    "type": "Autonomous district",
+    "iso3166-2": "CI-AB",
+    "iso-name": "Abidjan",
+    "iso-type": "Autonomous district"
+  },
+  "YM": {
+    "name": "Yamoussoukro",
+    "type": "Autonomous district",
+    "iso3166-2": "CI-YM",
+    "iso-name": "Yamoussoukro",
+    "iso-type": "Autonomous district"
+  }
+}

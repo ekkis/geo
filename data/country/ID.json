@@ -112,10 +112,36 @@
     },
     "division-hierarchy": [
       {
-        "key": "subdivision",
-        "label": "Province / Capital District / Geographical Unit / Special Region",
+        "key": "capital_district",
+        "label": "Capital District",
         "standard": "ISO 3166-2",
-        "file": "ID.subdivision.json",
+        "file": "ID.capital_district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "geographical_unit",
+        "label": "Geographical Unit",
+        "standard": "ISO 3166-2",
+        "file": "ID.geographical_unit.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "ID.province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "special_region",
+        "label": "Special Region",
+        "standard": "ISO 3166-2",
+        "file": "ID.special_region.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

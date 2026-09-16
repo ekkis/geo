@@ -1,0 +1,16 @@
+{
+  "KM": {
+    "name": "Kosovo-Metohija",
+    "type": "Autonomous province",
+    "iso3166-2": "RS-KM",
+    "iso-name": "Kosovo-Metohija",
+    "iso-type": "Autonomous province"
+  },
+  "VO": {
+    "name": "Vojvodina",
+    "type": "Autonomous province",
+    "iso3166-2": "RS-VO",
+    "iso-name": "Vojvodina",
+    "iso-type": "Autonomous province"
+  }
+}

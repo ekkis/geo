@@ -1,0 +1,16 @@
+{
+  "GB": {
+    "name": "Bishkek Shaary",
+    "type": "City",
+    "iso3166-2": "KG-GB",
+    "iso-name": "Bishkek Shaary",
+    "iso-type": "City"
+  },
+  "GO": {
+    "name": "Osh Shaary",
+    "type": "City",
+    "iso3166-2": "KG-GO",
+    "iso-name": "Osh Shaary",
+    "iso-type": "City"
+  }
+}

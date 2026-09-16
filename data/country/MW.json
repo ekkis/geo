@@ -91,13 +91,21 @@
     },
     "division-hierarchy": [
       {
-        "key": "district_region",
-        "label": "District / Region",
+        "key": "district",
+        "label": "District",
         "standard": "ISO 3166-2",
-        "file": "MW.district_region.json",
+        "file": "MW.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "file": "MW.region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

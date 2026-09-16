@@ -1,0 +1,16 @@
+{
+  "HK": {
+    "name": "Hong Kong SAR",
+    "type": "Special administrative region",
+    "iso3166-2": "CN-HK",
+    "iso-name": "Hong Kong SAR",
+    "iso-type": "Special administrative region"
+  },
+  "MO": {
+    "name": "Macao SAR",
+    "type": "Special administrative region",
+    "iso3166-2": "CN-MO",
+    "iso-name": "Macao SAR",
+    "iso-type": "Special administrative region"
+  }
+}

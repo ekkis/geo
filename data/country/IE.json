@@ -109,13 +109,21 @@
     },
     "division-hierarchy": [
       {
-        "key": "province_county",
-        "label": "Province / County",
+        "key": "county",
+        "label": "County",
         "standard": "ISO 3166-2",
-        "file": "IE.province_county.json",
+        "file": "IE.county.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "IE.province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

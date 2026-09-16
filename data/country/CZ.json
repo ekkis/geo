@@ -106,13 +106,29 @@
     },
     "division-hierarchy": [
       {
-        "key": "capital_city_region_district",
-        "label": "Capital City / Region / District",
+        "key": "capital_city",
+        "label": "Capital City",
         "standard": "ISO 3166-2",
-        "file": "CZ.capital_city_region_district.json",
+        "file": "CZ.capital_city.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "district",
+        "label": "District",
+        "standard": "ISO 3166-2",
+        "file": "CZ.district.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "file": "CZ.region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

@@ -1,0 +1,65 @@
+{
+  "ALT": {
+    "name": "Altayskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-ALT",
+    "iso-name": "Altayskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "KAM": {
+    "name": "Kamchatskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-KAM",
+    "iso-name": "Kamchatskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "KDA": {
+    "name": "Krasnodarskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-KDA",
+    "iso-name": "Krasnodarskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "KHA": {
+    "name": "Khabarovskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-KHA",
+    "iso-name": "Khabarovskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "KYA": {
+    "name": "Krasnoyarskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-KYA",
+    "iso-name": "Krasnoyarskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "PER": {
+    "name": "Permskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-PER",
+    "iso-name": "Permskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "PRI": {
+    "name": "Primorskiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-PRI",
+    "iso-name": "Primorskiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "STA": {
+    "name": "Stavropol'skiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-STA",
+    "iso-name": "Stavropol'skiy kray",
+    "iso-type": "Administrative territory"
+  },
+  "ZAB": {
+    "name": "Zabaykal'skiy kray",
+    "type": "Administrative territory",
+    "iso3166-2": "RU-ZAB",
+    "iso-name": "Zabaykal'skiy kray",
+    "iso-type": "Administrative territory"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "21": {
+    "name": "Svalbard (Arctic Region)",
+    "type": "Arctic region",
+    "iso3166-2": "NO-21",
+    "iso-name": "Svalbard (Arctic Region)",
+    "iso-type": "Arctic region"
+  },
+  "22": {
+    "name": "Jan Mayen (Arctic Region)",
+    "type": "Arctic region",
+    "iso3166-2": "NO-22",
+    "iso-name": "Jan Mayen (Arctic Region)",
+    "iso-type": "Arctic region"
+  }
+}

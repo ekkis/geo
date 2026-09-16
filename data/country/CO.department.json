@@ -1,101 +1,226 @@
 {
   "AMA": {
-    "name": "Amazonas"
+    "name": "Amazonas",
+    "type": "Department",
+    "iso3166-2": "CO-AMA",
+    "iso-name": "Amazonas",
+    "iso-type": "Department"
   },
   "ANT": {
-    "name": "Antioquia"
+    "name": "Antioquia",
+    "type": "Department",
+    "iso3166-2": "CO-ANT",
+    "iso-name": "Antioquia",
+    "iso-type": "Department"
   },
   "ARA": {
-    "name": "Arauca"
+    "name": "Arauca",
+    "type": "Department",
+    "iso3166-2": "CO-ARA",
+    "iso-name": "Arauca",
+    "iso-type": "Department"
   },
   "ATL": {
-    "name": "Atlántico"
-  },
-  "DC": {
-    "name": "Bogotá D.C."
+    "name": "Atlántico",
+    "type": "Department",
+    "iso3166-2": "CO-ATL",
+    "iso-name": "Atlántico",
+    "iso-type": "Department"
   },
   "BOL": {
-    "name": "Bolívar"
+    "name": "Bolívar",
+    "type": "Department",
+    "iso3166-2": "CO-BOL",
+    "iso-name": "Bolívar",
+    "iso-type": "Department"
   },
   "BOY": {
-    "name": "Boyacá"
+    "name": "Boyacá",
+    "type": "Department",
+    "iso3166-2": "CO-BOY",
+    "iso-name": "Boyacá",
+    "iso-type": "Department"
   },
   "CAL": {
-    "name": "Caldas"
+    "name": "Caldas",
+    "type": "Department",
+    "iso3166-2": "CO-CAL",
+    "iso-name": "Caldas",
+    "iso-type": "Department"
   },
   "CAQ": {
-    "name": "Caquetá"
+    "name": "Caquetá",
+    "type": "Department",
+    "iso3166-2": "CO-CAQ",
+    "iso-name": "Caquetá",
+    "iso-type": "Department"
   },
   "CAS": {
-    "name": "Casanare"
+    "name": "Casanare",
+    "type": "Department",
+    "iso3166-2": "CO-CAS",
+    "iso-name": "Casanare",
+    "iso-type": "Department"
   },
   "CAU": {
-    "name": "Cauca"
+    "name": "Cauca",
+    "type": "Department",
+    "iso3166-2": "CO-CAU",
+    "iso-name": "Cauca",
+    "iso-type": "Department"
   },
   "CES": {
-    "name": "Cesar"
+    "name": "Cesar",
+    "type": "Department",
+    "iso3166-2": "CO-CES",
+    "iso-name": "Cesar",
+    "iso-type": "Department"
   },
   "CHO": {
-    "name": "Chocó"
+    "name": "Chocó",
+    "type": "Department",
+    "iso3166-2": "CO-CHO",
+    "iso-name": "Chocó",
+    "iso-type": "Department"
   },
   "COR": {
-    "name": "Córdoba"
+    "name": "Córdoba",
+    "type": "Department",
+    "iso3166-2": "CO-COR",
+    "iso-name": "Córdoba",
+    "iso-type": "Department"
   },
   "CUN": {
-    "name": "Cundinamarca"
+    "name": "Cundinamarca",
+    "type": "Department",
+    "iso3166-2": "CO-CUN",
+    "iso-name": "Cundinamarca",
+    "iso-type": "Department"
   },
   "GUA": {
-    "name": "Guainía"
+    "name": "Guainía",
+    "type": "Department",
+    "iso3166-2": "CO-GUA",
+    "iso-name": "Guainía",
+    "iso-type": "Department"
   },
   "GUV": {
-    "name": "Guaviare"
+    "name": "Guaviare",
+    "type": "Department",
+    "iso3166-2": "CO-GUV",
+    "iso-name": "Guaviare",
+    "iso-type": "Department"
   },
   "HUI": {
-    "name": "Huila"
+    "name": "Huila",
+    "type": "Department",
+    "iso3166-2": "CO-HUI",
+    "iso-name": "Huila",
+    "iso-type": "Department"
   },
   "LAG": {
-    "name": "La Guajira"
+    "name": "La Guajira",
+    "type": "Department",
+    "iso3166-2": "CO-LAG",
+    "iso-name": "La Guajira",
+    "iso-type": "Department"
   },
   "MAG": {
-    "name": "Magdalena"
+    "name": "Magdalena",
+    "type": "Department",
+    "iso3166-2": "CO-MAG",
+    "iso-name": "Magdalena",
+    "iso-type": "Department"
   },
   "MET": {
-    "name": "Meta"
+    "name": "Meta",
+    "type": "Department",
+    "iso3166-2": "CO-MET",
+    "iso-name": "Meta",
+    "iso-type": "Department"
   },
   "NAR": {
-    "name": "Nariño"
+    "name": "Nariño",
+    "type": "Department",
+    "iso3166-2": "CO-NAR",
+    "iso-name": "Nariño",
+    "iso-type": "Department"
   },
   "NSA": {
-    "name": "Norte de Santander"
+    "name": "Norte de Santander",
+    "type": "Department",
+    "iso3166-2": "CO-NSA",
+    "iso-name": "Norte de Santander",
+    "iso-type": "Department"
   },
   "PUT": {
-    "name": "Putumayo"
+    "name": "Putumayo",
+    "type": "Department",
+    "iso3166-2": "CO-PUT",
+    "iso-name": "Putumayo",
+    "iso-type": "Department"
   },
   "QUI": {
-    "name": "Quindío"
+    "name": "Quindío",
+    "type": "Department",
+    "iso3166-2": "CO-QUI",
+    "iso-name": "Quindío",
+    "iso-type": "Department"
   },
   "RIS": {
-    "name": "Risaralda"
-  },
-  "SAP": {
-    "name": "San Andrés, Providencia y Santa Catalina"
+    "name": "Risaralda",
+    "type": "Department",
+    "iso3166-2": "CO-RIS",
+    "iso-name": "Risaralda",
+    "iso-type": "Department"
   },
   "SAN": {
-    "name": "Santander"
+    "name": "Santander",
+    "type": "Department",
+    "iso3166-2": "CO-SAN",
+    "iso-name": "Santander",
+    "iso-type": "Department"
+  },
+  "SAP": {
+    "name": "San Andrés, Providencia y Santa Catalina",
+    "type": "Department",
+    "iso3166-2": "CO-SAP",
+    "iso-name": "San Andrés, Providencia y Santa Catalina",
+    "iso-type": "Department"
   },
   "SUC": {
-    "name": "Sucre"
+    "name": "Sucre",
+    "type": "Department",
+    "iso3166-2": "CO-SUC",
+    "iso-name": "Sucre",
+    "iso-type": "Department"
   },
   "TOL": {
-    "name": "Tolima"
+    "name": "Tolima",
+    "type": "Department",
+    "iso3166-2": "CO-TOL",
+    "iso-name": "Tolima",
+    "iso-type": "Department"
   },
   "VAC": {
-    "name": "Valle del Cauca"
+    "name": "Valle del Cauca",
+    "type": "Department",
+    "iso3166-2": "CO-VAC",
+    "iso-name": "Valle del Cauca",
+    "iso-type": "Department"
   },
   "VAU": {
-    "name": "Vaupés"
+    "name": "Vaupés",
+    "type": "Department",
+    "iso3166-2": "CO-VAU",
+    "iso-name": "Vaupés",
+    "iso-type": "Department"
   },
   "VID": {
-    "name": "Vichada"
+    "name": "Vichada",
+    "type": "Department",
+    "iso3166-2": "CO-VID",
+    "iso-name": "Vichada",
+    "iso-type": "Department"
   }
 }

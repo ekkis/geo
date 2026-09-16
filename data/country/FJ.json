@@ -73,10 +73,26 @@
     },
     "division-hierarchy": [
       {
-        "key": "province_division_dependency",
-        "label": "Province / Division / Dependency",
+        "key": "dependency",
+        "label": "Dependency",
         "standard": "ISO 3166-2",
-        "file": "FJ.province_division_dependency.json",
+        "file": "FJ.dependency.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "division",
+        "label": "Division",
+        "standard": "ISO 3166-2",
+        "file": "FJ.division.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "FJ.province.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

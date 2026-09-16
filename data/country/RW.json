@@ -89,13 +89,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "city_province",
-        "label": "City / Province",
+        "key": "city",
+        "label": "City",
         "standard": "ISO 3166-2",
-        "file": "RW.city_province.json",
+        "file": "RW.city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "file": "RW.province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

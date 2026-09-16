@@ -1,0 +1,30 @@
+{
+  "BA": {
+    "name": "Balochistan",
+    "type": "Province",
+    "iso3166-2": "PK-BA",
+    "iso-name": "Balochistan",
+    "iso-type": "Province"
+  },
+  "KP": {
+    "name": "Khyber Pakhtunkhwa",
+    "type": "Province",
+    "iso3166-2": "PK-KP",
+    "iso-name": "Khyber Pakhtunkhwa",
+    "iso-type": "Province"
+  },
+  "PB": {
+    "name": "Punjab",
+    "type": "Province",
+    "iso3166-2": "PK-PB",
+    "iso-name": "Punjab",
+    "iso-type": "Province"
+  },
+  "SD": {
+    "name": "Sindh",
+    "type": "Province",
+    "iso3166-2": "PK-SD",
+    "iso-name": "Sindh",
+    "iso-type": "Province"
+  }
+}

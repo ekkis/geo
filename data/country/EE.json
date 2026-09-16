@@ -112,10 +112,27 @@
     },
     "division-hierarchy": [
       {
-        "key": "rural_municipality_urban_municipality_county",
-        "label": "Rural Municipality / Urban Municipality / County",
+        "key": "county",
+        "label": "County",
         "standard": "ISO 3166-2",
-        "file": "EE.rural_municipality_urban_municipality_county.json",
+        "file": "EE.county.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "rural_municipality",
+        "label": "Rural Municipality",
+        "standard": "ISO 3166-2",
+        "file": "EE.rural_municipality.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "urban_municipality",
+        "label": "Urban Municipality",
+        "standard": "ISO 3166-2",
+        "file": "EE.urban_municipality.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"

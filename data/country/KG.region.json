@@ -1,29 +1,51 @@
 {
   "B": {
-    "name": "Batken"
-  },
-  "GB": {
-    "name": "Bishkek"
+    "name": "Batken",
+    "type": "Region",
+    "iso3166-2": "KG-B",
+    "iso-name": "Batken",
+    "iso-type": "Region"
   },
   "C": {
-    "name": "Chuy"
-  },
-  "Y": {
-    "name": "Issyk-Kul"
+    "name": "Chüy",
+    "type": "Region",
+    "iso3166-2": "KG-C",
+    "iso-name": "Chüy",
+    "iso-type": "Region"
   },
   "J": {
-    "name": "Jalal-Abad"
+    "name": "Jalal-Abad",
+    "type": "Region",
+    "iso3166-2": "KG-J",
+    "iso-name": "Jalal-Abad",
+    "iso-type": "Region"
   },
   "N": {
-    "name": "Naryn"
-  },
-  "GO": {
-    "name": "Osh"
+    "name": "Naryn",
+    "type": "Region",
+    "iso3166-2": "KG-N",
+    "iso-name": "Naryn",
+    "iso-type": "Region"
   },
   "O": {
-    "name": "Osh"
+    "name": "Osh",
+    "type": "Region",
+    "iso3166-2": "KG-O",
+    "iso-name": "Osh",
+    "iso-type": "Region"
   },
   "T": {
-    "name": "Talas"
+    "name": "Talas",
+    "type": "Region",
+    "iso3166-2": "KG-T",
+    "iso-name": "Talas",
+    "iso-type": "Region"
+  },
+  "Y": {
+    "name": "Ysyk-Köl",
+    "type": "Region",
+    "iso3166-2": "KG-Y",
+    "iso-name": "Ysyk-Köl",
+    "iso-type": "Region"
   }
 }

@@ -82,13 +82,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "town_council_island_council",
-        "label": "Town Council / Island Council",
+        "key": "island_council",
+        "label": "Island Council",
         "standard": "ISO 3166-2",
-        "file": "TV.town_council_island_council.json",
+        "file": "TV.island_council.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "town_council",
+        "label": "Town Council",
+        "standard": "ISO 3166-2",
+        "file": "TV.town_council.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

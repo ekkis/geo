@@ -1,0 +1,16 @@
+{
+  "K": {
+    "name": "Saint Kitts",
+    "type": "State",
+    "iso3166-2": "KN-K",
+    "iso-name": "Saint Kitts",
+    "iso-type": "State"
+  },
+  "N": {
+    "name": "Nevis",
+    "type": "State",
+    "iso3166-2": "KN-N",
+    "iso-name": "Nevis",
+    "iso-type": "State"
+  }
+}

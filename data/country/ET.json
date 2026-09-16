@@ -105,13 +105,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "administration_regional_state",
-        "label": "Administration / Regional State",
+        "key": "administration",
+        "label": "Administration",
         "standard": "ISO 3166-2",
-        "file": "ET.administration_regional_state.json",
+        "file": "ET.administration.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "regional_state",
+        "label": "Regional State",
+        "standard": "ISO 3166-2",
+        "file": "ET.regional_state.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

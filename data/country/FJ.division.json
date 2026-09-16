@@ -1,59 +1,30 @@
 {
-  "BAX": {
-    "name": "Ba"
-  },
-  "BUA": {
-    "name": "Bua"
-  },
-  "CAK": {
-    "name": "Cakaudrove"
-  },
   "C": {
-    "name": "Central"
+    "name": "Central",
+    "type": "Division",
+    "iso3166-2": "FJ-C",
+    "iso-name": "Central",
+    "iso-type": "Division"
   },
   "E": {
-    "name": "Eastern"
-  },
-  "KAD": {
-    "name": "Kadavu"
-  },
-  "LAU": {
-    "name": "Lau"
-  },
-  "LOM": {
-    "name": "Lomaiviti"
-  },
-  "MAC": {
-    "name": "Macuata"
-  },
-  "NAD": {
-    "name": "Nadroga-Navosa"
-  },
-  "NAI": {
-    "name": "Naitasiri"
-  },
-  "NAM": {
-    "name": "Namosi"
+    "name": "Eastern",
+    "type": "Division",
+    "iso3166-2": "FJ-E",
+    "iso-name": "Eastern",
+    "iso-type": "Division"
   },
   "N": {
-    "name": "Northern"
-  },
-  "RAX": {
-    "name": "Ra"
-  },
-  "REW": {
-    "name": "Rewa"
-  },
-  "R": {
-    "name": "Rotuma"
-  },
-  "SER": {
-    "name": "Serua"
-  },
-  "TAI": {
-    "name": "Tailevu"
+    "name": "Northern",
+    "type": "Division",
+    "iso3166-2": "FJ-N",
+    "iso-name": "Northern",
+    "iso-type": "Division"
   },
   "W": {
-    "name": "Western"
+    "name": "Western",
+    "type": "Division",
+    "iso3166-2": "FJ-W",
+    "iso-name": "Western",
+    "iso-type": "Division"
   }
 }

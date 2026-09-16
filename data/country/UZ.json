@@ -115,13 +115,28 @@
     },
     "division-hierarchy": [
       {
-        "key": "region_republic_city",
-        "label": "Region / Republic / City",
+        "key": "city",
+        "label": "City",
         "standard": "ISO 3166-2",
-        "file": "UZ.region_republic_city.json",
+        "file": "UZ.city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "file": "UZ.region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "republic",
+        "label": "Republic",
+        "standard": "ISO 3166-2",
+        "file": "UZ.republic.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

@@ -1,0 +1,44 @@
+{
+  "KHH": {
+    "name": "Kaohsiung",
+    "type": "Special municipality",
+    "iso3166-2": "TW-KHH",
+    "iso-name": "Kaohsiung",
+    "iso-type": "Special municipality"
+  },
+  "NWT": {
+    "name": "New Taipei",
+    "type": "Special municipality",
+    "iso3166-2": "TW-NWT",
+    "iso-name": "New Taipei",
+    "iso-type": "Special municipality"
+  },
+  "TAO": {
+    "name": "Taoyuan",
+    "type": "Special municipality",
+    "iso3166-2": "TW-TAO",
+    "iso-name": "Taoyuan",
+    "iso-type": "Special municipality"
+  },
+  "TNN": {
+    "name": "Tainan",
+    "type": "Special municipality",
+    "iso3166-2": "TW-TNN",
+    "iso-name": "Tainan",
+    "iso-type": "Special municipality"
+  },
+  "TPE": {
+    "name": "Taipei",
+    "type": "Special municipality",
+    "iso3166-2": "TW-TPE",
+    "iso-name": "Taipei",
+    "iso-type": "Special municipality"
+  },
+  "TXG": {
+    "name": "Taichung",
+    "type": "Special municipality",
+    "iso3166-2": "TW-TXG",
+    "iso-name": "Taichung",
+    "iso-type": "Special municipality"
+  }
+}

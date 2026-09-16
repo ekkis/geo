@@ -122,13 +122,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "state_capital_territory",
-        "label": "State / Capital Territory",
+        "key": "capital_territory",
+        "label": "Capital Territory",
         "standard": "ISO 3166-2",
-        "file": "NG.state_capital_territory.json",
+        "file": "NG.capital_territory.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "file": "NG.state.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

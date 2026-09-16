@@ -84,13 +84,21 @@
     },
     "division-hierarchy": [
       {
-        "key": "parish_state",
-        "label": "Parish / State",
+        "key": "parish",
+        "label": "Parish",
         "standard": "ISO 3166-2",
-        "file": "KN.parish_state.json",
+        "file": "KN.parish.json",
         "code-field": "iso3166-2",
         "type-field": "iso-type",
         "parent-field": "parent-code"
+      },
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "file": "KN.state.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

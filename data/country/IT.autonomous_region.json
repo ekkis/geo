@@ -1,0 +1,37 @@
+{
+  "23": {
+    "name": "Valle d'Aosta",
+    "type": "Autonomous region",
+    "iso3166-2": "IT-23",
+    "iso-name": "Valle d'Aosta",
+    "iso-type": "Autonomous region"
+  },
+  "32": {
+    "name": "Trentino-Alto Adige",
+    "type": "Autonomous region",
+    "iso3166-2": "IT-32",
+    "iso-name": "Trentino-Alto Adige",
+    "iso-type": "Autonomous region"
+  },
+  "36": {
+    "name": "Friuli Venezia Giulia",
+    "type": "Autonomous region",
+    "iso3166-2": "IT-36",
+    "iso-name": "Friuli Venezia Giulia",
+    "iso-type": "Autonomous region"
+  },
+  "82": {
+    "name": "Sicilia",
+    "type": "Autonomous region",
+    "iso3166-2": "IT-82",
+    "iso-name": "Sicilia",
+    "iso-type": "Autonomous region"
+  },
+  "88": {
+    "name": "Sardegna",
+    "type": "Autonomous region",
+    "iso3166-2": "IT-88",
+    "iso-name": "Sardegna",
+    "iso-type": "Autonomous region"
+  }
+}

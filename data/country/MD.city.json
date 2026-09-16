@@ -1,0 +1,23 @@
+{
+  "BA": {
+    "name": "Bălți",
+    "type": "City",
+    "iso3166-2": "MD-BA",
+    "iso-name": "Bălți",
+    "iso-type": "City"
+  },
+  "BD": {
+    "name": "Bender",
+    "type": "City",
+    "iso3166-2": "MD-BD",
+    "iso-name": "Bender [Tighina]",
+    "iso-type": "City"
+  },
+  "CU": {
+    "name": "Chișinău",
+    "type": "City",
+    "iso3166-2": "MD-CU",
+    "iso-name": "Chișinău",
+    "iso-type": "City"
+  }
+}

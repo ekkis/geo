@@ -1,0 +1,16 @@
+{
+  "KB": {
+    "name": "Gribingui",
+    "type": "Economic prefecture",
+    "iso3166-2": "CF-KB",
+    "iso-name": "Gribingui",
+    "iso-type": "Economic prefecture"
+  },
+  "SE": {
+    "name": "Sangha",
+    "type": "Economic prefecture",
+    "iso3166-2": "CF-SE",
+    "iso-name": "Sangha",
+    "iso-type": "Economic prefecture"
+  }
+}

@@ -95,13 +95,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "entity_district_with_special_status",
-        "label": "Entity / District With Special Status",
+        "key": "district_with_special_status",
+        "label": "District With Special Status",
         "standard": "ISO 3166-2",
-        "file": "BA.entity_district_with_special_status.json",
+        "file": "BA.district_with_special_status.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "entity",
+        "label": "Entity",
+        "standard": "ISO 3166-2",
+        "file": "BA.entity.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

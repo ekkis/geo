@@ -95,13 +95,20 @@
     },
     "division-hierarchy": [
       {
-        "key": "autonomous_district_district",
-        "label": "Autonomous District / District",
+        "key": "autonomous_district",
+        "label": "Autonomous District",
         "standard": "ISO 3166-2",
-        "file": "CI.autonomous_district_district.json",
+        "file": "CI.autonomous_district.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "district",
+        "label": "District",
+        "standard": "ISO 3166-2",
+        "file": "CI.district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

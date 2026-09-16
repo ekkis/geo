@@ -1,0 +1,44 @@
+{
+  "26": {
+    "name": "Busan-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-26",
+    "iso-name": "Busan-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "27": {
+    "name": "Daegu-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-27",
+    "iso-name": "Daegu-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "28": {
+    "name": "Incheon-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-28",
+    "iso-name": "Incheon-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "29": {
+    "name": "Gwangju-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-29",
+    "iso-name": "Gwangju-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "30": {
+    "name": "Daejeon-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-30",
+    "iso-name": "Daejeon-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "31": {
+    "name": "Ulsan-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-31",
+    "iso-name": "Ulsan-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  }
+}

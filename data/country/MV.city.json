@@ -1,0 +1,16 @@
+{
+  "01": {
+    "name": "Addu City",
+    "type": "City",
+    "iso3166-2": "MV-01",
+    "iso-name": "Addu City",
+    "iso-type": "City"
+  },
+  "MLE": {
+    "name": "Male",
+    "type": "City",
+    "iso3166-2": "MV-MLE",
+    "iso-name": "Male",
+    "iso-type": "City"
+  }
+}

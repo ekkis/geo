@@ -1,137 +1,290 @@
 {
   "AC": {
-    "name": "Aceh"
+    "name": "Aceh",
+    "type": "Province",
+    "iso3166-2": "ID-AC",
+    "iso-name": "Aceh",
+    "iso-type": "Province",
+    "parent-code": "SM"
   },
   "BA": {
-    "name": "Bali"
-  },
-  "BT": {
-    "name": "Banten"
-  },
-  "BE": {
-    "name": "Bengkulu"
-  },
-  "YO": {
-    "name": "DI Yogyakarta"
-  },
-  "JK": {
-    "name": "DKI Jakarta"
-  },
-  "GO": {
-    "name": "Gorontalo"
-  },
-  "JA": {
-    "name": "Jambi"
-  },
-  "JW": {
-    "name": "Jawa"
-  },
-  "JB": {
-    "name": "Jawa Barat"
-  },
-  "JT": {
-    "name": "Jawa Tengah"
-  },
-  "JI": {
-    "name": "Jawa Timur"
-  },
-  "KA": {
-    "name": "Kalimantan"
-  },
-  "KB": {
-    "name": "Kalimantan Barat"
-  },
-  "KS": {
-    "name": "Kalimantan Selatan"
-  },
-  "KT": {
-    "name": "Kalimantan Tengah"
-  },
-  "KI": {
-    "name": "Kalimantan Timur"
-  },
-  "KU": {
-    "name": "Kalimantan Utara"
+    "name": "Bali",
+    "type": "Province",
+    "iso3166-2": "ID-BA",
+    "iso-name": "Bali",
+    "iso-type": "Province",
+    "parent-code": "NU"
   },
   "BB": {
-    "name": "Kepulauan Bangka Belitung"
+    "name": "Kepulauan Bangka Belitung",
+    "type": "Province",
+    "iso3166-2": "ID-BB",
+    "iso-name": "Kepulauan Bangka Belitung",
+    "iso-type": "Province",
+    "parent-code": "SM"
+  },
+  "BE": {
+    "name": "Bengkulu",
+    "type": "Province",
+    "iso3166-2": "ID-BE",
+    "iso-name": "Bengkulu",
+    "iso-type": "Province",
+    "parent-code": "SM"
+  },
+  "BT": {
+    "name": "Banten",
+    "type": "Province",
+    "iso3166-2": "ID-BT",
+    "iso-name": "Banten",
+    "iso-type": "Province",
+    "parent-code": "JW"
+  },
+  "GO": {
+    "name": "Gorontalo",
+    "type": "Province",
+    "iso3166-2": "ID-GO",
+    "iso-name": "Gorontalo",
+    "iso-type": "Province",
+    "parent-code": "SL"
+  },
+  "JA": {
+    "name": "Jambi",
+    "type": "Province",
+    "iso3166-2": "ID-JA",
+    "iso-name": "Jambi",
+    "iso-type": "Province",
+    "parent-code": "SM"
+  },
+  "JB": {
+    "name": "Jawa Barat",
+    "type": "Province",
+    "iso3166-2": "ID-JB",
+    "iso-name": "Jawa Barat",
+    "iso-type": "Province",
+    "parent-code": "JW"
+  },
+  "JI": {
+    "name": "Jawa Timur",
+    "type": "Province",
+    "iso3166-2": "ID-JI",
+    "iso-name": "Jawa Timur",
+    "iso-type": "Province",
+    "parent-code": "JW"
+  },
+  "JT": {
+    "name": "Jawa Tengah",
+    "type": "Province",
+    "iso3166-2": "ID-JT",
+    "iso-name": "Jawa Tengah",
+    "iso-type": "Province",
+    "parent-code": "JW"
+  },
+  "KB": {
+    "name": "Kalimantan Barat",
+    "type": "Province",
+    "iso3166-2": "ID-KB",
+    "iso-name": "Kalimantan Barat",
+    "iso-type": "Province",
+    "parent-code": "KA"
+  },
+  "KI": {
+    "name": "Kalimantan Timur",
+    "type": "Province",
+    "iso3166-2": "ID-KI",
+    "iso-name": "Kalimantan Timur",
+    "iso-type": "Province",
+    "parent-code": "KA"
   },
   "KR": {
-    "name": "Kepulauan Riau"
+    "name": "Kepulauan Riau",
+    "type": "Province",
+    "iso3166-2": "ID-KR",
+    "iso-name": "Kepulauan Riau",
+    "iso-type": "Province",
+    "parent-code": "SM"
+  },
+  "KS": {
+    "name": "Kalimantan Selatan",
+    "type": "Province",
+    "iso3166-2": "ID-KS",
+    "iso-name": "Kalimantan Selatan",
+    "iso-type": "Province",
+    "parent-code": "KA"
+  },
+  "KT": {
+    "name": "Kalimantan Tengah",
+    "type": "Province",
+    "iso3166-2": "ID-KT",
+    "iso-name": "Kalimantan Tengah",
+    "iso-type": "Province",
+    "parent-code": "KA"
+  },
+  "KU": {
+    "name": "Kalimantan Utara",
+    "type": "Province",
+    "iso3166-2": "ID-KU",
+    "iso-name": "Kalimantan Utara",
+    "iso-type": "Province",
+    "parent-code": "KA"
   },
   "LA": {
-    "name": "Lampung"
-  },
-  "ML": {
-    "name": "Maluku"
+    "name": "Lampung",
+    "type": "Province",
+    "iso3166-2": "ID-LA",
+    "iso-name": "Lampung",
+    "iso-type": "Province",
+    "parent-code": "SM"
   },
   "MA": {
-    "name": "Maluku"
+    "name": "Maluku",
+    "type": "Province",
+    "iso3166-2": "ID-MA",
+    "iso-name": "Maluku",
+    "iso-type": "Province",
+    "parent-code": "ML"
   },
   "MU": {
-    "name": "Maluku Utara"
-  },
-  "NU": {
-    "name": "Nusa Tenggara"
+    "name": "Maluku Utara",
+    "type": "Province",
+    "iso3166-2": "ID-MU",
+    "iso-name": "Maluku Utara",
+    "iso-type": "Province",
+    "parent-code": "ML"
   },
   "NB": {
-    "name": "Nusa Tenggara Barat"
+    "name": "Nusa Tenggara Barat",
+    "type": "Province",
+    "iso3166-2": "ID-NB",
+    "iso-name": "Nusa Tenggara Barat",
+    "iso-type": "Province",
+    "parent-code": "NU"
   },
   "NT": {
-    "name": "Nusa Tenggara Timur"
+    "name": "Nusa Tenggara Timur",
+    "type": "Province",
+    "iso3166-2": "ID-NT",
+    "iso-name": "Nusa Tenggara Timur",
+    "iso-type": "Province",
+    "parent-code": "NU"
   },
   "PA": {
-    "name": "Papua"
-  },
-  "PP": {
-    "name": "Papua"
+    "name": "Papua",
+    "type": "Province",
+    "iso3166-2": "ID-PA",
+    "iso-name": "Papua",
+    "iso-type": "Province",
+    "parent-code": "PP"
   },
   "PB": {
-    "name": "Papua Barat"
+    "name": "Papua Barat",
+    "type": "Province",
+    "iso3166-2": "ID-PB",
+    "iso-name": "Papua Barat",
+    "iso-type": "Province",
+    "parent-code": "PP"
   },
   "PD": {
-    "name": "Papua Barat Daya"
+    "name": "Papua Barat Daya",
+    "type": "Province",
+    "iso3166-2": "ID-PD",
+    "iso-name": "Papua Barat Daya",
+    "iso-type": "Province",
+    "parent-code": "PP"
   },
   "PE": {
-    "name": "Papua Pegunungan"
+    "name": "Papua Pengunungan",
+    "type": "Province",
+    "iso3166-2": "ID-PE",
+    "iso-name": "Papua Pengunungan",
+    "iso-type": "Province",
+    "parent-code": "PP"
   },
   "PS": {
-    "name": "Papua Selatan"
+    "name": "Papua Selatan",
+    "type": "Province",
+    "iso3166-2": "ID-PS",
+    "iso-name": "Papua Selatan",
+    "iso-type": "Province",
+    "parent-code": "PP"
   },
   "PT": {
-    "name": "Papua Tengah"
+    "name": "Papua Tengah",
+    "type": "Province",
+    "iso3166-2": "ID-PT",
+    "iso-name": "Papua Tengah",
+    "iso-type": "Province",
+    "parent-code": "PP"
   },
   "RI": {
-    "name": "Riau"
-  },
-  "SL": {
-    "name": "Sulawesi"
-  },
-  "SR": {
-    "name": "Sulawesi Barat"
-  },
-  "SN": {
-    "name": "Sulawesi Selatan"
-  },
-  "ST": {
-    "name": "Sulawesi Tengah"
-  },
-  "SG": {
-    "name": "Sulawesi Tenggara"
+    "name": "Riau",
+    "type": "Province",
+    "iso3166-2": "ID-RI",
+    "iso-name": "Riau",
+    "iso-type": "Province",
+    "parent-code": "SM"
   },
   "SA": {
-    "name": "Sulawesi Utara"
-  },
-  "SM": {
-    "name": "Sumatera"
+    "name": "Sulawesi Utara",
+    "type": "Province",
+    "iso3166-2": "ID-SA",
+    "iso-name": "Sulawesi Utara",
+    "iso-type": "Province",
+    "parent-code": "SL"
   },
   "SB": {
-    "name": "Sumatera Barat"
+    "name": "Sumatera Barat",
+    "type": "Province",
+    "iso3166-2": "ID-SB",
+    "iso-name": "Sumatera Barat",
+    "iso-type": "Province",
+    "parent-code": "SM"
+  },
+  "SG": {
+    "name": "Sulawesi Tenggara",
+    "type": "Province",
+    "iso3166-2": "ID-SG",
+    "iso-name": "Sulawesi Tenggara",
+    "iso-type": "Province",
+    "parent-code": "SL"
+  },
+  "SN": {
+    "name": "Sulawesi Selatan",
+    "type": "Province",
+    "iso3166-2": "ID-SN",
+    "iso-name": "Sulawesi Selatan",
+    "iso-type": "Province",
+    "parent-code": "SL"
+  },
+  "SR": {
+    "name": "Sulawesi Barat",
+    "type": "Province",
+    "iso3166-2": "ID-SR",
+    "iso-name": "Sulawesi Barat",
+    "iso-type": "Province",
+    "parent-code": "SL"
   },
   "SS": {
-    "name": "Sumatera Selatan"
+    "name": "Sumatera Selatan",
+    "type": "Province",
+    "iso3166-2": "ID-SS",
+    "iso-name": "Sumatera Selatan",
+    "iso-type": "Province",
+    "parent-code": "SM"
+  },
+  "ST": {
+    "name": "Sulawesi Tengah",
+    "type": "Province",
+    "iso3166-2": "ID-ST",
+    "iso-name": "Sulawesi Tengah",
+    "iso-type": "Province",
+    "parent-code": "SL"
   },
   "SU": {
-    "name": "Sumatera Utara"
+    "name": "Sumatera Utara",
+    "type": "Province",
+    "iso3166-2": "ID-SU",
+    "iso-name": "Sumatera Utara",
+    "iso-type": "Province",
+    "parent-code": "SM"
   }
 }

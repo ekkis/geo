@@ -1,35 +1,72 @@
 {
   "AG": {
-    "name": "Aragatsotn"
+    "name": "Aragac̣otn",
+    "type": "Region",
+    "iso3166-2": "AM-AG",
+    "iso-name": "Aragac̣otn",
+    "iso-type": "Region"
   },
   "AR": {
-    "name": "Ararat"
+    "name": "Ararat",
+    "type": "Region",
+    "iso3166-2": "AM-AR",
+    "iso-name": "Ararat",
+    "iso-type": "Region"
   },
   "AV": {
-    "name": "Armavir"
+    "name": "Armavir",
+    "type": "Region",
+    "iso3166-2": "AM-AV",
+    "iso-name": "Armavir",
+    "iso-type": "Region"
   },
   "GR": {
-    "name": "Gegharkunik"
+    "name": "Geġark'unik'",
+    "type": "Region",
+    "iso3166-2": "AM-GR",
+    "iso-name": "Geġark'unik'",
+    "iso-type": "Region"
   },
   "KT": {
-    "name": "Kotayk"
+    "name": "Kotayk'",
+    "type": "Region",
+    "iso3166-2": "AM-KT",
+    "iso-name": "Kotayk'",
+    "iso-type": "Region"
   },
   "LO": {
-    "name": "Lori"
+    "name": "Loṙi",
+    "type": "Region",
+    "iso3166-2": "AM-LO",
+    "iso-name": "Loṙi",
+    "iso-type": "Region"
   },
   "SH": {
-    "name": "Shirak"
+    "name": "Širak",
+    "type": "Region",
+    "iso3166-2": "AM-SH",
+    "iso-name": "Širak",
+    "iso-type": "Region"
   },
   "SU": {
-    "name": "Syunik"
+    "name": "Syunik'",
+    "type": "Region",
+    "iso3166-2": "AM-SU",
+    "iso-name": "Syunik'",
+    "iso-type": "Region"
   },
   "TV": {
-    "name": "Tavush"
+    "name": "Tavuš",
+    "type": "Region",
+    "iso3166-2": "AM-TV",
+    "iso-name": "Tavuš",
+    "iso-type": "Region"
   },
   "VD": {
-    "name": "Vayots Dzor"
-  },
-  "ER": {
-    "name": "Yerevan"
+    "name": "Vayoć Jor",
+    "type": "Region",
+    "iso3166-2": "AM-VD",
+    "iso-name": "Vayoć Jor",
+    "iso-type": "Region"
   }
 }

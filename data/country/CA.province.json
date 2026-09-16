@@ -1,41 +1,72 @@
 {
   "AB": {
-    "name": "Alberta"
+    "name": "Alberta",
+    "type": "Province",
+    "iso3166-2": "CA-AB",
+    "iso-name": "Alberta",
+    "iso-type": "Province"
   },
   "BC": {
-    "name": "British Columbia"
+    "name": "British Columbia",
+    "type": "Province",
+    "iso3166-2": "CA-BC",
+    "iso-name": "British Columbia",
+    "iso-type": "Province"
   },
   "MB": {
-    "name": "Manitoba"
+    "name": "Manitoba",
+    "type": "Province",
+    "iso3166-2": "CA-MB",
+    "iso-name": "Manitoba",
+    "iso-type": "Province"
   },
   "NB": {
-    "name": "New Brunswick"
+    "name": "New Brunswick",
+    "type": "Province",
+    "iso3166-2": "CA-NB",
+    "iso-name": "New Brunswick",
+    "iso-type": "Province"
   },
   "NL": {
-    "name": "Newfoundland and Labrador"
+    "name": "Newfoundland and Labrador",
+    "type": "Province",
+    "iso3166-2": "CA-NL",
+    "iso-name": "Newfoundland and Labrador",
+    "iso-type": "Province"
   },
   "NS": {
-    "name": "Nova Scotia"
-  },
-  "NT": {
-    "name": "Northwest Territories"
-  },
-  "NU": {
-    "name": "Nunavut"
+    "name": "Nova Scotia",
+    "type": "Province",
+    "iso3166-2": "CA-NS",
+    "iso-name": "Nova Scotia",
+    "iso-type": "Province"
   },
   "ON": {
-    "name": "Ontario"
+    "name": "Ontario",
+    "type": "Province",
+    "iso3166-2": "CA-ON",
+    "iso-name": "Ontario",
+    "iso-type": "Province"
   },
   "PE": {
-    "name": "Prince Edward Island"
+    "name": "Prince Edward Island",
+    "type": "Province",
+    "iso3166-2": "CA-PE",
+    "iso-name": "Prince Edward Island",
+    "iso-type": "Province"
   },
   "QC": {
-    "name": "Quebec"
+    "name": "Quebec",
+    "type": "Province",
+    "iso3166-2": "CA-QC",
+    "iso-name": "Quebec",
+    "iso-type": "Province"
   },
   "SK": {
-    "name": "Saskatchewan"
-  },
-  "YT": {
-    "name": "Yukon"
+    "name": "Saskatchewan",
+    "type": "Province",
+    "iso3166-2": "CA-SK",
+    "iso-name": "Saskatchewan",
+    "iso-type": "Province"
   }
 }

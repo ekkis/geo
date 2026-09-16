@@ -1,0 +1,50 @@
+{
+  "AG": {
+    "name": "Agrigento",
+    "type": "Free municipal consortium",
+    "iso3166-2": "IT-AG",
+    "iso-name": "Agrigento",
+    "iso-type": "Free municipal consortium",
+    "parent-code": "82"
+  },
+  "CL": {
+    "name": "Caltanissetta",
+    "type": "Free municipal consortium",
+    "iso3166-2": "IT-CL",
+    "iso-name": "Caltanissetta",
+    "iso-type": "Free municipal consortium",
+    "parent-code": "82"
+  },
+  "EN": {
+    "name": "Enna",
+    "type": "Free municipal consortium",
+    "iso3166-2": "IT-EN",
+    "iso-name": "Enna",
+    "iso-type": "Free municipal consortium",
+    "parent-code": "82"
+  },
+  "RG": {
+    "name": "Ragusa",
+    "type": "Free municipal consortium",
+    "iso3166-2": "IT-RG",
+    "iso-name": "Ragusa",
+    "iso-type": "Free municipal consortium",
+    "parent-code": "82"
+  },
+  "SR": {
+    "name": "Siracusa",
+    "type": "Free municipal consortium",
+    "iso3166-2": "IT-SR",
+    "iso-name": "Siracusa",
+    "iso-type": "Free municipal consortium",
+    "parent-code": "82"
+  },
+  "TP": {
+    "name": "Trapani",
+    "type": "Free municipal consortium",
+    "iso3166-2": "IT-TP",
+    "iso-name": "Trapani",
+    "iso-type": "Free municipal consortium",
+    "parent-code": "82"
+  }
+}

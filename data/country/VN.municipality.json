@@ -1,0 +1,37 @@
+{
+  "CT": {
+    "name": "Cần Thơ",
+    "type": "Municipality",
+    "iso3166-2": "VN-CT",
+    "iso-name": "Cần Thơ",
+    "iso-type": "Municipality"
+  },
+  "DN": {
+    "name": "Đà Nẵng",
+    "type": "Municipality",
+    "iso3166-2": "VN-DN",
+    "iso-name": "Đà Nẵng",
+    "iso-type": "Municipality"
+  },
+  "HN": {
+    "name": "Hà Nội",
+    "type": "Municipality",
+    "iso3166-2": "VN-HN",
+    "iso-name": "Hà Nội",
+    "iso-type": "Municipality"
+  },
+  "HP": {
+    "name": "Hải Phòng",
+    "type": "Municipality",
+    "iso3166-2": "VN-HP",
+    "iso-name": "Hải Phòng",
+    "iso-type": "Municipality"
+  },
+  "SG": {
+    "name": "Hồ Chí Minh",
+    "type": "Municipality",
+    "iso3166-2": "VN-SG",
+    "iso-name": "Hồ Chí Minh",
+    "iso-type": "Municipality"
+  }
+}

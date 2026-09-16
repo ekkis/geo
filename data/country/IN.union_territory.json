@@ -1,0 +1,58 @@
+{
+  "AN": {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union territory",
+    "iso3166-2": "IN-AN",
+    "iso-name": "Andaman and Nicobar Islands",
+    "iso-type": "Union territory"
+  },
+  "CH": {
+    "name": "Chandīgarh",
+    "type": "Union territory",
+    "iso3166-2": "IN-CH",
+    "iso-name": "Chandīgarh",
+    "iso-type": "Union territory"
+  },
+  "DH": {
+    "name": "Dādra and Nagar Haveli and Damān and Diu",
+    "type": "Union territory",
+    "iso3166-2": "IN-DH",
+    "iso-name": "Dādra and Nagar Haveli and Damān and Diu",
+    "iso-type": "Union territory"
+  },
+  "DL": {
+    "name": "Delhi",
+    "type": "Union territory",
+    "iso3166-2": "IN-DL",
+    "iso-name": "Delhi",
+    "iso-type": "Union territory"
+  },
+  "JK": {
+    "name": "Jammu and Kashmīr",
+    "type": "Union territory",
+    "iso3166-2": "IN-JK",
+    "iso-name": "Jammu and Kashmīr",
+    "iso-type": "Union territory"
+  },
+  "LA": {
+    "name": "Ladākh",
+    "type": "Union territory",
+    "iso3166-2": "IN-LA",
+    "iso-name": "Ladākh",
+    "iso-type": "Union territory"
+  },
+  "LD": {
+    "name": "Lakshadweep",
+    "type": "Union territory",
+    "iso3166-2": "IN-LD",
+    "iso-name": "Lakshadweep",
+    "iso-type": "Union territory"
+  },
+  "PY": {
+    "name": "Puducherry",
+    "type": "Union territory",
+    "iso3166-2": "IN-PY",
+    "iso-name": "Puducherry",
+    "iso-type": "Union territory"
+  }
+}

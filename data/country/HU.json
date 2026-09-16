@@ -113,13 +113,28 @@
     },
     "division-hierarchy": [
       {
-        "key": "county_city_with_county_rights_capital_city",
-        "label": "County / City With County Rights / Capital City",
+        "key": "capital_city",
+        "label": "Capital City",
         "standard": "ISO 3166-2",
-        "file": "HU.county_city_with_county_rights_capital_city.json",
+        "file": "HU.capital_city.json",
         "code-field": "iso3166-2",
-        "type-field": "iso-type",
-        "parent-field": "parent-code"
+        "type-field": "iso-type"
+      },
+      {
+        "key": "city_with_county_rights",
+        "label": "City With County Rights",
+        "standard": "ISO 3166-2",
+        "file": "HU.city_with_county_rights.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "file": "HU.county.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       }
     ]
   }

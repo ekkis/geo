@@ -1,50 +1,72 @@
 {
   "CE": {
-    "name": "Central"
+    "name": "Central",
+    "type": "District",
+    "iso3166-2": "BW-CE",
+    "iso-name": "Central",
+    "iso-type": "District"
   },
   "CH": {
-    "name": "Chobe"
-  },
-  "FR": {
-    "name": "Francistown"
-  },
-  "GA": {
-    "name": "Gaborone"
+    "name": "Chobe",
+    "type": "District",
+    "iso3166-2": "BW-CH",
+    "iso-name": "Chobe",
+    "iso-type": "District"
   },
   "GH": {
-    "name": "Ghanzi"
-  },
-  "JW": {
-    "name": "Jwaneng"
+    "name": "Ghanzi",
+    "type": "District",
+    "iso3166-2": "BW-GH",
+    "iso-name": "Ghanzi",
+    "iso-type": "District"
   },
   "KG": {
-    "name": "Kgalagadi"
+    "name": "Kgalagadi",
+    "type": "District",
+    "iso3166-2": "BW-KG",
+    "iso-name": "Kgalagadi",
+    "iso-type": "District"
   },
   "KL": {
-    "name": "Kgatleng"
+    "name": "Kgatleng",
+    "type": "District",
+    "iso3166-2": "BW-KL",
+    "iso-name": "Kgatleng",
+    "iso-type": "District"
   },
   "KW": {
-    "name": "Kweneng"
-  },
-  "LO": {
-    "name": "Lobatse"
+    "name": "Kweneng",
+    "type": "District",
+    "iso3166-2": "BW-KW",
+    "iso-name": "Kweneng",
+    "iso-type": "District"
   },
   "NE": {
-    "name": "North-East"
+    "name": "North East",
+    "type": "District",
+    "iso3166-2": "BW-NE",
+    "iso-name": "North East",
+    "iso-type": "District"
   },
   "NW": {
-    "name": "North-West"
-  },
-  "SP": {
-    "name": "Selibe Phikwe"
+    "name": "North West",
+    "type": "District",
+    "iso3166-2": "BW-NW",
+    "iso-name": "North West",
+    "iso-type": "District"
   },
   "SE": {
-    "name": "South-East"
+    "name": "South East",
+    "type": "District",
+    "iso3166-2": "BW-SE",
+    "iso-name": "South East",
+    "iso-type": "District"
   },
   "SO": {
-    "name": "Southern"
-  },
-  "ST": {
-    "name": "Sowa Town"
+    "name": "Southern",
+    "type": "District",
+    "iso3166-2": "BW-SO",
+    "iso-name": "Southern",
+    "iso-type": "District"
   }
 }

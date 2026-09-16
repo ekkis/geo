@@ -1,0 +1,23 @@
+{
+  "14": {
+    "name": "Wilayah Persekutuan Kuala Lumpur",
+    "type": "Federal territory",
+    "iso3166-2": "MY-14",
+    "iso-name": "Wilayah Persekutuan Kuala Lumpur",
+    "iso-type": "Federal territory"
+  },
+  "15": {
+    "name": "Wilayah Persekutuan Labuan",
+    "type": "Federal territory",
+    "iso3166-2": "MY-15",
+    "iso-name": "Wilayah Persekutuan Labuan",
+    "iso-type": "Federal territory"
+  },
+  "16": {
+    "name": "Wilayah Persekutuan Putrajaya",
+    "type": "Federal territory",
+    "iso3166-2": "MY-16",
+    "iso-name": "Wilayah Persekutuan Putrajaya",
+    "iso-type": "Federal territory"
+  }
+}
