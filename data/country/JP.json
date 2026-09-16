@@ -54,39 +54,7 @@
     ],
     "address-format": {
       "format": "〒%Z%n%S%n%A%n%O%n%N",
-      "lines": [
-        [
-          "postal-code"
-        ],
-        [
-          "administrative-area"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "recipient"
-        ]
-      ],
       "latin-format": "%N%n%O%n%A, %S%n%Z",
-      "latin-lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address",
-          "administrative-area"
-        ],
-        [
-          "postal-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "administrative-area",

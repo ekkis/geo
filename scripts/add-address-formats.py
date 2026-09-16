@@ -74,12 +74,10 @@ def anchored_regex(pattern: str) -> str:
 def build_address_format(raw: dict[str, Any]) -> dict[str, Any]:
     out: dict[str, Any] = {
         "format": raw.get("fmt", ""),
-        "lines": parse_template(raw.get("fmt")),
     }
 
     if raw.get("lfmt") and raw.get("lfmt") != raw.get("fmt"):
         out["latin-format"] = raw["lfmt"]
-        out["latin-lines"] = parse_template(raw.get("lfmt"))
 
     required = fields_from_codes(raw.get("require"))
     if required:
@@ -175,7 +173,7 @@ def main() -> None:
             "%n": "line break",
         },
         "notes": [
-            "Country data stores the original libaddressinput format template plus parsed line field order.",
+            "Country data stores the original libaddressinput format template.",
             "Postal-code regexes are anchored for full-string validation.",
             "Countries whose country-specific record omits a format inherit libaddressinput's ZZ default format."
         ],

@@ -33,6 +33,26 @@ function recordData(record) {
 function words(s) {
     return s.replace(/[-_]/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
 }
+function fieldsFromFormat(format) {
+    var fieldCodes = {
+        N: 'recipient',
+        O: 'organization',
+        A: 'street-address',
+        D: 'dependent-locality',
+        C: 'locality',
+        S: 'administrative-area',
+        Z: 'postal-code',
+        X: 'sorting-code'
+    }
+    var fields = []
+    var re = /%([NOADCSZX])/g
+    var match
+    while ((match = re.exec(format || ''))) {
+        var field = fieldCodes[match[1]]
+        if (field && !fields.includes(field)) fields.push(field)
+    }
+    return fields
+}
 function defaultLabel(field) {
     return {
         'recipient': 'Recipient',
@@ -74,7 +94,7 @@ class Entity {
         if (!format) return undefined
 
         var labels = format['field-labels'] || {}
-        var fields = format.lines ? Array.from(new Set(format.lines.flat())) : []
+        var fields = fieldsFromFormat(format.format)
         return fields.reduce((headers, field) => {
             headers[field] = labelFor(field, labels)
             return headers
@@ -100,16 +120,11 @@ class Entity {
             return ret
         })
 
-        var ret = {
+        return {
             format: format.format,
-            lines: clone(format.lines || []),
             headers,
             fields
         }
-        if (format['postal-code']) {
-            ret['postal-code'] = clone(format['postal-code'])
-        }
-        return ret
     }
     find(criteria, opts = {}) {
         // no criteria provided

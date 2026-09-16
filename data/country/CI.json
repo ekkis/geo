@@ -60,20 +60,6 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%X %A %C %X",
-      "lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "sorting-code",
-          "street-address",
-          "locality",
-          "sorting-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "locality"

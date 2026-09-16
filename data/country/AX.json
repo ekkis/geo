@@ -36,21 +36,6 @@
     ],
     "address-format": {
       "format": "%O%n%N%n%A%nAX-%Z %C%nÅLAND",
-      "lines": [
-        [
-          "organization"
-        ],
-        [
-          "recipient"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "postal-code",
-          "locality"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "locality",

@@ -40,23 +40,6 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%C%nJERSEY%n%Z",
-      "lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "locality"
-        ],
-        [
-          "postal-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "locality",

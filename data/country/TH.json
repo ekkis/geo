@@ -65,45 +65,7 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%D %C%n%S %Z",
-      "lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "dependent-locality",
-          "locality"
-        ],
-        [
-          "administrative-area",
-          "postal-code"
-        ]
-      ],
       "latin-format": "%N%n%O%n%A%n%D, %C%n%S %Z",
-      "latin-lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "dependent-locality",
-          "locality"
-        ],
-        [
-          "administrative-area",
-          "postal-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "locality"

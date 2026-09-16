@@ -56,20 +56,6 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%S",
-      "lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "administrative-area"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "administrative-area"

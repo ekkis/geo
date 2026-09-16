@@ -45,29 +45,7 @@
     ],
     "address-format": {
       "format": "%A%n%O%n%N",
-      "lines": [
-        [
-          "street-address"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "recipient"
-        ]
-      ],
       "latin-format": "%N%n%O%n%A",
-      "latin-lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ]
-      ],
       "required-fields": [
         "street-address"
       ],

@@ -43,41 +43,7 @@
     ],
     "address-format": {
       "format": "%Z%n%S%C%n%A%n%O%n%N",
-      "lines": [
-        [
-          "postal-code"
-        ],
-        [
-          "administrative-area",
-          "locality"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "recipient"
-        ]
-      ],
       "latin-format": "%N%n%O%n%A%n%C, %S %Z",
-      "latin-lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "locality",
-          "administrative-area",
-          "postal-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "locality",

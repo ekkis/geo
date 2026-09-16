@@ -51,20 +51,6 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%nSINGAPORE %Z",
-      "lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "postal-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "postal-code"

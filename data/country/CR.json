@@ -61,24 +61,6 @@
     ],
     "address-format": {
       "format": "%N%n%O%n%A%n%S, %C%n%Z",
-      "lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "administrative-area",
-          "locality"
-        ],
-        [
-          "postal-code"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "locality",

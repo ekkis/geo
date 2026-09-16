@@ -18,7 +18,7 @@
     "%n": "line break"
   },
   "notes": [
-    "Country data stores the original libaddressinput format template plus parsed line field order.",
+    "Country data stores the original libaddressinput format template.",
     "Postal-code regexes are anchored for full-string validation.",
     "Countries whose country-specific record omits a format inherit libaddressinput's ZZ default format."
   ],

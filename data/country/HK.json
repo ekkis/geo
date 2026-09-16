@@ -48,41 +48,7 @@
     ],
     "address-format": {
       "format": "%S%n%C%n%A%n%O%n%N",
-      "lines": [
-        [
-          "administrative-area"
-        ],
-        [
-          "locality"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "recipient"
-        ]
-      ],
       "latin-format": "%N%n%O%n%A%n%C%n%S",
-      "latin-lines": [
-        [
-          "recipient"
-        ],
-        [
-          "organization"
-        ],
-        [
-          "street-address"
-        ],
-        [
-          "locality"
-        ],
-        [
-          "administrative-area"
-        ]
-      ],
       "required-fields": [
         "street-address",
         "administrative-area"
