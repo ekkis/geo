@@ -146,26 +146,25 @@ class Entity {
         var format = this.addressFormat(key)
         if (!format) return undefined
 
-        var headers = this.addressHeaders(key)
+        var labels = format['field-labels'] || {}
         var required = new Set(format['required-fields'] || [])
         var uppercase = new Set(format['uppercase-fields'] || [])
-        var fields = Object.keys(headers).map(field => {
-            var ret = {
-                key: field,
+        var fields = fieldsFromFormat(format.format).reduce((ret, field) => {
+            ret[field] = {
+                header: labelFor(field, labels),
                 placeholder: placeholderFor(field, format),
                 required: required.has(field),
                 uppercase: uppercase.has(field)
             }
             if (field == 'postal-code' && format['postal-code']) {
-                ret.validation = clone(format['postal-code'])
-                delete ret.validation.examples
+                ret[field].validation = clone(format['postal-code'])
+                delete ret[field].validation.examples
             }
             return ret
-        })
+        }, {})
 
         return {
             format: format.format,
-            headers,
             fields
         }
     }

@@ -149,6 +149,7 @@ const usFormat = geo.country.addressFormat('US')
 // usFormat.format === '%N%n%O%n%A%n%C, %S %Z'
 
 const usHeaders = geo.country.addressHeaders('US')
+// Still available as a compact lookup map:
 // {
 //   recipient: 'Recipient',
 //   organization: 'Organization',
@@ -159,9 +160,9 @@ const usHeaders = geo.country.addressHeaders('US')
 // }
 
 const usForm = geo.country.addressForm('US')
-// Returns { format, headers, fields }
-// fields includes key, placeholder, required, uppercase, and postal-code validation metadata.
-// Use headers[field.key] for the display label; use field.placeholder for input placeholder text.
+// Returns { format, fields }
+// fields is an object keyed by address field name; the format string controls layout/order.
+// Each field includes header, placeholder, required, uppercase, and postal-code validation metadata.
 // Postal-code examples remain on addressFormat(), while addressForm() exposes only one placeholder example.
 ```
 
