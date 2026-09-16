@@ -60,6 +60,48 @@
     "continent-code": "EU",
     "currency-codes": [
       "SEK"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nSE-%Z %C",
+      "lines": [
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "post_town",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{3} ?\\d{2})$",
+        "examples": [
+          "11455",
+          "12345",
+          "10500"
+        ],
+        "lookup-url": "https://www.postnord.se/en/our-tools/search-postcode-and-address/"
+      },
+      "postal-code-prefix": "SE-"
+    }
   }
 }

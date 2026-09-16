@@ -65,6 +65,37 @@
     "continent-code": "AF",
     "currency-codes": [
       "XOF"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %X",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "sorting-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

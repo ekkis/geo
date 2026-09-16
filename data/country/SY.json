@@ -53,6 +53,36 @@
     "continent-code": "AS",
     "currency-codes": [
       "SYP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "district",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

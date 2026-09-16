@@ -58,6 +58,48 @@
     "continent-code": "SA",
     "currency-codes": [
       "USD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z%n%C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code"
+        ],
+        [
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "090105",
+          "092301"
+        ],
+        "lookup-url": "http://www.codigopostal.gob.ec/"
+      }
+    }
   }
 }

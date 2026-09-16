@@ -48,6 +48,45 @@
     "continent-code": "AS",
     "currency-codes": [
       "SGD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%nSINGAPORE %Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "546080",
+          "308125",
+          "408600"
+        ],
+        "lookup-url": "https://www.singpost.com/find-postal-code"
+      }
+    }
   }
 }

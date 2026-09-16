@@ -62,6 +62,53 @@
     "continent-code": "AS",
     "currency-codes": [
       "UZS"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C%n%S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ],
+        [
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "uz",
+        "ru"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "702100",
+          "700000"
+        ],
+        "lookup-url": "https://uz.post/ru/mening-pochta-indeksim"
+      }
+    }
   }
 }

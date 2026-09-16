@@ -61,6 +61,47 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nFI-%Z %C",
+      "lines": [
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "00550",
+          "00011"
+        ],
+        "lookup-url": "https://support.posti.fi/fi/tyokalut/postinumerohaku.html"
+      },
+      "postal-code-prefix": "FI-"
+    }
   }
 }

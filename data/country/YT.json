@@ -37,6 +37,47 @@
     "continent-code": "AF",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%Z %C %X",
+      "lines": [
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality",
+          "sorting-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "sorting-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:976\\d{2})$",
+        "examples": [
+          "97600"
+        ]
+      }
+    }
   }
 }

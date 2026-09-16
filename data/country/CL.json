@@ -63,6 +63,52 @@
     "continent-code": "SA",
     "currency-codes": [
       "CLP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C%n%S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ],
+        [
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{7})$",
+        "examples": [
+          "8340457",
+          "8720019",
+          "1230000",
+          "8329100"
+        ]
+      }
+    }
   }
 }

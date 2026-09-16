@@ -53,6 +53,39 @@
     "continent-code": "AS",
     "currency-codes": [
       "AED"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "field-labels": {
+        "administrative-area": "emirate",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

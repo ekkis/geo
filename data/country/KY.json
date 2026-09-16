@@ -39,6 +39,55 @@
     "continent-code": "NA",
     "currency-codes": [
       "KYD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%S %Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "administrative-area",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "island",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:KY\\d-\\d{4})$",
+        "examples": [
+          "KY1-1100",
+          "KY1-1702",
+          "KY2-2101"
+        ],
+        "lookup-url": "http://www.caymanpost.gov.ky/"
+      }
+    },
+    "postal-code": {
+      "regex": "^(KY\\d-\\d{4})$",
+      "examples": [
+        "KY1-1100,KY1-1702,KY2-2101"
+      ]
+    }
   }
 }

@@ -55,6 +55,52 @@
     "continent-code": "SA",
     "currency-codes": [
       "VEF"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z, %S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "postal-code",
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "state",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "1010",
+          "3001",
+          "8011",
+          "1020"
+        ]
+      }
+    }
   }
 }

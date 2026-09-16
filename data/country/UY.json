@@ -57,6 +57,49 @@
     "continent-code": "SA",
     "currency-codes": [
       "UYU"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C %S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality",
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "11600"
+        ],
+        "lookup-url": "http://www.correo.com.uy/index.asp?codPag=codPost&switchMapa=codPost"
+      }
+    }
   }
 }

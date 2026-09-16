@@ -60,6 +60,47 @@
     "continent-code": "AS",
     "currency-codes": [
       "PKR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D%n%C-%Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "dependent-locality"
+        ],
+        [
+          "locality",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "44000"
+        ],
+        "lookup-url": "http://www.pakpost.gov.pk/postcodes.php"
+      }
+    }
   }
 }

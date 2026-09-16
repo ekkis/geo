@@ -43,6 +43,49 @@
     "continent-code": "NA",
     "currency-codes": [
       "USD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C PR %Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "recipient",
+        "organization"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "zip"
+      },
+      "postal-code": {
+        "regex": "^(?:(00[679]\\d{2})(?:[ \\-](\\d{4}))?)$",
+        "examples": [
+          "00930"
+        ],
+        "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp"
+      },
+      "postal-code-prefix": "PR "
+    }
   }
 }

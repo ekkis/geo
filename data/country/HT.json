@@ -52,6 +52,47 @@
     "continent-code": "NA",
     "currency-codes": [
       "HTG"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%nHT%Z %C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "6120",
+          "5310",
+          "6110",
+          "8510"
+        ]
+      },
+      "postal-code-prefix": "HT"
+    }
   }
 }

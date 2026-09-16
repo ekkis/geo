@@ -67,6 +67,51 @@
     "continent-code": "AF",
     "currency-codes": [
       "ZAR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D%n%C%n%Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "dependent-locality"
+        ],
+        [
+          "locality"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "0083",
+          "1451",
+          "0001"
+        ]
+      }
+    }
   }
 }

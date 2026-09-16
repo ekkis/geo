@@ -69,6 +69,52 @@
     "continent-code": "EU",
     "currency-codes": [
       "HUF"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%C%n%A%n%Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "locality"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "street-address",
+        "locality",
+        "recipient",
+        "organization"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "1037",
+          "2380",
+          "1540"
+        ],
+        "lookup-url": "http://posta.hu/ugyfelszolgalat/iranyitoszam_kereso"
+      }
+    }
   }
 }

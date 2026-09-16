@@ -63,6 +63,57 @@
     "continent-code": "NA",
     "currency-codes": [
       "MXN"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D%n%Z %C, %S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "dependent-locality"
+        ],
+        [
+          "postal-code",
+          "locality",
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "state",
+        "locality": "city",
+        "dependent-locality": "neighborhood",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "02860",
+          "77520",
+          "06082"
+        ],
+        "lookup-url": "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx"
+      }
+    }
   }
 }

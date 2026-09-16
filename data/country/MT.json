@@ -49,6 +49,50 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:[A-Z]{3} ?\\d{2,4})$",
+        "examples": [
+          "NXR 01",
+          "ZTN 05",
+          "GPO 01",
+          "BZN 1130",
+          "SPB 6031",
+          "VCT 1753"
+        ],
+        "lookup-url": "https://www.maltapost.com/PostCode/"
+      }
+    }
   }
 }

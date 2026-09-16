@@ -59,6 +59,46 @@
     "continent-code": "EU",
     "currency-codes": [
       "DKK"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "8660",
+          "1566"
+        ],
+        "lookup-url": "http://www.postdanmark.dk/da/Privat/Kundeservice/postnummerkort/Sider/Find-postnummer.aspx"
+      }
+    }
   }
 }

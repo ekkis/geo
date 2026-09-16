@@ -61,6 +61,46 @@
     "continent-code": "EU",
     "currency-codes": [
       "CHF"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nCH-%Z %C",
+      "lines": [
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "2544",
+          "1211",
+          "1556",
+          "3030"
+        ],
+        "lookup-url": "http://www.post.ch/db/owa/pv_plz_pack/pr_main"
+      },
+      "postal-code-prefix": "CH-"
+    }
   }
 }

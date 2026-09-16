@@ -74,6 +74,57 @@
     "continent-code": "SA",
     "currency-codes": [
       "BRL"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%D%n%C-%S%n%Z",
+      "lines": [
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "dependent-locality"
+        ],
+        [
+          "locality",
+          "administrative-area"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "administrative-area",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "field-labels": {
+        "administrative-area": "state",
+        "locality": "city",
+        "dependent-locality": "neighborhood",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5}-?\\d{3})$",
+        "examples": [
+          "40301-110",
+          "70002-900"
+        ],
+        "lookup-url": "http://www.buscacep.correios.com.br/"
+      }
+    }
   }
 }

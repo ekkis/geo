@@ -62,6 +62,49 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%S%n%C, %Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "administrative-area"
+        ],
+        [
+          "locality",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:LV-\\d{4})$",
+        "examples": [
+          "LV-1073",
+          "LV-1000"
+        ],
+        "lookup-url": "https://pasts.lv/lv/kategorija/pasta_nodalas/"
+      }
+    }
   }
 }

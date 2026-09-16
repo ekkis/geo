@@ -33,6 +33,51 @@
     "continent-code": "EU",
     "currency-codes": [
       "NOK"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "post_town",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "9170"
+        ],
+        "lookup-url": "http://epab.posten.no/"
+      }
+    },
+    "postal-code": {
+      "regex": "^(\\d{4})$",
+      "examples": [
+        "9170"
+      ]
+    }
   }
 }

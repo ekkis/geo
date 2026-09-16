@@ -53,6 +53,49 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "ca"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:AD[1-7]0\\d)$",
+        "examples": [
+          "AD100",
+          "AD501",
+          "AD700"
+        ],
+        "lookup-url": "http://www.correos.es/comun/CodigosPostales/1010_s-CodPostal.asp?Provincia="
+      }
+    }
   }
 }

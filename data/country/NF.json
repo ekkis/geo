@@ -33,6 +33,51 @@
     "continent-code": "OC",
     "currency-codes": [
       "AUD"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%C %S %Z",
+      "lines": [
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "administrative-area",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality",
+        "administrative-area"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:2899)$",
+        "examples": [
+          "2899"
+        ]
+      }
+    },
+    "postal-code": {
+      "regex": "^(2899)$",
+      "examples": [
+        "2899"
+      ]
+    }
   }
 }

@@ -54,6 +54,77 @@
     "continent-code": "AS",
     "currency-codes": [
       "KRW"
-    ]
+    ],
+    "address-format": {
+      "format": "%S %C%D%n%A%n%O%n%N%n%Z",
+      "lines": [
+        [
+          "administrative-area",
+          "locality",
+          "dependent-locality"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "recipient"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "latin-format": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
+      "latin-lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "dependent-locality"
+        ],
+        [
+          "locality"
+        ],
+        [
+          "administrative-area"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area",
+        "postal-code"
+      ],
+      "uppercase-fields": [
+        "postal-code"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "field-labels": {
+        "administrative-area": "do_si",
+        "locality": "city",
+        "dependent-locality": "district",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "03051"
+        ],
+        "lookup-url": "http://www.epost.go.kr/search/zipcode/search5.jsp"
+      }
+    }
   }
 }

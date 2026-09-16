@@ -26,6 +26,49 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:[1-7]\\d{4})$",
+        "examples": [
+          "10000"
+        ]
+      }
+    },
+    "postal-code": {
+      "regex": "^([1-7]\\d{4})$",
+      "examples": [
+        "10000"
+      ]
+    }
   }
 }

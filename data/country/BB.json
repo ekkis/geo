@@ -47,6 +47,48 @@
     "continent-code": "NA",
     "currency-codes": [
       "BBD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C, %S %Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "administrative-area",
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "parish",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:BB\\d{5})$",
+        "examples": [
+          "BB23026",
+          "BB22025"
+        ]
+      }
+    }
   }
 }

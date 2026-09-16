@@ -60,6 +60,50 @@
     "continent-code": "NA",
     "currency-codes": [
       "HNL"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C, %S%n%Z",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "administrative-area"
+        ],
+        [
+          "postal-code"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality",
+        "administrative-area"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "es"
+      ],
+      "field-labels": {
+        "administrative-area": "department",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{5})$",
+        "examples": [
+          "31301"
+        ]
+      }
+    }
   }
 }

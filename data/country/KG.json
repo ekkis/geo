@@ -62,6 +62,43 @@
     "continent-code": "AS",
     "currency-codes": [
       "KGS"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "postal-code",
+          "locality"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{6})$",
+        "examples": [
+          "720001"
+        ]
+      }
+    }
   }
 }

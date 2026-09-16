@@ -42,6 +42,40 @@
     "continent-code": "NA",
     "currency-codes": [
       "BSD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C, %S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "locality",
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "island",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      }
+    }
   }
 }

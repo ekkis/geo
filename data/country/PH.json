@@ -50,6 +50,56 @@
     "continent-code": "AS",
     "currency-codes": [
       "PHP"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D, %C%n%Z %S",
+      "lines": [
+        [
+          "recipient"
+        ],
+        [
+          "organization"
+        ],
+        [
+          "street-address"
+        ],
+        [
+          "dependent-locality",
+          "locality"
+        ],
+        [
+          "postal-code",
+          "administrative-area"
+        ]
+      ],
+      "required-fields": [
+        "street-address",
+        "locality"
+      ],
+      "uppercase-fields": [
+        "locality"
+      ],
+      "languages": [
+        "en"
+      ],
+      "field-labels": {
+        "administrative-area": "province",
+        "locality": "city",
+        "dependent-locality": "suburb",
+        "postal-code": "postal"
+      },
+      "postal-code": {
+        "regex": "^(?:\\d{4})$",
+        "examples": [
+          "1008",
+          "1050",
+          "1135",
+          "1207",
+          "2000",
+          "1000"
+        ],
+        "lookup-url": "https://phlpost.gov.ph/zip-code-locator/"
+      }
+    }
   }
 }
