@@ -70,6 +70,48 @@ function labelFor(field, labels = {}) {
     if (label == 'zip') return 'ZIP'
     return words(label || defaultLabel(field))
 }
+function placeholderFor(field, format = {}) {
+    if (field == 'postal-code') {
+        var postal = format['postal-code'] || {}
+        if (postal.examples && postal.examples.length) return postal.examples[0]
+        if (postal.format) return postal.format
+    }
+
+    var labels = format['field-labels'] || {}
+    var label = (labels[field] || '').toLowerCase().replace(/_/g, ' ')
+    var examples = {
+        'recipient': 'Jane Smith',
+        'organization': 'Example Company',
+        'street-address': '123 Main St',
+        'dependent-locality': 'Neighborhood',
+        'locality': 'City',
+        'administrative-area': 'State / Province',
+        'postal-code': 'Postal Code',
+        'sorting-code': 'Sorting Code'
+    }
+    var labelExamples = {
+        'area': 'Area',
+        'city': 'City',
+        'county': 'County',
+        'department': 'Department',
+        'district': 'District',
+        'do si': 'Do/Si',
+        'emirate': 'Emirate',
+        'island': 'Island',
+        'neighborhood': 'Neighborhood',
+        'oblast': 'Oblast',
+        'parish': 'Parish',
+        'post town': 'Post Town',
+        'prefecture': 'Prefecture',
+        'province': 'Province',
+        'state': 'State',
+        'suburb': 'Suburb',
+        'townland': 'Townland',
+        'village township': 'Village / Township',
+        'zip': '95014'
+    }
+    return labelExamples[label] || examples[field] || defaultLabel(field)
+}
 // Base Entity class with list and find methods
 class Entity {
     constructor(data) {
@@ -110,11 +152,13 @@ class Entity {
         var fields = Object.keys(headers).map(field => {
             var ret = {
                 key: field,
+                placeholder: placeholderFor(field, format),
                 required: required.has(field),
                 uppercase: uppercase.has(field)
             }
             if (field == 'postal-code' && format['postal-code']) {
                 ret.validation = clone(format['postal-code'])
+                delete ret.validation.examples
             }
             return ret
         })
