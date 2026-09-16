@@ -110,7 +110,6 @@ class Entity {
         var fields = Object.keys(headers).map(field => {
             var ret = {
                 key: field,
-                label: headers[field],
                 required: required.has(field),
                 uppercase: uppercase.has(field)
             }

@@ -160,7 +160,8 @@ const usHeaders = geo.country.addressHeaders('US')
 
 const usForm = geo.country.addressForm('US')
 // Returns { format, headers, fields }
-// fields includes label, required, uppercase, and postal-code validation metadata.
+// fields includes key, required, uppercase, and postal-code validation metadata.
+// Use headers[field.key] for the display label.
 ```
 
 ## NPM Commands
