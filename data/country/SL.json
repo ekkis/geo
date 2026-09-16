@@ -80,6 +80,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province_area",
+        "label": "Province / Area",
+        "standard": "ISO 3166-2",
+        "file": "SL.province_area.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

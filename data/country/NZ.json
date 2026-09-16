@@ -100,6 +100,17 @@
           }
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "region_special_island_authority",
+        "label": "Region / Special Island Authority",
+        "standard": "ISO 3166-2",
+        "file": "NZ.region_special_island_authority.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

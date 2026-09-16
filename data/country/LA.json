@@ -104,6 +104,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province_prefecture",
+        "label": "Province / Prefecture",
+        "standard": "ISO 3166-2",
+        "file": "LA.province_prefecture.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

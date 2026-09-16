@@ -105,6 +105,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "self_governed_part_administrative_region",
+        "label": "Self Governed Part / Administrative Region",
+        "standard": "ISO 3166-2",
+        "file": "GR.self_governed_part_administrative_region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

@@ -93,6 +93,17 @@
       "languages": [
         "en"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "file": "FM.state.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

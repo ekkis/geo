@@ -93,6 +93,17 @@
       "languages": [
         "pt"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "geographical_region_municipality",
+        "label": "Geographical Region / Municipality",
+        "standard": "ISO 3166-2",
+        "file": "CV.geographical_region_municipality.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

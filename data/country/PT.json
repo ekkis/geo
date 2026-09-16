@@ -101,6 +101,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "district_autonomous_region",
+        "label": "District / Autonomous Region",
+        "standard": "ISO 3166-2",
+        "file": "PT.district_autonomous_region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

@@ -104,6 +104,17 @@
           }
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "region_state_union_territory",
+        "label": "Region / State / Union Territory",
+        "standard": "ISO 3166-2",
+        "file": "MM.region_state_union_territory.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

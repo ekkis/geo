@@ -1,245 +1,569 @@
 {
-  "ADA": {
-    "name": "Adana"
-  },
-  "ADI": {
-    "name": "Adıyaman"
-  },
-  "AFY": {
-    "name": "Afyonkarahisar"
-  },
-  "AGR": {
-    "name": "Ağrı"
-  },
-  "AKS": {
-    "name": "Aksaray"
-  },
-  "AMA": {
-    "name": "Amasya"
-  },
-  "ANK": {
-    "name": "Ankara"
-  },
-  "ANT": {
-    "name": "Antalya"
-  },
-  "ARD": {
-    "name": "Ardahan"
-  },
-  "ART": {
-    "name": "Artvin"
-  },
-  "AYD": {
-    "name": "Aydın"
-  },
-  "BAL": {
-    "name": "Balıkesir"
-  },
-  "BAR": {
-    "name": "Bartın"
-  },
-  "BAT": {
-    "name": "Batman"
-  },
-  "BAY": {
-    "name": "Bayburt"
-  },
-  "BIL": {
-    "name": "Bilecik"
-  },
-  "BIN": {
-    "name": "Bingöl"
-  },
-  "BIT": {
-    "name": "Bitlis"
-  },
-  "BOL": {
-    "name": "Bolu"
-  },
-  "BUR": {
-    "name": "Burdur"
-  },
-  "BURS": {
-    "name": "Bursa"
-  },
-  "CAN": {
-    "name": "Çanakkale"
-  },
-  "CANK": {
-    "name": "Çankırı"
-  },
-  "COR": {
-    "name": "Çorum"
-  },
-  "DEN": {
-    "name": "Denizli"
-  },
-  "DIY": {
-    "name": "Diyarbakır"
-  },
-  "DUZ": {
-    "name": "Düzce"
-  },
-  "EDI": {
-    "name": "Edirne"
-  },
-  "ELA": {
-    "name": "Elazığ"
-  },
-  "ERZ": {
-    "name": "Erzincan"
-  },
-  "ERZU": {
-    "name": "Erzurum"
-  },
-  "ESK": {
-    "name": "Eskişehir"
-  },
-  "GAZ": {
-    "name": "Gaziantep"
-  },
-  "GIR": {
-    "name": "Giresun"
-  },
-  "GUM": {
-    "name": "Gümüşhane"
-  },
-  "HAK": {
-    "name": "Hakkâri"
-  },
-  "HAT": {
-    "name": "Hatay"
-  },
-  "IGD": {
-    "name": "Iğdır"
-  },
-  "ISP": {
-    "name": "Isparta"
-  },
-  "IST": {
-    "name": "İstanbul"
-  },
-  "IZM": {
-    "name": "İzmir"
-  },
-  "KAH": {
-    "name": "Kahramanmaraş"
-  },
-  "KAR": {
-    "name": "Karabük"
-  },
-  "KARA": {
-    "name": "Karaman"
-  },
-  "KARS": {
-    "name": "Kars"
-  },
-  "KAS": {
-    "name": "Kastamonu"
-  },
-  "KAY": {
-    "name": "Kayseri"
-  },
-  "KIL": {
-    "name": "Kilis"
-  },
-  "KIR": {
-    "name": "Kırıkkale"
-  },
-  "KRK": {
-    "name": "Kırklareli"
-  },
-  "KRS": {
-    "name": "Kırşehir"
-  },
-  "KOC": {
-    "name": "Kocaeli"
-  },
-  "KON": {
-    "name": "Konya"
-  },
-  "KUT": {
-    "name": "Kütahya"
-  },
-  "MAL": {
-    "name": "Malatya"
-  },
-  "MAN": {
-    "name": "Manisa"
-  },
-  "MAR": {
-    "name": "Mardin"
-  },
-  "MER": {
-    "name": "Mersin"
-  },
-  "MUG": {
-    "name": "Muğla"
-  },
-  "MUS": {
-    "name": "Muş"
-  },
-  "NEV": {
-    "name": "Nevşehir"
-  },
-  "NIG": {
-    "name": "Niğde"
-  },
-  "ORD": {
-    "name": "Ordu"
-  },
-  "OSM": {
-    "name": "Osmaniye"
-  },
-  "RIZ": {
-    "name": "Rize"
-  },
-  "SAK": {
-    "name": "Sakarya"
-  },
-  "SAM": {
-    "name": "Samsun"
-  },
-  "SAN": {
-    "name": "Şanlıurfa"
-  },
-  "SII": {
-    "name": "Siirt"
-  },
-  "SIN": {
-    "name": "Sinop"
-  },
-  "SIV": {
-    "name": "Sivas"
-  },
-  "SRN": {
-    "name": "Şırnak"
-  },
-  "TEK": {
-    "name": "Tekirdağ"
-  },
-  "TOK": {
-    "name": "Tokat"
-  },
-  "TRA": {
-    "name": "Trabzon"
-  },
-  "TUN": {
-    "name": "Tunceli"
-  },
-  "USA": {
-    "name": "Uşak"
-  },
-  "VAN": {
-    "name": "Van"
-  },
-  "YAL": {
-    "name": "Yalova"
-  },
-  "YOZ": {
-    "name": "Yozgat"
-  },
-  "ZON": {
-    "name": "Zonguldak"
+  "01": {
+    "name": "Adana",
+    "type": "Province",
+    "iso3166-2": "TR-01",
+    "iso-name": "Adana",
+    "iso-type": "Province"
+  },
+  "02": {
+    "name": "Adıyaman",
+    "type": "Province",
+    "iso3166-2": "TR-02",
+    "iso-name": "Adıyaman",
+    "iso-type": "Province"
+  },
+  "03": {
+    "name": "Afyonkarahisar",
+    "type": "Province",
+    "iso3166-2": "TR-03",
+    "iso-name": "Afyonkarahisar",
+    "iso-type": "Province"
+  },
+  "04": {
+    "name": "Ağrı",
+    "type": "Province",
+    "iso3166-2": "TR-04",
+    "iso-name": "Ağrı",
+    "iso-type": "Province"
+  },
+  "05": {
+    "name": "Amasya",
+    "type": "Province",
+    "iso3166-2": "TR-05",
+    "iso-name": "Amasya",
+    "iso-type": "Province"
+  },
+  "06": {
+    "name": "Ankara",
+    "type": "Province",
+    "iso3166-2": "TR-06",
+    "iso-name": "Ankara",
+    "iso-type": "Province"
+  },
+  "07": {
+    "name": "Antalya",
+    "type": "Province",
+    "iso3166-2": "TR-07",
+    "iso-name": "Antalya",
+    "iso-type": "Province"
+  },
+  "08": {
+    "name": "Artvin",
+    "type": "Province",
+    "iso3166-2": "TR-08",
+    "iso-name": "Artvin",
+    "iso-type": "Province"
+  },
+  "09": {
+    "name": "Aydın",
+    "type": "Province",
+    "iso3166-2": "TR-09",
+    "iso-name": "Aydın",
+    "iso-type": "Province"
+  },
+  "10": {
+    "name": "Balıkesir",
+    "type": "Province",
+    "iso3166-2": "TR-10",
+    "iso-name": "Balıkesir",
+    "iso-type": "Province"
+  },
+  "11": {
+    "name": "Bilecik",
+    "type": "Province",
+    "iso3166-2": "TR-11",
+    "iso-name": "Bilecik",
+    "iso-type": "Province"
+  },
+  "12": {
+    "name": "Bingöl",
+    "type": "Province",
+    "iso3166-2": "TR-12",
+    "iso-name": "Bingöl",
+    "iso-type": "Province"
+  },
+  "13": {
+    "name": "Bitlis",
+    "type": "Province",
+    "iso3166-2": "TR-13",
+    "iso-name": "Bitlis",
+    "iso-type": "Province"
+  },
+  "14": {
+    "name": "Bolu",
+    "type": "Province",
+    "iso3166-2": "TR-14",
+    "iso-name": "Bolu",
+    "iso-type": "Province"
+  },
+  "15": {
+    "name": "Burdur",
+    "type": "Province",
+    "iso3166-2": "TR-15",
+    "iso-name": "Burdur",
+    "iso-type": "Province"
+  },
+  "16": {
+    "name": "Bursa",
+    "type": "Province",
+    "iso3166-2": "TR-16",
+    "iso-name": "Bursa",
+    "iso-type": "Province"
+  },
+  "17": {
+    "name": "Çanakkale",
+    "type": "Province",
+    "iso3166-2": "TR-17",
+    "iso-name": "Çanakkale",
+    "iso-type": "Province"
+  },
+  "18": {
+    "name": "Çankırı",
+    "type": "Province",
+    "iso3166-2": "TR-18",
+    "iso-name": "Çankırı",
+    "iso-type": "Province"
+  },
+  "19": {
+    "name": "Çorum",
+    "type": "Province",
+    "iso3166-2": "TR-19",
+    "iso-name": "Çorum",
+    "iso-type": "Province"
+  },
+  "20": {
+    "name": "Denizli",
+    "type": "Province",
+    "iso3166-2": "TR-20",
+    "iso-name": "Denizli",
+    "iso-type": "Province"
+  },
+  "21": {
+    "name": "Diyarbakır",
+    "type": "Province",
+    "iso3166-2": "TR-21",
+    "iso-name": "Diyarbakır",
+    "iso-type": "Province"
+  },
+  "22": {
+    "name": "Edirne",
+    "type": "Province",
+    "iso3166-2": "TR-22",
+    "iso-name": "Edirne",
+    "iso-type": "Province"
+  },
+  "23": {
+    "name": "Elazığ",
+    "type": "Province",
+    "iso3166-2": "TR-23",
+    "iso-name": "Elazığ",
+    "iso-type": "Province"
+  },
+  "24": {
+    "name": "Erzincan",
+    "type": "Province",
+    "iso3166-2": "TR-24",
+    "iso-name": "Erzincan",
+    "iso-type": "Province"
+  },
+  "25": {
+    "name": "Erzurum",
+    "type": "Province",
+    "iso3166-2": "TR-25",
+    "iso-name": "Erzurum",
+    "iso-type": "Province"
+  },
+  "26": {
+    "name": "Eskişehir",
+    "type": "Province",
+    "iso3166-2": "TR-26",
+    "iso-name": "Eskişehir",
+    "iso-type": "Province"
+  },
+  "27": {
+    "name": "Gaziantep",
+    "type": "Province",
+    "iso3166-2": "TR-27",
+    "iso-name": "Gaziantep",
+    "iso-type": "Province"
+  },
+  "28": {
+    "name": "Giresun",
+    "type": "Province",
+    "iso3166-2": "TR-28",
+    "iso-name": "Giresun",
+    "iso-type": "Province"
+  },
+  "29": {
+    "name": "Gümüşhane",
+    "type": "Province",
+    "iso3166-2": "TR-29",
+    "iso-name": "Gümüşhane",
+    "iso-type": "Province"
+  },
+  "30": {
+    "name": "Hakkâri",
+    "type": "Province",
+    "iso3166-2": "TR-30",
+    "iso-name": "Hakkâri",
+    "iso-type": "Province"
+  },
+  "31": {
+    "name": "Hatay",
+    "type": "Province",
+    "iso3166-2": "TR-31",
+    "iso-name": "Hatay",
+    "iso-type": "Province"
+  },
+  "32": {
+    "name": "Isparta",
+    "type": "Province",
+    "iso3166-2": "TR-32",
+    "iso-name": "Isparta",
+    "iso-type": "Province"
+  },
+  "33": {
+    "name": "Mersin",
+    "type": "Province",
+    "iso3166-2": "TR-33",
+    "iso-name": "Mersin",
+    "iso-type": "Province"
+  },
+  "34": {
+    "name": "İstanbul",
+    "type": "Province",
+    "iso3166-2": "TR-34",
+    "iso-name": "İstanbul",
+    "iso-type": "Province"
+  },
+  "35": {
+    "name": "İzmir",
+    "type": "Province",
+    "iso3166-2": "TR-35",
+    "iso-name": "İzmir",
+    "iso-type": "Province"
+  },
+  "36": {
+    "name": "Kars",
+    "type": "Province",
+    "iso3166-2": "TR-36",
+    "iso-name": "Kars",
+    "iso-type": "Province"
+  },
+  "37": {
+    "name": "Kastamonu",
+    "type": "Province",
+    "iso3166-2": "TR-37",
+    "iso-name": "Kastamonu",
+    "iso-type": "Province"
+  },
+  "38": {
+    "name": "Kayseri",
+    "type": "Province",
+    "iso3166-2": "TR-38",
+    "iso-name": "Kayseri",
+    "iso-type": "Province"
+  },
+  "39": {
+    "name": "Kırklareli",
+    "type": "Province",
+    "iso3166-2": "TR-39",
+    "iso-name": "Kırklareli",
+    "iso-type": "Province"
+  },
+  "40": {
+    "name": "Kırşehir",
+    "type": "Province",
+    "iso3166-2": "TR-40",
+    "iso-name": "Kırşehir",
+    "iso-type": "Province"
+  },
+  "41": {
+    "name": "Kocaeli",
+    "type": "Province",
+    "iso3166-2": "TR-41",
+    "iso-name": "Kocaeli",
+    "iso-type": "Province"
+  },
+  "42": {
+    "name": "Konya",
+    "type": "Province",
+    "iso3166-2": "TR-42",
+    "iso-name": "Konya",
+    "iso-type": "Province"
+  },
+  "43": {
+    "name": "Kütahya",
+    "type": "Province",
+    "iso3166-2": "TR-43",
+    "iso-name": "Kütahya",
+    "iso-type": "Province"
+  },
+  "44": {
+    "name": "Malatya",
+    "type": "Province",
+    "iso3166-2": "TR-44",
+    "iso-name": "Malatya",
+    "iso-type": "Province"
+  },
+  "45": {
+    "name": "Manisa",
+    "type": "Province",
+    "iso3166-2": "TR-45",
+    "iso-name": "Manisa",
+    "iso-type": "Province"
+  },
+  "46": {
+    "name": "Kahramanmaraş",
+    "type": "Province",
+    "iso3166-2": "TR-46",
+    "iso-name": "Kahramanmaraş",
+    "iso-type": "Province"
+  },
+  "47": {
+    "name": "Mardin",
+    "type": "Province",
+    "iso3166-2": "TR-47",
+    "iso-name": "Mardin",
+    "iso-type": "Province"
+  },
+  "48": {
+    "name": "Muğla",
+    "type": "Province",
+    "iso3166-2": "TR-48",
+    "iso-name": "Muğla",
+    "iso-type": "Province"
+  },
+  "49": {
+    "name": "Muş",
+    "type": "Province",
+    "iso3166-2": "TR-49",
+    "iso-name": "Muş",
+    "iso-type": "Province"
+  },
+  "50": {
+    "name": "Nevşehir",
+    "type": "Province",
+    "iso3166-2": "TR-50",
+    "iso-name": "Nevşehir",
+    "iso-type": "Province"
+  },
+  "51": {
+    "name": "Niğde",
+    "type": "Province",
+    "iso3166-2": "TR-51",
+    "iso-name": "Niğde",
+    "iso-type": "Province"
+  },
+  "52": {
+    "name": "Ordu",
+    "type": "Province",
+    "iso3166-2": "TR-52",
+    "iso-name": "Ordu",
+    "iso-type": "Province"
+  },
+  "53": {
+    "name": "Rize",
+    "type": "Province",
+    "iso3166-2": "TR-53",
+    "iso-name": "Rize",
+    "iso-type": "Province"
+  },
+  "54": {
+    "name": "Sakarya",
+    "type": "Province",
+    "iso3166-2": "TR-54",
+    "iso-name": "Sakarya",
+    "iso-type": "Province"
+  },
+  "55": {
+    "name": "Samsun",
+    "type": "Province",
+    "iso3166-2": "TR-55",
+    "iso-name": "Samsun",
+    "iso-type": "Province"
+  },
+  "56": {
+    "name": "Siirt",
+    "type": "Province",
+    "iso3166-2": "TR-56",
+    "iso-name": "Siirt",
+    "iso-type": "Province"
+  },
+  "57": {
+    "name": "Sinop",
+    "type": "Province",
+    "iso3166-2": "TR-57",
+    "iso-name": "Sinop",
+    "iso-type": "Province"
+  },
+  "58": {
+    "name": "Sivas",
+    "type": "Province",
+    "iso3166-2": "TR-58",
+    "iso-name": "Sivas",
+    "iso-type": "Province"
+  },
+  "59": {
+    "name": "Tekirdağ",
+    "type": "Province",
+    "iso3166-2": "TR-59",
+    "iso-name": "Tekirdağ",
+    "iso-type": "Province"
+  },
+  "60": {
+    "name": "Tokat",
+    "type": "Province",
+    "iso3166-2": "TR-60",
+    "iso-name": "Tokat",
+    "iso-type": "Province"
+  },
+  "61": {
+    "name": "Trabzon",
+    "type": "Province",
+    "iso3166-2": "TR-61",
+    "iso-name": "Trabzon",
+    "iso-type": "Province"
+  },
+  "62": {
+    "name": "Tunceli",
+    "type": "Province",
+    "iso3166-2": "TR-62",
+    "iso-name": "Tunceli",
+    "iso-type": "Province"
+  },
+  "63": {
+    "name": "Şanlıurfa",
+    "type": "Province",
+    "iso3166-2": "TR-63",
+    "iso-name": "Şanlıurfa",
+    "iso-type": "Province"
+  },
+  "64": {
+    "name": "Uşak",
+    "type": "Province",
+    "iso3166-2": "TR-64",
+    "iso-name": "Uşak",
+    "iso-type": "Province"
+  },
+  "65": {
+    "name": "Van",
+    "type": "Province",
+    "iso3166-2": "TR-65",
+    "iso-name": "Van",
+    "iso-type": "Province"
+  },
+  "66": {
+    "name": "Yozgat",
+    "type": "Province",
+    "iso3166-2": "TR-66",
+    "iso-name": "Yozgat",
+    "iso-type": "Province"
+  },
+  "67": {
+    "name": "Zonguldak",
+    "type": "Province",
+    "iso3166-2": "TR-67",
+    "iso-name": "Zonguldak",
+    "iso-type": "Province"
+  },
+  "68": {
+    "name": "Aksaray",
+    "type": "Province",
+    "iso3166-2": "TR-68",
+    "iso-name": "Aksaray",
+    "iso-type": "Province"
+  },
+  "69": {
+    "name": "Bayburt",
+    "type": "Province",
+    "iso3166-2": "TR-69",
+    "iso-name": "Bayburt",
+    "iso-type": "Province"
+  },
+  "70": {
+    "name": "Karaman",
+    "type": "Province",
+    "iso3166-2": "TR-70",
+    "iso-name": "Karaman",
+    "iso-type": "Province"
+  },
+  "71": {
+    "name": "Kırıkkale",
+    "type": "Province",
+    "iso3166-2": "TR-71",
+    "iso-name": "Kırıkkale",
+    "iso-type": "Province"
+  },
+  "72": {
+    "name": "Batman",
+    "type": "Province",
+    "iso3166-2": "TR-72",
+    "iso-name": "Batman",
+    "iso-type": "Province"
+  },
+  "73": {
+    "name": "Şırnak",
+    "type": "Province",
+    "iso3166-2": "TR-73",
+    "iso-name": "Şırnak",
+    "iso-type": "Province"
+  },
+  "74": {
+    "name": "Bartın",
+    "type": "Province",
+    "iso3166-2": "TR-74",
+    "iso-name": "Bartın",
+    "iso-type": "Province"
+  },
+  "75": {
+    "name": "Ardahan",
+    "type": "Province",
+    "iso3166-2": "TR-75",
+    "iso-name": "Ardahan",
+    "iso-type": "Province"
+  },
+  "76": {
+    "name": "Iğdır",
+    "type": "Province",
+    "iso3166-2": "TR-76",
+    "iso-name": "Iğdır",
+    "iso-type": "Province"
+  },
+  "77": {
+    "name": "Yalova",
+    "type": "Province",
+    "iso3166-2": "TR-77",
+    "iso-name": "Yalova",
+    "iso-type": "Province"
+  },
+  "78": {
+    "name": "Karabük",
+    "type": "Province",
+    "iso3166-2": "TR-78",
+    "iso-name": "Karabük",
+    "iso-type": "Province"
+  },
+  "79": {
+    "name": "Kilis",
+    "type": "Province",
+    "iso3166-2": "TR-79",
+    "iso-name": "Kilis",
+    "iso-type": "Province"
+  },
+  "80": {
+    "name": "Osmaniye",
+    "type": "Province",
+    "iso3166-2": "TR-80",
+    "iso-name": "Osmaniye",
+    "iso-type": "Province"
+  },
+  "81": {
+    "name": "Düzce",
+    "type": "Province",
+    "iso3166-2": "TR-81",
+    "iso-name": "Düzce",
+    "iso-type": "Province"
   }
 }

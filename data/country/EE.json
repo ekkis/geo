@@ -109,6 +109,17 @@
       "languages": [
         "et"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "rural_municipality_urban_municipality_county",
+        "label": "Rural Municipality / Urban Municipality / County",
+        "standard": "ISO 3166-2",
+        "file": "EE.rural_municipality_urban_municipality_county.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

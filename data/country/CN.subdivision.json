@@ -1,0 +1,240 @@
+{
+  "AH": {
+    "name": "Anhui Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-AH",
+    "iso-name": "Anhui Sheng",
+    "iso-type": "Province"
+  },
+  "BJ": {
+    "name": "Beijing Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-BJ",
+    "iso-name": "Beijing Shi",
+    "iso-type": "Municipality"
+  },
+  "CQ": {
+    "name": "Chongqing Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-CQ",
+    "iso-name": "Chongqing Shi",
+    "iso-type": "Municipality"
+  },
+  "FJ": {
+    "name": "Fujian Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-FJ",
+    "iso-name": "Fujian Sheng",
+    "iso-type": "Province"
+  },
+  "GD": {
+    "name": "Guangdong Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-GD",
+    "iso-name": "Guangdong Sheng",
+    "iso-type": "Province"
+  },
+  "GS": {
+    "name": "Gansu Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-GS",
+    "iso-name": "Gansu Sheng",
+    "iso-type": "Province"
+  },
+  "GX": {
+    "name": "Guangxi Zhuangzu Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-GX",
+    "iso-name": "Guangxi Zhuangzu Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "GZ": {
+    "name": "Guizhou Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-GZ",
+    "iso-name": "Guizhou Sheng",
+    "iso-type": "Province"
+  },
+  "HA": {
+    "name": "Henan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HA",
+    "iso-name": "Henan Sheng",
+    "iso-type": "Province"
+  },
+  "HB": {
+    "name": "Hubei Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HB",
+    "iso-name": "Hubei Sheng",
+    "iso-type": "Province"
+  },
+  "HE": {
+    "name": "Hebei Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HE",
+    "iso-name": "Hebei Sheng",
+    "iso-type": "Province"
+  },
+  "HI": {
+    "name": "Hainan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HI",
+    "iso-name": "Hainan Sheng",
+    "iso-type": "Province"
+  },
+  "HK": {
+    "name": "Hong Kong SAR",
+    "type": "Special administrative region",
+    "iso3166-2": "CN-HK",
+    "iso-name": "Hong Kong SAR",
+    "iso-type": "Special administrative region"
+  },
+  "HL": {
+    "name": "Heilongjiang Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HL",
+    "iso-name": "Heilongjiang Sheng",
+    "iso-type": "Province"
+  },
+  "HN": {
+    "name": "Hunan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HN",
+    "iso-name": "Hunan Sheng",
+    "iso-type": "Province"
+  },
+  "JL": {
+    "name": "Jilin Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-JL",
+    "iso-name": "Jilin Sheng",
+    "iso-type": "Province"
+  },
+  "JS": {
+    "name": "Jiangsu Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-JS",
+    "iso-name": "Jiangsu Sheng",
+    "iso-type": "Province"
+  },
+  "JX": {
+    "name": "Jiangxi Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-JX",
+    "iso-name": "Jiangxi Sheng",
+    "iso-type": "Province"
+  },
+  "LN": {
+    "name": "Liaoning Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-LN",
+    "iso-name": "Liaoning Sheng",
+    "iso-type": "Province"
+  },
+  "MO": {
+    "name": "Macao SAR",
+    "type": "Special administrative region",
+    "iso3166-2": "CN-MO",
+    "iso-name": "Macao SAR",
+    "iso-type": "Special administrative region"
+  },
+  "NM": {
+    "name": "Nei Mongol Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-NM",
+    "iso-name": "Nei Mongol Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "NX": {
+    "name": "Ningxia Huizu Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-NX",
+    "iso-name": "Ningxia Huizu Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "QH": {
+    "name": "Qinghai Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-QH",
+    "iso-name": "Qinghai Sheng",
+    "iso-type": "Province"
+  },
+  "SC": {
+    "name": "Sichuan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SC",
+    "iso-name": "Sichuan Sheng",
+    "iso-type": "Province"
+  },
+  "SD": {
+    "name": "Shandong Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SD",
+    "iso-name": "Shandong Sheng",
+    "iso-type": "Province"
+  },
+  "SH": {
+    "name": "Shanghai Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-SH",
+    "iso-name": "Shanghai Shi",
+    "iso-type": "Municipality"
+  },
+  "SN": {
+    "name": "Shaanxi Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SN",
+    "iso-name": "Shaanxi Sheng",
+    "iso-type": "Province"
+  },
+  "SX": {
+    "name": "Shanxi Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SX",
+    "iso-name": "Shanxi Sheng",
+    "iso-type": "Province"
+  },
+  "TJ": {
+    "name": "Tianjin Shi",
+    "type": "Municipality",
+    "iso3166-2": "CN-TJ",
+    "iso-name": "Tianjin Shi",
+    "iso-type": "Municipality"
+  },
+  "TW": {
+    "name": "Taiwan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-TW",
+    "iso-name": "Taiwan Sheng",
+    "iso-type": "Province"
+  },
+  "XJ": {
+    "name": "Xinjiang Uygur Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-XJ",
+    "iso-name": "Xinjiang Uygur Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "XZ": {
+    "name": "Xizang Zizhiqu",
+    "type": "Autonomous region",
+    "iso3166-2": "CN-XZ",
+    "iso-name": "Xizang Zizhiqu",
+    "iso-type": "Autonomous region"
+  },
+  "YN": {
+    "name": "Yunnan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-YN",
+    "iso-name": "Yunnan Sheng",
+    "iso-type": "Province"
+  },
+  "ZJ": {
+    "name": "Zhejiang Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-ZJ",
+    "iso-name": "Zhejiang Sheng",
+    "iso-type": "Province"
+  }
+}

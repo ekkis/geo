@@ -1,32 +1,72 @@
 {
   "BU": {
-    "name": "Bulawayo"
+    "name": "Bulawayo",
+    "type": "Province",
+    "iso3166-2": "ZW-BU",
+    "iso-name": "Bulawayo",
+    "iso-type": "Province"
   },
   "HA": {
-    "name": "Harare"
+    "name": "Harare",
+    "type": "Province",
+    "iso3166-2": "ZW-HA",
+    "iso-name": "Harare",
+    "iso-type": "Province"
   },
   "MA": {
-    "name": "Manicaland"
+    "name": "Manicaland",
+    "type": "Province",
+    "iso3166-2": "ZW-MA",
+    "iso-name": "Manicaland",
+    "iso-type": "Province"
   },
   "MC": {
-    "name": "Mashonaland Central"
+    "name": "Mashonaland Central",
+    "type": "Province",
+    "iso3166-2": "ZW-MC",
+    "iso-name": "Mashonaland Central",
+    "iso-type": "Province"
   },
   "ME": {
-    "name": "Mashonaland East"
-  },
-  "MW": {
-    "name": "Mashonaland West"
-  },
-  "MV": {
-    "name": "Masvingo"
-  },
-  "MN": {
-    "name": "Matabeleland North"
-  },
-  "MS": {
-    "name": "Matabeleland South"
+    "name": "Mashonaland East",
+    "type": "Province",
+    "iso3166-2": "ZW-ME",
+    "iso-name": "Mashonaland East",
+    "iso-type": "Province"
   },
   "MI": {
-    "name": "Midlands"
+    "name": "Midlands",
+    "type": "Province",
+    "iso3166-2": "ZW-MI",
+    "iso-name": "Midlands",
+    "iso-type": "Province"
+  },
+  "MN": {
+    "name": "Matabeleland North",
+    "type": "Province",
+    "iso3166-2": "ZW-MN",
+    "iso-name": "Matabeleland North",
+    "iso-type": "Province"
+  },
+  "MS": {
+    "name": "Matabeleland South",
+    "type": "Province",
+    "iso3166-2": "ZW-MS",
+    "iso-name": "Matabeleland South",
+    "iso-type": "Province"
+  },
+  "MV": {
+    "name": "Masvingo",
+    "type": "Province",
+    "iso3166-2": "ZW-MV",
+    "iso-name": "Masvingo",
+    "iso-type": "Province"
+  },
+  "MW": {
+    "name": "Mashonaland West",
+    "type": "Province",
+    "iso3166-2": "ZW-MW",
+    "iso-name": "Mashonaland West",
+    "iso-type": "Province"
   }
 }

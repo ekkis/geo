@@ -105,6 +105,17 @@
       "languages": [
         "es"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "autonomous_region_department",
+        "label": "Autonomous Region / Department",
+        "standard": "ISO 3166-2",
+        "file": "NI.autonomous_region_department.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

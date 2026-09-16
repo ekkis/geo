@@ -1,98 +1,226 @@
 {
   "AGU": {
-    "name": "Aguascalientes"
+    "name": "Aguascalientes",
+    "type": "State",
+    "iso3166-2": "MX-AGU",
+    "iso-name": "Aguascalientes",
+    "iso-type": "State"
   },
   "BCN": {
-    "name": "Baja California"
+    "name": "Baja California",
+    "type": "State",
+    "iso3166-2": "MX-BCN",
+    "iso-name": "Baja California",
+    "iso-type": "State"
   },
   "BCS": {
-    "name": "Baja California Sur"
+    "name": "Baja California Sur",
+    "type": "State",
+    "iso3166-2": "MX-BCS",
+    "iso-name": "Baja California Sur",
+    "iso-type": "State"
   },
   "CAM": {
-    "name": "Campeche"
-  },
-  "CHP": {
-    "name": "Chiapas"
+    "name": "Campeche",
+    "type": "State",
+    "iso3166-2": "MX-CAM",
+    "iso-name": "Campeche",
+    "iso-type": "State"
   },
   "CHH": {
-    "name": "Chihuahua"
+    "name": "Chihuahua",
+    "type": "State",
+    "iso3166-2": "MX-CHH",
+    "iso-name": "Chihuahua",
+    "iso-type": "State"
+  },
+  "CHP": {
+    "name": "Chiapas",
+    "type": "State",
+    "iso3166-2": "MX-CHP",
+    "iso-name": "Chiapas",
+    "iso-type": "State"
   },
   "CMX": {
-    "name": "Ciudad de México"
+    "name": "Ciudad de México",
+    "type": "Federal entity",
+    "iso3166-2": "MX-CMX",
+    "iso-name": "Ciudad de México",
+    "iso-type": "Federal entity"
   },
   "COA": {
-    "name": "Coahuila de Zaragoza"
+    "name": "Coahuila de Zaragoza",
+    "type": "State",
+    "iso3166-2": "MX-COA",
+    "iso-name": "Coahuila de Zaragoza",
+    "iso-type": "State"
   },
   "COL": {
-    "name": "Colima"
+    "name": "Colima",
+    "type": "State",
+    "iso3166-2": "MX-COL",
+    "iso-name": "Colima",
+    "iso-type": "State"
   },
   "DUR": {
-    "name": "Durango"
-  },
-  "MEX": {
-    "name": "Estado de México"
-  },
-  "GUA": {
-    "name": "Guanajuato"
+    "name": "Durango",
+    "type": "State",
+    "iso3166-2": "MX-DUR",
+    "iso-name": "Durango",
+    "iso-type": "State"
   },
   "GRO": {
-    "name": "Guerrero"
+    "name": "Guerrero",
+    "type": "State",
+    "iso3166-2": "MX-GRO",
+    "iso-name": "Guerrero",
+    "iso-type": "State"
+  },
+  "GUA": {
+    "name": "Guanajuato",
+    "type": "State",
+    "iso3166-2": "MX-GUA",
+    "iso-name": "Guanajuato",
+    "iso-type": "State"
   },
   "HID": {
-    "name": "Hidalgo"
+    "name": "Hidalgo",
+    "type": "State",
+    "iso3166-2": "MX-HID",
+    "iso-name": "Hidalgo",
+    "iso-type": "State"
   },
   "JAL": {
-    "name": "Jalisco"
+    "name": "Jalisco",
+    "type": "State",
+    "iso3166-2": "MX-JAL",
+    "iso-name": "Jalisco",
+    "iso-type": "State"
+  },
+  "MEX": {
+    "name": "México",
+    "type": "State",
+    "iso3166-2": "MX-MEX",
+    "iso-name": "México",
+    "iso-type": "State"
   },
   "MIC": {
-    "name": "Michoacán de Ocampo"
+    "name": "Michoacán de Ocampo",
+    "type": "State",
+    "iso3166-2": "MX-MIC",
+    "iso-name": "Michoacán de Ocampo",
+    "iso-type": "State"
   },
   "MOR": {
-    "name": "Morelos"
+    "name": "Morelos",
+    "type": "State",
+    "iso3166-2": "MX-MOR",
+    "iso-name": "Morelos",
+    "iso-type": "State"
   },
   "NAY": {
-    "name": "Nayarit"
+    "name": "Nayarit",
+    "type": "State",
+    "iso3166-2": "MX-NAY",
+    "iso-name": "Nayarit",
+    "iso-type": "State"
   },
   "NLE": {
-    "name": "Nuevo León"
+    "name": "Nuevo León",
+    "type": "State",
+    "iso3166-2": "MX-NLE",
+    "iso-name": "Nuevo León",
+    "iso-type": "State"
   },
   "OAX": {
-    "name": "Oaxaca"
+    "name": "Oaxaca",
+    "type": "State",
+    "iso3166-2": "MX-OAX",
+    "iso-name": "Oaxaca",
+    "iso-type": "State"
   },
   "PUE": {
-    "name": "Puebla"
+    "name": "Puebla",
+    "type": "State",
+    "iso3166-2": "MX-PUE",
+    "iso-name": "Puebla",
+    "iso-type": "State"
   },
   "QUE": {
-    "name": "Querétaro"
+    "name": "Querétaro",
+    "type": "State",
+    "iso3166-2": "MX-QUE",
+    "iso-name": "Querétaro",
+    "iso-type": "State"
   },
   "ROO": {
-    "name": "Quintana Roo"
-  },
-  "SLP": {
-    "name": "San Luis Potosí"
+    "name": "Quintana Roo",
+    "type": "State",
+    "iso3166-2": "MX-ROO",
+    "iso-name": "Quintana Roo",
+    "iso-type": "State"
   },
   "SIN": {
-    "name": "Sinaloa"
+    "name": "Sinaloa",
+    "type": "State",
+    "iso3166-2": "MX-SIN",
+    "iso-name": "Sinaloa",
+    "iso-type": "State"
+  },
+  "SLP": {
+    "name": "San Luis Potosí",
+    "type": "State",
+    "iso3166-2": "MX-SLP",
+    "iso-name": "San Luis Potosí",
+    "iso-type": "State"
   },
   "SON": {
-    "name": "Sonora"
+    "name": "Sonora",
+    "type": "State",
+    "iso3166-2": "MX-SON",
+    "iso-name": "Sonora",
+    "iso-type": "State"
   },
   "TAB": {
-    "name": "Tabasco"
+    "name": "Tabasco",
+    "type": "State",
+    "iso3166-2": "MX-TAB",
+    "iso-name": "Tabasco",
+    "iso-type": "State"
   },
   "TAM": {
-    "name": "Tamaulipas"
+    "name": "Tamaulipas",
+    "type": "State",
+    "iso3166-2": "MX-TAM",
+    "iso-name": "Tamaulipas",
+    "iso-type": "State"
   },
   "TLA": {
-    "name": "Tlaxcala"
+    "name": "Tlaxcala",
+    "type": "State",
+    "iso3166-2": "MX-TLA",
+    "iso-name": "Tlaxcala",
+    "iso-type": "State"
   },
   "VER": {
-    "name": "Veracruz de Ignacio de la Llave"
+    "name": "Veracruz de Ignacio de la Llave",
+    "type": "State",
+    "iso3166-2": "MX-VER",
+    "iso-name": "Veracruz de Ignacio de la Llave",
+    "iso-type": "State"
   },
   "YUC": {
-    "name": "Yucatán"
+    "name": "Yucatán",
+    "type": "State",
+    "iso3166-2": "MX-YUC",
+    "iso-name": "Yucatán",
+    "iso-type": "State"
   },
   "ZAC": {
-    "name": "Zacatecas"
+    "name": "Zacatecas",
+    "type": "State",
+    "iso3166-2": "MX-ZAC",
+    "iso-name": "Zacatecas",
+    "iso-type": "State"
   }
 }

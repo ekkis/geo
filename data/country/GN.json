@@ -104,6 +104,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "administrative_region_prefecture_governorate",
+        "label": "Administrative Region / Prefecture / Governorate",
+        "standard": "ISO 3166-2",
+        "file": "GN.administrative_region_prefecture_governorate.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

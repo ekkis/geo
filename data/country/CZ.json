@@ -103,6 +103,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "capital_city_region_district",
+        "label": "Capital City / Region / District",
+        "standard": "ISO 3166-2",
+        "file": "CZ.capital_city_region_district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

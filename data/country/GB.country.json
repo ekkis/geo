@@ -2,6 +2,9 @@
   "ENG": {
     "name": "England",
     "type": "Country",
+    "iso3166-2": "GB-ENG",
+    "iso-name": "England",
+    "iso-type": "Country",
     "division-codes": [
       "BAS",
       "BBD",
@@ -155,14 +158,34 @@
       "WSM",
       "WSX",
       "YOR"
-    ],
-    "iso3166-2": "GB-ENG",
-    "iso-name": "England",
-    "iso-type": "Country"
+    ]
+  },
+  "NIR": {
+    "name": "Northern Ireland",
+    "type": "Country",
+    "iso3166-2": "GB-NIR",
+    "iso-name": "Northern Ireland",
+    "iso-type": "Province",
+    "division-codes": [
+      "ABC",
+      "AND",
+      "ANN",
+      "BFS",
+      "CCG",
+      "DRS",
+      "FMO",
+      "LBC",
+      "MEA",
+      "MUL",
+      "NMD"
+    ]
   },
   "SCT": {
     "name": "Scotland",
     "type": "Country",
+    "iso3166-2": "GB-SCT",
+    "iso-name": "Scotland",
+    "iso-type": "Country",
     "division-codes": [
       "ABD",
       "ABE",
@@ -196,14 +219,14 @@
       "WDU",
       "WLN",
       "ZET"
-    ],
-    "iso3166-2": "GB-SCT",
-    "iso-name": "Scotland",
-    "iso-type": "Country"
+    ]
   },
   "WLS": {
     "name": "Wales",
     "type": "Country",
+    "iso3166-2": "GB-WLS",
+    "iso-name": "Wales [Cymru GB-CYM]",
+    "iso-type": "Country",
     "division-codes": [
       "AGY",
       "BGE",
@@ -227,29 +250,6 @@
       "TOF",
       "VGL",
       "WRX"
-    ],
-    "iso3166-2": "GB-WLS",
-    "iso-name": "Wales [Cymru GB-CYM]",
-    "iso-type": "Country"
-  },
-  "NIR": {
-    "name": "Northern Ireland",
-    "type": "Country",
-    "division-codes": [
-      "ABC",
-      "AND",
-      "ANN",
-      "BFS",
-      "CCG",
-      "DRS",
-      "FMO",
-      "LBC",
-      "MEA",
-      "MUL",
-      "NMD"
-    ],
-    "iso3166-2": "GB-NIR",
-    "iso-name": "Northern Ireland",
-    "iso-type": "Province"
+    ]
   }
 }

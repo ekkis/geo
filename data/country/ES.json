@@ -117,6 +117,17 @@
         "gl",
         "eu"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province_autonomous_community_autonomous_city_in_north_africa",
+        "label": "Province / Autonomous Community / Autonomous City In North Africa",
+        "standard": "ISO 3166-2",
+        "file": "ES.province_autonomous_community_autonomous_city_in_north_africa.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

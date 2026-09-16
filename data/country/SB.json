@@ -70,6 +70,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province_capital_territory",
+        "label": "Province / Capital Territory",
+        "standard": "ISO 3166-2",
+        "file": "SB.province_capital_territory.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

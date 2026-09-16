@@ -105,6 +105,17 @@
       "languages": [
         "es"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "capital_district_state_federal_dependency",
+        "label": "Capital District / State / Federal Dependency",
+        "standard": "ISO 3166-2",
+        "file": "VE.capital_district_state_federal_dependency.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

@@ -129,6 +129,17 @@
       "languages": [
         "pt"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "state_federal_district",
+        "label": "State / Federal District",
+        "standard": "ISO 3166-2",
+        "file": "BR.state_federal_district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

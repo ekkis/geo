@@ -100,6 +100,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "country_special_municipality_province",
+        "label": "Country / Special Municipality / Province",
+        "standard": "ISO 3166-2",
+        "file": "NL.country_special_municipality_province.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

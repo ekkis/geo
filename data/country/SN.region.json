@@ -1,44 +1,100 @@
 {
-  "DK": {
-    "name": "Dakar"
-  },
   "DB": {
-    "name": "Diourbel Region"
+    "name": "Diourbel",
+    "type": "Region",
+    "iso3166-2": "SN-DB",
+    "iso-name": "Diourbel",
+    "iso-type": "Region"
+  },
+  "DK": {
+    "name": "Dakar",
+    "type": "Region",
+    "iso3166-2": "SN-DK",
+    "iso-name": "Dakar",
+    "iso-type": "Region"
   },
   "FK": {
-    "name": "Fatick"
+    "name": "Fatick",
+    "type": "Region",
+    "iso3166-2": "SN-FK",
+    "iso-name": "Fatick",
+    "iso-type": "Region"
   },
   "KA": {
-    "name": "Kaffrine"
-  },
-  "KL": {
-    "name": "Kaolack"
-  },
-  "KE": {
-    "name": "Kédougou"
+    "name": "Kaffrine",
+    "type": "Region",
+    "iso3166-2": "SN-KA",
+    "iso-name": "Kaffrine",
+    "iso-type": "Region"
   },
   "KD": {
-    "name": "Kolda"
+    "name": "Kolda",
+    "type": "Region",
+    "iso3166-2": "SN-KD",
+    "iso-name": "Kolda",
+    "iso-type": "Region"
+  },
+  "KE": {
+    "name": "Kédougou",
+    "type": "Region",
+    "iso3166-2": "SN-KE",
+    "iso-name": "Kédougou",
+    "iso-type": "Region"
+  },
+  "KL": {
+    "name": "Kaolack",
+    "type": "Region",
+    "iso3166-2": "SN-KL",
+    "iso-name": "Kaolack",
+    "iso-type": "Region"
   },
   "LG": {
-    "name": "Louga"
+    "name": "Louga",
+    "type": "Region",
+    "iso3166-2": "SN-LG",
+    "iso-name": "Louga",
+    "iso-type": "Region"
   },
   "MT": {
-    "name": "Matam"
-  },
-  "SL": {
-    "name": "Saint-Louis"
+    "name": "Matam",
+    "type": "Region",
+    "iso3166-2": "SN-MT",
+    "iso-name": "Matam",
+    "iso-type": "Region"
   },
   "SE": {
-    "name": "Sédhiou"
+    "name": "Sédhiou",
+    "type": "Region",
+    "iso3166-2": "SN-SE",
+    "iso-name": "Sédhiou",
+    "iso-type": "Region"
+  },
+  "SL": {
+    "name": "Saint-Louis",
+    "type": "Region",
+    "iso3166-2": "SN-SL",
+    "iso-name": "Saint-Louis",
+    "iso-type": "Region"
   },
   "TC": {
-    "name": "Tambacounda Region"
+    "name": "Tambacounda",
+    "type": "Region",
+    "iso3166-2": "SN-TC",
+    "iso-name": "Tambacounda",
+    "iso-type": "Region"
   },
   "TH": {
-    "name": "Thiès Region"
+    "name": "Thiès",
+    "type": "Region",
+    "iso3166-2": "SN-TH",
+    "iso-name": "Thiès",
+    "iso-type": "Region"
   },
   "ZG": {
-    "name": "Ziguinchor"
+    "name": "Ziguinchor",
+    "type": "Region",
+    "iso3166-2": "SN-ZG",
+    "iso-name": "Ziguinchor",
+    "iso-type": "Region"
   }
 }

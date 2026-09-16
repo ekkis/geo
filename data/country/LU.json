@@ -104,6 +104,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "canton",
+        "label": "Canton",
+        "standard": "ISO 3166-2",
+        "file": "LU.canton.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

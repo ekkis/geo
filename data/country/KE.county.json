@@ -1,143 +1,331 @@
 {
-  "BAR": {
-    "name": "Baringo"
+  "01": {
+    "name": "Baringo",
+    "type": "County",
+    "iso3166-2": "KE-01",
+    "iso-name": "Baringo",
+    "iso-type": "County"
   },
-  "BOM": {
-    "name": "Bomet"
+  "02": {
+    "name": "Bomet",
+    "type": "County",
+    "iso3166-2": "KE-02",
+    "iso-name": "Bomet",
+    "iso-type": "County"
   },
-  "BUN": {
-    "name": "Bungoma"
+  "03": {
+    "name": "Bungoma",
+    "type": "County",
+    "iso3166-2": "KE-03",
+    "iso-name": "Bungoma",
+    "iso-type": "County"
   },
-  "BUS": {
-    "name": "Busia"
+  "04": {
+    "name": "Busia",
+    "type": "County",
+    "iso3166-2": "KE-04",
+    "iso-name": "Busia",
+    "iso-type": "County"
   },
-  "ELG": {
-    "name": "Elgeyo-Marakwet"
+  "05": {
+    "name": "Elgeyo/Marakwet",
+    "type": "County",
+    "iso3166-2": "KE-05",
+    "iso-name": "Elgeyo/Marakwet",
+    "iso-type": "County"
   },
-  "EMB": {
-    "name": "Embu"
+  "06": {
+    "name": "Embu",
+    "type": "County",
+    "iso3166-2": "KE-06",
+    "iso-name": "Embu",
+    "iso-type": "County"
   },
-  "GAR": {
-    "name": "Garissa"
+  "07": {
+    "name": "Garissa",
+    "type": "County",
+    "iso3166-2": "KE-07",
+    "iso-name": "Garissa",
+    "iso-type": "County"
   },
-  "HOM": {
-    "name": "Homa Bay"
+  "08": {
+    "name": "Homa Bay",
+    "type": "County",
+    "iso3166-2": "KE-08",
+    "iso-name": "Homa Bay",
+    "iso-type": "County"
   },
-  "ISI": {
-    "name": "Isiolo"
+  "09": {
+    "name": "Isiolo",
+    "type": "County",
+    "iso3166-2": "KE-09",
+    "iso-name": "Isiolo",
+    "iso-type": "County"
   },
-  "KAJ": {
-    "name": "Kajiado"
+  "10": {
+    "name": "Kajiado",
+    "type": "County",
+    "iso3166-2": "KE-10",
+    "iso-name": "Kajiado",
+    "iso-type": "County"
   },
-  "KAK": {
-    "name": "Kakamega"
+  "11": {
+    "name": "Kakamega",
+    "type": "County",
+    "iso3166-2": "KE-11",
+    "iso-name": "Kakamega",
+    "iso-type": "County"
   },
-  "KER": {
-    "name": "Kericho"
+  "12": {
+    "name": "Kericho",
+    "type": "County",
+    "iso3166-2": "KE-12",
+    "iso-name": "Kericho",
+    "iso-type": "County"
   },
-  "KIA": {
-    "name": "Kiambu"
+  "13": {
+    "name": "Kiambu",
+    "type": "County",
+    "iso3166-2": "KE-13",
+    "iso-name": "Kiambu",
+    "iso-type": "County"
   },
-  "KIL": {
-    "name": "Kilifi"
+  "14": {
+    "name": "Kilifi",
+    "type": "County",
+    "iso3166-2": "KE-14",
+    "iso-name": "Kilifi",
+    "iso-type": "County"
   },
-  "KIR": {
-    "name": "Kirinyaga"
+  "15": {
+    "name": "Kirinyaga",
+    "type": "County",
+    "iso3166-2": "KE-15",
+    "iso-name": "Kirinyaga",
+    "iso-type": "County"
   },
-  "KIS": {
-    "name": "Kisii"
+  "16": {
+    "name": "Kisii",
+    "type": "County",
+    "iso3166-2": "KE-16",
+    "iso-name": "Kisii",
+    "iso-type": "County"
   },
-  "KISU": {
-    "name": "Kisumu"
+  "17": {
+    "name": "Kisumu",
+    "type": "County",
+    "iso3166-2": "KE-17",
+    "iso-name": "Kisumu",
+    "iso-type": "County"
   },
-  "KIT": {
-    "name": "Kitui"
+  "18": {
+    "name": "Kitui",
+    "type": "County",
+    "iso3166-2": "KE-18",
+    "iso-name": "Kitui",
+    "iso-type": "County"
   },
-  "KWA": {
-    "name": "Kwale"
+  "19": {
+    "name": "Kwale",
+    "type": "County",
+    "iso3166-2": "KE-19",
+    "iso-name": "Kwale",
+    "iso-type": "County"
   },
-  "LAI": {
-    "name": "Laikipia"
+  "20": {
+    "name": "Laikipia",
+    "type": "County",
+    "iso3166-2": "KE-20",
+    "iso-name": "Laikipia",
+    "iso-type": "County"
   },
-  "LAM": {
-    "name": "Lamu"
+  "21": {
+    "name": "Lamu",
+    "type": "County",
+    "iso3166-2": "KE-21",
+    "iso-name": "Lamu",
+    "iso-type": "County"
   },
-  "MAC": {
-    "name": "Machakos"
+  "22": {
+    "name": "Machakos",
+    "type": "County",
+    "iso3166-2": "KE-22",
+    "iso-name": "Machakos",
+    "iso-type": "County"
   },
-  "MAK": {
-    "name": "Makueni"
+  "23": {
+    "name": "Makueni",
+    "type": "County",
+    "iso3166-2": "KE-23",
+    "iso-name": "Makueni",
+    "iso-type": "County"
   },
-  "MAN": {
-    "name": "Mandera"
+  "24": {
+    "name": "Mandera",
+    "type": "County",
+    "iso3166-2": "KE-24",
+    "iso-name": "Mandera",
+    "iso-type": "County"
   },
-  "MAR": {
-    "name": "Marsabit"
+  "25": {
+    "name": "Marsabit",
+    "type": "County",
+    "iso3166-2": "KE-25",
+    "iso-name": "Marsabit",
+    "iso-type": "County"
   },
-  "MER": {
-    "name": "Meru"
+  "26": {
+    "name": "Meru",
+    "type": "County",
+    "iso3166-2": "KE-26",
+    "iso-name": "Meru",
+    "iso-type": "County"
   },
-  "MIG": {
-    "name": "Migori"
+  "27": {
+    "name": "Migori",
+    "type": "County",
+    "iso3166-2": "KE-27",
+    "iso-name": "Migori",
+    "iso-type": "County"
   },
-  "MOM": {
-    "name": "Mombasa"
+  "28": {
+    "name": "Mombasa",
+    "type": "County",
+    "iso3166-2": "KE-28",
+    "iso-name": "Mombasa",
+    "iso-type": "County"
   },
-  "MUR": {
-    "name": "Murang'a"
+  "29": {
+    "name": "Murang'a",
+    "type": "County",
+    "iso3166-2": "KE-29",
+    "iso-name": "Murang'a",
+    "iso-type": "County"
   },
-  "NAI": {
-    "name": "Nairobi City"
+  "30": {
+    "name": "Nairobi City",
+    "type": "County",
+    "iso3166-2": "KE-30",
+    "iso-name": "Nairobi City",
+    "iso-type": "County"
   },
-  "NAK": {
-    "name": "Nakuru"
+  "31": {
+    "name": "Nakuru",
+    "type": "County",
+    "iso3166-2": "KE-31",
+    "iso-name": "Nakuru",
+    "iso-type": "County"
   },
-  "NAN": {
-    "name": "Nandi"
+  "32": {
+    "name": "Nandi",
+    "type": "County",
+    "iso3166-2": "KE-32",
+    "iso-name": "Nandi",
+    "iso-type": "County"
   },
-  "NAR": {
-    "name": "Narok"
+  "33": {
+    "name": "Narok",
+    "type": "County",
+    "iso3166-2": "KE-33",
+    "iso-name": "Narok",
+    "iso-type": "County"
   },
-  "NYA": {
-    "name": "Nyamira"
+  "34": {
+    "name": "Nyamira",
+    "type": "County",
+    "iso3166-2": "KE-34",
+    "iso-name": "Nyamira",
+    "iso-type": "County"
   },
-  "NYAN": {
-    "name": "Nyandarua"
+  "35": {
+    "name": "Nyandarua",
+    "type": "County",
+    "iso3166-2": "KE-35",
+    "iso-name": "Nyandarua",
+    "iso-type": "County"
   },
-  "NYE": {
-    "name": "Nyeri"
+  "36": {
+    "name": "Nyeri",
+    "type": "County",
+    "iso3166-2": "KE-36",
+    "iso-name": "Nyeri",
+    "iso-type": "County"
   },
-  "SAM": {
-    "name": "Samburu"
+  "37": {
+    "name": "Samburu",
+    "type": "County",
+    "iso3166-2": "KE-37",
+    "iso-name": "Samburu",
+    "iso-type": "County"
   },
-  "SIA": {
-    "name": "Siaya"
+  "38": {
+    "name": "Siaya",
+    "type": "County",
+    "iso3166-2": "KE-38",
+    "iso-name": "Siaya",
+    "iso-type": "County"
   },
-  "TAI": {
-    "name": "Taita–Taveta"
+  "39": {
+    "name": "Taita/Taveta",
+    "type": "County",
+    "iso3166-2": "KE-39",
+    "iso-name": "Taita/Taveta",
+    "iso-type": "County"
   },
-  "TAN": {
-    "name": "Tana River"
+  "40": {
+    "name": "Tana River",
+    "type": "County",
+    "iso3166-2": "KE-40",
+    "iso-name": "Tana River",
+    "iso-type": "County"
   },
-  "THA": {
-    "name": "Tharaka-Nithi"
+  "41": {
+    "name": "Tharaka-Nithi",
+    "type": "County",
+    "iso3166-2": "KE-41",
+    "iso-name": "Tharaka-Nithi",
+    "iso-type": "County"
   },
-  "TRA": {
-    "name": "Trans Nzoia"
+  "42": {
+    "name": "Trans Nzoia",
+    "type": "County",
+    "iso3166-2": "KE-42",
+    "iso-name": "Trans Nzoia",
+    "iso-type": "County"
   },
-  "TUR": {
-    "name": "Turkana"
+  "43": {
+    "name": "Turkana",
+    "type": "County",
+    "iso3166-2": "KE-43",
+    "iso-name": "Turkana",
+    "iso-type": "County"
   },
-  "UAS": {
-    "name": "Uasin Gishu"
+  "44": {
+    "name": "Uasin Gishu",
+    "type": "County",
+    "iso3166-2": "KE-44",
+    "iso-name": "Uasin Gishu",
+    "iso-type": "County"
   },
-  "VIH": {
-    "name": "Vihiga"
+  "45": {
+    "name": "Vihiga",
+    "type": "County",
+    "iso3166-2": "KE-45",
+    "iso-name": "Vihiga",
+    "iso-type": "County"
   },
-  "WAJ": {
-    "name": "Wajir"
+  "46": {
+    "name": "Wajir",
+    "type": "County",
+    "iso3166-2": "KE-46",
+    "iso-name": "Wajir",
+    "iso-type": "County"
   },
-  "WES": {
-    "name": "West Pokot"
+  "47": {
+    "name": "West Pokot",
+    "type": "County",
+    "iso3166-2": "KE-47",
+    "iso-name": "West Pokot",
+    "iso-type": "County"
   }
 }

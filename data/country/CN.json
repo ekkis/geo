@@ -140,6 +140,17 @@
       "languages": [
         "zh"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "subdivision",
+        "label": "Province / Municipality / Autonomous Region / Special Administrative Region",
+        "standard": "ISO 3166-2",
+        "file": "CN.subdivision.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

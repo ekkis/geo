@@ -88,6 +88,17 @@
           "uppercase": false
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "district_region",
+        "label": "District / Region",
+        "standard": "ISO 3166-2",
+        "file": "MW.district_region.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

@@ -1,44 +1,100 @@
 {
-  "BOC": {
-    "name": "Bocas del Toro"
+  "1": {
+    "name": "Bocas del Toro",
+    "type": "Province",
+    "iso3166-2": "PA-1",
+    "iso-name": "Bocas del Toro",
+    "iso-type": "Province"
   },
-  "CHI": {
-    "name": "Chiriquí Province"
+  "10": {
+    "name": "Panamá Oeste",
+    "type": "Province",
+    "iso3166-2": "PA-10",
+    "iso-name": "Panamá Oeste",
+    "iso-type": "Province"
   },
-  "COC": {
-    "name": "Coclé"
+  "2": {
+    "name": "Coclé",
+    "type": "Province",
+    "iso3166-2": "PA-2",
+    "iso-name": "Coclé",
+    "iso-type": "Province"
   },
-  "COL": {
-    "name": "Colón"
+  "3": {
+    "name": "Colón",
+    "type": "Province",
+    "iso3166-2": "PA-3",
+    "iso-name": "Colón",
+    "iso-type": "Province"
   },
-  "DAR": {
-    "name": "Darién"
+  "4": {
+    "name": "Chiriquí",
+    "type": "Province",
+    "iso3166-2": "PA-4",
+    "iso-name": "Chiriquí",
+    "iso-type": "Province"
+  },
+  "5": {
+    "name": "Darién",
+    "type": "Province",
+    "iso3166-2": "PA-5",
+    "iso-name": "Darién",
+    "iso-type": "Province"
+  },
+  "6": {
+    "name": "Herrera",
+    "type": "Province",
+    "iso3166-2": "PA-6",
+    "iso-name": "Herrera",
+    "iso-type": "Province"
+  },
+  "7": {
+    "name": "Los Santos",
+    "type": "Province",
+    "iso3166-2": "PA-7",
+    "iso-name": "Los Santos",
+    "iso-type": "Province"
+  },
+  "8": {
+    "name": "Panamá",
+    "type": "Province",
+    "iso3166-2": "PA-8",
+    "iso-name": "Panamá",
+    "iso-type": "Province"
+  },
+  "9": {
+    "name": "Veraguas",
+    "type": "Province",
+    "iso3166-2": "PA-9",
+    "iso-name": "Veraguas",
+    "iso-type": "Province"
   },
   "EM": {
-    "name": "Emberá-Wounaan Comarca"
+    "name": "Emberá",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-EM",
+    "iso-name": "Emberá",
+    "iso-type": "Indigenous region"
   },
   "KY": {
-    "name": "Guna"
-  },
-  "HER": {
-    "name": "Herrera"
-  },
-  "LOS": {
-    "name": "Los Santos"
-  },
-  "NT": {
-    "name": "Naso Tjër Di"
+    "name": "Guna Yala",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-KY",
+    "iso-name": "Guna Yala",
+    "iso-type": "Indigenous region"
   },
   "NB": {
-    "name": "Ngöbe-Buglé Comarca"
+    "name": "Ngäbe-Buglé",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-NB",
+    "iso-name": "Ngäbe-Buglé",
+    "iso-type": "Indigenous region"
   },
-  "PAN": {
-    "name": "Panamá"
-  },
-  "PO": {
-    "name": "Panamá Oeste"
-  },
-  "VER": {
-    "name": "Veraguas"
+  "NT": {
+    "name": "Naso Tjër Di",
+    "type": "Indigenous region",
+    "iso3166-2": "PA-NT",
+    "iso-name": "Naso Tjër Di",
+    "iso-type": "Indigenous region"
   }
 }

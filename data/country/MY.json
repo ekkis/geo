@@ -118,6 +118,17 @@
       "languages": [
         "ms"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "state_federal_territory",
+        "label": "State / Federal Territory",
+        "standard": "ISO 3166-2",
+        "file": "MY.state_federal_territory.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

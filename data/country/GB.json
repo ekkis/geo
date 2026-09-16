@@ -125,13 +125,20 @@
       {
         "key": "country",
         "label": "Constituent country",
-        "file": "GB.country.json"
+        "standard": "ISO 3166-2",
+        "file": "GB.country.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
       },
       {
         "key": "division",
         "label": "Administrative division / local authority",
+        "standard": "ISO 3166-2",
         "parent": "country",
-        "file": "GB.country.division.json"
+        "file": "GB.country.division.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
       },
       {
         "key": "city",

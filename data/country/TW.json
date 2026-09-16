@@ -92,6 +92,17 @@
       "languages": [
         "zh-Hant"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "county_city_special_municipality",
+        "label": "County / City / Special Municipality",
+        "standard": "ISO 3166-2",
+        "file": "TW.county_city_special_municipality.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

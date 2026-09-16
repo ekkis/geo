@@ -72,6 +72,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "parish_dependency",
+        "label": "Parish / Dependency",
+        "standard": "ISO 3166-2",
+        "file": "GD.parish_dependency.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

@@ -121,6 +121,17 @@
       "languages": [
         "es"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "department_capital_district",
+        "label": "Department / Capital District",
+        "standard": "ISO 3166-2",
+        "file": "CO.department_capital_district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

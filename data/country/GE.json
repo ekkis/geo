@@ -97,6 +97,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "autonomous_republic_region_city",
+        "label": "Autonomous Republic / Region / City",
+        "standard": "ISO 3166-2",
+        "file": "GE.autonomous_republic_region_city.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

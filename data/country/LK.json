@@ -86,6 +86,17 @@
           }
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province_district",
+        "label": "Province / District",
+        "standard": "ISO 3166-2",
+        "file": "LK.province_district.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

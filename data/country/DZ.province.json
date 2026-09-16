@@ -1,176 +1,408 @@
 {
-  "ADR": {
-    "name": "Adrar"
+  "01": {
+    "name": "Adrar",
+    "type": "Province",
+    "iso3166-2": "DZ-01",
+    "iso-name": "Adrar",
+    "iso-type": "Province"
   },
-  "AIN": {
-    "name": "Aïn Defla"
+  "02": {
+    "name": "Chlef",
+    "type": "Province",
+    "iso3166-2": "DZ-02",
+    "iso-name": "Chlef",
+    "iso-type": "Province"
   },
-  "AT": {
-    "name": "Aïn Témouchent"
+  "03": {
+    "name": "Laghouat",
+    "type": "Province",
+    "iso3166-2": "DZ-03",
+    "iso-name": "Laghouat",
+    "iso-type": "Province"
   },
-  "ALG": {
-    "name": "Algiers"
+  "04": {
+    "name": "Oum el Bouaghi",
+    "type": "Province",
+    "iso3166-2": "DZ-04",
+    "iso-name": "Oum el Bouaghi",
+    "iso-type": "Province"
   },
-  "ANN": {
-    "name": "Annaba"
+  "05": {
+    "name": "Batna",
+    "type": "Province",
+    "iso3166-2": "DZ-05",
+    "iso-name": "Batna",
+    "iso-type": "Province"
   },
-  "BT": {
-    "name": "Batna"
+  "06": {
+    "name": "Béjaïa",
+    "type": "Province",
+    "iso3166-2": "DZ-06",
+    "iso-name": "Béjaïa",
+    "iso-type": "Province"
   },
-  "BEC": {
-    "name": "Béchar"
+  "07": {
+    "name": "Biskra",
+    "type": "Province",
+    "iso3166-2": "DZ-07",
+    "iso-name": "Biskra",
+    "iso-type": "Province"
   },
-  "BEJ": {
-    "name": "Béjaïa"
+  "08": {
+    "name": "Béchar",
+    "type": "Province",
+    "iso3166-2": "DZ-08",
+    "iso-name": "Béchar",
+    "iso-type": "Province"
   },
-  "BEN": {
-    "name": "Béni Abbès"
+  "09": {
+    "name": "Blida",
+    "type": "Province",
+    "iso3166-2": "DZ-09",
+    "iso-name": "Blida",
+    "iso-type": "Province"
   },
-  "BSK": {
-    "name": "Biskra"
+  "10": {
+    "name": "Bouira",
+    "type": "Province",
+    "iso3166-2": "DZ-10",
+    "iso-name": "Bouira",
+    "iso-type": "Province"
   },
-  "BLI": {
-    "name": "Blida"
+  "11": {
+    "name": "Tamanrasset",
+    "type": "Province",
+    "iso3166-2": "DZ-11",
+    "iso-name": "Tamanrasset",
+    "iso-type": "Province"
   },
-  "BOR": {
-    "name": "Bordj Baji Mokhtar"
+  "12": {
+    "name": "Tébessa",
+    "type": "Province",
+    "iso3166-2": "DZ-12",
+    "iso-name": "Tébessa",
+    "iso-type": "Province"
   },
-  "BBA": {
-    "name": "Bordj Bou Arréridj"
+  "13": {
+    "name": "Tlemcen",
+    "type": "Province",
+    "iso3166-2": "DZ-13",
+    "iso-name": "Tlemcen",
+    "iso-type": "Province"
   },
-  "BOU": {
-    "name": "Bouïra"
+  "14": {
+    "name": "Tiaret",
+    "type": "Province",
+    "iso3166-2": "DZ-14",
+    "iso-name": "Tiaret",
+    "iso-type": "Province"
   },
-  "BOUM": {
-    "name": "Boumerdès"
+  "15": {
+    "name": "Tizi Ouzou",
+    "type": "Province",
+    "iso3166-2": "DZ-15",
+    "iso-name": "Tizi Ouzou",
+    "iso-type": "Province"
   },
-  "CHL": {
-    "name": "Chlef"
+  "16": {
+    "name": "Alger",
+    "type": "Province",
+    "iso3166-2": "DZ-16",
+    "iso-name": "Alger",
+    "iso-type": "Province"
   },
-  "CON": {
-    "name": "Constantine"
+  "17": {
+    "name": "Djelfa",
+    "type": "Province",
+    "iso3166-2": "DZ-17",
+    "iso-name": "Djelfa",
+    "iso-type": "Province"
   },
-  "DJA": {
-    "name": "Djanet"
+  "18": {
+    "name": "Jijel",
+    "type": "Province",
+    "iso3166-2": "DZ-18",
+    "iso-name": "Jijel",
+    "iso-type": "Province"
   },
-  "DJE": {
-    "name": "Djelfa"
+  "19": {
+    "name": "Sétif",
+    "type": "Province",
+    "iso3166-2": "DZ-19",
+    "iso-name": "Sétif",
+    "iso-type": "Province"
   },
-  "EO": {
-    "name": "El Bayadh"
+  "20": {
+    "name": "Saïda",
+    "type": "Province",
+    "iso3166-2": "DZ-20",
+    "iso-name": "Saïda",
+    "iso-type": "Province"
   },
-  "MXX": {
-    "name": "El M'ghair"
+  "21": {
+    "name": "Skikda",
+    "type": "Province",
+    "iso3166-2": "DZ-21",
+    "iso-name": "Skikda",
+    "iso-type": "Province"
   },
-  "MEN": {
-    "name": "El Menia"
+  "22": {
+    "name": "Sidi Bel Abbès",
+    "type": "Province",
+    "iso3166-2": "DZ-22",
+    "iso-name": "Sidi Bel Abbès",
+    "iso-type": "Province"
   },
-  "OUE": {
-    "name": "El Oued"
+  "23": {
+    "name": "Annaba",
+    "type": "Province",
+    "iso3166-2": "DZ-23",
+    "iso-name": "Annaba",
+    "iso-type": "Province"
   },
-  "TAR": {
-    "name": "El Tarf"
+  "24": {
+    "name": "Guelma",
+    "type": "Province",
+    "iso3166-2": "DZ-24",
+    "iso-name": "Guelma",
+    "iso-type": "Province"
   },
-  "GHA": {
-    "name": "Ghardaïa"
+  "25": {
+    "name": "Constantine",
+    "type": "Province",
+    "iso3166-2": "DZ-25",
+    "iso-name": "Constantine",
+    "iso-type": "Province"
   },
-  "GUE": {
-    "name": "Guelma"
+  "26": {
+    "name": "Médéa",
+    "type": "Province",
+    "iso3166-2": "DZ-26",
+    "iso-name": "Médéa",
+    "iso-type": "Province"
   },
-  "IO": {
-    "name": "Illizi"
+  "27": {
+    "name": "Mostaganem",
+    "type": "Province",
+    "iso3166-2": "DZ-27",
+    "iso-name": "Mostaganem",
+    "iso-type": "Province"
   },
-  "INX": {
-    "name": "In Guezzam"
+  "28": {
+    "name": "M'sila",
+    "type": "Province",
+    "iso3166-2": "DZ-28",
+    "iso-name": "M'sila",
+    "iso-type": "Province"
   },
-  "IS": {
-    "name": "In Salah"
+  "29": {
+    "name": "Mascara",
+    "type": "Province",
+    "iso3166-2": "DZ-29",
+    "iso-name": "Mascara",
+    "iso-type": "Province"
   },
-  "JIJ": {
-    "name": "Jijel"
+  "30": {
+    "name": "Ouargla",
+    "type": "Province",
+    "iso3166-2": "DZ-30",
+    "iso-name": "Ouargla",
+    "iso-type": "Province"
   },
-  "KHE": {
-    "name": "Khenchela"
+  "31": {
+    "name": "Oran",
+    "type": "Province",
+    "iso3166-2": "DZ-31",
+    "iso-name": "Oran",
+    "iso-type": "Province"
   },
-  "LAG": {
-    "name": "Laghouat"
+  "32": {
+    "name": "El Bayadh",
+    "type": "Province",
+    "iso3166-2": "DZ-32",
+    "iso-name": "El Bayadh",
+    "iso-type": "Province"
   },
-  "MS": {
-    "name": "M'Sila"
+  "33": {
+    "name": "Illizi",
+    "type": "Province",
+    "iso3166-2": "DZ-33",
+    "iso-name": "Illizi",
+    "iso-type": "Province"
   },
-  "MAS": {
-    "name": "Mascara"
+  "34": {
+    "name": "Bordj Bou Arréridj",
+    "type": "Province",
+    "iso3166-2": "DZ-34",
+    "iso-name": "Bordj Bou Arréridj",
+    "iso-type": "Province"
   },
-  "MED": {
-    "name": "Médéa"
+  "35": {
+    "name": "Boumerdès",
+    "type": "Province",
+    "iso3166-2": "DZ-35",
+    "iso-name": "Boumerdès",
+    "iso-type": "Province"
   },
-  "MIL": {
-    "name": "Mila"
+  "36": {
+    "name": "El Tarf",
+    "type": "Province",
+    "iso3166-2": "DZ-36",
+    "iso-name": "El Tarf",
+    "iso-type": "Province"
   },
-  "MOS": {
-    "name": "Mostaganem"
+  "37": {
+    "name": "Tindouf",
+    "type": "Province",
+    "iso3166-2": "DZ-37",
+    "iso-name": "Tindouf",
+    "iso-type": "Province"
   },
-  "NAA": {
-    "name": "Naama"
+  "38": {
+    "name": "Tissemsilt",
+    "type": "Province",
+    "iso3166-2": "DZ-38",
+    "iso-name": "Tissemsilt",
+    "iso-type": "Province"
   },
-  "OR": {
-    "name": "Oran"
+  "39": {
+    "name": "El Oued",
+    "type": "Province",
+    "iso3166-2": "DZ-39",
+    "iso-name": "El Oued",
+    "iso-type": "Province"
   },
-  "OA": {
-    "name": "Ouargla"
+  "40": {
+    "name": "Khenchela",
+    "type": "Province",
+    "iso3166-2": "DZ-40",
+    "iso-name": "Khenchela",
+    "iso-type": "Province"
   },
-  "OB": {
-    "name": "Ouled Djellal"
+  "41": {
+    "name": "Souk Ahras",
+    "type": "Province",
+    "iso3166-2": "DZ-41",
+    "iso-name": "Souk Ahras",
+    "iso-type": "Province"
   },
-  "OUM": {
-    "name": "Oum El Bouaghi"
+  "42": {
+    "name": "Tipaza",
+    "type": "Province",
+    "iso3166-2": "DZ-42",
+    "iso-name": "Tipaza",
+    "iso-type": "Province"
   },
-  "REL": {
-    "name": "Relizane"
+  "43": {
+    "name": "Mila",
+    "type": "Province",
+    "iso3166-2": "DZ-43",
+    "iso-name": "Mila",
+    "iso-type": "Province"
   },
-  "SAI": {
-    "name": "Saïda"
+  "44": {
+    "name": "Aïn Defla",
+    "type": "Province",
+    "iso3166-2": "DZ-44",
+    "iso-name": "Aïn Defla",
+    "iso-type": "Province"
   },
-  "SET": {
-    "name": "Sétif"
+  "45": {
+    "name": "Naama",
+    "type": "Province",
+    "iso3166-2": "DZ-45",
+    "iso-name": "Naama",
+    "iso-type": "Province"
   },
-  "SK": {
-    "name": "Sidi Bel Abbès"
+  "46": {
+    "name": "Aïn Témouchent",
+    "type": "Province",
+    "iso3166-2": "DZ-46",
+    "iso-name": "Aïn Témouchent",
+    "iso-type": "Province"
   },
-  "SKI": {
-    "name": "Skikda"
+  "47": {
+    "name": "Ghardaïa",
+    "type": "Province",
+    "iso3166-2": "DZ-47",
+    "iso-name": "Ghardaïa",
+    "iso-type": "Province"
   },
-  "SOU": {
-    "name": "Souk Ahras"
+  "48": {
+    "name": "Relizane",
+    "type": "Province",
+    "iso3166-2": "DZ-48",
+    "iso-name": "Relizane",
+    "iso-type": "Province"
   },
-  "TAM": {
-    "name": "Tamanghasset"
+  "49": {
+    "name": "Timimoun",
+    "type": "Province",
+    "iso3166-2": "DZ-49",
+    "iso-name": "Timimoun",
+    "iso-type": "Province"
   },
-  "TEB": {
-    "name": "Tébessa"
+  "50": {
+    "name": "Bordj Badji Mokhtar",
+    "type": "Province",
+    "iso3166-2": "DZ-50",
+    "iso-name": "Bordj Badji Mokhtar",
+    "iso-type": "Province"
   },
-  "TIA": {
-    "name": "Tiaret"
+  "51": {
+    "name": "Ouled Djellal",
+    "type": "Province",
+    "iso3166-2": "DZ-51",
+    "iso-name": "Ouled Djellal",
+    "iso-type": "Province"
   },
-  "TIM": {
-    "name": "Timimoun"
+  "52": {
+    "name": "Béni Abbès",
+    "type": "Province",
+    "iso3166-2": "DZ-52",
+    "iso-name": "Béni Abbès",
+    "iso-type": "Province"
   },
-  "TIN": {
-    "name": "Tindouf"
+  "53": {
+    "name": "In Salah",
+    "type": "Province",
+    "iso3166-2": "DZ-53",
+    "iso-name": "In Salah",
+    "iso-type": "Province"
   },
-  "TIP": {
-    "name": "Tipasa"
+  "54": {
+    "name": "In Guezzam",
+    "type": "Province",
+    "iso3166-2": "DZ-54",
+    "iso-name": "In Guezzam",
+    "iso-type": "Province"
   },
-  "TIS": {
-    "name": "Tissemsilt"
+  "55": {
+    "name": "Touggourt",
+    "type": "Province",
+    "iso3166-2": "DZ-55",
+    "iso-name": "Touggourt",
+    "iso-type": "Province"
   },
-  "TIZ": {
-    "name": "Tizi Ouzou"
+  "56": {
+    "name": "Djanet",
+    "type": "Province",
+    "iso3166-2": "DZ-56",
+    "iso-name": "Djanet",
+    "iso-type": "Province"
   },
-  "TLE": {
-    "name": "Tlemcen"
+  "57": {
+    "name": "El Meghaier",
+    "type": "Province",
+    "iso3166-2": "DZ-57",
+    "iso-name": "El Meghaier",
+    "iso-type": "Province"
   },
-  "TOU": {
-    "name": "Touggourt"
+  "58": {
+    "name": "El Meniaa",
+    "type": "Province",
+    "iso3166-2": "DZ-58",
+    "iso-name": "El Meniaa",
+    "iso-type": "Province"
   }
 }

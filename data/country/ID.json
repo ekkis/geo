@@ -109,6 +109,17 @@
       "languages": [
         "id"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "subdivision",
+        "label": "Province / Capital District / Geographical Unit / Special Region",
+        "standard": "ISO 3166-2",
+        "file": "ID.subdivision.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

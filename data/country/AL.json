@@ -98,6 +98,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "file": "AL.county.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

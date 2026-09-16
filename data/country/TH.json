@@ -117,6 +117,17 @@
       "languages": [
         "th"
       ]
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "metropolitan_administration_province_special_administrative_city",
+        "label": "Metropolitan Administration / Province / Special Administrative City",
+        "standard": "ISO 3166-2",
+        "file": "TH.metropolitan_administration_province_special_administrative_city.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

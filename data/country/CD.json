@@ -71,6 +71,17 @@
           "uppercase": true
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "province_city",
+        "label": "Province / City",
+        "standard": "ISO 3166-2",
+        "file": "CD.province_city.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

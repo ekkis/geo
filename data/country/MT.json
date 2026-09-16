@@ -93,6 +93,17 @@
           }
         }
       }
-    }
+    },
+    "division-hierarchy": [
+      {
+        "key": "local_council",
+        "label": "Local Council",
+        "standard": "ISO 3166-2",
+        "file": "MT.local_council.json",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
+    ]
   }
 }

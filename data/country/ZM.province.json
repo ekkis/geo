@@ -1,32 +1,72 @@
 {
-  "CEN": {
-    "name": "Central"
+  "01": {
+    "name": "Western",
+    "type": "Province",
+    "iso3166-2": "ZM-01",
+    "iso-name": "Western",
+    "iso-type": "Province"
   },
-  "COP": {
-    "name": "Copperbelt"
+  "02": {
+    "name": "Central",
+    "type": "Province",
+    "iso3166-2": "ZM-02",
+    "iso-name": "Central",
+    "iso-type": "Province"
   },
-  "EAS": {
-    "name": "Eastern"
+  "03": {
+    "name": "Eastern",
+    "type": "Province",
+    "iso3166-2": "ZM-03",
+    "iso-name": "Eastern",
+    "iso-type": "Province"
   },
-  "LUA": {
-    "name": "Luapula"
+  "04": {
+    "name": "Luapula",
+    "type": "Province",
+    "iso3166-2": "ZM-04",
+    "iso-name": "Luapula",
+    "iso-type": "Province"
   },
-  "LUS": {
-    "name": "Lusaka"
+  "05": {
+    "name": "Northern",
+    "type": "Province",
+    "iso3166-2": "ZM-05",
+    "iso-name": "Northern",
+    "iso-type": "Province"
   },
-  "MUC": {
-    "name": "Muchinga"
+  "06": {
+    "name": "North-Western",
+    "type": "Province",
+    "iso3166-2": "ZM-06",
+    "iso-name": "North-Western",
+    "iso-type": "Province"
   },
-  "NOR": {
-    "name": "Northern"
+  "07": {
+    "name": "Southern",
+    "type": "Province",
+    "iso3166-2": "ZM-07",
+    "iso-name": "Southern",
+    "iso-type": "Province"
   },
-  "NORT": {
-    "name": "Northwestern"
+  "08": {
+    "name": "Copperbelt",
+    "type": "Province",
+    "iso3166-2": "ZM-08",
+    "iso-name": "Copperbelt",
+    "iso-type": "Province"
   },
-  "SOU": {
-    "name": "Southern"
+  "09": {
+    "name": "Lusaka",
+    "type": "Province",
+    "iso3166-2": "ZM-09",
+    "iso-name": "Lusaka",
+    "iso-type": "Province"
   },
-  "WES": {
-    "name": "Western"
+  "10": {
+    "name": "Muchinga",
+    "type": "Province",
+    "iso3166-2": "ZM-10",
+    "iso-name": "Muchinga",
+    "iso-type": "Province"
   }
 }

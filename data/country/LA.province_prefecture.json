@@ -1,56 +1,128 @@
 {
   "AT": {
-    "name": "Attapeu"
+    "name": "Attapu",
+    "type": "Province",
+    "iso3166-2": "LA-AT",
+    "iso-name": "Attapu",
+    "iso-type": "Province"
   },
   "BK": {
-    "name": "Bokeo"
+    "name": "Bokèo",
+    "type": "Province",
+    "iso3166-2": "LA-BK",
+    "iso-name": "Bokèo",
+    "iso-type": "Province"
   },
   "BL": {
-    "name": "Bolikhamsai"
+    "name": "Bolikhamxai",
+    "type": "Province",
+    "iso3166-2": "LA-BL",
+    "iso-name": "Bolikhamxai",
+    "iso-type": "Province"
   },
   "CH": {
-    "name": "Champasak"
+    "name": "Champasak",
+    "type": "Province",
+    "iso3166-2": "LA-CH",
+    "iso-name": "Champasak",
+    "iso-type": "Province"
   },
   "HO": {
-    "name": "Houaphanh"
+    "name": "Houaphan",
+    "type": "Province",
+    "iso3166-2": "LA-HO",
+    "iso-name": "Houaphan",
+    "iso-type": "Province"
   },
   "KH": {
-    "name": "Khammouane"
+    "name": "Khammouan",
+    "type": "Province",
+    "iso3166-2": "LA-KH",
+    "iso-name": "Khammouan",
+    "iso-type": "Province"
   },
   "LM": {
-    "name": "Luang Namtha"
+    "name": "Louang Namtha",
+    "type": "Province",
+    "iso3166-2": "LA-LM",
+    "iso-name": "Louang Namtha",
+    "iso-type": "Province"
   },
   "LP": {
-    "name": "Luang Prabang"
+    "name": "Louangphabang",
+    "type": "Province",
+    "iso3166-2": "LA-LP",
+    "iso-name": "Louangphabang",
+    "iso-type": "Province"
   },
   "OU": {
-    "name": "Oudomxay"
+    "name": "Oudômxai",
+    "type": "Province",
+    "iso3166-2": "LA-OU",
+    "iso-name": "Oudômxai",
+    "iso-type": "Province"
   },
   "PH": {
-    "name": "Phongsaly"
-  },
-  "XA": {
-    "name": "Sainyabuli"
+    "name": "Phôngsali",
+    "type": "Province",
+    "iso3166-2": "LA-PH",
+    "iso-name": "Phôngsali",
+    "iso-type": "Province"
   },
   "SL": {
-    "name": "Salavan"
+    "name": "Salavan",
+    "type": "Province",
+    "iso3166-2": "LA-SL",
+    "iso-name": "Salavan",
+    "iso-type": "Province"
   },
   "SV": {
-    "name": "Savannakhet"
-  },
-  "XE": {
-    "name": "Sekong"
+    "name": "Savannakhét",
+    "type": "Province",
+    "iso3166-2": "LA-SV",
+    "iso-name": "Savannakhét",
+    "iso-type": "Province"
   },
   "VI": {
-    "name": "Vientiane"
+    "name": "Viangchan",
+    "type": "Province",
+    "iso3166-2": "LA-VI",
+    "iso-name": "Viangchan",
+    "iso-type": "Province"
   },
   "VT": {
-    "name": "Vientiane"
+    "name": "Viangchan",
+    "type": "Prefecture",
+    "iso3166-2": "LA-VT",
+    "iso-name": "Viangchan",
+    "iso-type": "Prefecture"
   },
-  "XS": {
-    "name": "Xaisomboun"
+  "XA": {
+    "name": "Xaignabouli",
+    "type": "Province",
+    "iso3166-2": "LA-XA",
+    "iso-name": "Xaignabouli",
+    "iso-type": "Province"
+  },
+  "XE": {
+    "name": "Xékong",
+    "type": "Province",
+    "iso3166-2": "LA-XE",
+    "iso-name": "Xékong",
+    "iso-type": "Province"
   },
   "XI": {
-    "name": "Xiangkhouang"
+    "name": "Xiangkhouang",
+    "type": "Province",
+    "iso3166-2": "LA-XI",
+    "iso-name": "Xiangkhouang",
+    "iso-type": "Province"
+  },
+  "XS": {
+    "name": "Xaisômboun",
+    "type": "Province",
+    "iso3166-2": "LA-XS",
+    "iso-name": "Xaisômboun",
+    "iso-type": "Province"
   }
 }
