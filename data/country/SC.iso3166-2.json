@@ -1,0 +1,191 @@
+{
+  "01": {
+    "name": "Anse aux Pins",
+    "type": "District",
+    "iso3166-2": "SC-01",
+    "iso-name": "Anse aux Pins",
+    "iso-type": "District"
+  },
+  "02": {
+    "name": "Anse Boileau",
+    "type": "District",
+    "iso3166-2": "SC-02",
+    "iso-name": "Anse Boileau",
+    "iso-type": "District"
+  },
+  "03": {
+    "name": "Anse Etoile",
+    "type": "District",
+    "iso3166-2": "SC-03",
+    "iso-name": "Anse Etoile",
+    "iso-type": "District"
+  },
+  "04": {
+    "name": "Au Cap",
+    "type": "District",
+    "iso3166-2": "SC-04",
+    "iso-name": "Au Cap",
+    "iso-type": "District"
+  },
+  "05": {
+    "name": "Anse Royale",
+    "type": "District",
+    "iso3166-2": "SC-05",
+    "iso-name": "Anse Royale",
+    "iso-type": "District"
+  },
+  "06": {
+    "name": "Baie Lazare",
+    "type": "District",
+    "iso3166-2": "SC-06",
+    "iso-name": "Baie Lazare",
+    "iso-type": "District"
+  },
+  "07": {
+    "name": "Baie Sainte Anne",
+    "type": "District",
+    "iso3166-2": "SC-07",
+    "iso-name": "Baie Sainte Anne",
+    "iso-type": "District"
+  },
+  "08": {
+    "name": "Beau Vallon",
+    "type": "District",
+    "iso3166-2": "SC-08",
+    "iso-name": "Beau Vallon",
+    "iso-type": "District"
+  },
+  "09": {
+    "name": "Bel Air",
+    "type": "District",
+    "iso3166-2": "SC-09",
+    "iso-name": "Bel Air",
+    "iso-type": "District"
+  },
+  "10": {
+    "name": "Bel Ombre",
+    "type": "District",
+    "iso3166-2": "SC-10",
+    "iso-name": "Bel Ombre",
+    "iso-type": "District"
+  },
+  "11": {
+    "name": "Cascade",
+    "type": "District",
+    "iso3166-2": "SC-11",
+    "iso-name": "Cascade",
+    "iso-type": "District"
+  },
+  "12": {
+    "name": "Glacis",
+    "type": "District",
+    "iso3166-2": "SC-12",
+    "iso-name": "Glacis",
+    "iso-type": "District"
+  },
+  "13": {
+    "name": "Grand Anse Mahe",
+    "type": "District",
+    "iso3166-2": "SC-13",
+    "iso-name": "Grand Anse Mahe",
+    "iso-type": "District"
+  },
+  "14": {
+    "name": "Grand Anse Praslin",
+    "type": "District",
+    "iso3166-2": "SC-14",
+    "iso-name": "Grand Anse Praslin",
+    "iso-type": "District"
+  },
+  "15": {
+    "name": "La Digue",
+    "type": "District",
+    "iso3166-2": "SC-15",
+    "iso-name": "La Digue",
+    "iso-type": "District"
+  },
+  "16": {
+    "name": "English River",
+    "type": "District",
+    "iso3166-2": "SC-16",
+    "iso-name": "English River",
+    "iso-type": "District"
+  },
+  "17": {
+    "name": "Mont Buxton",
+    "type": "District",
+    "iso3166-2": "SC-17",
+    "iso-name": "Mont Buxton",
+    "iso-type": "District"
+  },
+  "18": {
+    "name": "Mont Fleuri",
+    "type": "District",
+    "iso3166-2": "SC-18",
+    "iso-name": "Mont Fleuri",
+    "iso-type": "District"
+  },
+  "19": {
+    "name": "Plaisance",
+    "type": "District",
+    "iso3166-2": "SC-19",
+    "iso-name": "Plaisance",
+    "iso-type": "District"
+  },
+  "20": {
+    "name": "Pointe Larue",
+    "type": "District",
+    "iso3166-2": "SC-20",
+    "iso-name": "Pointe Larue",
+    "iso-type": "District"
+  },
+  "21": {
+    "name": "Port Glaud",
+    "type": "District",
+    "iso3166-2": "SC-21",
+    "iso-name": "Port Glaud",
+    "iso-type": "District"
+  },
+  "22": {
+    "name": "Saint Louis",
+    "type": "District",
+    "iso3166-2": "SC-22",
+    "iso-name": "Saint Louis",
+    "iso-type": "District"
+  },
+  "23": {
+    "name": "Takamaka",
+    "type": "District",
+    "iso3166-2": "SC-23",
+    "iso-name": "Takamaka",
+    "iso-type": "District"
+  },
+  "24": {
+    "name": "Les Mamelles",
+    "type": "District",
+    "iso3166-2": "SC-24",
+    "iso-name": "Les Mamelles",
+    "iso-type": "District"
+  },
+  "25": {
+    "name": "Roche Caiman",
+    "type": "District",
+    "iso3166-2": "SC-25",
+    "iso-name": "Roche Caiman",
+    "iso-type": "District"
+  },
+  "26": {
+    "name": "Ile Perseverance I",
+    "type": "District",
+    "iso3166-2": "SC-26",
+    "iso-name": "Ile Perseverance I",
+    "iso-type": "District"
+  },
+  "27": {
+    "name": "Ile Perseverance II",
+    "type": "District",
+    "iso3166-2": "SC-27",
+    "iso-name": "Ile Perseverance II",
+    "iso-type": "District"
+  }
+}

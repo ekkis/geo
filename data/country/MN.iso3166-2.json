@@ -1,0 +1,156 @@
+{
+  "035": {
+    "name": "Orhon",
+    "type": "Province",
+    "iso3166-2": "MN-035",
+    "iso-name": "Orhon",
+    "iso-type": "Province"
+  },
+  "037": {
+    "name": "Darhan uul",
+    "type": "Province",
+    "iso3166-2": "MN-037",
+    "iso-name": "Darhan uul",
+    "iso-type": "Province"
+  },
+  "039": {
+    "name": "Hentiy",
+    "type": "Province",
+    "iso3166-2": "MN-039",
+    "iso-name": "Hentiy",
+    "iso-type": "Province"
+  },
+  "041": {
+    "name": "Hövsgöl",
+    "type": "Province",
+    "iso3166-2": "MN-041",
+    "iso-name": "Hövsgöl",
+    "iso-type": "Province"
+  },
+  "043": {
+    "name": "Hovd",
+    "type": "Province",
+    "iso3166-2": "MN-043",
+    "iso-name": "Hovd",
+    "iso-type": "Province"
+  },
+  "046": {
+    "name": "Uvs",
+    "type": "Province",
+    "iso3166-2": "MN-046",
+    "iso-name": "Uvs",
+    "iso-type": "Province"
+  },
+  "047": {
+    "name": "Töv",
+    "type": "Province",
+    "iso3166-2": "MN-047",
+    "iso-name": "Töv",
+    "iso-type": "Province"
+  },
+  "049": {
+    "name": "Selenge",
+    "type": "Province",
+    "iso3166-2": "MN-049",
+    "iso-name": "Selenge",
+    "iso-type": "Province"
+  },
+  "051": {
+    "name": "Sühbaatar",
+    "type": "Province",
+    "iso3166-2": "MN-051",
+    "iso-name": "Sühbaatar",
+    "iso-type": "Province"
+  },
+  "053": {
+    "name": "Ömnögovĭ",
+    "type": "Province",
+    "iso3166-2": "MN-053",
+    "iso-name": "Ömnögovĭ",
+    "iso-type": "Province"
+  },
+  "055": {
+    "name": "Övörhangay",
+    "type": "Province",
+    "iso3166-2": "MN-055",
+    "iso-name": "Övörhangay",
+    "iso-type": "Province"
+  },
+  "057": {
+    "name": "Dzavhan",
+    "type": "Province",
+    "iso3166-2": "MN-057",
+    "iso-name": "Dzavhan",
+    "iso-type": "Province"
+  },
+  "059": {
+    "name": "Dundgovĭ",
+    "type": "Province",
+    "iso3166-2": "MN-059",
+    "iso-name": "Dundgovĭ",
+    "iso-type": "Province"
+  },
+  "061": {
+    "name": "Dornod",
+    "type": "Province",
+    "iso3166-2": "MN-061",
+    "iso-name": "Dornod",
+    "iso-type": "Province"
+  },
+  "063": {
+    "name": "Dornogovĭ",
+    "type": "Province",
+    "iso3166-2": "MN-063",
+    "iso-name": "Dornogovĭ",
+    "iso-type": "Province"
+  },
+  "064": {
+    "name": "Govĭ-Sümber",
+    "type": "Province",
+    "iso3166-2": "MN-064",
+    "iso-name": "Govĭ-Sümber",
+    "iso-type": "Province"
+  },
+  "065": {
+    "name": "Govĭ-Altay",
+    "type": "Province",
+    "iso3166-2": "MN-065",
+    "iso-name": "Govĭ-Altay",
+    "iso-type": "Province"
+  },
+  "067": {
+    "name": "Bulgan",
+    "type": "Province",
+    "iso3166-2": "MN-067",
+    "iso-name": "Bulgan",
+    "iso-type": "Province"
+  },
+  "069": {
+    "name": "Bayanhongor",
+    "type": "Province",
+    "iso3166-2": "MN-069",
+    "iso-name": "Bayanhongor",
+    "iso-type": "Province"
+  },
+  "071": {
+    "name": "Bayan-Ölgiy",
+    "type": "Province",
+    "iso3166-2": "MN-071",
+    "iso-name": "Bayan-Ölgiy",
+    "iso-type": "Province"
+  },
+  "073": {
+    "name": "Arhangay",
+    "type": "Province",
+    "iso3166-2": "MN-073",
+    "iso-name": "Arhangay",
+    "iso-type": "Province"
+  },
+  "1": {
+    "name": "Ulaanbaatar",
+    "type": "Capital city",
+    "iso3166-2": "MN-1",
+    "iso-name": "Ulaanbaatar",
+    "iso-type": "Capital city"
+  }
+}

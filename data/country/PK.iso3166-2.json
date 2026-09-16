@@ -1,0 +1,51 @@
+{
+  "BA": {
+    "name": "Balochistan",
+    "type": "Province",
+    "iso3166-2": "PK-BA",
+    "iso-name": "Balochistan",
+    "iso-type": "Province"
+  },
+  "GB": {
+    "name": "Gilgit-Baltistan",
+    "type": "Pakistan administered area",
+    "iso3166-2": "PK-GB",
+    "iso-name": "Gilgit-Baltistan",
+    "iso-type": "Pakistan administered area"
+  },
+  "IS": {
+    "name": "Islamabad",
+    "type": "Federal capital territory",
+    "iso3166-2": "PK-IS",
+    "iso-name": "Islamabad",
+    "iso-type": "Federal capital territory"
+  },
+  "JK": {
+    "name": "Azad Jammu and Kashmir",
+    "type": "Pakistan administered area",
+    "iso3166-2": "PK-JK",
+    "iso-name": "Azad Jammu and Kashmir",
+    "iso-type": "Pakistan administered area"
+  },
+  "KP": {
+    "name": "Khyber Pakhtunkhwa",
+    "type": "Province",
+    "iso3166-2": "PK-KP",
+    "iso-name": "Khyber Pakhtunkhwa",
+    "iso-type": "Province"
+  },
+  "PB": {
+    "name": "Punjab",
+    "type": "Province",
+    "iso3166-2": "PK-PB",
+    "iso-name": "Punjab",
+    "iso-type": "Province"
+  },
+  "SD": {
+    "name": "Sindh",
+    "type": "Province",
+    "iso3166-2": "PK-SD",
+    "iso-name": "Sindh",
+    "iso-type": "Province"
+  }
+}

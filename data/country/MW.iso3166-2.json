@@ -1,0 +1,247 @@
+{
+  "BA": {
+    "name": "Balaka",
+    "type": "District",
+    "iso3166-2": "MW-BA",
+    "iso-name": "Balaka",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "BL": {
+    "name": "Blantyre",
+    "type": "District",
+    "iso3166-2": "MW-BL",
+    "iso-name": "Blantyre",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "C": {
+    "name": "Central Region",
+    "type": "Region",
+    "iso3166-2": "MW-C",
+    "iso-name": "Central Region",
+    "iso-type": "Region"
+  },
+  "CK": {
+    "name": "Chikwawa",
+    "type": "District",
+    "iso3166-2": "MW-CK",
+    "iso-name": "Chikwawa",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "CR": {
+    "name": "Chiradzulu",
+    "type": "District",
+    "iso3166-2": "MW-CR",
+    "iso-name": "Chiradzulu",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "CT": {
+    "name": "Chitipa",
+    "type": "District",
+    "iso3166-2": "MW-CT",
+    "iso-name": "Chitipa",
+    "iso-type": "District",
+    "parent-code": "N"
+  },
+  "DE": {
+    "name": "Dedza",
+    "type": "District",
+    "iso3166-2": "MW-DE",
+    "iso-name": "Dedza",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "DO": {
+    "name": "Dowa",
+    "type": "District",
+    "iso3166-2": "MW-DO",
+    "iso-name": "Dowa",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "KR": {
+    "name": "Karonga",
+    "type": "District",
+    "iso3166-2": "MW-KR",
+    "iso-name": "Karonga",
+    "iso-type": "District",
+    "parent-code": "N"
+  },
+  "KS": {
+    "name": "Kasungu",
+    "type": "District",
+    "iso3166-2": "MW-KS",
+    "iso-name": "Kasungu",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "LI": {
+    "name": "Lilongwe",
+    "type": "District",
+    "iso3166-2": "MW-LI",
+    "iso-name": "Lilongwe",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "LK": {
+    "name": "Likoma",
+    "type": "District",
+    "iso3166-2": "MW-LK",
+    "iso-name": "Likoma",
+    "iso-type": "District",
+    "parent-code": "N"
+  },
+  "MC": {
+    "name": "Mchinji",
+    "type": "District",
+    "iso3166-2": "MW-MC",
+    "iso-name": "Mchinji",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "MG": {
+    "name": "Mangochi",
+    "type": "District",
+    "iso3166-2": "MW-MG",
+    "iso-name": "Mangochi",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "MH": {
+    "name": "Machinga",
+    "type": "District",
+    "iso3166-2": "MW-MH",
+    "iso-name": "Machinga",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "MU": {
+    "name": "Mulanje",
+    "type": "District",
+    "iso3166-2": "MW-MU",
+    "iso-name": "Mulanje",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "MW": {
+    "name": "Mwanza",
+    "type": "District",
+    "iso3166-2": "MW-MW",
+    "iso-name": "Mwanza",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "MZ": {
+    "name": "Mzimba",
+    "type": "District",
+    "iso3166-2": "MW-MZ",
+    "iso-name": "Mzimba",
+    "iso-type": "District",
+    "parent-code": "N"
+  },
+  "N": {
+    "name": "Northern Region",
+    "type": "Region",
+    "iso3166-2": "MW-N",
+    "iso-name": "Northern Region",
+    "iso-type": "Region"
+  },
+  "NB": {
+    "name": "Nkhata Bay",
+    "type": "District",
+    "iso3166-2": "MW-NB",
+    "iso-name": "Nkhata Bay",
+    "iso-type": "District",
+    "parent-code": "N"
+  },
+  "NE": {
+    "name": "Neno",
+    "type": "District",
+    "iso3166-2": "MW-NE",
+    "iso-name": "Neno",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "NI": {
+    "name": "Ntchisi",
+    "type": "District",
+    "iso3166-2": "MW-NI",
+    "iso-name": "Ntchisi",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "NK": {
+    "name": "Nkhotakota",
+    "type": "District",
+    "iso3166-2": "MW-NK",
+    "iso-name": "Nkhotakota",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "NS": {
+    "name": "Nsanje",
+    "type": "District",
+    "iso3166-2": "MW-NS",
+    "iso-name": "Nsanje",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "NU": {
+    "name": "Ntcheu",
+    "type": "District",
+    "iso3166-2": "MW-NU",
+    "iso-name": "Ntcheu",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "PH": {
+    "name": "Phalombe",
+    "type": "District",
+    "iso3166-2": "MW-PH",
+    "iso-name": "Phalombe",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "RU": {
+    "name": "Rumphi",
+    "type": "District",
+    "iso3166-2": "MW-RU",
+    "iso-name": "Rumphi",
+    "iso-type": "District",
+    "parent-code": "N"
+  },
+  "S": {
+    "name": "Southern Region",
+    "type": "Region",
+    "iso3166-2": "MW-S",
+    "iso-name": "Southern Region",
+    "iso-type": "Region"
+  },
+  "SA": {
+    "name": "Salima",
+    "type": "District",
+    "iso3166-2": "MW-SA",
+    "iso-name": "Salima",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "TH": {
+    "name": "Thyolo",
+    "type": "District",
+    "iso3166-2": "MW-TH",
+    "iso-name": "Thyolo",
+    "iso-type": "District",
+    "parent-code": "S"
+  },
+  "ZO": {
+    "name": "Zomba",
+    "type": "District",
+    "iso3166-2": "MW-ZO",
+    "iso-name": "Zomba",
+    "iso-type": "District",
+    "parent-code": "S"
+  }
+}

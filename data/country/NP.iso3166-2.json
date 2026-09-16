@@ -1,0 +1,51 @@
+{
+  "P1": {
+    "name": "Koshi",
+    "type": "Province",
+    "iso3166-2": "NP-P1",
+    "iso-name": "Koshi",
+    "iso-type": "Province"
+  },
+  "P2": {
+    "name": "Madhesh",
+    "type": "Province",
+    "iso3166-2": "NP-P2",
+    "iso-name": "Madhesh",
+    "iso-type": "Province"
+  },
+  "P3": {
+    "name": "Bagmati",
+    "type": "Province",
+    "iso3166-2": "NP-P3",
+    "iso-name": "Bagmati",
+    "iso-type": "Province"
+  },
+  "P4": {
+    "name": "Gandaki",
+    "type": "Province",
+    "iso3166-2": "NP-P4",
+    "iso-name": "Gandaki",
+    "iso-type": "Province"
+  },
+  "P5": {
+    "name": "Lumbini",
+    "type": "Province",
+    "iso3166-2": "NP-P5",
+    "iso-name": "Lumbini",
+    "iso-type": "Province"
+  },
+  "P6": {
+    "name": "Karnali",
+    "type": "Province",
+    "iso3166-2": "NP-P6",
+    "iso-name": "Karnali",
+    "iso-type": "Province"
+  },
+  "P7": {
+    "name": "Sudurpashchim",
+    "type": "Province",
+    "iso3166-2": "NP-P7",
+    "iso-name": "Sudurpashchim",
+    "iso-type": "Province"
+  }
+}

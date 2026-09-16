@@ -1,0 +1,58 @@
+{
+  "1": {
+    "name": "Agadez",
+    "type": "Region",
+    "iso3166-2": "NE-1",
+    "iso-name": "Agadez",
+    "iso-type": "Region"
+  },
+  "2": {
+    "name": "Diffa",
+    "type": "Region",
+    "iso3166-2": "NE-2",
+    "iso-name": "Diffa",
+    "iso-type": "Region"
+  },
+  "3": {
+    "name": "Dosso",
+    "type": "Region",
+    "iso3166-2": "NE-3",
+    "iso-name": "Dosso",
+    "iso-type": "Region"
+  },
+  "4": {
+    "name": "Maradi",
+    "type": "Region",
+    "iso3166-2": "NE-4",
+    "iso-name": "Maradi",
+    "iso-type": "Region"
+  },
+  "5": {
+    "name": "Tahoua",
+    "type": "Region",
+    "iso3166-2": "NE-5",
+    "iso-name": "Tahoua",
+    "iso-type": "Region"
+  },
+  "6": {
+    "name": "Tillabéri",
+    "type": "Region",
+    "iso3166-2": "NE-6",
+    "iso-name": "Tillabéri",
+    "iso-type": "Region"
+  },
+  "7": {
+    "name": "Zinder",
+    "type": "Region",
+    "iso3166-2": "NE-7",
+    "iso-name": "Zinder",
+    "iso-type": "Region"
+  },
+  "8": {
+    "name": "Niamey",
+    "type": "Urban community",
+    "iso3166-2": "NE-8",
+    "iso-name": "Niamey",
+    "iso-type": "Urban community"
+  }
+}

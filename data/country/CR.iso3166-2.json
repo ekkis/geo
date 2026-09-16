@@ -1,0 +1,51 @@
+{
+  "A": {
+    "name": "Alajuela",
+    "type": "Province",
+    "iso3166-2": "CR-A",
+    "iso-name": "Alajuela",
+    "iso-type": "Province"
+  },
+  "C": {
+    "name": "Cartago",
+    "type": "Province",
+    "iso3166-2": "CR-C",
+    "iso-name": "Cartago",
+    "iso-type": "Province"
+  },
+  "G": {
+    "name": "Guanacaste",
+    "type": "Province",
+    "iso3166-2": "CR-G",
+    "iso-name": "Guanacaste",
+    "iso-type": "Province"
+  },
+  "H": {
+    "name": "Heredia",
+    "type": "Province",
+    "iso3166-2": "CR-H",
+    "iso-name": "Heredia",
+    "iso-type": "Province"
+  },
+  "L": {
+    "name": "Limón",
+    "type": "Province",
+    "iso3166-2": "CR-L",
+    "iso-name": "Limón",
+    "iso-type": "Province"
+  },
+  "P": {
+    "name": "Puntarenas",
+    "type": "Province",
+    "iso3166-2": "CR-P",
+    "iso-name": "Puntarenas",
+    "iso-type": "Province"
+  },
+  "SJ": {
+    "name": "San José",
+    "type": "Province",
+    "iso3166-2": "CR-SJ",
+    "iso-name": "San José",
+    "iso-type": "Province"
+  }
+}

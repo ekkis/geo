@@ -1,0 +1,37 @@
+{
+  "C": {
+    "name": "Centrale",
+    "type": "Region",
+    "iso3166-2": "TG-C",
+    "iso-name": "Centrale",
+    "iso-type": "Region"
+  },
+  "K": {
+    "name": "Kara",
+    "type": "Region",
+    "iso3166-2": "TG-K",
+    "iso-name": "Kara",
+    "iso-type": "Region"
+  },
+  "M": {
+    "name": "Maritime (Région)",
+    "type": "Region",
+    "iso3166-2": "TG-M",
+    "iso-name": "Maritime (Région)",
+    "iso-type": "Region"
+  },
+  "P": {
+    "name": "Plateaux",
+    "type": "Region",
+    "iso3166-2": "TG-P",
+    "iso-name": "Plateaux",
+    "iso-type": "Region"
+  },
+  "S": {
+    "name": "Savanes",
+    "type": "Region",
+    "iso3166-2": "TG-S",
+    "iso-name": "Savanes",
+    "iso-type": "Region"
+  }
+}

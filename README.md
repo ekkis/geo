@@ -142,6 +142,8 @@ Format tokens use libaddressinput's field codes:
 
 Import metadata and coverage are stored in `data/address-format-meta.json`; the reproducible importer is `scripts/add-address-formats.py`.
 
+Canonical ISO 3166-2 subdivisions are available in `data/country/{ISO2}.iso3166-2.json`. These files use ISO subdivision suffixes as keys, include the full ISO code in `iso3166-2`, preserve exact ISO names/types in `iso-name` and `iso-type`, and include `parent-code` where ISO defines a parent subdivision. Regenerate them with `scripts/add-iso3166-2-subdivisions.py` and validate them with `scripts/validate-iso3166-2-subdivisions.py`.
+
 Clients can retrieve this data from the country entity:
 
 ```js

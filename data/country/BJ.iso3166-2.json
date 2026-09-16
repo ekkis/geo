@@ -1,0 +1,86 @@
+{
+  "AK": {
+    "name": "Atacora",
+    "type": "Department",
+    "iso3166-2": "BJ-AK",
+    "iso-name": "Atacora",
+    "iso-type": "Department"
+  },
+  "AL": {
+    "name": "Alibori",
+    "type": "Department",
+    "iso3166-2": "BJ-AL",
+    "iso-name": "Alibori",
+    "iso-type": "Department"
+  },
+  "AQ": {
+    "name": "Atlantique",
+    "type": "Department",
+    "iso3166-2": "BJ-AQ",
+    "iso-name": "Atlantique",
+    "iso-type": "Department"
+  },
+  "BO": {
+    "name": "Borgou",
+    "type": "Department",
+    "iso3166-2": "BJ-BO",
+    "iso-name": "Borgou",
+    "iso-type": "Department"
+  },
+  "CO": {
+    "name": "Collines",
+    "type": "Department",
+    "iso3166-2": "BJ-CO",
+    "iso-name": "Collines",
+    "iso-type": "Department"
+  },
+  "DO": {
+    "name": "Donga",
+    "type": "Department",
+    "iso3166-2": "BJ-DO",
+    "iso-name": "Donga",
+    "iso-type": "Department"
+  },
+  "KO": {
+    "name": "Couffo",
+    "type": "Department",
+    "iso3166-2": "BJ-KO",
+    "iso-name": "Couffo",
+    "iso-type": "Department"
+  },
+  "LI": {
+    "name": "Littoral",
+    "type": "Department",
+    "iso3166-2": "BJ-LI",
+    "iso-name": "Littoral",
+    "iso-type": "Department"
+  },
+  "MO": {
+    "name": "Mono",
+    "type": "Department",
+    "iso3166-2": "BJ-MO",
+    "iso-name": "Mono",
+    "iso-type": "Department"
+  },
+  "OU": {
+    "name": "Ouémé",
+    "type": "Department",
+    "iso3166-2": "BJ-OU",
+    "iso-name": "Ouémé",
+    "iso-type": "Department"
+  },
+  "PL": {
+    "name": "Plateau",
+    "type": "Department",
+    "iso3166-2": "BJ-PL",
+    "iso-name": "Plateau",
+    "iso-type": "Department"
+  },
+  "ZO": {
+    "name": "Zou",
+    "type": "Department",
+    "iso3166-2": "BJ-ZO",
+    "iso-name": "Zou",
+    "iso-type": "Department"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "1": {
+    "name": "Estuaire",
+    "type": "Province",
+    "iso3166-2": "GA-1",
+    "iso-name": "Estuaire",
+    "iso-type": "Province"
+  },
+  "2": {
+    "name": "Haut-Ogooué",
+    "type": "Province",
+    "iso3166-2": "GA-2",
+    "iso-name": "Haut-Ogooué",
+    "iso-type": "Province"
+  },
+  "3": {
+    "name": "Moyen-Ogooué",
+    "type": "Province",
+    "iso3166-2": "GA-3",
+    "iso-name": "Moyen-Ogooué",
+    "iso-type": "Province"
+  },
+  "4": {
+    "name": "Ngounié",
+    "type": "Province",
+    "iso3166-2": "GA-4",
+    "iso-name": "Ngounié",
+    "iso-type": "Province"
+  },
+  "5": {
+    "name": "Nyanga",
+    "type": "Province",
+    "iso3166-2": "GA-5",
+    "iso-name": "Nyanga",
+    "iso-type": "Province"
+  },
+  "6": {
+    "name": "Ogooué-Ivindo",
+    "type": "Province",
+    "iso3166-2": "GA-6",
+    "iso-name": "Ogooué-Ivindo",
+    "iso-type": "Province"
+  },
+  "7": {
+    "name": "Ogooué-Lolo",
+    "type": "Province",
+    "iso3166-2": "GA-7",
+    "iso-name": "Ogooué-Lolo",
+    "iso-type": "Province"
+  },
+  "8": {
+    "name": "Ogooué-Maritime",
+    "type": "Province",
+    "iso3166-2": "GA-8",
+    "iso-name": "Ogooué-Maritime",
+    "iso-type": "Province"
+  },
+  "9": {
+    "name": "Woleu-Ntem",
+    "type": "Province",
+    "iso3166-2": "GA-9",
+    "iso-name": "Woleu-Ntem",
+    "iso-type": "Province"
+  }
+}

@@ -1,0 +1,1486 @@
+{
+  "001": {
+    "name": "Ajdovščina",
+    "type": "Municipality",
+    "iso3166-2": "SI-001",
+    "iso-name": "Ajdovščina",
+    "iso-type": "Municipality"
+  },
+  "002": {
+    "name": "Beltinci",
+    "type": "Municipality",
+    "iso3166-2": "SI-002",
+    "iso-name": "Beltinci",
+    "iso-type": "Municipality"
+  },
+  "003": {
+    "name": "Bled",
+    "type": "Municipality",
+    "iso3166-2": "SI-003",
+    "iso-name": "Bled",
+    "iso-type": "Municipality"
+  },
+  "004": {
+    "name": "Bohinj",
+    "type": "Municipality",
+    "iso3166-2": "SI-004",
+    "iso-name": "Bohinj",
+    "iso-type": "Municipality"
+  },
+  "005": {
+    "name": "Borovnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-005",
+    "iso-name": "Borovnica",
+    "iso-type": "Municipality"
+  },
+  "006": {
+    "name": "Bovec",
+    "type": "Municipality",
+    "iso3166-2": "SI-006",
+    "iso-name": "Bovec",
+    "iso-type": "Municipality"
+  },
+  "007": {
+    "name": "Brda",
+    "type": "Municipality",
+    "iso3166-2": "SI-007",
+    "iso-name": "Brda",
+    "iso-type": "Municipality"
+  },
+  "008": {
+    "name": "Brezovica",
+    "type": "Municipality",
+    "iso3166-2": "SI-008",
+    "iso-name": "Brezovica",
+    "iso-type": "Municipality"
+  },
+  "009": {
+    "name": "Brežice",
+    "type": "Municipality",
+    "iso3166-2": "SI-009",
+    "iso-name": "Brežice",
+    "iso-type": "Municipality"
+  },
+  "010": {
+    "name": "Tišina",
+    "type": "Municipality",
+    "iso3166-2": "SI-010",
+    "iso-name": "Tišina",
+    "iso-type": "Municipality"
+  },
+  "011": {
+    "name": "Celje",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-011",
+    "iso-name": "Celje",
+    "iso-type": "Urban municipality"
+  },
+  "012": {
+    "name": "Cerklje na Gorenjskem",
+    "type": "Municipality",
+    "iso3166-2": "SI-012",
+    "iso-name": "Cerklje na Gorenjskem",
+    "iso-type": "Municipality"
+  },
+  "013": {
+    "name": "Cerknica",
+    "type": "Municipality",
+    "iso3166-2": "SI-013",
+    "iso-name": "Cerknica",
+    "iso-type": "Municipality"
+  },
+  "014": {
+    "name": "Cerkno",
+    "type": "Municipality",
+    "iso3166-2": "SI-014",
+    "iso-name": "Cerkno",
+    "iso-type": "Municipality"
+  },
+  "015": {
+    "name": "Črenšovci",
+    "type": "Municipality",
+    "iso3166-2": "SI-015",
+    "iso-name": "Črenšovci",
+    "iso-type": "Municipality"
+  },
+  "016": {
+    "name": "Črna na Koroškem",
+    "type": "Municipality",
+    "iso3166-2": "SI-016",
+    "iso-name": "Črna na Koroškem",
+    "iso-type": "Municipality"
+  },
+  "017": {
+    "name": "Črnomelj",
+    "type": "Municipality",
+    "iso3166-2": "SI-017",
+    "iso-name": "Črnomelj",
+    "iso-type": "Municipality"
+  },
+  "018": {
+    "name": "Destrnik",
+    "type": "Municipality",
+    "iso3166-2": "SI-018",
+    "iso-name": "Destrnik",
+    "iso-type": "Municipality"
+  },
+  "019": {
+    "name": "Divača",
+    "type": "Municipality",
+    "iso3166-2": "SI-019",
+    "iso-name": "Divača",
+    "iso-type": "Municipality"
+  },
+  "020": {
+    "name": "Dobrepolje",
+    "type": "Municipality",
+    "iso3166-2": "SI-020",
+    "iso-name": "Dobrepolje",
+    "iso-type": "Municipality"
+  },
+  "021": {
+    "name": "Dobrova-Polhov Gradec",
+    "type": "Municipality",
+    "iso3166-2": "SI-021",
+    "iso-name": "Dobrova-Polhov Gradec",
+    "iso-type": "Municipality"
+  },
+  "022": {
+    "name": "Dol pri Ljubljani",
+    "type": "Municipality",
+    "iso3166-2": "SI-022",
+    "iso-name": "Dol pri Ljubljani",
+    "iso-type": "Municipality"
+  },
+  "023": {
+    "name": "Domžale",
+    "type": "Municipality",
+    "iso3166-2": "SI-023",
+    "iso-name": "Domžale",
+    "iso-type": "Municipality"
+  },
+  "024": {
+    "name": "Dornava",
+    "type": "Municipality",
+    "iso3166-2": "SI-024",
+    "iso-name": "Dornava",
+    "iso-type": "Municipality"
+  },
+  "025": {
+    "name": "Dravograd",
+    "type": "Municipality",
+    "iso3166-2": "SI-025",
+    "iso-name": "Dravograd",
+    "iso-type": "Municipality"
+  },
+  "026": {
+    "name": "Duplek",
+    "type": "Municipality",
+    "iso3166-2": "SI-026",
+    "iso-name": "Duplek",
+    "iso-type": "Municipality"
+  },
+  "027": {
+    "name": "Gorenja vas-Poljane",
+    "type": "Municipality",
+    "iso3166-2": "SI-027",
+    "iso-name": "Gorenja vas-Poljane",
+    "iso-type": "Municipality"
+  },
+  "028": {
+    "name": "Gorišnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-028",
+    "iso-name": "Gorišnica",
+    "iso-type": "Municipality"
+  },
+  "029": {
+    "name": "Gornja Radgona",
+    "type": "Municipality",
+    "iso3166-2": "SI-029",
+    "iso-name": "Gornja Radgona",
+    "iso-type": "Municipality"
+  },
+  "030": {
+    "name": "Gornji Grad",
+    "type": "Municipality",
+    "iso3166-2": "SI-030",
+    "iso-name": "Gornji Grad",
+    "iso-type": "Municipality"
+  },
+  "031": {
+    "name": "Gornji Petrovci",
+    "type": "Municipality",
+    "iso3166-2": "SI-031",
+    "iso-name": "Gornji Petrovci",
+    "iso-type": "Municipality"
+  },
+  "032": {
+    "name": "Grosuplje",
+    "type": "Municipality",
+    "iso3166-2": "SI-032",
+    "iso-name": "Grosuplje",
+    "iso-type": "Municipality"
+  },
+  "033": {
+    "name": "Šalovci",
+    "type": "Municipality",
+    "iso3166-2": "SI-033",
+    "iso-name": "Šalovci",
+    "iso-type": "Municipality"
+  },
+  "034": {
+    "name": "Hrastnik",
+    "type": "Municipality",
+    "iso3166-2": "SI-034",
+    "iso-name": "Hrastnik",
+    "iso-type": "Municipality"
+  },
+  "035": {
+    "name": "Hrpelje-Kozina",
+    "type": "Municipality",
+    "iso3166-2": "SI-035",
+    "iso-name": "Hrpelje-Kozina",
+    "iso-type": "Municipality"
+  },
+  "036": {
+    "name": "Idrija",
+    "type": "Municipality",
+    "iso3166-2": "SI-036",
+    "iso-name": "Idrija",
+    "iso-type": "Municipality"
+  },
+  "037": {
+    "name": "Ig",
+    "type": "Municipality",
+    "iso3166-2": "SI-037",
+    "iso-name": "Ig",
+    "iso-type": "Municipality"
+  },
+  "038": {
+    "name": "Ilirska Bistrica",
+    "type": "Municipality",
+    "iso3166-2": "SI-038",
+    "iso-name": "Ilirska Bistrica",
+    "iso-type": "Municipality"
+  },
+  "039": {
+    "name": "Ivančna Gorica",
+    "type": "Municipality",
+    "iso3166-2": "SI-039",
+    "iso-name": "Ivančna Gorica",
+    "iso-type": "Municipality"
+  },
+  "040": {
+    "name": "Izola",
+    "type": "Municipality",
+    "iso3166-2": "SI-040",
+    "iso-name": "Izola",
+    "iso-type": "Municipality"
+  },
+  "041": {
+    "name": "Jesenice",
+    "type": "Municipality",
+    "iso3166-2": "SI-041",
+    "iso-name": "Jesenice",
+    "iso-type": "Municipality"
+  },
+  "042": {
+    "name": "Juršinci",
+    "type": "Municipality",
+    "iso3166-2": "SI-042",
+    "iso-name": "Juršinci",
+    "iso-type": "Municipality"
+  },
+  "043": {
+    "name": "Kamnik",
+    "type": "Municipality",
+    "iso3166-2": "SI-043",
+    "iso-name": "Kamnik",
+    "iso-type": "Municipality"
+  },
+  "044": {
+    "name": "Kanal ob Soči",
+    "type": "Municipality",
+    "iso3166-2": "SI-044",
+    "iso-name": "Kanal ob Soči",
+    "iso-type": "Municipality"
+  },
+  "045": {
+    "name": "Kidričevo",
+    "type": "Municipality",
+    "iso3166-2": "SI-045",
+    "iso-name": "Kidričevo",
+    "iso-type": "Municipality"
+  },
+  "046": {
+    "name": "Kobarid",
+    "type": "Municipality",
+    "iso3166-2": "SI-046",
+    "iso-name": "Kobarid",
+    "iso-type": "Municipality"
+  },
+  "047": {
+    "name": "Kobilje",
+    "type": "Municipality",
+    "iso3166-2": "SI-047",
+    "iso-name": "Kobilje",
+    "iso-type": "Municipality"
+  },
+  "048": {
+    "name": "Kočevje",
+    "type": "Municipality",
+    "iso3166-2": "SI-048",
+    "iso-name": "Kočevje",
+    "iso-type": "Municipality"
+  },
+  "049": {
+    "name": "Komen",
+    "type": "Municipality",
+    "iso3166-2": "SI-049",
+    "iso-name": "Komen",
+    "iso-type": "Municipality"
+  },
+  "050": {
+    "name": "Koper",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-050",
+    "iso-name": "Koper",
+    "iso-type": "Urban municipality"
+  },
+  "051": {
+    "name": "Kozje",
+    "type": "Municipality",
+    "iso3166-2": "SI-051",
+    "iso-name": "Kozje",
+    "iso-type": "Municipality"
+  },
+  "052": {
+    "name": "Kranj",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-052",
+    "iso-name": "Kranj",
+    "iso-type": "Urban municipality"
+  },
+  "053": {
+    "name": "Kranjska Gora",
+    "type": "Municipality",
+    "iso3166-2": "SI-053",
+    "iso-name": "Kranjska Gora",
+    "iso-type": "Municipality"
+  },
+  "054": {
+    "name": "Krško",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-054",
+    "iso-name": "Krško",
+    "iso-type": "Urban municipality"
+  },
+  "055": {
+    "name": "Kungota",
+    "type": "Municipality",
+    "iso3166-2": "SI-055",
+    "iso-name": "Kungota",
+    "iso-type": "Municipality"
+  },
+  "056": {
+    "name": "Kuzma",
+    "type": "Municipality",
+    "iso3166-2": "SI-056",
+    "iso-name": "Kuzma",
+    "iso-type": "Municipality"
+  },
+  "057": {
+    "name": "Laško",
+    "type": "Municipality",
+    "iso3166-2": "SI-057",
+    "iso-name": "Laško",
+    "iso-type": "Municipality"
+  },
+  "058": {
+    "name": "Lenart",
+    "type": "Municipality",
+    "iso3166-2": "SI-058",
+    "iso-name": "Lenart",
+    "iso-type": "Municipality"
+  },
+  "059": {
+    "name": "Lendava",
+    "type": "Municipality",
+    "iso3166-2": "SI-059",
+    "iso-name": "Lendava",
+    "iso-type": "Municipality"
+  },
+  "060": {
+    "name": "Litija",
+    "type": "Municipality",
+    "iso3166-2": "SI-060",
+    "iso-name": "Litija",
+    "iso-type": "Municipality"
+  },
+  "061": {
+    "name": "Ljubljana",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-061",
+    "iso-name": "Ljubljana",
+    "iso-type": "Urban municipality"
+  },
+  "062": {
+    "name": "Ljubno",
+    "type": "Municipality",
+    "iso3166-2": "SI-062",
+    "iso-name": "Ljubno",
+    "iso-type": "Municipality"
+  },
+  "063": {
+    "name": "Ljutomer",
+    "type": "Municipality",
+    "iso3166-2": "SI-063",
+    "iso-name": "Ljutomer",
+    "iso-type": "Municipality"
+  },
+  "064": {
+    "name": "Logatec",
+    "type": "Municipality",
+    "iso3166-2": "SI-064",
+    "iso-name": "Logatec",
+    "iso-type": "Municipality"
+  },
+  "065": {
+    "name": "Loška dolina",
+    "type": "Municipality",
+    "iso3166-2": "SI-065",
+    "iso-name": "Loška dolina",
+    "iso-type": "Municipality"
+  },
+  "066": {
+    "name": "Loški Potok",
+    "type": "Municipality",
+    "iso3166-2": "SI-066",
+    "iso-name": "Loški Potok",
+    "iso-type": "Municipality"
+  },
+  "067": {
+    "name": "Luče",
+    "type": "Municipality",
+    "iso3166-2": "SI-067",
+    "iso-name": "Luče",
+    "iso-type": "Municipality"
+  },
+  "068": {
+    "name": "Lukovica",
+    "type": "Municipality",
+    "iso3166-2": "SI-068",
+    "iso-name": "Lukovica",
+    "iso-type": "Municipality"
+  },
+  "069": {
+    "name": "Majšperk",
+    "type": "Municipality",
+    "iso3166-2": "SI-069",
+    "iso-name": "Majšperk",
+    "iso-type": "Municipality"
+  },
+  "070": {
+    "name": "Maribor",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-070",
+    "iso-name": "Maribor",
+    "iso-type": "Urban municipality"
+  },
+  "071": {
+    "name": "Medvode",
+    "type": "Municipality",
+    "iso3166-2": "SI-071",
+    "iso-name": "Medvode",
+    "iso-type": "Municipality"
+  },
+  "072": {
+    "name": "Mengeš",
+    "type": "Municipality",
+    "iso3166-2": "SI-072",
+    "iso-name": "Mengeš",
+    "iso-type": "Municipality"
+  },
+  "073": {
+    "name": "Metlika",
+    "type": "Municipality",
+    "iso3166-2": "SI-073",
+    "iso-name": "Metlika",
+    "iso-type": "Municipality"
+  },
+  "074": {
+    "name": "Mežica",
+    "type": "Municipality",
+    "iso3166-2": "SI-074",
+    "iso-name": "Mežica",
+    "iso-type": "Municipality"
+  },
+  "075": {
+    "name": "Miren-Kostanjevica",
+    "type": "Municipality",
+    "iso3166-2": "SI-075",
+    "iso-name": "Miren-Kostanjevica",
+    "iso-type": "Municipality"
+  },
+  "076": {
+    "name": "Mislinja",
+    "type": "Municipality",
+    "iso3166-2": "SI-076",
+    "iso-name": "Mislinja",
+    "iso-type": "Municipality"
+  },
+  "077": {
+    "name": "Moravče",
+    "type": "Municipality",
+    "iso3166-2": "SI-077",
+    "iso-name": "Moravče",
+    "iso-type": "Municipality"
+  },
+  "078": {
+    "name": "Moravske Toplice",
+    "type": "Municipality",
+    "iso3166-2": "SI-078",
+    "iso-name": "Moravske Toplice",
+    "iso-type": "Municipality"
+  },
+  "079": {
+    "name": "Mozirje",
+    "type": "Municipality",
+    "iso3166-2": "SI-079",
+    "iso-name": "Mozirje",
+    "iso-type": "Municipality"
+  },
+  "080": {
+    "name": "Murska Sobota",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-080",
+    "iso-name": "Murska Sobota",
+    "iso-type": "Urban municipality"
+  },
+  "081": {
+    "name": "Muta",
+    "type": "Municipality",
+    "iso3166-2": "SI-081",
+    "iso-name": "Muta",
+    "iso-type": "Municipality"
+  },
+  "082": {
+    "name": "Naklo",
+    "type": "Municipality",
+    "iso3166-2": "SI-082",
+    "iso-name": "Naklo",
+    "iso-type": "Municipality"
+  },
+  "083": {
+    "name": "Nazarje",
+    "type": "Municipality",
+    "iso3166-2": "SI-083",
+    "iso-name": "Nazarje",
+    "iso-type": "Municipality"
+  },
+  "084": {
+    "name": "Nova Gorica",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-084",
+    "iso-name": "Nova Gorica",
+    "iso-type": "Urban municipality"
+  },
+  "085": {
+    "name": "Novo Mesto",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-085",
+    "iso-name": "Novo Mesto",
+    "iso-type": "Urban municipality"
+  },
+  "086": {
+    "name": "Odranci",
+    "type": "Municipality",
+    "iso3166-2": "SI-086",
+    "iso-name": "Odranci",
+    "iso-type": "Municipality"
+  },
+  "087": {
+    "name": "Ormož",
+    "type": "Municipality",
+    "iso3166-2": "SI-087",
+    "iso-name": "Ormož",
+    "iso-type": "Municipality"
+  },
+  "088": {
+    "name": "Osilnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-088",
+    "iso-name": "Osilnica",
+    "iso-type": "Municipality"
+  },
+  "089": {
+    "name": "Pesnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-089",
+    "iso-name": "Pesnica",
+    "iso-type": "Municipality"
+  },
+  "090": {
+    "name": "Piran",
+    "type": "Municipality",
+    "iso3166-2": "SI-090",
+    "iso-name": "Piran",
+    "iso-type": "Municipality"
+  },
+  "091": {
+    "name": "Pivka",
+    "type": "Municipality",
+    "iso3166-2": "SI-091",
+    "iso-name": "Pivka",
+    "iso-type": "Municipality"
+  },
+  "092": {
+    "name": "Podčetrtek",
+    "type": "Municipality",
+    "iso3166-2": "SI-092",
+    "iso-name": "Podčetrtek",
+    "iso-type": "Municipality"
+  },
+  "093": {
+    "name": "Podvelka",
+    "type": "Municipality",
+    "iso3166-2": "SI-093",
+    "iso-name": "Podvelka",
+    "iso-type": "Municipality"
+  },
+  "094": {
+    "name": "Postojna",
+    "type": "Municipality",
+    "iso3166-2": "SI-094",
+    "iso-name": "Postojna",
+    "iso-type": "Municipality"
+  },
+  "095": {
+    "name": "Preddvor",
+    "type": "Municipality",
+    "iso3166-2": "SI-095",
+    "iso-name": "Preddvor",
+    "iso-type": "Municipality"
+  },
+  "096": {
+    "name": "Ptuj",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-096",
+    "iso-name": "Ptuj",
+    "iso-type": "Urban municipality"
+  },
+  "097": {
+    "name": "Puconci",
+    "type": "Municipality",
+    "iso3166-2": "SI-097",
+    "iso-name": "Puconci",
+    "iso-type": "Municipality"
+  },
+  "098": {
+    "name": "Rače-Fram",
+    "type": "Municipality",
+    "iso3166-2": "SI-098",
+    "iso-name": "Rače-Fram",
+    "iso-type": "Municipality"
+  },
+  "099": {
+    "name": "Radeče",
+    "type": "Municipality",
+    "iso3166-2": "SI-099",
+    "iso-name": "Radeče",
+    "iso-type": "Municipality"
+  },
+  "100": {
+    "name": "Radenci",
+    "type": "Municipality",
+    "iso3166-2": "SI-100",
+    "iso-name": "Radenci",
+    "iso-type": "Municipality"
+  },
+  "101": {
+    "name": "Radlje ob Dravi",
+    "type": "Municipality",
+    "iso3166-2": "SI-101",
+    "iso-name": "Radlje ob Dravi",
+    "iso-type": "Municipality"
+  },
+  "102": {
+    "name": "Radovljica",
+    "type": "Municipality",
+    "iso3166-2": "SI-102",
+    "iso-name": "Radovljica",
+    "iso-type": "Municipality"
+  },
+  "103": {
+    "name": "Ravne na Koroškem",
+    "type": "Municipality",
+    "iso3166-2": "SI-103",
+    "iso-name": "Ravne na Koroškem",
+    "iso-type": "Municipality"
+  },
+  "104": {
+    "name": "Ribnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-104",
+    "iso-name": "Ribnica",
+    "iso-type": "Municipality"
+  },
+  "105": {
+    "name": "Rogašovci",
+    "type": "Municipality",
+    "iso3166-2": "SI-105",
+    "iso-name": "Rogašovci",
+    "iso-type": "Municipality"
+  },
+  "106": {
+    "name": "Rogaška Slatina",
+    "type": "Municipality",
+    "iso3166-2": "SI-106",
+    "iso-name": "Rogaška Slatina",
+    "iso-type": "Municipality"
+  },
+  "107": {
+    "name": "Rogatec",
+    "type": "Municipality",
+    "iso3166-2": "SI-107",
+    "iso-name": "Rogatec",
+    "iso-type": "Municipality"
+  },
+  "108": {
+    "name": "Ruše",
+    "type": "Municipality",
+    "iso3166-2": "SI-108",
+    "iso-name": "Ruše",
+    "iso-type": "Municipality"
+  },
+  "109": {
+    "name": "Semič",
+    "type": "Municipality",
+    "iso3166-2": "SI-109",
+    "iso-name": "Semič",
+    "iso-type": "Municipality"
+  },
+  "110": {
+    "name": "Sevnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-110",
+    "iso-name": "Sevnica",
+    "iso-type": "Municipality"
+  },
+  "111": {
+    "name": "Sežana",
+    "type": "Municipality",
+    "iso3166-2": "SI-111",
+    "iso-name": "Sežana",
+    "iso-type": "Municipality"
+  },
+  "112": {
+    "name": "Slovenj Gradec",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-112",
+    "iso-name": "Slovenj Gradec",
+    "iso-type": "Urban municipality"
+  },
+  "113": {
+    "name": "Slovenska Bistrica",
+    "type": "Municipality",
+    "iso3166-2": "SI-113",
+    "iso-name": "Slovenska Bistrica",
+    "iso-type": "Municipality"
+  },
+  "114": {
+    "name": "Slovenske Konjice",
+    "type": "Municipality",
+    "iso3166-2": "SI-114",
+    "iso-name": "Slovenske Konjice",
+    "iso-type": "Municipality"
+  },
+  "115": {
+    "name": "Starše",
+    "type": "Municipality",
+    "iso3166-2": "SI-115",
+    "iso-name": "Starše",
+    "iso-type": "Municipality"
+  },
+  "116": {
+    "name": "Sveti Jurij ob Ščavnici",
+    "type": "Municipality",
+    "iso3166-2": "SI-116",
+    "iso-name": "Sveti Jurij ob Ščavnici",
+    "iso-type": "Municipality"
+  },
+  "117": {
+    "name": "Šenčur",
+    "type": "Municipality",
+    "iso3166-2": "SI-117",
+    "iso-name": "Šenčur",
+    "iso-type": "Municipality"
+  },
+  "118": {
+    "name": "Šentilj",
+    "type": "Municipality",
+    "iso3166-2": "SI-118",
+    "iso-name": "Šentilj",
+    "iso-type": "Municipality"
+  },
+  "119": {
+    "name": "Šentjernej",
+    "type": "Municipality",
+    "iso3166-2": "SI-119",
+    "iso-name": "Šentjernej",
+    "iso-type": "Municipality"
+  },
+  "120": {
+    "name": "Šentjur",
+    "type": "Municipality",
+    "iso3166-2": "SI-120",
+    "iso-name": "Šentjur",
+    "iso-type": "Municipality"
+  },
+  "121": {
+    "name": "Škocjan",
+    "type": "Municipality",
+    "iso3166-2": "SI-121",
+    "iso-name": "Škocjan",
+    "iso-type": "Municipality"
+  },
+  "122": {
+    "name": "Škofja Loka",
+    "type": "Municipality",
+    "iso3166-2": "SI-122",
+    "iso-name": "Škofja Loka",
+    "iso-type": "Municipality"
+  },
+  "123": {
+    "name": "Škofljica",
+    "type": "Municipality",
+    "iso3166-2": "SI-123",
+    "iso-name": "Škofljica",
+    "iso-type": "Municipality"
+  },
+  "124": {
+    "name": "Šmarje pri Jelšah",
+    "type": "Municipality",
+    "iso3166-2": "SI-124",
+    "iso-name": "Šmarje pri Jelšah",
+    "iso-type": "Municipality"
+  },
+  "125": {
+    "name": "Šmartno ob Paki",
+    "type": "Municipality",
+    "iso3166-2": "SI-125",
+    "iso-name": "Šmartno ob Paki",
+    "iso-type": "Municipality"
+  },
+  "126": {
+    "name": "Šoštanj",
+    "type": "Municipality",
+    "iso3166-2": "SI-126",
+    "iso-name": "Šoštanj",
+    "iso-type": "Municipality"
+  },
+  "127": {
+    "name": "Štore",
+    "type": "Municipality",
+    "iso3166-2": "SI-127",
+    "iso-name": "Štore",
+    "iso-type": "Municipality"
+  },
+  "128": {
+    "name": "Tolmin",
+    "type": "Municipality",
+    "iso3166-2": "SI-128",
+    "iso-name": "Tolmin",
+    "iso-type": "Municipality"
+  },
+  "129": {
+    "name": "Trbovlje",
+    "type": "Municipality",
+    "iso3166-2": "SI-129",
+    "iso-name": "Trbovlje",
+    "iso-type": "Municipality"
+  },
+  "130": {
+    "name": "Trebnje",
+    "type": "Municipality",
+    "iso3166-2": "SI-130",
+    "iso-name": "Trebnje",
+    "iso-type": "Municipality"
+  },
+  "131": {
+    "name": "Tržič",
+    "type": "Municipality",
+    "iso3166-2": "SI-131",
+    "iso-name": "Tržič",
+    "iso-type": "Municipality"
+  },
+  "132": {
+    "name": "Turnišče",
+    "type": "Municipality",
+    "iso3166-2": "SI-132",
+    "iso-name": "Turnišče",
+    "iso-type": "Municipality"
+  },
+  "133": {
+    "name": "Velenje",
+    "type": "Urban municipality",
+    "iso3166-2": "SI-133",
+    "iso-name": "Velenje",
+    "iso-type": "Urban municipality"
+  },
+  "134": {
+    "name": "Velike Lašče",
+    "type": "Municipality",
+    "iso3166-2": "SI-134",
+    "iso-name": "Velike Lašče",
+    "iso-type": "Municipality"
+  },
+  "135": {
+    "name": "Videm",
+    "type": "Municipality",
+    "iso3166-2": "SI-135",
+    "iso-name": "Videm",
+    "iso-type": "Municipality"
+  },
+  "136": {
+    "name": "Vipava",
+    "type": "Municipality",
+    "iso3166-2": "SI-136",
+    "iso-name": "Vipava",
+    "iso-type": "Municipality"
+  },
+  "137": {
+    "name": "Vitanje",
+    "type": "Municipality",
+    "iso3166-2": "SI-137",
+    "iso-name": "Vitanje",
+    "iso-type": "Municipality"
+  },
+  "138": {
+    "name": "Vodice",
+    "type": "Municipality",
+    "iso3166-2": "SI-138",
+    "iso-name": "Vodice",
+    "iso-type": "Municipality"
+  },
+  "139": {
+    "name": "Vojnik",
+    "type": "Municipality",
+    "iso3166-2": "SI-139",
+    "iso-name": "Vojnik",
+    "iso-type": "Municipality"
+  },
+  "140": {
+    "name": "Vrhnika",
+    "type": "Municipality",
+    "iso3166-2": "SI-140",
+    "iso-name": "Vrhnika",
+    "iso-type": "Municipality"
+  },
+  "141": {
+    "name": "Vuzenica",
+    "type": "Municipality",
+    "iso3166-2": "SI-141",
+    "iso-name": "Vuzenica",
+    "iso-type": "Municipality"
+  },
+  "142": {
+    "name": "Zagorje ob Savi",
+    "type": "Municipality",
+    "iso3166-2": "SI-142",
+    "iso-name": "Zagorje ob Savi",
+    "iso-type": "Municipality"
+  },
+  "143": {
+    "name": "Zavrč",
+    "type": "Municipality",
+    "iso3166-2": "SI-143",
+    "iso-name": "Zavrč",
+    "iso-type": "Municipality"
+  },
+  "144": {
+    "name": "Zreče",
+    "type": "Municipality",
+    "iso3166-2": "SI-144",
+    "iso-name": "Zreče",
+    "iso-type": "Municipality"
+  },
+  "146": {
+    "name": "Železniki",
+    "type": "Municipality",
+    "iso3166-2": "SI-146",
+    "iso-name": "Železniki",
+    "iso-type": "Municipality"
+  },
+  "147": {
+    "name": "Žiri",
+    "type": "Municipality",
+    "iso3166-2": "SI-147",
+    "iso-name": "Žiri",
+    "iso-type": "Municipality"
+  },
+  "148": {
+    "name": "Benedikt",
+    "type": "Municipality",
+    "iso3166-2": "SI-148",
+    "iso-name": "Benedikt",
+    "iso-type": "Municipality"
+  },
+  "149": {
+    "name": "Bistrica ob Sotli",
+    "type": "Municipality",
+    "iso3166-2": "SI-149",
+    "iso-name": "Bistrica ob Sotli",
+    "iso-type": "Municipality"
+  },
+  "150": {
+    "name": "Bloke",
+    "type": "Municipality",
+    "iso3166-2": "SI-150",
+    "iso-name": "Bloke",
+    "iso-type": "Municipality"
+  },
+  "151": {
+    "name": "Braslovče",
+    "type": "Municipality",
+    "iso3166-2": "SI-151",
+    "iso-name": "Braslovče",
+    "iso-type": "Municipality"
+  },
+  "152": {
+    "name": "Cankova",
+    "type": "Municipality",
+    "iso3166-2": "SI-152",
+    "iso-name": "Cankova",
+    "iso-type": "Municipality"
+  },
+  "153": {
+    "name": "Cerkvenjak",
+    "type": "Municipality",
+    "iso3166-2": "SI-153",
+    "iso-name": "Cerkvenjak",
+    "iso-type": "Municipality"
+  },
+  "154": {
+    "name": "Dobje",
+    "type": "Municipality",
+    "iso3166-2": "SI-154",
+    "iso-name": "Dobje",
+    "iso-type": "Municipality"
+  },
+  "155": {
+    "name": "Dobrna",
+    "type": "Municipality",
+    "iso3166-2": "SI-155",
+    "iso-name": "Dobrna",
+    "iso-type": "Municipality"
+  },
+  "156": {
+    "name": "Dobrovnik",
+    "type": "Municipality",
+    "iso3166-2": "SI-156",
+    "iso-name": "Dobrovnik",
+    "iso-type": "Municipality"
+  },
+  "157": {
+    "name": "Dolenjske Toplice",
+    "type": "Municipality",
+    "iso3166-2": "SI-157",
+    "iso-name": "Dolenjske Toplice",
+    "iso-type": "Municipality"
+  },
+  "158": {
+    "name": "Grad",
+    "type": "Municipality",
+    "iso3166-2": "SI-158",
+    "iso-name": "Grad",
+    "iso-type": "Municipality"
+  },
+  "159": {
+    "name": "Hajdina",
+    "type": "Municipality",
+    "iso3166-2": "SI-159",
+    "iso-name": "Hajdina",
+    "iso-type": "Municipality"
+  },
+  "160": {
+    "name": "Hoče-Slivnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-160",
+    "iso-name": "Hoče-Slivnica",
+    "iso-type": "Municipality"
+  },
+  "161": {
+    "name": "Hodoš",
+    "type": "Municipality",
+    "iso3166-2": "SI-161",
+    "iso-name": "Hodoš",
+    "iso-type": "Municipality"
+  },
+  "162": {
+    "name": "Horjul",
+    "type": "Municipality",
+    "iso3166-2": "SI-162",
+    "iso-name": "Horjul",
+    "iso-type": "Municipality"
+  },
+  "163": {
+    "name": "Jezersko",
+    "type": "Municipality",
+    "iso3166-2": "SI-163",
+    "iso-name": "Jezersko",
+    "iso-type": "Municipality"
+  },
+  "164": {
+    "name": "Komenda",
+    "type": "Municipality",
+    "iso3166-2": "SI-164",
+    "iso-name": "Komenda",
+    "iso-type": "Municipality"
+  },
+  "165": {
+    "name": "Kostel",
+    "type": "Municipality",
+    "iso3166-2": "SI-165",
+    "iso-name": "Kostel",
+    "iso-type": "Municipality"
+  },
+  "166": {
+    "name": "Križevci",
+    "type": "Municipality",
+    "iso3166-2": "SI-166",
+    "iso-name": "Križevci",
+    "iso-type": "Municipality"
+  },
+  "167": {
+    "name": "Lovrenc na Pohorju",
+    "type": "Municipality",
+    "iso3166-2": "SI-167",
+    "iso-name": "Lovrenc na Pohorju",
+    "iso-type": "Municipality"
+  },
+  "168": {
+    "name": "Markovci",
+    "type": "Municipality",
+    "iso3166-2": "SI-168",
+    "iso-name": "Markovci",
+    "iso-type": "Municipality"
+  },
+  "169": {
+    "name": "Miklavž na Dravskem polju",
+    "type": "Municipality",
+    "iso3166-2": "SI-169",
+    "iso-name": "Miklavž na Dravskem polju",
+    "iso-type": "Municipality"
+  },
+  "170": {
+    "name": "Mirna Peč",
+    "type": "Municipality",
+    "iso3166-2": "SI-170",
+    "iso-name": "Mirna Peč",
+    "iso-type": "Municipality"
+  },
+  "171": {
+    "name": "Oplotnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-171",
+    "iso-name": "Oplotnica",
+    "iso-type": "Municipality"
+  },
+  "172": {
+    "name": "Podlehnik",
+    "type": "Municipality",
+    "iso3166-2": "SI-172",
+    "iso-name": "Podlehnik",
+    "iso-type": "Municipality"
+  },
+  "173": {
+    "name": "Polzela",
+    "type": "Municipality",
+    "iso3166-2": "SI-173",
+    "iso-name": "Polzela",
+    "iso-type": "Municipality"
+  },
+  "174": {
+    "name": "Prebold",
+    "type": "Municipality",
+    "iso3166-2": "SI-174",
+    "iso-name": "Prebold",
+    "iso-type": "Municipality"
+  },
+  "175": {
+    "name": "Prevalje",
+    "type": "Municipality",
+    "iso3166-2": "SI-175",
+    "iso-name": "Prevalje",
+    "iso-type": "Municipality"
+  },
+  "176": {
+    "name": "Razkrižje",
+    "type": "Municipality",
+    "iso3166-2": "SI-176",
+    "iso-name": "Razkrižje",
+    "iso-type": "Municipality"
+  },
+  "177": {
+    "name": "Ribnica na Pohorju",
+    "type": "Municipality",
+    "iso3166-2": "SI-177",
+    "iso-name": "Ribnica na Pohorju",
+    "iso-type": "Municipality"
+  },
+  "178": {
+    "name": "Selnica ob Dravi",
+    "type": "Municipality",
+    "iso3166-2": "SI-178",
+    "iso-name": "Selnica ob Dravi",
+    "iso-type": "Municipality"
+  },
+  "179": {
+    "name": "Sodražica",
+    "type": "Municipality",
+    "iso3166-2": "SI-179",
+    "iso-name": "Sodražica",
+    "iso-type": "Municipality"
+  },
+  "180": {
+    "name": "Solčava",
+    "type": "Municipality",
+    "iso3166-2": "SI-180",
+    "iso-name": "Solčava",
+    "iso-type": "Municipality"
+  },
+  "181": {
+    "name": "Sveta Ana",
+    "type": "Municipality",
+    "iso3166-2": "SI-181",
+    "iso-name": "Sveta Ana",
+    "iso-type": "Municipality"
+  },
+  "182": {
+    "name": "Sveti Andraž v Slovenskih goricah",
+    "type": "Municipality",
+    "iso3166-2": "SI-182",
+    "iso-name": "Sveti Andraž v Slovenskih goricah",
+    "iso-type": "Municipality"
+  },
+  "183": {
+    "name": "Šempeter-Vrtojba",
+    "type": "Municipality",
+    "iso3166-2": "SI-183",
+    "iso-name": "Šempeter-Vrtojba",
+    "iso-type": "Municipality"
+  },
+  "184": {
+    "name": "Tabor",
+    "type": "Municipality",
+    "iso3166-2": "SI-184",
+    "iso-name": "Tabor",
+    "iso-type": "Municipality"
+  },
+  "185": {
+    "name": "Trnovska Vas",
+    "type": "Municipality",
+    "iso3166-2": "SI-185",
+    "iso-name": "Trnovska Vas",
+    "iso-type": "Municipality"
+  },
+  "186": {
+    "name": "Trzin",
+    "type": "Municipality",
+    "iso3166-2": "SI-186",
+    "iso-name": "Trzin",
+    "iso-type": "Municipality"
+  },
+  "187": {
+    "name": "Velika Polana",
+    "type": "Municipality",
+    "iso3166-2": "SI-187",
+    "iso-name": "Velika Polana",
+    "iso-type": "Municipality"
+  },
+  "188": {
+    "name": "Veržej",
+    "type": "Municipality",
+    "iso3166-2": "SI-188",
+    "iso-name": "Veržej",
+    "iso-type": "Municipality"
+  },
+  "189": {
+    "name": "Vransko",
+    "type": "Municipality",
+    "iso3166-2": "SI-189",
+    "iso-name": "Vransko",
+    "iso-type": "Municipality"
+  },
+  "190": {
+    "name": "Žalec",
+    "type": "Municipality",
+    "iso3166-2": "SI-190",
+    "iso-name": "Žalec",
+    "iso-type": "Municipality"
+  },
+  "191": {
+    "name": "Žetale",
+    "type": "Municipality",
+    "iso3166-2": "SI-191",
+    "iso-name": "Žetale",
+    "iso-type": "Municipality"
+  },
+  "192": {
+    "name": "Žirovnica",
+    "type": "Municipality",
+    "iso3166-2": "SI-192",
+    "iso-name": "Žirovnica",
+    "iso-type": "Municipality"
+  },
+  "193": {
+    "name": "Žužemberk",
+    "type": "Municipality",
+    "iso3166-2": "SI-193",
+    "iso-name": "Žužemberk",
+    "iso-type": "Municipality"
+  },
+  "194": {
+    "name": "Šmartno pri Litiji",
+    "type": "Municipality",
+    "iso3166-2": "SI-194",
+    "iso-name": "Šmartno pri Litiji",
+    "iso-type": "Municipality"
+  },
+  "195": {
+    "name": "Apače",
+    "type": "Municipality",
+    "iso3166-2": "SI-195",
+    "iso-name": "Apače",
+    "iso-type": "Municipality"
+  },
+  "196": {
+    "name": "Cirkulane",
+    "type": "Municipality",
+    "iso3166-2": "SI-196",
+    "iso-name": "Cirkulane",
+    "iso-type": "Municipality"
+  },
+  "197": {
+    "name": "Kostanjevica na Krki",
+    "type": "Municipality",
+    "iso3166-2": "SI-197",
+    "iso-name": "Kostanjevica na Krki",
+    "iso-type": "Municipality"
+  },
+  "198": {
+    "name": "Makole",
+    "type": "Municipality",
+    "iso3166-2": "SI-198",
+    "iso-name": "Makole",
+    "iso-type": "Municipality"
+  },
+  "199": {
+    "name": "Mokronog-Trebelno",
+    "type": "Municipality",
+    "iso3166-2": "SI-199",
+    "iso-name": "Mokronog-Trebelno",
+    "iso-type": "Municipality"
+  },
+  "200": {
+    "name": "Poljčane",
+    "type": "Municipality",
+    "iso3166-2": "SI-200",
+    "iso-name": "Poljčane",
+    "iso-type": "Municipality"
+  },
+  "201": {
+    "name": "Renče-Vogrsko",
+    "type": "Municipality",
+    "iso3166-2": "SI-201",
+    "iso-name": "Renče-Vogrsko",
+    "iso-type": "Municipality"
+  },
+  "202": {
+    "name": "Središče ob Dravi",
+    "type": "Municipality",
+    "iso3166-2": "SI-202",
+    "iso-name": "Središče ob Dravi",
+    "iso-type": "Municipality"
+  },
+  "203": {
+    "name": "Straža",
+    "type": "Municipality",
+    "iso3166-2": "SI-203",
+    "iso-name": "Straža",
+    "iso-type": "Municipality"
+  },
+  "204": {
+    "name": "Sveta Trojica v Slovenskih goricah",
+    "type": "Municipality",
+    "iso3166-2": "SI-204",
+    "iso-name": "Sveta Trojica v Slovenskih goricah",
+    "iso-type": "Municipality"
+  },
+  "205": {
+    "name": "Sveti Tomaž",
+    "type": "Municipality",
+    "iso3166-2": "SI-205",
+    "iso-name": "Sveti Tomaž",
+    "iso-type": "Municipality"
+  },
+  "206": {
+    "name": "Šmarješke Toplice",
+    "type": "Municipality",
+    "iso3166-2": "SI-206",
+    "iso-name": "Šmarješke Toplice",
+    "iso-type": "Municipality"
+  },
+  "207": {
+    "name": "Gorje",
+    "type": "Municipality",
+    "iso3166-2": "SI-207",
+    "iso-name": "Gorje",
+    "iso-type": "Municipality"
+  },
+  "208": {
+    "name": "Log-Dragomer",
+    "type": "Municipality",
+    "iso3166-2": "SI-208",
+    "iso-name": "Log-Dragomer",
+    "iso-type": "Municipality"
+  },
+  "209": {
+    "name": "Rečica ob Savinji",
+    "type": "Municipality",
+    "iso3166-2": "SI-209",
+    "iso-name": "Rečica ob Savinji",
+    "iso-type": "Municipality"
+  },
+  "210": {
+    "name": "Sveti Jurij v Slovenskih goricah",
+    "type": "Municipality",
+    "iso3166-2": "SI-210",
+    "iso-name": "Sveti Jurij v Slovenskih goricah",
+    "iso-type": "Municipality"
+  },
+  "211": {
+    "name": "Šentrupert",
+    "type": "Municipality",
+    "iso3166-2": "SI-211",
+    "iso-name": "Šentrupert",
+    "iso-type": "Municipality"
+  },
+  "212": {
+    "name": "Mirna",
+    "type": "Municipality",
+    "iso3166-2": "SI-212",
+    "iso-name": "Mirna",
+    "iso-type": "Municipality"
+  },
+  "213": {
+    "name": "Ankaran",
+    "type": "Municipality",
+    "iso3166-2": "SI-213",
+    "iso-name": "Ankaran",
+    "iso-type": "Municipality"
+  }
+}

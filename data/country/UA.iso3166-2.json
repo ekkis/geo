@@ -1,0 +1,191 @@
+{
+  "05": {
+    "name": "Vinnytska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-05",
+    "iso-name": "Vinnytska oblast",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Volynska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-07",
+    "iso-name": "Volynska oblast",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Luhanska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-09",
+    "iso-name": "Luhanska oblast",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Dnipropetrovska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-12",
+    "iso-name": "Dnipropetrovska oblast",
+    "iso-type": "Region"
+  },
+  "14": {
+    "name": "Donetska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-14",
+    "iso-name": "Donetska oblast",
+    "iso-type": "Region"
+  },
+  "18": {
+    "name": "Zhytomyrska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-18",
+    "iso-name": "Zhytomyrska oblast",
+    "iso-type": "Region"
+  },
+  "21": {
+    "name": "Zakarpatska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-21",
+    "iso-name": "Zakarpatska oblast",
+    "iso-type": "Region"
+  },
+  "23": {
+    "name": "Zaporizka oblast",
+    "type": "Region",
+    "iso3166-2": "UA-23",
+    "iso-name": "Zaporizka oblast",
+    "iso-type": "Region"
+  },
+  "26": {
+    "name": "Ivano-Frankivska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-26",
+    "iso-name": "Ivano-Frankivska oblast",
+    "iso-type": "Region"
+  },
+  "30": {
+    "name": "Kyiv",
+    "type": "City",
+    "iso3166-2": "UA-30",
+    "iso-name": "Kyiv",
+    "iso-type": "City"
+  },
+  "32": {
+    "name": "Kyivska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-32",
+    "iso-name": "Kyivska oblast",
+    "iso-type": "Region"
+  },
+  "35": {
+    "name": "Kirovohradska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-35",
+    "iso-name": "Kirovohradska oblast",
+    "iso-type": "Region"
+  },
+  "40": {
+    "name": "Sevastopol",
+    "type": "City",
+    "iso3166-2": "UA-40",
+    "iso-name": "Sevastopol",
+    "iso-type": "City"
+  },
+  "43": {
+    "name": "Avtonomna Respublika Krym",
+    "type": "Republic",
+    "iso3166-2": "UA-43",
+    "iso-name": "Avtonomna Respublika Krym",
+    "iso-type": "Republic"
+  },
+  "46": {
+    "name": "Lvivska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-46",
+    "iso-name": "Lvivska oblast",
+    "iso-type": "Region"
+  },
+  "48": {
+    "name": "Mykolaivska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-48",
+    "iso-name": "Mykolaivska oblast",
+    "iso-type": "Region"
+  },
+  "51": {
+    "name": "Odeska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-51",
+    "iso-name": "Odeska oblast",
+    "iso-type": "Region"
+  },
+  "53": {
+    "name": "Poltavska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-53",
+    "iso-name": "Poltavska oblast",
+    "iso-type": "Region"
+  },
+  "56": {
+    "name": "Rivnenska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-56",
+    "iso-name": "Rivnenska oblast",
+    "iso-type": "Region"
+  },
+  "59": {
+    "name": "Sumska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-59",
+    "iso-name": "Sumska oblast",
+    "iso-type": "Region"
+  },
+  "61": {
+    "name": "Ternopilska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-61",
+    "iso-name": "Ternopilska oblast",
+    "iso-type": "Region"
+  },
+  "63": {
+    "name": "Kharkivska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-63",
+    "iso-name": "Kharkivska oblast",
+    "iso-type": "Region"
+  },
+  "65": {
+    "name": "Khersonska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-65",
+    "iso-name": "Khersonska oblast",
+    "iso-type": "Region"
+  },
+  "68": {
+    "name": "Khmelnytska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-68",
+    "iso-name": "Khmelnytska oblast",
+    "iso-type": "Region"
+  },
+  "71": {
+    "name": "Cherkaska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-71",
+    "iso-name": "Cherkaska oblast",
+    "iso-type": "Region"
+  },
+  "74": {
+    "name": "Chernihivska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-74",
+    "iso-name": "Chernihivska oblast",
+    "iso-type": "Region"
+  },
+  "77": {
+    "name": "Chernivetska oblast",
+    "type": "Region",
+    "iso3166-2": "UA-77",
+    "iso-name": "Chernivetska oblast",
+    "iso-type": "Region"
+  }
+}

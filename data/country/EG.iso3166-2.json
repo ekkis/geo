@@ -1,0 +1,191 @@
+{
+  "ALX": {
+    "name": "Al Iskandarīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-ALX",
+    "iso-name": "Al Iskandarīyah",
+    "iso-type": "Governorate"
+  },
+  "ASN": {
+    "name": "Aswān",
+    "type": "Governorate",
+    "iso3166-2": "EG-ASN",
+    "iso-name": "Aswān",
+    "iso-type": "Governorate"
+  },
+  "AST": {
+    "name": "Asyūţ",
+    "type": "Governorate",
+    "iso3166-2": "EG-AST",
+    "iso-name": "Asyūţ",
+    "iso-type": "Governorate"
+  },
+  "BA": {
+    "name": "Al Baḩr al Aḩmar",
+    "type": "Governorate",
+    "iso3166-2": "EG-BA",
+    "iso-name": "Al Baḩr al Aḩmar",
+    "iso-type": "Governorate"
+  },
+  "BH": {
+    "name": "Al Buḩayrah",
+    "type": "Governorate",
+    "iso3166-2": "EG-BH",
+    "iso-name": "Al Buḩayrah",
+    "iso-type": "Governorate"
+  },
+  "BNS": {
+    "name": "Banī Suwayf",
+    "type": "Governorate",
+    "iso3166-2": "EG-BNS",
+    "iso-name": "Banī Suwayf",
+    "iso-type": "Governorate"
+  },
+  "C": {
+    "name": "Al Qāhirah",
+    "type": "Governorate",
+    "iso3166-2": "EG-C",
+    "iso-name": "Al Qāhirah",
+    "iso-type": "Governorate"
+  },
+  "DK": {
+    "name": "Ad Daqahlīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-DK",
+    "iso-name": "Ad Daqahlīyah",
+    "iso-type": "Governorate"
+  },
+  "DT": {
+    "name": "Dumyāţ",
+    "type": "Governorate",
+    "iso3166-2": "EG-DT",
+    "iso-name": "Dumyāţ",
+    "iso-type": "Governorate"
+  },
+  "FYM": {
+    "name": "Al Fayyūm",
+    "type": "Governorate",
+    "iso3166-2": "EG-FYM",
+    "iso-name": "Al Fayyūm",
+    "iso-type": "Governorate"
+  },
+  "GH": {
+    "name": "Al Gharbīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-GH",
+    "iso-name": "Al Gharbīyah",
+    "iso-type": "Governorate"
+  },
+  "GZ": {
+    "name": "Al Jīzah",
+    "type": "Governorate",
+    "iso3166-2": "EG-GZ",
+    "iso-name": "Al Jīzah",
+    "iso-type": "Governorate"
+  },
+  "IS": {
+    "name": "Al Ismā'īlīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-IS",
+    "iso-name": "Al Ismā'īlīyah",
+    "iso-type": "Governorate"
+  },
+  "JS": {
+    "name": "Janūb Sīnā'",
+    "type": "Governorate",
+    "iso3166-2": "EG-JS",
+    "iso-name": "Janūb Sīnā'",
+    "iso-type": "Governorate"
+  },
+  "KB": {
+    "name": "Al Qalyūbīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-KB",
+    "iso-name": "Al Qalyūbīyah",
+    "iso-type": "Governorate"
+  },
+  "KFS": {
+    "name": "Kafr ash Shaykh",
+    "type": "Governorate",
+    "iso3166-2": "EG-KFS",
+    "iso-name": "Kafr ash Shaykh",
+    "iso-type": "Governorate"
+  },
+  "KN": {
+    "name": "Qinā",
+    "type": "Governorate",
+    "iso3166-2": "EG-KN",
+    "iso-name": "Qinā",
+    "iso-type": "Governorate"
+  },
+  "LX": {
+    "name": "Al Uqşur",
+    "type": "Governorate",
+    "iso3166-2": "EG-LX",
+    "iso-name": "Al Uqşur",
+    "iso-type": "Governorate"
+  },
+  "MN": {
+    "name": "Al Minyā",
+    "type": "Governorate",
+    "iso3166-2": "EG-MN",
+    "iso-name": "Al Minyā",
+    "iso-type": "Governorate"
+  },
+  "MNF": {
+    "name": "Al Minūfīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-MNF",
+    "iso-name": "Al Minūfīyah",
+    "iso-type": "Governorate"
+  },
+  "MT": {
+    "name": "Maţrūḩ",
+    "type": "Governorate",
+    "iso3166-2": "EG-MT",
+    "iso-name": "Maţrūḩ",
+    "iso-type": "Governorate"
+  },
+  "PTS": {
+    "name": "Būr Sa‘īd",
+    "type": "Governorate",
+    "iso3166-2": "EG-PTS",
+    "iso-name": "Būr Sa‘īd",
+    "iso-type": "Governorate"
+  },
+  "SHG": {
+    "name": "Sūhāj",
+    "type": "Governorate",
+    "iso3166-2": "EG-SHG",
+    "iso-name": "Sūhāj",
+    "iso-type": "Governorate"
+  },
+  "SHR": {
+    "name": "Ash Sharqīyah",
+    "type": "Governorate",
+    "iso3166-2": "EG-SHR",
+    "iso-name": "Ash Sharqīyah",
+    "iso-type": "Governorate"
+  },
+  "SIN": {
+    "name": "Shamāl Sīnā'",
+    "type": "Governorate",
+    "iso3166-2": "EG-SIN",
+    "iso-name": "Shamāl Sīnā'",
+    "iso-type": "Governorate"
+  },
+  "SUZ": {
+    "name": "As Suways",
+    "type": "Governorate",
+    "iso3166-2": "EG-SUZ",
+    "iso-name": "As Suways",
+    "iso-type": "Governorate"
+  },
+  "WAD": {
+    "name": "Al Wādī al Jadīd",
+    "type": "Governorate",
+    "iso3166-2": "EG-WAD",
+    "iso-name": "Al Wādī al Jadīd",
+    "iso-type": "Governorate"
+  }
+}

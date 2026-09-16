@@ -1,0 +1,265 @@
+{
+  "1": {
+    "name": "Western Province",
+    "type": "Province",
+    "iso3166-2": "LK-1",
+    "iso-name": "Western Province",
+    "iso-type": "Province"
+  },
+  "11": {
+    "name": "Colombo",
+    "type": "District",
+    "iso3166-2": "LK-11",
+    "iso-name": "Colombo",
+    "iso-type": "District",
+    "parent-code": "1"
+  },
+  "12": {
+    "name": "Gampaha",
+    "type": "District",
+    "iso3166-2": "LK-12",
+    "iso-name": "Gampaha",
+    "iso-type": "District",
+    "parent-code": "1"
+  },
+  "13": {
+    "name": "Kalutara",
+    "type": "District",
+    "iso3166-2": "LK-13",
+    "iso-name": "Kalutara",
+    "iso-type": "District",
+    "parent-code": "1"
+  },
+  "2": {
+    "name": "Central Province",
+    "type": "Province",
+    "iso3166-2": "LK-2",
+    "iso-name": "Central Province",
+    "iso-type": "Province"
+  },
+  "21": {
+    "name": "Kandy",
+    "type": "District",
+    "iso3166-2": "LK-21",
+    "iso-name": "Kandy",
+    "iso-type": "District",
+    "parent-code": "2"
+  },
+  "22": {
+    "name": "Matale",
+    "type": "District",
+    "iso3166-2": "LK-22",
+    "iso-name": "Matale",
+    "iso-type": "District",
+    "parent-code": "2"
+  },
+  "23": {
+    "name": "Nuwara Eliya",
+    "type": "District",
+    "iso3166-2": "LK-23",
+    "iso-name": "Nuwara Eliya",
+    "iso-type": "District",
+    "parent-code": "2"
+  },
+  "3": {
+    "name": "Southern Province",
+    "type": "Province",
+    "iso3166-2": "LK-3",
+    "iso-name": "Southern Province",
+    "iso-type": "Province"
+  },
+  "31": {
+    "name": "Galle",
+    "type": "District",
+    "iso3166-2": "LK-31",
+    "iso-name": "Galle",
+    "iso-type": "District",
+    "parent-code": "3"
+  },
+  "32": {
+    "name": "Matara",
+    "type": "District",
+    "iso3166-2": "LK-32",
+    "iso-name": "Matara",
+    "iso-type": "District",
+    "parent-code": "3"
+  },
+  "33": {
+    "name": "Hambantota",
+    "type": "District",
+    "iso3166-2": "LK-33",
+    "iso-name": "Hambantota",
+    "iso-type": "District",
+    "parent-code": "3"
+  },
+  "4": {
+    "name": "Northern Province",
+    "type": "Province",
+    "iso3166-2": "LK-4",
+    "iso-name": "Northern Province",
+    "iso-type": "Province"
+  },
+  "41": {
+    "name": "Jaffna",
+    "type": "District",
+    "iso3166-2": "LK-41",
+    "iso-name": "Jaffna",
+    "iso-type": "District",
+    "parent-code": "4"
+  },
+  "42": {
+    "name": "Kilinochchi",
+    "type": "District",
+    "iso3166-2": "LK-42",
+    "iso-name": "Kilinochchi",
+    "iso-type": "District",
+    "parent-code": "4"
+  },
+  "43": {
+    "name": "Mannar",
+    "type": "District",
+    "iso3166-2": "LK-43",
+    "iso-name": "Mannar",
+    "iso-type": "District",
+    "parent-code": "4"
+  },
+  "44": {
+    "name": "Vavuniya",
+    "type": "District",
+    "iso3166-2": "LK-44",
+    "iso-name": "Vavuniya",
+    "iso-type": "District",
+    "parent-code": "4"
+  },
+  "45": {
+    "name": "Mullaittivu",
+    "type": "District",
+    "iso3166-2": "LK-45",
+    "iso-name": "Mullaittivu",
+    "iso-type": "District",
+    "parent-code": "4"
+  },
+  "5": {
+    "name": "Eastern Province",
+    "type": "Province",
+    "iso3166-2": "LK-5",
+    "iso-name": "Eastern Province",
+    "iso-type": "Province"
+  },
+  "51": {
+    "name": "Batticaloa",
+    "type": "District",
+    "iso3166-2": "LK-51",
+    "iso-name": "Batticaloa",
+    "iso-type": "District",
+    "parent-code": "5"
+  },
+  "52": {
+    "name": "Ampara",
+    "type": "District",
+    "iso3166-2": "LK-52",
+    "iso-name": "Ampara",
+    "iso-type": "District",
+    "parent-code": "5"
+  },
+  "53": {
+    "name": "Trincomalee",
+    "type": "District",
+    "iso3166-2": "LK-53",
+    "iso-name": "Trincomalee",
+    "iso-type": "District",
+    "parent-code": "5"
+  },
+  "6": {
+    "name": "North Western Province",
+    "type": "Province",
+    "iso3166-2": "LK-6",
+    "iso-name": "North Western Province",
+    "iso-type": "Province"
+  },
+  "61": {
+    "name": "Kurunegala",
+    "type": "District",
+    "iso3166-2": "LK-61",
+    "iso-name": "Kurunegala",
+    "iso-type": "District",
+    "parent-code": "6"
+  },
+  "62": {
+    "name": "Puttalam",
+    "type": "District",
+    "iso3166-2": "LK-62",
+    "iso-name": "Puttalam",
+    "iso-type": "District",
+    "parent-code": "6"
+  },
+  "7": {
+    "name": "North Central Province",
+    "type": "Province",
+    "iso3166-2": "LK-7",
+    "iso-name": "North Central Province",
+    "iso-type": "Province"
+  },
+  "71": {
+    "name": "Anuradhapura",
+    "type": "District",
+    "iso3166-2": "LK-71",
+    "iso-name": "Anuradhapura",
+    "iso-type": "District",
+    "parent-code": "7"
+  },
+  "72": {
+    "name": "Polonnaruwa",
+    "type": "District",
+    "iso3166-2": "LK-72",
+    "iso-name": "Polonnaruwa",
+    "iso-type": "District",
+    "parent-code": "7"
+  },
+  "8": {
+    "name": "Uva Province",
+    "type": "Province",
+    "iso3166-2": "LK-8",
+    "iso-name": "Uva Province",
+    "iso-type": "Province"
+  },
+  "81": {
+    "name": "Badulla",
+    "type": "District",
+    "iso3166-2": "LK-81",
+    "iso-name": "Badulla",
+    "iso-type": "District",
+    "parent-code": "8"
+  },
+  "82": {
+    "name": "Monaragala",
+    "type": "District",
+    "iso3166-2": "LK-82",
+    "iso-name": "Monaragala",
+    "iso-type": "District",
+    "parent-code": "8"
+  },
+  "9": {
+    "name": "Sabaragamuwa Province",
+    "type": "Province",
+    "iso3166-2": "LK-9",
+    "iso-name": "Sabaragamuwa Province",
+    "iso-type": "Province"
+  },
+  "91": {
+    "name": "Ratnapura",
+    "type": "District",
+    "iso3166-2": "LK-91",
+    "iso-name": "Ratnapura",
+    "iso-type": "District",
+    "parent-code": "9"
+  },
+  "92": {
+    "name": "Kegalla",
+    "type": "District",
+    "iso3166-2": "LK-92",
+    "iso-name": "Kegalla",
+    "iso-type": "District",
+    "parent-code": "9"
+  }
+}

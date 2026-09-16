@@ -1,0 +1,72 @@
+{
+  "AD": {
+    "name": "Adamaoua",
+    "type": "Region",
+    "iso3166-2": "CM-AD",
+    "iso-name": "Adamaoua",
+    "iso-type": "Region"
+  },
+  "CE": {
+    "name": "Centre",
+    "type": "Region",
+    "iso3166-2": "CM-CE",
+    "iso-name": "Centre",
+    "iso-type": "Region"
+  },
+  "EN": {
+    "name": "Far North",
+    "type": "Region",
+    "iso3166-2": "CM-EN",
+    "iso-name": "Far North",
+    "iso-type": "Region"
+  },
+  "ES": {
+    "name": "East",
+    "type": "Region",
+    "iso3166-2": "CM-ES",
+    "iso-name": "East",
+    "iso-type": "Region"
+  },
+  "LT": {
+    "name": "Littoral",
+    "type": "Region",
+    "iso3166-2": "CM-LT",
+    "iso-name": "Littoral",
+    "iso-type": "Region"
+  },
+  "NO": {
+    "name": "North",
+    "type": "Region",
+    "iso3166-2": "CM-NO",
+    "iso-name": "North",
+    "iso-type": "Region"
+  },
+  "NW": {
+    "name": "North-West",
+    "type": "Region",
+    "iso3166-2": "CM-NW",
+    "iso-name": "North-West",
+    "iso-type": "Region"
+  },
+  "OU": {
+    "name": "West",
+    "type": "Region",
+    "iso3166-2": "CM-OU",
+    "iso-name": "West",
+    "iso-type": "Region"
+  },
+  "SU": {
+    "name": "South",
+    "type": "Region",
+    "iso3166-2": "CM-SU",
+    "iso-name": "South",
+    "iso-type": "Region"
+  },
+  "SW": {
+    "name": "South-West",
+    "type": "Region",
+    "iso3166-2": "CM-SW",
+    "iso-name": "South-West",
+    "iso-type": "Region"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "AC": {
+    "name": "Ouham",
+    "type": "Prefecture",
+    "iso3166-2": "CF-AC",
+    "iso-name": "Ouham",
+    "iso-type": "Prefecture"
+  },
+  "BB": {
+    "name": "Bamingui-Bangoran",
+    "type": "Prefecture",
+    "iso3166-2": "CF-BB",
+    "iso-name": "Bamingui-Bangoran",
+    "iso-type": "Prefecture"
+  },
+  "BGF": {
+    "name": "Bangui",
+    "type": "Commune",
+    "iso3166-2": "CF-BGF",
+    "iso-name": "Bangui",
+    "iso-type": "Commune"
+  },
+  "BK": {
+    "name": "Basse-Kotto",
+    "type": "Prefecture",
+    "iso3166-2": "CF-BK",
+    "iso-name": "Basse-Kotto",
+    "iso-type": "Prefecture"
+  },
+  "HK": {
+    "name": "Haute-Kotto",
+    "type": "Prefecture",
+    "iso3166-2": "CF-HK",
+    "iso-name": "Haute-Kotto",
+    "iso-type": "Prefecture"
+  },
+  "HM": {
+    "name": "Haut-Mbomou",
+    "type": "Prefecture",
+    "iso3166-2": "CF-HM",
+    "iso-name": "Haut-Mbomou",
+    "iso-type": "Prefecture"
+  },
+  "HS": {
+    "name": "Haute-Sangha / Mambéré-Kadéï",
+    "type": "Prefecture",
+    "iso3166-2": "CF-HS",
+    "iso-name": "Haute-Sangha / Mambéré-Kadéï",
+    "iso-type": "Prefecture"
+  },
+  "KB": {
+    "name": "Gribingui",
+    "type": "Economic prefecture",
+    "iso3166-2": "CF-KB",
+    "iso-name": "Gribingui",
+    "iso-type": "Economic prefecture"
+  },
+  "KG": {
+    "name": "Kémo-Gribingui",
+    "type": "Prefecture",
+    "iso3166-2": "CF-KG",
+    "iso-name": "Kémo-Gribingui",
+    "iso-type": "Prefecture"
+  },
+  "LB": {
+    "name": "Lobaye",
+    "type": "Prefecture",
+    "iso3166-2": "CF-LB",
+    "iso-name": "Lobaye",
+    "iso-type": "Prefecture"
+  },
+  "MB": {
+    "name": "Mbomou",
+    "type": "Prefecture",
+    "iso3166-2": "CF-MB",
+    "iso-name": "Mbomou",
+    "iso-type": "Prefecture"
+  },
+  "MP": {
+    "name": "Ombella-Mpoko",
+    "type": "Prefecture",
+    "iso3166-2": "CF-MP",
+    "iso-name": "Ombella-Mpoko",
+    "iso-type": "Prefecture"
+  },
+  "NM": {
+    "name": "Nana-Mambéré",
+    "type": "Prefecture",
+    "iso3166-2": "CF-NM",
+    "iso-name": "Nana-Mambéré",
+    "iso-type": "Prefecture"
+  },
+  "OP": {
+    "name": "Ouham-Pendé",
+    "type": "Prefecture",
+    "iso3166-2": "CF-OP",
+    "iso-name": "Ouham-Pendé",
+    "iso-type": "Prefecture"
+  },
+  "SE": {
+    "name": "Sangha",
+    "type": "Economic prefecture",
+    "iso3166-2": "CF-SE",
+    "iso-name": "Sangha",
+    "iso-type": "Economic prefecture"
+  },
+  "UK": {
+    "name": "Ouaka",
+    "type": "Prefecture",
+    "iso3166-2": "CF-UK",
+    "iso-name": "Ouaka",
+    "iso-type": "Prefecture"
+  },
+  "VK": {
+    "name": "Vakaga",
+    "type": "Prefecture",
+    "iso3166-2": "CF-VK",
+    "iso-name": "Vakaga",
+    "iso-type": "Prefecture"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "CE": {
+    "name": "Central",
+    "type": "Province",
+    "iso3166-2": "SB-CE",
+    "iso-name": "Central",
+    "iso-type": "Province"
+  },
+  "CH": {
+    "name": "Choiseul",
+    "type": "Province",
+    "iso3166-2": "SB-CH",
+    "iso-name": "Choiseul",
+    "iso-type": "Province"
+  },
+  "CT": {
+    "name": "Capital Territory (Honiara)",
+    "type": "Capital territory",
+    "iso3166-2": "SB-CT",
+    "iso-name": "Capital Territory (Honiara)",
+    "iso-type": "Capital territory"
+  },
+  "GU": {
+    "name": "Guadalcanal",
+    "type": "Province",
+    "iso3166-2": "SB-GU",
+    "iso-name": "Guadalcanal",
+    "iso-type": "Province"
+  },
+  "IS": {
+    "name": "Isabel",
+    "type": "Province",
+    "iso3166-2": "SB-IS",
+    "iso-name": "Isabel",
+    "iso-type": "Province"
+  },
+  "MK": {
+    "name": "Makira-Ulawa",
+    "type": "Province",
+    "iso3166-2": "SB-MK",
+    "iso-name": "Makira-Ulawa",
+    "iso-type": "Province"
+  },
+  "ML": {
+    "name": "Malaita",
+    "type": "Province",
+    "iso3166-2": "SB-ML",
+    "iso-name": "Malaita",
+    "iso-type": "Province"
+  },
+  "RB": {
+    "name": "Rennell and Bellona",
+    "type": "Province",
+    "iso3166-2": "SB-RB",
+    "iso-name": "Rennell and Bellona",
+    "iso-type": "Province"
+  },
+  "TE": {
+    "name": "Temotu",
+    "type": "Province",
+    "iso3166-2": "SB-TE",
+    "iso-name": "Temotu",
+    "iso-type": "Province"
+  },
+  "WE": {
+    "name": "Western",
+    "type": "Province",
+    "iso3166-2": "SB-WE",
+    "iso-name": "Western",
+    "iso-type": "Province"
+  }
+}

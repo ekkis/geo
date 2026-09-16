@@ -1,0 +1,86 @@
+{
+  "11": {
+    "name": "Bouenza",
+    "type": "Department",
+    "iso3166-2": "CG-11",
+    "iso-name": "Bouenza",
+    "iso-type": "Department"
+  },
+  "12": {
+    "name": "Pool",
+    "type": "Department",
+    "iso3166-2": "CG-12",
+    "iso-name": "Pool",
+    "iso-type": "Department"
+  },
+  "13": {
+    "name": "Sangha",
+    "type": "Department",
+    "iso3166-2": "CG-13",
+    "iso-name": "Sangha",
+    "iso-type": "Department"
+  },
+  "14": {
+    "name": "Plateaux",
+    "type": "Department",
+    "iso3166-2": "CG-14",
+    "iso-name": "Plateaux",
+    "iso-type": "Department"
+  },
+  "15": {
+    "name": "Cuvette-Ouest",
+    "type": "Department",
+    "iso3166-2": "CG-15",
+    "iso-name": "Cuvette-Ouest",
+    "iso-type": "Department"
+  },
+  "16": {
+    "name": "Pointe-Noire",
+    "type": "Department",
+    "iso3166-2": "CG-16",
+    "iso-name": "Pointe-Noire",
+    "iso-type": "Department"
+  },
+  "2": {
+    "name": "Lékoumou",
+    "type": "Department",
+    "iso3166-2": "CG-2",
+    "iso-name": "Lékoumou",
+    "iso-type": "Department"
+  },
+  "5": {
+    "name": "Kouilou",
+    "type": "Department",
+    "iso3166-2": "CG-5",
+    "iso-name": "Kouilou",
+    "iso-type": "Department"
+  },
+  "7": {
+    "name": "Likouala",
+    "type": "Department",
+    "iso3166-2": "CG-7",
+    "iso-name": "Likouala",
+    "iso-type": "Department"
+  },
+  "8": {
+    "name": "Cuvette",
+    "type": "Department",
+    "iso3166-2": "CG-8",
+    "iso-name": "Cuvette",
+    "iso-type": "Department"
+  },
+  "9": {
+    "name": "Niari",
+    "type": "Department",
+    "iso3166-2": "CG-9",
+    "iso-name": "Niari",
+    "iso-type": "Department"
+  },
+  "BZV": {
+    "name": "Brazzaville",
+    "type": "Department",
+    "iso3166-2": "CG-BZV",
+    "iso-name": "Brazzaville",
+    "iso-type": "Department"
+  }
+}

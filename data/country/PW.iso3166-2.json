@@ -1,0 +1,114 @@
+{
+  "002": {
+    "name": "Aimeliik",
+    "type": "State",
+    "iso3166-2": "PW-002",
+    "iso-name": "Aimeliik",
+    "iso-type": "State"
+  },
+  "004": {
+    "name": "Airai",
+    "type": "State",
+    "iso3166-2": "PW-004",
+    "iso-name": "Airai",
+    "iso-type": "State"
+  },
+  "010": {
+    "name": "Angaur",
+    "type": "State",
+    "iso3166-2": "PW-010",
+    "iso-name": "Angaur",
+    "iso-type": "State"
+  },
+  "050": {
+    "name": "Hatohobei",
+    "type": "State",
+    "iso3166-2": "PW-050",
+    "iso-name": "Hatohobei",
+    "iso-type": "State"
+  },
+  "100": {
+    "name": "Kayangel",
+    "type": "State",
+    "iso3166-2": "PW-100",
+    "iso-name": "Kayangel",
+    "iso-type": "State"
+  },
+  "150": {
+    "name": "Koror",
+    "type": "State",
+    "iso3166-2": "PW-150",
+    "iso-name": "Koror",
+    "iso-type": "State"
+  },
+  "212": {
+    "name": "Melekeok",
+    "type": "State",
+    "iso3166-2": "PW-212",
+    "iso-name": "Melekeok",
+    "iso-type": "State"
+  },
+  "214": {
+    "name": "Ngaraard",
+    "type": "State",
+    "iso3166-2": "PW-214",
+    "iso-name": "Ngaraard",
+    "iso-type": "State"
+  },
+  "218": {
+    "name": "Ngarchelong",
+    "type": "State",
+    "iso3166-2": "PW-218",
+    "iso-name": "Ngarchelong",
+    "iso-type": "State"
+  },
+  "222": {
+    "name": "Ngardmau",
+    "type": "State",
+    "iso3166-2": "PW-222",
+    "iso-name": "Ngardmau",
+    "iso-type": "State"
+  },
+  "224": {
+    "name": "Ngatpang",
+    "type": "State",
+    "iso3166-2": "PW-224",
+    "iso-name": "Ngatpang",
+    "iso-type": "State"
+  },
+  "226": {
+    "name": "Ngchesar",
+    "type": "State",
+    "iso3166-2": "PW-226",
+    "iso-name": "Ngchesar",
+    "iso-type": "State"
+  },
+  "227": {
+    "name": "Ngeremlengui",
+    "type": "State",
+    "iso3166-2": "PW-227",
+    "iso-name": "Ngeremlengui",
+    "iso-type": "State"
+  },
+  "228": {
+    "name": "Ngiwal",
+    "type": "State",
+    "iso3166-2": "PW-228",
+    "iso-name": "Ngiwal",
+    "iso-type": "State"
+  },
+  "350": {
+    "name": "Peleliu",
+    "type": "State",
+    "iso3166-2": "PW-350",
+    "iso-name": "Peleliu",
+    "iso-type": "State"
+  },
+  "370": {
+    "name": "Sonsorol",
+    "type": "State",
+    "iso3166-2": "PW-370",
+    "iso-name": "Sonsorol",
+    "iso-type": "State"
+  }
+}

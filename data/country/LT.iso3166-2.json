@@ -1,0 +1,552 @@
+{
+  "01": {
+    "name": "Akmenė",
+    "type": "District municipality",
+    "iso3166-2": "LT-01",
+    "iso-name": "Akmenė",
+    "iso-type": "District municipality",
+    "parent-code": "SA"
+  },
+  "02": {
+    "name": "Alytaus miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-02",
+    "iso-name": "Alytaus miestas",
+    "iso-type": "City municipality",
+    "parent-code": "AL"
+  },
+  "03": {
+    "name": "Alytus",
+    "type": "District municipality",
+    "iso3166-2": "LT-03",
+    "iso-name": "Alytus",
+    "iso-type": "District municipality",
+    "parent-code": "AL"
+  },
+  "04": {
+    "name": "Anykščiai",
+    "type": "District municipality",
+    "iso3166-2": "LT-04",
+    "iso-name": "Anykščiai",
+    "iso-type": "District municipality",
+    "parent-code": "UT"
+  },
+  "05": {
+    "name": "Birštonas",
+    "type": "Municipality",
+    "iso3166-2": "LT-05",
+    "iso-name": "Birštonas",
+    "iso-type": "Municipality",
+    "parent-code": "KU"
+  },
+  "06": {
+    "name": "Biržai",
+    "type": "District municipality",
+    "iso3166-2": "LT-06",
+    "iso-name": "Biržai",
+    "iso-type": "District municipality",
+    "parent-code": "PN"
+  },
+  "07": {
+    "name": "Druskininkai",
+    "type": "Municipality",
+    "iso3166-2": "LT-07",
+    "iso-name": "Druskininkai",
+    "iso-type": "Municipality",
+    "parent-code": "AL"
+  },
+  "08": {
+    "name": "Elektrėnai",
+    "type": "Municipality",
+    "iso3166-2": "LT-08",
+    "iso-name": "Elektrėnai",
+    "iso-type": "Municipality",
+    "parent-code": "VL"
+  },
+  "09": {
+    "name": "Ignalina",
+    "type": "District municipality",
+    "iso3166-2": "LT-09",
+    "iso-name": "Ignalina",
+    "iso-type": "District municipality",
+    "parent-code": "UT"
+  },
+  "10": {
+    "name": "Jonava",
+    "type": "District municipality",
+    "iso3166-2": "LT-10",
+    "iso-name": "Jonava",
+    "iso-type": "District municipality",
+    "parent-code": "KU"
+  },
+  "11": {
+    "name": "Joniškis",
+    "type": "District municipality",
+    "iso3166-2": "LT-11",
+    "iso-name": "Joniškis",
+    "iso-type": "District municipality",
+    "parent-code": "SA"
+  },
+  "12": {
+    "name": "Jurbarkas",
+    "type": "District municipality",
+    "iso3166-2": "LT-12",
+    "iso-name": "Jurbarkas",
+    "iso-type": "District municipality",
+    "parent-code": "TA"
+  },
+  "13": {
+    "name": "Kaišiadorys",
+    "type": "District municipality",
+    "iso3166-2": "LT-13",
+    "iso-name": "Kaišiadorys",
+    "iso-type": "District municipality",
+    "parent-code": "KU"
+  },
+  "14": {
+    "name": "Kalvarija",
+    "type": "Municipality",
+    "iso3166-2": "LT-14",
+    "iso-name": "Kalvarija",
+    "iso-type": "Municipality",
+    "parent-code": "MR"
+  },
+  "15": {
+    "name": "Kauno miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-15",
+    "iso-name": "Kauno miestas",
+    "iso-type": "City municipality",
+    "parent-code": "KU"
+  },
+  "16": {
+    "name": "Kaunas",
+    "type": "District municipality",
+    "iso3166-2": "LT-16",
+    "iso-name": "Kaunas",
+    "iso-type": "District municipality",
+    "parent-code": "KU"
+  },
+  "17": {
+    "name": "Kazlų Rūdos",
+    "type": "Municipality",
+    "iso3166-2": "LT-17",
+    "iso-name": "Kazlų Rūdos",
+    "iso-type": "Municipality",
+    "parent-code": "MR"
+  },
+  "18": {
+    "name": "Kėdainiai",
+    "type": "District municipality",
+    "iso3166-2": "LT-18",
+    "iso-name": "Kėdainiai",
+    "iso-type": "District municipality",
+    "parent-code": "KU"
+  },
+  "19": {
+    "name": "Kelmė",
+    "type": "District municipality",
+    "iso3166-2": "LT-19",
+    "iso-name": "Kelmė",
+    "iso-type": "District municipality",
+    "parent-code": "SA"
+  },
+  "20": {
+    "name": "Klaipėdos miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-20",
+    "iso-name": "Klaipėdos miestas",
+    "iso-type": "City municipality",
+    "parent-code": "KL"
+  },
+  "21": {
+    "name": "Klaipėda",
+    "type": "District municipality",
+    "iso3166-2": "LT-21",
+    "iso-name": "Klaipėda",
+    "iso-type": "District municipality",
+    "parent-code": "KL"
+  },
+  "22": {
+    "name": "Kretinga",
+    "type": "District municipality",
+    "iso3166-2": "LT-22",
+    "iso-name": "Kretinga",
+    "iso-type": "District municipality",
+    "parent-code": "KL"
+  },
+  "23": {
+    "name": "Kupiškis",
+    "type": "District municipality",
+    "iso3166-2": "LT-23",
+    "iso-name": "Kupiškis",
+    "iso-type": "District municipality",
+    "parent-code": "PN"
+  },
+  "24": {
+    "name": "Lazdijai",
+    "type": "District municipality",
+    "iso3166-2": "LT-24",
+    "iso-name": "Lazdijai",
+    "iso-type": "District municipality",
+    "parent-code": "AL"
+  },
+  "25": {
+    "name": "Marijampolė",
+    "type": "District municipality",
+    "iso3166-2": "LT-25",
+    "iso-name": "Marijampolė",
+    "iso-type": "District municipality",
+    "parent-code": "MR"
+  },
+  "26": {
+    "name": "Mažeikiai",
+    "type": "District municipality",
+    "iso3166-2": "LT-26",
+    "iso-name": "Mažeikiai",
+    "iso-type": "District municipality",
+    "parent-code": "TE"
+  },
+  "27": {
+    "name": "Molėtai",
+    "type": "District municipality",
+    "iso3166-2": "LT-27",
+    "iso-name": "Molėtai",
+    "iso-type": "District municipality",
+    "parent-code": "UT"
+  },
+  "28": {
+    "name": "Neringa",
+    "type": "Municipality",
+    "iso3166-2": "LT-28",
+    "iso-name": "Neringa",
+    "iso-type": "Municipality",
+    "parent-code": "KL"
+  },
+  "29": {
+    "name": "Pagėgiai",
+    "type": "Municipality",
+    "iso3166-2": "LT-29",
+    "iso-name": "Pagėgiai",
+    "iso-type": "Municipality",
+    "parent-code": "TA"
+  },
+  "30": {
+    "name": "Pakruojis",
+    "type": "District municipality",
+    "iso3166-2": "LT-30",
+    "iso-name": "Pakruojis",
+    "iso-type": "District municipality",
+    "parent-code": "SA"
+  },
+  "31": {
+    "name": "Palangos miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-31",
+    "iso-name": "Palangos miestas",
+    "iso-type": "City municipality",
+    "parent-code": "KL"
+  },
+  "32": {
+    "name": "Panevėžio miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-32",
+    "iso-name": "Panevėžio miestas",
+    "iso-type": "City municipality",
+    "parent-code": "PN"
+  },
+  "33": {
+    "name": "Panevėžys",
+    "type": "District municipality",
+    "iso3166-2": "LT-33",
+    "iso-name": "Panevėžys",
+    "iso-type": "District municipality",
+    "parent-code": "PN"
+  },
+  "34": {
+    "name": "Pasvalys",
+    "type": "District municipality",
+    "iso3166-2": "LT-34",
+    "iso-name": "Pasvalys",
+    "iso-type": "District municipality",
+    "parent-code": "PN"
+  },
+  "35": {
+    "name": "Plungė",
+    "type": "District municipality",
+    "iso3166-2": "LT-35",
+    "iso-name": "Plungė",
+    "iso-type": "District municipality",
+    "parent-code": "TE"
+  },
+  "36": {
+    "name": "Prienai",
+    "type": "District municipality",
+    "iso3166-2": "LT-36",
+    "iso-name": "Prienai",
+    "iso-type": "District municipality",
+    "parent-code": "KU"
+  },
+  "37": {
+    "name": "Radviliškis",
+    "type": "District municipality",
+    "iso3166-2": "LT-37",
+    "iso-name": "Radviliškis",
+    "iso-type": "District municipality",
+    "parent-code": "SA"
+  },
+  "38": {
+    "name": "Raseiniai",
+    "type": "District municipality",
+    "iso3166-2": "LT-38",
+    "iso-name": "Raseiniai",
+    "iso-type": "District municipality",
+    "parent-code": "KU"
+  },
+  "39": {
+    "name": "Rietavas",
+    "type": "Municipality",
+    "iso3166-2": "LT-39",
+    "iso-name": "Rietavas",
+    "iso-type": "Municipality",
+    "parent-code": "TE"
+  },
+  "40": {
+    "name": "Rokiškis",
+    "type": "District municipality",
+    "iso3166-2": "LT-40",
+    "iso-name": "Rokiškis",
+    "iso-type": "District municipality",
+    "parent-code": "PN"
+  },
+  "41": {
+    "name": "Šakiai",
+    "type": "District municipality",
+    "iso3166-2": "LT-41",
+    "iso-name": "Šakiai",
+    "iso-type": "District municipality",
+    "parent-code": "MR"
+  },
+  "42": {
+    "name": "Šalčininkai",
+    "type": "District municipality",
+    "iso3166-2": "LT-42",
+    "iso-name": "Šalčininkai",
+    "iso-type": "District municipality",
+    "parent-code": "VL"
+  },
+  "43": {
+    "name": "Šiaulių miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-43",
+    "iso-name": "Šiaulių miestas",
+    "iso-type": "City municipality",
+    "parent-code": "SA"
+  },
+  "44": {
+    "name": "Šiauliai",
+    "type": "District municipality",
+    "iso3166-2": "LT-44",
+    "iso-name": "Šiauliai",
+    "iso-type": "District municipality",
+    "parent-code": "SA"
+  },
+  "45": {
+    "name": "Šilalė",
+    "type": "District municipality",
+    "iso3166-2": "LT-45",
+    "iso-name": "Šilalė",
+    "iso-type": "District municipality",
+    "parent-code": "TA"
+  },
+  "46": {
+    "name": "Šilutė",
+    "type": "District municipality",
+    "iso3166-2": "LT-46",
+    "iso-name": "Šilutė",
+    "iso-type": "District municipality",
+    "parent-code": "KL"
+  },
+  "47": {
+    "name": "Širvintos",
+    "type": "District municipality",
+    "iso3166-2": "LT-47",
+    "iso-name": "Širvintos",
+    "iso-type": "District municipality",
+    "parent-code": "VL"
+  },
+  "48": {
+    "name": "Skuodas",
+    "type": "District municipality",
+    "iso3166-2": "LT-48",
+    "iso-name": "Skuodas",
+    "iso-type": "District municipality",
+    "parent-code": "KL"
+  },
+  "49": {
+    "name": "Švenčionys",
+    "type": "District municipality",
+    "iso3166-2": "LT-49",
+    "iso-name": "Švenčionys",
+    "iso-type": "District municipality",
+    "parent-code": "VL"
+  },
+  "50": {
+    "name": "Tauragė",
+    "type": "District municipality",
+    "iso3166-2": "LT-50",
+    "iso-name": "Tauragė",
+    "iso-type": "District municipality",
+    "parent-code": "TA"
+  },
+  "51": {
+    "name": "Telšiai",
+    "type": "District municipality",
+    "iso3166-2": "LT-51",
+    "iso-name": "Telšiai",
+    "iso-type": "District municipality",
+    "parent-code": "TE"
+  },
+  "52": {
+    "name": "Trakai",
+    "type": "District municipality",
+    "iso3166-2": "LT-52",
+    "iso-name": "Trakai",
+    "iso-type": "District municipality",
+    "parent-code": "VL"
+  },
+  "53": {
+    "name": "Ukmergė",
+    "type": "District municipality",
+    "iso3166-2": "LT-53",
+    "iso-name": "Ukmergė",
+    "iso-type": "District municipality",
+    "parent-code": "VL"
+  },
+  "54": {
+    "name": "Utena",
+    "type": "District municipality",
+    "iso3166-2": "LT-54",
+    "iso-name": "Utena",
+    "iso-type": "District municipality",
+    "parent-code": "UT"
+  },
+  "55": {
+    "name": "Varėna",
+    "type": "District municipality",
+    "iso3166-2": "LT-55",
+    "iso-name": "Varėna",
+    "iso-type": "District municipality",
+    "parent-code": "AL"
+  },
+  "56": {
+    "name": "Vilkaviškis",
+    "type": "District municipality",
+    "iso3166-2": "LT-56",
+    "iso-name": "Vilkaviškis",
+    "iso-type": "District municipality",
+    "parent-code": "MR"
+  },
+  "57": {
+    "name": "Vilniaus miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-57",
+    "iso-name": "Vilniaus miestas",
+    "iso-type": "City municipality",
+    "parent-code": "VL"
+  },
+  "58": {
+    "name": "Vilnius",
+    "type": "District municipality",
+    "iso3166-2": "LT-58",
+    "iso-name": "Vilnius",
+    "iso-type": "District municipality",
+    "parent-code": "VL"
+  },
+  "59": {
+    "name": "Visaginas",
+    "type": "Municipality",
+    "iso3166-2": "LT-59",
+    "iso-name": "Visaginas",
+    "iso-type": "Municipality",
+    "parent-code": "UT"
+  },
+  "60": {
+    "name": "Zarasai",
+    "type": "District municipality",
+    "iso3166-2": "LT-60",
+    "iso-name": "Zarasai",
+    "iso-type": "District municipality",
+    "parent-code": "UT"
+  },
+  "AL": {
+    "name": "Alytaus apskritis",
+    "type": "County",
+    "iso3166-2": "LT-AL",
+    "iso-name": "Alytaus apskritis",
+    "iso-type": "County"
+  },
+  "KL": {
+    "name": "Klaipėdos apskritis",
+    "type": "County",
+    "iso3166-2": "LT-KL",
+    "iso-name": "Klaipėdos apskritis",
+    "iso-type": "County"
+  },
+  "KU": {
+    "name": "Kauno apskritis",
+    "type": "County",
+    "iso3166-2": "LT-KU",
+    "iso-name": "Kauno apskritis",
+    "iso-type": "County"
+  },
+  "MR": {
+    "name": "Marijampolės apskritis",
+    "type": "County",
+    "iso3166-2": "LT-MR",
+    "iso-name": "Marijampolės apskritis",
+    "iso-type": "County"
+  },
+  "PN": {
+    "name": "Panevėžio apskritis",
+    "type": "County",
+    "iso3166-2": "LT-PN",
+    "iso-name": "Panevėžio apskritis",
+    "iso-type": "County"
+  },
+  "SA": {
+    "name": "Šiaulių apskritis",
+    "type": "County",
+    "iso3166-2": "LT-SA",
+    "iso-name": "Šiaulių apskritis",
+    "iso-type": "County"
+  },
+  "TA": {
+    "name": "Tauragės apskritis",
+    "type": "County",
+    "iso3166-2": "LT-TA",
+    "iso-name": "Tauragės apskritis",
+    "iso-type": "County"
+  },
+  "TE": {
+    "name": "Telšių apskritis",
+    "type": "County",
+    "iso3166-2": "LT-TE",
+    "iso-name": "Telšių apskritis",
+    "iso-type": "County"
+  },
+  "UT": {
+    "name": "Utenos apskritis",
+    "type": "County",
+    "iso3166-2": "LT-UT",
+    "iso-name": "Utenos apskritis",
+    "iso-type": "County"
+  },
+  "VL": {
+    "name": "Vilniaus apskritis",
+    "type": "County",
+    "iso3166-2": "LT-VL",
+    "iso-name": "Vilniaus apskritis",
+    "iso-type": "County"
+  }
+}

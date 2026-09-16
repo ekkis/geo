@@ -1,0 +1,142 @@
+{
+  "10": {
+    "name": "Abay oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-10",
+    "iso-name": "Abay oblysy",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Aqmola oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-11",
+    "iso-name": "Aqmola oblysy",
+    "iso-type": "Region"
+  },
+  "15": {
+    "name": "Aqtöbe oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-15",
+    "iso-name": "Aqtöbe oblysy",
+    "iso-type": "Region"
+  },
+  "19": {
+    "name": "Almaty oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-19",
+    "iso-name": "Almaty oblysy",
+    "iso-type": "Region"
+  },
+  "23": {
+    "name": "Atyraū oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-23",
+    "iso-name": "Atyraū oblysy",
+    "iso-type": "Region"
+  },
+  "27": {
+    "name": "Batys Qazaqstan oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-27",
+    "iso-name": "Batys Qazaqstan oblysy",
+    "iso-type": "Region"
+  },
+  "31": {
+    "name": "Zhambyl oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-31",
+    "iso-name": "Zhambyl oblysy",
+    "iso-type": "Region"
+  },
+  "33": {
+    "name": "Zhetisū oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-33",
+    "iso-name": "Zhetisū oblysy",
+    "iso-type": "Region"
+  },
+  "35": {
+    "name": "Qaraghandy oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-35",
+    "iso-name": "Qaraghandy oblysy",
+    "iso-type": "Region"
+  },
+  "39": {
+    "name": "Qostanay oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-39",
+    "iso-name": "Qostanay oblysy",
+    "iso-type": "Region"
+  },
+  "43": {
+    "name": "Qyzylorda oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-43",
+    "iso-name": "Qyzylorda oblysy",
+    "iso-type": "Region"
+  },
+  "47": {
+    "name": "Mangghystaū oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-47",
+    "iso-name": "Mangghystaū oblysy",
+    "iso-type": "Region"
+  },
+  "55": {
+    "name": "Pavlodar oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-55",
+    "iso-name": "Pavlodar oblysy",
+    "iso-type": "Region"
+  },
+  "59": {
+    "name": "Soltüstik Qazaqstan oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-59",
+    "iso-name": "Soltüstik Qazaqstan oblysy",
+    "iso-type": "Region"
+  },
+  "61": {
+    "name": "Türkistan oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-61",
+    "iso-name": "Türkistan oblysy",
+    "iso-type": "Region"
+  },
+  "62": {
+    "name": "Ulytaū oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-62",
+    "iso-name": "Ulytaū oblysy",
+    "iso-type": "Region"
+  },
+  "63": {
+    "name": "Shyghys Qazaqstan oblysy",
+    "type": "Region",
+    "iso3166-2": "KZ-63",
+    "iso-name": "Shyghys Qazaqstan oblysy",
+    "iso-type": "Region"
+  },
+  "71": {
+    "name": "Astana",
+    "type": "City",
+    "iso3166-2": "KZ-71",
+    "iso-name": "Astana",
+    "iso-type": "City"
+  },
+  "75": {
+    "name": "Almaty",
+    "type": "City",
+    "iso3166-2": "KZ-75",
+    "iso-name": "Almaty",
+    "iso-type": "City"
+  },
+  "79": {
+    "name": "Shymkent",
+    "type": "City",
+    "iso3166-2": "KZ-79",
+    "iso-name": "Shymkent",
+    "iso-type": "City"
+  }
+}

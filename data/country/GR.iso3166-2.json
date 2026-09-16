@@ -1,0 +1,100 @@
+{
+  "69": {
+    "name": "Ágion Óros",
+    "type": "Self-governed part",
+    "iso3166-2": "GR-69",
+    "iso-name": "Ágion Óros",
+    "iso-type": "Self-governed part"
+  },
+  "A": {
+    "name": "Anatolikí Makedonía kai Thráki",
+    "type": "Administrative region",
+    "iso3166-2": "GR-A",
+    "iso-name": "Anatolikí Makedonía kai Thráki",
+    "iso-type": "Administrative region"
+  },
+  "B": {
+    "name": "Kentrikí Makedonía",
+    "type": "Administrative region",
+    "iso3166-2": "GR-B",
+    "iso-name": "Kentrikí Makedonía",
+    "iso-type": "Administrative region"
+  },
+  "C": {
+    "name": "Dytikí Makedonía",
+    "type": "Administrative region",
+    "iso3166-2": "GR-C",
+    "iso-name": "Dytikí Makedonía",
+    "iso-type": "Administrative region"
+  },
+  "D": {
+    "name": "Ípeiros",
+    "type": "Administrative region",
+    "iso3166-2": "GR-D",
+    "iso-name": "Ípeiros",
+    "iso-type": "Administrative region"
+  },
+  "E": {
+    "name": "Thessalía",
+    "type": "Administrative region",
+    "iso3166-2": "GR-E",
+    "iso-name": "Thessalía",
+    "iso-type": "Administrative region"
+  },
+  "F": {
+    "name": "Ionía Nísia",
+    "type": "Administrative region",
+    "iso3166-2": "GR-F",
+    "iso-name": "Ionía Nísia",
+    "iso-type": "Administrative region"
+  },
+  "G": {
+    "name": "Dytikí Elláda",
+    "type": "Administrative region",
+    "iso3166-2": "GR-G",
+    "iso-name": "Dytikí Elláda",
+    "iso-type": "Administrative region"
+  },
+  "H": {
+    "name": "Stereá Elláda",
+    "type": "Administrative region",
+    "iso3166-2": "GR-H",
+    "iso-name": "Stereá Elláda",
+    "iso-type": "Administrative region"
+  },
+  "I": {
+    "name": "Attikí",
+    "type": "Administrative region",
+    "iso3166-2": "GR-I",
+    "iso-name": "Attikí",
+    "iso-type": "Administrative region"
+  },
+  "J": {
+    "name": "Pelopónnisos",
+    "type": "Administrative region",
+    "iso3166-2": "GR-J",
+    "iso-name": "Pelopónnisos",
+    "iso-type": "Administrative region"
+  },
+  "K": {
+    "name": "Vóreio Aigaío",
+    "type": "Administrative region",
+    "iso3166-2": "GR-K",
+    "iso-name": "Vóreio Aigaío",
+    "iso-type": "Administrative region"
+  },
+  "L": {
+    "name": "Nótio Aigaío",
+    "type": "Administrative region",
+    "iso3166-2": "GR-L",
+    "iso-name": "Nótio Aigaío",
+    "iso-type": "Administrative region"
+  },
+  "M": {
+    "name": "Kríti",
+    "type": "Administrative region",
+    "iso3166-2": "GR-M",
+    "iso-name": "Kríti",
+    "iso-type": "Administrative region"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "01": {
+    "name": "Lefkosia",
+    "type": "District",
+    "iso3166-2": "CY-01",
+    "iso-name": "Lefkosia",
+    "iso-type": "District"
+  },
+  "02": {
+    "name": "Lemesos",
+    "type": "District",
+    "iso3166-2": "CY-02",
+    "iso-name": "Lemesos",
+    "iso-type": "District"
+  },
+  "03": {
+    "name": "Larnaka",
+    "type": "District",
+    "iso3166-2": "CY-03",
+    "iso-name": "Larnaka",
+    "iso-type": "District"
+  },
+  "04": {
+    "name": "Ammochostos",
+    "type": "District",
+    "iso3166-2": "CY-04",
+    "iso-name": "Ammochostos",
+    "iso-type": "District"
+  },
+  "05": {
+    "name": "Pafos",
+    "type": "District",
+    "iso3166-2": "CY-05",
+    "iso-name": "Pafos",
+    "iso-type": "District"
+  },
+  "06": {
+    "name": "Keryneia",
+    "type": "District",
+    "iso3166-2": "CY-06",
+    "iso-name": "Keryneia",
+    "iso-type": "District"
+  }
+}

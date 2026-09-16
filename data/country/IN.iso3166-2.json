@@ -1,0 +1,254 @@
+{
+  "AN": {
+    "name": "Andaman and Nicobar Islands",
+    "type": "Union territory",
+    "iso3166-2": "IN-AN",
+    "iso-name": "Andaman and Nicobar Islands",
+    "iso-type": "Union territory"
+  },
+  "AP": {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "iso3166-2": "IN-AP",
+    "iso-name": "Andhra Pradesh",
+    "iso-type": "State"
+  },
+  "AR": {
+    "name": "Arunāchal Pradesh",
+    "type": "State",
+    "iso3166-2": "IN-AR",
+    "iso-name": "Arunāchal Pradesh",
+    "iso-type": "State"
+  },
+  "AS": {
+    "name": "Assam",
+    "type": "State",
+    "iso3166-2": "IN-AS",
+    "iso-name": "Assam",
+    "iso-type": "State"
+  },
+  "BR": {
+    "name": "Bihār",
+    "type": "State",
+    "iso3166-2": "IN-BR",
+    "iso-name": "Bihār",
+    "iso-type": "State"
+  },
+  "CG": {
+    "name": "Chhattīsgarh",
+    "type": "State",
+    "iso3166-2": "IN-CG",
+    "iso-name": "Chhattīsgarh",
+    "iso-type": "State"
+  },
+  "CH": {
+    "name": "Chandīgarh",
+    "type": "Union territory",
+    "iso3166-2": "IN-CH",
+    "iso-name": "Chandīgarh",
+    "iso-type": "Union territory"
+  },
+  "DH": {
+    "name": "Dādra and Nagar Haveli and Damān and Diu",
+    "type": "Union territory",
+    "iso3166-2": "IN-DH",
+    "iso-name": "Dādra and Nagar Haveli and Damān and Diu",
+    "iso-type": "Union territory"
+  },
+  "DL": {
+    "name": "Delhi",
+    "type": "Union territory",
+    "iso3166-2": "IN-DL",
+    "iso-name": "Delhi",
+    "iso-type": "Union territory"
+  },
+  "GA": {
+    "name": "Goa",
+    "type": "State",
+    "iso3166-2": "IN-GA",
+    "iso-name": "Goa",
+    "iso-type": "State"
+  },
+  "GJ": {
+    "name": "Gujarāt",
+    "type": "State",
+    "iso3166-2": "IN-GJ",
+    "iso-name": "Gujarāt",
+    "iso-type": "State"
+  },
+  "HP": {
+    "name": "Himāchal Pradesh",
+    "type": "State",
+    "iso3166-2": "IN-HP",
+    "iso-name": "Himāchal Pradesh",
+    "iso-type": "State"
+  },
+  "HR": {
+    "name": "Haryāna",
+    "type": "State",
+    "iso3166-2": "IN-HR",
+    "iso-name": "Haryāna",
+    "iso-type": "State"
+  },
+  "JH": {
+    "name": "Jhārkhand",
+    "type": "State",
+    "iso3166-2": "IN-JH",
+    "iso-name": "Jhārkhand",
+    "iso-type": "State"
+  },
+  "JK": {
+    "name": "Jammu and Kashmīr",
+    "type": "Union territory",
+    "iso3166-2": "IN-JK",
+    "iso-name": "Jammu and Kashmīr",
+    "iso-type": "Union territory"
+  },
+  "KA": {
+    "name": "Karnātaka",
+    "type": "State",
+    "iso3166-2": "IN-KA",
+    "iso-name": "Karnātaka",
+    "iso-type": "State"
+  },
+  "KL": {
+    "name": "Kerala",
+    "type": "State",
+    "iso3166-2": "IN-KL",
+    "iso-name": "Kerala",
+    "iso-type": "State"
+  },
+  "LA": {
+    "name": "Ladākh",
+    "type": "Union territory",
+    "iso3166-2": "IN-LA",
+    "iso-name": "Ladākh",
+    "iso-type": "Union territory"
+  },
+  "LD": {
+    "name": "Lakshadweep",
+    "type": "Union territory",
+    "iso3166-2": "IN-LD",
+    "iso-name": "Lakshadweep",
+    "iso-type": "Union territory"
+  },
+  "MH": {
+    "name": "Mahārāshtra",
+    "type": "State",
+    "iso3166-2": "IN-MH",
+    "iso-name": "Mahārāshtra",
+    "iso-type": "State"
+  },
+  "ML": {
+    "name": "Meghālaya",
+    "type": "State",
+    "iso3166-2": "IN-ML",
+    "iso-name": "Meghālaya",
+    "iso-type": "State"
+  },
+  "MN": {
+    "name": "Manipur",
+    "type": "State",
+    "iso3166-2": "IN-MN",
+    "iso-name": "Manipur",
+    "iso-type": "State"
+  },
+  "MP": {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "iso3166-2": "IN-MP",
+    "iso-name": "Madhya Pradesh",
+    "iso-type": "State"
+  },
+  "MZ": {
+    "name": "Mizoram",
+    "type": "State",
+    "iso3166-2": "IN-MZ",
+    "iso-name": "Mizoram",
+    "iso-type": "State"
+  },
+  "NL": {
+    "name": "Nāgāland",
+    "type": "State",
+    "iso3166-2": "IN-NL",
+    "iso-name": "Nāgāland",
+    "iso-type": "State"
+  },
+  "OD": {
+    "name": "Odisha",
+    "type": "State",
+    "iso3166-2": "IN-OD",
+    "iso-name": "Odisha",
+    "iso-type": "State"
+  },
+  "PB": {
+    "name": "Punjab",
+    "type": "State",
+    "iso3166-2": "IN-PB",
+    "iso-name": "Punjab",
+    "iso-type": "State"
+  },
+  "PY": {
+    "name": "Puducherry",
+    "type": "Union territory",
+    "iso3166-2": "IN-PY",
+    "iso-name": "Puducherry",
+    "iso-type": "Union territory"
+  },
+  "RJ": {
+    "name": "Rājasthān",
+    "type": "State",
+    "iso3166-2": "IN-RJ",
+    "iso-name": "Rājasthān",
+    "iso-type": "State"
+  },
+  "SK": {
+    "name": "Sikkim",
+    "type": "State",
+    "iso3166-2": "IN-SK",
+    "iso-name": "Sikkim",
+    "iso-type": "State"
+  },
+  "TN": {
+    "name": "Tamil Nādu",
+    "type": "State",
+    "iso3166-2": "IN-TN",
+    "iso-name": "Tamil Nādu",
+    "iso-type": "State"
+  },
+  "TR": {
+    "name": "Tripura",
+    "type": "State",
+    "iso3166-2": "IN-TR",
+    "iso-name": "Tripura",
+    "iso-type": "State"
+  },
+  "TS": {
+    "name": "Telangāna",
+    "type": "State",
+    "iso3166-2": "IN-TS",
+    "iso-name": "Telangāna",
+    "iso-type": "State"
+  },
+  "UK": {
+    "name": "Uttarākhand",
+    "type": "State",
+    "iso3166-2": "IN-UK",
+    "iso-name": "Uttarākhand",
+    "iso-type": "State"
+  },
+  "UP": {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "iso3166-2": "IN-UP",
+    "iso-name": "Uttar Pradesh",
+    "iso-type": "State"
+  },
+  "WB": {
+    "name": "West Bengal",
+    "type": "State",
+    "iso3166-2": "IN-WB",
+    "iso-name": "West Bengal",
+    "iso-type": "State"
+  }
+}

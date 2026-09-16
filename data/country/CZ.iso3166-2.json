@@ -1,0 +1,708 @@
+{
+  "10": {
+    "name": "Praha, Hlavní město",
+    "type": "Capital city",
+    "iso3166-2": "CZ-10",
+    "iso-name": "Praha, Hlavní město",
+    "iso-type": "Capital city"
+  },
+  "20": {
+    "name": "Středočeský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-20",
+    "iso-name": "Středočeský kraj",
+    "iso-type": "Region"
+  },
+  "201": {
+    "name": "Benešov",
+    "type": "District",
+    "iso3166-2": "CZ-201",
+    "iso-name": "Benešov",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "202": {
+    "name": "Beroun",
+    "type": "District",
+    "iso3166-2": "CZ-202",
+    "iso-name": "Beroun",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "203": {
+    "name": "Kladno",
+    "type": "District",
+    "iso3166-2": "CZ-203",
+    "iso-name": "Kladno",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "204": {
+    "name": "Kolín",
+    "type": "District",
+    "iso3166-2": "CZ-204",
+    "iso-name": "Kolín",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "205": {
+    "name": "Kutná Hora",
+    "type": "District",
+    "iso3166-2": "CZ-205",
+    "iso-name": "Kutná Hora",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "206": {
+    "name": "Mělník",
+    "type": "District",
+    "iso3166-2": "CZ-206",
+    "iso-name": "Mělník",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "207": {
+    "name": "Mladá Boleslav",
+    "type": "District",
+    "iso3166-2": "CZ-207",
+    "iso-name": "Mladá Boleslav",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "208": {
+    "name": "Nymburk",
+    "type": "District",
+    "iso3166-2": "CZ-208",
+    "iso-name": "Nymburk",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "209": {
+    "name": "Praha-východ",
+    "type": "District",
+    "iso3166-2": "CZ-209",
+    "iso-name": "Praha-východ",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "20A": {
+    "name": "Praha-západ",
+    "type": "District",
+    "iso3166-2": "CZ-20A",
+    "iso-name": "Praha-západ",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "20B": {
+    "name": "Příbram",
+    "type": "District",
+    "iso3166-2": "CZ-20B",
+    "iso-name": "Příbram",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "20C": {
+    "name": "Rakovník",
+    "type": "District",
+    "iso3166-2": "CZ-20C",
+    "iso-name": "Rakovník",
+    "iso-type": "District",
+    "parent-code": "20"
+  },
+  "31": {
+    "name": "Jihočeský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-31",
+    "iso-name": "Jihočeský kraj",
+    "iso-type": "Region"
+  },
+  "311": {
+    "name": "České Budějovice",
+    "type": "District",
+    "iso3166-2": "CZ-311",
+    "iso-name": "České Budějovice",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "312": {
+    "name": "Český Krumlov",
+    "type": "District",
+    "iso3166-2": "CZ-312",
+    "iso-name": "Český Krumlov",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "313": {
+    "name": "Jindřichův Hradec",
+    "type": "District",
+    "iso3166-2": "CZ-313",
+    "iso-name": "Jindřichův Hradec",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "314": {
+    "name": "Písek",
+    "type": "District",
+    "iso3166-2": "CZ-314",
+    "iso-name": "Písek",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "315": {
+    "name": "Prachatice",
+    "type": "District",
+    "iso3166-2": "CZ-315",
+    "iso-name": "Prachatice",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "316": {
+    "name": "Strakonice",
+    "type": "District",
+    "iso3166-2": "CZ-316",
+    "iso-name": "Strakonice",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "317": {
+    "name": "Tábor",
+    "type": "District",
+    "iso3166-2": "CZ-317",
+    "iso-name": "Tábor",
+    "iso-type": "District",
+    "parent-code": "31"
+  },
+  "32": {
+    "name": "Plzeňský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-32",
+    "iso-name": "Plzeňský kraj",
+    "iso-type": "Region"
+  },
+  "321": {
+    "name": "Domažlice",
+    "type": "District",
+    "iso3166-2": "CZ-321",
+    "iso-name": "Domažlice",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "322": {
+    "name": "Klatovy",
+    "type": "District",
+    "iso3166-2": "CZ-322",
+    "iso-name": "Klatovy",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "323": {
+    "name": "Plzeň-město",
+    "type": "District",
+    "iso3166-2": "CZ-323",
+    "iso-name": "Plzeň-město",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "324": {
+    "name": "Plzeň-jih",
+    "type": "District",
+    "iso3166-2": "CZ-324",
+    "iso-name": "Plzeň-jih",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "325": {
+    "name": "Plzeň-sever",
+    "type": "District",
+    "iso3166-2": "CZ-325",
+    "iso-name": "Plzeň-sever",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "326": {
+    "name": "Rokycany",
+    "type": "District",
+    "iso3166-2": "CZ-326",
+    "iso-name": "Rokycany",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "327": {
+    "name": "Tachov",
+    "type": "District",
+    "iso3166-2": "CZ-327",
+    "iso-name": "Tachov",
+    "iso-type": "District",
+    "parent-code": "32"
+  },
+  "41": {
+    "name": "Karlovarský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-41",
+    "iso-name": "Karlovarský kraj",
+    "iso-type": "Region"
+  },
+  "411": {
+    "name": "Cheb",
+    "type": "District",
+    "iso3166-2": "CZ-411",
+    "iso-name": "Cheb",
+    "iso-type": "District",
+    "parent-code": "41"
+  },
+  "412": {
+    "name": "Karlovy Vary",
+    "type": "District",
+    "iso3166-2": "CZ-412",
+    "iso-name": "Karlovy Vary",
+    "iso-type": "District",
+    "parent-code": "41"
+  },
+  "413": {
+    "name": "Sokolov",
+    "type": "District",
+    "iso3166-2": "CZ-413",
+    "iso-name": "Sokolov",
+    "iso-type": "District",
+    "parent-code": "41"
+  },
+  "42": {
+    "name": "Ústecký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-42",
+    "iso-name": "Ústecký kraj",
+    "iso-type": "Region"
+  },
+  "421": {
+    "name": "Děčín",
+    "type": "District",
+    "iso3166-2": "CZ-421",
+    "iso-name": "Děčín",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "422": {
+    "name": "Chomutov",
+    "type": "District",
+    "iso3166-2": "CZ-422",
+    "iso-name": "Chomutov",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "423": {
+    "name": "Litoměřice",
+    "type": "District",
+    "iso3166-2": "CZ-423",
+    "iso-name": "Litoměřice",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "424": {
+    "name": "Louny",
+    "type": "District",
+    "iso3166-2": "CZ-424",
+    "iso-name": "Louny",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "425": {
+    "name": "Most",
+    "type": "District",
+    "iso3166-2": "CZ-425",
+    "iso-name": "Most",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "426": {
+    "name": "Teplice",
+    "type": "District",
+    "iso3166-2": "CZ-426",
+    "iso-name": "Teplice",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "427": {
+    "name": "Ústí nad Labem",
+    "type": "District",
+    "iso3166-2": "CZ-427",
+    "iso-name": "Ústí nad Labem",
+    "iso-type": "District",
+    "parent-code": "42"
+  },
+  "51": {
+    "name": "Liberecký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-51",
+    "iso-name": "Liberecký kraj",
+    "iso-type": "Region"
+  },
+  "511": {
+    "name": "Česká Lípa",
+    "type": "District",
+    "iso3166-2": "CZ-511",
+    "iso-name": "Česká Lípa",
+    "iso-type": "District",
+    "parent-code": "51"
+  },
+  "512": {
+    "name": "Jablonec nad Nisou",
+    "type": "District",
+    "iso3166-2": "CZ-512",
+    "iso-name": "Jablonec nad Nisou",
+    "iso-type": "District",
+    "parent-code": "51"
+  },
+  "513": {
+    "name": "Liberec",
+    "type": "District",
+    "iso3166-2": "CZ-513",
+    "iso-name": "Liberec",
+    "iso-type": "District",
+    "parent-code": "51"
+  },
+  "514": {
+    "name": "Semily",
+    "type": "District",
+    "iso3166-2": "CZ-514",
+    "iso-name": "Semily",
+    "iso-type": "District",
+    "parent-code": "51"
+  },
+  "52": {
+    "name": "Královéhradecký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-52",
+    "iso-name": "Královéhradecký kraj",
+    "iso-type": "Region"
+  },
+  "521": {
+    "name": "Hradec Králové",
+    "type": "District",
+    "iso3166-2": "CZ-521",
+    "iso-name": "Hradec Králové",
+    "iso-type": "District",
+    "parent-code": "52"
+  },
+  "522": {
+    "name": "Jičín",
+    "type": "District",
+    "iso3166-2": "CZ-522",
+    "iso-name": "Jičín",
+    "iso-type": "District",
+    "parent-code": "52"
+  },
+  "523": {
+    "name": "Náchod",
+    "type": "District",
+    "iso3166-2": "CZ-523",
+    "iso-name": "Náchod",
+    "iso-type": "District",
+    "parent-code": "52"
+  },
+  "524": {
+    "name": "Rychnov nad Kněžnou",
+    "type": "District",
+    "iso3166-2": "CZ-524",
+    "iso-name": "Rychnov nad Kněžnou",
+    "iso-type": "District",
+    "parent-code": "52"
+  },
+  "525": {
+    "name": "Trutnov",
+    "type": "District",
+    "iso3166-2": "CZ-525",
+    "iso-name": "Trutnov",
+    "iso-type": "District",
+    "parent-code": "52"
+  },
+  "53": {
+    "name": "Pardubický kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-53",
+    "iso-name": "Pardubický kraj",
+    "iso-type": "Region"
+  },
+  "531": {
+    "name": "Chrudim",
+    "type": "District",
+    "iso3166-2": "CZ-531",
+    "iso-name": "Chrudim",
+    "iso-type": "District",
+    "parent-code": "53"
+  },
+  "532": {
+    "name": "Pardubice",
+    "type": "District",
+    "iso3166-2": "CZ-532",
+    "iso-name": "Pardubice",
+    "iso-type": "District",
+    "parent-code": "53"
+  },
+  "533": {
+    "name": "Svitavy",
+    "type": "District",
+    "iso3166-2": "CZ-533",
+    "iso-name": "Svitavy",
+    "iso-type": "District",
+    "parent-code": "53"
+  },
+  "534": {
+    "name": "Ústí nad Orlicí",
+    "type": "District",
+    "iso3166-2": "CZ-534",
+    "iso-name": "Ústí nad Orlicí",
+    "iso-type": "District",
+    "parent-code": "53"
+  },
+  "63": {
+    "name": "Kraj Vysočina",
+    "type": "Region",
+    "iso3166-2": "CZ-63",
+    "iso-name": "Kraj Vysočina",
+    "iso-type": "Region"
+  },
+  "631": {
+    "name": "Havlíčkův Brod",
+    "type": "District",
+    "iso3166-2": "CZ-631",
+    "iso-name": "Havlíčkův Brod",
+    "iso-type": "District",
+    "parent-code": "63"
+  },
+  "632": {
+    "name": "Jihlava",
+    "type": "District",
+    "iso3166-2": "CZ-632",
+    "iso-name": "Jihlava",
+    "iso-type": "District",
+    "parent-code": "63"
+  },
+  "633": {
+    "name": "Pelhřimov",
+    "type": "District",
+    "iso3166-2": "CZ-633",
+    "iso-name": "Pelhřimov",
+    "iso-type": "District",
+    "parent-code": "63"
+  },
+  "634": {
+    "name": "Třebíč",
+    "type": "District",
+    "iso3166-2": "CZ-634",
+    "iso-name": "Třebíč",
+    "iso-type": "District",
+    "parent-code": "63"
+  },
+  "635": {
+    "name": "Žďár nad Sázavou",
+    "type": "District",
+    "iso3166-2": "CZ-635",
+    "iso-name": "Žďár nad Sázavou",
+    "iso-type": "District",
+    "parent-code": "63"
+  },
+  "64": {
+    "name": "Jihomoravský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-64",
+    "iso-name": "Jihomoravský kraj",
+    "iso-type": "Region"
+  },
+  "641": {
+    "name": "Blansko",
+    "type": "District",
+    "iso3166-2": "CZ-641",
+    "iso-name": "Blansko",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "642": {
+    "name": "Brno-město",
+    "type": "District",
+    "iso3166-2": "CZ-642",
+    "iso-name": "Brno-město",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "643": {
+    "name": "Brno-venkov",
+    "type": "District",
+    "iso3166-2": "CZ-643",
+    "iso-name": "Brno-venkov",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "644": {
+    "name": "Břeclav",
+    "type": "District",
+    "iso3166-2": "CZ-644",
+    "iso-name": "Břeclav",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "645": {
+    "name": "Hodonín",
+    "type": "District",
+    "iso3166-2": "CZ-645",
+    "iso-name": "Hodonín",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "646": {
+    "name": "Vyškov",
+    "type": "District",
+    "iso3166-2": "CZ-646",
+    "iso-name": "Vyškov",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "647": {
+    "name": "Znojmo",
+    "type": "District",
+    "iso3166-2": "CZ-647",
+    "iso-name": "Znojmo",
+    "iso-type": "District",
+    "parent-code": "64"
+  },
+  "71": {
+    "name": "Olomoucký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-71",
+    "iso-name": "Olomoucký kraj",
+    "iso-type": "Region"
+  },
+  "711": {
+    "name": "Jeseník",
+    "type": "District",
+    "iso3166-2": "CZ-711",
+    "iso-name": "Jeseník",
+    "iso-type": "District",
+    "parent-code": "71"
+  },
+  "712": {
+    "name": "Olomouc",
+    "type": "District",
+    "iso3166-2": "CZ-712",
+    "iso-name": "Olomouc",
+    "iso-type": "District",
+    "parent-code": "71"
+  },
+  "713": {
+    "name": "Prostějov",
+    "type": "District",
+    "iso3166-2": "CZ-713",
+    "iso-name": "Prostějov",
+    "iso-type": "District",
+    "parent-code": "71"
+  },
+  "714": {
+    "name": "Přerov",
+    "type": "District",
+    "iso3166-2": "CZ-714",
+    "iso-name": "Přerov",
+    "iso-type": "District",
+    "parent-code": "71"
+  },
+  "715": {
+    "name": "Šumperk",
+    "type": "District",
+    "iso3166-2": "CZ-715",
+    "iso-name": "Šumperk",
+    "iso-type": "District",
+    "parent-code": "71"
+  },
+  "72": {
+    "name": "Zlínský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-72",
+    "iso-name": "Zlínský kraj",
+    "iso-type": "Region"
+  },
+  "721": {
+    "name": "Kroměříž",
+    "type": "District",
+    "iso3166-2": "CZ-721",
+    "iso-name": "Kroměříž",
+    "iso-type": "District",
+    "parent-code": "72"
+  },
+  "722": {
+    "name": "Uherské Hradiště",
+    "type": "District",
+    "iso3166-2": "CZ-722",
+    "iso-name": "Uherské Hradiště",
+    "iso-type": "District",
+    "parent-code": "72"
+  },
+  "723": {
+    "name": "Vsetín",
+    "type": "District",
+    "iso3166-2": "CZ-723",
+    "iso-name": "Vsetín",
+    "iso-type": "District",
+    "parent-code": "72"
+  },
+  "724": {
+    "name": "Zlín",
+    "type": "District",
+    "iso3166-2": "CZ-724",
+    "iso-name": "Zlín",
+    "iso-type": "District",
+    "parent-code": "72"
+  },
+  "80": {
+    "name": "Moravskoslezský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-80",
+    "iso-name": "Moravskoslezský kraj",
+    "iso-type": "Region"
+  },
+  "801": {
+    "name": "Bruntál",
+    "type": "District",
+    "iso3166-2": "CZ-801",
+    "iso-name": "Bruntál",
+    "iso-type": "District",
+    "parent-code": "80"
+  },
+  "802": {
+    "name": "Frýdek-Místek",
+    "type": "District",
+    "iso3166-2": "CZ-802",
+    "iso-name": "Frýdek-Místek",
+    "iso-type": "District",
+    "parent-code": "80"
+  },
+  "803": {
+    "name": "Karviná",
+    "type": "District",
+    "iso3166-2": "CZ-803",
+    "iso-name": "Karviná",
+    "iso-type": "District",
+    "parent-code": "80"
+  },
+  "804": {
+    "name": "Nový Jičín",
+    "type": "District",
+    "iso3166-2": "CZ-804",
+    "iso-name": "Nový Jičín",
+    "iso-type": "District",
+    "parent-code": "80"
+  },
+  "805": {
+    "name": "Opava",
+    "type": "District",
+    "iso3166-2": "CZ-805",
+    "iso-name": "Opava",
+    "iso-type": "District",
+    "parent-code": "80"
+  },
+  "806": {
+    "name": "Ostrava-město",
+    "type": "District",
+    "iso3166-2": "CZ-806",
+    "iso-name": "Ostrava-město",
+    "iso-type": "District",
+    "parent-code": "80"
+  }
+}

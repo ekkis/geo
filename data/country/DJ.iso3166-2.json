@@ -1,0 +1,44 @@
+{
+  "AR": {
+    "name": "Arta",
+    "type": "Region",
+    "iso3166-2": "DJ-AR",
+    "iso-name": "Arta",
+    "iso-type": "Region"
+  },
+  "AS": {
+    "name": "Ali Sabieh",
+    "type": "Region",
+    "iso3166-2": "DJ-AS",
+    "iso-name": "Ali Sabieh",
+    "iso-type": "Region"
+  },
+  "DI": {
+    "name": "Dikhil",
+    "type": "Region",
+    "iso3166-2": "DJ-DI",
+    "iso-name": "Dikhil",
+    "iso-type": "Region"
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "type": "City",
+    "iso3166-2": "DJ-DJ",
+    "iso-name": "Djibouti",
+    "iso-type": "City"
+  },
+  "OB": {
+    "name": "Obock",
+    "type": "Region",
+    "iso3166-2": "DJ-OB",
+    "iso-name": "Obock",
+    "iso-type": "Region"
+  },
+  "TA": {
+    "name": "Tadjourah",
+    "type": "Region",
+    "iso3166-2": "DJ-TA",
+    "iso-name": "Tadjourah",
+    "iso-type": "Region"
+  }
+}

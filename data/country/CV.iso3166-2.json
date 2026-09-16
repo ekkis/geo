@@ -1,0 +1,192 @@
+{
+  "B": {
+    "name": "Ilhas de Barlavento",
+    "type": "Geographical region",
+    "iso3166-2": "CV-B",
+    "iso-name": "Ilhas de Barlavento",
+    "iso-type": "Geographical region"
+  },
+  "BR": {
+    "name": "Brava",
+    "type": "Municipality",
+    "iso3166-2": "CV-BR",
+    "iso-name": "Brava",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "BV": {
+    "name": "Boa Vista",
+    "type": "Municipality",
+    "iso3166-2": "CV-BV",
+    "iso-name": "Boa Vista",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "CA": {
+    "name": "Santa Catarina",
+    "type": "Municipality",
+    "iso3166-2": "CV-CA",
+    "iso-name": "Santa Catarina",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "CF": {
+    "name": "Santa Catarina do Fogo",
+    "type": "Municipality",
+    "iso3166-2": "CV-CF",
+    "iso-name": "Santa Catarina do Fogo",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "CR": {
+    "name": "Santa Cruz",
+    "type": "Municipality",
+    "iso3166-2": "CV-CR",
+    "iso-name": "Santa Cruz",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "MA": {
+    "name": "Maio",
+    "type": "Municipality",
+    "iso3166-2": "CV-MA",
+    "iso-name": "Maio",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "MO": {
+    "name": "Mosteiros",
+    "type": "Municipality",
+    "iso3166-2": "CV-MO",
+    "iso-name": "Mosteiros",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "PA": {
+    "name": "Paul",
+    "type": "Municipality",
+    "iso3166-2": "CV-PA",
+    "iso-name": "Paul",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "PN": {
+    "name": "Porto Novo",
+    "type": "Municipality",
+    "iso3166-2": "CV-PN",
+    "iso-name": "Porto Novo",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "PR": {
+    "name": "Praia",
+    "type": "Municipality",
+    "iso3166-2": "CV-PR",
+    "iso-name": "Praia",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "RB": {
+    "name": "Ribeira Brava",
+    "type": "Municipality",
+    "iso3166-2": "CV-RB",
+    "iso-name": "Ribeira Brava",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "RG": {
+    "name": "Ribeira Grande",
+    "type": "Municipality",
+    "iso3166-2": "CV-RG",
+    "iso-name": "Ribeira Grande",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "RS": {
+    "name": "Ribeira Grande de Santiago",
+    "type": "Municipality",
+    "iso3166-2": "CV-RS",
+    "iso-name": "Ribeira Grande de Santiago",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "S": {
+    "name": "Ilhas de Sotavento",
+    "type": "Geographical region",
+    "iso3166-2": "CV-S",
+    "iso-name": "Ilhas de Sotavento",
+    "iso-type": "Geographical region"
+  },
+  "SD": {
+    "name": "São Domingos",
+    "type": "Municipality",
+    "iso3166-2": "CV-SD",
+    "iso-name": "São Domingos",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "SF": {
+    "name": "São Filipe",
+    "type": "Municipality",
+    "iso3166-2": "CV-SF",
+    "iso-name": "São Filipe",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "SL": {
+    "name": "Sal",
+    "type": "Municipality",
+    "iso3166-2": "CV-SL",
+    "iso-name": "Sal",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "SM": {
+    "name": "São Miguel",
+    "type": "Municipality",
+    "iso3166-2": "CV-SM",
+    "iso-name": "São Miguel",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "SO": {
+    "name": "São Lourenço dos Órgãos",
+    "type": "Municipality",
+    "iso3166-2": "CV-SO",
+    "iso-name": "São Lourenço dos Órgãos",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "SS": {
+    "name": "São Salvador do Mundo",
+    "type": "Municipality",
+    "iso3166-2": "CV-SS",
+    "iso-name": "São Salvador do Mundo",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "SV": {
+    "name": "São Vicente",
+    "type": "Municipality",
+    "iso3166-2": "CV-SV",
+    "iso-name": "São Vicente",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  },
+  "TA": {
+    "name": "Tarrafal",
+    "type": "Municipality",
+    "iso3166-2": "CV-TA",
+    "iso-name": "Tarrafal",
+    "iso-type": "Municipality",
+    "parent-code": "S"
+  },
+  "TS": {
+    "name": "Tarrafal de São Nicolau",
+    "type": "Municipality",
+    "iso3166-2": "CV-TS",
+    "iso-name": "Tarrafal de São Nicolau",
+    "iso-type": "Municipality",
+    "parent-code": "B"
+  }
+}

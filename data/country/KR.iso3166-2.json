@@ -1,0 +1,121 @@
+{
+  "11": {
+    "name": "Seoul-teukbyeolsi",
+    "type": "Special city",
+    "iso3166-2": "KR-11",
+    "iso-name": "Seoul-teukbyeolsi",
+    "iso-type": "Special city"
+  },
+  "26": {
+    "name": "Busan-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-26",
+    "iso-name": "Busan-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "27": {
+    "name": "Daegu-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-27",
+    "iso-name": "Daegu-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "28": {
+    "name": "Incheon-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-28",
+    "iso-name": "Incheon-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "29": {
+    "name": "Gwangju-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-29",
+    "iso-name": "Gwangju-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "30": {
+    "name": "Daejeon-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-30",
+    "iso-name": "Daejeon-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "31": {
+    "name": "Ulsan-gwangyeoksi",
+    "type": "Metropolitan city",
+    "iso3166-2": "KR-31",
+    "iso-name": "Ulsan-gwangyeoksi",
+    "iso-type": "Metropolitan city"
+  },
+  "41": {
+    "name": "Gyeonggi-do",
+    "type": "Province",
+    "iso3166-2": "KR-41",
+    "iso-name": "Gyeonggi-do",
+    "iso-type": "Province"
+  },
+  "42": {
+    "name": "Gangwon-teukbyeoljachido",
+    "type": "Special self-governing province",
+    "iso3166-2": "KR-42",
+    "iso-name": "Gangwon-teukbyeoljachido",
+    "iso-type": "Special self-governing province"
+  },
+  "43": {
+    "name": "Chungcheongbuk-do",
+    "type": "Province",
+    "iso3166-2": "KR-43",
+    "iso-name": "Chungcheongbuk-do",
+    "iso-type": "Province"
+  },
+  "44": {
+    "name": "Chungcheongnam-do",
+    "type": "Province",
+    "iso3166-2": "KR-44",
+    "iso-name": "Chungcheongnam-do",
+    "iso-type": "Province"
+  },
+  "45": {
+    "name": "Jeollabuk-do",
+    "type": "Province",
+    "iso3166-2": "KR-45",
+    "iso-name": "Jeollabuk-do",
+    "iso-type": "Province"
+  },
+  "46": {
+    "name": "Jeollanam-do",
+    "type": "Province",
+    "iso3166-2": "KR-46",
+    "iso-name": "Jeollanam-do",
+    "iso-type": "Province"
+  },
+  "47": {
+    "name": "Gyeongsangbuk-do",
+    "type": "Province",
+    "iso3166-2": "KR-47",
+    "iso-name": "Gyeongsangbuk-do",
+    "iso-type": "Province"
+  },
+  "48": {
+    "name": "Gyeongsangnam-do",
+    "type": "Province",
+    "iso3166-2": "KR-48",
+    "iso-name": "Gyeongsangnam-do",
+    "iso-type": "Province"
+  },
+  "49": {
+    "name": "Jeju-teukbyeoljachido",
+    "type": "Special self-governing province",
+    "iso3166-2": "KR-49",
+    "iso-name": "Jeju-teukbyeoljachido",
+    "iso-type": "Special self-governing province"
+  },
+  "50": {
+    "name": "Sejong",
+    "type": "Special self-governing city",
+    "iso3166-2": "KR-50",
+    "iso-name": "Sejong",
+    "iso-type": "Special self-governing city"
+  }
+}

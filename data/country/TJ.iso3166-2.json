@@ -1,0 +1,37 @@
+{
+  "DU": {
+    "name": "Dushanbe",
+    "type": "Capital territory",
+    "iso3166-2": "TJ-DU",
+    "iso-name": "Dushanbe",
+    "iso-type": "Capital territory"
+  },
+  "GB": {
+    "name": "Kŭhistoni Badakhshon",
+    "type": "Autonomous region",
+    "iso3166-2": "TJ-GB",
+    "iso-name": "Kŭhistoni Badakhshon",
+    "iso-type": "Autonomous region"
+  },
+  "KT": {
+    "name": "Khatlon",
+    "type": "Region",
+    "iso3166-2": "TJ-KT",
+    "iso-name": "Khatlon",
+    "iso-type": "Region"
+  },
+  "RA": {
+    "name": "nohiyahoi tobei jumhurí",
+    "type": "Districts under republic administration",
+    "iso3166-2": "TJ-RA",
+    "iso-name": "nohiyahoi tobei jumhurí",
+    "iso-type": "Districts under republic administration"
+  },
+  "SU": {
+    "name": "Sughd",
+    "type": "Region",
+    "iso3166-2": "TJ-SU",
+    "iso-name": "Sughd",
+    "iso-type": "Region"
+  }
+}

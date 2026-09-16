@@ -1,0 +1,128 @@
+{
+  "BGO": {
+    "name": "Bengo",
+    "type": "Province",
+    "iso3166-2": "AO-BGO",
+    "iso-name": "Bengo",
+    "iso-type": "Province"
+  },
+  "BGU": {
+    "name": "Benguela",
+    "type": "Province",
+    "iso3166-2": "AO-BGU",
+    "iso-name": "Benguela",
+    "iso-type": "Province"
+  },
+  "BIE": {
+    "name": "Bié",
+    "type": "Province",
+    "iso3166-2": "AO-BIE",
+    "iso-name": "Bié",
+    "iso-type": "Province"
+  },
+  "CAB": {
+    "name": "Cabinda",
+    "type": "Province",
+    "iso3166-2": "AO-CAB",
+    "iso-name": "Cabinda",
+    "iso-type": "Province"
+  },
+  "CCU": {
+    "name": "Cuando Cubango",
+    "type": "Province",
+    "iso3166-2": "AO-CCU",
+    "iso-name": "Cuando Cubango",
+    "iso-type": "Province"
+  },
+  "CNN": {
+    "name": "Cunene",
+    "type": "Province",
+    "iso3166-2": "AO-CNN",
+    "iso-name": "Cunene",
+    "iso-type": "Province"
+  },
+  "CNO": {
+    "name": "Cuanza-Norte",
+    "type": "Province",
+    "iso3166-2": "AO-CNO",
+    "iso-name": "Cuanza-Norte",
+    "iso-type": "Province"
+  },
+  "CUS": {
+    "name": "Cuanza-Sul",
+    "type": "Province",
+    "iso3166-2": "AO-CUS",
+    "iso-name": "Cuanza-Sul",
+    "iso-type": "Province"
+  },
+  "HUA": {
+    "name": "Huambo",
+    "type": "Province",
+    "iso3166-2": "AO-HUA",
+    "iso-name": "Huambo",
+    "iso-type": "Province"
+  },
+  "HUI": {
+    "name": "Huíla",
+    "type": "Province",
+    "iso3166-2": "AO-HUI",
+    "iso-name": "Huíla",
+    "iso-type": "Province"
+  },
+  "LNO": {
+    "name": "Lunda-Norte",
+    "type": "Province",
+    "iso3166-2": "AO-LNO",
+    "iso-name": "Lunda-Norte",
+    "iso-type": "Province"
+  },
+  "LSU": {
+    "name": "Lunda-Sul",
+    "type": "Province",
+    "iso3166-2": "AO-LSU",
+    "iso-name": "Lunda-Sul",
+    "iso-type": "Province"
+  },
+  "LUA": {
+    "name": "Luanda",
+    "type": "Province",
+    "iso3166-2": "AO-LUA",
+    "iso-name": "Luanda",
+    "iso-type": "Province"
+  },
+  "MAL": {
+    "name": "Malange",
+    "type": "Province",
+    "iso3166-2": "AO-MAL",
+    "iso-name": "Malange",
+    "iso-type": "Province"
+  },
+  "MOX": {
+    "name": "Moxico",
+    "type": "Province",
+    "iso3166-2": "AO-MOX",
+    "iso-name": "Moxico",
+    "iso-type": "Province"
+  },
+  "NAM": {
+    "name": "Namibe",
+    "type": "Province",
+    "iso3166-2": "AO-NAM",
+    "iso-name": "Namibe",
+    "iso-type": "Province"
+  },
+  "UIG": {
+    "name": "Uíge",
+    "type": "Province",
+    "iso3166-2": "AO-UIG",
+    "iso-name": "Uíge",
+    "iso-type": "Province"
+  },
+  "ZAI": {
+    "name": "Zaire",
+    "type": "Province",
+    "iso3166-2": "AO-ZAI",
+    "iso-name": "Zaire",
+    "iso-type": "Province"
+  }
+}

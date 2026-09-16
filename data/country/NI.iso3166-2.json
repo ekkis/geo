@@ -1,0 +1,121 @@
+{
+  "AN": {
+    "name": "Costa Caribe Norte",
+    "type": "Autonomous region",
+    "iso3166-2": "NI-AN",
+    "iso-name": "Costa Caribe Norte",
+    "iso-type": "Autonomous region"
+  },
+  "AS": {
+    "name": "Costa Caribe Sur",
+    "type": "Autonomous region",
+    "iso3166-2": "NI-AS",
+    "iso-name": "Costa Caribe Sur",
+    "iso-type": "Autonomous region"
+  },
+  "BO": {
+    "name": "Boaco",
+    "type": "Department",
+    "iso3166-2": "NI-BO",
+    "iso-name": "Boaco",
+    "iso-type": "Department"
+  },
+  "CA": {
+    "name": "Carazo",
+    "type": "Department",
+    "iso3166-2": "NI-CA",
+    "iso-name": "Carazo",
+    "iso-type": "Department"
+  },
+  "CI": {
+    "name": "Chinandega",
+    "type": "Department",
+    "iso3166-2": "NI-CI",
+    "iso-name": "Chinandega",
+    "iso-type": "Department"
+  },
+  "CO": {
+    "name": "Chontales",
+    "type": "Department",
+    "iso3166-2": "NI-CO",
+    "iso-name": "Chontales",
+    "iso-type": "Department"
+  },
+  "ES": {
+    "name": "Estelí",
+    "type": "Department",
+    "iso3166-2": "NI-ES",
+    "iso-name": "Estelí",
+    "iso-type": "Department"
+  },
+  "GR": {
+    "name": "Granada",
+    "type": "Department",
+    "iso3166-2": "NI-GR",
+    "iso-name": "Granada",
+    "iso-type": "Department"
+  },
+  "JI": {
+    "name": "Jinotega",
+    "type": "Department",
+    "iso3166-2": "NI-JI",
+    "iso-name": "Jinotega",
+    "iso-type": "Department"
+  },
+  "LE": {
+    "name": "León",
+    "type": "Department",
+    "iso3166-2": "NI-LE",
+    "iso-name": "León",
+    "iso-type": "Department"
+  },
+  "MD": {
+    "name": "Madriz",
+    "type": "Department",
+    "iso3166-2": "NI-MD",
+    "iso-name": "Madriz",
+    "iso-type": "Department"
+  },
+  "MN": {
+    "name": "Managua",
+    "type": "Department",
+    "iso3166-2": "NI-MN",
+    "iso-name": "Managua",
+    "iso-type": "Department"
+  },
+  "MS": {
+    "name": "Masaya",
+    "type": "Department",
+    "iso3166-2": "NI-MS",
+    "iso-name": "Masaya",
+    "iso-type": "Department"
+  },
+  "MT": {
+    "name": "Matagalpa",
+    "type": "Department",
+    "iso3166-2": "NI-MT",
+    "iso-name": "Matagalpa",
+    "iso-type": "Department"
+  },
+  "NS": {
+    "name": "Nueva Segovia",
+    "type": "Department",
+    "iso3166-2": "NI-NS",
+    "iso-name": "Nueva Segovia",
+    "iso-type": "Department"
+  },
+  "RI": {
+    "name": "Rivas",
+    "type": "Department",
+    "iso3166-2": "NI-RI",
+    "iso-name": "Rivas",
+    "iso-type": "Department"
+  },
+  "SJ": {
+    "name": "Río San Juan",
+    "type": "Department",
+    "iso3166-2": "NI-SJ",
+    "iso-name": "Río San Juan",
+    "iso-type": "Department"
+  }
+}

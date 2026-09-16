@@ -1,0 +1,570 @@
+{
+  "01": {
+    "name": "Bandarban",
+    "type": "District",
+    "iso3166-2": "BD-01",
+    "iso-name": "Bandarban",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "02": {
+    "name": "Barguna",
+    "type": "District",
+    "iso3166-2": "BD-02",
+    "iso-name": "Barguna",
+    "iso-type": "District",
+    "parent-code": "A"
+  },
+  "03": {
+    "name": "Bogura",
+    "type": "District",
+    "iso3166-2": "BD-03",
+    "iso-name": "Bogura",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "04": {
+    "name": "Brahmanbaria",
+    "type": "District",
+    "iso3166-2": "BD-04",
+    "iso-name": "Brahmanbaria",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "05": {
+    "name": "Bagerhat",
+    "type": "District",
+    "iso3166-2": "BD-05",
+    "iso-name": "Bagerhat",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "06": {
+    "name": "Barishal",
+    "type": "District",
+    "iso3166-2": "BD-06",
+    "iso-name": "Barishal",
+    "iso-type": "District",
+    "parent-code": "A"
+  },
+  "07": {
+    "name": "Bhola",
+    "type": "District",
+    "iso3166-2": "BD-07",
+    "iso-name": "Bhola",
+    "iso-type": "District",
+    "parent-code": "A"
+  },
+  "08": {
+    "name": "Cumilla",
+    "type": "District",
+    "iso3166-2": "BD-08",
+    "iso-name": "Cumilla",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "09": {
+    "name": "Chandpur",
+    "type": "District",
+    "iso3166-2": "BD-09",
+    "iso-name": "Chandpur",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "10": {
+    "name": "Chattogram",
+    "type": "District",
+    "iso3166-2": "BD-10",
+    "iso-name": "Chattogram",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "11": {
+    "name": "Cox's Bazar",
+    "type": "District",
+    "iso3166-2": "BD-11",
+    "iso-name": "Cox's Bazar",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "12": {
+    "name": "Chuadanga",
+    "type": "District",
+    "iso3166-2": "BD-12",
+    "iso-name": "Chuadanga",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "13": {
+    "name": "Dhaka",
+    "type": "District",
+    "iso3166-2": "BD-13",
+    "iso-name": "Dhaka",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "14": {
+    "name": "Dinajpur",
+    "type": "District",
+    "iso3166-2": "BD-14",
+    "iso-name": "Dinajpur",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "15": {
+    "name": "Faridpur",
+    "type": "District",
+    "iso3166-2": "BD-15",
+    "iso-name": "Faridpur",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "16": {
+    "name": "Feni",
+    "type": "District",
+    "iso3166-2": "BD-16",
+    "iso-name": "Feni",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "17": {
+    "name": "Gopalganj",
+    "type": "District",
+    "iso3166-2": "BD-17",
+    "iso-name": "Gopalganj",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "18": {
+    "name": "Gazipur",
+    "type": "District",
+    "iso3166-2": "BD-18",
+    "iso-name": "Gazipur",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "19": {
+    "name": "Gaibandha",
+    "type": "District",
+    "iso3166-2": "BD-19",
+    "iso-name": "Gaibandha",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "20": {
+    "name": "Habiganj",
+    "type": "District",
+    "iso3166-2": "BD-20",
+    "iso-name": "Habiganj",
+    "iso-type": "District",
+    "parent-code": "G"
+  },
+  "21": {
+    "name": "Jamalpur",
+    "type": "District",
+    "iso3166-2": "BD-21",
+    "iso-name": "Jamalpur",
+    "iso-type": "District",
+    "parent-code": "H"
+  },
+  "22": {
+    "name": "Jashore",
+    "type": "District",
+    "iso3166-2": "BD-22",
+    "iso-name": "Jashore",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "23": {
+    "name": "Jhenaidah",
+    "type": "District",
+    "iso3166-2": "BD-23",
+    "iso-name": "Jhenaidah",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "24": {
+    "name": "Joypurhat",
+    "type": "District",
+    "iso3166-2": "BD-24",
+    "iso-name": "Joypurhat",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "25": {
+    "name": "Jhalakathi",
+    "type": "District",
+    "iso3166-2": "BD-25",
+    "iso-name": "Jhalakathi",
+    "iso-type": "District",
+    "parent-code": "A"
+  },
+  "26": {
+    "name": "Kishoreganj",
+    "type": "District",
+    "iso3166-2": "BD-26",
+    "iso-name": "Kishoreganj",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "27": {
+    "name": "Khulna",
+    "type": "District",
+    "iso3166-2": "BD-27",
+    "iso-name": "Khulna",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "28": {
+    "name": "Kurigram",
+    "type": "District",
+    "iso3166-2": "BD-28",
+    "iso-name": "Kurigram",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "29": {
+    "name": "Khagrachhari",
+    "type": "District",
+    "iso3166-2": "BD-29",
+    "iso-name": "Khagrachhari",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "30": {
+    "name": "Kushtia",
+    "type": "District",
+    "iso3166-2": "BD-30",
+    "iso-name": "Kushtia",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "31": {
+    "name": "Lakshmipur",
+    "type": "District",
+    "iso3166-2": "BD-31",
+    "iso-name": "Lakshmipur",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "32": {
+    "name": "Lalmonirhat",
+    "type": "District",
+    "iso3166-2": "BD-32",
+    "iso-name": "Lalmonirhat",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "33": {
+    "name": "Manikganj",
+    "type": "District",
+    "iso3166-2": "BD-33",
+    "iso-name": "Manikganj",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "34": {
+    "name": "Mymensingh",
+    "type": "District",
+    "iso3166-2": "BD-34",
+    "iso-name": "Mymensingh",
+    "iso-type": "District",
+    "parent-code": "H"
+  },
+  "35": {
+    "name": "Munshiganj",
+    "type": "District",
+    "iso3166-2": "BD-35",
+    "iso-name": "Munshiganj",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "36": {
+    "name": "Madaripur",
+    "type": "District",
+    "iso3166-2": "BD-36",
+    "iso-name": "Madaripur",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "37": {
+    "name": "Magura",
+    "type": "District",
+    "iso3166-2": "BD-37",
+    "iso-name": "Magura",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "38": {
+    "name": "Moulvibazar",
+    "type": "District",
+    "iso3166-2": "BD-38",
+    "iso-name": "Moulvibazar",
+    "iso-type": "District",
+    "parent-code": "G"
+  },
+  "39": {
+    "name": "Meherpur",
+    "type": "District",
+    "iso3166-2": "BD-39",
+    "iso-name": "Meherpur",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "40": {
+    "name": "Narayanganj",
+    "type": "District",
+    "iso3166-2": "BD-40",
+    "iso-name": "Narayanganj",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "41": {
+    "name": "Netrakona",
+    "type": "District",
+    "iso3166-2": "BD-41",
+    "iso-name": "Netrakona",
+    "iso-type": "District",
+    "parent-code": "H"
+  },
+  "42": {
+    "name": "Narsingdi",
+    "type": "District",
+    "iso3166-2": "BD-42",
+    "iso-name": "Narsingdi",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "43": {
+    "name": "Narail",
+    "type": "District",
+    "iso3166-2": "BD-43",
+    "iso-name": "Narail",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "44": {
+    "name": "Natore",
+    "type": "District",
+    "iso3166-2": "BD-44",
+    "iso-name": "Natore",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "45": {
+    "name": "Chapai Nawabganj",
+    "type": "District",
+    "iso3166-2": "BD-45",
+    "iso-name": "Chapai Nawabganj",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "46": {
+    "name": "Nilphamari",
+    "type": "District",
+    "iso3166-2": "BD-46",
+    "iso-name": "Nilphamari",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "47": {
+    "name": "Noakhali",
+    "type": "District",
+    "iso3166-2": "BD-47",
+    "iso-name": "Noakhali",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "48": {
+    "name": "Naogaon",
+    "type": "District",
+    "iso3166-2": "BD-48",
+    "iso-name": "Naogaon",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "49": {
+    "name": "Pabna",
+    "type": "District",
+    "iso3166-2": "BD-49",
+    "iso-name": "Pabna",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "50": {
+    "name": "Pirojpur",
+    "type": "District",
+    "iso3166-2": "BD-50",
+    "iso-name": "Pirojpur",
+    "iso-type": "District",
+    "parent-code": "A"
+  },
+  "51": {
+    "name": "Patuakhali",
+    "type": "District",
+    "iso3166-2": "BD-51",
+    "iso-name": "Patuakhali",
+    "iso-type": "District",
+    "parent-code": "A"
+  },
+  "52": {
+    "name": "Panchagarh",
+    "type": "District",
+    "iso3166-2": "BD-52",
+    "iso-name": "Panchagarh",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "53": {
+    "name": "Rajbari",
+    "type": "District",
+    "iso3166-2": "BD-53",
+    "iso-name": "Rajbari",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "54": {
+    "name": "Rajshahi",
+    "type": "District",
+    "iso3166-2": "BD-54",
+    "iso-name": "Rajshahi",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "55": {
+    "name": "Rangpur",
+    "type": "District",
+    "iso3166-2": "BD-55",
+    "iso-name": "Rangpur",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "56": {
+    "name": "Rangamati",
+    "type": "District",
+    "iso3166-2": "BD-56",
+    "iso-name": "Rangamati",
+    "iso-type": "District",
+    "parent-code": "B"
+  },
+  "57": {
+    "name": "Sherpur",
+    "type": "District",
+    "iso3166-2": "BD-57",
+    "iso-name": "Sherpur",
+    "iso-type": "District",
+    "parent-code": "H"
+  },
+  "58": {
+    "name": "Satkhira",
+    "type": "District",
+    "iso3166-2": "BD-58",
+    "iso-name": "Satkhira",
+    "iso-type": "District",
+    "parent-code": "D"
+  },
+  "59": {
+    "name": "Sirajganj",
+    "type": "District",
+    "iso3166-2": "BD-59",
+    "iso-name": "Sirajganj",
+    "iso-type": "District",
+    "parent-code": "E"
+  },
+  "60": {
+    "name": "Sylhet",
+    "type": "District",
+    "iso3166-2": "BD-60",
+    "iso-name": "Sylhet",
+    "iso-type": "District",
+    "parent-code": "G"
+  },
+  "61": {
+    "name": "Sunamganj",
+    "type": "District",
+    "iso3166-2": "BD-61",
+    "iso-name": "Sunamganj",
+    "iso-type": "District",
+    "parent-code": "G"
+  },
+  "62": {
+    "name": "Shariatpur",
+    "type": "District",
+    "iso3166-2": "BD-62",
+    "iso-name": "Shariatpur",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "63": {
+    "name": "Tangail",
+    "type": "District",
+    "iso3166-2": "BD-63",
+    "iso-name": "Tangail",
+    "iso-type": "District",
+    "parent-code": "C"
+  },
+  "64": {
+    "name": "Thakurgaon",
+    "type": "District",
+    "iso3166-2": "BD-64",
+    "iso-name": "Thakurgaon",
+    "iso-type": "District",
+    "parent-code": "F"
+  },
+  "A": {
+    "name": "Barishal",
+    "type": "Division",
+    "iso3166-2": "BD-A",
+    "iso-name": "Barishal",
+    "iso-type": "Division"
+  },
+  "B": {
+    "name": "Chattogram",
+    "type": "Division",
+    "iso3166-2": "BD-B",
+    "iso-name": "Chattogram",
+    "iso-type": "Division"
+  },
+  "C": {
+    "name": "Dhaka",
+    "type": "Division",
+    "iso3166-2": "BD-C",
+    "iso-name": "Dhaka",
+    "iso-type": "Division"
+  },
+  "D": {
+    "name": "Khulna",
+    "type": "Division",
+    "iso3166-2": "BD-D",
+    "iso-name": "Khulna",
+    "iso-type": "Division"
+  },
+  "E": {
+    "name": "Rajshahi",
+    "type": "Division",
+    "iso3166-2": "BD-E",
+    "iso-name": "Rajshahi",
+    "iso-type": "Division"
+  },
+  "F": {
+    "name": "Rangpur",
+    "type": "Division",
+    "iso3166-2": "BD-F",
+    "iso-name": "Rangpur",
+    "iso-type": "Division"
+  },
+  "G": {
+    "name": "Sylhet",
+    "type": "Division",
+    "iso3166-2": "BD-G",
+    "iso-name": "Sylhet",
+    "iso-type": "Division"
+  },
+  "H": {
+    "name": "Mymensingh",
+    "type": "Division",
+    "iso3166-2": "BD-H",
+    "iso-name": "Mymensingh",
+    "iso-type": "Division"
+  }
+}

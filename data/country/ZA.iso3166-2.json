@@ -1,0 +1,65 @@
+{
+  "EC": {
+    "name": "Eastern Cape",
+    "type": "Province",
+    "iso3166-2": "ZA-EC",
+    "iso-name": "Eastern Cape",
+    "iso-type": "Province"
+  },
+  "FS": {
+    "name": "Free State",
+    "type": "Province",
+    "iso3166-2": "ZA-FS",
+    "iso-name": "Free State",
+    "iso-type": "Province"
+  },
+  "GP": {
+    "name": "Gauteng",
+    "type": "Province",
+    "iso3166-2": "ZA-GP",
+    "iso-name": "Gauteng",
+    "iso-type": "Province"
+  },
+  "KZN": {
+    "name": "Kwazulu-Natal",
+    "type": "Province",
+    "iso3166-2": "ZA-KZN",
+    "iso-name": "Kwazulu-Natal",
+    "iso-type": "Province"
+  },
+  "LP": {
+    "name": "Limpopo",
+    "type": "Province",
+    "iso3166-2": "ZA-LP",
+    "iso-name": "Limpopo",
+    "iso-type": "Province"
+  },
+  "MP": {
+    "name": "Mpumalanga",
+    "type": "Province",
+    "iso3166-2": "ZA-MP",
+    "iso-name": "Mpumalanga",
+    "iso-type": "Province"
+  },
+  "NC": {
+    "name": "Northern Cape",
+    "type": "Province",
+    "iso3166-2": "ZA-NC",
+    "iso-name": "Northern Cape",
+    "iso-type": "Province"
+  },
+  "NW": {
+    "name": "North-West",
+    "type": "Province",
+    "iso3166-2": "ZA-NW",
+    "iso-name": "North-West",
+    "iso-type": "Province"
+  },
+  "WC": {
+    "name": "Western Cape",
+    "type": "Province",
+    "iso3166-2": "ZA-WC",
+    "iso-name": "Western Cape",
+    "iso-type": "Province"
+  }
+}

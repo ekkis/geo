@@ -1,0 +1,686 @@
+{
+  "01": {
+    "name": "Tanger-Tétouan-Al Hoceïma",
+    "type": "Region",
+    "iso3166-2": "MA-01",
+    "iso-name": "Tanger-Tétouan-Al Hoceïma",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "L'Oriental",
+    "type": "Region",
+    "iso3166-2": "MA-02",
+    "iso-name": "L'Oriental",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Fès-Meknès",
+    "type": "Region",
+    "iso3166-2": "MA-03",
+    "iso-name": "Fès-Meknès",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Rabat-Salé-Kénitra",
+    "type": "Region",
+    "iso3166-2": "MA-04",
+    "iso-name": "Rabat-Salé-Kénitra",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Béni Mellal-Khénifra",
+    "type": "Region",
+    "iso3166-2": "MA-05",
+    "iso-name": "Béni Mellal-Khénifra",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Casablanca-Settat",
+    "type": "Region",
+    "iso3166-2": "MA-06",
+    "iso-name": "Casablanca-Settat",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Marrakech-Safi",
+    "type": "Region",
+    "iso3166-2": "MA-07",
+    "iso-name": "Marrakech-Safi",
+    "iso-type": "Region"
+  },
+  "08": {
+    "name": "Drâa-Tafilalet",
+    "type": "Region",
+    "iso3166-2": "MA-08",
+    "iso-name": "Drâa-Tafilalet",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Souss-Massa",
+    "type": "Region",
+    "iso3166-2": "MA-09",
+    "iso-name": "Souss-Massa",
+    "iso-type": "Region"
+  },
+  "10": {
+    "name": "Guelmim-Oued Noun (EH-partial)",
+    "type": "Region",
+    "iso3166-2": "MA-10",
+    "iso-name": "Guelmim-Oued Noun (EH-partial)",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "type": "Region",
+    "iso3166-2": "MA-11",
+    "iso-name": "Laâyoune-Sakia El Hamra (EH-partial)",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Dakhla-Oued Ed-Dahab (EH)",
+    "type": "Region",
+    "iso3166-2": "MA-12",
+    "iso-name": "Dakhla-Oued Ed-Dahab (EH)",
+    "iso-type": "Region"
+  },
+  "AGD": {
+    "name": "Agadir-Ida-Ou-Tanane",
+    "type": "Prefecture",
+    "iso3166-2": "MA-AGD",
+    "iso-name": "Agadir-Ida-Ou-Tanane",
+    "iso-type": "Prefecture",
+    "parent-code": "09"
+  },
+  "AOU": {
+    "name": "Aousserd (EH)",
+    "type": "Province",
+    "iso3166-2": "MA-AOU",
+    "iso-name": "Aousserd (EH)",
+    "iso-type": "Province",
+    "parent-code": "12"
+  },
+  "ASZ": {
+    "name": "Assa-Zag (EH-partial)",
+    "type": "Province",
+    "iso3166-2": "MA-ASZ",
+    "iso-name": "Assa-Zag (EH-partial)",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "AZI": {
+    "name": "Azilal",
+    "type": "Province",
+    "iso3166-2": "MA-AZI",
+    "iso-name": "Azilal",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "BEM": {
+    "name": "Béni Mellal",
+    "type": "Province",
+    "iso3166-2": "MA-BEM",
+    "iso-name": "Béni Mellal",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "BER": {
+    "name": "Berkane",
+    "type": "Province",
+    "iso3166-2": "MA-BER",
+    "iso-name": "Berkane",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "BES": {
+    "name": "Benslimane",
+    "type": "Province",
+    "iso3166-2": "MA-BES",
+    "iso-name": "Benslimane",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "BOD": {
+    "name": "Boujdour (EH)",
+    "type": "Province",
+    "iso3166-2": "MA-BOD",
+    "iso-name": "Boujdour (EH)",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "BOM": {
+    "name": "Boulemane",
+    "type": "Province",
+    "iso3166-2": "MA-BOM",
+    "iso-name": "Boulemane",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "BRR": {
+    "name": "Berrechid",
+    "type": "Province",
+    "iso3166-2": "MA-BRR",
+    "iso-name": "Berrechid",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "CAS": {
+    "name": "Casablanca",
+    "type": "Prefecture",
+    "iso3166-2": "MA-CAS",
+    "iso-name": "Casablanca",
+    "iso-type": "Prefecture",
+    "parent-code": "06"
+  },
+  "CHE": {
+    "name": "Chefchaouen",
+    "type": "Province",
+    "iso3166-2": "MA-CHE",
+    "iso-name": "Chefchaouen",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "CHI": {
+    "name": "Chichaoua",
+    "type": "Province",
+    "iso3166-2": "MA-CHI",
+    "iso-name": "Chichaoua",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "CHT": {
+    "name": "Chtouka-Ait Baha",
+    "type": "Province",
+    "iso3166-2": "MA-CHT",
+    "iso-name": "Chtouka-Ait Baha",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "DRI": {
+    "name": "Driouch",
+    "type": "Province",
+    "iso3166-2": "MA-DRI",
+    "iso-name": "Driouch",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "ERR": {
+    "name": "Errachidia",
+    "type": "Province",
+    "iso3166-2": "MA-ERR",
+    "iso-name": "Errachidia",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "ESI": {
+    "name": "Essaouira",
+    "type": "Province",
+    "iso3166-2": "MA-ESI",
+    "iso-name": "Essaouira",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "ESM": {
+    "name": "Es-Semara (EH-partial)",
+    "type": "Province",
+    "iso3166-2": "MA-ESM",
+    "iso-name": "Es-Semara (EH-partial)",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "FAH": {
+    "name": "Fahs-Anjra",
+    "type": "Province",
+    "iso3166-2": "MA-FAH",
+    "iso-name": "Fahs-Anjra",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "FES": {
+    "name": "Fès",
+    "type": "Prefecture",
+    "iso3166-2": "MA-FES",
+    "iso-name": "Fès",
+    "iso-type": "Prefecture",
+    "parent-code": "03"
+  },
+  "FIG": {
+    "name": "Figuig",
+    "type": "Province",
+    "iso3166-2": "MA-FIG",
+    "iso-name": "Figuig",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "FQH": {
+    "name": "Fquih Ben Salah",
+    "type": "Province",
+    "iso3166-2": "MA-FQH",
+    "iso-name": "Fquih Ben Salah",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "GUE": {
+    "name": "Guelmim",
+    "type": "Province",
+    "iso3166-2": "MA-GUE",
+    "iso-name": "Guelmim",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "GUF": {
+    "name": "Guercif",
+    "type": "Province",
+    "iso3166-2": "MA-GUF",
+    "iso-name": "Guercif",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "HAJ": {
+    "name": "El Hajeb",
+    "type": "Province",
+    "iso3166-2": "MA-HAJ",
+    "iso-name": "El Hajeb",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "HAO": {
+    "name": "Al Haouz",
+    "type": "Province",
+    "iso3166-2": "MA-HAO",
+    "iso-name": "Al Haouz",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "HOC": {
+    "name": "Al Hoceïma",
+    "type": "Province",
+    "iso3166-2": "MA-HOC",
+    "iso-name": "Al Hoceïma",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "IFR": {
+    "name": "Ifrane",
+    "type": "Province",
+    "iso3166-2": "MA-IFR",
+    "iso-name": "Ifrane",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "INE": {
+    "name": "Inezgane-Ait Melloul",
+    "type": "Prefecture",
+    "iso3166-2": "MA-INE",
+    "iso-name": "Inezgane-Ait Melloul",
+    "iso-type": "Prefecture",
+    "parent-code": "09"
+  },
+  "JDI": {
+    "name": "El Jadida",
+    "type": "Province",
+    "iso3166-2": "MA-JDI",
+    "iso-name": "El Jadida",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "JRA": {
+    "name": "Jerada",
+    "type": "Province",
+    "iso3166-2": "MA-JRA",
+    "iso-name": "Jerada",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "KEN": {
+    "name": "Kénitra",
+    "type": "Province",
+    "iso3166-2": "MA-KEN",
+    "iso-name": "Kénitra",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "KES": {
+    "name": "El Kelâa des Sraghna",
+    "type": "Province",
+    "iso3166-2": "MA-KES",
+    "iso-name": "El Kelâa des Sraghna",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "KHE": {
+    "name": "Khémisset",
+    "type": "Province",
+    "iso3166-2": "MA-KHE",
+    "iso-name": "Khémisset",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "KHN": {
+    "name": "Khénifra",
+    "type": "Province",
+    "iso3166-2": "MA-KHN",
+    "iso-name": "Khénifra",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "KHO": {
+    "name": "Khouribga",
+    "type": "Province",
+    "iso3166-2": "MA-KHO",
+    "iso-name": "Khouribga",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "LAA": {
+    "name": "Laâyoune (EH)",
+    "type": "Province",
+    "iso3166-2": "MA-LAA",
+    "iso-name": "Laâyoune (EH)",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "LAR": {
+    "name": "Larache",
+    "type": "Province",
+    "iso3166-2": "MA-LAR",
+    "iso-name": "Larache",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "MAR": {
+    "name": "Marrakech",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MAR",
+    "iso-name": "Marrakech",
+    "iso-type": "Prefecture",
+    "parent-code": "07"
+  },
+  "MDF": {
+    "name": "M’diq-Fnideq",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MDF",
+    "iso-name": "M’diq-Fnideq",
+    "iso-type": "Prefecture",
+    "parent-code": "01"
+  },
+  "MED": {
+    "name": "Médiouna",
+    "type": "Province",
+    "iso3166-2": "MA-MED",
+    "iso-name": "Médiouna",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "MEK": {
+    "name": "Meknès",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MEK",
+    "iso-name": "Meknès",
+    "iso-type": "Prefecture",
+    "parent-code": "03"
+  },
+  "MID": {
+    "name": "Midelt",
+    "type": "Province",
+    "iso3166-2": "MA-MID",
+    "iso-name": "Midelt",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "MOH": {
+    "name": "Mohammadia",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MOH",
+    "iso-name": "Mohammadia",
+    "iso-type": "Prefecture",
+    "parent-code": "06"
+  },
+  "MOU": {
+    "name": "Moulay Yacoub",
+    "type": "Province",
+    "iso3166-2": "MA-MOU",
+    "iso-name": "Moulay Yacoub",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "NAD": {
+    "name": "Nador",
+    "type": "Province",
+    "iso3166-2": "MA-NAD",
+    "iso-name": "Nador",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "NOU": {
+    "name": "Nouaceur",
+    "type": "Province",
+    "iso3166-2": "MA-NOU",
+    "iso-name": "Nouaceur",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "OUA": {
+    "name": "Ouarzazate",
+    "type": "Province",
+    "iso3166-2": "MA-OUA",
+    "iso-name": "Ouarzazate",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "OUD": {
+    "name": "Oued Ed-Dahab (EH)",
+    "type": "Province",
+    "iso3166-2": "MA-OUD",
+    "iso-name": "Oued Ed-Dahab (EH)",
+    "iso-type": "Province",
+    "parent-code": "12"
+  },
+  "OUJ": {
+    "name": "Oujda-Angad",
+    "type": "Prefecture",
+    "iso3166-2": "MA-OUJ",
+    "iso-name": "Oujda-Angad",
+    "iso-type": "Prefecture",
+    "parent-code": "02"
+  },
+  "OUZ": {
+    "name": "Ouezzane",
+    "type": "Province",
+    "iso3166-2": "MA-OUZ",
+    "iso-name": "Ouezzane",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "RAB": {
+    "name": "Rabat",
+    "type": "Prefecture",
+    "iso3166-2": "MA-RAB",
+    "iso-name": "Rabat",
+    "iso-type": "Prefecture",
+    "parent-code": "04"
+  },
+  "REH": {
+    "name": "Rehamna",
+    "type": "Province",
+    "iso3166-2": "MA-REH",
+    "iso-name": "Rehamna",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "SAF": {
+    "name": "Safi",
+    "type": "Province",
+    "iso3166-2": "MA-SAF",
+    "iso-name": "Safi",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "SAL": {
+    "name": "Salé",
+    "type": "Prefecture",
+    "iso3166-2": "MA-SAL",
+    "iso-name": "Salé",
+    "iso-type": "Prefecture",
+    "parent-code": "04"
+  },
+  "SEF": {
+    "name": "Sefrou",
+    "type": "Province",
+    "iso3166-2": "MA-SEF",
+    "iso-name": "Sefrou",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "SET": {
+    "name": "Settat",
+    "type": "Province",
+    "iso3166-2": "MA-SET",
+    "iso-name": "Settat",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "SIB": {
+    "name": "Sidi Bennour",
+    "type": "Province",
+    "iso3166-2": "MA-SIB",
+    "iso-name": "Sidi Bennour",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "SIF": {
+    "name": "Sidi Ifni",
+    "type": "Province",
+    "iso3166-2": "MA-SIF",
+    "iso-name": "Sidi Ifni",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "SIK": {
+    "name": "Sidi Kacem",
+    "type": "Province",
+    "iso3166-2": "MA-SIK",
+    "iso-name": "Sidi Kacem",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "SIL": {
+    "name": "Sidi Slimane",
+    "type": "Province",
+    "iso3166-2": "MA-SIL",
+    "iso-name": "Sidi Slimane",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "SKH": {
+    "name": "Skhirate-Témara",
+    "type": "Prefecture",
+    "iso3166-2": "MA-SKH",
+    "iso-name": "Skhirate-Témara",
+    "iso-type": "Prefecture",
+    "parent-code": "04"
+  },
+  "TAF": {
+    "name": "Tarfaya (EH-partial)",
+    "type": "Province",
+    "iso3166-2": "MA-TAF",
+    "iso-name": "Tarfaya (EH-partial)",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "TAI": {
+    "name": "Taourirt",
+    "type": "Province",
+    "iso3166-2": "MA-TAI",
+    "iso-name": "Taourirt",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "TAO": {
+    "name": "Taounate",
+    "type": "Province",
+    "iso3166-2": "MA-TAO",
+    "iso-name": "Taounate",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "TAR": {
+    "name": "Taroudannt",
+    "type": "Province",
+    "iso3166-2": "MA-TAR",
+    "iso-name": "Taroudannt",
+    "iso-type": "Province",
+    "parent-code": "09"
+  },
+  "TAT": {
+    "name": "Tata",
+    "type": "Province",
+    "iso3166-2": "MA-TAT",
+    "iso-name": "Tata",
+    "iso-type": "Province",
+    "parent-code": "09"
+  },
+  "TAZ": {
+    "name": "Taza",
+    "type": "Province",
+    "iso3166-2": "MA-TAZ",
+    "iso-name": "Taza",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "TET": {
+    "name": "Tétouan",
+    "type": "Province",
+    "iso3166-2": "MA-TET",
+    "iso-name": "Tétouan",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "TIN": {
+    "name": "Tinghir",
+    "type": "Province",
+    "iso3166-2": "MA-TIN",
+    "iso-name": "Tinghir",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "TIZ": {
+    "name": "Tiznit",
+    "type": "Province",
+    "iso3166-2": "MA-TIZ",
+    "iso-name": "Tiznit",
+    "iso-type": "Province",
+    "parent-code": "09"
+  },
+  "TNG": {
+    "name": "Tanger-Assilah",
+    "type": "Prefecture",
+    "iso3166-2": "MA-TNG",
+    "iso-name": "Tanger-Assilah",
+    "iso-type": "Prefecture",
+    "parent-code": "01"
+  },
+  "TNT": {
+    "name": "Tan-Tan (EH-partial)",
+    "type": "Province",
+    "iso3166-2": "MA-TNT",
+    "iso-name": "Tan-Tan (EH-partial)",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "YUS": {
+    "name": "Youssoufia",
+    "type": "Province",
+    "iso3166-2": "MA-YUS",
+    "iso-name": "Youssoufia",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "ZAG": {
+    "name": "Zagora",
+    "type": "Province",
+    "iso3166-2": "MA-ZAG",
+    "iso-name": "Zagora",
+    "iso-type": "Province",
+    "parent-code": "08"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "AK": {
+    "name": "Alaska",
+    "type": "State",
+    "iso3166-2": "US-AK",
+    "iso-name": "Alaska",
+    "iso-type": "State"
+  },
+  "AL": {
+    "name": "Alabama",
+    "type": "State",
+    "iso3166-2": "US-AL",
+    "iso-name": "Alabama",
+    "iso-type": "State"
+  },
+  "AR": {
+    "name": "Arkansas",
+    "type": "State",
+    "iso3166-2": "US-AR",
+    "iso-name": "Arkansas",
+    "iso-type": "State"
+  },
+  "AS": {
+    "name": "American Samoa",
+    "type": "Outlying area",
+    "iso3166-2": "US-AS",
+    "iso-name": "American Samoa",
+    "iso-type": "Outlying area"
+  },
+  "AZ": {
+    "name": "Arizona",
+    "type": "State",
+    "iso3166-2": "US-AZ",
+    "iso-name": "Arizona",
+    "iso-type": "State"
+  },
+  "CA": {
+    "name": "California",
+    "type": "State",
+    "iso3166-2": "US-CA",
+    "iso-name": "California",
+    "iso-type": "State"
+  },
+  "CO": {
+    "name": "Colorado",
+    "type": "State",
+    "iso3166-2": "US-CO",
+    "iso-name": "Colorado",
+    "iso-type": "State"
+  },
+  "CT": {
+    "name": "Connecticut",
+    "type": "State",
+    "iso3166-2": "US-CT",
+    "iso-name": "Connecticut",
+    "iso-type": "State"
+  },
+  "DC": {
+    "name": "District of Columbia",
+    "type": "District",
+    "iso3166-2": "US-DC",
+    "iso-name": "District of Columbia",
+    "iso-type": "District"
+  },
+  "DE": {
+    "name": "Delaware",
+    "type": "State",
+    "iso3166-2": "US-DE",
+    "iso-name": "Delaware",
+    "iso-type": "State"
+  },
+  "FL": {
+    "name": "Florida",
+    "type": "State",
+    "iso3166-2": "US-FL",
+    "iso-name": "Florida",
+    "iso-type": "State"
+  },
+  "GA": {
+    "name": "Georgia",
+    "type": "State",
+    "iso3166-2": "US-GA",
+    "iso-name": "Georgia",
+    "iso-type": "State"
+  },
+  "GU": {
+    "name": "Guam",
+    "type": "Outlying area",
+    "iso3166-2": "US-GU",
+    "iso-name": "Guam",
+    "iso-type": "Outlying area"
+  },
+  "HI": {
+    "name": "Hawaii",
+    "type": "State",
+    "iso3166-2": "US-HI",
+    "iso-name": "Hawaii",
+    "iso-type": "State"
+  },
+  "IA": {
+    "name": "Iowa",
+    "type": "State",
+    "iso3166-2": "US-IA",
+    "iso-name": "Iowa",
+    "iso-type": "State"
+  },
+  "ID": {
+    "name": "Idaho",
+    "type": "State",
+    "iso3166-2": "US-ID",
+    "iso-name": "Idaho",
+    "iso-type": "State"
+  },
+  "IL": {
+    "name": "Illinois",
+    "type": "State",
+    "iso3166-2": "US-IL",
+    "iso-name": "Illinois",
+    "iso-type": "State"
+  },
+  "IN": {
+    "name": "Indiana",
+    "type": "State",
+    "iso3166-2": "US-IN",
+    "iso-name": "Indiana",
+    "iso-type": "State"
+  },
+  "KS": {
+    "name": "Kansas",
+    "type": "State",
+    "iso3166-2": "US-KS",
+    "iso-name": "Kansas",
+    "iso-type": "State"
+  },
+  "KY": {
+    "name": "Kentucky",
+    "type": "State",
+    "iso3166-2": "US-KY",
+    "iso-name": "Kentucky",
+    "iso-type": "State"
+  },
+  "LA": {
+    "name": "Louisiana",
+    "type": "State",
+    "iso3166-2": "US-LA",
+    "iso-name": "Louisiana",
+    "iso-type": "State"
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "type": "State",
+    "iso3166-2": "US-MA",
+    "iso-name": "Massachusetts",
+    "iso-type": "State"
+  },
+  "MD": {
+    "name": "Maryland",
+    "type": "State",
+    "iso3166-2": "US-MD",
+    "iso-name": "Maryland",
+    "iso-type": "State"
+  },
+  "ME": {
+    "name": "Maine",
+    "type": "State",
+    "iso3166-2": "US-ME",
+    "iso-name": "Maine",
+    "iso-type": "State"
+  },
+  "MI": {
+    "name": "Michigan",
+    "type": "State",
+    "iso3166-2": "US-MI",
+    "iso-name": "Michigan",
+    "iso-type": "State"
+  },
+  "MN": {
+    "name": "Minnesota",
+    "type": "State",
+    "iso3166-2": "US-MN",
+    "iso-name": "Minnesota",
+    "iso-type": "State"
+  },
+  "MO": {
+    "name": "Missouri",
+    "type": "State",
+    "iso3166-2": "US-MO",
+    "iso-name": "Missouri",
+    "iso-type": "State"
+  },
+  "MP": {
+    "name": "Northern Mariana Islands",
+    "type": "Outlying area",
+    "iso3166-2": "US-MP",
+    "iso-name": "Northern Mariana Islands",
+    "iso-type": "Outlying area"
+  },
+  "MS": {
+    "name": "Mississippi",
+    "type": "State",
+    "iso3166-2": "US-MS",
+    "iso-name": "Mississippi",
+    "iso-type": "State"
+  },
+  "MT": {
+    "name": "Montana",
+    "type": "State",
+    "iso3166-2": "US-MT",
+    "iso-name": "Montana",
+    "iso-type": "State"
+  },
+  "NC": {
+    "name": "North Carolina",
+    "type": "State",
+    "iso3166-2": "US-NC",
+    "iso-name": "North Carolina",
+    "iso-type": "State"
+  },
+  "ND": {
+    "name": "North Dakota",
+    "type": "State",
+    "iso3166-2": "US-ND",
+    "iso-name": "North Dakota",
+    "iso-type": "State"
+  },
+  "NE": {
+    "name": "Nebraska",
+    "type": "State",
+    "iso3166-2": "US-NE",
+    "iso-name": "Nebraska",
+    "iso-type": "State"
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "type": "State",
+    "iso3166-2": "US-NH",
+    "iso-name": "New Hampshire",
+    "iso-type": "State"
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "type": "State",
+    "iso3166-2": "US-NJ",
+    "iso-name": "New Jersey",
+    "iso-type": "State"
+  },
+  "NM": {
+    "name": "New Mexico",
+    "type": "State",
+    "iso3166-2": "US-NM",
+    "iso-name": "New Mexico",
+    "iso-type": "State"
+  },
+  "NV": {
+    "name": "Nevada",
+    "type": "State",
+    "iso3166-2": "US-NV",
+    "iso-name": "Nevada",
+    "iso-type": "State"
+  },
+  "NY": {
+    "name": "New York",
+    "type": "State",
+    "iso3166-2": "US-NY",
+    "iso-name": "New York",
+    "iso-type": "State"
+  },
+  "OH": {
+    "name": "Ohio",
+    "type": "State",
+    "iso3166-2": "US-OH",
+    "iso-name": "Ohio",
+    "iso-type": "State"
+  },
+  "OK": {
+    "name": "Oklahoma",
+    "type": "State",
+    "iso3166-2": "US-OK",
+    "iso-name": "Oklahoma",
+    "iso-type": "State"
+  },
+  "OR": {
+    "name": "Oregon",
+    "type": "State",
+    "iso3166-2": "US-OR",
+    "iso-name": "Oregon",
+    "iso-type": "State"
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "type": "State",
+    "iso3166-2": "US-PA",
+    "iso-name": "Pennsylvania",
+    "iso-type": "State"
+  },
+  "PR": {
+    "name": "Puerto Rico",
+    "type": "Outlying area",
+    "iso3166-2": "US-PR",
+    "iso-name": "Puerto Rico",
+    "iso-type": "Outlying area"
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "type": "State",
+    "iso3166-2": "US-RI",
+    "iso-name": "Rhode Island",
+    "iso-type": "State"
+  },
+  "SC": {
+    "name": "South Carolina",
+    "type": "State",
+    "iso3166-2": "US-SC",
+    "iso-name": "South Carolina",
+    "iso-type": "State"
+  },
+  "SD": {
+    "name": "South Dakota",
+    "type": "State",
+    "iso3166-2": "US-SD",
+    "iso-name": "South Dakota",
+    "iso-type": "State"
+  },
+  "TN": {
+    "name": "Tennessee",
+    "type": "State",
+    "iso3166-2": "US-TN",
+    "iso-name": "Tennessee",
+    "iso-type": "State"
+  },
+  "TX": {
+    "name": "Texas",
+    "type": "State",
+    "iso3166-2": "US-TX",
+    "iso-name": "Texas",
+    "iso-type": "State"
+  },
+  "UM": {
+    "name": "United States Minor Outlying Islands",
+    "type": "Outlying area",
+    "iso3166-2": "US-UM",
+    "iso-name": "United States Minor Outlying Islands",
+    "iso-type": "Outlying area"
+  },
+  "UT": {
+    "name": "Utah",
+    "type": "State",
+    "iso3166-2": "US-UT",
+    "iso-name": "Utah",
+    "iso-type": "State"
+  },
+  "VA": {
+    "name": "Virginia",
+    "type": "State",
+    "iso3166-2": "US-VA",
+    "iso-name": "Virginia",
+    "iso-type": "State"
+  },
+  "VI": {
+    "name": "Virgin Islands, U.S.",
+    "type": "Outlying area",
+    "iso3166-2": "US-VI",
+    "iso-name": "Virgin Islands, U.S.",
+    "iso-type": "Outlying area"
+  },
+  "VT": {
+    "name": "Vermont",
+    "type": "State",
+    "iso3166-2": "US-VT",
+    "iso-name": "Vermont",
+    "iso-type": "State"
+  },
+  "WA": {
+    "name": "Washington",
+    "type": "State",
+    "iso3166-2": "US-WA",
+    "iso-name": "Washington",
+    "iso-type": "State"
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "type": "State",
+    "iso3166-2": "US-WI",
+    "iso-name": "Wisconsin",
+    "iso-type": "State"
+  },
+  "WV": {
+    "name": "West Virginia",
+    "type": "State",
+    "iso3166-2": "US-WV",
+    "iso-name": "West Virginia",
+    "iso-type": "State"
+  },
+  "WY": {
+    "name": "Wyoming",
+    "type": "State",
+    "iso3166-2": "US-WY",
+    "iso-name": "Wyoming",
+    "iso-type": "State"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "B": {
+    "name": "Banjul",
+    "type": "City",
+    "iso3166-2": "GM-B",
+    "iso-name": "Banjul",
+    "iso-type": "City"
+  },
+  "L": {
+    "name": "Lower River",
+    "type": "Division",
+    "iso3166-2": "GM-L",
+    "iso-name": "Lower River",
+    "iso-type": "Division"
+  },
+  "M": {
+    "name": "Central River",
+    "type": "Division",
+    "iso3166-2": "GM-M",
+    "iso-name": "Central River",
+    "iso-type": "Division"
+  },
+  "N": {
+    "name": "North Bank",
+    "type": "Division",
+    "iso3166-2": "GM-N",
+    "iso-name": "North Bank",
+    "iso-type": "Division"
+  },
+  "U": {
+    "name": "Upper River",
+    "type": "Division",
+    "iso3166-2": "GM-U",
+    "iso-name": "Upper River",
+    "iso-type": "Division"
+  },
+  "W": {
+    "name": "Western",
+    "type": "Division",
+    "iso3166-2": "GM-W",
+    "iso-name": "Western",
+    "iso-type": "Division"
+  }
+}

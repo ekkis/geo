@@ -1,0 +1,86 @@
+{
+  "AJ": {
+    "name": "‘Ajlūn",
+    "type": "Governorate",
+    "iso3166-2": "JO-AJ",
+    "iso-name": "‘Ajlūn",
+    "iso-type": "Governorate"
+  },
+  "AM": {
+    "name": "Al ‘A̅şimah",
+    "type": "Governorate",
+    "iso3166-2": "JO-AM",
+    "iso-name": "Al ‘A̅şimah",
+    "iso-type": "Governorate"
+  },
+  "AQ": {
+    "name": "Al ‘Aqabah",
+    "type": "Governorate",
+    "iso3166-2": "JO-AQ",
+    "iso-name": "Al ‘Aqabah",
+    "iso-type": "Governorate"
+  },
+  "AT": {
+    "name": "Aţ Ţafīlah",
+    "type": "Governorate",
+    "iso3166-2": "JO-AT",
+    "iso-name": "Aţ Ţafīlah",
+    "iso-type": "Governorate"
+  },
+  "AZ": {
+    "name": "Az Zarqā’",
+    "type": "Governorate",
+    "iso3166-2": "JO-AZ",
+    "iso-name": "Az Zarqā’",
+    "iso-type": "Governorate"
+  },
+  "BA": {
+    "name": "Al Balqā’",
+    "type": "Governorate",
+    "iso3166-2": "JO-BA",
+    "iso-name": "Al Balqā’",
+    "iso-type": "Governorate"
+  },
+  "IR": {
+    "name": "Irbid",
+    "type": "Governorate",
+    "iso3166-2": "JO-IR",
+    "iso-name": "Irbid",
+    "iso-type": "Governorate"
+  },
+  "JA": {
+    "name": "Jarash",
+    "type": "Governorate",
+    "iso3166-2": "JO-JA",
+    "iso-name": "Jarash",
+    "iso-type": "Governorate"
+  },
+  "KA": {
+    "name": "Al Karak",
+    "type": "Governorate",
+    "iso3166-2": "JO-KA",
+    "iso-name": "Al Karak",
+    "iso-type": "Governorate"
+  },
+  "MA": {
+    "name": "Al Mafraq",
+    "type": "Governorate",
+    "iso3166-2": "JO-MA",
+    "iso-name": "Al Mafraq",
+    "iso-type": "Governorate"
+  },
+  "MD": {
+    "name": "Mādabā",
+    "type": "Governorate",
+    "iso3166-2": "JO-MD",
+    "iso-name": "Mādabā",
+    "iso-type": "Governorate"
+  },
+  "MN": {
+    "name": "Ma‘ān",
+    "type": "Governorate",
+    "iso3166-2": "JO-MN",
+    "iso-name": "Ma‘ān",
+    "iso-type": "Governorate"
+  }
+}

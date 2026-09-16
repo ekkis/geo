@@ -1,0 +1,107 @@
+{
+  "01": {
+    "name": "Sagaing",
+    "type": "Region",
+    "iso3166-2": "MM-01",
+    "iso-name": "Sagaing",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "Bago",
+    "type": "Region",
+    "iso3166-2": "MM-02",
+    "iso-name": "Bago",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Magway",
+    "type": "Region",
+    "iso3166-2": "MM-03",
+    "iso-name": "Magway",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Mandalay",
+    "type": "Region",
+    "iso3166-2": "MM-04",
+    "iso-name": "Mandalay",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Tanintharyi",
+    "type": "Region",
+    "iso3166-2": "MM-05",
+    "iso-name": "Tanintharyi",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Yangon",
+    "type": "Region",
+    "iso3166-2": "MM-06",
+    "iso-name": "Yangon",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Ayeyarwady",
+    "type": "Region",
+    "iso3166-2": "MM-07",
+    "iso-name": "Ayeyarwady",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Kachin",
+    "type": "State",
+    "iso3166-2": "MM-11",
+    "iso-name": "Kachin",
+    "iso-type": "State"
+  },
+  "12": {
+    "name": "Kayah",
+    "type": "State",
+    "iso3166-2": "MM-12",
+    "iso-name": "Kayah",
+    "iso-type": "State"
+  },
+  "13": {
+    "name": "Kayin",
+    "type": "State",
+    "iso3166-2": "MM-13",
+    "iso-name": "Kayin",
+    "iso-type": "State"
+  },
+  "14": {
+    "name": "Chin",
+    "type": "State",
+    "iso3166-2": "MM-14",
+    "iso-name": "Chin",
+    "iso-type": "State"
+  },
+  "15": {
+    "name": "Mon",
+    "type": "State",
+    "iso3166-2": "MM-15",
+    "iso-name": "Mon",
+    "iso-type": "State"
+  },
+  "16": {
+    "name": "Rakhine",
+    "type": "State",
+    "iso3166-2": "MM-16",
+    "iso-name": "Rakhine",
+    "iso-type": "State"
+  },
+  "17": {
+    "name": "Shan",
+    "type": "State",
+    "iso3166-2": "MM-17",
+    "iso-name": "Shan",
+    "iso-type": "State"
+  },
+  "18": {
+    "name": "Nay Pyi Taw",
+    "type": "Union territory",
+    "iso3166-2": "MM-18",
+    "iso-name": "Nay Pyi Taw",
+    "iso-type": "Union territory"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "02": {
+    "name": "Canillo",
+    "type": "Parish",
+    "iso3166-2": "AD-02",
+    "iso-name": "Canillo",
+    "iso-type": "Parish"
+  },
+  "03": {
+    "name": "Encamp",
+    "type": "Parish",
+    "iso3166-2": "AD-03",
+    "iso-name": "Encamp",
+    "iso-type": "Parish"
+  },
+  "04": {
+    "name": "La Massana",
+    "type": "Parish",
+    "iso3166-2": "AD-04",
+    "iso-name": "La Massana",
+    "iso-type": "Parish"
+  },
+  "05": {
+    "name": "Ordino",
+    "type": "Parish",
+    "iso3166-2": "AD-05",
+    "iso-name": "Ordino",
+    "iso-type": "Parish"
+  },
+  "06": {
+    "name": "Sant Julià de Lòria",
+    "type": "Parish",
+    "iso3166-2": "AD-06",
+    "iso-name": "Sant Julià de Lòria",
+    "iso-type": "Parish"
+  },
+  "07": {
+    "name": "Andorra la Vella",
+    "type": "Parish",
+    "iso3166-2": "AD-07",
+    "iso-name": "Andorra la Vella",
+    "iso-type": "Parish"
+  },
+  "08": {
+    "name": "Escaldes-Engordany",
+    "type": "Parish",
+    "iso3166-2": "AD-08",
+    "iso-name": "Escaldes-Engordany",
+    "iso-type": "Parish"
+  }
+}

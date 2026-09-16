@@ -1,0 +1,86 @@
+{
+  "01": {
+    "name": "Berat",
+    "type": "County",
+    "iso3166-2": "AL-01",
+    "iso-name": "Berat",
+    "iso-type": "County"
+  },
+  "02": {
+    "name": "Durrës",
+    "type": "County",
+    "iso3166-2": "AL-02",
+    "iso-name": "Durrës",
+    "iso-type": "County"
+  },
+  "03": {
+    "name": "Elbasan",
+    "type": "County",
+    "iso3166-2": "AL-03",
+    "iso-name": "Elbasan",
+    "iso-type": "County"
+  },
+  "04": {
+    "name": "Fier",
+    "type": "County",
+    "iso3166-2": "AL-04",
+    "iso-name": "Fier",
+    "iso-type": "County"
+  },
+  "05": {
+    "name": "Gjirokastër",
+    "type": "County",
+    "iso3166-2": "AL-05",
+    "iso-name": "Gjirokastër",
+    "iso-type": "County"
+  },
+  "06": {
+    "name": "Korçë",
+    "type": "County",
+    "iso3166-2": "AL-06",
+    "iso-name": "Korçë",
+    "iso-type": "County"
+  },
+  "07": {
+    "name": "Kukës",
+    "type": "County",
+    "iso3166-2": "AL-07",
+    "iso-name": "Kukës",
+    "iso-type": "County"
+  },
+  "08": {
+    "name": "Lezhë",
+    "type": "County",
+    "iso3166-2": "AL-08",
+    "iso-name": "Lezhë",
+    "iso-type": "County"
+  },
+  "09": {
+    "name": "Dibër",
+    "type": "County",
+    "iso3166-2": "AL-09",
+    "iso-name": "Dibër",
+    "iso-type": "County"
+  },
+  "10": {
+    "name": "Shkodër",
+    "type": "County",
+    "iso3166-2": "AL-10",
+    "iso-name": "Shkodër",
+    "iso-type": "County"
+  },
+  "11": {
+    "name": "Tiranë",
+    "type": "County",
+    "iso3166-2": "AL-11",
+    "iso-name": "Tiranë",
+    "iso-type": "County"
+  },
+  "12": {
+    "name": "Vlorë",
+    "type": "County",
+    "iso3166-2": "AL-12",
+    "iso-name": "Vlorë",
+    "iso-type": "County"
+  }
+}

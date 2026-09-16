@@ -1,0 +1,114 @@
+{
+  "BB": {
+    "name": "Brandenburg",
+    "type": "Land",
+    "iso3166-2": "DE-BB",
+    "iso-name": "Brandenburg",
+    "iso-type": "Land"
+  },
+  "BE": {
+    "name": "Berlin",
+    "type": "Land",
+    "iso3166-2": "DE-BE",
+    "iso-name": "Berlin",
+    "iso-type": "Land"
+  },
+  "BW": {
+    "name": "Baden-Württemberg",
+    "type": "Land",
+    "iso3166-2": "DE-BW",
+    "iso-name": "Baden-Württemberg",
+    "iso-type": "Land"
+  },
+  "BY": {
+    "name": "Bayern",
+    "type": "Land",
+    "iso3166-2": "DE-BY",
+    "iso-name": "Bayern",
+    "iso-type": "Land"
+  },
+  "HB": {
+    "name": "Bremen",
+    "type": "Land",
+    "iso3166-2": "DE-HB",
+    "iso-name": "Bremen",
+    "iso-type": "Land"
+  },
+  "HE": {
+    "name": "Hessen",
+    "type": "Land",
+    "iso3166-2": "DE-HE",
+    "iso-name": "Hessen",
+    "iso-type": "Land"
+  },
+  "HH": {
+    "name": "Hamburg",
+    "type": "Land",
+    "iso3166-2": "DE-HH",
+    "iso-name": "Hamburg",
+    "iso-type": "Land"
+  },
+  "MV": {
+    "name": "Mecklenburg-Vorpommern",
+    "type": "Land",
+    "iso3166-2": "DE-MV",
+    "iso-name": "Mecklenburg-Vorpommern",
+    "iso-type": "Land"
+  },
+  "NI": {
+    "name": "Niedersachsen",
+    "type": "Land",
+    "iso3166-2": "DE-NI",
+    "iso-name": "Niedersachsen",
+    "iso-type": "Land"
+  },
+  "NW": {
+    "name": "Nordrhein-Westfalen",
+    "type": "Land",
+    "iso3166-2": "DE-NW",
+    "iso-name": "Nordrhein-Westfalen",
+    "iso-type": "Land"
+  },
+  "RP": {
+    "name": "Rheinland-Pfalz",
+    "type": "Land",
+    "iso3166-2": "DE-RP",
+    "iso-name": "Rheinland-Pfalz",
+    "iso-type": "Land"
+  },
+  "SH": {
+    "name": "Schleswig-Holstein",
+    "type": "Land",
+    "iso3166-2": "DE-SH",
+    "iso-name": "Schleswig-Holstein",
+    "iso-type": "Land"
+  },
+  "SL": {
+    "name": "Saarland",
+    "type": "Land",
+    "iso3166-2": "DE-SL",
+    "iso-name": "Saarland",
+    "iso-type": "Land"
+  },
+  "SN": {
+    "name": "Sachsen",
+    "type": "Land",
+    "iso3166-2": "DE-SN",
+    "iso-name": "Sachsen",
+    "iso-type": "Land"
+  },
+  "ST": {
+    "name": "Sachsen-Anhalt",
+    "type": "Land",
+    "iso3166-2": "DE-ST",
+    "iso-name": "Sachsen-Anhalt",
+    "iso-type": "Land"
+  },
+  "TH": {
+    "name": "Thüringen",
+    "type": "Land",
+    "iso3166-2": "DE-TH",
+    "iso-name": "Thüringen",
+    "iso-type": "Land"
+  }
+}

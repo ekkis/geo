@@ -1,0 +1,72 @@
+{
+  "01": {
+    "name": "Anse la Raye",
+    "type": "District",
+    "iso3166-2": "LC-01",
+    "iso-name": "Anse la Raye",
+    "iso-type": "District"
+  },
+  "02": {
+    "name": "Castries",
+    "type": "District",
+    "iso3166-2": "LC-02",
+    "iso-name": "Castries",
+    "iso-type": "District"
+  },
+  "03": {
+    "name": "Choiseul",
+    "type": "District",
+    "iso3166-2": "LC-03",
+    "iso-name": "Choiseul",
+    "iso-type": "District"
+  },
+  "05": {
+    "name": "Dennery",
+    "type": "District",
+    "iso3166-2": "LC-05",
+    "iso-name": "Dennery",
+    "iso-type": "District"
+  },
+  "06": {
+    "name": "Gros Islet",
+    "type": "District",
+    "iso3166-2": "LC-06",
+    "iso-name": "Gros Islet",
+    "iso-type": "District"
+  },
+  "07": {
+    "name": "Laborie",
+    "type": "District",
+    "iso3166-2": "LC-07",
+    "iso-name": "Laborie",
+    "iso-type": "District"
+  },
+  "08": {
+    "name": "Micoud",
+    "type": "District",
+    "iso3166-2": "LC-08",
+    "iso-name": "Micoud",
+    "iso-type": "District"
+  },
+  "10": {
+    "name": "Soufrière",
+    "type": "District",
+    "iso3166-2": "LC-10",
+    "iso-name": "Soufrière",
+    "iso-type": "District"
+  },
+  "11": {
+    "name": "Vieux Fort",
+    "type": "District",
+    "iso3166-2": "LC-11",
+    "iso-name": "Vieux Fort",
+    "iso-type": "District"
+  },
+  "12": {
+    "name": "Canaries",
+    "type": "District",
+    "iso3166-2": "LC-12",
+    "iso-name": "Canaries",
+    "iso-type": "District"
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "01": {
+    "name": "Boucle du Mouhoun",
+    "type": "Region",
+    "iso3166-2": "BF-01",
+    "iso-name": "Boucle du Mouhoun",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "Cascades",
+    "type": "Region",
+    "iso3166-2": "BF-02",
+    "iso-name": "Cascades",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Centre",
+    "type": "Region",
+    "iso3166-2": "BF-03",
+    "iso-name": "Centre",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Centre-Est",
+    "type": "Region",
+    "iso3166-2": "BF-04",
+    "iso-name": "Centre-Est",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Centre-Nord",
+    "type": "Region",
+    "iso3166-2": "BF-05",
+    "iso-name": "Centre-Nord",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Centre-Ouest",
+    "type": "Region",
+    "iso3166-2": "BF-06",
+    "iso-name": "Centre-Ouest",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Centre-Sud",
+    "type": "Region",
+    "iso3166-2": "BF-07",
+    "iso-name": "Centre-Sud",
+    "iso-type": "Region"
+  },
+  "08": {
+    "name": "Est",
+    "type": "Region",
+    "iso3166-2": "BF-08",
+    "iso-name": "Est",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Hauts-Bassins",
+    "type": "Region",
+    "iso3166-2": "BF-09",
+    "iso-name": "Hauts-Bassins",
+    "iso-type": "Region"
+  },
+  "10": {
+    "name": "Nord",
+    "type": "Region",
+    "iso3166-2": "BF-10",
+    "iso-name": "Nord",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Plateau-Central",
+    "type": "Region",
+    "iso3166-2": "BF-11",
+    "iso-name": "Plateau-Central",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Sahel",
+    "type": "Region",
+    "iso3166-2": "BF-12",
+    "iso-name": "Sahel",
+    "iso-type": "Region"
+  },
+  "13": {
+    "name": "Sud-Ouest",
+    "type": "Region",
+    "iso3166-2": "BF-13",
+    "iso-name": "Sud-Ouest",
+    "iso-type": "Region"
+  },
+  "BAL": {
+    "name": "Balé",
+    "type": "Province",
+    "iso3166-2": "BF-BAL",
+    "iso-name": "Balé",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "BAM": {
+    "name": "Bam",
+    "type": "Province",
+    "iso3166-2": "BF-BAM",
+    "iso-name": "Bam",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "BAN": {
+    "name": "Banwa",
+    "type": "Province",
+    "iso3166-2": "BF-BAN",
+    "iso-name": "Banwa",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "BAZ": {
+    "name": "Bazèga",
+    "type": "Province",
+    "iso3166-2": "BF-BAZ",
+    "iso-name": "Bazèga",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "BGR": {
+    "name": "Bougouriba",
+    "type": "Province",
+    "iso3166-2": "BF-BGR",
+    "iso-name": "Bougouriba",
+    "iso-type": "Province",
+    "parent-code": "13"
+  },
+  "BLG": {
+    "name": "Boulgou",
+    "type": "Province",
+    "iso3166-2": "BF-BLG",
+    "iso-name": "Boulgou",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "BLK": {
+    "name": "Boulkiemdé",
+    "type": "Province",
+    "iso3166-2": "BF-BLK",
+    "iso-name": "Boulkiemdé",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "COM": {
+    "name": "Comoé",
+    "type": "Province",
+    "iso3166-2": "BF-COM",
+    "iso-name": "Comoé",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "GAN": {
+    "name": "Ganzourgou",
+    "type": "Province",
+    "iso3166-2": "BF-GAN",
+    "iso-name": "Ganzourgou",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "GNA": {
+    "name": "Gnagna",
+    "type": "Province",
+    "iso3166-2": "BF-GNA",
+    "iso-name": "Gnagna",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "GOU": {
+    "name": "Gourma",
+    "type": "Province",
+    "iso3166-2": "BF-GOU",
+    "iso-name": "Gourma",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "HOU": {
+    "name": "Houet",
+    "type": "Province",
+    "iso3166-2": "BF-HOU",
+    "iso-name": "Houet",
+    "iso-type": "Province",
+    "parent-code": "09"
+  },
+  "IOB": {
+    "name": "Ioba",
+    "type": "Province",
+    "iso3166-2": "BF-IOB",
+    "iso-name": "Ioba",
+    "iso-type": "Province",
+    "parent-code": "13"
+  },
+  "KAD": {
+    "name": "Kadiogo",
+    "type": "Province",
+    "iso3166-2": "BF-KAD",
+    "iso-name": "Kadiogo",
+    "iso-type": "Province",
+    "parent-code": "03"
+  },
+  "KEN": {
+    "name": "Kénédougou",
+    "type": "Province",
+    "iso3166-2": "BF-KEN",
+    "iso-name": "Kénédougou",
+    "iso-type": "Province",
+    "parent-code": "09"
+  },
+  "KMD": {
+    "name": "Komondjari",
+    "type": "Province",
+    "iso3166-2": "BF-KMD",
+    "iso-name": "Komondjari",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "KMP": {
+    "name": "Kompienga",
+    "type": "Province",
+    "iso3166-2": "BF-KMP",
+    "iso-name": "Kompienga",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "KOP": {
+    "name": "Koulpélogo",
+    "type": "Province",
+    "iso3166-2": "BF-KOP",
+    "iso-name": "Koulpélogo",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "KOS": {
+    "name": "Kossi",
+    "type": "Province",
+    "iso3166-2": "BF-KOS",
+    "iso-name": "Kossi",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "KOT": {
+    "name": "Kouritenga",
+    "type": "Province",
+    "iso3166-2": "BF-KOT",
+    "iso-name": "Kouritenga",
+    "iso-type": "Province",
+    "parent-code": "04"
+  },
+  "KOW": {
+    "name": "Kourwéogo",
+    "type": "Province",
+    "iso3166-2": "BF-KOW",
+    "iso-name": "Kourwéogo",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "LER": {
+    "name": "Léraba",
+    "type": "Province",
+    "iso3166-2": "BF-LER",
+    "iso-name": "Léraba",
+    "iso-type": "Province",
+    "parent-code": "02"
+  },
+  "LOR": {
+    "name": "Loroum",
+    "type": "Province",
+    "iso3166-2": "BF-LOR",
+    "iso-name": "Loroum",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "MOU": {
+    "name": "Mouhoun",
+    "type": "Province",
+    "iso3166-2": "BF-MOU",
+    "iso-name": "Mouhoun",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "NAM": {
+    "name": "Namentenga",
+    "type": "Province",
+    "iso3166-2": "BF-NAM",
+    "iso-name": "Namentenga",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "NAO": {
+    "name": "Nahouri",
+    "type": "Province",
+    "iso3166-2": "BF-NAO",
+    "iso-name": "Nahouri",
+    "iso-type": "Province",
+    "parent-code": "07"
+  },
+  "NAY": {
+    "name": "Nayala",
+    "type": "Province",
+    "iso3166-2": "BF-NAY",
+    "iso-name": "Nayala",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "NOU": {
+    "name": "Noumbiel",
+    "type": "Province",
+    "iso3166-2": "BF-NOU",
+    "iso-name": "Noumbiel",
+    "iso-type": "Province",
+    "parent-code": "13"
+  },
+  "OUB": {
+    "name": "Oubritenga",
+    "type": "Province",
+    "iso3166-2": "BF-OUB",
+    "iso-name": "Oubritenga",
+    "iso-type": "Province",
+    "parent-code": "11"
+  },
+  "OUD": {
+    "name": "Oudalan",
+    "type": "Province",
+    "iso3166-2": "BF-OUD",
+    "iso-name": "Oudalan",
+    "iso-type": "Province",
+    "parent-code": "12"
+  },
+  "PAS": {
+    "name": "Passoré",
+    "type": "Province",
+    "iso3166-2": "BF-PAS",
+    "iso-name": "Passoré",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "PON": {
+    "name": "Poni",
+    "type": "Province",
+    "iso3166-2": "BF-PON",
+    "iso-name": "Poni",
+    "iso-type": "Province",
+    "parent-code": "13"
+  },
+  "SEN": {
+    "name": "Séno",
+    "type": "Province",
+    "iso3166-2": "BF-SEN",
+    "iso-name": "Séno",
+    "iso-type": "Province",
+    "parent-code": "12"
+  },
+  "SIS": {
+    "name": "Sissili",
+    "type": "Province",
+    "iso3166-2": "BF-SIS",
+    "iso-name": "Sissili",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "SMT": {
+    "name": "Sanmatenga",
+    "type": "Province",
+    "iso3166-2": "BF-SMT",
+    "iso-name": "Sanmatenga",
+    "iso-type": "Province",
+    "parent-code": "05"
+  },
+  "SNG": {
+    "name": "Sanguié",
+    "type": "Province",
+    "iso3166-2": "BF-SNG",
+    "iso-name": "Sanguié",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "SOM": {
+    "name": "Soum",
+    "type": "Province",
+    "iso3166-2": "BF-SOM",
+    "iso-name": "Soum",
+    "iso-type": "Province",
+    "parent-code": "12"
+  },
+  "SOR": {
+    "name": "Sourou",
+    "type": "Province",
+    "iso3166-2": "BF-SOR",
+    "iso-name": "Sourou",
+    "iso-type": "Province",
+    "parent-code": "01"
+  },
+  "TAP": {
+    "name": "Tapoa",
+    "type": "Province",
+    "iso3166-2": "BF-TAP",
+    "iso-name": "Tapoa",
+    "iso-type": "Province",
+    "parent-code": "08"
+  },
+  "TUI": {
+    "name": "Tuy",
+    "type": "Province",
+    "iso3166-2": "BF-TUI",
+    "iso-name": "Tuy",
+    "iso-type": "Province",
+    "parent-code": "09"
+  },
+  "YAG": {
+    "name": "Yagha",
+    "type": "Province",
+    "iso3166-2": "BF-YAG",
+    "iso-name": "Yagha",
+    "iso-type": "Province",
+    "parent-code": "12"
+  },
+  "YAT": {
+    "name": "Yatenga",
+    "type": "Province",
+    "iso3166-2": "BF-YAT",
+    "iso-name": "Yatenga",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "ZIR": {
+    "name": "Ziro",
+    "type": "Province",
+    "iso3166-2": "BF-ZIR",
+    "iso-name": "Ziro",
+    "iso-type": "Province",
+    "parent-code": "06"
+  },
+  "ZON": {
+    "name": "Zondoma",
+    "type": "Province",
+    "iso3166-2": "BF-ZON",
+    "iso-name": "Zondoma",
+    "iso-type": "Province",
+    "parent-code": "10"
+  },
+  "ZOU": {
+    "name": "Zoundwéogo",
+    "type": "Province",
+    "iso3166-2": "BF-ZOU",
+    "iso-name": "Zoundwéogo",
+    "iso-type": "Province",
+    "parent-code": "07"
+  }
+}

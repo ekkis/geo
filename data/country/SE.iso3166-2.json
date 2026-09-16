@@ -1,0 +1,149 @@
+{
+  "AB": {
+    "name": "Stockholms län",
+    "type": "County",
+    "iso3166-2": "SE-AB",
+    "iso-name": "Stockholms län [SE-01]",
+    "iso-type": "County"
+  },
+  "AC": {
+    "name": "Västerbottens län",
+    "type": "County",
+    "iso3166-2": "SE-AC",
+    "iso-name": "Västerbottens län [SE-24]",
+    "iso-type": "County"
+  },
+  "BD": {
+    "name": "Norrbottens län",
+    "type": "County",
+    "iso3166-2": "SE-BD",
+    "iso-name": "Norrbottens län [SE-25]",
+    "iso-type": "County"
+  },
+  "C": {
+    "name": "Uppsala län",
+    "type": "County",
+    "iso3166-2": "SE-C",
+    "iso-name": "Uppsala län [SE-03]",
+    "iso-type": "County"
+  },
+  "D": {
+    "name": "Södermanlands län",
+    "type": "County",
+    "iso3166-2": "SE-D",
+    "iso-name": "Södermanlands län [SE-04]",
+    "iso-type": "County"
+  },
+  "E": {
+    "name": "Östergötlands län",
+    "type": "County",
+    "iso3166-2": "SE-E",
+    "iso-name": "Östergötlands län [SE-05]",
+    "iso-type": "County"
+  },
+  "F": {
+    "name": "Jönköpings län",
+    "type": "County",
+    "iso3166-2": "SE-F",
+    "iso-name": "Jönköpings län [SE-06]",
+    "iso-type": "County"
+  },
+  "G": {
+    "name": "Kronobergs län",
+    "type": "County",
+    "iso3166-2": "SE-G",
+    "iso-name": "Kronobergs län [SE-07]",
+    "iso-type": "County"
+  },
+  "H": {
+    "name": "Kalmar län",
+    "type": "County",
+    "iso3166-2": "SE-H",
+    "iso-name": "Kalmar län [SE-08]",
+    "iso-type": "County"
+  },
+  "I": {
+    "name": "Gotlands län",
+    "type": "County",
+    "iso3166-2": "SE-I",
+    "iso-name": "Gotlands län [SE-09]",
+    "iso-type": "County"
+  },
+  "K": {
+    "name": "Blekinge län",
+    "type": "County",
+    "iso3166-2": "SE-K",
+    "iso-name": "Blekinge län [SE-10]",
+    "iso-type": "County"
+  },
+  "M": {
+    "name": "Skåne län",
+    "type": "County",
+    "iso3166-2": "SE-M",
+    "iso-name": "Skåne län [SE-12]",
+    "iso-type": "County"
+  },
+  "N": {
+    "name": "Hallands län",
+    "type": "County",
+    "iso3166-2": "SE-N",
+    "iso-name": "Hallands län [SE-13]",
+    "iso-type": "County"
+  },
+  "O": {
+    "name": "Västra Götalands län",
+    "type": "County",
+    "iso3166-2": "SE-O",
+    "iso-name": "Västra Götalands län [SE-14]",
+    "iso-type": "County"
+  },
+  "S": {
+    "name": "Värmlands län",
+    "type": "County",
+    "iso3166-2": "SE-S",
+    "iso-name": "Värmlands län [SE-17]",
+    "iso-type": "County"
+  },
+  "T": {
+    "name": "Örebro län",
+    "type": "County",
+    "iso3166-2": "SE-T",
+    "iso-name": "Örebro län [SE-18]",
+    "iso-type": "County"
+  },
+  "U": {
+    "name": "Västmanlands län",
+    "type": "County",
+    "iso3166-2": "SE-U",
+    "iso-name": "Västmanlands län [SE-19]",
+    "iso-type": "County"
+  },
+  "W": {
+    "name": "Dalarnas län",
+    "type": "County",
+    "iso3166-2": "SE-W",
+    "iso-name": "Dalarnas län [SE-20]",
+    "iso-type": "County"
+  },
+  "X": {
+    "name": "Gävleborgs län",
+    "type": "County",
+    "iso3166-2": "SE-X",
+    "iso-name": "Gävleborgs län [SE-21]",
+    "iso-type": "County"
+  },
+  "Y": {
+    "name": "Västernorrlands län",
+    "type": "County",
+    "iso3166-2": "SE-Y",
+    "iso-name": "Västernorrlands län [SE-22]",
+    "iso-type": "County"
+  },
+  "Z": {
+    "name": "Jämtlands län",
+    "type": "County",
+    "iso3166-2": "SE-Z",
+    "iso-name": "Jämtlands län [SE-23]",
+    "iso-type": "County"
+  }
+}

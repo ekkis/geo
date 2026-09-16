@@ -1,0 +1,184 @@
+{
+  "AMA": {
+    "name": "Amazonas",
+    "type": "Region",
+    "iso3166-2": "PE-AMA",
+    "iso-name": "Amazonas",
+    "iso-type": "Region"
+  },
+  "ANC": {
+    "name": "Ancash",
+    "type": "Region",
+    "iso3166-2": "PE-ANC",
+    "iso-name": "Ancash",
+    "iso-type": "Region"
+  },
+  "APU": {
+    "name": "Apurímac",
+    "type": "Region",
+    "iso3166-2": "PE-APU",
+    "iso-name": "Apurímac",
+    "iso-type": "Region"
+  },
+  "ARE": {
+    "name": "Arequipa",
+    "type": "Region",
+    "iso3166-2": "PE-ARE",
+    "iso-name": "Arequipa",
+    "iso-type": "Region"
+  },
+  "AYA": {
+    "name": "Ayacucho",
+    "type": "Region",
+    "iso3166-2": "PE-AYA",
+    "iso-name": "Ayacucho",
+    "iso-type": "Region"
+  },
+  "CAJ": {
+    "name": "Cajamarca",
+    "type": "Region",
+    "iso3166-2": "PE-CAJ",
+    "iso-name": "Cajamarca",
+    "iso-type": "Region"
+  },
+  "CAL": {
+    "name": "El Callao",
+    "type": "Region",
+    "iso3166-2": "PE-CAL",
+    "iso-name": "El Callao",
+    "iso-type": "Region"
+  },
+  "CUS": {
+    "name": "Cusco",
+    "type": "Region",
+    "iso3166-2": "PE-CUS",
+    "iso-name": "Cusco",
+    "iso-type": "Region"
+  },
+  "HUC": {
+    "name": "Huánuco",
+    "type": "Region",
+    "iso3166-2": "PE-HUC",
+    "iso-name": "Huánuco",
+    "iso-type": "Region"
+  },
+  "HUV": {
+    "name": "Huancavelica",
+    "type": "Region",
+    "iso3166-2": "PE-HUV",
+    "iso-name": "Huancavelica",
+    "iso-type": "Region"
+  },
+  "ICA": {
+    "name": "Ica",
+    "type": "Region",
+    "iso3166-2": "PE-ICA",
+    "iso-name": "Ica",
+    "iso-type": "Region"
+  },
+  "JUN": {
+    "name": "Junín",
+    "type": "Region",
+    "iso3166-2": "PE-JUN",
+    "iso-name": "Junín",
+    "iso-type": "Region"
+  },
+  "LAL": {
+    "name": "La Libertad",
+    "type": "Region",
+    "iso3166-2": "PE-LAL",
+    "iso-name": "La Libertad",
+    "iso-type": "Region"
+  },
+  "LAM": {
+    "name": "Lambayeque",
+    "type": "Region",
+    "iso3166-2": "PE-LAM",
+    "iso-name": "Lambayeque",
+    "iso-type": "Region"
+  },
+  "LIM": {
+    "name": "Lima",
+    "type": "Region",
+    "iso3166-2": "PE-LIM",
+    "iso-name": "Lima",
+    "iso-type": "Region"
+  },
+  "LMA": {
+    "name": "Municipalidad Metropolitana de Lima",
+    "type": "Municipality",
+    "iso3166-2": "PE-LMA",
+    "iso-name": "Municipalidad Metropolitana de Lima",
+    "iso-type": "Municipality"
+  },
+  "LOR": {
+    "name": "Loreto",
+    "type": "Region",
+    "iso3166-2": "PE-LOR",
+    "iso-name": "Loreto",
+    "iso-type": "Region"
+  },
+  "MDD": {
+    "name": "Madre de Dios",
+    "type": "Region",
+    "iso3166-2": "PE-MDD",
+    "iso-name": "Madre de Dios",
+    "iso-type": "Region"
+  },
+  "MOQ": {
+    "name": "Moquegua",
+    "type": "Region",
+    "iso3166-2": "PE-MOQ",
+    "iso-name": "Moquegua",
+    "iso-type": "Region"
+  },
+  "PAS": {
+    "name": "Pasco",
+    "type": "Region",
+    "iso3166-2": "PE-PAS",
+    "iso-name": "Pasco",
+    "iso-type": "Region"
+  },
+  "PIU": {
+    "name": "Piura",
+    "type": "Region",
+    "iso3166-2": "PE-PIU",
+    "iso-name": "Piura",
+    "iso-type": "Region"
+  },
+  "PUN": {
+    "name": "Puno",
+    "type": "Region",
+    "iso3166-2": "PE-PUN",
+    "iso-name": "Puno",
+    "iso-type": "Region"
+  },
+  "SAM": {
+    "name": "San Martín",
+    "type": "Region",
+    "iso3166-2": "PE-SAM",
+    "iso-name": "San Martín",
+    "iso-type": "Region"
+  },
+  "TAC": {
+    "name": "Tacna",
+    "type": "Region",
+    "iso3166-2": "PE-TAC",
+    "iso-name": "Tacna",
+    "iso-type": "Region"
+  },
+  "TUM": {
+    "name": "Tumbes",
+    "type": "Region",
+    "iso3166-2": "PE-TUM",
+    "iso-name": "Tumbes",
+    "iso-type": "Region"
+  },
+  "UCA": {
+    "name": "Ucayali",
+    "type": "Region",
+    "iso3166-2": "PE-UCA",
+    "iso-name": "Ucayali",
+    "iso-type": "Region"
+  }
+}

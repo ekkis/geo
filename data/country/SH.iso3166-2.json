@@ -1,0 +1,23 @@
+{
+  "AC": {
+    "name": "Ascension",
+    "type": "Geographical entity",
+    "iso3166-2": "SH-AC",
+    "iso-name": "Ascension",
+    "iso-type": "Geographical entity"
+  },
+  "HL": {
+    "name": "Saint Helena",
+    "type": "Geographical entity",
+    "iso3166-2": "SH-HL",
+    "iso-name": "Saint Helena",
+    "iso-type": "Geographical entity"
+  },
+  "TA": {
+    "name": "Tristan da Cunha",
+    "type": "Geographical entity",
+    "iso3166-2": "SH-TA",
+    "iso-name": "Tristan da Cunha",
+    "iso-type": "Geographical entity"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "AN": {
+    "name": "Ansabā",
+    "type": "Region",
+    "iso3166-2": "ER-AN",
+    "iso-name": "Ansabā",
+    "iso-type": "Region"
+  },
+  "DK": {
+    "name": "Janūbī al Baḩrī al Aḩmar",
+    "type": "Region",
+    "iso3166-2": "ER-DK",
+    "iso-name": "Janūbī al Baḩrī al Aḩmar",
+    "iso-type": "Region"
+  },
+  "DU": {
+    "name": "Al Janūbī",
+    "type": "Region",
+    "iso3166-2": "ER-DU",
+    "iso-name": "Al Janūbī",
+    "iso-type": "Region"
+  },
+  "GB": {
+    "name": "Qāsh-Barkah",
+    "type": "Region",
+    "iso3166-2": "ER-GB",
+    "iso-name": "Qāsh-Barkah",
+    "iso-type": "Region"
+  },
+  "MA": {
+    "name": "Al Awsaţ",
+    "type": "Region",
+    "iso3166-2": "ER-MA",
+    "iso-name": "Al Awsaţ",
+    "iso-type": "Region"
+  },
+  "SK": {
+    "name": "Shimālī al Baḩrī al Aḩmar",
+    "type": "Region",
+    "iso3166-2": "ER-SK",
+    "iso-name": "Shimālī al Baḩrī al Aḩmar",
+    "iso-type": "Region"
+  }
+}

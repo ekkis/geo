@@ -1,0 +1,198 @@
+{
+  "01": {
+    "name": "Blagoevgrad",
+    "type": "District",
+    "iso3166-2": "BG-01",
+    "iso-name": "Blagoevgrad",
+    "iso-type": "District"
+  },
+  "02": {
+    "name": "Burgas",
+    "type": "District",
+    "iso3166-2": "BG-02",
+    "iso-name": "Burgas",
+    "iso-type": "District"
+  },
+  "03": {
+    "name": "Varna",
+    "type": "District",
+    "iso3166-2": "BG-03",
+    "iso-name": "Varna",
+    "iso-type": "District"
+  },
+  "04": {
+    "name": "Veliko Tarnovo",
+    "type": "District",
+    "iso3166-2": "BG-04",
+    "iso-name": "Veliko Tarnovo",
+    "iso-type": "District"
+  },
+  "05": {
+    "name": "Vidin",
+    "type": "District",
+    "iso3166-2": "BG-05",
+    "iso-name": "Vidin",
+    "iso-type": "District"
+  },
+  "06": {
+    "name": "Vratsa",
+    "type": "District",
+    "iso3166-2": "BG-06",
+    "iso-name": "Vratsa",
+    "iso-type": "District"
+  },
+  "07": {
+    "name": "Gabrovo",
+    "type": "District",
+    "iso3166-2": "BG-07",
+    "iso-name": "Gabrovo",
+    "iso-type": "District"
+  },
+  "08": {
+    "name": "Dobrich",
+    "type": "District",
+    "iso3166-2": "BG-08",
+    "iso-name": "Dobrich",
+    "iso-type": "District"
+  },
+  "09": {
+    "name": "Kardzhali",
+    "type": "District",
+    "iso3166-2": "BG-09",
+    "iso-name": "Kardzhali",
+    "iso-type": "District"
+  },
+  "10": {
+    "name": "Kyustendil",
+    "type": "District",
+    "iso3166-2": "BG-10",
+    "iso-name": "Kyustendil",
+    "iso-type": "District"
+  },
+  "11": {
+    "name": "Lovech",
+    "type": "District",
+    "iso3166-2": "BG-11",
+    "iso-name": "Lovech",
+    "iso-type": "District"
+  },
+  "12": {
+    "name": "Montana",
+    "type": "District",
+    "iso3166-2": "BG-12",
+    "iso-name": "Montana",
+    "iso-type": "District"
+  },
+  "13": {
+    "name": "Pazardzhik",
+    "type": "District",
+    "iso3166-2": "BG-13",
+    "iso-name": "Pazardzhik",
+    "iso-type": "District"
+  },
+  "14": {
+    "name": "Pernik",
+    "type": "District",
+    "iso3166-2": "BG-14",
+    "iso-name": "Pernik",
+    "iso-type": "District"
+  },
+  "15": {
+    "name": "Pleven",
+    "type": "District",
+    "iso3166-2": "BG-15",
+    "iso-name": "Pleven",
+    "iso-type": "District"
+  },
+  "16": {
+    "name": "Plovdiv",
+    "type": "District",
+    "iso3166-2": "BG-16",
+    "iso-name": "Plovdiv",
+    "iso-type": "District"
+  },
+  "17": {
+    "name": "Razgrad",
+    "type": "District",
+    "iso3166-2": "BG-17",
+    "iso-name": "Razgrad",
+    "iso-type": "District"
+  },
+  "18": {
+    "name": "Ruse",
+    "type": "District",
+    "iso3166-2": "BG-18",
+    "iso-name": "Ruse",
+    "iso-type": "District"
+  },
+  "19": {
+    "name": "Silistra",
+    "type": "District",
+    "iso3166-2": "BG-19",
+    "iso-name": "Silistra",
+    "iso-type": "District"
+  },
+  "20": {
+    "name": "Sliven",
+    "type": "District",
+    "iso3166-2": "BG-20",
+    "iso-name": "Sliven",
+    "iso-type": "District"
+  },
+  "21": {
+    "name": "Smolyan",
+    "type": "District",
+    "iso3166-2": "BG-21",
+    "iso-name": "Smolyan",
+    "iso-type": "District"
+  },
+  "22": {
+    "name": "Sofia (stolitsa)",
+    "type": "District",
+    "iso3166-2": "BG-22",
+    "iso-name": "Sofia (stolitsa)",
+    "iso-type": "District"
+  },
+  "23": {
+    "name": "Sofia",
+    "type": "District",
+    "iso3166-2": "BG-23",
+    "iso-name": "Sofia",
+    "iso-type": "District"
+  },
+  "24": {
+    "name": "Stara Zagora",
+    "type": "District",
+    "iso3166-2": "BG-24",
+    "iso-name": "Stara Zagora",
+    "iso-type": "District"
+  },
+  "25": {
+    "name": "Targovishte",
+    "type": "District",
+    "iso3166-2": "BG-25",
+    "iso-name": "Targovishte",
+    "iso-type": "District"
+  },
+  "26": {
+    "name": "Haskovo",
+    "type": "District",
+    "iso3166-2": "BG-26",
+    "iso-name": "Haskovo",
+    "iso-type": "District"
+  },
+  "27": {
+    "name": "Shumen",
+    "type": "District",
+    "iso3166-2": "BG-27",
+    "iso-name": "Shumen",
+    "iso-type": "District"
+  },
+  "28": {
+    "name": "Yambol",
+    "type": "District",
+    "iso3166-2": "BG-28",
+    "iso-name": "Yambol",
+    "iso-type": "District"
+  }
+}

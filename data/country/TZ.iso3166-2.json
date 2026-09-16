@@ -1,0 +1,219 @@
+{
+  "01": {
+    "name": "Arusha",
+    "type": "Region",
+    "iso3166-2": "TZ-01",
+    "iso-name": "Arusha",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "Dar es Salaam",
+    "type": "Region",
+    "iso3166-2": "TZ-02",
+    "iso-name": "Dar es Salaam",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Dodoma",
+    "type": "Region",
+    "iso3166-2": "TZ-03",
+    "iso-name": "Dodoma",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Iringa",
+    "type": "Region",
+    "iso3166-2": "TZ-04",
+    "iso-name": "Iringa",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Kagera",
+    "type": "Region",
+    "iso3166-2": "TZ-05",
+    "iso-name": "Kagera",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Pemba North",
+    "type": "Region",
+    "iso3166-2": "TZ-06",
+    "iso-name": "Pemba North",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Zanzibar North",
+    "type": "Region",
+    "iso3166-2": "TZ-07",
+    "iso-name": "Zanzibar North",
+    "iso-type": "Region"
+  },
+  "08": {
+    "name": "Kigoma",
+    "type": "Region",
+    "iso3166-2": "TZ-08",
+    "iso-name": "Kigoma",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Kilimanjaro",
+    "type": "Region",
+    "iso3166-2": "TZ-09",
+    "iso-name": "Kilimanjaro",
+    "iso-type": "Region"
+  },
+  "10": {
+    "name": "Pemba South",
+    "type": "Region",
+    "iso3166-2": "TZ-10",
+    "iso-name": "Pemba South",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Zanzibar South",
+    "type": "Region",
+    "iso3166-2": "TZ-11",
+    "iso-name": "Zanzibar South",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Lindi",
+    "type": "Region",
+    "iso3166-2": "TZ-12",
+    "iso-name": "Lindi",
+    "iso-type": "Region"
+  },
+  "13": {
+    "name": "Mara",
+    "type": "Region",
+    "iso3166-2": "TZ-13",
+    "iso-name": "Mara",
+    "iso-type": "Region"
+  },
+  "14": {
+    "name": "Mbeya",
+    "type": "Region",
+    "iso3166-2": "TZ-14",
+    "iso-name": "Mbeya",
+    "iso-type": "Region"
+  },
+  "15": {
+    "name": "Zanzibar West",
+    "type": "Region",
+    "iso3166-2": "TZ-15",
+    "iso-name": "Zanzibar West",
+    "iso-type": "Region"
+  },
+  "16": {
+    "name": "Morogoro",
+    "type": "Region",
+    "iso3166-2": "TZ-16",
+    "iso-name": "Morogoro",
+    "iso-type": "Region"
+  },
+  "17": {
+    "name": "Mtwara",
+    "type": "Region",
+    "iso3166-2": "TZ-17",
+    "iso-name": "Mtwara",
+    "iso-type": "Region"
+  },
+  "18": {
+    "name": "Mwanza",
+    "type": "Region",
+    "iso3166-2": "TZ-18",
+    "iso-name": "Mwanza",
+    "iso-type": "Region"
+  },
+  "19": {
+    "name": "Coast",
+    "type": "Region",
+    "iso3166-2": "TZ-19",
+    "iso-name": "Coast",
+    "iso-type": "Region"
+  },
+  "20": {
+    "name": "Rukwa",
+    "type": "Region",
+    "iso3166-2": "TZ-20",
+    "iso-name": "Rukwa",
+    "iso-type": "Region"
+  },
+  "21": {
+    "name": "Ruvuma",
+    "type": "Region",
+    "iso3166-2": "TZ-21",
+    "iso-name": "Ruvuma",
+    "iso-type": "Region"
+  },
+  "22": {
+    "name": "Shinyanga",
+    "type": "Region",
+    "iso3166-2": "TZ-22",
+    "iso-name": "Shinyanga",
+    "iso-type": "Region"
+  },
+  "23": {
+    "name": "Singida",
+    "type": "Region",
+    "iso3166-2": "TZ-23",
+    "iso-name": "Singida",
+    "iso-type": "Region"
+  },
+  "24": {
+    "name": "Tabora",
+    "type": "Region",
+    "iso3166-2": "TZ-24",
+    "iso-name": "Tabora",
+    "iso-type": "Region"
+  },
+  "25": {
+    "name": "Tanga",
+    "type": "Region",
+    "iso3166-2": "TZ-25",
+    "iso-name": "Tanga",
+    "iso-type": "Region"
+  },
+  "26": {
+    "name": "Manyara",
+    "type": "Region",
+    "iso3166-2": "TZ-26",
+    "iso-name": "Manyara",
+    "iso-type": "Region"
+  },
+  "27": {
+    "name": "Geita",
+    "type": "Region",
+    "iso3166-2": "TZ-27",
+    "iso-name": "Geita",
+    "iso-type": "Region"
+  },
+  "28": {
+    "name": "Katavi",
+    "type": "Region",
+    "iso3166-2": "TZ-28",
+    "iso-name": "Katavi",
+    "iso-type": "Region"
+  },
+  "29": {
+    "name": "Njombe",
+    "type": "Region",
+    "iso3166-2": "TZ-29",
+    "iso-name": "Njombe",
+    "iso-type": "Region"
+  },
+  "30": {
+    "name": "Simiyu",
+    "type": "Region",
+    "iso3166-2": "TZ-30",
+    "iso-name": "Simiyu",
+    "iso-type": "Region"
+  },
+  "31": {
+    "name": "Songwe",
+    "type": "Region",
+    "iso3166-2": "TZ-31",
+    "iso-name": "Songwe",
+    "iso-type": "Region"
+  }
+}

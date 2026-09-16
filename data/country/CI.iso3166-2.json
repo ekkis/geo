@@ -1,0 +1,100 @@
+{
+  "AB": {
+    "name": "Abidjan",
+    "type": "Autonomous district",
+    "iso3166-2": "CI-AB",
+    "iso-name": "Abidjan",
+    "iso-type": "Autonomous district"
+  },
+  "BS": {
+    "name": "Bas-Sassandra",
+    "type": "District",
+    "iso3166-2": "CI-BS",
+    "iso-name": "Bas-Sassandra",
+    "iso-type": "District"
+  },
+  "CM": {
+    "name": "Comoé",
+    "type": "District",
+    "iso3166-2": "CI-CM",
+    "iso-name": "Comoé",
+    "iso-type": "District"
+  },
+  "DN": {
+    "name": "Denguélé",
+    "type": "District",
+    "iso3166-2": "CI-DN",
+    "iso-name": "Denguélé",
+    "iso-type": "District"
+  },
+  "GD": {
+    "name": "Gôh-Djiboua",
+    "type": "District",
+    "iso3166-2": "CI-GD",
+    "iso-name": "Gôh-Djiboua",
+    "iso-type": "District"
+  },
+  "LC": {
+    "name": "Lacs",
+    "type": "District",
+    "iso3166-2": "CI-LC",
+    "iso-name": "Lacs",
+    "iso-type": "District"
+  },
+  "LG": {
+    "name": "Lagunes",
+    "type": "District",
+    "iso3166-2": "CI-LG",
+    "iso-name": "Lagunes",
+    "iso-type": "District"
+  },
+  "MG": {
+    "name": "Montagnes",
+    "type": "District",
+    "iso3166-2": "CI-MG",
+    "iso-name": "Montagnes",
+    "iso-type": "District"
+  },
+  "SM": {
+    "name": "Sassandra-Marahoué",
+    "type": "District",
+    "iso3166-2": "CI-SM",
+    "iso-name": "Sassandra-Marahoué",
+    "iso-type": "District"
+  },
+  "SV": {
+    "name": "Savanes",
+    "type": "District",
+    "iso3166-2": "CI-SV",
+    "iso-name": "Savanes",
+    "iso-type": "District"
+  },
+  "VB": {
+    "name": "Vallée du Bandama",
+    "type": "District",
+    "iso3166-2": "CI-VB",
+    "iso-name": "Vallée du Bandama",
+    "iso-type": "District"
+  },
+  "WR": {
+    "name": "Woroba",
+    "type": "District",
+    "iso3166-2": "CI-WR",
+    "iso-name": "Woroba",
+    "iso-type": "District"
+  },
+  "YM": {
+    "name": "Yamoussoukro",
+    "type": "Autonomous district",
+    "iso3166-2": "CI-YM",
+    "iso-name": "Yamoussoukro",
+    "iso-type": "Autonomous district"
+  },
+  "ZZ": {
+    "name": "Zanzan",
+    "type": "District",
+    "iso3166-2": "CI-ZZ",
+    "iso-name": "Zanzan",
+    "iso-type": "District"
+  }
+}

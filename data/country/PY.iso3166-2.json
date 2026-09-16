@@ -1,0 +1,128 @@
+{
+  "1": {
+    "name": "Concepción",
+    "type": "Department",
+    "iso3166-2": "PY-1",
+    "iso-name": "Concepción",
+    "iso-type": "Department"
+  },
+  "10": {
+    "name": "Alto Paraná",
+    "type": "Department",
+    "iso3166-2": "PY-10",
+    "iso-name": "Alto Paraná",
+    "iso-type": "Department"
+  },
+  "11": {
+    "name": "Central",
+    "type": "Department",
+    "iso3166-2": "PY-11",
+    "iso-name": "Central",
+    "iso-type": "Department"
+  },
+  "12": {
+    "name": "Ñeembucú",
+    "type": "Department",
+    "iso3166-2": "PY-12",
+    "iso-name": "Ñeembucú",
+    "iso-type": "Department"
+  },
+  "13": {
+    "name": "Amambay",
+    "type": "Department",
+    "iso3166-2": "PY-13",
+    "iso-name": "Amambay",
+    "iso-type": "Department"
+  },
+  "14": {
+    "name": "Canindeyú",
+    "type": "Department",
+    "iso3166-2": "PY-14",
+    "iso-name": "Canindeyú",
+    "iso-type": "Department"
+  },
+  "15": {
+    "name": "Presidente Hayes",
+    "type": "Department",
+    "iso3166-2": "PY-15",
+    "iso-name": "Presidente Hayes",
+    "iso-type": "Department"
+  },
+  "16": {
+    "name": "Alto Paraguay",
+    "type": "Department",
+    "iso3166-2": "PY-16",
+    "iso-name": "Alto Paraguay",
+    "iso-type": "Department"
+  },
+  "19": {
+    "name": "Boquerón",
+    "type": "Department",
+    "iso3166-2": "PY-19",
+    "iso-name": "Boquerón",
+    "iso-type": "Department"
+  },
+  "2": {
+    "name": "San Pedro",
+    "type": "Department",
+    "iso3166-2": "PY-2",
+    "iso-name": "San Pedro",
+    "iso-type": "Department"
+  },
+  "3": {
+    "name": "Cordillera",
+    "type": "Department",
+    "iso3166-2": "PY-3",
+    "iso-name": "Cordillera",
+    "iso-type": "Department"
+  },
+  "4": {
+    "name": "Guairá",
+    "type": "Department",
+    "iso3166-2": "PY-4",
+    "iso-name": "Guairá",
+    "iso-type": "Department"
+  },
+  "5": {
+    "name": "Caaguazú",
+    "type": "Department",
+    "iso3166-2": "PY-5",
+    "iso-name": "Caaguazú",
+    "iso-type": "Department"
+  },
+  "6": {
+    "name": "Caazapá",
+    "type": "Department",
+    "iso3166-2": "PY-6",
+    "iso-name": "Caazapá",
+    "iso-type": "Department"
+  },
+  "7": {
+    "name": "Itapúa",
+    "type": "Department",
+    "iso3166-2": "PY-7",
+    "iso-name": "Itapúa",
+    "iso-type": "Department"
+  },
+  "8": {
+    "name": "Misiones",
+    "type": "Department",
+    "iso3166-2": "PY-8",
+    "iso-name": "Misiones",
+    "iso-type": "Department"
+  },
+  "9": {
+    "name": "Paraguarí",
+    "type": "Department",
+    "iso3166-2": "PY-9",
+    "iso-name": "Paraguarí",
+    "iso-type": "Department"
+  },
+  "ASU": {
+    "name": "Asunción",
+    "type": "Capital",
+    "iso3166-2": "PY-ASU",
+    "iso-name": "Asunción",
+    "iso-type": "Capital"
+  }
+}

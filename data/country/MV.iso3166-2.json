@@ -1,0 +1,149 @@
+{
+  "00": {
+    "name": "South Ari Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-00",
+    "iso-name": "South Ari Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "01": {
+    "name": "Addu City",
+    "type": "City",
+    "iso3166-2": "MV-01",
+    "iso-name": "Addu City",
+    "iso-type": "City"
+  },
+  "02": {
+    "name": "North Ari Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-02",
+    "iso-name": "North Ari Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "03": {
+    "name": "Faadhippolhu",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-03",
+    "iso-name": "Faadhippolhu",
+    "iso-type": "Administrative atoll"
+  },
+  "04": {
+    "name": "Felidhu Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-04",
+    "iso-name": "Felidhu Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "05": {
+    "name": "Hahdhunmathi",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-05",
+    "iso-name": "Hahdhunmathi",
+    "iso-type": "Administrative atoll"
+  },
+  "07": {
+    "name": "North Thiladhunmathi",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-07",
+    "iso-name": "North Thiladhunmathi",
+    "iso-type": "Administrative atoll"
+  },
+  "08": {
+    "name": "Kolhumadulu",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-08",
+    "iso-name": "Kolhumadulu",
+    "iso-type": "Administrative atoll"
+  },
+  "12": {
+    "name": "Mulaku Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-12",
+    "iso-name": "Mulaku Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "13": {
+    "name": "North Maalhosmadulu",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-13",
+    "iso-name": "North Maalhosmadulu",
+    "iso-type": "Administrative atoll"
+  },
+  "14": {
+    "name": "North Nilandhe Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-14",
+    "iso-name": "North Nilandhe Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "17": {
+    "name": "South Nilandhe Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-17",
+    "iso-name": "South Nilandhe Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "20": {
+    "name": "South Maalhosmadulu",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-20",
+    "iso-name": "South Maalhosmadulu",
+    "iso-type": "Administrative atoll"
+  },
+  "23": {
+    "name": "South Thiladhunmathi",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-23",
+    "iso-name": "South Thiladhunmathi",
+    "iso-type": "Administrative atoll"
+  },
+  "24": {
+    "name": "North Miladhunmadulu",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-24",
+    "iso-name": "North Miladhunmadulu",
+    "iso-type": "Administrative atoll"
+  },
+  "25": {
+    "name": "South Miladhunmadulu",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-25",
+    "iso-name": "South Miladhunmadulu",
+    "iso-type": "Administrative atoll"
+  },
+  "26": {
+    "name": "Male Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-26",
+    "iso-name": "Male Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "27": {
+    "name": "North Huvadhu Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-27",
+    "iso-name": "North Huvadhu Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "28": {
+    "name": "South Huvadhu Atoll",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-28",
+    "iso-name": "South Huvadhu Atoll",
+    "iso-type": "Administrative atoll"
+  },
+  "29": {
+    "name": "Fuvammulah",
+    "type": "Administrative atoll",
+    "iso3166-2": "MV-29",
+    "iso-name": "Fuvammulah",
+    "iso-type": "Administrative atoll"
+  },
+  "MLE": {
+    "name": "Male",
+    "type": "City",
+    "iso3166-2": "MV-MLE",
+    "iso-name": "Male",
+    "iso-type": "City"
+  }
+}

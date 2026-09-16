@@ -1,0 +1,72 @@
+{
+  "A": {
+    "name": "Maseru",
+    "type": "District",
+    "iso3166-2": "LS-A",
+    "iso-name": "Maseru",
+    "iso-type": "District"
+  },
+  "B": {
+    "name": "Botha-Bothe",
+    "type": "District",
+    "iso3166-2": "LS-B",
+    "iso-name": "Botha-Bothe",
+    "iso-type": "District"
+  },
+  "C": {
+    "name": "Leribe",
+    "type": "District",
+    "iso3166-2": "LS-C",
+    "iso-name": "Leribe",
+    "iso-type": "District"
+  },
+  "D": {
+    "name": "Berea",
+    "type": "District",
+    "iso3166-2": "LS-D",
+    "iso-name": "Berea",
+    "iso-type": "District"
+  },
+  "E": {
+    "name": "Mafeteng",
+    "type": "District",
+    "iso3166-2": "LS-E",
+    "iso-name": "Mafeteng",
+    "iso-type": "District"
+  },
+  "F": {
+    "name": "Mohale's Hoek",
+    "type": "District",
+    "iso3166-2": "LS-F",
+    "iso-name": "Mohale's Hoek",
+    "iso-type": "District"
+  },
+  "G": {
+    "name": "Quthing",
+    "type": "District",
+    "iso3166-2": "LS-G",
+    "iso-name": "Quthing",
+    "iso-type": "District"
+  },
+  "H": {
+    "name": "Qacha's Nek",
+    "type": "District",
+    "iso3166-2": "LS-H",
+    "iso-name": "Qacha's Nek",
+    "iso-type": "District"
+  },
+  "J": {
+    "name": "Mokhotlong",
+    "type": "District",
+    "iso3166-2": "LS-J",
+    "iso-name": "Mokhotlong",
+    "iso-type": "District"
+  },
+  "K": {
+    "name": "Thaba-Tseka",
+    "type": "District",
+    "iso3166-2": "LS-K",
+    "iso-name": "Thaba-Tseka",
+    "iso-type": "District"
+  }
+}

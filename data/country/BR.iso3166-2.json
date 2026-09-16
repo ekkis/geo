@@ -1,0 +1,191 @@
+{
+  "AC": {
+    "name": "Acre",
+    "type": "State",
+    "iso3166-2": "BR-AC",
+    "iso-name": "Acre",
+    "iso-type": "State"
+  },
+  "AL": {
+    "name": "Alagoas",
+    "type": "State",
+    "iso3166-2": "BR-AL",
+    "iso-name": "Alagoas",
+    "iso-type": "State"
+  },
+  "AM": {
+    "name": "Amazonas",
+    "type": "State",
+    "iso3166-2": "BR-AM",
+    "iso-name": "Amazonas",
+    "iso-type": "State"
+  },
+  "AP": {
+    "name": "Amapá",
+    "type": "State",
+    "iso3166-2": "BR-AP",
+    "iso-name": "Amapá",
+    "iso-type": "State"
+  },
+  "BA": {
+    "name": "Bahia",
+    "type": "State",
+    "iso3166-2": "BR-BA",
+    "iso-name": "Bahia",
+    "iso-type": "State"
+  },
+  "CE": {
+    "name": "Ceará",
+    "type": "State",
+    "iso3166-2": "BR-CE",
+    "iso-name": "Ceará",
+    "iso-type": "State"
+  },
+  "DF": {
+    "name": "Distrito Federal",
+    "type": "Federal district",
+    "iso3166-2": "BR-DF",
+    "iso-name": "Distrito Federal",
+    "iso-type": "Federal district"
+  },
+  "ES": {
+    "name": "Espírito Santo",
+    "type": "State",
+    "iso3166-2": "BR-ES",
+    "iso-name": "Espírito Santo",
+    "iso-type": "State"
+  },
+  "GO": {
+    "name": "Goiás",
+    "type": "State",
+    "iso3166-2": "BR-GO",
+    "iso-name": "Goiás",
+    "iso-type": "State"
+  },
+  "MA": {
+    "name": "Maranhão",
+    "type": "State",
+    "iso3166-2": "BR-MA",
+    "iso-name": "Maranhão",
+    "iso-type": "State"
+  },
+  "MG": {
+    "name": "Minas Gerais",
+    "type": "State",
+    "iso3166-2": "BR-MG",
+    "iso-name": "Minas Gerais",
+    "iso-type": "State"
+  },
+  "MS": {
+    "name": "Mato Grosso do Sul",
+    "type": "State",
+    "iso3166-2": "BR-MS",
+    "iso-name": "Mato Grosso do Sul",
+    "iso-type": "State"
+  },
+  "MT": {
+    "name": "Mato Grosso",
+    "type": "State",
+    "iso3166-2": "BR-MT",
+    "iso-name": "Mato Grosso",
+    "iso-type": "State"
+  },
+  "PA": {
+    "name": "Pará",
+    "type": "State",
+    "iso3166-2": "BR-PA",
+    "iso-name": "Pará",
+    "iso-type": "State"
+  },
+  "PB": {
+    "name": "Paraíba",
+    "type": "State",
+    "iso3166-2": "BR-PB",
+    "iso-name": "Paraíba",
+    "iso-type": "State"
+  },
+  "PE": {
+    "name": "Pernambuco",
+    "type": "State",
+    "iso3166-2": "BR-PE",
+    "iso-name": "Pernambuco",
+    "iso-type": "State"
+  },
+  "PI": {
+    "name": "Piauí",
+    "type": "State",
+    "iso3166-2": "BR-PI",
+    "iso-name": "Piauí",
+    "iso-type": "State"
+  },
+  "PR": {
+    "name": "Paraná",
+    "type": "State",
+    "iso3166-2": "BR-PR",
+    "iso-name": "Paraná",
+    "iso-type": "State"
+  },
+  "RJ": {
+    "name": "Rio de Janeiro",
+    "type": "State",
+    "iso3166-2": "BR-RJ",
+    "iso-name": "Rio de Janeiro",
+    "iso-type": "State"
+  },
+  "RN": {
+    "name": "Rio Grande do Norte",
+    "type": "State",
+    "iso3166-2": "BR-RN",
+    "iso-name": "Rio Grande do Norte",
+    "iso-type": "State"
+  },
+  "RO": {
+    "name": "Rondônia",
+    "type": "State",
+    "iso3166-2": "BR-RO",
+    "iso-name": "Rondônia",
+    "iso-type": "State"
+  },
+  "RR": {
+    "name": "Roraima",
+    "type": "State",
+    "iso3166-2": "BR-RR",
+    "iso-name": "Roraima",
+    "iso-type": "State"
+  },
+  "RS": {
+    "name": "Rio Grande do Sul",
+    "type": "State",
+    "iso3166-2": "BR-RS",
+    "iso-name": "Rio Grande do Sul",
+    "iso-type": "State"
+  },
+  "SC": {
+    "name": "Santa Catarina",
+    "type": "State",
+    "iso3166-2": "BR-SC",
+    "iso-name": "Santa Catarina",
+    "iso-type": "State"
+  },
+  "SE": {
+    "name": "Sergipe",
+    "type": "State",
+    "iso3166-2": "BR-SE",
+    "iso-name": "Sergipe",
+    "iso-type": "State"
+  },
+  "SP": {
+    "name": "São Paulo",
+    "type": "State",
+    "iso3166-2": "BR-SP",
+    "iso-name": "São Paulo",
+    "iso-type": "State"
+  },
+  "TO": {
+    "name": "Tocantins",
+    "type": "State",
+    "iso3166-2": "BR-TO",
+    "iso-name": "Tocantins",
+    "iso-type": "State"
+  }
+}

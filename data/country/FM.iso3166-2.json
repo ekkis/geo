@@ -1,0 +1,30 @@
+{
+  "KSA": {
+    "name": "Kosrae",
+    "type": "State",
+    "iso3166-2": "FM-KSA",
+    "iso-name": "Kosrae",
+    "iso-type": "State"
+  },
+  "PNI": {
+    "name": "Pohnpei",
+    "type": "State",
+    "iso3166-2": "FM-PNI",
+    "iso-name": "Pohnpei",
+    "iso-type": "State"
+  },
+  "TRK": {
+    "name": "Chuuk",
+    "type": "State",
+    "iso3166-2": "FM-TRK",
+    "iso-name": "Chuuk",
+    "iso-type": "State"
+  },
+  "YAP": {
+    "name": "Yap",
+    "type": "State",
+    "iso3166-2": "FM-YAP",
+    "iso-name": "Yap",
+    "iso-type": "State"
+  }
+}

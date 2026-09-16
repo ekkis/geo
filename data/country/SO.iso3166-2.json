@@ -1,0 +1,128 @@
+{
+  "AW": {
+    "name": "Awdal",
+    "type": "Region",
+    "iso3166-2": "SO-AW",
+    "iso-name": "Awdal",
+    "iso-type": "Region"
+  },
+  "BK": {
+    "name": "Bakool",
+    "type": "Region",
+    "iso3166-2": "SO-BK",
+    "iso-name": "Bakool",
+    "iso-type": "Region"
+  },
+  "BN": {
+    "name": "Banaadir",
+    "type": "Region",
+    "iso3166-2": "SO-BN",
+    "iso-name": "Banaadir",
+    "iso-type": "Region"
+  },
+  "BR": {
+    "name": "Bari",
+    "type": "Region",
+    "iso3166-2": "SO-BR",
+    "iso-name": "Bari",
+    "iso-type": "Region"
+  },
+  "BY": {
+    "name": "Bay",
+    "type": "Region",
+    "iso3166-2": "SO-BY",
+    "iso-name": "Bay",
+    "iso-type": "Region"
+  },
+  "GA": {
+    "name": "Galguduud",
+    "type": "Region",
+    "iso3166-2": "SO-GA",
+    "iso-name": "Galguduud",
+    "iso-type": "Region"
+  },
+  "GE": {
+    "name": "Gedo",
+    "type": "Region",
+    "iso3166-2": "SO-GE",
+    "iso-name": "Gedo",
+    "iso-type": "Region"
+  },
+  "HI": {
+    "name": "Hiiraan",
+    "type": "Region",
+    "iso3166-2": "SO-HI",
+    "iso-name": "Hiiraan",
+    "iso-type": "Region"
+  },
+  "JD": {
+    "name": "Jubbada Dhexe",
+    "type": "Region",
+    "iso3166-2": "SO-JD",
+    "iso-name": "Jubbada Dhexe",
+    "iso-type": "Region"
+  },
+  "JH": {
+    "name": "Jubbada Hoose",
+    "type": "Region",
+    "iso3166-2": "SO-JH",
+    "iso-name": "Jubbada Hoose",
+    "iso-type": "Region"
+  },
+  "MU": {
+    "name": "Mudug",
+    "type": "Region",
+    "iso3166-2": "SO-MU",
+    "iso-name": "Mudug",
+    "iso-type": "Region"
+  },
+  "NU": {
+    "name": "Nugaal",
+    "type": "Region",
+    "iso3166-2": "SO-NU",
+    "iso-name": "Nugaal",
+    "iso-type": "Region"
+  },
+  "SA": {
+    "name": "Sanaag",
+    "type": "Region",
+    "iso3166-2": "SO-SA",
+    "iso-name": "Sanaag",
+    "iso-type": "Region"
+  },
+  "SD": {
+    "name": "Shabeellaha Dhexe",
+    "type": "Region",
+    "iso3166-2": "SO-SD",
+    "iso-name": "Shabeellaha Dhexe",
+    "iso-type": "Region"
+  },
+  "SH": {
+    "name": "Shabeellaha Hoose",
+    "type": "Region",
+    "iso3166-2": "SO-SH",
+    "iso-name": "Shabeellaha Hoose",
+    "iso-type": "Region"
+  },
+  "SO": {
+    "name": "Sool",
+    "type": "Region",
+    "iso3166-2": "SO-SO",
+    "iso-name": "Sool",
+    "iso-type": "Region"
+  },
+  "TO": {
+    "name": "Togdheer",
+    "type": "Region",
+    "iso3166-2": "SO-TO",
+    "iso-name": "Togdheer",
+    "iso-type": "Region"
+  },
+  "WO": {
+    "name": "Woqooyi Galbeed",
+    "type": "Region",
+    "iso3166-2": "SO-WO",
+    "iso-name": "Woqooyi Galbeed",
+    "iso-type": "Region"
+  }
+}
