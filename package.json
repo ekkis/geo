@@ -36,15 +36,14 @@
   ],
   "scripts": {
     "build": "gulp",
-    "start": "node server.js",
-    "dev": "node --watch server.js",
+    "start": "node service/server.js",
+    "dev": "node --watch service/server.js",
     "test": "npm run lint && mocha t/*.js && node --test test/*.mjs",
     "preversion": "npm run test",
     "version": "",
     "postversion": "git push --tags && npm publish",
     "debug": "node --inspect-brk eg",
     "lint": "eslint *.js cli t/*.js test/*.mjs",
-    "start:vowlabs": "node service/server.js",
     "smoke:vowlabs": "node scripts/smoke-vowlabs-service.js"
   },
   "devDependencies": {
