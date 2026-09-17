@@ -1,0 +1,478 @@
+{
+  "01": {
+    "name": "Attard",
+    "type": "Local council",
+    "iso3166-2": "MT-01",
+    "iso-name": "Attard",
+    "iso-type": "Local council"
+  },
+  "02": {
+    "name": "Balzan",
+    "type": "Local council",
+    "iso3166-2": "MT-02",
+    "iso-name": "Balzan",
+    "iso-type": "Local council"
+  },
+  "03": {
+    "name": "Birgu",
+    "type": "Local council",
+    "iso3166-2": "MT-03",
+    "iso-name": "Birgu",
+    "iso-type": "Local council"
+  },
+  "04": {
+    "name": "Birkirkara",
+    "type": "Local council",
+    "iso3166-2": "MT-04",
+    "iso-name": "Birkirkara",
+    "iso-type": "Local council"
+  },
+  "05": {
+    "name": "Birżebbuġa",
+    "type": "Local council",
+    "iso3166-2": "MT-05",
+    "iso-name": "Birżebbuġa",
+    "iso-type": "Local council"
+  },
+  "06": {
+    "name": "Bormla",
+    "type": "Local council",
+    "iso3166-2": "MT-06",
+    "iso-name": "Bormla",
+    "iso-type": "Local council"
+  },
+  "07": {
+    "name": "Dingli",
+    "type": "Local council",
+    "iso3166-2": "MT-07",
+    "iso-name": "Dingli",
+    "iso-type": "Local council"
+  },
+  "08": {
+    "name": "Fgura",
+    "type": "Local council",
+    "iso3166-2": "MT-08",
+    "iso-name": "Fgura",
+    "iso-type": "Local council"
+  },
+  "09": {
+    "name": "Floriana",
+    "type": "Local council",
+    "iso3166-2": "MT-09",
+    "iso-name": "Floriana",
+    "iso-type": "Local council"
+  },
+  "10": {
+    "name": "Fontana",
+    "type": "Local council",
+    "iso3166-2": "MT-10",
+    "iso-name": "Fontana",
+    "iso-type": "Local council"
+  },
+  "11": {
+    "name": "Gudja",
+    "type": "Local council",
+    "iso3166-2": "MT-11",
+    "iso-name": "Gudja",
+    "iso-type": "Local council"
+  },
+  "12": {
+    "name": "Gżira",
+    "type": "Local council",
+    "iso3166-2": "MT-12",
+    "iso-name": "Gżira",
+    "iso-type": "Local council"
+  },
+  "13": {
+    "name": "Għajnsielem",
+    "type": "Local council",
+    "iso3166-2": "MT-13",
+    "iso-name": "Għajnsielem",
+    "iso-type": "Local council"
+  },
+  "14": {
+    "name": "Għarb",
+    "type": "Local council",
+    "iso3166-2": "MT-14",
+    "iso-name": "Għarb",
+    "iso-type": "Local council"
+  },
+  "15": {
+    "name": "Għargħur",
+    "type": "Local council",
+    "iso3166-2": "MT-15",
+    "iso-name": "Għargħur",
+    "iso-type": "Local council"
+  },
+  "16": {
+    "name": "Għasri",
+    "type": "Local council",
+    "iso3166-2": "MT-16",
+    "iso-name": "Għasri",
+    "iso-type": "Local council"
+  },
+  "17": {
+    "name": "Għaxaq",
+    "type": "Local council",
+    "iso3166-2": "MT-17",
+    "iso-name": "Għaxaq",
+    "iso-type": "Local council"
+  },
+  "18": {
+    "name": "Ħamrun",
+    "type": "Local council",
+    "iso3166-2": "MT-18",
+    "iso-name": "Ħamrun",
+    "iso-type": "Local council"
+  },
+  "19": {
+    "name": "Iklin",
+    "type": "Local council",
+    "iso3166-2": "MT-19",
+    "iso-name": "Iklin",
+    "iso-type": "Local council"
+  },
+  "20": {
+    "name": "Isla",
+    "type": "Local council",
+    "iso3166-2": "MT-20",
+    "iso-name": "Isla",
+    "iso-type": "Local council"
+  },
+  "21": {
+    "name": "Kalkara",
+    "type": "Local council",
+    "iso3166-2": "MT-21",
+    "iso-name": "Kalkara",
+    "iso-type": "Local council"
+  },
+  "22": {
+    "name": "Kerċem",
+    "type": "Local council",
+    "iso3166-2": "MT-22",
+    "iso-name": "Kerċem",
+    "iso-type": "Local council"
+  },
+  "23": {
+    "name": "Kirkop",
+    "type": "Local council",
+    "iso3166-2": "MT-23",
+    "iso-name": "Kirkop",
+    "iso-type": "Local council"
+  },
+  "24": {
+    "name": "Lija",
+    "type": "Local council",
+    "iso3166-2": "MT-24",
+    "iso-name": "Lija",
+    "iso-type": "Local council"
+  },
+  "25": {
+    "name": "Luqa",
+    "type": "Local council",
+    "iso3166-2": "MT-25",
+    "iso-name": "Luqa",
+    "iso-type": "Local council"
+  },
+  "26": {
+    "name": "Marsa",
+    "type": "Local council",
+    "iso3166-2": "MT-26",
+    "iso-name": "Marsa",
+    "iso-type": "Local council"
+  },
+  "27": {
+    "name": "Marsaskala",
+    "type": "Local council",
+    "iso3166-2": "MT-27",
+    "iso-name": "Marsaskala",
+    "iso-type": "Local council"
+  },
+  "28": {
+    "name": "Marsaxlokk",
+    "type": "Local council",
+    "iso3166-2": "MT-28",
+    "iso-name": "Marsaxlokk",
+    "iso-type": "Local council"
+  },
+  "29": {
+    "name": "Mdina",
+    "type": "Local council",
+    "iso3166-2": "MT-29",
+    "iso-name": "Mdina",
+    "iso-type": "Local council"
+  },
+  "30": {
+    "name": "Mellieħa",
+    "type": "Local council",
+    "iso3166-2": "MT-30",
+    "iso-name": "Mellieħa",
+    "iso-type": "Local council"
+  },
+  "31": {
+    "name": "Mġarr",
+    "type": "Local council",
+    "iso3166-2": "MT-31",
+    "iso-name": "Mġarr",
+    "iso-type": "Local council"
+  },
+  "32": {
+    "name": "Mosta",
+    "type": "Local council",
+    "iso3166-2": "MT-32",
+    "iso-name": "Mosta",
+    "iso-type": "Local council"
+  },
+  "33": {
+    "name": "Mqabba",
+    "type": "Local council",
+    "iso3166-2": "MT-33",
+    "iso-name": "Mqabba",
+    "iso-type": "Local council"
+  },
+  "34": {
+    "name": "Msida",
+    "type": "Local council",
+    "iso3166-2": "MT-34",
+    "iso-name": "Msida",
+    "iso-type": "Local council"
+  },
+  "35": {
+    "name": "Mtarfa",
+    "type": "Local council",
+    "iso3166-2": "MT-35",
+    "iso-name": "Mtarfa",
+    "iso-type": "Local council"
+  },
+  "36": {
+    "name": "Munxar",
+    "type": "Local council",
+    "iso3166-2": "MT-36",
+    "iso-name": "Munxar",
+    "iso-type": "Local council"
+  },
+  "37": {
+    "name": "Nadur",
+    "type": "Local council",
+    "iso3166-2": "MT-37",
+    "iso-name": "Nadur",
+    "iso-type": "Local council"
+  },
+  "38": {
+    "name": "Naxxar",
+    "type": "Local council",
+    "iso3166-2": "MT-38",
+    "iso-name": "Naxxar",
+    "iso-type": "Local council"
+  },
+  "39": {
+    "name": "Paola",
+    "type": "Local council",
+    "iso3166-2": "MT-39",
+    "iso-name": "Paola",
+    "iso-type": "Local council"
+  },
+  "40": {
+    "name": "Pembroke",
+    "type": "Local council",
+    "iso3166-2": "MT-40",
+    "iso-name": "Pembroke",
+    "iso-type": "Local council"
+  },
+  "41": {
+    "name": "Pietà",
+    "type": "Local council",
+    "iso3166-2": "MT-41",
+    "iso-name": "Pietà",
+    "iso-type": "Local council"
+  },
+  "42": {
+    "name": "Qala",
+    "type": "Local council",
+    "iso3166-2": "MT-42",
+    "iso-name": "Qala",
+    "iso-type": "Local council"
+  },
+  "43": {
+    "name": "Qormi",
+    "type": "Local council",
+    "iso3166-2": "MT-43",
+    "iso-name": "Qormi",
+    "iso-type": "Local council"
+  },
+  "44": {
+    "name": "Qrendi",
+    "type": "Local council",
+    "iso3166-2": "MT-44",
+    "iso-name": "Qrendi",
+    "iso-type": "Local council"
+  },
+  "45": {
+    "name": "Rabat Gozo",
+    "type": "Local council",
+    "iso3166-2": "MT-45",
+    "iso-name": "Rabat Gozo",
+    "iso-type": "Local council"
+  },
+  "46": {
+    "name": "Rabat Malta",
+    "type": "Local council",
+    "iso3166-2": "MT-46",
+    "iso-name": "Rabat Malta",
+    "iso-type": "Local council"
+  },
+  "47": {
+    "name": "Safi",
+    "type": "Local council",
+    "iso3166-2": "MT-47",
+    "iso-name": "Safi",
+    "iso-type": "Local council"
+  },
+  "48": {
+    "name": "Saint Julian's",
+    "type": "Local council",
+    "iso3166-2": "MT-48",
+    "iso-name": "Saint Julian's",
+    "iso-type": "Local council"
+  },
+  "49": {
+    "name": "Saint John",
+    "type": "Local council",
+    "iso3166-2": "MT-49",
+    "iso-name": "Saint John",
+    "iso-type": "Local council"
+  },
+  "50": {
+    "name": "Saint Lawrence",
+    "type": "Local council",
+    "iso3166-2": "MT-50",
+    "iso-name": "Saint Lawrence",
+    "iso-type": "Local council"
+  },
+  "51": {
+    "name": "Saint Paul's Bay",
+    "type": "Local council",
+    "iso3166-2": "MT-51",
+    "iso-name": "Saint Paul's Bay",
+    "iso-type": "Local council"
+  },
+  "52": {
+    "name": "Sannat",
+    "type": "Local council",
+    "iso3166-2": "MT-52",
+    "iso-name": "Sannat",
+    "iso-type": "Local council"
+  },
+  "53": {
+    "name": "Saint Lucia's",
+    "type": "Local council",
+    "iso3166-2": "MT-53",
+    "iso-name": "Saint Lucia's",
+    "iso-type": "Local council"
+  },
+  "54": {
+    "name": "Santa Venera",
+    "type": "Local council",
+    "iso3166-2": "MT-54",
+    "iso-name": "Santa Venera",
+    "iso-type": "Local council"
+  },
+  "55": {
+    "name": "Siġġiewi",
+    "type": "Local council",
+    "iso3166-2": "MT-55",
+    "iso-name": "Siġġiewi",
+    "iso-type": "Local council"
+  },
+  "56": {
+    "name": "Sliema",
+    "type": "Local council",
+    "iso3166-2": "MT-56",
+    "iso-name": "Sliema",
+    "iso-type": "Local council"
+  },
+  "57": {
+    "name": "Swieqi",
+    "type": "Local council",
+    "iso3166-2": "MT-57",
+    "iso-name": "Swieqi",
+    "iso-type": "Local council"
+  },
+  "58": {
+    "name": "Ta' Xbiex",
+    "type": "Local council",
+    "iso3166-2": "MT-58",
+    "iso-name": "Ta' Xbiex",
+    "iso-type": "Local council"
+  },
+  "59": {
+    "name": "Tarxien",
+    "type": "Local council",
+    "iso3166-2": "MT-59",
+    "iso-name": "Tarxien",
+    "iso-type": "Local council"
+  },
+  "60": {
+    "name": "Valletta",
+    "type": "Local council",
+    "iso3166-2": "MT-60",
+    "iso-name": "Valletta",
+    "iso-type": "Local council"
+  },
+  "61": {
+    "name": "Xagħra",
+    "type": "Local council",
+    "iso3166-2": "MT-61",
+    "iso-name": "Xagħra",
+    "iso-type": "Local council"
+  },
+  "62": {
+    "name": "Xewkija",
+    "type": "Local council",
+    "iso3166-2": "MT-62",
+    "iso-name": "Xewkija",
+    "iso-type": "Local council"
+  },
+  "63": {
+    "name": "Xgħajra",
+    "type": "Local council",
+    "iso3166-2": "MT-63",
+    "iso-name": "Xgħajra",
+    "iso-type": "Local council"
+  },
+  "64": {
+    "name": "Żabbar",
+    "type": "Local council",
+    "iso3166-2": "MT-64",
+    "iso-name": "Żabbar",
+    "iso-type": "Local council"
+  },
+  "65": {
+    "name": "Żebbuġ Gozo",
+    "type": "Local council",
+    "iso3166-2": "MT-65",
+    "iso-name": "Żebbuġ Gozo",
+    "iso-type": "Local council"
+  },
+  "66": {
+    "name": "Żebbuġ Malta",
+    "type": "Local council",
+    "iso3166-2": "MT-66",
+    "iso-name": "Żebbuġ Malta",
+    "iso-type": "Local council"
+  },
+  "67": {
+    "name": "Żejtun",
+    "type": "Local council",
+    "iso3166-2": "MT-67",
+    "iso-name": "Żejtun",
+    "iso-type": "Local council"
+  },
+  "68": {
+    "name": "Żurrieq",
+    "type": "Local council",
+    "iso3166-2": "MT-68",
+    "iso-name": "Żurrieq",
+    "iso-type": "Local council"
+  }
+}

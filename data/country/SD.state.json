@@ -1,56 +1,128 @@
 {
-  "GZ": {
-    "name": "Al Jazirah"
-  },
-  "GD": {
-    "name": "Al Qadarif"
-  },
-  "NB": {
-    "name": "Blue Nile"
-  },
   "DC": {
-    "name": "Central Darfur"
+    "name": "Central Darfur",
+    "type": "State",
+    "iso3166-2": "SD-DC",
+    "iso-name": "Central Darfur",
+    "iso-type": "State"
   },
   "DE": {
-    "name": "East Darfur"
-  },
-  "KA": {
-    "name": "Kassala"
-  },
-  "KH": {
-    "name": "Khartoum"
+    "name": "East Darfur",
+    "type": "State",
+    "iso3166-2": "SD-DE",
+    "iso-name": "East Darfur",
+    "iso-type": "State"
   },
   "DN": {
-    "name": "North Darfur"
-  },
-  "KN": {
-    "name": "North Kordofan"
-  },
-  "NO": {
-    "name": "Northern"
-  },
-  "RS": {
-    "name": "Red Sea"
-  },
-  "NR": {
-    "name": "River Nile"
-  },
-  "SI": {
-    "name": "Sennar"
+    "name": "North Darfur",
+    "type": "State",
+    "iso3166-2": "SD-DN",
+    "iso-name": "North Darfur",
+    "iso-type": "State"
   },
   "DS": {
-    "name": "South Darfur"
-  },
-  "KS": {
-    "name": "South Kordofan"
+    "name": "South Darfur",
+    "type": "State",
+    "iso3166-2": "SD-DS",
+    "iso-name": "South Darfur",
+    "iso-type": "State"
   },
   "DW": {
-    "name": "West Darfur"
+    "name": "West Darfur",
+    "type": "State",
+    "iso3166-2": "SD-DW",
+    "iso-name": "West Darfur",
+    "iso-type": "State"
+  },
+  "GD": {
+    "name": "Gedaref",
+    "type": "State",
+    "iso3166-2": "SD-GD",
+    "iso-name": "Gedaref",
+    "iso-type": "State"
   },
   "GK": {
-    "name": "West Kordofan"
+    "name": "West Kordofan",
+    "type": "State",
+    "iso3166-2": "SD-GK",
+    "iso-name": "West Kordofan",
+    "iso-type": "State"
+  },
+  "GZ": {
+    "name": "Gezira",
+    "type": "State",
+    "iso3166-2": "SD-GZ",
+    "iso-name": "Gezira",
+    "iso-type": "State"
+  },
+  "KA": {
+    "name": "Kassala",
+    "type": "State",
+    "iso3166-2": "SD-KA",
+    "iso-name": "Kassala",
+    "iso-type": "State"
+  },
+  "KH": {
+    "name": "Khartoum",
+    "type": "State",
+    "iso3166-2": "SD-KH",
+    "iso-name": "Khartoum",
+    "iso-type": "State"
+  },
+  "KN": {
+    "name": "North Kordofan",
+    "type": "State",
+    "iso3166-2": "SD-KN",
+    "iso-name": "North Kordofan",
+    "iso-type": "State"
+  },
+  "KS": {
+    "name": "South Kordofan",
+    "type": "State",
+    "iso3166-2": "SD-KS",
+    "iso-name": "South Kordofan",
+    "iso-type": "State"
+  },
+  "NB": {
+    "name": "Blue Nile",
+    "type": "State",
+    "iso3166-2": "SD-NB",
+    "iso-name": "Blue Nile",
+    "iso-type": "State"
+  },
+  "NO": {
+    "name": "Northern",
+    "type": "State",
+    "iso3166-2": "SD-NO",
+    "iso-name": "Northern",
+    "iso-type": "State"
+  },
+  "NR": {
+    "name": "River Nile",
+    "type": "State",
+    "iso3166-2": "SD-NR",
+    "iso-name": "River Nile",
+    "iso-type": "State"
   },
   "NW": {
-    "name": "White Nile"
+    "name": "White Nile",
+    "type": "State",
+    "iso3166-2": "SD-NW",
+    "iso-name": "White Nile",
+    "iso-type": "State"
+  },
+  "RS": {
+    "name": "Red Sea",
+    "type": "State",
+    "iso3166-2": "SD-RS",
+    "iso-name": "Red Sea",
+    "iso-type": "State"
+  },
+  "SI": {
+    "name": "Sennar",
+    "type": "State",
+    "iso3166-2": "SD-SI",
+    "iso-name": "Sennar",
+    "iso-type": "State"
   }
 }

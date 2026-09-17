@@ -1,299 +1,121 @@
 {
-  "ABR": {
-    "name": "Abra"
-  },
-  "AGN": {
-    "name": "Agusan del Norte"
-  },
-  "AGS": {
-    "name": "Agusan del Sur"
-  },
-  "AKL": {
-    "name": "Aklan"
-  },
-  "ALB": {
-    "name": "Albay"
-  },
-  "ANT": {
-    "name": "Antique"
-  },
-  "APA": {
-    "name": "Apayao"
-  },
-  "AUR": {
-    "name": "Aurora"
-  },
-  "INX": {
-    "name": "Autonomous Region in Muslim Mindanao"
-  },
-  "BAS": {
-    "name": "Basilan"
-  },
-  "BAN": {
-    "name": "Bataan"
-  },
-  "BTN": {
-    "name": "Batanes"
-  },
-  "BTG": {
-    "name": "Batangas"
-  },
-  "BEN": {
-    "name": "Benguet"
-  },
-  "BIC": {
-    "name": "Bicol"
-  },
-  "BIL": {
-    "name": "Biliran"
-  },
-  "BOH": {
-    "name": "Bohol"
-  },
-  "BUK": {
-    "name": "Bukidnon"
-  },
-  "BUL": {
-    "name": "Bulacan"
-  },
-  "CAG": {
-    "name": "Cagayan"
-  },
-  "CV": {
-    "name": "Cagayan Valley"
-  },
-  "CAL": {
-    "name": "Calabarzon"
-  },
-  "CAN": {
-    "name": "Camarines Norte"
-  },
-  "CAS": {
-    "name": "Camarines Sur"
-  },
-  "CAM": {
-    "name": "Camiguin"
-  },
-  "CAP": {
-    "name": "Capiz"
-  },
-  "CAR": {
-    "name": "Caraga"
-  },
-  "CAT": {
-    "name": "Catanduanes"
-  },
-  "CAV": {
-    "name": "Cavite"
-  },
-  "CEB": {
-    "name": "Cebu"
-  },
-  "CEN": {
-    "name": "Central Luzon"
-  },
-  "CENV": {
-    "name": "Central Visayas"
-  },
-  "COR": {
-    "name": "Cordillera Administrative"
-  },
-  "NCO": {
-    "name": "Cotabato"
-  },
-  "DAVA": {
-    "name": "Davao"
-  },
-  "COM": {
-    "name": "Davao de Oro"
-  },
-  "DAV": {
-    "name": "Davao del Norte"
-  },
-  "DAS": {
-    "name": "Davao del Sur"
-  },
-  "DVO": {
-    "name": "Davao Occidental"
-  },
-  "DAO": {
-    "name": "Davao Oriental"
-  },
-  "DIN": {
-    "name": "Dinagat Islands"
-  },
-  "EAS": {
-    "name": "Eastern Samar"
-  },
-  "EV": {
-    "name": "Eastern Visayas"
-  },
-  "GUI": {
-    "name": "Guimaras"
-  },
-  "IFU": {
-    "name": "Ifugao"
-  },
-  "ILO": {
-    "name": "Ilocos"
-  },
-  "ILN": {
-    "name": "Ilocos Norte"
-  },
-  "ILS": {
-    "name": "Ilocos Sur"
-  },
-  "ILI": {
-    "name": "Iloilo"
-  },
-  "ISA": {
-    "name": "Isabela"
-  },
-  "KAL": {
-    "name": "Kalinga"
-  },
-  "LUN": {
-    "name": "La Union"
-  },
-  "LAG": {
-    "name": "Laguna"
-  },
-  "LAN": {
-    "name": "Lanao del Norte"
-  },
-  "LAS": {
-    "name": "Lanao del Sur"
-  },
-  "LEY": {
-    "name": "Leyte"
-  },
-  "MGN": {
-    "name": "Maguindanao del Norte"
-  },
-  "MGS": {
-    "name": "Maguindanao del Sur"
-  },
-  "MAD": {
-    "name": "Marinduque"
-  },
-  "MAS": {
-    "name": "Masbate"
-  },
-  "MIM": {
-    "name": "Mimaropa"
-  },
-  "MSC": {
-    "name": "Misamis Occidental"
-  },
-  "MSR": {
-    "name": "Misamis Oriental"
-  },
-  "MOU": {
-    "name": "Mountain Province"
-  },
-  "NAT": {
-    "name": "National Capital Region (Metro Manila)"
-  },
-  "NEC": {
-    "name": "Negros Occidental"
-  },
-  "NER": {
-    "name": "Negros Oriental"
-  },
-  "NOR": {
-    "name": "Northern Mindanao"
-  },
-  "NSA": {
-    "name": "Northern Samar"
-  },
-  "NUE": {
-    "name": "Nueva Ecija"
-  },
-  "NUV": {
-    "name": "Nueva Vizcaya"
-  },
-  "MDC": {
-    "name": "Occidental Mindoro"
-  },
-  "MDR": {
-    "name": "Oriental Mindoro"
-  },
-  "PLW": {
-    "name": "Palawan"
-  },
-  "PAM": {
-    "name": "Pampanga"
-  },
-  "PAN": {
-    "name": "Pangasinan"
-  },
-  "QUE": {
-    "name": "Quezon"
-  },
-  "QUI": {
-    "name": "Quirino"
-  },
-  "RIZ": {
-    "name": "Rizal"
-  },
-  "ROM": {
-    "name": "Romblon"
-  },
-  "SAR": {
-    "name": "Sarangani"
-  },
-  "SIG": {
-    "name": "Siquijor"
-  },
-  "SOC": {
-    "name": "Soccsksargen"
-  },
-  "SOR": {
-    "name": "Sorsogon"
-  },
-  "SCO": {
-    "name": "South Cotabato"
-  },
-  "SLE": {
-    "name": "Southern Leyte"
-  },
-  "SUK": {
-    "name": "Sultan Kudarat"
-  },
-  "SLU": {
-    "name": "Sulu"
-  },
-  "SUN": {
-    "name": "Surigao del Norte"
-  },
-  "SUR": {
-    "name": "Surigao del Sur"
-  },
-  "TAR": {
-    "name": "Tarlac"
-  },
-  "TAW": {
-    "name": "Tawi-Tawi"
-  },
-  "WSA": {
-    "name": "Western Samar"
-  },
-  "WES": {
-    "name": "Western Visayas"
-  },
-  "ZMB": {
-    "name": "Zambales"
-  },
-  "ZAN": {
-    "name": "Zamboanga del Norte"
-  },
-  "ZAS": {
-    "name": "Zamboanga del Sur"
-  },
-  "ZAM": {
-    "name": "Zamboanga Peninsula"
-  },
-  "ZSI": {
-    "name": "Zamboanga Sibugay"
+  "00": {
+    "name": "National Capital Region",
+    "type": "Region",
+    "iso3166-2": "PH-00",
+    "iso-name": "National Capital Region",
+    "iso-type": "Region"
+  },
+  "01": {
+    "name": "Ilocos (Region I)",
+    "type": "Region",
+    "iso3166-2": "PH-01",
+    "iso-name": "Ilocos (Region I)",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "Cagayan Valley (Region II)",
+    "type": "Region",
+    "iso3166-2": "PH-02",
+    "iso-name": "Cagayan Valley (Region II)",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Central Luzon (Region III)",
+    "type": "Region",
+    "iso3166-2": "PH-03",
+    "iso-name": "Central Luzon (Region III)",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Bicol (Region V)",
+    "type": "Region",
+    "iso3166-2": "PH-05",
+    "iso-name": "Bicol (Region V)",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Western Visayas (Region VI)",
+    "type": "Region",
+    "iso3166-2": "PH-06",
+    "iso-name": "Western Visayas (Region VI)",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Central Visayas (Region VII)",
+    "type": "Region",
+    "iso3166-2": "PH-07",
+    "iso-name": "Central Visayas (Region VII)",
+    "iso-type": "Region"
+  },
+  "08": {
+    "name": "Eastern Visayas (Region VIII)",
+    "type": "Region",
+    "iso3166-2": "PH-08",
+    "iso-name": "Eastern Visayas (Region VIII)",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Zamboanga Peninsula (Region IX)",
+    "type": "Region",
+    "iso3166-2": "PH-09",
+    "iso-name": "Zamboanga Peninsula (Region IX)",
+    "iso-type": "Region"
+  },
+  "10": {
+    "name": "Northern Mindanao (Region X)",
+    "type": "Region",
+    "iso3166-2": "PH-10",
+    "iso-name": "Northern Mindanao (Region X)",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Davao (Region XI)",
+    "type": "Region",
+    "iso3166-2": "PH-11",
+    "iso-name": "Davao (Region XI)",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Soccsksargen (Region XII)",
+    "type": "Region",
+    "iso3166-2": "PH-12",
+    "iso-name": "Soccsksargen (Region XII)",
+    "iso-type": "Region"
+  },
+  "13": {
+    "name": "Caraga (Region XIII)",
+    "type": "Region",
+    "iso3166-2": "PH-13",
+    "iso-name": "Caraga (Region XIII)",
+    "iso-type": "Region"
+  },
+  "14": {
+    "name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "type": "Region",
+    "iso3166-2": "PH-14",
+    "iso-name": "Autonomous Region in Muslim Mindanao (ARMM)",
+    "iso-type": "Region"
+  },
+  "15": {
+    "name": "Cordillera Administrative Region (CAR)",
+    "type": "Region",
+    "iso3166-2": "PH-15",
+    "iso-name": "Cordillera Administrative Region (CAR)",
+    "iso-type": "Region"
+  },
+  "40": {
+    "name": "Calabarzon (Region IV-A)",
+    "type": "Region",
+    "iso3166-2": "PH-40",
+    "iso-name": "Calabarzon (Region IV-A)",
+    "iso-type": "Region"
+  },
+  "41": {
+    "name": "Mimaropa (Region IV-B)",
+    "type": "Region",
+    "iso3166-2": "PH-41",
+    "iso-name": "Mimaropa (Region IV-B)",
+    "iso-type": "Region"
   }
 }

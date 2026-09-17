@@ -1,104 +1,163 @@
 {
   "AH": {
-    "name": "Anhui"
-  },
-  "BJ": {
-    "name": "Beijing"
-  },
-  "CQ": {
-    "name": "Chongqing"
+    "name": "Anhui Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-AH",
+    "iso-name": "Anhui Sheng",
+    "iso-type": "Province"
   },
   "FJ": {
-    "name": "Fujian"
-  },
-  "GS": {
-    "name": "Gansu"
+    "name": "Fujian Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-FJ",
+    "iso-name": "Fujian Sheng",
+    "iso-type": "Province"
   },
   "GD": {
-    "name": "Guangdong"
+    "name": "Guangdong Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-GD",
+    "iso-name": "Guangdong Sheng",
+    "iso-type": "Province"
   },
-  "GX": {
-    "name": "Guangxi"
+  "GS": {
+    "name": "Gansu Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-GS",
+    "iso-name": "Gansu Sheng",
+    "iso-type": "Province"
   },
   "GZ": {
-    "name": "Guizhou"
-  },
-  "HI": {
-    "name": "Hainan"
-  },
-  "HE": {
-    "name": "Hebei"
-  },
-  "HL": {
-    "name": "Heilongjiang"
+    "name": "Guizhou Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-GZ",
+    "iso-name": "Guizhou Sheng",
+    "iso-type": "Province"
   },
   "HA": {
-    "name": "Henan"
-  },
-  "HK": {
-    "name": "Hong Kong SAR"
+    "name": "Henan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HA",
+    "iso-name": "Henan Sheng",
+    "iso-type": "Province"
   },
   "HB": {
-    "name": "Hubei"
+    "name": "Hubei Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HB",
+    "iso-name": "Hubei Sheng",
+    "iso-type": "Province"
+  },
+  "HE": {
+    "name": "Hebei Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HE",
+    "iso-name": "Hebei Sheng",
+    "iso-type": "Province"
+  },
+  "HI": {
+    "name": "Hainan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HI",
+    "iso-name": "Hainan Sheng",
+    "iso-type": "Province"
+  },
+  "HL": {
+    "name": "Heilongjiang Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HL",
+    "iso-name": "Heilongjiang Sheng",
+    "iso-type": "Province"
   },
   "HN": {
-    "name": "Hunan"
-  },
-  "NM": {
-    "name": "Inner Mongolia"
-  },
-  "JS": {
-    "name": "Jiangsu"
-  },
-  "JX": {
-    "name": "Jiangxi"
+    "name": "Hunan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-HN",
+    "iso-name": "Hunan Sheng",
+    "iso-type": "Province"
   },
   "JL": {
-    "name": "Jilin"
+    "name": "Jilin Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-JL",
+    "iso-name": "Jilin Sheng",
+    "iso-type": "Province"
+  },
+  "JS": {
+    "name": "Jiangsu Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-JS",
+    "iso-name": "Jiangsu Sheng",
+    "iso-type": "Province"
+  },
+  "JX": {
+    "name": "Jiangxi Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-JX",
+    "iso-name": "Jiangxi Sheng",
+    "iso-type": "Province"
   },
   "LN": {
-    "name": "Liaoning"
-  },
-  "MO": {
-    "name": "Macau SAR"
-  },
-  "NX": {
-    "name": "Ningxia"
+    "name": "Liaoning Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-LN",
+    "iso-name": "Liaoning Sheng",
+    "iso-type": "Province"
   },
   "QH": {
-    "name": "Qinghai"
-  },
-  "SN": {
-    "name": "Shaanxi"
-  },
-  "SD": {
-    "name": "Shandong"
-  },
-  "SH": {
-    "name": "Shanghai"
-  },
-  "SX": {
-    "name": "Shanxi"
+    "name": "Qinghai Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-QH",
+    "iso-name": "Qinghai Sheng",
+    "iso-type": "Province"
   },
   "SC": {
-    "name": "Sichuan"
+    "name": "Sichuan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SC",
+    "iso-name": "Sichuan Sheng",
+    "iso-type": "Province"
+  },
+  "SD": {
+    "name": "Shandong Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SD",
+    "iso-name": "Shandong Sheng",
+    "iso-type": "Province"
+  },
+  "SN": {
+    "name": "Shaanxi Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SN",
+    "iso-name": "Shaanxi Sheng",
+    "iso-type": "Province"
+  },
+  "SX": {
+    "name": "Shanxi Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-SX",
+    "iso-name": "Shanxi Sheng",
+    "iso-type": "Province"
   },
   "TW": {
-    "name": "Taiwan"
-  },
-  "TJ": {
-    "name": "Tianjin"
-  },
-  "XZ": {
-    "name": "Tibet"
-  },
-  "XJ": {
-    "name": "Xinjiang"
+    "name": "Taiwan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-TW",
+    "iso-name": "Taiwan Sheng",
+    "iso-type": "Province"
   },
   "YN": {
-    "name": "Yunnan"
+    "name": "Yunnan Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-YN",
+    "iso-name": "Yunnan Sheng",
+    "iso-type": "Province"
   },
   "ZJ": {
-    "name": "Zhejiang"
+    "name": "Zhejiang Sheng",
+    "type": "Province",
+    "iso3166-2": "CN-ZJ",
+    "iso-name": "Zhejiang Sheng",
+    "iso-type": "Province"
   }
 }

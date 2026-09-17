@@ -1,209 +1,121 @@
 {
-  "C": {
-    "name": "A Coruña"
-  },
-  "AB": {
-    "name": "Albacete"
-  },
-  "A": {
-    "name": "Alicante"
-  },
-  "AL": {
-    "name": "Almeria"
-  },
   "AN": {
-    "name": "Andalusia"
-  },
-  "VI": {
-    "name": "Araba"
+    "name": "Andalucía",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-AN",
+    "iso-name": "Andalucía",
+    "iso-type": "Autonomous community"
   },
   "AR": {
-    "name": "Aragon"
-  },
-  "O": {
-    "name": "Asturias"
+    "name": "Aragón",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-AR",
+    "iso-name": "Aragón",
+    "iso-type": "Autonomous community"
   },
   "AS": {
-    "name": "Asturias, Principality of"
-  },
-  "AV": {
-    "name": "Ávila"
-  },
-  "BA": {
-    "name": "Badajoz"
-  },
-  "IB": {
-    "name": "Balearic Islands"
-  },
-  "B": {
-    "name": "Barcelona"
-  },
-  "PV": {
-    "name": "Basque Country"
-  },
-  "BI": {
-    "name": "Bizkaia"
-  },
-  "BU": {
-    "name": "Burgos"
-  },
-  "CC": {
-    "name": "Caceres"
-  },
-  "CA": {
-    "name": "Cádiz"
-  },
-  "CN": {
-    "name": "Canary Islands"
-  },
-  "S": {
-    "name": "Cantabria"
+    "name": "Asturias, Principado de",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-AS",
+    "iso-name": "Asturias, Principado de",
+    "iso-type": "Autonomous community"
   },
   "CB": {
-    "name": "Cantabria"
-  },
-  "CS": {
-    "name": "Castellón"
+    "name": "Cantabria",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-CB",
+    "iso-name": "Cantabria",
+    "iso-type": "Autonomous community"
   },
   "CL": {
-    "name": "Castile and Leon"
+    "name": "Castilla y León",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-CL",
+    "iso-name": "Castilla y León",
+    "iso-type": "Autonomous community"
   },
   "CM": {
-    "name": "Castilla-La Mancha"
+    "name": "Castilla-La Mancha",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-CM",
+    "iso-name": "Castilla-La Mancha",
+    "iso-type": "Autonomous community"
+  },
+  "CN": {
+    "name": "Canarias",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-CN",
+    "iso-name": "Canarias",
+    "iso-type": "Autonomous community"
   },
   "CT": {
-    "name": "Catalonia"
-  },
-  "CE": {
-    "name": "Ceuta"
-  },
-  "CR": {
-    "name": "Ciudad Real"
-  },
-  "MD": {
-    "name": "Community of Madrid"
-  },
-  "CO": {
-    "name": "Córdoba"
-  },
-  "CU": {
-    "name": "Cuenca"
+    "name": "Catalunya",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-CT",
+    "iso-name": "Catalunya [Cataluña]",
+    "iso-type": "Autonomous community"
   },
   "EX": {
-    "name": "Estremadura"
+    "name": "Extremadura",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-EX",
+    "iso-name": "Extremadura",
+    "iso-type": "Autonomous community"
   },
   "GA": {
-    "name": "Galicia"
+    "name": "Galicia",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-GA",
+    "iso-name": "Galicia [Galicia]",
+    "iso-type": "Autonomous community"
   },
-  "SS": {
-    "name": "Gipuzkoa"
-  },
-  "GI": {
-    "name": "Girona"
-  },
-  "GR": {
-    "name": "Granada"
-  },
-  "GU": {
-    "name": "Guadalajara"
-  },
-  "H": {
-    "name": "Huelva"
-  },
-  "HU": {
-    "name": "Huesca"
-  },
-  "PM": {
-    "name": "Islas Baleares"
-  },
-  "J": {
-    "name": "Jaén"
-  },
-  "RI": {
-    "name": "La Rioja"
-  },
-  "LO": {
-    "name": "La Rioja"
-  },
-  "GC": {
-    "name": "Las Palmas"
-  },
-  "LE": {
-    "name": "León"
-  },
-  "L": {
-    "name": "Lleida"
-  },
-  "LU": {
-    "name": "Lugo"
-  },
-  "M": {
-    "name": "Madrid"
-  },
-  "MA": {
-    "name": "Málaga"
-  },
-  "ML": {
-    "name": "Melilla"
-  },
-  "MU": {
-    "name": "Murcia"
-  },
-  "NA": {
-    "name": "Navarra"
-  },
-  "NC": {
-    "name": "Navarre"
-  },
-  "OR": {
-    "name": "Ourense"
-  },
-  "P": {
-    "name": "Palencia"
-  },
-  "PO": {
-    "name": "Pontevedra"
+  "IB": {
+    "name": "Illes Balears",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-IB",
+    "iso-name": "Illes Balears [Islas Baleares]",
+    "iso-type": "Autonomous community"
   },
   "MC": {
-    "name": "Region of Murcia"
+    "name": "Murcia, Región de",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-MC",
+    "iso-name": "Murcia, Región de",
+    "iso-type": "Autonomous community"
   },
-  "SA": {
-    "name": "Salamanca"
+  "MD": {
+    "name": "Madrid, Comunidad de",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-MD",
+    "iso-name": "Madrid, Comunidad de",
+    "iso-type": "Autonomous community"
   },
-  "TF": {
-    "name": "Santa Cruz de Tenerife"
+  "NC": {
+    "name": "Navarra, Comunidad Foral de",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-NC",
+    "iso-name": "Navarra, Comunidad Foral de",
+    "iso-type": "Autonomous community"
   },
-  "SG": {
-    "name": "Segovia"
+  "PV": {
+    "name": "País Vasco",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-PV",
+    "iso-name": "País Vasco",
+    "iso-type": "Autonomous community"
   },
-  "SE": {
-    "name": "Sevilla"
-  },
-  "SO": {
-    "name": "Soria"
-  },
-  "T": {
-    "name": "Tarragona"
-  },
-  "TE": {
-    "name": "Teruel"
-  },
-  "TO": {
-    "name": "Toledo"
-  },
-  "V": {
-    "name": "Valencia"
+  "RI": {
+    "name": "La Rioja",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-RI",
+    "iso-name": "La Rioja",
+    "iso-type": "Autonomous community"
   },
   "VC": {
-    "name": "Valencian Community"
-  },
-  "VA": {
-    "name": "Valladolid"
-  },
-  "ZA": {
-    "name": "Zamora"
-  },
-  "Z": {
-    "name": "Zaragoza"
+    "name": "Valenciana, Comunidad",
+    "type": "Autonomous community",
+    "iso3166-2": "ES-VC",
+    "iso-name": "Valenciana, Comunidad",
+    "iso-type": "Autonomous community"
   }
 }

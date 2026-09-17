@@ -31,10 +31,6 @@
       "value": 77836396962.77196,
       "year": 2023
     },
-    "postal-code": {
-      "format": "LT-#####",
-      "regex": "^(?:LT)*(\\d{5})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -62,6 +58,90 @@
     "continent-code": "EU",
     "currency-codes": [
       "LTL"
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%nLT-%Z %C %S",
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "04340",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "LT-#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "04340",
+              "03500"
+            ],
+            "lookup-url": "http://www.post.lt/lt/?id=316",
+            "prefix": "LT-"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": false,
+          "uppercase": false
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "city_municipality",
+        "label": "City Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "district_municipality",
+        "label": "District Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      },
+      {
+        "key": "municipality",
+        "label": "Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
     ]
   }
 }

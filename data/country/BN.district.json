@@ -1,0 +1,30 @@
+{
+  "BE": {
+    "name": "Belait",
+    "type": "District",
+    "iso3166-2": "BN-BE",
+    "iso-name": "Belait",
+    "iso-type": "District"
+  },
+  "BM": {
+    "name": "Brunei-Muara",
+    "type": "District",
+    "iso3166-2": "BN-BM",
+    "iso-name": "Brunei-Muara",
+    "iso-type": "District"
+  },
+  "TE": {
+    "name": "Temburong",
+    "type": "District",
+    "iso3166-2": "BN-TE",
+    "iso-name": "Temburong",
+    "iso-type": "District"
+  },
+  "TU": {
+    "name": "Tutong",
+    "type": "District",
+    "iso3166-2": "BN-TU",
+    "iso-name": "Tutong",
+    "iso-type": "District"
+  }
+}

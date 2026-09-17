@@ -1,0 +1,51 @@
+{
+  "41": {
+    "name": "Gyeonggi-do",
+    "type": "Province",
+    "iso3166-2": "KR-41",
+    "iso-name": "Gyeonggi-do",
+    "iso-type": "Province"
+  },
+  "43": {
+    "name": "Chungcheongbuk-do",
+    "type": "Province",
+    "iso3166-2": "KR-43",
+    "iso-name": "Chungcheongbuk-do",
+    "iso-type": "Province"
+  },
+  "44": {
+    "name": "Chungcheongnam-do",
+    "type": "Province",
+    "iso3166-2": "KR-44",
+    "iso-name": "Chungcheongnam-do",
+    "iso-type": "Province"
+  },
+  "45": {
+    "name": "Jeollabuk-do",
+    "type": "Province",
+    "iso3166-2": "KR-45",
+    "iso-name": "Jeollabuk-do",
+    "iso-type": "Province"
+  },
+  "46": {
+    "name": "Jeollanam-do",
+    "type": "Province",
+    "iso3166-2": "KR-46",
+    "iso-name": "Jeollanam-do",
+    "iso-type": "Province"
+  },
+  "47": {
+    "name": "Gyeongsangbuk-do",
+    "type": "Province",
+    "iso3166-2": "KR-47",
+    "iso-name": "Gyeongsangbuk-do",
+    "iso-type": "Province"
+  },
+  "48": {
+    "name": "Gyeongsangnam-do",
+    "type": "Province",
+    "iso3166-2": "KR-48",
+    "iso-name": "Gyeongsangnam-do",
+    "iso-type": "Province"
+  }
+}

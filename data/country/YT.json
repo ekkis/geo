@@ -23,10 +23,6 @@
     "demonym": {
       "en": "Mahoran"
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "phone-code": "262",
     "language-codes": [
       "myt"
@@ -37,6 +33,54 @@
     "continent-code": "AF",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%Z %C %X",
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "97600",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:976\\d{2})$",
+            "examples": [
+              "97600"
+            ]
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "sorting-code": {
+          "header": "Sorting Code",
+          "placeholder": "Sorting Code",
+          "required": false,
+          "uppercase": true
+        }
+      }
+    }
   }
 }

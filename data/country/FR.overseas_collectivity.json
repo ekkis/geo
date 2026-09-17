@@ -1,0 +1,37 @@
+{
+  "BL": {
+    "name": "Saint-Barthélemy",
+    "type": "Overseas collectivity",
+    "iso3166-2": "FR-BL",
+    "iso-name": "Saint-Barthélemy",
+    "iso-type": "Overseas collectivity"
+  },
+  "MF": {
+    "name": "Saint-Martin",
+    "type": "Overseas collectivity",
+    "iso3166-2": "FR-MF",
+    "iso-name": "Saint-Martin",
+    "iso-type": "Overseas collectivity"
+  },
+  "PF": {
+    "name": "Polynésie française",
+    "type": "Overseas collectivity",
+    "iso3166-2": "FR-PF",
+    "iso-name": "Polynésie française",
+    "iso-type": "Overseas collectivity"
+  },
+  "PM": {
+    "name": "Saint-Pierre-et-Miquelon",
+    "type": "Overseas collectivity",
+    "iso3166-2": "FR-PM",
+    "iso-name": "Saint-Pierre-et-Miquelon",
+    "iso-type": "Overseas collectivity"
+  },
+  "WF": {
+    "name": "Wallis-et-Futuna",
+    "type": "Overseas collectivity",
+    "iso3166-2": "FR-WF",
+    "iso-name": "Wallis-et-Futuna",
+    "iso-type": "Overseas collectivity"
+  }
+}

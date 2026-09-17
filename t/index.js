@@ -24,7 +24,8 @@ describe('Entity lists', () => {
     it('exposes capitals and subdivision supplements', () => {
         const denmark = geo.country.find('DK', { singleton: true });
         assert.equal(denmark.capital.en, 'Copenhagen');
-        assert.ok(Object.values(denmark.region).some(region => region.name === 'North Denmark'));
+        assert.equal(denmark.region['81']['iso3166-2'], 'DK-81');
+        assert.equal(denmark.region['81'].name, 'Nordjylland');
     });
 });
 

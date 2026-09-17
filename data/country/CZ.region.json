@@ -1,272 +1,93 @@
 {
-  "BEN": {
-    "name": "Benešov"
-  },
-  "BER": {
-    "name": "Beroun"
-  },
-  "BLA": {
-    "name": "Blansko"
-  },
-  "BRE": {
-    "name": "Břeclav"
-  },
-  "BRN": {
-    "name": "Brno-město"
-  },
-  "BV": {
-    "name": "Brno-venkov"
-  },
-  "BRU": {
-    "name": "Bruntál"
-  },
-  "CES": {
-    "name": "Česká Lípa"
-  },
-  "CB": {
-    "name": "České Budějovice"
-  },
-  "CK": {
-    "name": "Český Krumlov"
-  },
-  "CHE": {
-    "name": "Cheb"
-  },
-  "CHO": {
-    "name": "Chomutov"
-  },
-  "CHR": {
-    "name": "Chrudim"
-  },
-  "DEC": {
-    "name": "Děčín"
-  },
-  "DOM": {
-    "name": "Domažlice"
-  },
-  "FRY": {
-    "name": "Frýdek-Místek"
-  },
-  "HAV": {
-    "name": "Havlíčkův Brod"
-  },
-  "HOD": {
-    "name": "Hodonín"
-  },
-  "HRAKR": {
-    "name": "Hradec Králové"
-  },
-  "JAB": {
-    "name": "Jablonec nad Nisou"
-  },
-  "JES": {
-    "name": "Jeseník"
-  },
-  "JIC": {
-    "name": "Jičín"
-  },
-  "JIH": {
-    "name": "Jihlava"
-  },
-  "JK": {
-    "name": "Jihočeský kraj"
-  },
-  "JIHK": {
-    "name": "Jihomoravský kraj"
-  },
-  "JIN": {
-    "name": "Jindřichův Hradec"
-  },
-  "KAR": {
-    "name": "Karlovarský kraj"
-  },
-  "KARVA": {
-    "name": "Karlovy Vary"
-  },
-  "KARV": {
-    "name": "Karviná"
-  },
-  "KLA": {
-    "name": "Kladno"
-  },
-  "KLAT": {
-    "name": "Klatovy"
-  },
-  "KOL": {
-    "name": "Kolín"
-  },
-  "KRA": {
-    "name": "Kraj Vysočina"
-  },
-  "KK": {
-    "name": "Královéhradecký kraj"
-  },
-  "KRO": {
-    "name": "Kroměříž"
-  },
-  "KUT": {
-    "name": "Kutná Hora"
-  },
-  "LIB": {
-    "name": "Liberec"
-  },
-  "LK": {
-    "name": "Liberecký kraj"
-  },
-  "LIT": {
-    "name": "Litoměřice"
-  },
-  "LOU": {
-    "name": "Louny"
-  },
-  "MEL": {
-    "name": "Mělník"
-  },
-  "MLA": {
-    "name": "Mladá Boleslav"
-  },
-  "MOR": {
-    "name": "Moravskoslezský kraj"
-  },
-  "MOS": {
-    "name": "Most"
-  },
-  "NAC": {
-    "name": "Náchod"
-  },
-  "NOV": {
-    "name": "Nový Jičín"
-  },
-  "NYM": {
-    "name": "Nymburk"
-  },
-  "OLO": {
-    "name": "Olomouc"
-  },
-  "OK": {
-    "name": "Olomoucký kraj"
-  },
-  "OPA": {
-    "name": "Opava"
-  },
-  "OST": {
-    "name": "Ostrava-město"
-  },
-  "PAR": {
-    "name": "Pardubice"
-  },
-  "PK": {
-    "name": "Pardubický kraj"
-  },
-  "PEL": {
-    "name": "Pelhřimov"
-  },
-  "PIS": {
-    "name": "Písek"
-  },
-  "PLZ": {
-    "name": "Plzeň-jih"
-  },
-  "PM": {
-    "name": "Plzeň-město"
-  },
-  "PS": {
-    "name": "Plzeň-sever"
-  },
-  "PLZK": {
-    "name": "Plzeňský kraj"
-  },
-  "PRA": {
-    "name": "Prachatice"
-  },
-  "PV": {
-    "name": "Praha-východ"
-  },
-  "20A": {
-    "name": "Praha-západ"
-  },
-  "PHM": {
-    "name": "Praha, Hlavní město"
-  },
-  "PRE": {
-    "name": "Přerov"
-  },
-  "20B": {
-    "name": "Příbram"
-  },
-  "PRO": {
-    "name": "Prostějov"
-  },
-  "20C": {
-    "name": "Rakovník"
-  },
-  "ROK": {
-    "name": "Rokycany"
-  },
-  "RYC": {
-    "name": "Rychnov nad Kněžnou"
-  },
-  "SEM": {
-    "name": "Semily"
-  },
-  "SOK": {
-    "name": "Sokolov"
-  },
-  "STR": {
-    "name": "Strakonice"
-  },
-  "SK": {
-    "name": "Středočeský kraj"
-  },
-  "SUM": {
-    "name": "Šumperk"
-  },
-  "SVI": {
-    "name": "Svitavy"
-  },
-  "TAB": {
-    "name": "Tábor"
-  },
-  "TAC": {
-    "name": "Tachov"
-  },
-  "TEP": {
-    "name": "Teplice"
-  },
-  "TRE": {
-    "name": "Třebíč"
-  },
-  "TRU": {
-    "name": "Trutnov"
-  },
-  "UHE": {
-    "name": "Uherské Hradiště"
-  },
-  "UST": {
-    "name": "Ústecký kraj"
-  },
-  "USTNA": {
-    "name": "Ústí nad Labem"
-  },
-  "UNO": {
-    "name": "Ústí nad Orlicí"
-  },
-  "VSE": {
-    "name": "Vsetín"
-  },
-  "VYS": {
-    "name": "Vyškov"
-  },
-  "ZDA": {
-    "name": "Žďár nad Sázavou"
-  },
-  "ZLI": {
-    "name": "Zlín"
-  },
-  "ZK": {
-    "name": "Zlínský kraj"
-  },
-  "ZNO": {
-    "name": "Znojmo"
+  "20": {
+    "name": "Středočeský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-20",
+    "iso-name": "Středočeský kraj",
+    "iso-type": "Region"
+  },
+  "31": {
+    "name": "Jihočeský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-31",
+    "iso-name": "Jihočeský kraj",
+    "iso-type": "Region"
+  },
+  "32": {
+    "name": "Plzeňský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-32",
+    "iso-name": "Plzeňský kraj",
+    "iso-type": "Region"
+  },
+  "41": {
+    "name": "Karlovarský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-41",
+    "iso-name": "Karlovarský kraj",
+    "iso-type": "Region"
+  },
+  "42": {
+    "name": "Ústecký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-42",
+    "iso-name": "Ústecký kraj",
+    "iso-type": "Region"
+  },
+  "51": {
+    "name": "Liberecký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-51",
+    "iso-name": "Liberecký kraj",
+    "iso-type": "Region"
+  },
+  "52": {
+    "name": "Královéhradecký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-52",
+    "iso-name": "Královéhradecký kraj",
+    "iso-type": "Region"
+  },
+  "53": {
+    "name": "Pardubický kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-53",
+    "iso-name": "Pardubický kraj",
+    "iso-type": "Region"
+  },
+  "63": {
+    "name": "Kraj Vysočina",
+    "type": "Region",
+    "iso3166-2": "CZ-63",
+    "iso-name": "Kraj Vysočina",
+    "iso-type": "Region"
+  },
+  "64": {
+    "name": "Jihomoravský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-64",
+    "iso-name": "Jihomoravský kraj",
+    "iso-type": "Region"
+  },
+  "71": {
+    "name": "Olomoucký kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-71",
+    "iso-name": "Olomoucký kraj",
+    "iso-type": "Region"
+  },
+  "72": {
+    "name": "Zlínský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-72",
+    "iso-name": "Zlínský kraj",
+    "iso-type": "Region"
+  },
+  "80": {
+    "name": "Moravskoslezský kraj",
+    "type": "Region",
+    "iso3166-2": "CZ-80",
+    "iso-name": "Moravskoslezský kraj",
+    "iso-type": "Region"
   }
 }

@@ -1,131 +1,135 @@
 {
-  "BK": {
-    "name": "Bács-Kiskun"
-  },
   "BA": {
-    "name": "Baranya"
+    "name": "Baranya",
+    "type": "County",
+    "iso3166-2": "HU-BA",
+    "iso-name": "Baranya",
+    "iso-type": "County"
   },
   "BE": {
-    "name": "Békés"
+    "name": "Békés",
+    "type": "County",
+    "iso3166-2": "HU-BE",
+    "iso-name": "Békés",
+    "iso-type": "County"
   },
-  "BC": {
-    "name": "Békéscsaba"
+  "BK": {
+    "name": "Bács-Kiskun",
+    "type": "County",
+    "iso3166-2": "HU-BK",
+    "iso-name": "Bács-Kiskun",
+    "iso-type": "County"
   },
   "BZ": {
-    "name": "Borsod-Abaúj-Zemplén"
-  },
-  "BU": {
-    "name": "Budapest"
+    "name": "Borsod-Abaúj-Zemplén",
+    "type": "County",
+    "iso3166-2": "HU-BZ",
+    "iso-name": "Borsod-Abaúj-Zemplén",
+    "iso-type": "County"
   },
   "CS": {
-    "name": "Csongrád County"
-  },
-  "DE": {
-    "name": "Debrecen"
-  },
-  "DU": {
-    "name": "Dunaújváros"
-  },
-  "EG": {
-    "name": "Eger"
-  },
-  "ER": {
-    "name": "Érd"
+    "name": "Csongrád-Csanád",
+    "type": "County",
+    "iso3166-2": "HU-CS",
+    "iso-name": "Csongrád-Csanád",
+    "iso-type": "County"
   },
   "FE": {
-    "name": "Fejér County"
-  },
-  "GY": {
-    "name": "Győr"
+    "name": "Fejér",
+    "type": "County",
+    "iso3166-2": "HU-FE",
+    "iso-name": "Fejér",
+    "iso-type": "County"
   },
   "GS": {
-    "name": "Győr-Moson-Sopron County"
+    "name": "Győr-Moson-Sopron",
+    "type": "County",
+    "iso3166-2": "HU-GS",
+    "iso-name": "Győr-Moson-Sopron",
+    "iso-type": "County"
   },
   "HB": {
-    "name": "Hajdú-Bihar County"
+    "name": "Hajdú-Bihar",
+    "type": "County",
+    "iso3166-2": "HU-HB",
+    "iso-name": "Hajdú-Bihar",
+    "iso-type": "County"
   },
   "HE": {
-    "name": "Heves County"
-  },
-  "HV": {
-    "name": "Hódmezővásárhely"
+    "name": "Heves",
+    "type": "County",
+    "iso3166-2": "HU-HE",
+    "iso-name": "Heves",
+    "iso-type": "County"
   },
   "JN": {
-    "name": "Jász-Nagykun-Szolnok County"
-  },
-  "KV": {
-    "name": "Kaposvár"
-  },
-  "KM": {
-    "name": "Kecskemét"
+    "name": "Jász-Nagykun-Szolnok",
+    "type": "County",
+    "iso3166-2": "HU-JN",
+    "iso-name": "Jász-Nagykun-Szolnok",
+    "iso-type": "County"
   },
   "KE": {
-    "name": "Komárom-Esztergom"
-  },
-  "MI": {
-    "name": "Miskolc"
-  },
-  "NK": {
-    "name": "Nagykanizsa"
+    "name": "Komárom-Esztergom",
+    "type": "County",
+    "iso3166-2": "HU-KE",
+    "iso-name": "Komárom-Esztergom",
+    "iso-type": "County"
   },
   "NO": {
-    "name": "Nógrád County"
-  },
-  "NY": {
-    "name": "Nyíregyháza"
-  },
-  "PS": {
-    "name": "Pécs"
+    "name": "Nógrád",
+    "type": "County",
+    "iso3166-2": "HU-NO",
+    "iso-name": "Nógrád",
+    "iso-type": "County"
   },
   "PE": {
-    "name": "Pest County"
-  },
-  "ST": {
-    "name": "Salgótarján"
+    "name": "Pest",
+    "type": "County",
+    "iso3166-2": "HU-PE",
+    "iso-name": "Pest",
+    "iso-type": "County"
   },
   "SO": {
-    "name": "Somogy County"
-  },
-  "SN": {
-    "name": "Sopron"
+    "name": "Somogy",
+    "type": "County",
+    "iso3166-2": "HU-SO",
+    "iso-name": "Somogy",
+    "iso-type": "County"
   },
   "SZ": {
-    "name": "Szabolcs-Szatmár-Bereg County"
-  },
-  "SD": {
-    "name": "Szeged"
-  },
-  "SF": {
-    "name": "Székesfehérvár"
-  },
-  "SS": {
-    "name": "Szekszárd"
-  },
-  "SK": {
-    "name": "Szolnok"
-  },
-  "SH": {
-    "name": "Szombathely"
-  },
-  "TB": {
-    "name": "Tatabánya"
+    "name": "Szabolcs-Szatmár-Bereg",
+    "type": "County",
+    "iso3166-2": "HU-SZ",
+    "iso-name": "Szabolcs-Szatmár-Bereg",
+    "iso-type": "County"
   },
   "TO": {
-    "name": "Tolna County"
+    "name": "Tolna",
+    "type": "County",
+    "iso3166-2": "HU-TO",
+    "iso-name": "Tolna",
+    "iso-type": "County"
   },
   "VA": {
-    "name": "Vas County"
-  },
-  "VM": {
-    "name": "Veszprém"
+    "name": "Vas",
+    "type": "County",
+    "iso3166-2": "HU-VA",
+    "iso-name": "Vas",
+    "iso-type": "County"
   },
   "VE": {
-    "name": "Veszprém County"
+    "name": "Veszprém",
+    "type": "County",
+    "iso3166-2": "HU-VE",
+    "iso-name": "Veszprém",
+    "iso-type": "County"
   },
   "ZA": {
-    "name": "Zala County"
-  },
-  "ZE": {
-    "name": "Zalaegerszeg"
+    "name": "Zala",
+    "type": "County",
+    "iso3166-2": "HU-ZA",
+    "iso-name": "Zala",
+    "iso-type": "County"
   }
 }

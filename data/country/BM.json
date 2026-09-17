@@ -30,10 +30,6 @@
       "value": 7827980000,
       "year": 2022
     },
-    "postal-code": {
-      "format": "@@ ##",
-      "regex": "^([A-Z]{2}\\d{2})$"
-    },
     "phone-code": "+1-441",
     "language-codes": [
       "bmu"
@@ -41,6 +37,51 @@
     "continent-code": "NA",
     "currency-codes": [
       "BMD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "FL 07",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "@@ ##",
+            "regex": "^(?:[A-Z]{2} ?[A-Z0-9]{2})$",
+            "examples": [
+              "FL 07",
+              "HM GX",
+              "HM 12"
+            ],
+            "lookup-url": "http://www.landvaluation.bm/"
+          }
+        }
+      }
+    }
   }
 }

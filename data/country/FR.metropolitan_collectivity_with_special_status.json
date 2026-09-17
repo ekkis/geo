@@ -1,0 +1,25 @@
+{
+  "20R": {
+    "name": "Corse",
+    "type": "Metropolitan collectivity with special status",
+    "iso3166-2": "FR-20R",
+    "iso-name": "Corse",
+    "iso-type": "Metropolitan collectivity with special status"
+  },
+  "69M": {
+    "name": "Métropole de Lyon",
+    "type": "Metropolitan collectivity with special status",
+    "iso3166-2": "FR-69M",
+    "iso-name": "Métropole de Lyon",
+    "iso-type": "Metropolitan collectivity with special status",
+    "parent-code": "ARA"
+  },
+  "75C": {
+    "name": "Paris",
+    "type": "Metropolitan collectivity with special status",
+    "iso3166-2": "FR-75C",
+    "iso-name": "Paris",
+    "iso-type": "Metropolitan collectivity with special status",
+    "parent-code": "IDF"
+  }
+}

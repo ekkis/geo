@@ -1,0 +1,30 @@
+{
+  "HH": {
+    "name": "Hhohho",
+    "type": "Region",
+    "iso3166-2": "SZ-HH",
+    "iso-name": "Hhohho",
+    "iso-type": "Region"
+  },
+  "LU": {
+    "name": "Lubombo",
+    "type": "Region",
+    "iso3166-2": "SZ-LU",
+    "iso-name": "Lubombo",
+    "iso-type": "Region"
+  },
+  "MA": {
+    "name": "Manzini",
+    "type": "Region",
+    "iso3166-2": "SZ-MA",
+    "iso-name": "Manzini",
+    "iso-type": "Region"
+  },
+  "SH": {
+    "name": "Shiselweni",
+    "type": "Region",
+    "iso3166-2": "SZ-SH",
+    "iso-name": "Shiselweni",
+    "iso-type": "Region"
+  }
+}

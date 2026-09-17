@@ -1,0 +1,23 @@
+{
+  "G": {
+    "name": "Gilbert Islands",
+    "type": "Group of islands (20 inhabited islands)",
+    "iso3166-2": "KI-G",
+    "iso-name": "Gilbert Islands",
+    "iso-type": "Group of islands (20 inhabited islands)"
+  },
+  "L": {
+    "name": "Line Islands",
+    "type": "Group of islands (20 inhabited islands)",
+    "iso3166-2": "KI-L",
+    "iso-name": "Line Islands",
+    "iso-type": "Group of islands (20 inhabited islands)"
+  },
+  "P": {
+    "name": "Phoenix Islands",
+    "type": "Group of islands (20 inhabited islands)",
+    "iso3166-2": "KI-P",
+    "iso-name": "Phoenix Islands",
+    "iso-type": "Group of islands (20 inhabited islands)"
+  }
+}

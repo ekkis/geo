@@ -1,35 +1,79 @@
 {
   "AA": {
-    "name": "A'ana"
+    "name": "A'ana",
+    "type": "District",
+    "iso3166-2": "WS-AA",
+    "iso-name": "A'ana",
+    "iso-type": "District"
   },
   "AL": {
-    "name": "Aiga-i-le-Tai"
+    "name": "Aiga-i-le-Tai",
+    "type": "District",
+    "iso3166-2": "WS-AL",
+    "iso-name": "Aiga-i-le-Tai",
+    "iso-type": "District"
   },
   "AT": {
-    "name": "Atua"
+    "name": "Atua",
+    "type": "District",
+    "iso3166-2": "WS-AT",
+    "iso-name": "Atua",
+    "iso-type": "District"
   },
   "FA": {
-    "name": "Fa'asaleleaga"
+    "name": "Fa'asaleleaga",
+    "type": "District",
+    "iso3166-2": "WS-FA",
+    "iso-name": "Fa'asaleleaga",
+    "iso-type": "District"
   },
   "GE": {
-    "name": "Gaga'emauga"
+    "name": "Gaga'emauga",
+    "type": "District",
+    "iso3166-2": "WS-GE",
+    "iso-name": "Gaga'emauga",
+    "iso-type": "District"
   },
   "GI": {
-    "name": "Gaga'ifomauga"
+    "name": "Gagaifomauga",
+    "type": "District",
+    "iso3166-2": "WS-GI",
+    "iso-name": "Gagaifomauga",
+    "iso-type": "District"
   },
   "PA": {
-    "name": "Palauli"
+    "name": "Palauli",
+    "type": "District",
+    "iso3166-2": "WS-PA",
+    "iso-name": "Palauli",
+    "iso-type": "District"
   },
   "SA": {
-    "name": "Satupa'itea"
+    "name": "Satupa'itea",
+    "type": "District",
+    "iso3166-2": "WS-SA",
+    "iso-name": "Satupa'itea",
+    "iso-type": "District"
   },
   "TU": {
-    "name": "Tuamasaga"
+    "name": "Tuamasaga",
+    "type": "District",
+    "iso3166-2": "WS-TU",
+    "iso-name": "Tuamasaga",
+    "iso-type": "District"
   },
   "VF": {
-    "name": "Va'a-o-Fonoti"
+    "name": "Va'a-o-Fonoti",
+    "type": "District",
+    "iso3166-2": "WS-VF",
+    "iso-name": "Va'a-o-Fonoti",
+    "iso-type": "District"
   },
   "VS": {
-    "name": "Vaisigano"
+    "name": "Vaisigano",
+    "type": "District",
+    "iso3166-2": "WS-VS",
+    "iso-name": "Vaisigano",
+    "iso-type": "District"
   }
 }

@@ -1,0 +1,80 @@
+{
+  "BA": {
+    "name": "Bakı",
+    "type": "Municipality",
+    "iso3166-2": "AZ-BA",
+    "iso-name": "Bakı",
+    "iso-type": "Municipality"
+  },
+  "GA": {
+    "name": "Gəncə",
+    "type": "Municipality",
+    "iso3166-2": "AZ-GA",
+    "iso-name": "Gəncə",
+    "iso-type": "Municipality"
+  },
+  "LA": {
+    "name": "Lənkəran",
+    "type": "Municipality",
+    "iso3166-2": "AZ-LA",
+    "iso-name": "Lənkəran",
+    "iso-type": "Municipality"
+  },
+  "MI": {
+    "name": "Mingəçevir",
+    "type": "Municipality",
+    "iso3166-2": "AZ-MI",
+    "iso-name": "Mingəçevir",
+    "iso-type": "Municipality"
+  },
+  "NA": {
+    "name": "Naftalan",
+    "type": "Municipality",
+    "iso3166-2": "AZ-NA",
+    "iso-name": "Naftalan",
+    "iso-type": "Municipality"
+  },
+  "NV": {
+    "name": "Naxçıvan",
+    "type": "Municipality",
+    "iso3166-2": "AZ-NV",
+    "iso-name": "Naxçıvan",
+    "iso-type": "Municipality",
+    "parent-code": "NX"
+  },
+  "SA": {
+    "name": "Şəki",
+    "type": "Municipality",
+    "iso3166-2": "AZ-SA",
+    "iso-name": "Şəki",
+    "iso-type": "Municipality"
+  },
+  "SM": {
+    "name": "Sumqayıt",
+    "type": "Municipality",
+    "iso3166-2": "AZ-SM",
+    "iso-name": "Sumqayıt",
+    "iso-type": "Municipality"
+  },
+  "SR": {
+    "name": "Şirvan",
+    "type": "Municipality",
+    "iso3166-2": "AZ-SR",
+    "iso-name": "Şirvan",
+    "iso-type": "Municipality"
+  },
+  "XA": {
+    "name": "Xankəndi",
+    "type": "Municipality",
+    "iso3166-2": "AZ-XA",
+    "iso-name": "Xankəndi",
+    "iso-type": "Municipality"
+  },
+  "YE": {
+    "name": "Yevlax",
+    "type": "Municipality",
+    "iso3166-2": "AZ-YE",
+    "iso-name": "Yevlax",
+    "iso-type": "Municipality"
+  }
+}

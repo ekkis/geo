@@ -33,10 +33,6 @@
       "value": 20956999452.431664,
       "year": 2023
     },
-    "postal-code": {
-      "format": "@@@ ###|@@@ ##",
-      "regex": "^([A-Z]{3}\\d{2}\\d?)$"
-    },
     "organisation-codes": [
       "WTO",
       "EU",
@@ -49,6 +45,63 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "NXR 01",
+          "required": false,
+          "uppercase": true,
+          "validation": {
+            "format": "@@@ ###|@@@ ##",
+            "regex": "^(?:[A-Z]{3} ?\\d{2,4})$",
+            "examples": [
+              "NXR 01",
+              "ZTN 05",
+              "GPO 01",
+              "BZN 1130",
+              "SPB 6031",
+              "VCT 1753"
+            ],
+            "lookup-url": "https://www.maltapost.com/PostCode/"
+          }
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "local_council",
+        "label": "Local Council",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

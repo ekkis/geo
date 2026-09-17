@@ -1,38 +1,86 @@
 {
-  "BER": {
-    "name": "Berat"
+  "01": {
+    "name": "Berat",
+    "type": "County",
+    "iso3166-2": "AL-01",
+    "iso-name": "Berat",
+    "iso-type": "County"
   },
-  "DIB": {
-    "name": "Dibër"
+  "02": {
+    "name": "Durrës",
+    "type": "County",
+    "iso3166-2": "AL-02",
+    "iso-name": "Durrës",
+    "iso-type": "County"
   },
-  "DUR": {
-    "name": "Durrës"
+  "03": {
+    "name": "Elbasan",
+    "type": "County",
+    "iso3166-2": "AL-03",
+    "iso-name": "Elbasan",
+    "iso-type": "County"
   },
-  "ELB": {
-    "name": "Elbasan"
+  "04": {
+    "name": "Fier",
+    "type": "County",
+    "iso3166-2": "AL-04",
+    "iso-name": "Fier",
+    "iso-type": "County"
   },
-  "FIE": {
-    "name": "Fier"
+  "05": {
+    "name": "Gjirokastër",
+    "type": "County",
+    "iso3166-2": "AL-05",
+    "iso-name": "Gjirokastër",
+    "iso-type": "County"
   },
-  "GJI": {
-    "name": "Gjirokastër"
+  "06": {
+    "name": "Korçë",
+    "type": "County",
+    "iso3166-2": "AL-06",
+    "iso-name": "Korçë",
+    "iso-type": "County"
   },
-  "KOR": {
-    "name": "Korçë"
+  "07": {
+    "name": "Kukës",
+    "type": "County",
+    "iso3166-2": "AL-07",
+    "iso-name": "Kukës",
+    "iso-type": "County"
   },
-  "KUK": {
-    "name": "Kukës"
+  "08": {
+    "name": "Lezhë",
+    "type": "County",
+    "iso3166-2": "AL-08",
+    "iso-name": "Lezhë",
+    "iso-type": "County"
   },
-  "LEZ": {
-    "name": "Lezhë"
+  "09": {
+    "name": "Dibër",
+    "type": "County",
+    "iso3166-2": "AL-09",
+    "iso-name": "Dibër",
+    "iso-type": "County"
   },
-  "SHK": {
-    "name": "Shkodër"
+  "10": {
+    "name": "Shkodër",
+    "type": "County",
+    "iso3166-2": "AL-10",
+    "iso-name": "Shkodër",
+    "iso-type": "County"
   },
-  "TIR": {
-    "name": "Tirana"
+  "11": {
+    "name": "Tiranë",
+    "type": "County",
+    "iso3166-2": "AL-11",
+    "iso-name": "Tiranë",
+    "iso-type": "County"
   },
-  "VLO": {
-    "name": "Vlorë"
+  "12": {
+    "name": "Vlorë",
+    "type": "County",
+    "iso3166-2": "AL-12",
+    "iso-name": "Vlorë",
+    "iso-type": "County"
   }
 }

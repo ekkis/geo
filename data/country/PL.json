@@ -33,10 +33,6 @@
       "value": 811229100687.5663,
       "year": 2023
     },
-    "postal-code": {
-      "format": "##-###",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -67,6 +63,62 @@
     "continent-code": "EU",
     "currency-codes": [
       "PLN"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "00-950",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "##-###",
+            "regex": "^(?:\\d{2}-\\d{3})$",
+            "examples": [
+              "00-950",
+              "05-470",
+              "48-300",
+              "32-015",
+              "00-940"
+            ],
+            "lookup-url": "http://kody.poczta-polska.pl/"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "voivodship",
+        "label": "Voivodship",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

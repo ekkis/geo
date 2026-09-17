@@ -1,0 +1,10 @@
+{
+  "01": {
+    "name": "Distrito Nacional (Santo Domingo)",
+    "type": "District",
+    "iso3166-2": "DO-01",
+    "iso-name": "Distrito Nacional (Santo Domingo)",
+    "iso-type": "District",
+    "parent-code": "40"
+  }
+}

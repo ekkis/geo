@@ -1,0 +1,114 @@
+{
+  "02": {
+    "name": "Dolnośląskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-02",
+    "iso-name": "Dolnośląskie",
+    "iso-type": "Voivodship"
+  },
+  "04": {
+    "name": "Kujawsko-Pomorskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-04",
+    "iso-name": "Kujawsko-Pomorskie",
+    "iso-type": "Voivodship"
+  },
+  "06": {
+    "name": "Lubelskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-06",
+    "iso-name": "Lubelskie",
+    "iso-type": "Voivodship"
+  },
+  "08": {
+    "name": "Lubuskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-08",
+    "iso-name": "Lubuskie",
+    "iso-type": "Voivodship"
+  },
+  "10": {
+    "name": "Łódzkie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-10",
+    "iso-name": "Łódzkie",
+    "iso-type": "Voivodship"
+  },
+  "12": {
+    "name": "Małopolskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-12",
+    "iso-name": "Małopolskie",
+    "iso-type": "Voivodship"
+  },
+  "14": {
+    "name": "Mazowieckie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-14",
+    "iso-name": "Mazowieckie",
+    "iso-type": "Voivodship"
+  },
+  "16": {
+    "name": "Opolskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-16",
+    "iso-name": "Opolskie",
+    "iso-type": "Voivodship"
+  },
+  "18": {
+    "name": "Podkarpackie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-18",
+    "iso-name": "Podkarpackie",
+    "iso-type": "Voivodship"
+  },
+  "20": {
+    "name": "Podlaskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-20",
+    "iso-name": "Podlaskie",
+    "iso-type": "Voivodship"
+  },
+  "22": {
+    "name": "Pomorskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-22",
+    "iso-name": "Pomorskie",
+    "iso-type": "Voivodship"
+  },
+  "24": {
+    "name": "Śląskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-24",
+    "iso-name": "Śląskie",
+    "iso-type": "Voivodship"
+  },
+  "26": {
+    "name": "Świętokrzyskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-26",
+    "iso-name": "Świętokrzyskie",
+    "iso-type": "Voivodship"
+  },
+  "28": {
+    "name": "Warmińsko-Mazurskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-28",
+    "iso-name": "Warmińsko-Mazurskie",
+    "iso-type": "Voivodship"
+  },
+  "30": {
+    "name": "Wielkopolskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-30",
+    "iso-name": "Wielkopolskie",
+    "iso-type": "Voivodship"
+  },
+  "32": {
+    "name": "Zachodniopomorskie",
+    "type": "Voivodship",
+    "iso3166-2": "PL-32",
+    "iso-name": "Zachodniopomorskie",
+    "iso-type": "Voivodship"
+  }
+}

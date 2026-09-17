@@ -1,0 +1,106 @@
+{
+  "AGD": {
+    "name": "Agadir-Ida-Ou-Tanane",
+    "type": "Prefecture",
+    "iso3166-2": "MA-AGD",
+    "iso-name": "Agadir-Ida-Ou-Tanane",
+    "iso-type": "Prefecture",
+    "parent-code": "09"
+  },
+  "CAS": {
+    "name": "Casablanca",
+    "type": "Prefecture",
+    "iso3166-2": "MA-CAS",
+    "iso-name": "Casablanca",
+    "iso-type": "Prefecture",
+    "parent-code": "06"
+  },
+  "FES": {
+    "name": "Fès",
+    "type": "Prefecture",
+    "iso3166-2": "MA-FES",
+    "iso-name": "Fès",
+    "iso-type": "Prefecture",
+    "parent-code": "03"
+  },
+  "INE": {
+    "name": "Inezgane-Ait Melloul",
+    "type": "Prefecture",
+    "iso3166-2": "MA-INE",
+    "iso-name": "Inezgane-Ait Melloul",
+    "iso-type": "Prefecture",
+    "parent-code": "09"
+  },
+  "MAR": {
+    "name": "Marrakech",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MAR",
+    "iso-name": "Marrakech",
+    "iso-type": "Prefecture",
+    "parent-code": "07"
+  },
+  "MDF": {
+    "name": "M’diq-Fnideq",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MDF",
+    "iso-name": "M’diq-Fnideq",
+    "iso-type": "Prefecture",
+    "parent-code": "01"
+  },
+  "MEK": {
+    "name": "Meknès",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MEK",
+    "iso-name": "Meknès",
+    "iso-type": "Prefecture",
+    "parent-code": "03"
+  },
+  "MOH": {
+    "name": "Mohammadia",
+    "type": "Prefecture",
+    "iso3166-2": "MA-MOH",
+    "iso-name": "Mohammadia",
+    "iso-type": "Prefecture",
+    "parent-code": "06"
+  },
+  "OUJ": {
+    "name": "Oujda-Angad",
+    "type": "Prefecture",
+    "iso3166-2": "MA-OUJ",
+    "iso-name": "Oujda-Angad",
+    "iso-type": "Prefecture",
+    "parent-code": "02"
+  },
+  "RAB": {
+    "name": "Rabat",
+    "type": "Prefecture",
+    "iso3166-2": "MA-RAB",
+    "iso-name": "Rabat",
+    "iso-type": "Prefecture",
+    "parent-code": "04"
+  },
+  "SAL": {
+    "name": "Salé",
+    "type": "Prefecture",
+    "iso3166-2": "MA-SAL",
+    "iso-name": "Salé",
+    "iso-type": "Prefecture",
+    "parent-code": "04"
+  },
+  "SKH": {
+    "name": "Skhirate-Témara",
+    "type": "Prefecture",
+    "iso3166-2": "MA-SKH",
+    "iso-name": "Skhirate-Témara",
+    "iso-type": "Prefecture",
+    "parent-code": "04"
+  },
+  "TNG": {
+    "name": "Tanger-Assilah",
+    "type": "Prefecture",
+    "iso3166-2": "MA-TNG",
+    "iso-name": "Tanger-Assilah",
+    "iso-type": "Prefecture",
+    "parent-code": "01"
+  }
+}

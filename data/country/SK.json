@@ -31,10 +31,6 @@
       "value": 132793622283.07097,
       "year": 2023
     },
-    "postal-code": {
-      "format": "###  ##",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -65,6 +61,62 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "010 01",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "###  ##",
+            "regex": "^(?:\\d{3} ?\\d{2})$",
+            "examples": [
+              "010 01",
+              "023 14",
+              "972 48",
+              "921 01",
+              "975 99"
+            ],
+            "lookup-url": "http://psc.posta.sk"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

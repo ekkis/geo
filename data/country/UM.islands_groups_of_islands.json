@@ -1,0 +1,65 @@
+{
+  "67": {
+    "name": "Johnston Atoll",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-67",
+    "iso-name": "Johnston Atoll",
+    "iso-type": "Islands, groups of islands"
+  },
+  "71": {
+    "name": "Midway Islands",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-71",
+    "iso-name": "Midway Islands",
+    "iso-type": "Islands, groups of islands"
+  },
+  "76": {
+    "name": "Navassa Island",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-76",
+    "iso-name": "Navassa Island",
+    "iso-type": "Islands, groups of islands"
+  },
+  "79": {
+    "name": "Wake Island",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-79",
+    "iso-name": "Wake Island",
+    "iso-type": "Islands, groups of islands"
+  },
+  "81": {
+    "name": "Baker Island",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-81",
+    "iso-name": "Baker Island",
+    "iso-type": "Islands, groups of islands"
+  },
+  "84": {
+    "name": "Howland Island",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-84",
+    "iso-name": "Howland Island",
+    "iso-type": "Islands, groups of islands"
+  },
+  "86": {
+    "name": "Jarvis Island",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-86",
+    "iso-name": "Jarvis Island",
+    "iso-type": "Islands, groups of islands"
+  },
+  "89": {
+    "name": "Kingman Reef",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-89",
+    "iso-name": "Kingman Reef",
+    "iso-type": "Islands, groups of islands"
+  },
+  "95": {
+    "name": "Palmyra Atoll",
+    "type": "Islands, groups of islands",
+    "iso3166-2": "UM-95",
+    "iso-name": "Palmyra Atoll",
+    "iso-type": "Islands, groups of islands"
+  }
+}

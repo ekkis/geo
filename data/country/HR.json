@@ -33,10 +33,6 @@
       "value": 82688842717.3926,
       "year": 2023
     },
-    "postal-code": {
-      "format": "HR-#####",
-      "regex": "^(?:HR)*(\\d{5})$"
-    },
     "organisation-codes": [
       "NATO",
       "BIS",
@@ -64,6 +60,68 @@
     "continent-code": "EU",
     "currency-codes": [
       "HRK"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%nHR-%Z %C",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "10000",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "HR-#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "10000",
+              "21001",
+              "10002"
+            ],
+            "lookup-url": "http://www.posta.hr/default.aspx?pretpum",
+            "prefix": "HR-"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "city",
+        "label": "City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

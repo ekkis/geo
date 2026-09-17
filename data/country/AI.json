@@ -33,6 +33,47 @@
     "continent-code": "NA",
     "currency-codes": [
       "XCD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "2640",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "regex": "^(?:(?:AI-)?2640)$",
+            "examples": [
+              "2640"
+            ]
+          }
+        }
+      }
+    }
   }
 }

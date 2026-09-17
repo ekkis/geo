@@ -1,0 +1,72 @@
+{
+  "33": {
+    "name": "Cibao Nordeste",
+    "type": "Region",
+    "iso3166-2": "DO-33",
+    "iso-name": "Cibao Nordeste",
+    "iso-type": "Region"
+  },
+  "34": {
+    "name": "Cibao Noroeste",
+    "type": "Region",
+    "iso3166-2": "DO-34",
+    "iso-name": "Cibao Noroeste",
+    "iso-type": "Region"
+  },
+  "35": {
+    "name": "Cibao Norte",
+    "type": "Region",
+    "iso3166-2": "DO-35",
+    "iso-name": "Cibao Norte",
+    "iso-type": "Region"
+  },
+  "36": {
+    "name": "Cibao Sur",
+    "type": "Region",
+    "iso3166-2": "DO-36",
+    "iso-name": "Cibao Sur",
+    "iso-type": "Region"
+  },
+  "37": {
+    "name": "El Valle",
+    "type": "Region",
+    "iso3166-2": "DO-37",
+    "iso-name": "El Valle",
+    "iso-type": "Region"
+  },
+  "38": {
+    "name": "Enriquillo",
+    "type": "Region",
+    "iso3166-2": "DO-38",
+    "iso-name": "Enriquillo",
+    "iso-type": "Region"
+  },
+  "39": {
+    "name": "Higuamo",
+    "type": "Region",
+    "iso3166-2": "DO-39",
+    "iso-name": "Higuamo",
+    "iso-type": "Region"
+  },
+  "40": {
+    "name": "Ozama",
+    "type": "Region",
+    "iso3166-2": "DO-40",
+    "iso-name": "Ozama",
+    "iso-type": "Region"
+  },
+  "41": {
+    "name": "Valdesia",
+    "type": "Region",
+    "iso3166-2": "DO-41",
+    "iso-name": "Valdesia",
+    "iso-type": "Region"
+  },
+  "42": {
+    "name": "Yuma",
+    "type": "Region",
+    "iso3166-2": "DO-42",
+    "iso-name": "Yuma",
+    "iso-type": "Region"
+  }
+}

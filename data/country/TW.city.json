@@ -1,0 +1,23 @@
+{
+  "CYI": {
+    "name": "Chiayi",
+    "type": "City",
+    "iso3166-2": "TW-CYI",
+    "iso-name": "Chiayi",
+    "iso-type": "City"
+  },
+  "HSZ": {
+    "name": "Hsinchu",
+    "type": "City",
+    "iso3166-2": "TW-HSZ",
+    "iso-name": "Hsinchu",
+    "iso-type": "City"
+  },
+  "KEE": {
+    "name": "Keelung",
+    "type": "City",
+    "iso3166-2": "TW-KEE",
+    "iso-name": "Keelung",
+    "iso-type": "City"
+  }
+}

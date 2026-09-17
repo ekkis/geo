@@ -1,29 +1,65 @@
 {
-  "BUR": {
-    "name": "Burgenland"
+  "1": {
+    "name": "Burgenland",
+    "type": "State",
+    "iso3166-2": "AT-1",
+    "iso-name": "Burgenland",
+    "iso-type": "State"
   },
-  "CAR": {
-    "name": "Carinthia"
+  "2": {
+    "name": "Kärnten",
+    "type": "State",
+    "iso3166-2": "AT-2",
+    "iso-name": "Kärnten",
+    "iso-type": "State"
   },
-  "LOW": {
-    "name": "Lower Austria"
+  "3": {
+    "name": "Niederösterreich",
+    "type": "State",
+    "iso3166-2": "AT-3",
+    "iso-name": "Niederösterreich",
+    "iso-type": "State"
   },
-  "SAL": {
-    "name": "Salzburg"
+  "4": {
+    "name": "Oberösterreich",
+    "type": "State",
+    "iso3166-2": "AT-4",
+    "iso-name": "Oberösterreich",
+    "iso-type": "State"
   },
-  "STY": {
-    "name": "Styria"
+  "5": {
+    "name": "Salzburg",
+    "type": "State",
+    "iso3166-2": "AT-5",
+    "iso-name": "Salzburg",
+    "iso-type": "State"
   },
-  "TYR": {
-    "name": "Tyrol"
+  "6": {
+    "name": "Steiermark",
+    "type": "State",
+    "iso3166-2": "AT-6",
+    "iso-name": "Steiermark",
+    "iso-type": "State"
   },
-  "UPP": {
-    "name": "Upper Austria"
+  "7": {
+    "name": "Tirol",
+    "type": "State",
+    "iso3166-2": "AT-7",
+    "iso-name": "Tirol",
+    "iso-type": "State"
   },
-  "VIE": {
-    "name": "Vienna"
+  "8": {
+    "name": "Vorarlberg",
+    "type": "State",
+    "iso3166-2": "AT-8",
+    "iso-name": "Vorarlberg",
+    "iso-type": "State"
   },
-  "VOR": {
-    "name": "Vorarlberg"
+  "9": {
+    "name": "Wien",
+    "type": "State",
+    "iso3166-2": "AT-9",
+    "iso-name": "Wien",
+    "iso-type": "State"
   }
 }

@@ -1,0 +1,16 @@
+{
+  "42": {
+    "name": "Gangwon-teukbyeoljachido",
+    "type": "Special self-governing province",
+    "iso3166-2": "KR-42",
+    "iso-name": "Gangwon-teukbyeoljachido",
+    "iso-type": "Special self-governing province"
+  },
+  "49": {
+    "name": "Jeju-teukbyeoljachido",
+    "type": "Special self-governing province",
+    "iso3166-2": "KR-49",
+    "iso-name": "Jeju-teukbyeoljachido",
+    "iso-type": "Special self-governing province"
+  }
+}

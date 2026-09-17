@@ -1,212 +1,72 @@
 {
-  "AKM": {
-    "name": "Akmenė"
-  },
-  "ALY": {
-    "name": "Alytus"
-  },
-  "ALYT": {
-    "name": "Alytus"
-  },
   "AL": {
-    "name": "Alytus"
-  },
-  "ANY": {
-    "name": "Anykščiai"
-  },
-  "BIR": {
-    "name": "Birštonas"
-  },
-  "BIRZ": {
-    "name": "Biržai"
-  },
-  "DRU": {
-    "name": "Druskininkai"
-  },
-  "ELE": {
-    "name": "Elektrėnai"
-  },
-  "IGN": {
-    "name": "Ignalina"
-  },
-  "JON": {
-    "name": "Jonava"
-  },
-  "JONI": {
-    "name": "Joniškis"
-  },
-  "JUR": {
-    "name": "Jurbarkas"
-  },
-  "KAI": {
-    "name": "Kaišiadorys"
-  },
-  "KAL": {
-    "name": "Kalvarija"
-  },
-  "KU": {
-    "name": "Kaunas"
-  },
-  "KAU": {
-    "name": "Kaunas"
-  },
-  "KAUN": {
-    "name": "Kaunas"
-  },
-  "KAZ": {
-    "name": "Kazlų Rūda"
-  },
-  "KED": {
-    "name": "Kėdainiai"
-  },
-  "KEL": {
-    "name": "Kelmė"
+    "name": "Alytaus apskritis",
+    "type": "County",
+    "iso3166-2": "LT-AL",
+    "iso-name": "Alytaus apskritis",
+    "iso-type": "County"
   },
   "KL": {
-    "name": "Klaipėda"
+    "name": "Klaipėdos apskritis",
+    "type": "County",
+    "iso3166-2": "LT-KL",
+    "iso-name": "Klaipėdos apskritis",
+    "iso-type": "County"
   },
-  "KLA": {
-    "name": "Klaipėda"
-  },
-  "KM": {
-    "name": "Klaipėdos miestas"
-  },
-  "KRE": {
-    "name": "Kretinga"
-  },
-  "KUP": {
-    "name": "Kupiškis"
-  },
-  "LAZ": {
-    "name": "Lazdijai"
-  },
-  "MAR": {
-    "name": "Marijampolė"
+  "KU": {
+    "name": "Kauno apskritis",
+    "type": "County",
+    "iso3166-2": "LT-KU",
+    "iso-name": "Kauno apskritis",
+    "iso-type": "County"
   },
   "MR": {
-    "name": "Marijampolė"
-  },
-  "MAZ": {
-    "name": "Mažeikiai"
-  },
-  "MOL": {
-    "name": "Molėtai"
-  },
-  "NER": {
-    "name": "Neringa"
-  },
-  "PAG": {
-    "name": "Pagėgiai"
-  },
-  "PAK": {
-    "name": "Pakruojis"
-  },
-  "PAL": {
-    "name": "Palanga"
-  },
-  "PAN": {
-    "name": "Panevėžio miestas"
-  },
-  "PANE": {
-    "name": "Panevėžys"
+    "name": "Marijampolės apskritis",
+    "type": "County",
+    "iso3166-2": "LT-MR",
+    "iso-name": "Marijampolės apskritis",
+    "iso-type": "County"
   },
   "PN": {
-    "name": "Panevėžys"
-  },
-  "PAS": {
-    "name": "Pasvalys"
-  },
-  "PLU": {
-    "name": "Plungė"
-  },
-  "PRI": {
-    "name": "Prienai"
-  },
-  "RAD": {
-    "name": "Radviliškis"
-  },
-  "RAS": {
-    "name": "Raseiniai"
-  },
-  "RIE": {
-    "name": "Rietavas"
-  },
-  "ROK": {
-    "name": "Rokiškis"
-  },
-  "SAK": {
-    "name": "Šakiai"
-  },
-  "SAL": {
-    "name": "Šalčininkai"
+    "name": "Panevėžio apskritis",
+    "type": "County",
+    "iso3166-2": "LT-PN",
+    "iso-name": "Panevėžio apskritis",
+    "iso-type": "County"
   },
   "SA": {
-    "name": "Šiauliai"
-  },
-  "SIA": {
-    "name": "Šiauliai"
-  },
-  "SIAU": {
-    "name": "Šiauliai"
-  },
-  "SIL": {
-    "name": "Šilalė "
-  },
-  "SILU": {
-    "name": "Šilutė"
-  },
-  "SIR": {
-    "name": "Širvintos"
-  },
-  "SKU": {
-    "name": "Skuodas"
-  },
-  "SVE": {
-    "name": "Švenčionys"
+    "name": "Šiaulių apskritis",
+    "type": "County",
+    "iso3166-2": "LT-SA",
+    "iso-name": "Šiaulių apskritis",
+    "iso-type": "County"
   },
   "TA": {
-    "name": "Tauragė"
-  },
-  "TAU": {
-    "name": "Tauragė"
-  },
-  "TEL": {
-    "name": "Telšiai"
+    "name": "Tauragės apskritis",
+    "type": "County",
+    "iso3166-2": "LT-TA",
+    "iso-name": "Tauragės apskritis",
+    "iso-type": "County"
   },
   "TE": {
-    "name": "Telšiai"
-  },
-  "TRA": {
-    "name": "Trakai"
-  },
-  "UKM": {
-    "name": "Ukmergė"
-  },
-  "UTE": {
-    "name": "Utena"
+    "name": "Telšių apskritis",
+    "type": "County",
+    "iso3166-2": "LT-TE",
+    "iso-name": "Telšių apskritis",
+    "iso-type": "County"
   },
   "UT": {
-    "name": "Utena"
-  },
-  "VAR": {
-    "name": "Varėna"
-  },
-  "VIL": {
-    "name": "Vilkaviškis"
-  },
-  "VILN": {
-    "name": "Vilnius"
-  },
-  "VILNI": {
-    "name": "Vilnius"
+    "name": "Utenos apskritis",
+    "type": "County",
+    "iso3166-2": "LT-UT",
+    "iso-name": "Utenos apskritis",
+    "iso-type": "County"
   },
   "VL": {
-    "name": "Vilnius"
-  },
-  "VIS": {
-    "name": "Visaginas"
-  },
-  "ZAR": {
-    "name": "Zarasai"
+    "name": "Vilniaus apskritis",
+    "type": "County",
+    "iso3166-2": "LT-VL",
+    "iso-name": "Vilniaus apskritis",
+    "iso-type": "County"
   }
 }

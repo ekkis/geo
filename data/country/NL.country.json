@@ -1,0 +1,23 @@
+{
+  "AW": {
+    "name": "Aruba",
+    "type": "Country",
+    "iso3166-2": "NL-AW",
+    "iso-name": "Aruba",
+    "iso-type": "Country"
+  },
+  "CW": {
+    "name": "Curaçao",
+    "type": "Country",
+    "iso3166-2": "NL-CW",
+    "iso-name": "Curaçao",
+    "iso-type": "Country"
+  },
+  "SX": {
+    "name": "Sint Maarten",
+    "type": "Country",
+    "iso3166-2": "NL-SX",
+    "iso-name": "Sint Maarten",
+    "iso-type": "Country"
+  }
+}

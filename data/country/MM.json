@@ -34,10 +34,6 @@
       "value": 64815031669.095245,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "ASEAN",
       "WTO",
@@ -66,6 +62,71 @@
     "continent-code": "AS",
     "currency-codes": [
       "MMK"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C, %Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "11181",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "11181"
+            ]
+          }
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "state",
+        "label": "State",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "union_territory",
+        "label": "Union Territory",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

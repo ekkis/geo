@@ -1,20 +1,44 @@
 {
-  "CHA": {
-    "name": "Charlotte"
+  "01": {
+    "name": "Charlotte",
+    "type": "Parish",
+    "iso3166-2": "VC-01",
+    "iso-name": "Charlotte",
+    "iso-type": "Parish"
   },
-  "GRE": {
-    "name": "Grenadines"
+  "02": {
+    "name": "Saint Andrew",
+    "type": "Parish",
+    "iso3166-2": "VC-02",
+    "iso-name": "Saint Andrew",
+    "iso-type": "Parish"
   },
-  "AND": {
-    "name": "Saint Andrew"
+  "03": {
+    "name": "Saint David",
+    "type": "Parish",
+    "iso3166-2": "VC-03",
+    "iso-name": "Saint David",
+    "iso-type": "Parish"
   },
-  "DAV": {
-    "name": "Saint David"
+  "04": {
+    "name": "Saint George",
+    "type": "Parish",
+    "iso3166-2": "VC-04",
+    "iso-name": "Saint George",
+    "iso-type": "Parish"
   },
-  "GEO": {
-    "name": "Saint George"
+  "05": {
+    "name": "Saint Patrick",
+    "type": "Parish",
+    "iso3166-2": "VC-05",
+    "iso-name": "Saint Patrick",
+    "iso-type": "Parish"
   },
-  "PAT": {
-    "name": "Saint Patrick"
+  "06": {
+    "name": "Grenadines",
+    "type": "Parish",
+    "iso3166-2": "VC-06",
+    "iso-name": "Grenadines",
+    "iso-type": "Parish"
   }
 }

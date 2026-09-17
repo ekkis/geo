@@ -1,0 +1,37 @@
+{
+  "AV": {
+    "name": "Avannaata Kommunia",
+    "type": "Municipality",
+    "iso3166-2": "GL-AV",
+    "iso-name": "Avannaata Kommunia",
+    "iso-type": "Municipality"
+  },
+  "KU": {
+    "name": "Kommune Kujalleq",
+    "type": "Municipality",
+    "iso3166-2": "GL-KU",
+    "iso-name": "Kommune Kujalleq",
+    "iso-type": "Municipality"
+  },
+  "QE": {
+    "name": "Qeqqata Kommunia",
+    "type": "Municipality",
+    "iso3166-2": "GL-QE",
+    "iso-name": "Qeqqata Kommunia",
+    "iso-type": "Municipality"
+  },
+  "QT": {
+    "name": "Kommune Qeqertalik",
+    "type": "Municipality",
+    "iso3166-2": "GL-QT",
+    "iso-name": "Kommune Qeqertalik",
+    "iso-type": "Municipality"
+  },
+  "SM": {
+    "name": "Kommuneqarfik Sermersooq",
+    "type": "Municipality",
+    "iso3166-2": "GL-SM",
+    "iso-name": "Kommuneqarfik Sermersooq",
+    "iso-type": "Municipality"
+  }
+}

@@ -1,128 +1,250 @@
 {
-  "AZU": {
-    "name": "Azua"
+  "02": {
+    "name": "Azua",
+    "type": "Province",
+    "iso3166-2": "DO-02",
+    "iso-name": "Azua",
+    "iso-type": "Province",
+    "parent-code": "41"
   },
-  "BAO": {
-    "name": "Baoruco"
+  "03": {
+    "name": "Baoruco",
+    "type": "Province",
+    "iso3166-2": "DO-03",
+    "iso-name": "Baoruco",
+    "iso-type": "Province",
+    "parent-code": "38"
   },
-  "BAR": {
-    "name": "Barahona"
+  "04": {
+    "name": "Barahona",
+    "type": "Province",
+    "iso3166-2": "DO-04",
+    "iso-name": "Barahona",
+    "iso-type": "Province",
+    "parent-code": "38"
   },
-  "CIB": {
-    "name": "Cibao Nordeste"
+  "05": {
+    "name": "Dajabón",
+    "type": "Province",
+    "iso3166-2": "DO-05",
+    "iso-name": "Dajabón",
+    "iso-type": "Province",
+    "parent-code": "34"
   },
-  "CN": {
-    "name": "Cibao Noroeste"
+  "06": {
+    "name": "Duarte",
+    "type": "Province",
+    "iso3166-2": "DO-06",
+    "iso-name": "Duarte",
+    "iso-type": "Province",
+    "parent-code": "33"
   },
-  "CIBN": {
-    "name": "Cibao Norte"
+  "07": {
+    "name": "Elías Piña",
+    "type": "Province",
+    "iso3166-2": "DO-07",
+    "iso-name": "Elías Piña",
+    "iso-type": "Province",
+    "parent-code": "37"
   },
-  "CS": {
-    "name": "Cibao Sur"
+  "08": {
+    "name": "El Seibo",
+    "type": "Province",
+    "iso3166-2": "DO-08",
+    "iso-name": "El Seibo",
+    "iso-type": "Province",
+    "parent-code": "42"
   },
-  "DAJ": {
-    "name": "Dajabón"
+  "09": {
+    "name": "Espaillat",
+    "type": "Province",
+    "iso3166-2": "DO-09",
+    "iso-name": "Espaillat",
+    "iso-type": "Province",
+    "parent-code": "35"
   },
-  "DIS": {
-    "name": "Distrito Nacional"
+  "10": {
+    "name": "Independencia",
+    "type": "Province",
+    "iso3166-2": "DO-10",
+    "iso-name": "Independencia",
+    "iso-type": "Province",
+    "parent-code": "38"
   },
-  "DUA": {
-    "name": "Duarte"
+  "11": {
+    "name": "La Altagracia",
+    "type": "Province",
+    "iso3166-2": "DO-11",
+    "iso-name": "La Altagracia",
+    "iso-type": "Province",
+    "parent-code": "42"
   },
-  "SEI": {
-    "name": "El Seibo"
+  "12": {
+    "name": "La Romana",
+    "type": "Province",
+    "iso3166-2": "DO-12",
+    "iso-name": "La Romana",
+    "iso-type": "Province",
+    "parent-code": "42"
   },
-  "VAL": {
-    "name": "El Valle"
+  "13": {
+    "name": "La Vega",
+    "type": "Province",
+    "iso3166-2": "DO-13",
+    "iso-name": "La Vega",
+    "iso-type": "Province",
+    "parent-code": "36"
   },
-  "ELI": {
-    "name": "Elías Piña"
+  "14": {
+    "name": "María Trinidad Sánchez",
+    "type": "Province",
+    "iso3166-2": "DO-14",
+    "iso-name": "María Trinidad Sánchez",
+    "iso-type": "Province",
+    "parent-code": "33"
   },
-  "ENR": {
-    "name": "Enriquillo"
+  "15": {
+    "name": "Monte Cristi",
+    "type": "Province",
+    "iso3166-2": "DO-15",
+    "iso-name": "Monte Cristi",
+    "iso-type": "Province",
+    "parent-code": "34"
   },
-  "ESP": {
-    "name": "Espaillat"
+  "16": {
+    "name": "Pedernales",
+    "type": "Province",
+    "iso3166-2": "DO-16",
+    "iso-name": "Pedernales",
+    "iso-type": "Province",
+    "parent-code": "38"
   },
-  "HAT": {
-    "name": "Hato Mayor"
+  "17": {
+    "name": "Peravia",
+    "type": "Province",
+    "iso3166-2": "DO-17",
+    "iso-name": "Peravia",
+    "iso-type": "Province",
+    "parent-code": "41"
   },
-  "HER": {
-    "name": "Hermanas Mirabal"
+  "18": {
+    "name": "Puerto Plata",
+    "type": "Province",
+    "iso3166-2": "DO-18",
+    "iso-name": "Puerto Plata",
+    "iso-type": "Province",
+    "parent-code": "35"
   },
-  "HIG": {
-    "name": "Higuamo"
+  "19": {
+    "name": "Hermanas Mirabal",
+    "type": "Province",
+    "iso3166-2": "DO-19",
+    "iso-name": "Hermanas Mirabal",
+    "iso-type": "Province",
+    "parent-code": "33"
   },
-  "IND": {
-    "name": "Independencia"
+  "20": {
+    "name": "Samaná",
+    "type": "Province",
+    "iso3166-2": "DO-20",
+    "iso-name": "Samaná",
+    "iso-type": "Province",
+    "parent-code": "33"
   },
-  "ALT": {
-    "name": "La Altagracia"
+  "21": {
+    "name": "San Cristóbal",
+    "type": "Province",
+    "iso3166-2": "DO-21",
+    "iso-name": "San Cristóbal",
+    "iso-type": "Province",
+    "parent-code": "41"
   },
-  "ROM": {
-    "name": "La Romana"
+  "22": {
+    "name": "San Juan",
+    "type": "Province",
+    "iso3166-2": "DO-22",
+    "iso-name": "San Juan",
+    "iso-type": "Province",
+    "parent-code": "37"
   },
-  "VEG": {
-    "name": "La Vega"
+  "23": {
+    "name": "San Pedro de Macorís",
+    "type": "Province",
+    "iso3166-2": "DO-23",
+    "iso-name": "San Pedro de Macorís",
+    "iso-type": "Province",
+    "parent-code": "39"
   },
-  "MAR": {
-    "name": "María Trinidad Sánchez"
+  "24": {
+    "name": "Sánchez Ramírez",
+    "type": "Province",
+    "iso3166-2": "DO-24",
+    "iso-name": "Sánchez Ramírez",
+    "iso-type": "Province",
+    "parent-code": "36"
   },
-  "MON": {
-    "name": "Monseñor Nouel"
+  "25": {
+    "name": "Santiago",
+    "type": "Province",
+    "iso3166-2": "DO-25",
+    "iso-name": "Santiago",
+    "iso-type": "Province",
+    "parent-code": "35"
   },
-  "MC": {
-    "name": "Monte Cristi"
+  "26": {
+    "name": "Santiago Rodríguez",
+    "type": "Province",
+    "iso3166-2": "DO-26",
+    "iso-name": "Santiago Rodríguez",
+    "iso-type": "Province",
+    "parent-code": "34"
   },
-  "MP": {
-    "name": "Monte Plata"
+  "27": {
+    "name": "Valverde",
+    "type": "Province",
+    "iso3166-2": "DO-27",
+    "iso-name": "Valverde",
+    "iso-type": "Province",
+    "parent-code": "34"
   },
-  "OZA": {
-    "name": "Ozama"
+  "28": {
+    "name": "Monseñor Nouel",
+    "type": "Province",
+    "iso3166-2": "DO-28",
+    "iso-name": "Monseñor Nouel",
+    "iso-type": "Province",
+    "parent-code": "36"
   },
-  "PED": {
-    "name": "Pedernales"
+  "29": {
+    "name": "Monte Plata",
+    "type": "Province",
+    "iso3166-2": "DO-29",
+    "iso-name": "Monte Plata",
+    "iso-type": "Province",
+    "parent-code": "39"
   },
-  "PER": {
-    "name": "Peravia"
+  "30": {
+    "name": "Hato Mayor",
+    "type": "Province",
+    "iso3166-2": "DO-30",
+    "iso-name": "Hato Mayor",
+    "iso-type": "Province",
+    "parent-code": "39"
   },
-  "PUE": {
-    "name": "Puerto Plata"
+  "31": {
+    "name": "San José de Ocoa",
+    "type": "Province",
+    "iso3166-2": "DO-31",
+    "iso-name": "San José de Ocoa",
+    "iso-type": "Province",
+    "parent-code": "41"
   },
-  "SAM": {
-    "name": "Samaná"
-  },
-  "CRI": {
-    "name": "San Cristóbal"
-  },
-  "JOS": {
-    "name": "San José de Ocoa"
-  },
-  "JUA": {
-    "name": "San Juan"
-  },
-  "PM": {
-    "name": "San Pedro de Macorís"
-  },
-  "SAN": {
-    "name": "Sánchez Ramírez"
-  },
-  "SANT": {
-    "name": "Santiago"
-  },
-  "SR": {
-    "name": "Santiago Rodríguez"
-  },
-  "DOM": {
-    "name": "Santo Domingo"
-  },
-  "VALD": {
-    "name": "Valdesia"
-  },
-  "VALV": {
-    "name": "Valverde"
-  },
-  "YUM": {
-    "name": "Yuma"
+  "32": {
+    "name": "Santo Domingo",
+    "type": "Province",
+    "iso3166-2": "DO-32",
+    "iso-name": "Santo Domingo",
+    "iso-type": "Province",
+    "parent-code": "40"
   }
 }

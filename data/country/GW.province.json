@@ -1,0 +1,23 @@
+{
+  "L": {
+    "name": "Leste",
+    "type": "Province",
+    "iso3166-2": "GW-L",
+    "iso-name": "Leste",
+    "iso-type": "Province"
+  },
+  "N": {
+    "name": "Norte",
+    "type": "Province",
+    "iso3166-2": "GW-N",
+    "iso-name": "Norte",
+    "iso-type": "Province"
+  },
+  "S": {
+    "name": "Sul",
+    "type": "Province",
+    "iso3166-2": "GW-S",
+    "iso-name": "Sul",
+    "iso-type": "Province"
+  }
+}

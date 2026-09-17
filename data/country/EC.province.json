@@ -1,74 +1,170 @@
 {
   "A": {
-    "name": "Azuay"
+    "name": "Azuay",
+    "type": "Province",
+    "iso3166-2": "EC-A",
+    "iso-name": "Azuay",
+    "iso-type": "Province"
   },
   "B": {
-    "name": "Bolívar"
-  },
-  "F": {
-    "name": "Cañar"
+    "name": "Bolívar",
+    "type": "Province",
+    "iso3166-2": "EC-B",
+    "iso-name": "Bolívar",
+    "iso-type": "Province"
   },
   "C": {
-    "name": "Carchi"
-  },
-  "H": {
-    "name": "Chimborazo"
-  },
-  "X": {
-    "name": "Cotopaxi"
-  },
-  "O": {
-    "name": "El Oro"
-  },
-  "E": {
-    "name": "Esmeraldas"
-  },
-  "W": {
-    "name": "Galápagos"
-  },
-  "G": {
-    "name": "Guayas"
-  },
-  "I": {
-    "name": "Imbabura"
-  },
-  "L": {
-    "name": "Loja"
-  },
-  "R": {
-    "name": "Los Ríos"
-  },
-  "M": {
-    "name": "Manabí"
-  },
-  "S": {
-    "name": "Morona-Santiago"
-  },
-  "N": {
-    "name": "Napo"
+    "name": "Carchi",
+    "type": "Province",
+    "iso3166-2": "EC-C",
+    "iso-name": "Carchi",
+    "iso-type": "Province"
   },
   "D": {
-    "name": "Orellana"
+    "name": "Orellana",
+    "type": "Province",
+    "iso3166-2": "EC-D",
+    "iso-name": "Orellana",
+    "iso-type": "Province"
   },
-  "Y": {
-    "name": "Pastaza"
+  "E": {
+    "name": "Esmeraldas",
+    "type": "Province",
+    "iso3166-2": "EC-E",
+    "iso-name": "Esmeraldas",
+    "iso-type": "Province"
+  },
+  "F": {
+    "name": "Cañar",
+    "type": "Province",
+    "iso3166-2": "EC-F",
+    "iso-name": "Cañar",
+    "iso-type": "Province"
+  },
+  "G": {
+    "name": "Guayas",
+    "type": "Province",
+    "iso3166-2": "EC-G",
+    "iso-name": "Guayas",
+    "iso-type": "Province"
+  },
+  "H": {
+    "name": "Chimborazo",
+    "type": "Province",
+    "iso3166-2": "EC-H",
+    "iso-name": "Chimborazo",
+    "iso-type": "Province"
+  },
+  "I": {
+    "name": "Imbabura",
+    "type": "Province",
+    "iso3166-2": "EC-I",
+    "iso-name": "Imbabura",
+    "iso-type": "Province"
+  },
+  "L": {
+    "name": "Loja",
+    "type": "Province",
+    "iso3166-2": "EC-L",
+    "iso-name": "Loja",
+    "iso-type": "Province"
+  },
+  "M": {
+    "name": "Manabí",
+    "type": "Province",
+    "iso3166-2": "EC-M",
+    "iso-name": "Manabí",
+    "iso-type": "Province"
+  },
+  "N": {
+    "name": "Napo",
+    "type": "Province",
+    "iso3166-2": "EC-N",
+    "iso-name": "Napo",
+    "iso-type": "Province"
+  },
+  "O": {
+    "name": "El Oro",
+    "type": "Province",
+    "iso3166-2": "EC-O",
+    "iso-name": "El Oro",
+    "iso-type": "Province"
   },
   "P": {
-    "name": "Pichincha"
+    "name": "Pichincha",
+    "type": "Province",
+    "iso3166-2": "EC-P",
+    "iso-name": "Pichincha",
+    "iso-type": "Province"
   },
-  "SE": {
-    "name": "Santa Elena"
+  "R": {
+    "name": "Los Ríos",
+    "type": "Province",
+    "iso3166-2": "EC-R",
+    "iso-name": "Los Ríos",
+    "iso-type": "Province"
+  },
+  "S": {
+    "name": "Morona Santiago",
+    "type": "Province",
+    "iso3166-2": "EC-S",
+    "iso-name": "Morona Santiago",
+    "iso-type": "Province"
   },
   "SD": {
-    "name": "Santo Domingo de los Tsáchilas"
+    "name": "Santo Domingo de los Tsáchilas",
+    "type": "Province",
+    "iso3166-2": "EC-SD",
+    "iso-name": "Santo Domingo de los Tsáchilas",
+    "iso-type": "Province"
   },
-  "U": {
-    "name": "Sucumbíos"
+  "SE": {
+    "name": "Santa Elena",
+    "type": "Province",
+    "iso3166-2": "EC-SE",
+    "iso-name": "Santa Elena",
+    "iso-type": "Province"
   },
   "T": {
-    "name": "Tungurahua"
+    "name": "Tungurahua",
+    "type": "Province",
+    "iso3166-2": "EC-T",
+    "iso-name": "Tungurahua",
+    "iso-type": "Province"
+  },
+  "U": {
+    "name": "Sucumbíos",
+    "type": "Province",
+    "iso3166-2": "EC-U",
+    "iso-name": "Sucumbíos",
+    "iso-type": "Province"
+  },
+  "W": {
+    "name": "Galápagos",
+    "type": "Province",
+    "iso3166-2": "EC-W",
+    "iso-name": "Galápagos",
+    "iso-type": "Province"
+  },
+  "X": {
+    "name": "Cotopaxi",
+    "type": "Province",
+    "iso3166-2": "EC-X",
+    "iso-name": "Cotopaxi",
+    "iso-type": "Province"
+  },
+  "Y": {
+    "name": "Pastaza",
+    "type": "Province",
+    "iso3166-2": "EC-Y",
+    "iso-name": "Pastaza",
+    "iso-type": "Province"
   },
   "Z": {
-    "name": "Zamora Chinchipe"
+    "name": "Zamora Chinchipe",
+    "type": "Province",
+    "iso3166-2": "EC-Z",
+    "iso-name": "Zamora Chinchipe",
+    "iso-type": "Province"
   }
 }

@@ -30,10 +30,6 @@
       "value": 267603248655.2527,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "BIS",
       "WTO",
@@ -65,6 +61,77 @@
     "continent-code": "SA",
     "currency-codes": [
       "PEN"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C %Z%n%S",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "District",
+          "placeholder": "District",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "LIMA 23",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4})$",
+            "examples": [
+              "LIMA 23",
+              "LIMA 42",
+              "CALLAO 2",
+              "02001"
+            ],
+            "lookup-url": "http://www.codigopostal.gob.pe/pages/invitado/consulta.jsf"
+          }
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": false,
+          "uppercase": false
+        }
+      },
+      "languages": [
+        "es"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "municipality",
+        "label": "Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

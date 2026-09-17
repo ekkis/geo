@@ -1,35 +1,72 @@
 {
-  "P": {
-    "name": "Cabo Delgado"
-  },
-  "G": {
-    "name": "Gaza"
-  },
-  "I": {
-    "name": "Inhambane"
+  "A": {
+    "name": "Niassa",
+    "type": "Province",
+    "iso3166-2": "MZ-A",
+    "iso-name": "Niassa",
+    "iso-type": "Province"
   },
   "B": {
-    "name": "Manica"
+    "name": "Manica",
+    "type": "Province",
+    "iso3166-2": "MZ-B",
+    "iso-name": "Manica",
+    "iso-type": "Province"
+  },
+  "G": {
+    "name": "Gaza",
+    "type": "Province",
+    "iso3166-2": "MZ-G",
+    "iso-name": "Gaza",
+    "iso-type": "Province"
+  },
+  "I": {
+    "name": "Inhambane",
+    "type": "Province",
+    "iso3166-2": "MZ-I",
+    "iso-name": "Inhambane",
+    "iso-type": "Province"
   },
   "L": {
-    "name": "Maputo"
-  },
-  "MPM": {
-    "name": "Maputo"
+    "name": "Maputo",
+    "type": "Province",
+    "iso3166-2": "MZ-L",
+    "iso-name": "Maputo",
+    "iso-type": "Province"
   },
   "N": {
-    "name": "Nampula"
+    "name": "Nampula",
+    "type": "Province",
+    "iso3166-2": "MZ-N",
+    "iso-name": "Nampula",
+    "iso-type": "Province"
   },
-  "A": {
-    "name": "Niassa"
-  },
-  "S": {
-    "name": "Sofala"
-  },
-  "T": {
-    "name": "Tete"
+  "P": {
+    "name": "Cabo Delgado",
+    "type": "Province",
+    "iso3166-2": "MZ-P",
+    "iso-name": "Cabo Delgado",
+    "iso-type": "Province"
   },
   "Q": {
-    "name": "Zambezia"
+    "name": "Zambézia",
+    "type": "Province",
+    "iso3166-2": "MZ-Q",
+    "iso-name": "Zambézia",
+    "iso-type": "Province"
+  },
+  "S": {
+    "name": "Sofala",
+    "type": "Province",
+    "iso3166-2": "MZ-S",
+    "iso-name": "Sofala",
+    "iso-type": "Province"
+  },
+  "T": {
+    "name": "Tete",
+    "type": "Province",
+    "iso3166-2": "MZ-T",
+    "iso-name": "Tete",
+    "iso-type": "Province"
   }
 }

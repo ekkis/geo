@@ -1,26 +1,51 @@
 {
-  "AG": {
-    "name": "Agadez"
+  "1": {
+    "name": "Agadez",
+    "type": "Region",
+    "iso3166-2": "NE-1",
+    "iso-name": "Agadez",
+    "iso-type": "Region"
   },
-  "DF": {
-    "name": "Diffa"
+  "2": {
+    "name": "Diffa",
+    "type": "Region",
+    "iso3166-2": "NE-2",
+    "iso-name": "Diffa",
+    "iso-type": "Region"
   },
-  "DS": {
-    "name": "Dosso"
+  "3": {
+    "name": "Dosso",
+    "type": "Region",
+    "iso3166-2": "NE-3",
+    "iso-name": "Dosso",
+    "iso-type": "Region"
   },
-  "MA": {
-    "name": "Maradi"
+  "4": {
+    "name": "Maradi",
+    "type": "Region",
+    "iso3166-2": "NE-4",
+    "iso-name": "Maradi",
+    "iso-type": "Region"
   },
-  "NI": {
-    "name": "Niamey"
+  "5": {
+    "name": "Tahoua",
+    "type": "Region",
+    "iso3166-2": "NE-5",
+    "iso-name": "Tahoua",
+    "iso-type": "Region"
   },
-  "TH": {
-    "name": "Tahoua"
+  "6": {
+    "name": "Tillabéri",
+    "type": "Region",
+    "iso3166-2": "NE-6",
+    "iso-name": "Tillabéri",
+    "iso-type": "Region"
   },
-  "TL": {
-    "name": "Tillabéri"
-  },
-  "ZD": {
-    "name": "Zinder"
+  "7": {
+    "name": "Zinder",
+    "type": "Region",
+    "iso3166-2": "NE-7",
+    "iso-name": "Zinder",
+    "iso-type": "Region"
   }
 }

@@ -1,0 +1,37 @@
+{
+  "A": {
+    "name": "Ahal",
+    "type": "Region",
+    "iso3166-2": "TM-A",
+    "iso-name": "Ahal",
+    "iso-type": "Region"
+  },
+  "B": {
+    "name": "Balkan",
+    "type": "Region",
+    "iso3166-2": "TM-B",
+    "iso-name": "Balkan",
+    "iso-type": "Region"
+  },
+  "D": {
+    "name": "Daşoguz",
+    "type": "Region",
+    "iso3166-2": "TM-D",
+    "iso-name": "Daşoguz",
+    "iso-type": "Region"
+  },
+  "L": {
+    "name": "Lebap",
+    "type": "Region",
+    "iso3166-2": "TM-L",
+    "iso-name": "Lebap",
+    "iso-type": "Region"
+  },
+  "M": {
+    "name": "Mary",
+    "type": "Region",
+    "iso3166-2": "TM-M",
+    "iso-name": "Mary",
+    "iso-type": "Region"
+  }
+}

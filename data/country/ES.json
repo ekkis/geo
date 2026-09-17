@@ -34,10 +34,6 @@
       "value": 1580694712515.714,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -64,6 +60,87 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C %S",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "28039",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "28039",
+              "28300",
+              "28070"
+            ],
+            "lookup-url": "http://www.correos.es/contenido/13-MenuRec2/04-MenuRec24/1010_s-CodPostal.asp"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": true,
+          "uppercase": true
+        }
+      },
+      "languages": [
+        "es",
+        "ca",
+        "gl",
+        "eu"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "autonomous_city_in_north_africa",
+        "label": "Autonomous City In North Africa",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "autonomous_community",
+        "label": "Autonomous Community",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
     ]
   }
 }

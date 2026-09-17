@@ -1,0 +1,44 @@
+{
+  "AS": {
+    "name": "American Samoa",
+    "type": "Outlying area",
+    "iso3166-2": "US-AS",
+    "iso-name": "American Samoa",
+    "iso-type": "Outlying area"
+  },
+  "GU": {
+    "name": "Guam",
+    "type": "Outlying area",
+    "iso3166-2": "US-GU",
+    "iso-name": "Guam",
+    "iso-type": "Outlying area"
+  },
+  "MP": {
+    "name": "Northern Mariana Islands",
+    "type": "Outlying area",
+    "iso3166-2": "US-MP",
+    "iso-name": "Northern Mariana Islands",
+    "iso-type": "Outlying area"
+  },
+  "PR": {
+    "name": "Puerto Rico",
+    "type": "Outlying area",
+    "iso3166-2": "US-PR",
+    "iso-name": "Puerto Rico",
+    "iso-type": "Outlying area"
+  },
+  "UM": {
+    "name": "United States Minor Outlying Islands",
+    "type": "Outlying area",
+    "iso3166-2": "US-UM",
+    "iso-name": "United States Minor Outlying Islands",
+    "iso-type": "Outlying area"
+  },
+  "VI": {
+    "name": "Virgin Islands, U.S.",
+    "type": "Outlying area",
+    "iso3166-2": "US-VI",
+    "iso-name": "Virgin Islands, U.S.",
+    "iso-type": "Outlying area"
+  }
+}

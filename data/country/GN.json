@@ -61,6 +61,73 @@
     "continent-code": "AF",
     "currency-codes": [
       "GNF"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%Z %A %C",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "001",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "regex": "^(?:\\d{3})$",
+            "examples": [
+              "001",
+              "200",
+              "100"
+            ]
+          }
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "administrative_region",
+        "label": "Administrative Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "governorate",
+        "label": "Governorate",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "prefecture",
+        "label": "Prefecture",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type",
+        "parent-field": "parent-code"
+      }
     ]
   }
 }

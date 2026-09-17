@@ -1,0 +1,34 @@
+{
+  "GO": {
+    "name": "Gorizia",
+    "type": "Decentralized regional entity",
+    "iso3166-2": "IT-GO",
+    "iso-name": "Gorizia",
+    "iso-type": "Decentralized regional entity",
+    "parent-code": "36"
+  },
+  "PN": {
+    "name": "Pordenone",
+    "type": "Decentralized regional entity",
+    "iso3166-2": "IT-PN",
+    "iso-name": "Pordenone",
+    "iso-type": "Decentralized regional entity",
+    "parent-code": "36"
+  },
+  "TS": {
+    "name": "Trieste",
+    "type": "Decentralized regional entity",
+    "iso3166-2": "IT-TS",
+    "iso-name": "Trieste",
+    "iso-type": "Decentralized regional entity",
+    "parent-code": "36"
+  },
+  "UD": {
+    "name": "Udine",
+    "type": "Decentralized regional entity",
+    "iso3166-2": "IT-UD",
+    "iso-name": "Udine",
+    "iso-type": "Decentralized regional entity",
+    "parent-code": "36"
+  }
+}

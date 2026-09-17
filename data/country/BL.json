@@ -26,9 +26,6 @@
     "demonym": {
       "en": "Saint Barthélemy Islander"
     },
-    "postal-code": {
-      "format": "### ###"
-    },
     "phone-code": "590",
     "language-codes": [
       "blm"
@@ -36,6 +33,55 @@
     "continent-code": "NA",
     "currency-codes": [
       "EUR"
-    ]
+    ],
+    "address-format": {
+      "format": "%O%n%N%n%A%n%Z %C %X",
+      "fields": {
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "97100",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "### ###",
+            "regex": "^(?:9[78][01]\\d{2})$",
+            "examples": [
+              "97100"
+            ],
+            "lookup-url": "https://www.laposte.fr/outils/trouver-un-code-postal"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "sorting-code": {
+          "header": "Sorting Code",
+          "placeholder": "Sorting Code",
+          "required": false,
+          "uppercase": true
+        }
+      }
+    }
   }
 }

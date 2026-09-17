@@ -1,0 +1,30 @@
+{
+  "JW": {
+    "name": "Jwaneng",
+    "type": "Town",
+    "iso3166-2": "BW-JW",
+    "iso-name": "Jwaneng",
+    "iso-type": "Town"
+  },
+  "LO": {
+    "name": "Lobatse",
+    "type": "Town",
+    "iso3166-2": "BW-LO",
+    "iso-name": "Lobatse",
+    "iso-type": "Town"
+  },
+  "SP": {
+    "name": "Selibe Phikwe",
+    "type": "Town",
+    "iso3166-2": "BW-SP",
+    "iso-name": "Selibe Phikwe",
+    "iso-type": "Town"
+  },
+  "ST": {
+    "name": "Sowa Town",
+    "type": "Town",
+    "iso3166-2": "BW-ST",
+    "iso-name": "Sowa Town",
+    "iso-type": "Town"
+  }
+}

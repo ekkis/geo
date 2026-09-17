@@ -1,0 +1,16 @@
+{
+  "FR": {
+    "name": "Francistown",
+    "type": "City",
+    "iso3166-2": "BW-FR",
+    "iso-name": "Francistown",
+    "iso-type": "City"
+  },
+  "GA": {
+    "name": "Gaborone",
+    "type": "City",
+    "iso3166-2": "BW-GA",
+    "iso-name": "Gaborone",
+    "iso-type": "City"
+  }
+}

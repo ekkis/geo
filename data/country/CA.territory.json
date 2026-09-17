@@ -1,0 +1,23 @@
+{
+  "NT": {
+    "name": "Northwest Territories",
+    "type": "Territory",
+    "iso3166-2": "CA-NT",
+    "iso-name": "Northwest Territories",
+    "iso-type": "Territory"
+  },
+  "NU": {
+    "name": "Nunavut",
+    "type": "Territory",
+    "iso3166-2": "CA-NU",
+    "iso-name": "Nunavut",
+    "iso-type": "Territory"
+  },
+  "YT": {
+    "name": "Yukon",
+    "type": "Territory",
+    "iso3166-2": "CA-YT",
+    "iso-name": "Yukon",
+    "iso-type": "Territory"
+  }
+}

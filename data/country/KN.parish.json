@@ -1,50 +1,114 @@
 {
-  "CHR": {
-    "name": "Christ Church Nichola Town"
+  "01": {
+    "name": "Christ Church Nichola Town",
+    "type": "Parish",
+    "iso3166-2": "KN-01",
+    "iso-name": "Christ Church Nichola Town",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "N": {
-    "name": "Nevis"
+  "02": {
+    "name": "Saint Anne Sandy Point",
+    "type": "Parish",
+    "iso3166-2": "KN-02",
+    "iso-name": "Saint Anne Sandy Point",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "SAINTANNE": {
-    "name": "Saint Anne Sandy Point"
+  "03": {
+    "name": "Saint George Basseterre",
+    "type": "Parish",
+    "iso3166-2": "KN-03",
+    "iso-name": "Saint George Basseterre",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "SAINTGEORGE": {
-    "name": "Saint George Basseterre"
+  "04": {
+    "name": "Saint George Gingerland",
+    "type": "Parish",
+    "iso3166-2": "KN-04",
+    "iso-name": "Saint George Gingerland",
+    "iso-type": "Parish",
+    "parent-code": "N"
   },
-  "GEO": {
-    "name": "Saint George Gingerland"
+  "05": {
+    "name": "Saint James Windward",
+    "type": "Parish",
+    "iso3166-2": "KN-05",
+    "iso-name": "Saint James Windward",
+    "iso-type": "Parish",
+    "parent-code": "N"
   },
-  "JAM": {
-    "name": "Saint James Windward"
+  "06": {
+    "name": "Saint John Capisterre",
+    "type": "Parish",
+    "iso3166-2": "KN-06",
+    "iso-name": "Saint John Capisterre",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "JOH": {
-    "name": "Saint John Capisterre"
+  "07": {
+    "name": "Saint John Figtree",
+    "type": "Parish",
+    "iso3166-2": "KN-07",
+    "iso-name": "Saint John Figtree",
+    "iso-type": "Parish",
+    "parent-code": "N"
   },
-  "JF": {
-    "name": "Saint John Figtree"
+  "08": {
+    "name": "Saint Mary Cayon",
+    "type": "Parish",
+    "iso3166-2": "KN-08",
+    "iso-name": "Saint Mary Cayon",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "K": {
-    "name": "Saint Kitts"
+  "09": {
+    "name": "Saint Paul Capisterre",
+    "type": "Parish",
+    "iso3166-2": "KN-09",
+    "iso-name": "Saint Paul Capisterre",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "SAINTMARY": {
-    "name": "Saint Mary Cayon"
+  "10": {
+    "name": "Saint Paul Charlestown",
+    "type": "Parish",
+    "iso3166-2": "KN-10",
+    "iso-name": "Saint Paul Charlestown",
+    "iso-type": "Parish",
+    "parent-code": "N"
   },
-  "SAINTPAUL": {
-    "name": "Saint Paul Capisterre"
+  "11": {
+    "name": "Saint Peter Basseterre",
+    "type": "Parish",
+    "iso3166-2": "KN-11",
+    "iso-name": "Saint Peter Basseterre",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "PAU": {
-    "name": "Saint Paul Charlestown"
+  "12": {
+    "name": "Saint Thomas Lowland",
+    "type": "Parish",
+    "iso3166-2": "KN-12",
+    "iso-name": "Saint Thomas Lowland",
+    "iso-type": "Parish",
+    "parent-code": "N"
   },
-  "SAINTPETER": {
-    "name": "Saint Peter Basseterre"
+  "13": {
+    "name": "Saint Thomas Middle Island",
+    "type": "Parish",
+    "iso3166-2": "KN-13",
+    "iso-name": "Saint Thomas Middle Island",
+    "iso-type": "Parish",
+    "parent-code": "K"
   },
-  "THO": {
-    "name": "Saint Thomas Lowland"
-  },
-  "TMI": {
-    "name": "Saint Thomas Middle Island"
-  },
-  "TRI": {
-    "name": "Trinity Palmetto Point"
+  "15": {
+    "name": "Trinity Palmetto Point",
+    "type": "Parish",
+    "iso3166-2": "KN-15",
+    "iso-name": "Trinity Palmetto Point",
+    "iso-type": "Parish",
+    "parent-code": "K"
   }
 }

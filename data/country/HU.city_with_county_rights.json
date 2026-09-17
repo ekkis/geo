@@ -1,0 +1,163 @@
+{
+  "BC": {
+    "name": "Békéscsaba",
+    "type": "City with county rights",
+    "iso3166-2": "HU-BC",
+    "iso-name": "Békéscsaba",
+    "iso-type": "City with county rights"
+  },
+  "DE": {
+    "name": "Debrecen",
+    "type": "City with county rights",
+    "iso3166-2": "HU-DE",
+    "iso-name": "Debrecen",
+    "iso-type": "City with county rights"
+  },
+  "DU": {
+    "name": "Dunaújváros",
+    "type": "City with county rights",
+    "iso3166-2": "HU-DU",
+    "iso-name": "Dunaújváros",
+    "iso-type": "City with county rights"
+  },
+  "EG": {
+    "name": "Eger",
+    "type": "City with county rights",
+    "iso3166-2": "HU-EG",
+    "iso-name": "Eger",
+    "iso-type": "City with county rights"
+  },
+  "ER": {
+    "name": "Érd",
+    "type": "City with county rights",
+    "iso3166-2": "HU-ER",
+    "iso-name": "Érd",
+    "iso-type": "City with county rights"
+  },
+  "GY": {
+    "name": "Győr",
+    "type": "City with county rights",
+    "iso3166-2": "HU-GY",
+    "iso-name": "Győr",
+    "iso-type": "City with county rights"
+  },
+  "HV": {
+    "name": "Hódmezővásárhely",
+    "type": "City with county rights",
+    "iso3166-2": "HU-HV",
+    "iso-name": "Hódmezővásárhely",
+    "iso-type": "City with county rights"
+  },
+  "KM": {
+    "name": "Kecskemét",
+    "type": "City with county rights",
+    "iso3166-2": "HU-KM",
+    "iso-name": "Kecskemét",
+    "iso-type": "City with county rights"
+  },
+  "KV": {
+    "name": "Kaposvár",
+    "type": "City with county rights",
+    "iso3166-2": "HU-KV",
+    "iso-name": "Kaposvár",
+    "iso-type": "City with county rights"
+  },
+  "MI": {
+    "name": "Miskolc",
+    "type": "City with county rights",
+    "iso3166-2": "HU-MI",
+    "iso-name": "Miskolc",
+    "iso-type": "City with county rights"
+  },
+  "NK": {
+    "name": "Nagykanizsa",
+    "type": "City with county rights",
+    "iso3166-2": "HU-NK",
+    "iso-name": "Nagykanizsa",
+    "iso-type": "City with county rights"
+  },
+  "NY": {
+    "name": "Nyíregyháza",
+    "type": "City with county rights",
+    "iso3166-2": "HU-NY",
+    "iso-name": "Nyíregyháza",
+    "iso-type": "City with county rights"
+  },
+  "PS": {
+    "name": "Pécs",
+    "type": "City with county rights",
+    "iso3166-2": "HU-PS",
+    "iso-name": "Pécs",
+    "iso-type": "City with county rights"
+  },
+  "SD": {
+    "name": "Szeged",
+    "type": "City with county rights",
+    "iso3166-2": "HU-SD",
+    "iso-name": "Szeged",
+    "iso-type": "City with county rights"
+  },
+  "SF": {
+    "name": "Székesfehérvár",
+    "type": "City with county rights",
+    "iso3166-2": "HU-SF",
+    "iso-name": "Székesfehérvár",
+    "iso-type": "City with county rights"
+  },
+  "SH": {
+    "name": "Szombathely",
+    "type": "City with county rights",
+    "iso3166-2": "HU-SH",
+    "iso-name": "Szombathely",
+    "iso-type": "City with county rights"
+  },
+  "SK": {
+    "name": "Szolnok",
+    "type": "City with county rights",
+    "iso3166-2": "HU-SK",
+    "iso-name": "Szolnok",
+    "iso-type": "City with county rights"
+  },
+  "SN": {
+    "name": "Sopron",
+    "type": "City with county rights",
+    "iso3166-2": "HU-SN",
+    "iso-name": "Sopron",
+    "iso-type": "City with county rights"
+  },
+  "SS": {
+    "name": "Szekszárd",
+    "type": "City with county rights",
+    "iso3166-2": "HU-SS",
+    "iso-name": "Szekszárd",
+    "iso-type": "City with county rights"
+  },
+  "ST": {
+    "name": "Salgótarján",
+    "type": "City with county rights",
+    "iso3166-2": "HU-ST",
+    "iso-name": "Salgótarján",
+    "iso-type": "City with county rights"
+  },
+  "TB": {
+    "name": "Tatabánya",
+    "type": "City with county rights",
+    "iso3166-2": "HU-TB",
+    "iso-name": "Tatabánya",
+    "iso-type": "City with county rights"
+  },
+  "VM": {
+    "name": "Veszprém",
+    "type": "City with county rights",
+    "iso3166-2": "HU-VM",
+    "iso-name": "Veszprém",
+    "iso-type": "City with county rights"
+  },
+  "ZE": {
+    "name": "Zalaegerszeg",
+    "type": "City with county rights",
+    "iso3166-2": "HU-ZE",
+    "iso-name": "Zalaegerszeg",
+    "iso-type": "City with county rights"
+  }
+}

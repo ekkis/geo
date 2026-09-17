@@ -30,10 +30,6 @@
       "value": 485513316503.63043,
       "year": 2023
     },
-    "postal-code": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -57,6 +53,67 @@
     "continent-code": "EU",
     "currency-codes": [
       "NOK"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "0025",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "####",
+            "regex": "^(?:\\d{4})$",
+            "examples": [
+              "0025",
+              "0107",
+              "6631"
+            ],
+            "lookup-url": "http://adressesok.posten.no/nb/postal_codes/search"
+          }
+        },
+        "locality": {
+          "header": "Post Town",
+          "placeholder": "Post Town",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "arctic_region",
+        "label": "Arctic Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "county",
+        "label": "County",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

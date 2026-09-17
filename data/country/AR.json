@@ -28,10 +28,6 @@
       "value": 640591410663.8834,
       "year": 2023
     },
-    "postal-code": {
-      "format": "@####@@@",
-      "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
-    },
     "organisation-codes": [
       "BIS",
       "G20",
@@ -60,6 +56,77 @@
     "continent-code": "SA",
     "currency-codes": [
       "ARS"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%Z %C%n%S",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "C1070AAM",
+          "required": false,
+          "uppercase": true,
+          "validation": {
+            "format": "@####@@@",
+            "regex": "^(?:[A-HJ-NP-Z]\\d{4}[A-Z]{3})$",
+            "examples": [
+              "C1070AAM",
+              "C1000WAM",
+              "B1000TBU",
+              "X5187XAB"
+            ],
+            "lookup-url": "http://www.correoargentino.com.ar/formularios/cpa"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": false,
+          "uppercase": false
+        }
+      },
+      "languages": [
+        "es"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "city",
+        "label": "City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

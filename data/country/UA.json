@@ -33,10 +33,6 @@
       "value": 178757021386.80896,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####",
-      "regex": "^(\\d{5})$"
-    },
     "organisation-codes": [
       "WTO",
       "UN"
@@ -63,6 +59,83 @@
     "continent-code": "EU",
     "currency-codes": [
       "UAH"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C%n%S%n%Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "administrative-area": {
+          "header": "Oblast",
+          "placeholder": "Oblast",
+          "required": false,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "15432",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####",
+            "regex": "^(?:\\d{5})$",
+            "examples": [
+              "15432",
+              "01055",
+              "01001"
+            ],
+            "lookup-url": "http://services.ukrposhta.com/postindex_new/"
+          }
+        }
+      },
+      "languages": [
+        "uk"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "city",
+        "label": "City",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "republic",
+        "label": "Republic",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

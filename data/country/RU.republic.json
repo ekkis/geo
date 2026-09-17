@@ -1,0 +1,149 @@
+{
+  "AD": {
+    "name": "Adygeya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-AD",
+    "iso-name": "Adygeya, Respublika",
+    "iso-type": "Republic"
+  },
+  "AL": {
+    "name": "Altay, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-AL",
+    "iso-name": "Altay, Respublika",
+    "iso-type": "Republic"
+  },
+  "BA": {
+    "name": "Bashkortostan, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-BA",
+    "iso-name": "Bashkortostan, Respublika",
+    "iso-type": "Republic"
+  },
+  "BU": {
+    "name": "Buryatiya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-BU",
+    "iso-name": "Buryatiya, Respublika",
+    "iso-type": "Republic"
+  },
+  "CE": {
+    "name": "Chechenskaya Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-CE",
+    "iso-name": "Chechenskaya Respublika",
+    "iso-type": "Republic"
+  },
+  "CU": {
+    "name": "Chuvashskaya Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-CU",
+    "iso-name": "Chuvashskaya Respublika",
+    "iso-type": "Republic"
+  },
+  "DA": {
+    "name": "Dagestan, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-DA",
+    "iso-name": "Dagestan, Respublika",
+    "iso-type": "Republic"
+  },
+  "IN": {
+    "name": "Ingushetiya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-IN",
+    "iso-name": "Ingushetiya, Respublika",
+    "iso-type": "Republic"
+  },
+  "KB": {
+    "name": "Kabardino-Balkarskaya Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-KB",
+    "iso-name": "Kabardino-Balkarskaya Respublika",
+    "iso-type": "Republic"
+  },
+  "KC": {
+    "name": "Karachayevo-Cherkesskaya Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-KC",
+    "iso-name": "Karachayevo-Cherkesskaya Respublika",
+    "iso-type": "Republic"
+  },
+  "KK": {
+    "name": "Khakasiya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-KK",
+    "iso-name": "Khakasiya, Respublika",
+    "iso-type": "Republic"
+  },
+  "KL": {
+    "name": "Kalmykiya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-KL",
+    "iso-name": "Kalmykiya, Respublika",
+    "iso-type": "Republic"
+  },
+  "KO": {
+    "name": "Komi, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-KO",
+    "iso-name": "Komi, Respublika",
+    "iso-type": "Republic"
+  },
+  "KR": {
+    "name": "Kareliya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-KR",
+    "iso-name": "Kareliya, Respublika",
+    "iso-type": "Republic"
+  },
+  "ME": {
+    "name": "Mariy El, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-ME",
+    "iso-name": "Mariy El, Respublika",
+    "iso-type": "Republic"
+  },
+  "MO": {
+    "name": "Mordoviya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-MO",
+    "iso-name": "Mordoviya, Respublika",
+    "iso-type": "Republic"
+  },
+  "SA": {
+    "name": "Saha, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-SA",
+    "iso-name": "Saha, Respublika",
+    "iso-type": "Republic"
+  },
+  "SE": {
+    "name": "Severnaya Osetiya, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-SE",
+    "iso-name": "Severnaya Osetiya, Respublika",
+    "iso-type": "Republic"
+  },
+  "TA": {
+    "name": "Tatarstan, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-TA",
+    "iso-name": "Tatarstan, Respublika",
+    "iso-type": "Republic"
+  },
+  "TY": {
+    "name": "Tyva, Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-TY",
+    "iso-name": "Tyva, Respublika",
+    "iso-type": "Republic"
+  },
+  "UD": {
+    "name": "Udmurtskaya Respublika",
+    "type": "Republic",
+    "iso3166-2": "RU-UD",
+    "iso-name": "Udmurtskaya Respublika",
+    "iso-type": "Republic"
+  }
+}

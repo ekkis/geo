@@ -1,0 +1,51 @@
+{
+  "01": {
+    "name": "Sagaing",
+    "type": "Region",
+    "iso3166-2": "MM-01",
+    "iso-name": "Sagaing",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "Bago",
+    "type": "Region",
+    "iso3166-2": "MM-02",
+    "iso-name": "Bago",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Magway",
+    "type": "Region",
+    "iso3166-2": "MM-03",
+    "iso-name": "Magway",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Mandalay",
+    "type": "Region",
+    "iso3166-2": "MM-04",
+    "iso-name": "Mandalay",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Tanintharyi",
+    "type": "Region",
+    "iso3166-2": "MM-05",
+    "iso-name": "Tanintharyi",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Yangon",
+    "type": "Region",
+    "iso3166-2": "MM-06",
+    "iso-name": "Yangon",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Ayeyarwady",
+    "type": "Region",
+    "iso3166-2": "MM-07",
+    "iso-name": "Ayeyarwady",
+    "iso-type": "Region"
+  }
+}

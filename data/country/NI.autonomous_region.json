@@ -1,0 +1,16 @@
+{
+  "AN": {
+    "name": "Costa Caribe Norte",
+    "type": "Autonomous region",
+    "iso3166-2": "NI-AN",
+    "iso-name": "Costa Caribe Norte",
+    "iso-type": "Autonomous region"
+  },
+  "AS": {
+    "name": "Costa Caribe Sur",
+    "type": "Autonomous region",
+    "iso3166-2": "NI-AS",
+    "iso-name": "Costa Caribe Sur",
+    "iso-type": "Autonomous region"
+  }
+}

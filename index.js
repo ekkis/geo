@@ -42,6 +42,37 @@ class Entity {
         if (opts.name) ret = ret.map(o => o.name ?? o);
         return ret;
     }
+    get(key) {
+        var record = Object.hasOwn(this.info.data, key) ? this.info.data[key] : undefined;
+        return record ? structuredClone(record) : undefined;
+    }
+    addressFormat(key) {
+        var record = Object.hasOwn(this.info.data, key) ? this.info.data[key] : undefined;
+        return record && record['address-format'] ? structuredClone(record['address-format']) : undefined;
+    }
+    addressHeaders(key) {
+        var format = this.addressFormat(key);
+        if (!format) return undefined;
+
+        return Object.keys(format.fields || {}).reduce((headers, field) => {
+            headers[field] = format.fields[field].header;
+            return headers;
+        }, {});
+    }
+    addressForm(key) {
+        var format = this.addressFormat(key);
+        if (!format) return undefined;
+
+        var fields = structuredClone(format.fields || {});
+        Object.values(fields).forEach(field => {
+            if (field.validation) delete field.validation.examples;
+        });
+
+        return {
+            format: format.format,
+            fields
+        };
+    }
     find(opts = {}, legacyOpts = {}) {
         if (opts == null) throw new Error('Criteria is required for find method');
         // Accept both the options object and the previous find(criteria, opts) API.

@@ -1,95 +1,219 @@
 {
-  "ALB": {
-    "name": "Alborz"
+  "00": {
+    "name": "Markazī",
+    "type": "Province",
+    "iso3166-2": "IR-00",
+    "iso-name": "Markazī",
+    "iso-type": "Province"
   },
-  "ARD": {
-    "name": "Ardabil"
+  "01": {
+    "name": "Gīlān",
+    "type": "Province",
+    "iso3166-2": "IR-01",
+    "iso-name": "Gīlān",
+    "iso-type": "Province"
   },
-  "BUS": {
-    "name": "Bushehr"
+  "02": {
+    "name": "Māzandarān",
+    "type": "Province",
+    "iso3166-2": "IR-02",
+    "iso-name": "Māzandarān",
+    "iso-type": "Province"
   },
-  "CHA": {
-    "name": "Chaharmahal and Bakhtiari"
+  "03": {
+    "name": "Āz̄ārbāyjān-e Shārqī",
+    "type": "Province",
+    "iso3166-2": "IR-03",
+    "iso-name": "Āz̄ārbāyjān-e Shārqī",
+    "iso-type": "Province"
   },
-  "EAS": {
-    "name": "East Azerbaijan"
+  "04": {
+    "name": "Āz̄ārbāyjān-e Ghārbī",
+    "type": "Province",
+    "iso3166-2": "IR-04",
+    "iso-name": "Āz̄ārbāyjān-e Ghārbī",
+    "iso-type": "Province"
   },
-  "FAR": {
-    "name": "Fars"
+  "05": {
+    "name": "Kermānshāh",
+    "type": "Province",
+    "iso3166-2": "IR-05",
+    "iso-name": "Kermānshāh",
+    "iso-type": "Province"
   },
-  "GIL": {
-    "name": "Gilan"
+  "06": {
+    "name": "Khūzestān",
+    "type": "Province",
+    "iso3166-2": "IR-06",
+    "iso-name": "Khūzestān",
+    "iso-type": "Province"
   },
-  "GOL": {
-    "name": "Golestan"
+  "07": {
+    "name": "Fārs",
+    "type": "Province",
+    "iso3166-2": "IR-07",
+    "iso-name": "Fārs",
+    "iso-type": "Province"
   },
-  "HAM": {
-    "name": "Hamadan"
+  "08": {
+    "name": "Kermān",
+    "type": "Province",
+    "iso3166-2": "IR-08",
+    "iso-name": "Kermān",
+    "iso-type": "Province"
   },
-  "HOR": {
-    "name": "Hormozgan"
+  "09": {
+    "name": "Khorāsān-e Raẕavī",
+    "type": "Province",
+    "iso3166-2": "IR-09",
+    "iso-name": "Khorāsān-e Raẕavī",
+    "iso-type": "Province"
   },
-  "ILA": {
-    "name": "Ilam"
+  "10": {
+    "name": "Eşfahān",
+    "type": "Province",
+    "iso3166-2": "IR-10",
+    "iso-name": "Eşfahān",
+    "iso-type": "Province"
   },
-  "ISF": {
-    "name": "Isfahan"
+  "11": {
+    "name": "Sīstān va Balūchestān",
+    "type": "Province",
+    "iso3166-2": "IR-11",
+    "iso-name": "Sīstān va Balūchestān",
+    "iso-type": "Province"
   },
-  "KER": {
-    "name": "Kerman"
+  "12": {
+    "name": "Kordestān",
+    "type": "Province",
+    "iso3166-2": "IR-12",
+    "iso-name": "Kordestān",
+    "iso-type": "Province"
   },
-  "KERM": {
-    "name": "Kermanshah"
+  "13": {
+    "name": "Hamadān",
+    "type": "Province",
+    "iso3166-2": "IR-13",
+    "iso-name": "Hamadān",
+    "iso-type": "Province"
   },
-  "KHU": {
-    "name": "Khuzestan"
+  "14": {
+    "name": "Chahār Maḩāl va Bakhtīārī",
+    "type": "Province",
+    "iso3166-2": "IR-14",
+    "iso-name": "Chahār Maḩāl va Bakhtīārī",
+    "iso-type": "Province"
   },
-  "KOH": {
-    "name": "Kohgiluyeh and Boyer-Ahmad"
+  "15": {
+    "name": "Lorestān",
+    "type": "Province",
+    "iso3166-2": "IR-15",
+    "iso-name": "Lorestān",
+    "iso-type": "Province"
   },
-  "KUR": {
-    "name": "Kurdistan"
+  "16": {
+    "name": "Īlām",
+    "type": "Province",
+    "iso3166-2": "IR-16",
+    "iso-name": "Īlām",
+    "iso-type": "Province"
   },
-  "LOR": {
-    "name": "Lorestan"
+  "17": {
+    "name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "type": "Province",
+    "iso3166-2": "IR-17",
+    "iso-name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "iso-type": "Province"
   },
-  "MAR": {
-    "name": "Markazi"
+  "18": {
+    "name": "Būshehr",
+    "type": "Province",
+    "iso3166-2": "IR-18",
+    "iso-name": "Būshehr",
+    "iso-type": "Province"
   },
-  "MAZ": {
-    "name": "Mazandaran"
+  "19": {
+    "name": "Zanjān",
+    "type": "Province",
+    "iso3166-2": "IR-19",
+    "iso-name": "Zanjān",
+    "iso-type": "Province"
   },
-  "NOR": {
-    "name": "North Khorasan"
+  "20": {
+    "name": "Semnān",
+    "type": "Province",
+    "iso3166-2": "IR-20",
+    "iso-name": "Semnān",
+    "iso-type": "Province"
   },
-  "QAZ": {
-    "name": "Qazvin"
+  "21": {
+    "name": "Yazd",
+    "type": "Province",
+    "iso3166-2": "IR-21",
+    "iso-name": "Yazd",
+    "iso-type": "Province"
   },
-  "QOM": {
-    "name": "Qom"
+  "22": {
+    "name": "Hormozgān",
+    "type": "Province",
+    "iso3166-2": "IR-22",
+    "iso-name": "Hormozgān",
+    "iso-type": "Province"
   },
-  "RAZ": {
-    "name": "Razavi Khorasan"
+  "23": {
+    "name": "Tehrān",
+    "type": "Province",
+    "iso3166-2": "IR-23",
+    "iso-name": "Tehrān",
+    "iso-type": "Province"
   },
-  "SEM": {
-    "name": "Semnan"
+  "24": {
+    "name": "Ardabīl",
+    "type": "Province",
+    "iso3166-2": "IR-24",
+    "iso-name": "Ardabīl",
+    "iso-type": "Province"
   },
-  "SIS": {
-    "name": "Sistan and Baluchestan"
+  "25": {
+    "name": "Qom",
+    "type": "Province",
+    "iso3166-2": "IR-25",
+    "iso-name": "Qom",
+    "iso-type": "Province"
   },
-  "SOU": {
-    "name": "South Khorasan"
+  "26": {
+    "name": "Qazvīn",
+    "type": "Province",
+    "iso3166-2": "IR-26",
+    "iso-name": "Qazvīn",
+    "iso-type": "Province"
   },
-  "TEH": {
-    "name": "Tehran"
+  "27": {
+    "name": "Golestān",
+    "type": "Province",
+    "iso3166-2": "IR-27",
+    "iso-name": "Golestān",
+    "iso-type": "Province"
   },
-  "WES": {
-    "name": "West Azarbaijan"
+  "28": {
+    "name": "Khorāsān-e Shomālī",
+    "type": "Province",
+    "iso3166-2": "IR-28",
+    "iso-name": "Khorāsān-e Shomālī",
+    "iso-type": "Province"
   },
-  "YAZ": {
-    "name": "Yazd"
+  "29": {
+    "name": "Khorāsān-e Jonūbī",
+    "type": "Province",
+    "iso3166-2": "IR-29",
+    "iso-name": "Khorāsān-e Jonūbī",
+    "iso-type": "Province"
   },
-  "ZAN": {
-    "name": "Zanjan"
+  "30": {
+    "name": "Alborz",
+    "type": "Province",
+    "iso3166-2": "IR-30",
+    "iso-name": "Alborz",
+    "iso-type": "Province"
   }
 }

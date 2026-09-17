@@ -1,56 +1,128 @@
 {
   "BB": {
-    "name": "Bubanza"
-  },
-  "BM": {
-    "name": "Bujumbura Mairie"
+    "name": "Bubanza",
+    "type": "Province",
+    "iso3166-2": "BI-BB",
+    "iso-name": "Bubanza",
+    "iso-type": "Province"
   },
   "BL": {
-    "name": "Bujumbura Rural"
+    "name": "Bujumbura Rural",
+    "type": "Province",
+    "iso3166-2": "BI-BL",
+    "iso-name": "Bujumbura Rural",
+    "iso-type": "Province"
+  },
+  "BM": {
+    "name": "Bujumbura Mairie",
+    "type": "Province",
+    "iso3166-2": "BI-BM",
+    "iso-name": "Bujumbura Mairie",
+    "iso-type": "Province"
   },
   "BR": {
-    "name": "Bururi"
+    "name": "Bururi",
+    "type": "Province",
+    "iso3166-2": "BI-BR",
+    "iso-name": "Bururi",
+    "iso-type": "Province"
   },
   "CA": {
-    "name": "Cankuzo"
+    "name": "Cankuzo",
+    "type": "Province",
+    "iso3166-2": "BI-CA",
+    "iso-name": "Cankuzo",
+    "iso-type": "Province"
   },
   "CI": {
-    "name": "Cibitoke"
+    "name": "Cibitoke",
+    "type": "Province",
+    "iso3166-2": "BI-CI",
+    "iso-name": "Cibitoke",
+    "iso-type": "Province"
   },
   "GI": {
-    "name": "Gitega"
-  },
-  "KR": {
-    "name": "Karuzi"
-  },
-  "KY": {
-    "name": "Kayanza"
+    "name": "Gitega",
+    "type": "Province",
+    "iso3166-2": "BI-GI",
+    "iso-name": "Gitega",
+    "iso-type": "Province"
   },
   "KI": {
-    "name": "Kirundo"
+    "name": "Kirundo",
+    "type": "Province",
+    "iso3166-2": "BI-KI",
+    "iso-name": "Kirundo",
+    "iso-type": "Province"
+  },
+  "KR": {
+    "name": "Karuzi",
+    "type": "Province",
+    "iso3166-2": "BI-KR",
+    "iso-name": "Karuzi",
+    "iso-type": "Province"
+  },
+  "KY": {
+    "name": "Kayanza",
+    "type": "Province",
+    "iso3166-2": "BI-KY",
+    "iso-name": "Kayanza",
+    "iso-type": "Province"
   },
   "MA": {
-    "name": "Makamba"
+    "name": "Makamba",
+    "type": "Province",
+    "iso3166-2": "BI-MA",
+    "iso-name": "Makamba",
+    "iso-type": "Province"
   },
   "MU": {
-    "name": "Muramvya"
-  },
-  "MY": {
-    "name": "Muyinga"
+    "name": "Muramvya",
+    "type": "Province",
+    "iso3166-2": "BI-MU",
+    "iso-name": "Muramvya",
+    "iso-type": "Province"
   },
   "MW": {
-    "name": "Mwaro"
+    "name": "Mwaro",
+    "type": "Province",
+    "iso3166-2": "BI-MW",
+    "iso-name": "Mwaro",
+    "iso-type": "Province"
+  },
+  "MY": {
+    "name": "Muyinga",
+    "type": "Province",
+    "iso3166-2": "BI-MY",
+    "iso-name": "Muyinga",
+    "iso-type": "Province"
   },
   "NG": {
-    "name": "Ngozi"
+    "name": "Ngozi",
+    "type": "Province",
+    "iso3166-2": "BI-NG",
+    "iso-name": "Ngozi",
+    "iso-type": "Province"
   },
   "RM": {
-    "name": "Rumonge"
+    "name": "Rumonge",
+    "type": "Province",
+    "iso3166-2": "BI-RM",
+    "iso-name": "Rumonge",
+    "iso-type": "Province"
   },
   "RT": {
-    "name": "Rutana"
+    "name": "Rutana",
+    "type": "Province",
+    "iso3166-2": "BI-RT",
+    "iso-name": "Rutana",
+    "iso-type": "Province"
   },
   "RY": {
-    "name": "Ruyigi"
+    "name": "Ruyigi",
+    "type": "Province",
+    "iso3166-2": "BI-RY",
+    "iso-name": "Ruyigi",
+    "iso-type": "Province"
   }
 }

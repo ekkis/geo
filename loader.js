@@ -8,7 +8,14 @@ function set(object, path, value) {
         object[key] ??= {};
         object = object[key];
     }
-    object[keys.at(-1)] = value;
+    const key = keys.at(-1);
+    const existing = object[key];
+    if (existing && typeof existing === 'object' && !Array.isArray(existing) &&
+        value && typeof value === 'object' && !Array.isArray(value)) {
+        Object.assign(existing, value);
+    } else {
+        object[key] = value;
+    }
 }
 
 async function load(folder = root) {

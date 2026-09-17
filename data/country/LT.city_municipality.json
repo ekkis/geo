@@ -1,0 +1,58 @@
+{
+  "02": {
+    "name": "Alytaus miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-02",
+    "iso-name": "Alytaus miestas",
+    "iso-type": "City municipality",
+    "parent-code": "AL"
+  },
+  "15": {
+    "name": "Kauno miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-15",
+    "iso-name": "Kauno miestas",
+    "iso-type": "City municipality",
+    "parent-code": "KU"
+  },
+  "20": {
+    "name": "Klaipėdos miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-20",
+    "iso-name": "Klaipėdos miestas",
+    "iso-type": "City municipality",
+    "parent-code": "KL"
+  },
+  "31": {
+    "name": "Palangos miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-31",
+    "iso-name": "Palangos miestas",
+    "iso-type": "City municipality",
+    "parent-code": "KL"
+  },
+  "32": {
+    "name": "Panevėžio miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-32",
+    "iso-name": "Panevėžio miestas",
+    "iso-type": "City municipality",
+    "parent-code": "PN"
+  },
+  "43": {
+    "name": "Šiaulių miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-43",
+    "iso-name": "Šiaulių miestas",
+    "iso-type": "City municipality",
+    "parent-code": "SA"
+  },
+  "57": {
+    "name": "Vilniaus miestas",
+    "type": "City municipality",
+    "iso3166-2": "LT-57",
+    "iso-name": "Vilniaus miestas",
+    "iso-type": "City municipality",
+    "parent-code": "VL"
+  }
+}

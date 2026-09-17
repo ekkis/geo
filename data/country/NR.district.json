@@ -1,44 +1,100 @@
 {
-  "AIW": {
-    "name": "Aiwo"
+  "01": {
+    "name": "Aiwo",
+    "type": "District",
+    "iso3166-2": "NR-01",
+    "iso-name": "Aiwo",
+    "iso-type": "District"
   },
-  "AN": {
-    "name": "Anabar"
+  "02": {
+    "name": "Anabar",
+    "type": "District",
+    "iso3166-2": "NR-02",
+    "iso-name": "Anabar",
+    "iso-type": "District"
   },
-  "ANE": {
-    "name": "Anetan"
+  "03": {
+    "name": "Anetan",
+    "type": "District",
+    "iso3166-2": "NR-03",
+    "iso-name": "Anetan",
+    "iso-type": "District"
   },
-  "ANI": {
-    "name": "Anibare"
+  "04": {
+    "name": "Anibare",
+    "type": "District",
+    "iso3166-2": "NR-04",
+    "iso-name": "Anibare",
+    "iso-type": "District"
   },
-  "BA": {
-    "name": "Baiti"
+  "05": {
+    "name": "Baitsi",
+    "type": "District",
+    "iso3166-2": "NR-05",
+    "iso-name": "Baitsi",
+    "iso-type": "District"
   },
-  "BO": {
-    "name": "Boe"
+  "06": {
+    "name": "Boe",
+    "type": "District",
+    "iso3166-2": "NR-06",
+    "iso-name": "Boe",
+    "iso-type": "District"
   },
-  "CI": {
-    "name": "Buada"
+  "07": {
+    "name": "Buada",
+    "type": "District",
+    "iso3166-2": "NR-07",
+    "iso-name": "Buada",
+    "iso-type": "District"
   },
-  "DE": {
-    "name": "Denigomodu"
+  "08": {
+    "name": "Denigomodu",
+    "type": "District",
+    "iso3166-2": "NR-08",
+    "iso-name": "Denigomodu",
+    "iso-type": "District"
   },
-  "EWA": {
-    "name": "Ewa"
+  "09": {
+    "name": "Ewa",
+    "type": "District",
+    "iso3166-2": "NR-09",
+    "iso-name": "Ewa",
+    "iso-type": "District"
   },
-  "IJU": {
-    "name": "Ijuw"
+  "10": {
+    "name": "Ijuw",
+    "type": "District",
+    "iso3166-2": "NR-10",
+    "iso-name": "Ijuw",
+    "iso-type": "District"
   },
-  "MA": {
-    "name": "Meneng"
+  "11": {
+    "name": "Meneng",
+    "type": "District",
+    "iso3166-2": "NR-11",
+    "iso-name": "Meneng",
+    "iso-type": "District"
   },
-  "NB": {
-    "name": "Nibok"
+  "12": {
+    "name": "Nibok",
+    "type": "District",
+    "iso3166-2": "NR-12",
+    "iso-name": "Nibok",
+    "iso-type": "District"
   },
-  "UA": {
-    "name": "Uaboe"
+  "13": {
+    "name": "Uaboe",
+    "type": "District",
+    "iso3166-2": "NR-13",
+    "iso-name": "Uaboe",
+    "iso-type": "District"
   },
-  "YAR": {
-    "name": "Yaren"
+  "14": {
+    "name": "Yaren",
+    "type": "District",
+    "iso3166-2": "NR-14",
+    "iso-name": "Yaren",
+    "iso-type": "District"
   }
 }

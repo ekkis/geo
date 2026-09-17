@@ -31,10 +31,6 @@
       "value": 17794781986104.457,
       "year": 2023
     },
-    "postal-code": {
-      "format": "######",
-      "regex": "^(\\d{6})$"
-    },
     "organisation-codes": [
       "BIS",
       "G20",
@@ -82,6 +78,98 @@
     "continent-code": "AS",
     "currency-codes": [
       "CNY"
+    ],
+    "address-format": {
+      "format": "%Z%n%S%C%D%n%A%n%O%n%N",
+      "fields": {
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "266033",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "######",
+            "regex": "^(?:\\d{6})$",
+            "examples": [
+              "266033",
+              "317204",
+              "100096",
+              "100808"
+            ],
+            "lookup-url": "http://cpdc.chinapost.com.cn/web/"
+          }
+        },
+        "administrative-area": {
+          "header": "Province",
+          "placeholder": "Province",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": false
+        },
+        "dependent-locality": {
+          "header": "District",
+          "placeholder": "District",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        }
+      },
+      "latin-format": "%N%n%O%n%A%n%D%n%C%n%S, %Z",
+      "languages": [
+        "zh"
+      ]
+    },
+    "division-hierarchy": [
+      {
+        "key": "autonomous_region",
+        "label": "Autonomous Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "municipality",
+        "label": "Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "province",
+        "label": "Province",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_administrative_region",
+        "label": "Special Administrative Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

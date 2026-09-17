@@ -56,3 +56,32 @@ test('CLI supports keys, JSON criteria, flags, and invocation from another direc
         assert.equal(spawnSync(process.execPath, [cli, ...args]).status, 1);
     }
 });
+
+test('merged address helpers return independent records and form metadata', () => {
+    const country = geo.country.get('US');
+    assert.equal(country.iso3, 'USA');
+    country.name.common = 'changed';
+    assert.equal(geo.country.get('US').name.common, 'United States');
+    const format = geo.country.addressFormat('US');
+    const form = geo.country.addressForm('US');
+    assert.equal(form.format, format.format);
+    assert.deepEqual(geo.country.addressHeaders('US'),
+        Object.fromEntries(Object.entries(format.fields).map(([key, field]) => [key, field.header])));
+    for (const field of Object.values(form.fields)) {
+        assert.equal(field.validation?.examples, undefined);
+    }
+    format.fields = {};
+    assert.ok(Object.keys(geo.country.addressFormat('US').fields).length);
+    for (const method of ['get', 'addressFormat', 'addressHeaders', 'addressForm']) {
+        assert.equal(geo.country[method]('missing'), undefined);
+        assert.equal(geo.country[method]('__proto__'), undefined);
+    }
+});
+
+test('merged subdivisions preserve nested supplements and canonical ISO records', () => {
+    const gb = geo.country.get('GB');
+    assert.equal(gb.country.ENG['iso3166-2'], 'GB-ENG');
+    assert.ok(Object.keys(gb.country.division).length);
+    assert.ok(Object.keys(gb.country.division.city).length);
+    assert.equal(geo.country.get('US').state.CA['iso3166-2'], 'US-CA');
+});

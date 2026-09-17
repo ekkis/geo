@@ -1,50 +1,114 @@
 {
-  "AIM": {
-    "name": "Aimeliik"
+  "002": {
+    "name": "Aimeliik",
+    "type": "State",
+    "iso3166-2": "PW-002",
+    "iso-name": "Aimeliik",
+    "iso-type": "State"
   },
-  "AIR": {
-    "name": "Airai"
+  "004": {
+    "name": "Airai",
+    "type": "State",
+    "iso3166-2": "PW-004",
+    "iso-name": "Airai",
+    "iso-type": "State"
   },
-  "ANG": {
-    "name": "Angaur"
+  "010": {
+    "name": "Angaur",
+    "type": "State",
+    "iso3166-2": "PW-010",
+    "iso-name": "Angaur",
+    "iso-type": "State"
   },
-  "HAT": {
-    "name": "Hatohobei"
+  "050": {
+    "name": "Hatohobei",
+    "type": "State",
+    "iso3166-2": "PW-050",
+    "iso-name": "Hatohobei",
+    "iso-type": "State"
   },
-  "KAY": {
-    "name": "Kayangel"
+  "100": {
+    "name": "Kayangel",
+    "type": "State",
+    "iso3166-2": "PW-100",
+    "iso-name": "Kayangel",
+    "iso-type": "State"
   },
-  "KOR": {
-    "name": "Koror"
+  "150": {
+    "name": "Koror",
+    "type": "State",
+    "iso3166-2": "PW-150",
+    "iso-name": "Koror",
+    "iso-type": "State"
   },
-  "MEL": {
-    "name": "Melekeok"
+  "212": {
+    "name": "Melekeok",
+    "type": "State",
+    "iso3166-2": "PW-212",
+    "iso-name": "Melekeok",
+    "iso-type": "State"
   },
-  "NGA": {
-    "name": "Ngaraard"
+  "214": {
+    "name": "Ngaraard",
+    "type": "State",
+    "iso3166-2": "PW-214",
+    "iso-name": "Ngaraard",
+    "iso-type": "State"
   },
-  "NGAR": {
-    "name": "Ngarchelong"
+  "218": {
+    "name": "Ngarchelong",
+    "type": "State",
+    "iso3166-2": "PW-218",
+    "iso-name": "Ngarchelong",
+    "iso-type": "State"
   },
-  "NGARD": {
-    "name": "Ngardmau"
+  "222": {
+    "name": "Ngardmau",
+    "type": "State",
+    "iso3166-2": "PW-222",
+    "iso-name": "Ngardmau",
+    "iso-type": "State"
   },
-  "NGAT": {
-    "name": "Ngatpang"
+  "224": {
+    "name": "Ngatpang",
+    "type": "State",
+    "iso3166-2": "PW-224",
+    "iso-name": "Ngatpang",
+    "iso-type": "State"
   },
-  "NGC": {
-    "name": "Ngchesar"
+  "226": {
+    "name": "Ngchesar",
+    "type": "State",
+    "iso3166-2": "PW-226",
+    "iso-name": "Ngchesar",
+    "iso-type": "State"
   },
-  "NGE": {
-    "name": "Ngeremlengui"
+  "227": {
+    "name": "Ngeremlengui",
+    "type": "State",
+    "iso3166-2": "PW-227",
+    "iso-name": "Ngeremlengui",
+    "iso-type": "State"
   },
-  "NGI": {
-    "name": "Ngiwal"
+  "228": {
+    "name": "Ngiwal",
+    "type": "State",
+    "iso3166-2": "PW-228",
+    "iso-name": "Ngiwal",
+    "iso-type": "State"
   },
-  "PEL": {
-    "name": "Peleliu"
+  "350": {
+    "name": "Peleliu",
+    "type": "State",
+    "iso3166-2": "PW-350",
+    "iso-name": "Peleliu",
+    "iso-type": "State"
   },
-  "SON": {
-    "name": "Sonsorol"
+  "370": {
+    "name": "Sonsorol",
+    "type": "State",
+    "iso3166-2": "PW-370",
+    "iso-name": "Sonsorol",
+    "iso-type": "State"
   }
 }

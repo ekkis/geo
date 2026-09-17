@@ -1,77 +1,177 @@
 {
-  "AND": {
-    "name": "Andrijevica"
+  "01": {
+    "name": "Andrijevica",
+    "type": "Municipality",
+    "iso3166-2": "ME-01",
+    "iso-name": "Andrijevica",
+    "iso-type": "Municipality"
   },
-  "BAR": {
-    "name": "Bar"
+  "02": {
+    "name": "Bar",
+    "type": "Municipality",
+    "iso3166-2": "ME-02",
+    "iso-name": "Bar",
+    "iso-type": "Municipality"
   },
-  "BER": {
-    "name": "Berane"
+  "03": {
+    "name": "Berane",
+    "type": "Municipality",
+    "iso3166-2": "ME-03",
+    "iso-name": "Berane",
+    "iso-type": "Municipality"
   },
-  "BIJPO": {
-    "name": "Bijelo Polje"
+  "04": {
+    "name": "Bijelo Polje",
+    "type": "Municipality",
+    "iso3166-2": "ME-04",
+    "iso-name": "Bijelo Polje",
+    "iso-type": "Municipality"
   },
-  "BUD": {
-    "name": "Budva"
+  "05": {
+    "name": "Budva",
+    "type": "Municipality",
+    "iso3166-2": "ME-05",
+    "iso-name": "Budva",
+    "iso-type": "Municipality"
   },
-  "DAN": {
-    "name": "Danilovgrad"
+  "06": {
+    "name": "Cetinje",
+    "type": "Municipality",
+    "iso3166-2": "ME-06",
+    "iso-name": "Cetinje",
+    "iso-type": "Municipality"
   },
-  "GUS": {
-    "name": "Gusinje"
+  "07": {
+    "name": "Danilovgrad",
+    "type": "Municipality",
+    "iso3166-2": "ME-07",
+    "iso-name": "Danilovgrad",
+    "iso-type": "Municipality"
   },
-  "HER": {
-    "name": "Herceg-Novi"
+  "08": {
+    "name": "Herceg-Novi",
+    "type": "Municipality",
+    "iso3166-2": "ME-08",
+    "iso-name": "Herceg-Novi",
+    "iso-type": "Municipality"
   },
-  "KOL": {
-    "name": "Kolašin"
+  "09": {
+    "name": "Kolašin",
+    "type": "Municipality",
+    "iso3166-2": "ME-09",
+    "iso-name": "Kolašin",
+    "iso-type": "Municipality"
   },
-  "KOT": {
-    "name": "Kotor"
+  "10": {
+    "name": "Kotor",
+    "type": "Municipality",
+    "iso3166-2": "ME-10",
+    "iso-name": "Kotor",
+    "iso-type": "Municipality"
   },
-  "MOJ": {
-    "name": "Mojkovac"
+  "11": {
+    "name": "Mojkovac",
+    "type": "Municipality",
+    "iso3166-2": "ME-11",
+    "iso-name": "Mojkovac",
+    "iso-type": "Municipality"
   },
-  "NIK": {
-    "name": "Nikšić"
+  "12": {
+    "name": "Nikšić",
+    "type": "Municipality",
+    "iso3166-2": "ME-12",
+    "iso-name": "Nikšić",
+    "iso-type": "Municipality"
   },
-  "OLD": {
-    "name": "Old Royal Capital Cetinje"
+  "13": {
+    "name": "Plav",
+    "type": "Municipality",
+    "iso3166-2": "ME-13",
+    "iso-name": "Plav",
+    "iso-type": "Municipality"
   },
-  "PET": {
-    "name": "Petnjica"
+  "14": {
+    "name": "Pljevlja",
+    "type": "Municipality",
+    "iso3166-2": "ME-14",
+    "iso-name": "Pljevlja",
+    "iso-type": "Municipality"
   },
-  "PLA": {
-    "name": "Plav"
+  "15": {
+    "name": "Plužine",
+    "type": "Municipality",
+    "iso3166-2": "ME-15",
+    "iso-name": "Plužine",
+    "iso-type": "Municipality"
   },
-  "PLJ": {
-    "name": "Pljevlja"
+  "16": {
+    "name": "Podgorica",
+    "type": "Municipality",
+    "iso3166-2": "ME-16",
+    "iso-name": "Podgorica",
+    "iso-type": "Municipality"
   },
-  "PLU": {
-    "name": "Plužine"
+  "17": {
+    "name": "Rožaje",
+    "type": "Municipality",
+    "iso3166-2": "ME-17",
+    "iso-name": "Rožaje",
+    "iso-type": "Municipality"
   },
-  "POD": {
-    "name": "Podgorica"
+  "18": {
+    "name": "Šavnik",
+    "type": "Municipality",
+    "iso3166-2": "ME-18",
+    "iso-name": "Šavnik",
+    "iso-type": "Municipality"
   },
-  "ROZ": {
-    "name": "Rožaje"
+  "19": {
+    "name": "Tivat",
+    "type": "Municipality",
+    "iso3166-2": "ME-19",
+    "iso-name": "Tivat",
+    "iso-type": "Municipality"
   },
-  "SAV": {
-    "name": "Šavnik"
+  "20": {
+    "name": "Ulcinj",
+    "type": "Municipality",
+    "iso3166-2": "ME-20",
+    "iso-name": "Ulcinj",
+    "iso-type": "Municipality"
   },
-  "TIV": {
-    "name": "Tivat"
+  "21": {
+    "name": "Žabljak",
+    "type": "Municipality",
+    "iso3166-2": "ME-21",
+    "iso-name": "Žabljak",
+    "iso-type": "Municipality"
   },
-  "TUZ": {
-    "name": "Tuzi"
+  "22": {
+    "name": "Gusinje",
+    "type": "Municipality",
+    "iso3166-2": "ME-22",
+    "iso-name": "Gusinje",
+    "iso-type": "Municipality"
   },
-  "ULC": {
-    "name": "Ulcinj"
+  "23": {
+    "name": "Petnjica",
+    "type": "Municipality",
+    "iso3166-2": "ME-23",
+    "iso-name": "Petnjica",
+    "iso-type": "Municipality"
   },
-  "ZAB": {
-    "name": "Žabljak"
+  "24": {
+    "name": "Tuzi",
+    "type": "Municipality",
+    "iso3166-2": "ME-24",
+    "iso-name": "Tuzi",
+    "iso-type": "Municipality"
   },
-  "ZET": {
-    "name": "Zeta"
+  "25": {
+    "name": "Zeta",
+    "type": "Municipality",
+    "iso3166-2": "ME-25",
+    "iso-name": "Zeta",
+    "iso-type": "Municipality"
   }
 }

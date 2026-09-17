@@ -32,10 +32,6 @@
       "value": 117902300000,
       "year": 2023
     },
-    "postal-code": {
-      "format": "#####-####",
-      "regex": "^(\\d{9})$"
-    },
     "phone-code": "+1-787 and 1-939",
     "language-codes": [
       "es"
@@ -43,6 +39,50 @@
     "continent-code": "NA",
     "currency-codes": [
       "USD"
-    ]
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%C PR %Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": true
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": true
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": true
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "ZIP",
+          "placeholder": "00930",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "#####-####",
+            "regex": "^(?:(00[679]\\d{2})(?:[ \\-](\\d{4}))?)$",
+            "examples": [
+              "00930"
+            ],
+            "lookup-url": "http://zip4.usps.com/zip4/welcome.jsp",
+            "prefix": "PR "
+          }
+        }
+      }
+    }
   }
 }

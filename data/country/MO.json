@@ -42,6 +42,30 @@
     "continent-code": "AS",
     "currency-codes": [
       "MOP"
-    ]
+    ],
+    "address-format": {
+      "format": "%A%n%O%n%N",
+      "fields": {
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        }
+      },
+      "latin-format": "%N%n%O%n%A"
+    }
   }
 }

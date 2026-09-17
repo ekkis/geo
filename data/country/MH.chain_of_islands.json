@@ -1,0 +1,16 @@
+{
+  "L": {
+    "name": "Ralik chain",
+    "type": "Chain (of islands)",
+    "iso3166-2": "MH-L",
+    "iso-name": "Ralik chain",
+    "iso-type": "Chain (of islands)"
+  },
+  "T": {
+    "name": "Ratak chain",
+    "type": "Chain (of islands)",
+    "iso3166-2": "MH-T",
+    "iso-name": "Ratak chain",
+    "iso-type": "Chain (of islands)"
+  }
+}

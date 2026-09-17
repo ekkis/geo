@@ -31,10 +31,6 @@
       "value": 68216781410.52277,
       "year": 2023
     },
-    "postal-code": {
-      "format": "SI- ####",
-      "regex": "^(?:SI)*(\\d{4})$"
-    },
     "organisation-codes": [
       "NATO",
       "OECD",
@@ -64,6 +60,67 @@
     "continent-code": "EU",
     "currency-codes": [
       "EUR"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%nSI-%Z %C",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "4000",
+          "required": false,
+          "uppercase": false,
+          "validation": {
+            "format": "SI- ####",
+            "regex": "^(?:\\d{4})$",
+            "examples": [
+              "4000",
+              "1001",
+              "2500"
+            ],
+            "prefix": "SI-"
+          }
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "municipality",
+        "label": "Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "urban_municipality",
+        "label": "Urban Municipality",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }

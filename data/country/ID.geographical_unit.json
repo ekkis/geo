@@ -1,0 +1,51 @@
+{
+  "JW": {
+    "name": "Jawa",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-JW",
+    "iso-name": "Jawa",
+    "iso-type": "Geographical unit"
+  },
+  "KA": {
+    "name": "Kalimantan",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-KA",
+    "iso-name": "Kalimantan",
+    "iso-type": "Geographical unit"
+  },
+  "ML": {
+    "name": "Maluku",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-ML",
+    "iso-name": "Maluku",
+    "iso-type": "Geographical unit"
+  },
+  "NU": {
+    "name": "Nusa Tenggara",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-NU",
+    "iso-name": "Nusa Tenggara",
+    "iso-type": "Geographical unit"
+  },
+  "PP": {
+    "name": "Papua",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-PP",
+    "iso-name": "Papua",
+    "iso-type": "Geographical unit"
+  },
+  "SL": {
+    "name": "Sulawesi",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-SL",
+    "iso-name": "Sulawesi",
+    "iso-type": "Geographical unit"
+  },
+  "SM": {
+    "name": "Sumatera",
+    "type": "Geographical unit",
+    "iso3166-2": "ID-SM",
+    "iso-name": "Sumatera",
+    "iso-type": "Geographical unit"
+  }
+}

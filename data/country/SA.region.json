@@ -1,0 +1,93 @@
+{
+  "01": {
+    "name": "Ar Riyāḑ",
+    "type": "Region",
+    "iso3166-2": "SA-01",
+    "iso-name": "Ar Riyāḑ",
+    "iso-type": "Region"
+  },
+  "02": {
+    "name": "Makkah al Mukarramah",
+    "type": "Region",
+    "iso3166-2": "SA-02",
+    "iso-name": "Makkah al Mukarramah",
+    "iso-type": "Region"
+  },
+  "03": {
+    "name": "Al Madīnah al Munawwarah",
+    "type": "Region",
+    "iso3166-2": "SA-03",
+    "iso-name": "Al Madīnah al Munawwarah",
+    "iso-type": "Region"
+  },
+  "04": {
+    "name": "Ash Sharqīyah",
+    "type": "Region",
+    "iso3166-2": "SA-04",
+    "iso-name": "Ash Sharqīyah",
+    "iso-type": "Region"
+  },
+  "05": {
+    "name": "Al Qaşīm",
+    "type": "Region",
+    "iso3166-2": "SA-05",
+    "iso-name": "Al Qaşīm",
+    "iso-type": "Region"
+  },
+  "06": {
+    "name": "Ḩā'il",
+    "type": "Region",
+    "iso3166-2": "SA-06",
+    "iso-name": "Ḩā'il",
+    "iso-type": "Region"
+  },
+  "07": {
+    "name": "Tabūk",
+    "type": "Region",
+    "iso3166-2": "SA-07",
+    "iso-name": "Tabūk",
+    "iso-type": "Region"
+  },
+  "08": {
+    "name": "Al Ḩudūd ash Shamālīyah",
+    "type": "Region",
+    "iso3166-2": "SA-08",
+    "iso-name": "Al Ḩudūd ash Shamālīyah",
+    "iso-type": "Region"
+  },
+  "09": {
+    "name": "Jāzān",
+    "type": "Region",
+    "iso3166-2": "SA-09",
+    "iso-name": "Jāzān",
+    "iso-type": "Region"
+  },
+  "10": {
+    "name": "Najrān",
+    "type": "Region",
+    "iso3166-2": "SA-10",
+    "iso-name": "Najrān",
+    "iso-type": "Region"
+  },
+  "11": {
+    "name": "Al Bāḩah",
+    "type": "Region",
+    "iso3166-2": "SA-11",
+    "iso-name": "Al Bāḩah",
+    "iso-type": "Region"
+  },
+  "12": {
+    "name": "Al Jawf",
+    "type": "Region",
+    "iso3166-2": "SA-12",
+    "iso-name": "Al Jawf",
+    "iso-type": "Region"
+  },
+  "14": {
+    "name": "'Asīr",
+    "type": "Region",
+    "iso3166-2": "SA-14",
+    "iso-name": "'Asīr",
+    "iso-type": "Region"
+  }
+}

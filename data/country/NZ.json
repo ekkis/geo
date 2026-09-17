@@ -31,10 +31,6 @@
       "value": 253465703232.14594,
       "year": 2023
     },
-    "postal-code": {
-      "format": "####",
-      "regex": "^(\\d{4})$"
-    },
     "organisation-codes": [
       "OECD",
       "BIS",
@@ -51,6 +47,75 @@
     "continent-code": "OC",
     "currency-codes": [
       "NZD"
+    ],
+    "address-format": {
+      "format": "%N%n%O%n%A%n%D%n%C %Z",
+      "fields": {
+        "recipient": {
+          "header": "Recipient",
+          "placeholder": "Jane Smith",
+          "required": false,
+          "uppercase": false
+        },
+        "organization": {
+          "header": "Organization",
+          "placeholder": "Example Company",
+          "required": false,
+          "uppercase": false
+        },
+        "street-address": {
+          "header": "Street Address",
+          "placeholder": "123 Main St",
+          "required": true,
+          "uppercase": false
+        },
+        "dependent-locality": {
+          "header": "Suburb",
+          "placeholder": "Suburb",
+          "required": true,
+          "uppercase": false
+        },
+        "locality": {
+          "header": "City",
+          "placeholder": "City",
+          "required": true,
+          "uppercase": true
+        },
+        "postal-code": {
+          "header": "Postal",
+          "placeholder": "6001",
+          "required": true,
+          "uppercase": false,
+          "validation": {
+            "format": "####",
+            "regex": "^(?:\\d{4})$",
+            "examples": [
+              "6001",
+              "6015",
+              "6332",
+              "8252",
+              "1030"
+            ],
+            "lookup-url": "https://www.nzpost.co.nz/tools/address-postcode-finder"
+          }
+        }
+      }
+    },
+    "division-hierarchy": [
+      {
+        "key": "region",
+        "label": "Region",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      },
+      {
+        "key": "special_island_authority",
+        "label": "Special Island Authority",
+        "standard": "ISO 3166-2",
+        "code-field": "iso3166-2",
+        "type-field": "iso-type"
+      }
     ]
   }
 }
