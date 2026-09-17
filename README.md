@@ -144,6 +144,8 @@ Import metadata and coverage are stored in `data/address-format-meta.json`; the 
 
 Canonical ISO 3166-2 subdivisions are available in politically named files under `data/country/`. A country with multiple political subdivision domains gets one file per domain, such as `US.state.json`, `US.outlying_area.json`, and `US.district.json`; single-domain countries use names such as `AD.parish.json`. These files use ISO subdivision suffixes as keys, include the full ISO code in `iso3166-2`, preserve exact ISO names/types in `iso-name` and `iso-type`, and include `parent-code` where ISO defines a parent subdivision. Each country file's `data.division-hierarchy` describes the political subdivision hierarchy by domain key; backing filenames are derived from the country code plus hierarchy path (for example `AD.parish.json` or `GB.country.division.json`). Regenerate them with `scripts/add-iso3166-2-subdivisions.py` and validate them with `scripts/validate-iso3166-2-subdivisions.py`.
 
+The same definitions and data are also published under the VowLabs ontology path `VowLabs:Science:Geography` in `ontology/vowlabs/Science/Geography/`. The ontology export includes entity definitions plus generated data sets for countries, political subdivisions, and address formats. Regenerate it with `scripts/export-vowlabs-ontology.py`.
+
 Clients can retrieve this data from the country entity:
 
 ```js

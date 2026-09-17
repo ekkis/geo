@@ -1,0 +1,26 @@
+{
+  "ontology": "VowLabs:Science:Geography",
+  "path": [
+    "Science",
+    "Geography"
+  ],
+  "generated-by": "scripts/export-vowlabs-ontology.py",
+  "definitions": "definitions.json",
+  "data": [
+    {
+      "entity": "Country",
+      "file": "data/countries.json",
+      "count": 250
+    },
+    {
+      "entity": "PoliticalSubdivision",
+      "file": "data/political-subdivisions.json",
+      "count": 5046
+    },
+    {
+      "entity": "AddressFormat",
+      "file": "data/address-formats.json",
+      "count": 250
+    }
+  ]
+}
