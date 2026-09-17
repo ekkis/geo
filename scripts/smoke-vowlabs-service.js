@@ -42,10 +42,11 @@ async function call(method, url, body) {
     });
     await handler(req, res);
     await done;
+    const contentType = res.headers['content-type'] || '';
     return {
         status: res.statusCode,
         headers: res.headers,
-        body: res.body ? JSON.parse(res.body) : null,
+        body: res.body && contentType.includes('application/json') ? JSON.parse(res.body) : res.body,
     };
 }
 
@@ -55,7 +56,13 @@ assert.equal(service.definitionChildren('S:G').length, 3);
 assert.equal(service.dataset('countries').count, 250);
 assert.equal(service.datasetRecords('states', { limit: 1 }).records.length, 1);
 
-let response = await call('GET', '/health');
+let response = await call('GET', '/');
+assert.equal(response.status, 200);
+assert(response.headers['content-type'].includes('text/html'));
+assert(response.body.includes('Geo VowLabs Science/Geography Service'));
+assert(response.body.includes('/v1/manifest'));
+
+response = await call('GET', '/health');
 assert.equal(response.status, 200);
 assert.equal(response.body.status, 'ok');
 
