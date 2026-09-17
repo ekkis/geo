@@ -1,31 +1,19 @@
-module.exports = [
+export default [
     {
-        files: ['*.js'],
-        linterOptions: {
-            reportUnusedDisableDirectives: 'off',
-        },
+        files: ['*.js', 'cli', 't/*.js', 'test/*.mjs'],
+        linterOptions: { reportUnusedDisableDirectives: 'off' },
         languageOptions: {
-            ecmaVersion: 2022,
-            sourceType: 'commonjs',
-            globals: {
-                __dirname: 'readonly',
-                console: 'readonly',
-                module: 'readonly',
-                process: 'readonly',
-                require: 'readonly',
-            },
+            ecmaVersion: 'latest',
+            sourceType: 'module',
+            globals: { console: 'readonly', process: 'readonly', URL: 'readonly', structuredClone: 'readonly' },
         },
-        rules: {
-            semi: ['error', 'always'],
-            'no-console': 'off',
-            'no-extend-native': 'off',
-            'no-prototype-builtins': 'off',
-        },
+        rules: { semi: ['error', 'always'] },
     },
     {
-        files: ['index.js'],
+        files: ['gulpfile.js', 'webpack.config.js'],
         languageOptions: {
-            sourceType: 'module',
+            sourceType: 'commonjs',
+            globals: { __dirname: 'readonly', module: 'readonly', require: 'readonly' },
         },
     },
 ];

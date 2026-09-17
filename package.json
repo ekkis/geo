@@ -36,14 +36,14 @@
   ],
   "scripts": {
     "build": "gulp",
-    "start": "micro server.js",
-    "dev": "micro-dev",
-    "pretest": "npm install",
-    "test": "eslint *.js && mocha t/*.js",
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "npm run lint && mocha t/*.js && node --test test/*.mjs",
     "preversion": "npm run test",
     "version": "",
     "postversion": "git push --tags && npm publish",
-    "debug": "node --inspect-brk eg"
+    "debug": "node --inspect-brk eg",
+    "lint": "eslint *.js cli t/*.js test/*.mjs"
   },
   "devDependencies": {
     "browserify": "^16.2.3",

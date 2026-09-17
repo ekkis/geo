@@ -84,6 +84,25 @@ supplements (for example, `state` and `region.city` for the US).
 node --test test/entities.test.mjs
 ```
 
+Run `npm test` to lint the source and run the entity, HTTP, and CLI regression
+suites. Use Node.js 22 or newer. Tests use installed dependencies and do not run
+`npm install` automatically.
+
+Start the HTTP service with `npm start` (port 3000, or `$PORT`), or use `npm run dev`
+for automatic restarts. The service exposes the same entity operations:
+
+```sh
+curl 'http://localhost:3000/?domain=continent&method=list&name=true'
+curl 'http://localhost:3000/?domain=country&method=find&code=DK&singleton=true'
+curl --get 'http://localhost:3000/' \
+  --data-urlencode 'method=find' \
+  --data-urlencode 'criteria={"iso3":"USA"}'
+```
+
+`domain` defaults to `country`. `criteria` accepts JSON or an unquoted key;
+`code` is a key alias. Boolean options accept `true` or `false`. Invalid methods,
+domains, or criteria receive HTTP 400 responses.
+
 The examples below describe the legacy API and have not yet been migrated.
 
 ## Basic Usage

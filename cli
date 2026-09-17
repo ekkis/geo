@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-import { program } from 'commander'
-import geo from './index.js'
-import pkg from './package.json' with { type: "json" }
+import { program } from 'commander';
+import geo from './index.js';
+import pkg from './package.json' with { type: "json" };
 program.version(pkg.version)
 	.argument('<domain>', 'Type of object to query')
 	.argument('<method>', 'Operation to execute')
@@ -9,25 +9,25 @@ program.version(pkg.version)
 	.option('-H, --hydrate', 'Hydrate codes to names')
 	.option('-c, --criteria <json>', 'Search key or criteria in JSON format')
 	.option('-r, --raw', 'Return raw data without processing')
-	.parse(process.argv)
+	.parse(process.argv);
 
-const [domain, method] = program.args
-const opts = program.opts()
+const [domain, method] = program.args;
+const opts = program.opts();
 if (!Object.hasOwn(geo, domain) || !['keys', 'meta', 'list', 'find'].includes(method)) {
-    program.error('Unknown domain or method')
+    program.error('Unknown domain or method');
 }
 if (opts.criteria) {
     try {
-        opts.criteria = JSON.parse(opts.criteria)
+        opts.criteria = JSON.parse(opts.criteria);
     } catch {
-        if (/^[\[{"]/.test(opts.criteria)) program.error('Invalid JSON criteria')
+        if (/^[\[{"]/.test(opts.criteria)) program.error('Invalid JSON criteria');
         // Unquoted keys such as US are also accepted.
     }
 }
-var res
+var res;
 try {
-    res = geo[domain][method](opts)
+    res = geo[domain][method](opts);
 } catch (error) {
-    program.error(error.message)
+    program.error(error.message);
 }
-console.log(JSON.stringify(res, null, 2))
+console.log(JSON.stringify(res, null, 2));
