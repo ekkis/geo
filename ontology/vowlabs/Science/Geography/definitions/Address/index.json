@@ -1,0 +1,12 @@
+{
+  "Name": "Address",
+  "Description": "Address formats and reusable address-use concepts. Choose a country-specific format for an address record; use Roles to constrain the Role relationship.",
+  "Children": {
+    "RO": {
+      "$ref": "./Roles/index.json"
+    },
+    "US": {
+      "$ref": "./US/index.json"
+    }
+  }
+}

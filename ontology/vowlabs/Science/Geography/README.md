@@ -1,35 +1,30 @@
-# VowLabs Science:Geography Ontology
+# VowLabs Science / Geography contribution
 
-This directory publishes the geo repository's definitions and data under the VowLabs ontology path:
+This directory is a VowLabs Ontology contribution-format-v1 snapshot for the assigned Geography branch:
 
 ```text
-VowLabs:Science:Geography
+prefix: S:G
+repository: https://github.com/ekkis/Geo
+delivery: snapshot
+entry: definitions/index.json
 ```
 
-## Files
+## Contents
 
-- `index.json` — ontology package index.
-- `definitions.json` — entity definitions for the geography ontology.
-- `data/countries.json` — `Country` entity records derived from `data/country/{ISO2}.json`.
-- `data/political-subdivisions.json` — `PoliticalSubdivision` entity records derived from ISO 3166-2-backed political-domain files such as `AD.parish.json`, `US.state.json`, and `GB.country.division.json`.
-- `data/address-formats.json` — `AddressFormat` entity records derived from normalized country address metadata.
+- `manifest.json` — contribution manifest.
+- `definitions/` — PascalCase ontology definitions mounted at `S:G`.
+- `data/countries/index.json` — `250` `S:G:CO` country records.
+- `data/states/index.json` — `5046` `S:G:SD` political subdivision records.
 
-## Entity definitions
-
-The ontology currently defines:
-
-- `GeographicEntity` — abstract base entity.
-- `Country` — ISO 3166-1 country/country-like territory.
-- `PoliticalSubdivision` — ISO 3166-2-backed political or administrative subdivision.
-- `DivisionHierarchyLevel` — country-level hierarchy/domain metadata.
-- `AddressFormat` — physical address template and normalized field metadata.
+The `states` dataset name is retained for compatibility with the VowLabs Geography delegation contract. Its records cover global ISO 3166-2-backed political subdivision domains such as states, provinces, parishes, departments and districts.
 
 ## Regeneration
 
-Regenerate the ontology export from canonical repository data with:
-
 ```bash
 python3 scripts/export-vowlabs-ontology.py
+python3 scripts/validate-vowlabs-ontology.py
 ```
 
-Then validate all generated JSON as part of the normal repository checks.
+## Scope and boundaries
+
+Definitions describe concepts. Instance rows live only in dataset files. Routing URLs, service credentials and application storage keys are not embedded in definitions. This snapshot does not activate live service delegation; VowLabs must register and route a public service URL separately if service delivery is desired.

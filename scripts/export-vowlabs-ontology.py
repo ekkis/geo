@@ -1,15 +1,21 @@
 #!/usr/bin/env python3
-"""Export geo definitions and data under the VowLabs Science:Geography ontology.
+"""Export a VowLabs Science/Geography snapshot contribution.
 
-The export is intentionally derived from the repository's canonical JSON data:
-country records, normalized address formats, and ISO 3166-2-backed political
-subdivision files. Entity ids are stable VowLabs ontology ids and source file
-references point back to the canonical geo data.
+The export follows the VowLabs Ontology contribution format v1:
+
+- manifest.json declares a snapshot contribution mounted at prefix S:G.
+- definitions/ contains PascalCase ontology definition nodes.
+- data/countries/index.json contains typed Country reference data.
+- data/states/index.json contains typed Subdivision reference data.
+
+The source of truth remains the geo repository's canonical country JSON and
+ISO 3166-2-backed political subdivision files.
 """
 
 from __future__ import annotations
 
 import json
+import shutil
 from collections import OrderedDict
 from pathlib import Path
 from typing import Any
@@ -17,10 +23,16 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 COUNTRY_DIR = ROOT / "data" / "country"
 OUT_DIR = ROOT / "ontology" / "vowlabs" / "Science" / "Geography"
+DEFINITIONS_DIR = OUT_DIR / "definitions"
 DATA_DIR = OUT_DIR / "data"
-ONTOLOGY_ID = "VowLabs:Science:Geography"
-BASE_IRI = "https://ontology.vowlabs.com/Science/Geography"
-GENERATED_BY = "scripts/export-vowlabs-ontology.py"
+PREFIX = "S:G"
+REPOSITORY = "https://github.com/ekkis/Geo"
+VERSION = "1.0.0"
+LICENSE = "MIT"
+ONTOLOGY_VERSION = "7.0.0"
+COUNTRY_DEFINITION = "S:G:CO"
+SUBDIVISION_DEFINITION = "S:G:SD"
+PRIMITIVE_STRING = "S:I:D:T:S"
 
 
 def load_json(path: Path) -> Any:
@@ -32,8 +44,13 @@ def write_json(path: Path, data: Any) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def vowlabs_id(entity: str, key: str) -> str:
-    return f"{ONTOLOGY_ID}:{entity}:{key}"
+def write_text(path: Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text, encoding="utf-8")
+
+
+def country_paths() -> list[Path]:
+    return sorted(COUNTRY_DIR.glob("[A-Z][A-Z].json"))
 
 
 def unwrap_country(path: Path) -> dict[str, Any]:
@@ -42,10 +59,6 @@ def unwrap_country(path: Path) -> dict[str, Any]:
     if not isinstance(data, dict):
         raise ValueError(f"{path}: expected object country data")
     return data
-
-
-def country_paths() -> list[Path]:
-    return sorted(COUNTRY_DIR.glob("[A-Z][A-Z].json"))
 
 
 def hierarchy_filename(country_code: str, hierarchy: list[dict[str, Any]], entry: dict[str, Any]) -> str:
@@ -59,141 +72,194 @@ def hierarchy_filename(country_code: str, hierarchy: list[dict[str, Any]], entry
     return f"{country_code}." + ".".join(chain) + ".json"
 
 
-def definitions() -> dict[str, Any]:
-    return OrderedDict(
-        [
-            ("$schema", "https://ontology.vowlabs.com/schema/ontology-definition/v1.json"),
-            ("ontology", OrderedDict([
-                ("id", ONTOLOGY_ID),
-                ("name", "Geography"),
-                ("path", ["Science", "Geography"]),
-                ("base-iri", BASE_IRI),
-                ("description", "Geographic entities, physical address formats, and ISO 3166-2 political subdivisions."),
-                ("source", "ekkis/geo"),
+def copy_existing_address_branch() -> None:
+    """Preserve the existing VowLabs Geography/Address branch locally.
+
+    The contribution guide says the actual Geography handoff must preserve the
+    Address branch. We copy the current upstream branch into our snapshot export
+    so the S:G root includes AD, CO and SD.
+    """
+
+    address_root = DEFINITIONS_DIR / "Address"
+    if address_root.exists():
+        shutil.rmtree(address_root)
+
+    files = {
+        "Address/index.json": {
+            "Name": "Address",
+            "Description": "Address formats and reusable address-use concepts. Choose a country-specific format for an address record; use Roles to constrain the Role relationship.",
+            "Children": {
+                "RO": {"$ref": "./Roles/index.json"},
+                "US": {"$ref": "./US/index.json"},
+            },
+        },
+        "Address/README.md": "# Address\n\nAddress formats and reusable address-use concepts preserved from the existing VowLabs `S:G:AD` branch.\n",
+        "Address/Roles/index.json": {
+            "Name": "Roles",
+            "Description": "Reusable address role concepts.",
+            "Children": {
+                "B": {"$ref": "./Billing/index.json"},
+                "M": {"$ref": "./Mailing/index.json"},
+                "O": {"$ref": "./Office/index.json"},
+                "P": {"$ref": "./Pickup/index.json"},
+                "R": {"$ref": "./Residence/index.json"},
+                "RO": {"$ref": "./RegisteredOffice/index.json"},
+                "RT": {"$ref": "./Returns/index.json"},
+                "S": {"$ref": "./Shipping/index.json"},
+            },
+        },
+        "Address/Roles/README.md": "# Address roles\n\nReusable concepts for the role or use of an address.\n",
+        "Address/US/index.json": {
+            "Name": "US address",
+            "Scalar": False,
+            "Subjects": ["I:P", "I:O"],
+            "Children": {
+                "R": {"$ref": "./Role.json"},
+                "L1": {"$ref": "./Line1.json"},
+                "L2": {"$ref": "./Line2.json"},
+                "C": {"$ref": "./City.json"},
+                "RE": {"$ref": "./Region.json"},
+                "PC": {"$ref": "./PostalCode.json"},
+                "CO": {"$ref": "./Country.json"},
+                "DI": {"$ref": "./DeliveryInstructions.json"},
+            },
+            "DisplayFormat": "{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\n{DI}",
+            "DisplayOmitValues": {"CO": ["G:CO:US"]},
+            "LabelField": "R",
+            "Description": "Address record using the US-style postal layout. The format is distinct from the country concept G:CO:US; migration retains original country information, including non-US addresses entered through the former general form.",
+            "Country": "G:CO:US",
+        },
+        "Address/US/README.md": "# US address\n\nCountry-specific postal address answer object for United States-style address records.\n",
+    }
+
+    role_defs = {
+        "Billing": "Billing address",
+        "Mailing": "Mailing address",
+        "Office": "Office address",
+        "Pickup": "Pickup address",
+        "Residence": "Residence address",
+        "RegisteredOffice": "Registered office address",
+        "Returns": "Returns address",
+        "Shipping": "Shipping address",
+    }
+    for dirname, name in role_defs.items():
+        files[f"Address/Roles/{dirname}/index.json"] = {"Name": name, "Description": f"{name} role."}
+        files[f"Address/Roles/{dirname}/README.md"] = f"# {name}\n\nAddress role concept for {name.lower()} usage.\n"
+
+    us_fields = {
+        "Role.json": ("Role", "What role does this address serve?"),
+        "Line1.json": ("Address line 1", "What is the first address line?"),
+        "Line2.json": ("Address line 2", "What is the second address line?"),
+        "City.json": ("City", "What is the city?"),
+        "Region.json": ("Region", "What is the state, province, or region?"),
+        "PostalCode.json": ("Postal code", "What is the postal code?"),
+        "Country.json": ("Country", "What is the country?"),
+        "DeliveryInstructions.json": ("Delivery instructions", "What delivery instructions apply?"),
+    }
+    for filename, (name, question) in us_fields.items():
+        files[f"Address/US/{filename}"] = {"Name": name, "Question": question, "Type": PRIMITIVE_STRING}
+
+    for rel, data in files.items():
+        path = DEFINITIONS_DIR / rel
+        if isinstance(data, str):
+            write_text(path, data)
+        else:
+            write_json(path, data)
+
+
+def export_definitions() -> None:
+    write_json(
+        DEFINITIONS_DIR / "index.json",
+        OrderedDict([
+            ("Name", "Geography"),
+            ("Description", "Places, political geography, postal address concepts and spatial context maintained by ekkis/Geo under the VowLabs Science / Geography assignment."),
+            ("Children", OrderedDict([
+                ("AD", {"$ref": "./Address/index.json"}),
+                ("CO", {"$ref": "./Country/index.json"}),
+                ("SD", {"$ref": "./Subdivision/index.json"}),
             ])),
-            ("entities", OrderedDict([
-                ("GeographicEntity", OrderedDict([
-                    ("description", "An entity with geographic meaning in the VowLabs Science:Geography ontology."),
-                    ("abstract", True),
-                    ("key", "id"),
-                    ("properties", OrderedDict([
-                        ("id", {"type": "string", "required": True, "description": "Stable VowLabs ontology entity id."}),
-                        ("name", {"type": "string", "required": True}),
-                        ("source", {"type": "object", "description": "Source file/key in the geo repository."}),
-                    ])),
-                ])),
-                ("Country", OrderedDict([
-                    ("extends", "GeographicEntity"),
-                    ("description", "A sovereign state or country-like territory identified by ISO 3166-1 alpha-2 and alpha-3 codes."),
-                    ("key", "iso2"),
-                    ("properties", OrderedDict([
-                        ("iso2", {"type": "string", "pattern": "^[A-Z]{2}$", "required": True}),
-                        ("iso3", {"type": "string", "pattern": "^[A-Z]{3}$"}),
-                        ("name", {"type": "object", "description": "Common and official country names."}),
-                        ("capital", {"type": "object", "description": "Localized capital names."}),
-                        ("continent-code", {"type": "string"}),
-                        ("region-codes", {"type": "array", "items": "string"}),
-                        ("currency-codes", {"type": "array", "items": "string"}),
-                        ("language-codes", {"type": "array", "items": "string"}),
-                        ("division-hierarchy", {"type": "array", "items": "DivisionHierarchyLevel"}),
-                    ])),
-                ])),
-                ("PoliticalSubdivision", OrderedDict([
-                    ("extends", "GeographicEntity"),
-                    ("description", "A political/administrative subdivision of a country, backed by ISO 3166-2 where available."),
-                    ("key", ["country-code", "subdivision-code"]),
-                    ("properties", OrderedDict([
-                        ("country-code", {"type": "string", "pattern": "^[A-Z]{2}$", "required": True}),
-                        ("subdivision-code", {"type": "string", "required": True, "description": "The country-local ISO 3166-2 suffix/key."}),
-                        ("domain", {"type": "string", "required": True, "description": "Political domain key from division-hierarchy, e.g. state, parish, province."}),
-                        ("iso3166-2", {"type": "string", "description": "Full ISO 3166-2 code when ISO-backed."}),
-                        ("iso-name", {"type": "string"}),
-                        ("iso-type", {"type": "string"}),
-                        ("parent-code", {"type": "string"}),
-                    ])),
-                ])),
-                ("DivisionHierarchyLevel", OrderedDict([
-                    ("description", "A level/domain in a country's political subdivision hierarchy. Backing file names are derived, not stored."),
-                    ("properties", OrderedDict([
-                        ("key", {"type": "string", "required": True}),
-                        ("label", {"type": "string", "required": True}),
-                        ("parent", {"type": "string"}),
-                        ("standard", {"type": "string"}),
-                        ("code-field", {"type": "string"}),
-                        ("type-field", {"type": "string"}),
-                        ("parent-field", {"type": "string"}),
-                    ])),
-                ])),
-                ("AddressFormat", OrderedDict([
-                    ("description", "A country-specific physical mailing address template and normalized field metadata."),
-                    ("key", "country-code"),
-                    ("properties", OrderedDict([
-                        ("country-code", {"type": "string", "pattern": "^[A-Z]{2}$", "required": True}),
-                        ("format", {"type": "string", "required": True, "description": "libaddressinput address template."}),
-                        ("fields", {"type": "object", "required": True, "description": "Address field metadata keyed by normalized field name."}),
-                        ("languages", {"type": "array", "items": "string"}),
-                    ])),
-                ])),
-            ])),
-        ]
+        ]),
     )
+    write_text(
+        DEFINITIONS_DIR / "README.md",
+        "# Geography (`S:G`)\n\nGeo-maintained VowLabs Science / Geography branch. This root preserves the existing Address branch and defines country and subdivision concepts whose instances are published as typed datasets.\n",
+    )
+    write_json(
+        DEFINITIONS_DIR / "Country" / "index.json",
+        OrderedDict([
+            ("Name", "Country"),
+            ("Description", "A country or country-like territory used as a geographic location or jurisdiction. Named places and ISO identifiers are reference data; inclusion does not adjudicate sovereignty."),
+            ("Children", OrderedDict()),
+        ]),
+    )
+    write_text(
+        DEFINITIONS_DIR / "Country" / "README.md",
+        "# Country (`S:G:CO`)\n\nA country or country-like territory used as a geographic location or jurisdiction. Instances are delivered by the `countries` dataset. Country dataset IDs use the stable `G:CO:{ISO2}` form, such as `G:CO:US`.\n",
+    )
+    write_json(
+        DEFINITIONS_DIR / "Subdivision" / "index.json",
+        OrderedDict([
+            ("Name", "Subdivision"),
+            ("Description", "A named administrative or constituent part of a country, such as a state, parish, province, department or district. Named subdivisions and their identifiers are reference data, not child definitions."),
+            ("Children", OrderedDict()),
+        ]),
+    )
+    write_text(
+        DEFINITIONS_DIR / "Subdivision" / "README.md",
+        "# Subdivision (`S:G:SD`)\n\nA named administrative or constituent part of a country. Instances are delivered by the `states` dataset for compatibility with the VowLabs Geography delegation contract; the dataset includes ISO 3166-2-backed political subdivision domains, not only US states.\n",
+    )
+    copy_existing_address_branch()
 
 
 def export_countries() -> dict[str, Any]:
-    records: OrderedDict[str, Any] = OrderedDict()
+    records: list[OrderedDict[str, Any]] = []
     for path in country_paths():
         code = path.stem
         data = unwrap_country(path)
+        name = data.get("name") or {}
         record = OrderedDict()
-        record["id"] = vowlabs_id("Country", code)
-        record["@type"] = "Country"
+        record["id"] = f"G:CO:{code}"
+        record["definitionCode"] = COUNTRY_DEFINITION
+        record["name"] = name.get("common") if isinstance(name, dict) else str(name)
+        if isinstance(name, dict) and name.get("official"):
+            record["officialName"] = name["official"]
         record["iso2"] = code
-        for key in [
-            "iso3",
-            "name",
-            "capital",
-            "continent-code",
-            "region-codes",
-            "currency-codes",
-            "language-codes",
-            "phone-code",
-            "tld",
-            "timezones",
-            "area",
-            "population",
-            "flag",
-            "demonym",
-            "gdp",
-            "neighbour-codes",
-            "division-hierarchy",
+        for source_key, target_key in [
+            ("iso3", "iso3"),
+            ("continent-code", "continentCode"),
+            ("region-codes", "regionCodes"),
+            ("capital", "capital"),
+            ("currency-codes", "currencyCodes"),
+            ("language-codes", "languageCodes"),
+            ("phone-code", "phoneCode"),
+            ("tld", "tld"),
+            ("timezones", "timezones"),
+            ("area", "area"),
+            ("population", "population"),
+            ("flag", "flag"),
+            ("demonym", "demonym"),
+            ("gdp", "gdp"),
+            ("neighbour-codes", "neighbourCodes"),
+            ("division-hierarchy", "divisionHierarchy"),
         ]:
-            if key in data:
-                record[key] = data[key]
+            if source_key in data:
+                record[target_key] = data[source_key]
         record["source"] = {"repository": "ekkis/geo", "path": f"data/country/{path.name}"}
-        records[code] = record
-    return dataset("Country", records)
+        records.append(record)
+    return OrderedDict([
+        ("id", "countries"),
+        ("name", "Countries"),
+        ("description", "Countries and country-like territories derived from ekkis/geo country records."),
+        ("definitionCode", COUNTRY_DEFINITION),
+        ("version", 1),
+        ("license", LICENSE),
+        ("provenance", "Derived from ekkis/geo data/country/{ISO2}.json records."),
+        ("records", records),
+    ])
 
 
-def export_address_formats() -> dict[str, Any]:
-    records: OrderedDict[str, Any] = OrderedDict()
-    for path in country_paths():
-        code = path.stem
-        data = unwrap_country(path)
-        fmt = data.get("address-format")
-        if not isinstance(fmt, dict):
-            continue
-        record = OrderedDict()
-        record["id"] = vowlabs_id("AddressFormat", code)
-        record["@type"] = "AddressFormat"
-        record["country-code"] = code
-        record.update(fmt)
-        record["source"] = {"repository": "ekkis/geo", "path": f"data/country/{path.name}", "field": "data.address-format"}
-        records[code] = record
-    return dataset("AddressFormat", records)
-
-
-def export_subdivisions() -> dict[str, Any]:
-    records: OrderedDict[str, Any] = OrderedDict()
+def export_states() -> dict[str, Any]:
+    records: list[OrderedDict[str, Any]] = []
     for country_path in country_paths():
         country_code = country_path.stem
         country = unwrap_country(country_path)
@@ -203,11 +269,7 @@ def export_subdivisions() -> dict[str, Any]:
         for entry in hierarchy:
             if not isinstance(entry, dict):
                 continue
-            standard = entry.get("standard")
-            # GB city/locality is project data, not ISO 3166-2-backed subdivision data.
-            if standard and standard != "ISO 3166-2":
-                continue
-            if not standard and entry.get("key") == "city":
+            if entry.get("standard") != "ISO 3166-2":
                 continue
             filename = hierarchy_filename(country_code, hierarchy, entry)
             path = COUNTRY_DIR / filename
@@ -220,64 +282,123 @@ def export_subdivisions() -> dict[str, Any]:
             for suffix, subdivision in raw.items():
                 if not isinstance(subdivision, dict):
                     continue
-                key = f"{country_code}-{suffix}"
+                iso_code = subdivision.get("iso3166-2") or f"{country_code}-{suffix}"
                 record = OrderedDict()
-                record["id"] = vowlabs_id("PoliticalSubdivision", key)
-                record["@type"] = "PoliticalSubdivision"
-                record["country-code"] = country_code
-                record["subdivision-code"] = suffix
+                record["id"] = iso_code
+                record["definitionCode"] = SUBDIVISION_DEFINITION
+                record["name"] = subdivision.get("name") or subdivision.get("iso-name")
+                record["abbreviation"] = suffix
+                record["country"] = f"G:CO:{country_code}"
+                record["countryCode"] = country_code
                 record["domain"] = domain
-                for field in ["name", "type", "iso3166-2", "iso-name", "iso-type", "parent-code", "country-code", "division-codes"]:
-                    if field in subdivision:
-                        record[field] = subdivision[field]
-                # Restore the actual containing country after preserving source field values.
-                record["country-code"] = country_code
+                for source_key, target_key in [
+                    ("type", "type"),
+                    ("iso3166-2", "iso3166-2"),
+                    ("iso-name", "isoName"),
+                    ("iso-type", "isoType"),
+                    ("parent-code", "parentCode"),
+                    ("division-codes", "divisionCodes"),
+                ]:
+                    if source_key in subdivision:
+                        record[target_key] = subdivision[source_key]
                 record["source"] = {"repository": "ekkis/geo", "path": f"data/country/{path.name}", "key": suffix}
-                records[key] = record
-    return dataset("PoliticalSubdivision", records)
-
-
-def dataset(entity: str, records: OrderedDict[str, Any]) -> dict[str, Any]:
+                records.append(record)
+    records.sort(key=lambda item: item["id"])
     return OrderedDict([
-        ("$schema", "https://ontology.vowlabs.com/schema/entity-data/v1.json"),
-        ("ontology", ONTOLOGY_ID),
-        ("entity", entity),
-        ("generated-by", GENERATED_BY),
-        ("count", len(records)),
+        ("id", "states"),
+        ("name", "Political subdivisions"),
+        ("description", "ISO 3166-2-backed first-level and special political subdivision records. The dataset id remains `states` for VowLabs delegation compatibility."),
+        ("definitionCode", SUBDIVISION_DEFINITION),
+        ("version", 1),
+        ("license", LICENSE),
+        ("provenance", "Derived from ekkis/geo data/country/{ISO2}.{domain}.json ISO 3166-2-backed political subdivision files."),
         ("records", records),
     ])
 
 
-def index(datasets: list[tuple[str, str, int]]) -> dict[str, Any]:
-    return OrderedDict([
-        ("ontology", ONTOLOGY_ID),
-        ("path", ["Science", "Geography"]),
-        ("generated-by", GENERATED_BY),
-        ("definitions", "definitions.json"),
-        ("data", [OrderedDict([("entity", entity), ("file", file), ("count", count)]) for entity, file, count in datasets]),
+def export_data() -> tuple[int, int]:
+    countries = export_countries()
+    states = export_states()
+    write_json(DATA_DIR / "countries" / "index.json", countries)
+    write_text(
+        DATA_DIR / "countries" / "README.md",
+        "# Countries dataset\n\nTyped `S:G:CO` reference data for countries and country-like territories. Record IDs use `G:CO:{ISO2}` for compatibility with existing VowLabs country references.\n",
+    )
+    write_json(DATA_DIR / "states" / "index.json", states)
+    write_text(
+        DATA_DIR / "states" / "README.md",
+        "# States dataset\n\nTyped `S:G:SD` reference data for political subdivisions. The dataset id remains `states` for VowLabs delegation compatibility, but records cover ISO 3166-2-backed subdivision domains globally.\n",
+    )
+    return len(countries["records"]), len(states["records"])
+
+
+def export_manifest() -> None:
+    manifest = OrderedDict([
+        ("formatVersion", 1),
+        ("repository", REPOSITORY),
+        ("prefix", PREFIX),
+        ("version", VERSION),
+        ("license", LICENSE),
+        ("readme", "README.md"),
+        ("requires", OrderedDict([
+            ("ontologyVersion", ONTOLOGY_VERSION),
+            ("codes", ["I:P", "I:O", PRIMITIVE_STRING]),
+        ])),
+        ("datasets", [
+            OrderedDict([("id", "countries"), ("path", "data/countries/index.json"), ("definitionCode", COUNTRY_DEFINITION)]),
+            OrderedDict([("id", "states"), ("path", "data/states/index.json"), ("definitionCode", SUBDIVISION_DEFINITION)]),
+        ]),
+        ("delivery", OrderedDict([("mode", "snapshot"), ("entry", "definitions/index.json")])),
     ])
+    write_json(OUT_DIR / "manifest.json", manifest)
+
+
+def export_readme(country_count: int, state_count: int) -> None:
+    write_text(
+        OUT_DIR / "README.md",
+        f"""# VowLabs Science / Geography contribution
+
+This directory is a VowLabs Ontology contribution-format-v1 snapshot for the assigned Geography branch:
+
+```text
+prefix: S:G
+repository: {REPOSITORY}
+delivery: snapshot
+entry: definitions/index.json
+```
+
+## Contents
+
+- `manifest.json` — contribution manifest.
+- `definitions/` — PascalCase ontology definitions mounted at `S:G`.
+- `data/countries/index.json` — `{country_count}` `S:G:CO` country records.
+- `data/states/index.json` — `{state_count}` `S:G:SD` political subdivision records.
+
+The `states` dataset name is retained for compatibility with the VowLabs Geography delegation contract. Its records cover global ISO 3166-2-backed political subdivision domains such as states, provinces, parishes, departments and districts.
+
+## Regeneration
+
+```bash
+python3 scripts/export-vowlabs-ontology.py
+python3 scripts/validate-vowlabs-ontology.py
+```
+
+## Scope and boundaries
+
+Definitions describe concepts. Instance rows live only in dataset files. Routing URLs, service credentials and application storage keys are not embedded in definitions. This snapshot does not activate live service delegation; VowLabs must register and route a public service URL separately if service delivery is desired.
+""",
+    )
 
 
 def main() -> None:
-    defs = definitions()
-    countries = export_countries()
-    subdivisions = export_subdivisions()
-    addresses = export_address_formats()
-
-    write_json(OUT_DIR / "definitions.json", defs)
-    write_json(DATA_DIR / "countries.json", countries)
-    write_json(DATA_DIR / "political-subdivisions.json", subdivisions)
-    write_json(DATA_DIR / "address-formats.json", addresses)
-    write_json(
-        OUT_DIR / "index.json",
-        index([
-            ("Country", "data/countries.json", countries["count"]),
-            ("PoliticalSubdivision", "data/political-subdivisions.json", subdivisions["count"]),
-            ("AddressFormat", "data/address-formats.json", addresses["count"]),
-        ]),
-    )
-    print(f"Exported VowLabs {ONTOLOGY_ID}")
-    print(f"countries={countries['count']} subdivisions={subdivisions['count']} address_formats={addresses['count']}")
+    if OUT_DIR.exists():
+        shutil.rmtree(OUT_DIR)
+    export_definitions()
+    country_count, state_count = export_data()
+    export_manifest()
+    export_readme(country_count, state_count)
+    print("Exported VowLabs contribution snapshot")
+    print(f"countries={country_count} states={state_count}")
 
 
 if __name__ == "__main__":
