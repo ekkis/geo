@@ -1,0 +1,15 @@
+{
+  "Name": "Geography",
+  "Description": "Places, political geography, postal address concepts and spatial context maintained by ekkis/Geo under the VowLabs Science / Geography assignment.",
+  "Children": {
+    "AD": {
+      "$ref": "./Address/index.json"
+    },
+    "CO": {
+      "$ref": "./Country/index.json"
+    },
+    "SD": {
+      "$ref": "./Subdivision/index.json"
+    }
+  }
+}

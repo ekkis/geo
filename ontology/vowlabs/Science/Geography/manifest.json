@@ -1,0 +1,30 @@
+{
+  "formatVersion": 1,
+  "repository": "https://github.com/ekkis/Geo",
+  "prefix": "S:G",
+  "version": "1.0.0",
+  "license": "MIT",
+  "readme": "README.md",
+  "requires": {
+    "ontologyVersion": "7.0.0",
+    "codes": [
+      "I:P",
+      "I:O",
+      "S:I:D:T:S"
+    ]
+  },
+  "datasets": [
+    {
+      "id": "countries",
+      "definitionCode": "S:G:CO"
+    },
+    {
+      "id": "states",
+      "definitionCode": "S:G:SD"
+    }
+  ],
+  "delivery": {
+    "mode": "service",
+    "url": "https://geo.example/v1/"
+  }
+}

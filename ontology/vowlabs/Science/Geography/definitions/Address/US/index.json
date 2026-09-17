@@ -1,0 +1,43 @@
+{
+  "Name": "US address",
+  "Scalar": false,
+  "Subjects": [
+    "I:P",
+    "I:O"
+  ],
+  "Children": {
+    "R": {
+      "$ref": "./Role.json"
+    },
+    "L1": {
+      "$ref": "./Line1.json"
+    },
+    "L2": {
+      "$ref": "./Line2.json"
+    },
+    "C": {
+      "$ref": "./City.json"
+    },
+    "RE": {
+      "$ref": "./Region.json"
+    },
+    "PC": {
+      "$ref": "./PostalCode.json"
+    },
+    "CO": {
+      "$ref": "./Country.json"
+    },
+    "DI": {
+      "$ref": "./DeliveryInstructions.json"
+    }
+  },
+  "DisplayFormat": "{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\n{DI}",
+  "DisplayOmitValues": {
+    "CO": [
+      "G:CO:US"
+    ]
+  },
+  "LabelField": "R",
+  "Description": "Address record using the US-style postal layout. The format is distinct from the country concept G:CO:US; migration retains original country information, including non-US addresses entered through the former general form.",
+  "Country": "G:CO:US"
+}

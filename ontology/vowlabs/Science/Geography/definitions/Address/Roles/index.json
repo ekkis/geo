@@ -1,0 +1,30 @@
+{
+  "Name": "Roles",
+  "Description": "Reusable address role concepts.",
+  "Children": {
+    "B": {
+      "$ref": "./Billing/index.json"
+    },
+    "M": {
+      "$ref": "./Mailing/index.json"
+    },
+    "O": {
+      "$ref": "./Office/index.json"
+    },
+    "P": {
+      "$ref": "./Pickup/index.json"
+    },
+    "R": {
+      "$ref": "./Residence/index.json"
+    },
+    "RO": {
+      "$ref": "./RegisteredOffice/index.json"
+    },
+    "RT": {
+      "$ref": "./Returns/index.json"
+    },
+    "S": {
+      "$ref": "./Shipping/index.json"
+    }
+  }
+}
