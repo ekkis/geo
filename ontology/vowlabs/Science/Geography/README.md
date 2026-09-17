@@ -43,3 +43,17 @@ GET /v1/datasets/states/records
 ```
 
 The checked-in `definitions/` and `data/` files are the canonical source for those service responses.
+
+The Geo repository publishes the service with [`remote-lib`](https://github.com/ekkis/remote-lib):
+
+```text
+GET /health
+GET /metadata
+POST /invoke
+```
+
+Example remote-lib invocation:
+
+```bash
+curl -X POST $GEO_SERVICE_URL/invoke   -H 'Content-Type: application/json'   -d '{"method":"definition","args":["S:G:CO"]}'
+```
