@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
-"""Export a VowLabs Science/Geography snapshot contribution.
+"""Export Geo's VowLabs Science/Geography delegated-service package.
 
 The export follows the VowLabs Ontology contribution format v1:
 
-- manifest.json declares a snapshot contribution mounted at prefix S:G.
-- definitions/ contains PascalCase ontology definition nodes.
-- data/countries/index.json contains typed Country reference data.
-- data/states/index.json contains typed Subdivision reference data.
+- manifest.json declares service delegation for prefix S:G.
+- definitions/ contains PascalCase ontology definition nodes served by Geo.
+- data/countries/index.json contains typed Country reference data served by Geo.
+- data/states/index.json contains typed Subdivision reference data served by Geo.
 
 The source of truth remains the geo repository's canonical country JSON and
-ISO 3166-2-backed political subdivision files.
+ISO 3166-2-backed political subdivision files. VowLabs should register Geo's
+public service URL and delegate Science/Geography (S:G) to it; VowLabs should
+not copy these definitions/data into its local ontology tree as the authority.
 """
 
 from __future__ import annotations
@@ -30,6 +32,7 @@ REPOSITORY = "https://github.com/ekkis/Geo"
 VERSION = "1.0.0"
 LICENSE = "MIT"
 ONTOLOGY_VERSION = "7.0.0"
+SERVICE_URL = "https://geo.example/v1/"  # Replace with Geo's real public HTTPS base URL before activation.
 COUNTRY_DEFINITION = "S:G:CO"
 SUBDIVISION_DEFINITION = "S:G:SD"
 PRIMITIVE_STRING = "S:I:D:T:S"
@@ -76,8 +79,8 @@ def copy_existing_address_branch() -> None:
     """Preserve the existing VowLabs Geography/Address branch locally.
 
     The contribution guide says the actual Geography handoff must preserve the
-    Address branch. We copy the current upstream branch into our snapshot export
-    so the S:G root includes AD, CO and SD.
+    Address branch. We copy the current upstream branch into Geo's delegated
+    export so the S:G root includes AD, CO and SD.
     """
 
     address_root = DEFINITIONS_DIR / "Address"
@@ -345,10 +348,10 @@ def export_manifest() -> None:
             ("codes", ["I:P", "I:O", PRIMITIVE_STRING]),
         ])),
         ("datasets", [
-            OrderedDict([("id", "countries"), ("path", "data/countries/index.json"), ("definitionCode", COUNTRY_DEFINITION)]),
-            OrderedDict([("id", "states"), ("path", "data/states/index.json"), ("definitionCode", SUBDIVISION_DEFINITION)]),
+            OrderedDict([("id", "countries"), ("definitionCode", COUNTRY_DEFINITION)]),
+            OrderedDict([("id", "states"), ("definitionCode", SUBDIVISION_DEFINITION)]),
         ]),
-        ("delivery", OrderedDict([("mode", "snapshot"), ("entry", "definitions/index.json")])),
+        ("delivery", OrderedDict([("mode", "service"), ("url", SERVICE_URL)])),
     ])
     write_json(OUT_DIR / "manifest.json", manifest)
 
@@ -358,13 +361,13 @@ def export_readme(country_count: int, state_count: int) -> None:
         OUT_DIR / "README.md",
         f"""# VowLabs Science / Geography contribution
 
-This directory is a VowLabs Ontology contribution-format-v1 snapshot for the assigned Geography branch:
+This directory is Geo's VowLabs Ontology contribution-format-v1 package for the assigned Geography branch. Geo remains the authority for definitions and data; VowLabs delegates the `Science / Geography` node (`S:G`) to Geo's service URL.
 
 ```text
 prefix: S:G
 repository: {REPOSITORY}
-delivery: snapshot
-entry: definitions/index.json
+delivery: service
+service-url: {SERVICE_URL}
 ```
 
 ## Contents
@@ -385,7 +388,22 @@ python3 scripts/validate-vowlabs-ontology.py
 
 ## Scope and boundaries
 
-Definitions describe concepts. Instance rows live only in dataset files. Routing URLs, service credentials and application storage keys are not embedded in definitions. This snapshot does not activate live service delegation; VowLabs must register and route a public service URL separately if service delivery is desired.
+Definitions describe concepts. Instance rows live only in dataset files and service responses. The manifest advertises delegated service delivery; replace `https://geo.example/v1/` with Geo's real public HTTPS base URL before VowLabs activates routing. Endpoint activation must not change ontology codes or dataset record IDs.
+
+## Delegated service contract
+
+VowLabs keeps the parent `S` branch and publishes a delegation descriptor for `S:G`. Geo serves the assigned node and descendants from the registered base URL:
+
+```text
+GET /v1/definitions/S%3AG
+GET /v1/definitions/S%3AG/children
+GET /v1/datasets/countries
+GET /v1/datasets/countries/records
+GET /v1/datasets/states
+GET /v1/datasets/states/records
+```
+
+The checked-in `definitions/` and `data/` files are the canonical source for those service responses.
 """,
     )
 
@@ -397,7 +415,7 @@ def main() -> None:
     country_count, state_count = export_data()
     export_manifest()
     export_readme(country_count, state_count)
-    print("Exported VowLabs contribution snapshot")
+    print("Exported VowLabs delegated-service package")
     print(f"countries={country_count} states={state_count}")
 
 

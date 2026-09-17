@@ -16,17 +16,15 @@
   "datasets": [
     {
       "id": "countries",
-      "path": "data/countries/index.json",
       "definitionCode": "S:G:CO"
     },
     {
       "id": "states",
-      "path": "data/states/index.json",
       "definitionCode": "S:G:SD"
     }
   ],
   "delivery": {
-    "mode": "snapshot",
-    "entry": "definitions/index.json"
+    "mode": "service",
+    "url": "https://geo.example/v1/"
   }
 }

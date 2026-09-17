@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the VowLabs Science/Geography contribution snapshot."""
+"""Validate Geo's VowLabs Science/Geography delegated-service package."""
 
 from __future__ import annotations
 
@@ -42,10 +42,11 @@ def validate_manifest(errors: list[str]) -> dict[str, Any]:
     if not PATH_RE.match(str(manifest.get("readme", ""))) or not str(manifest.get("readme", "")).endswith("README.md"):
         fail(errors, "manifest readme must be relative README.md path")
     delivery = manifest.get("delivery", {})
-    if delivery.get("mode") != "snapshot":
-        fail(errors, "manifest delivery mode must be snapshot")
-    if delivery.get("entry") != "definitions/index.json":
-        fail(errors, "manifest snapshot entry must be definitions/index.json")
+    if delivery.get("mode") != "service":
+        fail(errors, "manifest delivery mode must be service")
+    service_url = str(delivery.get("url", ""))
+    if not re.match(r"^https://[^/@?#\s]+(?:/[^?#\s]*)?/$", service_url):
+        fail(errors, "manifest service url must be public HTTPS base URL ending in /")
     requires = manifest.get("requires", {})
     if not re.match(r"^(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)$", str(requires.get("ontologyVersion", ""))):
         fail(errors, "requires.ontologyVersion must be semver")
@@ -59,11 +60,8 @@ def validate_manifest(errors: list[str]) -> dict[str, Any]:
             fail(errors, "countries definitionCode mismatch")
         if item.get("id") == "states" and item.get("definitionCode") != SUBDIVISION_DEFINITION:
             fail(errors, "states definitionCode mismatch")
-        dataset_path = item.get("path")
-        if not dataset_path or not PATH_RE.match(dataset_path) or not dataset_path.endswith("index.json"):
-            fail(errors, f"invalid dataset path {dataset_path}")
-        elif not (OUT_DIR / dataset_path).exists():
-            fail(errors, f"dataset path missing: {dataset_path}")
+        if "path" in item:
+            fail(errors, f"service dataset {item.get('id')} must not declare snapshot path")
     return manifest
 
 
@@ -155,7 +153,7 @@ def main() -> None:
         for error in errors[:100]:
             print(error)
         raise SystemExit(1)
-    print("Validated VowLabs Science/Geography contribution snapshot")
+    print("Validated VowLabs Science/Geography delegated-service package")
     print("Country: 250")
     print("Subdivision records: 5046")
 
