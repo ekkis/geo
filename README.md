@@ -146,6 +146,8 @@ Canonical ISO 3166-2 subdivisions are available in politically named files under
 
 The same definitions and data are also published as a VowLabs Ontology contribution-format-v1 delegated-service package under `ontology/vowlabs/Science/Geography/`. Geo remains the authority for the `S:G` branch; VowLabs should register Geo's public service URL and delegate `Science / Geography` to it. The package includes the service manifest, PascalCase `definitions/`, and typed `countries` (`S:G:CO`) and `states`/political-subdivisions (`S:G:SD`) datasets. Regenerate it with `scripts/export-vowlabs-ontology.py` and validate it with `scripts/validate-vowlabs-ontology.py`.
 
+The delegated VowLabs service is exposed with [`remote-lib`](https://github.com/ekkis/remote-lib). `api/index.js` publishes remote-lib endpoints (`/health`, `/metadata`, `/invoke`) and VowLabs REST convenience endpoints under `/v1`. Run locally with `npm run start:vowlabs` or smoke-test without binding a port with `npm run smoke:vowlabs`.
+
 Clients can retrieve this data from the country entity:
 
 ```js
