@@ -50,6 +50,42 @@ In a web page, you can include the module like this:
 <script src="/path/to/geo.min.js"></script>
 ```
 
+## Entity API
+
+The current ES module API exposes domains such as `country`, `currency`,
+`continent`, `region`, `language`, and `organisation`:
+
+```js
+import geo from 'geo';
+
+geo.country.keys();
+geo.country.meta();
+geo.country.list();
+geo.currency.list({ name: true });
+geo.country.list({ raw: true }); // Records keyed by ISO2 code
+geo.country.find({ criteria: 'US', singleton: true });
+geo.country.find({ criteria: ['US', 'CA'] });
+geo.country.find({ criteria: { name: { common: 'United States' } } });
+geo.country.find({ criteria: 'US', hydrate: true, name: true });
+```
+
+`find(criteria, options)` is also supported. Hydration expands known scalar
+and array code references without changing the database; `name` uses referenced
+names when available. Unknown references and structured code maps are preserved.
+`raw` disables hydration. Country records include metadata and subdivision
+supplements (for example, `state` and `region.city` for the US).
+
+```sh
+./cli country find -c US
+./cli country find -c '{"iso3":"USA"}' -H -n
+./cli currency list --name
+./cli country meta
+./cli --help
+node --test test/entities.test.mjs
+```
+
+The examples below describe the legacy API and have not yet been migrated.
+
 ## Basic Usage
 
 The following methods are available:

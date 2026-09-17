@@ -26,78 +26,67 @@ function pathChk(o, path) {
 }
 // Base Entity class with list and find methods
 class Entity {
-    constructor(data) {
-        this.data = data;
+    constructor(info) {
+        this.info = { ...info, data: info.data || {} };
     }
     keys() {
-        return Object.keys(this.data);
+        return Object.keys(this.info.data);
     }
-    list() {
-        return Object.values(this.data);
+    meta() {
+        return this.info.meta || {}
     }
-    find(criteria, opts = {}) {
-        // no criteria provided
-        if (!criteria) throw new Error('Criteria is required for find method')
+    list(opts = {}) {
+        var ret = this.info.data
+        if (opts.raw) return ret
+        ret = Object.values(ret)
+        if (opts.name) ret = ret.map(o => o.name ?? o)
+        return ret
+    }
+    find(opts = {}, legacyOpts = {}) {
+        if (opts == null) throw new Error('Criteria is required for find method')
+        // Accept both the options object and the previous find(criteria, opts) API.
+        if (typeof opts === 'string' || Array.isArray(opts) ||
+            !Object.hasOwn(opts, 'criteria')) {
+            opts = { ...legacyOpts, criteria: opts }
+        }
+        var criteria = opts.criteria
+        if (!criteria || (isObj(criteria) && !Object.keys(criteria).length)) throw new Error('Criteria is required for find method')
         
         var ret = []
 
         if (typeof criteria === 'string') {
             // user passed a key
-            ret.push(this.data[criteria])
+            if (Object.hasOwn(this.info.data, criteria)) ret.push(this.info.data[criteria])
         } else if (Array.isArray(criteria)) {
             // or an array of keys
-            ret.concat(criteria.map(k => this.data[k] || null).filter(Boolean))
+            ret = criteria.filter(k => Object.hasOwn(this.info.data, k)).map(k => this.info.data[k])
         } else {
             criteria = pathify(criteria)
-            ret = Object.values(this.data).filter(v => {
+            ret = Object.values(this.info.data).filter(v => {
                 var m = criteria.filter(p => pathChk(v, p))
                 return m.length == criteria.length
             })
         }
-        if (opts.hydrate) {
-            function parseKey(k) {
-                return [
-                    k.replace(/y-codes$/, 'ies').replace(/-code/, ''),
-                    k.replace(/-codes?$/, '')
-                ]
-            }
-            function chkey(o, k, nk) {
-                o[nk] = o[k]
-                delete o[k]
-            }
-            function ho(o, levels) {
-                if (typeof o == 'string')
-                    return data[levels[0]][o]
-                else if (Array.isArray(o))
-                    return o.map(v => ho(v, levels))
-                else if (typeof o == 'object') {
-                    for (const k of Object.keys(o)) {
-                        ho(o[k], levels.slice(1))
-                        chkey(o, k, data[levels[0]][o[k]])
+        if (opts.hydrate && !opts.raw) {
+            // Hydration must not rewrite the shared database used by later queries.
+            ret = structuredClone(ret)
+            for (const record of ret) {
+                if (!isObj(record)) continue
+                for (const key of Object.keys(record)) {
+                    const match = key.match(/^(\w+)-codes?$/)
+                    if (!match || !data[match[1]]?.data) continue
+                    const values = data[match[1]].data
+                    const resolve = code => {
+                        const value = Object.hasOwn(values, code) ? values[code] : code
+                        return structuredClone(opts.name ? value?.name ?? value : value)
                     }
+                    const value = record[key]
+                    // Structured code maps require a schema; preserve them as supplied.
+                    if (typeof value !== 'string' && !Array.isArray(value)) continue
+                    const newKey = key.replace(/y-codes$/, 'ies').replace(/-code/, '')
+                    record[newKey] = Array.isArray(value) ? value.map(resolve) : resolve(value)
+                    delete record[key]
                 }
-                return o
-            }
-            for (var i = 0; i < ret.length; i++) {
-                Object.keys(ret[i]).filter(k => {
-                    var m = k.match(/(\w+)-codes?$/)
-                    return m && m[1] in data
-                }).forEach(k => {
-                    var [newKey, domain] = parseKey(k)
-                    var hasSchema = data[domain].schema
-                    var val = ret[i][k]
-                    if (typeof val == 'string') {
-                        val = data[domain][val]
-                    } else if (Array.isArray(val)) {
-                        val = val.map(v => data[domain][v])
-                    } else if (typeof val == 'object' && hasSchema) {
-                        val = ho(val, data[domain].schema)
-                    }
-                    ret[i][newKey] = val
-                    delete ret[i][k]
-                })
-                // for (const k of Object.keys(ret[i]))
-                //     if (k in data) ret[i][k] = data[k][ret[i][k]]
             }
         }
         if (opts.singleton) {

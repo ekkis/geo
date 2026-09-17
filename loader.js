@@ -1,60 +1,38 @@
-import { readdir } from "node:fs/promises";
-const root = './data'
+import { readdir, readFile } from 'node:fs/promises';
 
-function set(o, path, val) {
-    var ls = path.split('.')
-    for (var i = 0; i < ls.length - 1; i++) {
-        if (!(ls[i] in o)) o[ls[i]] = {}
-        o = o[ls[i]]
+const root = new URL('./data/', import.meta.url);
+
+function set(object, path, value) {
+    const keys = path.split('.');
+    for (const key of keys.slice(0, -1)) {
+        object[key] ??= {};
+        object = object[key];
     }
-    return o[ls[i]] = val
+    object[keys.at(-1)] = value;
 }
-async function dir(folderPath) {
-  try {
-    const entries = await readdir(folderPath); // array of names (strings)
-    return entries.sort((a, b) => {
-        const aBase = a.replace(/^([A-Z]{2})(?:\.[^.]+)?\.json$/, "$1.json");
-        const bBase = b.replace(/^([A-Z]{2})(?:\.[^.]+)?\.json$/, "$1.json");
 
-        if (aBase !== bBase) return aBase.localeCompare(bBase);
+async function load(folder = root) {
+    const result = {};
+    const entries = await readdir(folder, { withFileTypes: true });
+    entries.sort((a, b) =>
+        Number(a.isDirectory()) - Number(b.isDirectory()) ||
+        a.name.split('.').length - b.name.split('.').length ||
+        a.name.localeCompare(b.name));
 
-        const aIsBase = /^[A-Z]{2}\.json$/.test(a);
-        const bIsBase = /^[A-Z]{2}\.json$/.test(b);
-
-        if (aIsBase !== bIsBase) return aIsBase ? -1 : 1;
-
-        return a.localeCompare(b);
-        })
-  } catch (err) {
-    throw new Error(`Failed to read folder "${folderPath}": ${err.message}`);
-  }
-}
-async function importJson(path) {
-    const type = { with: { type: "json" } }
-    try {
-        const data = await import(path, type)
-        return data.default
-    } catch (err) {
-        throw new Error(`Failed to import JSON file "${path}": ${err.message}`)
-    }
-}
-async function load(d = root) {
-    var ret = {}
-    try {
-        const f = await dir(d)
-        for (var i = 0; i < f.length; i++) {
-            if (f[i].endsWith('.json')) {
-                var k = f[i].slice(0, -5)
-                set(ret, k, await importJson(`${d}/${f[i]}`))
-            }
-            else {
-                ret[f[i]] = await load(`${d}/${f[i]}`)
-            }
+    for (const entry of entries) {
+        const url = new URL(entry.name, folder);
+        if (entry.isDirectory()) {
+            result[entry.name] ??= { meta: {} };
+            result[entry.name].data = await load(new URL(`${entry.name}/`, folder));
+        } else if (entry.isFile() && entry.name.endsWith('.json')) {
+            const value = JSON.parse(await readFile(url, 'utf8'));
+            // Domain files retain their metadata; individual records expose their data.
+            const record = folder.href === root.href ? value :
+                value.data ? { ...value.data, meta: value.meta } : value;
+            set(result, entry.name.slice(0, -5), record);
         }
-        return ret
-    } catch (err) {
-        console.error(err);
     }
+    return result;
 }
 
-export default await load()
+export default await load();
