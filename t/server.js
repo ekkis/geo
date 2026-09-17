@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import { once } from 'node:events';
-import { describe, it, before, after } from 'mocha';
+import { describe, it, before, after } from 'node:test';
 import micro from 'micro';
 import handler from '../server.js';
 

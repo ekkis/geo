@@ -35,33 +35,20 @@
     "region"
   ],
   "scripts": {
-    "build": "gulp",
+    "build": "node scripts/build-browser.js",
     "start": "node service/server.js",
     "dev": "node --watch service/server.js",
-    "test": "npm run lint && mocha t/*.js && node --test test/*.mjs",
+    "test": "npm run lint && node --test t/*.js test/*.mjs",
     "preversion": "npm run test",
     "version": "",
     "postversion": "git push --tags && npm publish",
     "debug": "node --inspect-brk eg",
-    "lint": "eslint *.js cli t/*.js test/*.mjs",
+    "lint": "eslint *.js cli t/*.js test/*.mjs scripts/build-browser.js",
     "smoke:vowlabs": "node scripts/smoke-vowlabs-service.js"
   },
   "devDependencies": {
-    "browserify": "^16.2.3",
-    "chai": "^4.0.2",
     "eslint": "^9.32.0",
-    "gulp": "^5.0.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sourcemaps": "^2.6.0",
-    "gulp-streamify": "^1.0.2",
-    "gulp-uglify-es": "^3.0.0",
-    "micro-dev": "^3.0.0",
-    "mocha": "^10.2.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
-    "test-listen": "^1.1.0",
-    "vinyl-buffer": "^1.0.1",
-    "vinyl-source-stream": "^2.0.0"
+    "esbuild": "^0.28.2"
   },
   "dependencies": {
     "commander": "^14.0.3",

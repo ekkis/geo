@@ -1,6 +1,6 @@
 export default [
     {
-        files: ['*.js', 'cli', 't/*.js', 'test/*.mjs'],
+        files: ['*.js', 'cli', 't/*.js', 'test/*.mjs', 'scripts/build-browser.js'],
         linterOptions: { reportUnusedDisableDirectives: 'off' },
         languageOptions: {
             ecmaVersion: 'latest',
@@ -10,7 +10,7 @@ export default [
         rules: { semi: ['error', 'always'] },
     },
     {
-        files: ['gulpfile.js', 'webpack.config.js'],
+        files: ['webpack.config.js'],
         languageOptions: {
             sourceType: 'commonjs',
             globals: { __dirname: 'readonly', module: 'readonly', require: 'readonly' },

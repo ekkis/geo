@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { describe, it } from 'mocha';
+import { describe, it } from 'node:test';
 
 // Retain the legacy regression check for inherited enumerable properties.
 Object.prototype.__test_function__ = () => null;

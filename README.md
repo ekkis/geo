@@ -236,7 +236,9 @@ and to build the minified file for web, run:
 ```bash
 npm run build
 ```
-and retrieve the file from `dist/geo.min.js`
+The build writes `dist/country.min.js` and its source map. Load the script in a
+modern browser to access the entity API through the global `geo` object.
+The geography data is embedded at build time; no filesystem access is needed.
 
 ## Module-as-a-service
 The functionality in this module is also available as a service using **remote-lib**. Deploy your own instance:
