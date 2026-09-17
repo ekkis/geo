@@ -15,19 +15,19 @@ The functionality in this module is also available as a service, hosted using **
 npx vercel --prod
 ```
 
-You can then access the API at your Vercel URL. Example usage:
+The official service is available at `https://geo-ekkis.vercel.app`. Example usage:
 
 ```bash
 # Health check
-curl https://your-app.vercel.app/health
+curl https://geo-ekkis.vercel.app/health
 
 # Metadata
-curl https://your-app.vercel.app/metadata
+curl https://geo-ekkis.vercel.app/metadata
 
 # Invoke a method
-curl -X POST https://your-app.vercel.app/invoke \
+curl -X POST https://geo-ekkis.vercel.app/invoke \
   -H 'Content-Type: application/json' \
-  -d '{"method": "find", "args": [{"iso2": "US"}]}'
+  -d '{"method": "country", "args": ["G:CO:US"]}'
 ```
 
 ## Install
@@ -201,6 +201,8 @@ Canonical ISO 3166-2 subdivisions are available in politically named files under
 
 The same definitions and data are also published as a VowLabs Ontology contribution-format-v1 delegated-service package under `ontology/vowlabs/Science/Geography/`. Geo remains the authority for the `S:G` branch; VowLabs should register Geo's public service URL and delegate `Science / Geography` to it. The package includes the service manifest, PascalCase `definitions/`, and typed `countries` (`S:G:CO`) and `states`/political-subdivisions (`S:G:SD`) datasets. Regenerate it with `scripts/export-vowlabs-ontology.py` and validate it with `scripts/validate-vowlabs-ontology.py`.
 
+The official service is `https://geo-ekkis.vercel.app/`; its health endpoint is `/health` and its ontology REST base is `https://geo-ekkis.vercel.app/v1/`.
+
 The delegated VowLabs service is exposed with [`remote-lib`](https://github.com/ekkis/remote-lib). `api/index.js` publishes remote-lib endpoints (`/health`, `/metadata`, `/invoke`) and VowLabs REST convenience endpoints under `/v1`. Run locally with `npm start` (port 3000, or `$PORT`), use `npm run dev` for automatic restarts, or smoke-test without binding a port with `npm run smoke:vowlabs`.
 
 Clients can retrieve this data from the country entity:
@@ -249,16 +251,16 @@ The functionality in this module is also available as a service using **remote-l
 npx vercel --prod
 ```
 
-You can then access the API at your Vercel URL. Example:
+Example using the official service:
 
 ```bash
 # Health
-curl https://your-app.vercel.app/health
+curl https://geo-ekkis.vercel.app/health
 
 # Invoke
-curl -X POST https://your-app.vercel.app/invoke \
+curl -X POST https://geo-ekkis.vercel.app/invoke \
   -H 'Content-Type: application/json' \
-  -d '{"method": "find", "args": [{"iso2": "US"}]}'
+  -d '{"method": "country", "args": ["G:CO:US"]}'
 ```
 
 ## Licence

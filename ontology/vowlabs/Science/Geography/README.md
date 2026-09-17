@@ -6,7 +6,7 @@ This directory is Geo's VowLabs Ontology contribution-format-v1 package for the 
 prefix: S:G
 repository: https://github.com/ekkis/Geo
 delivery: service
-service-url: https://geo.example/v1/
+service-url: https://geo-ekkis.vercel.app/v1/
 ```
 
 ## Contents
@@ -25,9 +25,15 @@ python3 scripts/export-vowlabs-ontology.py
 python3 scripts/validate-vowlabs-ontology.py
 ```
 
+Verify every public definition and dataset endpoint after deployment:
+
+```bash
+npm run smoke:vowlabs -- https://geo-ekkis.vercel.app
+```
+
 ## Scope and boundaries
 
-Definitions describe concepts. Instance rows live only in dataset files and service responses. The manifest advertises delegated service delivery; replace `https://geo.example/v1/` with Geo's real public HTTPS base URL before VowLabs activates routing. Endpoint activation must not change ontology codes or dataset record IDs.
+Definitions describe concepts. Instance rows live only in dataset files and service responses. The manifest registers `https://geo-ekkis.vercel.app/v1/` as the delegated REST base URL. Health and RPC endpoints use the service origin `https://geo-ekkis.vercel.app`. Public access must be enabled in Vercel Deployment Protection for ontology clients. Endpoint activation must not change ontology codes or dataset record IDs.
 
 ## Delegated service contract
 
@@ -55,5 +61,5 @@ POST /invoke
 Example remote-lib invocation:
 
 ```bash
-curl -X POST $GEO_SERVICE_URL/invoke   -H 'Content-Type: application/json'   -d '{"method":"definition","args":["S:G:CO"]}'
+curl -X POST https://geo-ekkis.vercel.app/invoke   -H 'Content-Type: application/json'   -d '{"method":"definition","args":["S:G:CO"]}'
 ```

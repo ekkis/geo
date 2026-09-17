@@ -25,6 +25,6 @@
   ],
   "delivery": {
     "mode": "service",
-    "url": "https://geo.example/v1/"
+    "url": "https://geo-ekkis.vercel.app/v1/"
   }
 }

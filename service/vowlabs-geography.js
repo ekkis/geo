@@ -1,5 +1,5 @@
 import { readFileSync } from 'node:fs';
-import { dirname, join, normalize, resolve } from 'node:path';
+import { dirname, join, normalize, relative, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -8,19 +8,20 @@ const ONTOLOGY_ROOT = join(ROOT, 'ontology', 'vowlabs', 'Science', 'Geography');
 const DEFINITIONS_ROOT = join(ONTOLOGY_ROOT, 'definitions');
 const DATA_ROOT = join(ONTOLOGY_ROOT, 'data');
 
-const DEFINITION_PATHS = Object.freeze({
-    'S:G': 'index.json',
-    'S:G:AD': 'Address/index.json',
-    'S:G:AD:US': 'Address/US/index.json',
-    'S:G:AD:US:PC': 'Address/US/PostalCode.json',
-    'S:G:AD:US:RG': 'Address/US/Region.json',
-    'S:G:AD:US:LOC': 'Address/US/Locality.json',
-    'S:G:AD:US:SA': 'Address/US/StreetAddress.json',
-    'S:G:AD:US:AI': 'Address/US/AdditionalInfo.json',
-    'S:G:AD:US:DI': 'Address/US/DeliveryInstructions.json',
-    'S:G:CO': 'Country/index.json',
-    'S:G:SD': 'Subdivision/index.json',
-});
+// Follow the canonical tree so served codes and files stay aligned with exports.
+function definitionPaths(code = 'S:G', path = 'index.json', ancestors = []) {
+    if (ancestors.includes(path)) throw new Error(`Cyclic definition reference: ${path}`);
+    const definition = readJson(DEFINITIONS_ROOT, path);
+    const paths = { [code]: path };
+    for (const [key, child] of Object.entries(definition.Children || {})) {
+        const childPath = relative(DEFINITIONS_ROOT,
+            resolve(DEFINITIONS_ROOT, dirname(path), child.$ref));
+        Object.assign(paths, definitionPaths(`${code}:${key}`, childPath, [...ancestors, path]));
+    }
+    return paths;
+}
+
+const DEFINITION_PATHS = Object.freeze(definitionPaths());
 
 const DATASETS = Object.freeze({
     countries: {
@@ -39,7 +40,7 @@ const DATASETS = Object.freeze({
 
 function readJson(base, relativePath) {
     const path = normalize(join(base, relativePath));
-    if (!path.startsWith(base)) throw new Error(`Invalid path: ${relativePath}`);
+    if (!path.startsWith(base + sep)) throw new Error(`Invalid path: ${relativePath}`);
     return JSON.parse(readFileSync(path, 'utf8'));
 }
 
