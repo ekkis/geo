@@ -32,7 +32,7 @@ test('Geo distinguishes repeatable values from composite datapoints', () => {
         assert.equal(service.definition(code).Collection, false, code);
         assert.equal(service.definition(code).Composite, false, code);
     }
-    assert.equal(service.manifest().requires.ontologyVersion, '10.2.0');
+    assert.equal(service.manifest().requires.ontologyVersion, '10.3.0');
 });
 
 test('Address selects Geo country formats and keeps historical US records', () => {

@@ -6,7 +6,7 @@
   "license": "MIT",
   "readme": "README.md",
   "requires": {
-    "ontologyVersion": "10.2.0",
+    "ontologyVersion": "10.3.0",
     "codes": [
       "I:P",
       "I:O",

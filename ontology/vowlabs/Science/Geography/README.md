@@ -18,11 +18,10 @@ service-url: https://geo-ekkis.vercel.app/v1/
 
 The `states` dataset name is retained for compatibility with the VowLabs Geography delegation contract. Its records cover global ISO 3166-2-backed political subdivision domains such as states, provinces, parishes, departments and districts.
 
-## Regeneration
+## Validation
 
 ```bash
-python3 scripts/export-vowlabs-ontology.py
-python3 scripts/validate-vowlabs-ontology.py
+npm run validate:vowlabs
 ```
 
 Verify every public definition and dataset endpoint after deployment:

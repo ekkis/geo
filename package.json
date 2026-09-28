@@ -43,8 +43,9 @@
     "version": "",
     "postversion": "git push --tags && npm publish",
     "debug": "node --inspect-brk eg",
-    "lint": "eslint *.js cli t/*.js test/*.mjs scripts/build-browser.js",
-    "smoke:vowlabs": "node scripts/smoke-vowlabs-service.js"
+    "lint": "eslint *.js cli t/*.js test/*.mjs scripts/*.js",
+    "smoke:vowlabs": "node scripts/smoke-vowlabs-service.js",
+    "validate:vowlabs": "node scripts/validate-vowlabs-ontology.js"
   },
   "devDependencies": {
     "eslint": "^9.32.0",

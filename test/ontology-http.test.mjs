@@ -16,7 +16,7 @@ test('Geo REST contract preserves codes, choices, paging, errors and cache heade
     };
     try {
         const snapshot = await get('/v1/catalogue');
-        assert.equal(snapshot.meta.ontologyVersion, '10.2.0');
+        assert.equal(snapshot.meta.ontologyVersion, '10.3.0');
         assert.ok(Object.values(snapshot.data.nodes).every(node => typeof node.Collection === 'boolean' && typeof node.Composite === 'boolean'));
         const address = await get('/v1/definitions/S:G:AD:US');
         assert.equal(address.data.Collection, true);
