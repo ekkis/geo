@@ -1,3 +1,14 @@
-# Registered office address
+# Registered office
 
-Address role concept for registered office address usage.
+Canonical code: `S:G:AD:RO:RG`. [Definition](index.json).
+
+The address designated as an organization’s registered office. Classification does not verify legal registration.
+
+This is a use of an address, not a postal format or geographic location. Select
+this canonical code as the value of an address Role, or reference it in generic
+tags where that relationship is appropriate. It does not assert the location
+exists or grant access to address details.
+
+No finer subclasses are currently defined. See the [Roles guide](../README.md)
+for the boundaries between uses, and [US address](../../US/README.md) for the
+record containing the constrained Role field.

@@ -12,6 +12,10 @@ const DATA_ROOT = join(ONTOLOGY_ROOT, 'data');
 function definitionPaths(code = 'S:G', path = 'index.json', ancestors = []) {
     if (ancestors.includes(path)) throw new Error(`Cyclic definition reference: ${path}`);
     const definition = readJson(DEFINITIONS_ROOT, path);
+    if (typeof definition.Collection !== 'boolean' || typeof definition.Composite !== 'boolean'
+        || (typeof definition.Scalar === 'boolean' && definition.Collection === definition.Scalar)
+        || (definition.Composite && (definition.Type || !Object.keys(definition.Children || {}).length)))
+        throw new Error(`Invalid collection/composite flags: ${code}`);
     const paths = { [code]: path };
     for (const [key, child] of Object.entries(definition.Children || {})) {
         const childPath = relative(DEFINITIONS_ROOT,
@@ -81,6 +85,8 @@ function resolveChildren(code, definition) {
         return {
             code: codeForChild,
             Name: child.Name,
+            Collection: child.Collection,
+            Composite: child.Composite,
             Description: child.Description,
             hasChildren: Boolean(child.Children && Object.keys(child.Children).length),
         };
@@ -99,6 +105,7 @@ function loadDataset(datasetId) {
     const file = readJson(DATA_ROOT, config.path);
     return {
         ...config,
+        version: file.version,
         count: Array.isArray(file.records) ? file.records.length : 0,
         records: file.records,
     };

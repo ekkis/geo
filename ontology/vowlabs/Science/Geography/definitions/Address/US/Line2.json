@@ -1,5 +1,7 @@
 {
   "Name": "Address line 2",
   "Question": "What is the second address line?",
-  "Type": "S:I:D:T:S"
+  "Type": "S:I:D:T:S",
+  "Collection": false,
+  "Composite": false
 }

@@ -1,6 +1,5 @@
 {
   "Name": "Delivery instructions",
-  "Question": "What instructions should a delivery service follow?",
   "Type": "S:I:D:T:S",
   "Collection": false,
   "Composite": false

@@ -1,12 +1,72 @@
 {
   "Name": "Address",
-  "Description": "Address formats and reusable address-use concepts. Choose a country-specific format for an address record; use Roles to constrain the Role relationship.",
+  "Description": "Postal address whose fields and display order are determined by the selected country. US records remain readable for compatibility.",
   "Children": {
     "RO": {
       "$ref": "./Roles/index.json"
     },
     "US": {
       "$ref": "./US/index.json"
+    },
+    "CO": {
+      "$ref": "./CO.json"
+    },
+    "R": {
+      "$ref": "./R.json"
+    },
+    "N": {
+      "$ref": "./N.json"
+    },
+    "O": {
+      "$ref": "./O.json"
+    },
+    "L1": {
+      "$ref": "./L1.json"
+    },
+    "D": {
+      "$ref": "./D.json"
+    },
+    "C": {
+      "$ref": "./C.json"
+    },
+    "RE": {
+      "$ref": "./RE.json"
+    },
+    "PC": {
+      "$ref": "./PC.json"
+    },
+    "SC": {
+      "$ref": "./SC.json"
+    },
+    "DI": {
+      "$ref": "./DI.json"
     }
-  }
+  },
+  "Collection": true,
+  "Composite": true,
+  "Scalar": false,
+  "Subjects": [
+    "I:P",
+    "I:O"
+  ],
+  "LabelField": "R",
+  "RequiredFields": [
+    "CO"
+  ],
+  "AddressFormat": {
+    "Dataset": "countries",
+    "CountryField": "CO",
+    "Fields": {
+      "recipient": "N",
+      "organization": "O",
+      "street-address": "L1",
+      "dependent-locality": "D",
+      "locality": "C",
+      "administrative-area": "RE",
+      "postal-code": "PC",
+      "sorting-code": "SC"
+    },
+    "DisplaySuffix": "\n{CO}\nInstructions: {DI}"
+  },
+  "DisplayFormat": "{N}\n{O}\n{L1}\n{D}\n{C} {RE} {PC}\n{SC}\n{CO}\nInstructions: {DI}"
 }

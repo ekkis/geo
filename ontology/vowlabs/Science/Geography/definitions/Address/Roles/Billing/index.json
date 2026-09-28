@@ -1,4 +1,7 @@
 {
-  "Name": "Billing address",
-  "Description": "Billing address role."
+  "Name": "Billing",
+  "Description": "The address associated with billing or invoicing. It can differ from the shipping destination.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

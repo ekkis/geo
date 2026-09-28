@@ -1,6 +1,5 @@
 {
-  "Name": "Postal code",
-  "Question": "What is the postal code?",
+  "Name": "Sorting code",
   "Type": "S:I:D:T:S",
   "Collection": false,
   "Composite": false

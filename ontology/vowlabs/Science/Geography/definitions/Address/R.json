@@ -1,0 +1,7 @@
+{
+  "Name": "Role",
+  "Type": "S:I:D:T:S",
+  "Collection": false,
+  "Composite": false,
+  "Choices": "S:G:AD:RO"
+}

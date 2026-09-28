@@ -1,4 +1,7 @@
 {
-  "Name": "Shipping address",
-  "Description": "Shipping address role."
+  "Name": "Shipping",
+  "Description": "The destination used to deliver goods or shipments.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

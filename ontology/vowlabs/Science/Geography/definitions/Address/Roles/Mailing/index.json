@@ -1,4 +1,7 @@
 {
-  "Name": "Mailing address",
-  "Description": "Mailing address role."
+  "Name": "Mailing",
+  "Description": "The destination used for correspondence, including a postal box when applicable.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

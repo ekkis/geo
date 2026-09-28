@@ -29,9 +29,9 @@ DEFINITIONS_DIR = OUT_DIR / "definitions"
 DATA_DIR = OUT_DIR / "data"
 PREFIX = "S:G"
 REPOSITORY = "https://github.com/ekkis/Geo"
-VERSION = "1.0.0"
+VERSION = "1.1.9"
 LICENSE = "MIT"
-ONTOLOGY_VERSION = "7.0.0"
+ONTOLOGY_VERSION = "10.2.0"
 SERVICE_URL = "https://geo-ekkis.vercel.app/v1/"
 COUNTRY_DEFINITION = "S:G:CO"
 SUBDIVISION_DEFINITION = "S:G:SD"
@@ -43,6 +43,9 @@ def load_json(path: Path) -> Any:
 
 
 def write_json(path: Path, data: Any) -> None:
+    if path.is_relative_to(DEFINITIONS_DIR) and isinstance(data, dict):
+        data["Collection"] = data.get("Scalar") is False
+        data["Composite"] = isinstance(data.get("Scalar"), bool) and len(data.get("Children", {})) > 1
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
@@ -126,7 +129,7 @@ def copy_existing_address_branch() -> None:
                 "CO": {"$ref": "./Country.json"},
                 "DI": {"$ref": "./DeliveryInstructions.json"},
             },
-            "DisplayFormat": "{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\n{DI}",
+            "DisplayFormat": "{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\nInstructions: {DI}",
             "DisplayOmitValues": {"CO": ["G:CO:US"]},
             "LabelField": "R",
             "Description": "Address record using the US-style postal layout. The format is distinct from the country concept G:CO:US; migration retains original country information, including non-US addresses entered through the former general form.",
@@ -161,6 +164,307 @@ def copy_existing_address_branch() -> None:
     }
     for filename, (name, question) in us_fields.items():
         files[f"Address/US/{filename}"] = {"Name": name, "Question": question, "Type": PRIMITIVE_STRING}
+
+    # Country-driven record and stable legacy compatibility definitions.
+    files.update({'Address/index.json': {'Name': 'Address',
+                            'Description': 'Postal address whose fields and display order are '
+                                           'determined by the selected country. US records remain '
+                                           'readable for compatibility.',
+                            'Children': {'RO': {'$ref': './Roles/index.json'},
+                                         'US': {'$ref': './US/index.json'},
+                                         'CO': {'$ref': './CO.json'},
+                                         'R': {'$ref': './R.json'},
+                                         'N': {'$ref': './N.json'},
+                                         'O': {'$ref': './O.json'},
+                                         'L1': {'$ref': './L1.json'},
+                                         'D': {'$ref': './D.json'},
+                                         'C': {'$ref': './C.json'},
+                                         'RE': {'$ref': './RE.json'},
+                                         'PC': {'$ref': './PC.json'},
+                                         'SC': {'$ref': './SC.json'},
+                                         'DI': {'$ref': './DI.json'}},
+                            'Collection': True,
+                            'Composite': True,
+                            'Scalar': False,
+                            'Subjects': ['I:P', 'I:O'],
+                            'LabelField': 'R',
+                            'RequiredFields': ['CO'],
+                            'AddressFormat': {'Dataset': 'countries',
+                                              'CountryField': 'CO',
+                                              'DisplaySuffix': '\n{CO}\nInstructions: {DI}',
+                                              'Fields': {'recipient': 'N',
+                                                         'organization': 'O',
+                                                         'street-address': 'L1',
+                                                         'dependent-locality': 'D',
+                                                         'locality': 'C',
+                                                         'administrative-area': 'RE',
+                                                         'postal-code': 'PC',
+                                                         'sorting-code': 'SC'}},
+                            'DisplayFormat': '{N}\n{O}\n{L1}\n{D}\n{C} {RE} {PC}\n{SC}\n{CO}\nInstructions: {DI}'},
+     'Address/R.json': {'Name': 'Role',
+                        'Type': 'S:I:D:T:S',
+                        'Collection': False,
+                        'Composite': False,
+                        'Choices': 'S:G:AD:RO'},
+     'Address/DI.json': {'Name': 'Delivery instructions',
+                         'Type': 'S:I:D:T:S',
+                         'Collection': False,
+                         'Composite': False},
+     'Address/L1.json': {'Name': 'Street address',
+                         'Type': 'S:I:D:T:S',
+                         'Collection': False,
+                         'Composite': False,
+                         'Multiline': True},
+     'Address/CO.json': {'Name': 'Country',
+                         'Type': 'S:I:D:T:S',
+                         'Collection': False,
+                         'Composite': False,
+                         'Choices': {'Dataset': 'countries'}},
+     'Address/PC.json': {'Name': 'Postal code',
+                         'Type': 'S:I:D:T:S',
+                         'Collection': False,
+                         'Composite': False},
+     'Address/D.json': {'Name': 'Dependent locality',
+                        'Type': 'S:I:D:T:S',
+                        'Collection': False,
+                        'Composite': False},
+     'Address/C.json': {'Name': 'Locality',
+                        'Type': 'S:I:D:T:S',
+                        'Collection': False,
+                        'Composite': False},
+     'Address/O.json': {'Name': 'Organization',
+                        'Type': 'S:I:D:T:S',
+                        'Collection': False,
+                        'Composite': False},
+     'Address/RE.json': {'Name': 'Administrative area',
+                         'Type': 'S:I:D:T:S',
+                         'Collection': False,
+                         'Composite': False},
+     'Address/N.json': {'Name': 'Recipient',
+                        'Type': 'S:I:D:T:S',
+                        'Collection': False,
+                        'Composite': False},
+     'Address/SC.json': {'Name': 'Sorting code',
+                         'Type': 'S:I:D:T:S',
+                         'Collection': False,
+                         'Composite': False},
+     'Address/README.md': '# Address (`S:G:AD`)\n'
+                          '\n'
+                          'A repeatable postal address for a person or organization. Label is '
+                          'application metadata and comes first; Country (`CO`) is the first answer '
+                          'and is required. Its canonical `countries` dataset ID selects '
+                          '`addressFormat`, which supplies field order, labels, requiredness, '
+                          'placeholders and postal validation. For example, US collects State and ZIP; '
+                          'GB collects Post Town and Postal without State. No country is preselected.\n'
+                          '\n'
+                          'All fields are strings: `N` recipient, `O` organization, `L1` multiline '
+                          'street address, `D` dependent locality, `C` locality, `RE` administrative '
+                          'area, `PC` postal code, `SC` sorting code, and `DI` optional delivery '
+                          'instructions. `R` references one terminal Roles concept. `RO` contains '
+                          'reusable address roles, not address answers. `US` retains the historical '
+                          'US-layout record and its field codes for existing data; new records use '
+                          '`S:G:AD`.\n'
+                          '\n'
+                          '`AddressFormat.Fields` maps Geo format field names to answer keys. Only '
+                          "fields in the selected country's format are collected, followed by optional "
+                          "Role and delivery instructions. Display uses that country's percent-token "
+                          'format plus Country and delivery instructions. Country formats with no '
+                          'postal code must not collect one. There are no further subclasses of the '
+                          'new address record. Existing US records are not rewritten, preserving '
+                          'signed facts.\n',
+     'Address/US/README.md': '# US address\n'
+                             '\n'
+                             'Canonical code: `S:G:AD:US`. [Definition](index.json).\n'
+                             '\n'
+                             'This record contains the former `S:G:AD` address fields and the US-style '
+                             'postal\n'
+                             'layout. It describes an address instance, whereas `G:CO:US` identifies '
+                             'the\n'
+                             'United States as a country. A person (`I:P`) or organization (`I:O`) can '
+                             'have\n'
+                             'multiple records, each with a stable instance ID. All fields are '
+                             'optional scalar\n'
+                             'answers; an omitted field is unanswered.\n'
+                             '\n'
+                             'The inherited form previously accepted non-US addresses. Migration '
+                             'retains\n'
+                             'those country values; the format’s name does not rewrite their '
+                             'geographic\n'
+                             'location. This release introduces neither a claim that the US layout is '
+                             'suitable\n'
+                             'for every country nor a new postal-code/state validation rule. Future '
+                             'national\n'
+                             'formats can specialize the layout without silently recategorizing '
+                             'existing data.\n'
+                             '\n'
+                             'Role is a relationship constrained by Address:Roles. Country is '
+                             'constrained by\n'
+                             'Geography:Country. Their stored values are canonical leaf codes, while '
+                             'clients\n'
+                             'display the corresponding names. Examples are `S:G:AD:RO:SH` for '
+                             'Shipping and\n'
+                             '`G:CO:US` for United States. A generic tag can reference any valid '
+                             'ontology point;\n'
+                             'it neither overrides nor implicitly supplies the Role field.\n'
+                             '\n'
+                             '## Display\n'
+                             '\n'
+                             'The default label is the Role’s human-readable name unless the record '
+                             'has an\n'
+                             'explicit label. Public presentation uses only public answers. The postal '
+                             'body is:\n'
+                             '\n'
+                             '```text\n'
+                             '{L1}\n'
+                             '{L2}\n'
+                             '{C}, {RE} {PC}\n'
+                             '{CO}\n'
+                             'Instructions: {DI}\n'
+                             '```\n'
+                             '\n'
+                             'Country `G:CO:US` is omitted from the domestic display; other countries '
+                             'display\n'
+                             'their human-readable names. Empty lines and dangling punctuation are '
+                             'omitted.\n'
+                             'These presentation rules do not rewrite stored values.\n'
+                             '\n'
+                             '## Fields\n'
+                             '\n'
+                             '### Role — `S:G:AD:US:R`\n'
+                             '\n'
+                             'What is the role of this address?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Choices reference: `S:G:AD:RO`; only '
+                             'descendant leaves are acceptable. Example: `S:G:AD:RO:BI` (Billing). '
+                             'Role is not a free-text label.\n'
+                             '\n'
+                             '[Field definition](Role.json).\n'
+                             '\n'
+                             '### Address line 1 — `S:G:AD:US:L1`\n'
+                             '\n'
+                             'What is the first address line?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Maximum length: 2000 characters. Example: '
+                             '`101 Main Street`.\n'
+                             '\n'
+                             '[Field definition](Line1.json).\n'
+                             '\n'
+                             '### Address line 2 — `S:G:AD:US:L2`\n'
+                             '\n'
+                             'What is the second address line?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Maximum length: 2000 characters. Example: '
+                             '`Apartment 4`.\n'
+                             '\n'
+                             '[Field definition](Line2.json).\n'
+                             '\n'
+                             '### City — `S:G:AD:US:C`\n'
+                             '\n'
+                             'What is the city or locality?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Maximum length: 2000 characters. Example: '
+                             '`Studio City`.\n'
+                             '\n'
+                             '[Field definition](City.json).\n'
+                             '\n'
+                             '### Region — `S:G:AD:US:RE`\n'
+                             '\n'
+                             'What is the state, province, or region?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Maximum length: 2000 characters. Example: '
+                             '`California`. This remains text, not a sourced subdivision selector.\n'
+                             '\n'
+                             '[Field definition](Region.json).\n'
+                             '\n'
+                             '### Postal code — `S:G:AD:US:PC`\n'
+                             '\n'
+                             'What is the postal code?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Maximum length: 2000 characters. Example: '
+                             '`91604`. Text preserves leading zeros; no new ZIP constraint is '
+                             'introduced.\n'
+                             '\n'
+                             '[Field definition](PostalCode.json).\n'
+                             '\n'
+                             '### Country — `S:G:AD:US:CO`\n'
+                             '\n'
+                             'What is the country?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Choices source: the `countries` dataset; '
+                             'only its record IDs are acceptable. Example: `G:CO:US` (United States). '
+                             'The country list is sourced from a pinned ekkis/geo revision.\n'
+                             '\n'
+                             '[Field definition](Country.json).\n'
+                             '\n'
+                             '### Delivery instructions — `S:G:AD:US:DI`\n'
+                             '\n'
+                             'What instructions should a delivery service follow?\n'
+                             '\n'
+                             'Type: `S:I:D:T:S` (string). Maximum length: 2000 characters. Example: '
+                             '`Use the side entrance`.\n'
+                             '\n'
+                             '[Field definition](DeliveryInstructions.json).\n'
+                             '\n'
+                             '## Earlier records\n'
+                             '\n'
+                             'The version 4.0.0 migration preserves record IDs and existing '
+                             'timestamps. Recognized Role and Country values become canonical '
+                             'references. Unrecognized custom answers are retained in `legacyAnswers` '
+                             'for review, not silently accepted as current choices. Signed statements '
+                             'remain byte-for-byte unchanged and are validated against archived '
+                             'definitions. See the [migration '
+                             'guide](../../../README.md#address-migration).\n'
+                             '\n'
+                             '## Repeatability and composite values\n'
+                             '\n'
+                             'Every definition declares two independent booleans. `Collection: true` '
+                             'means\n'
+                             'repeatable values (a vector), not merely a branch with children. '
+                             '`Composite: true`\n'
+                             'means the constituent datapoints are entered together as one value. A US '
+                             'address\n'
+                             'has both flags: a person can have many addresses, and each address keeps '
+                             'its\n'
+                             'street, city, region, postal code and country together. Its fields have '
+                             'both\n'
+                             'flags false and are not independently selectable values in the wallet '
+                             'editor.\n'
+                             'Organizing branches, roles and reference-dataset definitions have both '
+                             'flags\n'
+                             'false. Dataset rows and node children do not imply vector cardinality.\n'
+                             '\n'
+                             'The schema targets ontology 10.2.0. Existing Geography codes, values and '
+                             'record\n'
+                             'IDs remain unchanged. Email in Identity is the contrasting example: '
+                             'repeatable\n'
+                             'but non-composite, so a user can enter one email without unrelated '
+                             'fields.\n'
+                             '\n'
+                             'Legacy record retained for existing answers and attestations. New '
+                             'addresses use parent `S:G:AD` with Country selected first.\n',
+     'Address/US/index.json': {'Name': 'US address',
+                               'Scalar': False,
+                               'Subjects': ['I:P', 'I:O'],
+                               'Children': {'R': {'$ref': './Role.json'},
+                                            'L1': {'$ref': './Line1.json'},
+                                            'L2': {'$ref': './Line2.json'},
+                                            'C': {'$ref': './City.json'},
+                                            'RE': {'$ref': './Region.json'},
+                                            'PC': {'$ref': './PostalCode.json'},
+                                            'CO': {'$ref': './Country.json'},
+                                            'DI': {'$ref': './DeliveryInstructions.json'}},
+                               'DisplayFormat': '{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\nInstructions: {DI}',
+                               'DisplayOmitValues': {'CO': ['G:CO:US']},
+                               'LabelField': 'R',
+                               'Description': 'Address record using the US-style postal layout. The '
+                                              'format is distinct from the country concept G:CO:US; '
+                                              'migration retains original country information, '
+                                              'including non-US addresses entered through the former '
+                                              'general form.',
+                               'Country': 'G:CO:US',
+                               'Collection': True,
+                               'Composite': True,
+                               'Legacy': True}})
 
     for rel, data in files.items():
         path = DEFINITIONS_DIR / rel
@@ -244,6 +548,7 @@ def export_countries() -> dict[str, Any]:
             ("gdp", "gdp"),
             ("neighbour-codes", "neighbourCodes"),
             ("division-hierarchy", "divisionHierarchy"),
+            ("address-format", "addressFormat"),
         ]:
             if source_key in data:
                 record[target_key] = data[source_key]

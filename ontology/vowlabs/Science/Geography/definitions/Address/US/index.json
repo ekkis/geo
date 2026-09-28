@@ -31,7 +31,7 @@
       "$ref": "./DeliveryInstructions.json"
     }
   },
-  "DisplayFormat": "{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\n{DI}",
+  "DisplayFormat": "{L1}\n{L2}\n{C}, {RE} {PC}\n{CO}\nInstructions: {DI}",
   "DisplayOmitValues": {
     "CO": [
       "G:CO:US"
@@ -39,5 +39,8 @@
   },
   "LabelField": "R",
   "Description": "Address record using the US-style postal layout. The format is distinct from the country concept G:CO:US; migration retains original country information, including non-US addresses entered through the former general form.",
-  "Country": "G:CO:US"
+  "Country": "G:CO:US",
+  "Collection": true,
+  "Composite": true,
+  "Legacy": true
 }

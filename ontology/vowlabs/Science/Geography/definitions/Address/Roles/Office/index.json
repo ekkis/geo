@@ -1,4 +1,7 @@
 {
-  "Name": "Office address",
-  "Description": "Office address role."
+  "Name": "Office",
+  "Description": "A place used for work or business operations. It need not be an organization’s legally registered office.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

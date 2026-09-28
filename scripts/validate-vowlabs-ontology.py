@@ -86,6 +86,12 @@ def validate_definition_tree(errors: list[str]) -> None:
             fail(errors, f"root definition missing child {code}")
     for json_path in (OUT_DIR / "definitions").rglob("*.json"):
         data = load(json_path)
+        if not isinstance(data.get("Collection"), bool) or not isinstance(data.get("Composite"), bool):
+            fail(errors, f"{json_path.relative_to(OUT_DIR)} requires boolean Collection and Composite")
+        if isinstance(data.get("Scalar"), bool) and data.get("Collection") == data["Scalar"]:
+            fail(errors, f"{json_path.relative_to(OUT_DIR)} Collection must be the inverse of Scalar")
+        if data.get("Composite") and (data.get("Type") or not data.get("Children")):
+            fail(errors, f"{json_path.relative_to(OUT_DIR)} invalid composite value")
         if "Name" not in data:
             fail(errors, f"{json_path.relative_to(OUT_DIR)} missing Name")
 

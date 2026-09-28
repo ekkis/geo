@@ -1,0 +1,7 @@
+{
+  "Name": "Street address",
+  "Type": "S:I:D:T:S",
+  "Collection": false,
+  "Composite": false,
+  "Multiline": true
+}

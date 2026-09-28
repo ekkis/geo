@@ -1,30 +1,32 @@
 {
   "Name": "Roles",
-  "Description": "Reusable address role concepts.",
+  "Description": "Ways in which an address is used. The terminal concepts are canonical values for address Role fields and can also be referenced by generic tags.",
   "Children": {
-    "B": {
-      "$ref": "./Billing/index.json"
-    },
-    "M": {
-      "$ref": "./Mailing/index.json"
-    },
-    "O": {
-      "$ref": "./Office/index.json"
-    },
-    "P": {
-      "$ref": "./Pickup/index.json"
-    },
-    "R": {
+    "RE": {
       "$ref": "./Residence/index.json"
     },
-    "RO": {
+    "OF": {
+      "$ref": "./Office/index.json"
+    },
+    "RG": {
       "$ref": "./RegisteredOffice/index.json"
+    },
+    "SH": {
+      "$ref": "./Shipping/index.json"
+    },
+    "BI": {
+      "$ref": "./Billing/index.json"
+    },
+    "MA": {
+      "$ref": "./Mailing/index.json"
     },
     "RT": {
       "$ref": "./Returns/index.json"
     },
-    "S": {
-      "$ref": "./Shipping/index.json"
+    "PU": {
+      "$ref": "./Pickup/index.json"
     }
-  }
+  },
+  "Collection": false,
+  "Composite": false
 }

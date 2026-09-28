@@ -1,4 +1,7 @@
 {
-  "Name": "Residence address",
-  "Description": "Residence address role."
+  "Name": "Residence",
+  "Description": "Where a person lives. A residence may also be used for billing or shipping; this role describes residential use.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

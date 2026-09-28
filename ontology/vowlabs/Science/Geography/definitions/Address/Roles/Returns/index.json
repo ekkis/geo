@@ -1,4 +1,7 @@
 {
-  "Name": "Returns address",
-  "Description": "Returns address role."
+  "Name": "Returns",
+  "Description": "The destination designated to receive returned goods.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

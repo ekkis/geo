@@ -2,11 +2,11 @@
   "formatVersion": 1,
   "repository": "https://github.com/ekkis/Geo",
   "prefix": "S:G",
-  "version": "1.0.0",
+  "version": "1.1.9",
   "license": "MIT",
   "readme": "README.md",
   "requires": {
-    "ontologyVersion": "7.0.0",
+    "ontologyVersion": "10.2.0",
     "codes": [
       "I:P",
       "I:O",

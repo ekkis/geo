@@ -1,0 +1,9 @@
+{
+  "Name": "Country",
+  "Type": "S:I:D:T:S",
+  "Collection": false,
+  "Composite": false,
+  "Choices": {
+    "Dataset": "countries"
+  }
+}

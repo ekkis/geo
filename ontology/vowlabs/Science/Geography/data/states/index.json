@@ -3,7 +3,7 @@
   "name": "Political subdivisions",
   "description": "ISO 3166-2-backed first-level and special political subdivision records. The dataset id remains `states` for VowLabs delegation compatibility.",
   "definitionCode": "S:G:SD",
-  "version": 1,
+  "version": 2,
   "license": "MIT",
   "provenance": "Derived from ekkis/geo data/country/{ISO2}.{domain}.json ISO 3166-2-backed political subdivision files.",
   "records": [

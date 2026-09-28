@@ -63,3 +63,49 @@ Example remote-lib invocation:
 ```bash
 curl -X POST https://geo-ekkis.vercel.app/invoke   -H 'Content-Type: application/json'   -d '{"method":"definition","args":["S:G:CO"]}'
 ```
+
+## Ontology proxy compatibility
+
+The `/v1/` HTTP API uses `{data, meta}` envelopes for ontology version 8.2.0.
+Definitions contain `Code`, canonical `Children` codes, reference URNs and `/v1/`
+links. Role choices retain the established `S:G:AD:RO` leaf codes and Country
+uses the `countries` dataset. These constraints preserve VowLabs stored records.
+
+Lookup, immediate children, choices, mixed/scoped definition listings, dataset
+metadata and records support the Ontology request contract. Search uses `q`;
+listings default to 50 rows and accept `limit` up to 200 and nonnegative `offset`.
+GET/HEAD/OPTIONS, public CORS, conditional ETags, and meaningful 400/404 errors
+are supported. The existing remote-lib `/invoke` methods retain their raw return
+format; only the `/v1/` HTTP surface uses the standard envelope.
+
+`/v1/catalogue` exports this branch and its datasets for an explicit offline
+snapshot. It does not contain any parent-owned Identity or Science definitions.
+Country record IDs stay `G:CO:XX`; subdivision IDs include `US-CA`. The global
+states dataset is version 2. Historical ontology codes and signed values are
+not rewritten. Geo contains all authoritative files; Ontology only proxies them.
+
+Local `npm start` honors `PORT` and `GEO_BIND_HOST`. Development defaults to
+`0.0.0.0`; `NODE_ENV=production` defaults to `127.0.0.1` and rejects non-loopback
+bind overrides. Vercel uses `api/index.js` directly. To publish the updated API:
+
+```sh
+cd ~/dev/Geo
+npx vercel --prod
+```
+
+Publish Geo before deploying an Ontology release requiring its new API.
+
+## Repeatability and composite values
+
+Every definition declares two independent booleans. `Collection: true` means
+repeatable values (a vector), not merely a branch with children. `Composite: true`
+means the constituent datapoints are entered together as one value. A US address
+has both flags: a person can have many addresses, and each address keeps its
+street, city, region, postal code and country together. Its fields have both
+flags false and are not independently selectable values in the wallet editor.
+Organizing branches, roles and reference-dataset definitions have both flags
+false. Dataset rows and node children do not imply vector cardinality.
+
+The schema targets ontology 10.2.0. Existing Geography codes, values and record
+IDs remain unchanged. Email in Identity is the contrasting example: repeatable
+but non-composite, so a user can enter one email without unrelated fields.

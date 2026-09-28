@@ -1,4 +1,7 @@
 {
-  "Name": "Pickup address",
-  "Description": "Pickup address role."
+  "Name": "Pickup",
+  "Description": "A location where goods or an order can be collected.",
+  "Children": {},
+  "Collection": false,
+  "Composite": false
 }

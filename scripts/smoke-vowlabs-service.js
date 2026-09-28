@@ -85,41 +85,41 @@ assert.equal(response.body.result.Name, 'Country');
 
 response = await call('GET', '/v1/definitions/S%3AG/children');
 assert.equal(response.status, 200);
-assert.deepEqual(response.body.map(item => item.code).sort(), ['S:G:AD', 'S:G:CO', 'S:G:SD']);
+assert.deepEqual(response.body.data.map(item => item.Code).sort(), ['S:G:AD', 'S:G:CO', 'S:G:SD']);
 
 response = await call('GET', '/v1/datasets/countries/records?limit=1');
 assert.equal(response.status, 200);
-assert.equal(response.body.records.length, 1);
-assert.equal(response.body.records[0].definitionCode, 'S:G:CO');
+assert.equal(response.body.data.length, 1);
+assert.equal(response.body.data[0].definitionCode, 'S:G:CO');
 
 response = await call('GET', '/v1/datasets/states/records/US-CA');
 assert.equal(response.status, 200);
-assert.equal(response.body.id, 'US-CA');
+assert.equal(response.body.data.id, 'US-CA');
 
 response = await call('POST', '/invoke', { method: 'country', args: ['G:CO:US'] });
 assert.equal(response.status, 200);
 assert.equal(response.body.result.iso2, 'US');
 
 response = await call('GET', '/v1/manifest');
-assert.equal(response.body.delivery.url, 'https://geo-ekkis.vercel.app/v1/');
+assert.equal(response.body.data.delivery.url, 'https://geo-ekkis.vercel.app/v1/');
 
 // Exercise every advertised definition and child route, including address roles.
 for (const definition of service.definitions()) {
     const path = `/v1/definitions/${encodeURIComponent(definition.code)}`;
     response = await call('GET', path);
     assert.equal(response.status, 200);
-    assert.equal(response.body.Name, definition.Name);
+    assert.equal(response.body.data.Name, definition.Name);
     response = await call('GET', `${path}/children`);
     assert.equal(response.status, 200);
-    assert.deepEqual(response.body.map(child => child.code).sort(),
+    assert.deepEqual(response.body.data.map(child => child.Code).sort(),
         Object.keys(definition.Children || {}).map(key => `${definition.code}:${key}`).sort());
 }
 
 for (const dataset of service.manifest().datasets) {
     response = await call('GET', `/v1/datasets/${dataset.id}`);
     assert.equal(response.status, 200);
-    assert.equal(response.body.definitionCode, dataset.definitionCode);
-    assert.equal(response.body.count, service.dataset(dataset.id).count);
+    assert.equal(response.body.data.definitionCode, dataset.definitionCode);
+    assert.equal(response.body.data.count, service.dataset(dataset.id).count);
 }
 
 console.log(`VowLabs service smoke test passed (${liveOrigin || 'local handler'})`);

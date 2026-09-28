@@ -1,3 +1,12 @@
-# Country (`S:G:CO`)
+# Country
 
-A country or country-like territory used as a geographic location or jurisdiction. Instances are delivered by the `countries` dataset. Country dataset IDs use the stable `G:CO:{ISO2}` form, such as `G:CO:US`.
+Canonical code: `S:G:CO`. [Definition](index.json).
+
+A country or territory is a geographic entity used to situate an address, identify
+an issuing jurisdiction, or describe origin. This concept is separate from the
+postal format used in that place and does not adjudicate sovereignty.
+
+Named places and ISO identifiers live in the [countries dataset](../../data/countries/README.md).
+Country-valued fields use `Choices: {"Dataset":"countries"}`. IDs such as
+`G:CO:US` retain their historic spelling for existing answers; they are dataset
+identifiers, not active ontology codes. No finer subclasses are defined.
